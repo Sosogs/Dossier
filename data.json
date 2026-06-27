@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-06-24T20:25:04.164Z",
+  "count": 3,
+  "categories": [
+    "Foreign affairs",
+    "National defence",
+    "Culture & heritage",
+    "Economy",
+    "Intergovernmental affairs",
+    "Healthcare",
+    "Education",
+    "Sustainable development",
+    "Infrastructure",
+    "Housing",
+    "Natural resources",
+    "Wildlife",
+    "Animal welfare",
+    "Transportation",
+    "Indigenous services",
+    "Justice",
+    "Finance",
+    "Innovation, science & industry",
+    "Public safety"
+  ],
+  "types": [
+    "Bill",
+    "Regulation",
+    "Order in council",
+    "Spending",
+    "Appointment",
+    "International agreement",
+    "Commons vote",
+    "Report",
+    "Announcement"
+  ],
+  "items": [
+    {
+      "kind": "official",
+      "type": "Announcement",
+      "cat": "Intergovernmental affairs",
+      "date": "2026-06-24",
+      "src": "Editor",
+      "url": "#",
+      "title": "Editor's note: how a custom entry looks",
+      "sum": "This entry was written by hand in custom-posts.json, not pulled from a feed. Use this for moves you want logged that no feed surfaces cleanly — or to publish your own plain-language write-up of a complex action.",
+      "id": "36dff317b23989bb"
+    },
+    {
+      "id": "005912fdf2607843",
+      "date": "2026-06-23",
+      "src": "Sample department",
+      "url": "https://www.canada.ca/en/news/sample-1.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government introduces legislation to expand rental housing financing",
+      "sum": "The Minister tabled a bill that would establish a federal fund to finance the construction of new rental housing, prioritizing units near public transit.",
+      "cat": "Housing"
+    },
+    {
+      "id": "a6ba167244d27377",
+      "date": "2026-06-22",
+      "src": "Sample department",
+      "url": "https://gazette.gc.ca/sample-2.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "New regulations on greenhouse-gas reporting published",
+      "sum": "Regulations require large industrial facilities to report emissions on a stricter schedule beginning in 2027.",
+      "cat": "Sustainable development"
+    }
+  ]
+}

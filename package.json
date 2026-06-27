@@ -1,0 +1,14 @@
+{
+  "name": "dossier",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "ingest": "node ingest.mjs",
+    "ingest:no-ai": "node ingest.mjs --no-ai",
+    "test:offline": "node ingest.mjs --test --no-ai"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "Edit this file to change the categories and action types. Both the website and the data pipeline read it. Keep the quotes and commas; don't put a comma after the last item in a list.",
+  "categories": [
+    "Foreign affairs",
+    "National defence",
+    "Culture & heritage",
+    "Economy",
+    "Intergovernmental affairs",
+    "Healthcare",
+    "Education",
+    "Sustainable development",
+    "Infrastructure",
+    "Housing",
+    "Natural resources",
+    "Wildlife",
+    "Animal welfare",
+    "Transportation",
+    "Indigenous services",
+    "Justice",
+    "Finance",
+    "Innovation, science & industry",
+    "Public safety"
+  ],
+  "types": [
+    "Bill",
+    "Regulation",
+    "Order in council",
+    "Spending",
+    "Appointment",
+    "International agreement",
+    "Commons vote",
+    "Report",
+    "Announcement"
+  ]
+}

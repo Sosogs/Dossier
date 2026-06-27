@@ -1,0 +1,487 @@
+<!--
+  DOSSIER — prototype
+  Non-partisan tracker of government actions ("moves"), categorized and
+  written in plain language. Front-end + a live AI enrichment desk that
+  stands in for the backend ingestion/summarization pipeline.
+  Sample data is illustrative placeholder content (clearly labelled).
+-->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+  :root{
+    --bg:#06070f;
+    --ink:#edeff7;
+    --muted:#8c90a8;
+    --faint:#5b5f78;
+    --glass:rgba(255,255,255,.045);
+    --glass-strong:rgba(255,255,255,.07);
+    --line:rgba(255,255,255,.09);
+    --line-strong:rgba(255,255,255,.16);
+    --cyan:#5fd0ff;
+    --violet:#9a7cff;
+    --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    font-family:var(--sans);
+    color:var(--ink);
+    background:
+      radial-gradient(900px 600px at 12% -8%, rgba(154,124,255,.22), transparent 60%),
+      radial-gradient(1000px 700px at 92% 4%, rgba(95,208,255,.16), transparent 55%),
+      radial-gradient(900px 800px at 70% 110%, rgba(214,92,200,.14), transparent 55%),
+      var(--bg);
+    background-attachment:fixed;
+    min-height:100vh;
+    -webkit-font-smoothing:antialiased;
+    line-height:1.5;
+  }
+  a{color:inherit}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+
+  /* ---- nav ---- */
+  .nav{display:flex;align-items:center;justify-content:space-between;padding:22px 0 8px}
+  .brand{display:flex;align-items:center;gap:11px;font-weight:700;letter-spacing:.14em;font-size:15px}
+  .brand .mark{width:22px;height:22px;border-radius:6px;
+    background:conic-gradient(from 200deg,var(--violet),var(--cyan),#d65cc8,var(--violet));
+    box-shadow:0 0 18px rgba(95,208,255,.5)}
+  .nav-links{display:flex;align-items:center;gap:26px;font-size:13.5px;color:var(--muted)}
+  .nav-links span{cursor:default}
+  .nav-links button{font-family:var(--sans);font-size:13.5px;color:var(--ink);background:none;border:none;cursor:pointer;padding:0;border-bottom:1px solid transparent}
+  .nav-links button:hover{border-bottom-color:var(--cyan)}
+  .nav-cta{font-family:var(--mono);font-size:12px;color:var(--cyan);border:1px solid var(--line-strong);
+    padding:8px 14px;border-radius:999px;background:var(--glass)}
+
+  /* ---- hero ---- */
+  .eyebrow{display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:11px;
+    letter-spacing:.18em;color:var(--cyan);border:1px solid var(--line);border-radius:999px;
+    padding:6px 12px;background:var(--glass);margin:54px 0 22px}
+  .eyebrow .dot{width:6px;height:6px;border-radius:50%;background:var(--cyan);box-shadow:0 0 10px var(--cyan)}
+  h1{font-size:clamp(38px,6.4vw,76px);line-height:.98;letter-spacing:-.025em;font-weight:800;margin:0;max-width:14ch}
+  h1 .grad{background:linear-gradient(110deg,#fff 8%,var(--cyan) 48%,var(--violet) 92%);
+    -webkit-background-clip:text;background-clip:text;color:transparent}
+  .lede{color:var(--muted);font-size:clamp(15px,1.7vw,18.5px);max-width:62ch;margin:22px 0 0}
+  .metrics{display:flex;flex-wrap:wrap;gap:14px;margin:34px 0 8px}
+  .metric{flex:1;min-width:150px;border:1px solid var(--line);background:var(--glass);
+    backdrop-filter:blur(8px);border-radius:14px;padding:16px 18px}
+  .metric .n{font-size:26px;font-weight:750;letter-spacing:-.02em}
+  .metric .l{font-family:var(--mono);font-size:11px;letter-spacing:.12em;color:var(--faint);text-transform:uppercase;margin-top:3px}
+
+  .demo-note{margin:26px 0 0;font-family:var(--mono);font-size:11.5px;color:var(--faint);
+    border-left:2px solid rgba(214,92,200,.55);padding-left:11px}
+
+  /* ---- toolbar ---- */
+  .toolbar{position:sticky;top:0;z-index:20;margin:46px 0 0;padding:16px 0 14px;
+    background:linear-gradient(180deg,rgba(6,7,15,.92),rgba(6,7,15,.55));
+    backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+  .search-row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+  .search{flex:1;min-width:230px;display:flex;align-items:center;gap:9px;border:1px solid var(--line-strong);
+    background:var(--glass);border-radius:11px;padding:11px 14px}
+  .search input{flex:1;background:none;border:none;outline:none;color:var(--ink);font-size:14.5px;font-family:var(--sans)}
+  .search input::placeholder{color:var(--faint)}
+  .search svg{flex:none}
+  select.type{border:1px solid var(--line-strong);background:var(--glass);color:var(--ink);
+    border-radius:11px;padding:11px 13px;font-size:13.5px;font-family:var(--sans);outline:none;cursor:pointer}
+  select.type option{background:#0c0e1c;color:var(--ink)}
+  .chips{display:flex;gap:8px;overflow-x:auto;padding:14px 1px 3px;scrollbar-width:thin}
+  .chip{flex:none;cursor:pointer;border:1px solid var(--line);background:transparent;color:var(--muted);
+    font-size:12.5px;border-radius:999px;padding:7px 13px;white-space:nowrap;display:flex;align-items:center;gap:7px;
+    transition:border-color .15s,color .15s,background .15s}
+  .chip:hover{color:var(--ink);border-color:var(--line-strong)}
+  .chip .cd{width:7px;height:7px;border-radius:50%}
+  .chip.active{color:#06070f;background:var(--ink);border-color:var(--ink);font-weight:600}
+  .chip.active .cd{box-shadow:0 0 0 2px rgba(6,7,15,.25)}
+
+  /* ---- feed ---- */
+  .count{font-family:var(--mono);font-size:11.5px;letter-spacing:.1em;color:var(--faint);
+    text-transform:uppercase;margin:22px 0 14px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;padding-bottom:30px}
+  .card{border:1px solid var(--line);background:var(--glass);backdrop-filter:blur(8px);
+    border-radius:16px;padding:18px 19px 17px;display:flex;flex-direction:column;gap:11px;
+    transition:border-color .18s,transform .18s}
+  .card:hover{border-color:var(--line-strong);transform:translateY(-2px)}
+  .rec{font-family:var(--mono);font-size:11px;letter-spacing:.04em;color:var(--faint);
+    display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+  .rec .type{color:var(--cyan);border:1px solid rgba(95,208,255,.3);border-radius:5px;padding:1px 7px}
+  .rec .sep{opacity:.5}
+  .cat{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;font-weight:600;align-self:flex-start;
+    border-radius:999px;padding:4px 11px 4px 9px}
+  .cat .cd{width:8px;height:8px;border-radius:50%}
+  .card h3{margin:1px 0 0;font-size:17px;line-height:1.3;letter-spacing:-.01em;font-weight:680}
+  .card p{margin:0;color:var(--muted);font-size:14px;line-height:1.55}
+  .card .excerpt{border-left:2px solid var(--line-strong);padding-left:12px;color:#b9bcd0;font-style:italic}
+  .src{margin-top:auto;padding-top:9px;display:flex;align-items:center;justify-content:space-between;
+    gap:10px;border-top:1px solid var(--line)}
+  .src .from{font-family:var(--mono);font-size:11px;color:var(--faint)}
+  .src .badge{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;
+    border-radius:4px;padding:2px 6px}
+  .badge.official{color:#7ee0c0;background:rgba(126,224,192,.1)}
+  .badge.news{color:#ffc46b;background:rgba(255,196,107,.1)}
+  .src a{font-size:12.5px;color:var(--cyan);text-decoration:none;white-space:nowrap}
+  .src a:hover{text-decoration:underline}
+  .empty{grid-column:1/-1;text-align:center;color:var(--faint);font-family:var(--mono);
+    font-size:13px;padding:50px 0;border:1px dashed var(--line);border-radius:16px}
+
+  /* ---- desk ---- */
+  .desk{margin:34px 0 60px;border:1px solid var(--line-strong);border-radius:20px;overflow:hidden;
+    background:linear-gradient(180deg,rgba(154,124,255,.07),var(--glass))}
+  .desk-head{padding:22px 24px 4px}
+  .desk-head .kicker{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:var(--violet);text-transform:uppercase}
+  .desk-head h2{margin:9px 0 6px;font-size:23px;letter-spacing:-.015em}
+  .desk-head p{margin:0;color:var(--muted);font-size:14px;max-width:74ch}
+  .desk-body{padding:16px 24px 24px;display:flex;flex-direction:column;gap:13px}
+  textarea{width:100%;min-height:118px;resize:vertical;border:1px solid var(--line-strong);background:rgba(0,0,0,.25);
+    color:var(--ink);border-radius:12px;padding:14px 15px;font-size:14px;font-family:var(--sans);outline:none;line-height:1.55}
+  textarea::placeholder{color:var(--faint)}
+  .desk-actions{display:flex;gap:11px;align-items:center;flex-wrap:wrap}
+  button.run{cursor:pointer;border:none;border-radius:999px;padding:11px 20px;font-size:14px;font-weight:650;
+    color:#04121d;background:linear-gradient(100deg,var(--cyan),#8ad9ff);box-shadow:0 6px 22px rgba(95,208,255,.28)}
+  button.run:disabled{opacity:.5;cursor:default;box-shadow:none}
+  button.ghost{cursor:pointer;border:1px solid var(--line-strong);background:transparent;color:var(--muted);
+    border-radius:999px;padding:11px 16px;font-size:13px}
+  .hint{font-family:var(--mono);font-size:11px;color:var(--faint)}
+  .result{border:1px solid var(--line);background:var(--glass);border-radius:14px;padding:16px 17px;
+    display:flex;flex-direction:column;gap:10px}
+  .result.err{border-color:rgba(255,140,140,.4)}
+  .result .msg{color:#ff9d9d;font-size:13.5px}
+  .add{align-self:flex-start;cursor:pointer;border:1px solid rgba(126,224,192,.4);color:#7ee0c0;
+    background:rgba(126,224,192,.08);border-radius:999px;padding:8px 15px;font-size:12.5px;font-weight:600}
+
+  footer{border-top:1px solid var(--line);padding:30px 0 60px;color:var(--faint);font-size:12.5px}
+  footer b{color:var(--muted);font-weight:600}
+  footer .meth{max-width:78ch;line-height:1.7}
+
+  /* ---- about dialog ---- */
+  dialog#aboutModal{border:none;padding:0;background:transparent;max-width:620px;width:92vw;color:var(--ink)}
+  dialog#aboutModal::backdrop{background:rgba(4,5,12,.66);backdrop-filter:blur(6px)}
+  .about-panel{border:1px solid var(--line-strong);border-radius:20px;padding:30px 32px 26px;
+    background:linear-gradient(180deg,rgba(154,124,255,.12),rgba(10,12,26,.96));
+    box-shadow:0 30px 80px rgba(0,0,0,.5)}
+  .about-panel .kicker{font-family:var(--mono);font-size:11px;letter-spacing:.18em;color:var(--cyan);text-transform:uppercase}
+  .about-panel h2{margin:11px 0 16px;font-size:27px;letter-spacing:-.02em;line-height:1.1}
+  .about-panel p{margin:0 0 14px;color:#c7cadb;font-size:15px;line-height:1.65}
+  .about-panel p.lead{color:var(--ink);font-size:16px}
+  .about-panel .sign{font-family:var(--mono);font-size:12px;color:var(--faint);margin-top:18px}
+  .about-close{position:absolute;top:18px;right:20px;cursor:pointer;border:1px solid var(--line-strong);
+    background:var(--glass);color:var(--muted);border-radius:999px;width:32px;height:32px;font-size:16px;line-height:1}
+  .about-wrap{position:relative}
+
+  @media (max-width:620px){
+    .nav-links{display:none}
+    h1{font-size:42px}
+    .metric{min-width:calc(50% - 7px)}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto}}
+  :focus-visible{outline:2px solid var(--cyan);outline-offset:2px;border-radius:4px}
+</style>
+
+<div class="wrap">
+  <nav class="nav">
+    <div class="brand"><span class="mark"></span> DOSSIER</div>
+    <div class="nav-links"><span>The record</span><span>Categories</span><span>Sources</span><button id="aboutBtn">About</button></div>
+    <div class="nav-cta">EN · FR</div>
+  </nav>
+
+  <div class="eyebrow"><span class="dot"></span> NON-PARTISAN GOVERNMENT RECORD</div>
+  <h1>Every move,<br><span class="grad">on the record.</span></h1>
+  <p class="lede">A neutral, searchable log of what the federal government actually does — bills, regulations, orders, spending, appointments and announcements — each written in plain language and linked to its source. Not opinion. Not a scorecard. The actions themselves.</p>
+
+  <div class="metrics">
+    <div class="metric"><div class="n" id="m-actions">—</div><div class="l">Actions logged</div></div>
+    <div class="metric"><div class="n" id="m-cats">—</div><div class="l">Policy areas</div></div>
+    <div class="metric"><div class="n">37</div><div class="l">Sources tracked</div></div>
+    <div class="metric"><div class="n">Daily</div><div class="l">Refresh cadence</div></div>
+  </div>
+
+  <p class="demo-note">Prototype. Entries below are illustrative placeholders to show structure and tone — not real reporting. Source links point to each source's home, not to fabricated articles.</p>
+
+  <!-- toolbar -->
+  <div class="toolbar">
+    <div class="search-row">
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8c90a8" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input id="q" type="text" placeholder="Search the record…" aria-label="Search actions" />
+      </label>
+      <select class="type" id="typeSel" aria-label="Filter by action type"></select>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <div class="count" id="count"></div>
+  <div class="grid" id="grid"></div>
+
+  <!-- enrichment desk -->
+  <section class="desk">
+    <div class="desk-head">
+      <div class="kicker">Plain-language desk · live</div>
+      <h2>Turn a dense government document into a readable entry</h2>
+      <p>This is the backend enrichment layer, running live. Paste raw text — an order-in-council, a bill summary, a Gazette notice, a news release — and it returns a plain-language headline and summary, picks a category and an action type, and drops a finished card into the feed above. In production this same step runs automatically over the ingested sources.</p>
+    </div>
+    <div class="desk-body">
+      <textarea id="raw" placeholder="Paste something dense here. e.g. 'His Excellency the Governor General in Council, on the recommendation of the Minister of Finance, pursuant to subsection 19(1) of the…' — and watch it become readable."></textarea>
+      <div class="desk-actions">
+        <button class="run" id="run">Translate to plain language</button>
+        <button class="ghost" id="sample">Insert sample text</button>
+        <span class="hint" id="hint">Uses the live model in this artifact. Core feed works without it.</span>
+      </div>
+      <div id="out"></div>
+    </div>
+  </section>
+
+  <footer>
+    <p class="meth"><b>How this works.</b> Official records (Parliament, the Canada Gazette, orders-in-council, departmental releases, PBO and Library of Parliament reports) are summarized in plain language and linked. Journalism appears as headline + short excerpt + a link out to the original, never the full article. Items are logged as <b>actions</b>, not as promises kept or broken, and categorized by policy area. Neutrality lives in the wording: summaries describe what was done, not whether it was good.</p>
+    <p style="margin-top:16px">DOSSIER — working name · prototype · bilingual EN/FR planned</p>
+  </footer>
+</div>
+
+<!-- ====================================================================== -->
+<!-- ABOUT TEXT — to change the mission wording, edit between the markers   -->
+<!-- below (or just ask Claude to update it).                               -->
+<!-- ====================================================================== -->
+<dialog id="aboutModal">
+  <div class="about-wrap">
+    <button class="about-close" id="aboutClose" aria-label="Close">×</button>
+    <div class="about-panel">
+      <div class="kicker">Why this exists</div>
+      <h2>A record, so you don&rsquo;t have to remember.</h2>
+      <!-- ABOUT-START -->
+      <p class="lead">We carry a feeling about a government long after we&rsquo;ve forgotten what built it. Decisions and headlines arrive every single day; the impression settles in, but the specifics slip away. By the time it matters most &mdash; the next time you vote &mdash; you remember the mood, not the record.</p>
+      <p>Dossier is a data keeper. It gathers, in one place and in plain language, the actual moves a government makes &mdash; the bills, regulations, appointments, spending and announcements &mdash; each one filed by topic and linked to its source, so you can look back at the evidence instead of relying on memory.</p>
+      <p>Because democracy isn&rsquo;t only choosing a party and then stepping back to let them lead. It&rsquo;s watching what they do in between &mdash; steadily, on the record &mdash; so that the next choice you make is a genuinely informed one. That only works if the facts are at your fingertips, not reassembled from memory under pressure.</p>
+      <p>Life is full, and the demands on your attention are real. No one has time to track every decision. This is meant to carry that weight for you: a tool to help you gauge, not a test of what you can recall. Come back whenever you want to check the record.</p>
+      <!-- ABOUT-END -->
+      <p class="sign">It takes no side. It keeps the record.</p>
+    </div>
+  </div>
+</dialog>
+
+<script>
+const DEFAULT_CATEGORIES = ["Foreign affairs","National defence","Culture & heritage","Economy","Intergovernmental affairs","Healthcare","Education","Sustainable development","Infrastructure","Housing","Natural resources","Wildlife","Animal welfare","Transportation","Indigenous services","Justice","Finance","Innovation, science & industry","Public safety"];
+const DEFAULT_TYPES = ["Bill","Regulation","Order in council","Spending","Appointment","International agreement","Commons vote","Report","Announcement"];
+let CATEGORIES = DEFAULT_CATEGORIES.slice();
+let TYPES = DEFAULT_TYPES.slice();
+let CAT_HUE = {};
+function computeHues(){ CAT_HUE = Object.fromEntries(CATEGORIES.map((n,i)=>[n, Math.round((i*360/Math.max(CATEGORIES.length,1)+12)%360)])); }
+const catColor = n => `hsl(${CAT_HUE[n] ?? 230} 72% 64%)`;
+
+// Illustrative placeholder records (not real reporting).
+const SEED = [
+  {date:"2026-06-23",type:"Bill",cat:"Housing",kind:"official",src:"LEGISinfo",url:"https://www.parl.ca/legisinfo/",
+   title:"Bill to create a federal rental-construction financing fund tabled",
+   sum:"A bill was introduced that would set up a federal fund to lend money for new rental-housing construction, with priority for buildings near transit."},
+  {date:"2026-06-23",type:"Order in council",cat:"National defence",kind:"official",src:"Orders in Council",url:"https://orders-in-council.canada.ca/",
+   title:"Senior defence appointment confirmed",
+   sum:"Cabinet formally appointed a new senior official to oversee defence procurement, effective next month."},
+  {date:"2026-06-22",type:"Announcement",cat:"Healthcare",kind:"news",src:"CBC News",url:"https://www.cbc.ca/news",
+   title:"Federal-provincial deal on primary-care funding announced",
+   excerpt:"Ottawa and several provinces set out a multi-year arrangement to expand access to family doctors and nurse practitioners."},
+  {date:"2026-06-22",type:"Regulation",cat:"Sustainable development",kind:"official",src:"Canada Gazette",url:"https://gazette.gc.ca/",
+   title:"New emissions-reporting rules published for large industry",
+   sum:"Regulations were published requiring large industrial facilities to report greenhouse-gas emissions on a stricter schedule starting in 2027."},
+  {date:"2026-06-21",type:"Spending",cat:"Innovation, science & industry",kind:"official",src:"Department release",url:"https://www.canada.ca/en/news.html",
+   title:"Funding committed to domestic semiconductor research",
+   sum:"The government committed funding over five years toward semiconductor research and a pilot manufacturing line at Canadian universities."},
+  {date:"2026-06-21",type:"Commons vote",cat:"Finance",kind:"official",src:"House of Commons",url:"https://www.ourcommons.ca/",
+   title:"Budget implementation bill passes second reading",
+   sum:"The House voted to advance the budget bill to committee for detailed study; the recorded vote is published online."},
+  {date:"2026-06-20",type:"International agreement",cat:"Foreign affairs",kind:"news",src:"The Globe and Mail",url:"https://www.theglobeandmail.com/",
+   title:"Canada signs trade-facilitation pact with Indo-Pacific partners",
+   excerpt:"The agreement aims to lower customs friction for Canadian exporters across several Asian markets."},
+  {date:"2026-06-20",type:"Report",cat:"Economy",kind:"official",src:"Parliamentary Budget Officer",url:"https://www.pbo-dpb.ca/",
+   title:"PBO publishes cost estimate of the rental-financing fund",
+   sum:"The Parliamentary Budget Officer released an independent estimate of what the proposed housing fund would cost taxpayers over its first decade."},
+  {date:"2026-06-19",type:"Announcement",cat:"Indigenous services",kind:"news",src:"APTN News",url:"https://www.aptnnews.ca/",
+   title:"Water-infrastructure agreements reached with several First Nations",
+   excerpt:"New agreements set timelines and funding to upgrade drinking-water systems in multiple communities."},
+  {date:"2026-06-19",type:"Regulation",cat:"Transportation",kind:"official",src:"Canada Gazette",url:"https://gazette.gc.ca/",
+   title:"Updated air-passenger compensation rules take effect",
+   sum:"Revised regulations changed when and how airlines must compensate passengers for delays and cancellations."},
+  {date:"2026-06-18",type:"Appointment",cat:"Justice",kind:"official",src:"Orders in Council",url:"https://orders-in-council.canada.ca/",
+   title:"Federal Court judicial appointments made",
+   sum:"Cabinet appointed several new judges to the Federal Court, filling longstanding vacancies."},
+  {date:"2026-06-18",type:"Announcement",cat:"Natural resources",kind:"news",src:"La Presse",url:"https://www.lapresse.ca/",
+   title:"Critical-minerals strategy expanded with new project list",
+   excerpt:"The government named additional mining and processing projects eligible for federal support."},
+  {date:"2026-06-17",type:"Bill",cat:"Public safety",kind:"official",src:"LEGISinfo",url:"https://www.parl.ca/legisinfo/",
+   title:"Bill on online fraud and identity theft introduced",
+   sum:"A bill was tabled to update criminal provisions on online fraud and to require faster reporting of large data breaches."},
+  {date:"2026-06-17",type:"Spending",cat:"Infrastructure",kind:"official",src:"Department release",url:"https://www.canada.ca/en/news.html",
+   title:"Transit funding announced for three metro regions",
+   sum:"Federal money was committed toward public-transit expansion in three large urban regions, contingent on provincial cost-sharing."},
+  {date:"2026-06-16",type:"Report",cat:"Wildlife",kind:"official",src:"Environment Canada",url:"https://www.canada.ca/en/environment-climate-change.html",
+   title:"Species-at-risk recovery progress report released",
+   sum:"A department report summarized recovery progress for species listed under federal protection over the past year."},
+  {date:"2026-06-16",type:"Announcement",cat:"Culture & heritage",kind:"news",src:"CBC News",url:"https://www.cbc.ca/news",
+   title:"Stable funding announced for public broadcaster and arts councils",
+   excerpt:"Officials outlined multi-year funding intended to give cultural institutions more budget certainty."},
+  {date:"2026-06-15",type:"Regulation",cat:"Animal welfare",kind:"official",src:"Canada Gazette",url:"https://gazette.gc.ca/",
+   title:"Transport-of-animals standards updated",
+   sum:"Regulations revised maximum transport times and welfare requirements for livestock moved across provincial lines."},
+  {date:"2026-06-15",type:"Bill",cat:"Education",kind:"official",src:"LEGISinfo",url:"https://www.parl.ca/legisinfo/",
+   title:"Bill to expand student-loan forgiveness for rural professionals",
+   sum:"A bill was introduced to broaden loan forgiveness for graduates who work in underserved rural regions."},
+  {date:"2026-06-14",type:"Announcement",cat:"Intergovernmental affairs",kind:"news",src:"The Globe and Mail",url:"https://www.theglobeandmail.com/",
+   title:"First ministers set date for health and housing talks",
+   excerpt:"The Prime Minister and premiers agreed to meet later this summer on shared health and housing priorities."}
+];
+
+let MOVES = SEED.slice();
+let activeCat = "All";
+let activeType = "All";
+let query = "";
+
+const $ = s => document.querySelector(s);
+const grid = $("#grid"), countEl = $("#count");
+
+function buildChips(){
+  const chips = $("#chips");
+  const all = ["All", ...CATEGORIES];
+  chips.innerHTML = all.map((name)=>{
+    const dot = name==="All" ? "" : `<span class="cd" style="background:${catColor(name)}"></span>`;
+    return `<button class="chip${name===activeCat?' active':''}" data-cat="${name}">${dot}${name}</button>`;
+  }).join("");
+  chips.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{
+    activeCat = (c.dataset.cat===activeCat && activeCat!=="All") ? "All" : c.dataset.cat;
+    buildChips(); render();
+  });
+}
+function buildTypes(){
+  const sel = $("#typeSel");
+  sel.innerHTML = ["All", ...TYPES].map(t=>`<option value="${t}">${t==="All"?"All action types":t}</option>`).join("");
+  sel.onchange = ()=>{ activeType = sel.value; render(); };
+}
+function esc(s){return (s||"").replace(/[&<>]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[m]));}
+function fmtDate(d){return new Date(d+"T12:00:00").toLocaleDateString("en-CA",{month:"short",day:"numeric"});}
+
+function card(m){
+  const c = catColor(m.cat);
+  const body = m.kind==="news"
+    ? `<p class="excerpt">${esc(m.excerpt)}</p>`
+    : `<p>${esc(m.sum)}</p>`;
+  const badge = m.kind==="news"
+    ? `<span class="badge news">News · excerpt</span>`
+    : `<span class="badge official">Official · summary</span>`;
+  return `<article class="card">
+    <div class="rec"><span class="type">${esc(m.type)}</span><span class="sep">·</span><span>${fmtDate(m.date)}</span></div>
+    <span class="cat" style="color:${c};background:hsla(${CAT_HUE[m.cat] ?? 230} 72% 64% / .12)">
+      <span class="cd" style="background:${c}"></span>${esc(m.cat)}</span>
+    <h3>${esc(m.title)}</h3>
+    ${body}
+    <div class="src">
+      <span class="from">${badge} · ${esc(m.src)}</span>
+      <a href="${esc(m.url)}" target="_blank" rel="noopener">Source ↗</a>
+    </div>
+  </article>`;
+}
+
+function render(){
+  const q = query.trim().toLowerCase();
+  const rows = MOVES.filter(m=>{
+    if(activeCat!=="All" && m.cat!==activeCat) return false;
+    if(activeType!=="All" && m.type!==activeType) return false;
+    if(q){
+      const hay = (m.title+" "+(m.sum||"")+" "+(m.excerpt||"")+" "+m.src+" "+m.cat).toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  }).sort((a,b)=> b.date.localeCompare(a.date));
+
+  countEl.textContent = `${rows.length} action${rows.length===1?"":"s"}`
+    + (activeCat!=="All"?` · ${activeCat}`:"") + (activeType!=="All"?` · ${activeType}`:"");
+  grid.innerHTML = rows.length
+    ? rows.map(card).join("")
+    : `<div class="empty">No actions match these filters. Clear search or pick a different category.</div>`;
+
+  $("#m-actions").textContent = MOVES.length.toLocaleString();
+  $("#m-cats").textContent = CATEGORIES.length;
+}
+
+$("#q").oninput = e=>{ query = e.target.value; render(); };
+
+/* ---------- live enrichment desk ---------- */
+const SAMPLE_RAW = "His Excellency the Administrator of the Government of Canada in Council, on the recommendation of the Minister of Transport, pursuant to subsection 7.6(1) of the Aeronautics Act, makes the annexed Regulations Amending the Canadian Aviation Regulations (small remotely piloted aircraft systems), prescribing registration, operator certification, and minimum-altitude requirements for the operation of such systems within controlled airspace, to come into force ninety days after registration.";
+
+$("#sample").onclick = ()=>{ $("#raw").value = SAMPLE_RAW; };
+
+$("#run").onclick = async ()=>{
+  const raw = $("#raw").value.trim();
+  const out = $("#out"), btn = $("#run");
+  if(!raw){ out.innerHTML = `<div class="result err"><div class="msg">Paste some text first.</div></div>`; return; }
+  btn.disabled = true; btn.textContent = "Reading…";
+  out.innerHTML = `<div class="result"><div class="hint">Summarizing and categorizing…</div></div>`;
+
+  const prompt = `You convert dense Canadian federal government text into a clear, neutral public-facing record entry.
+Return ONLY a JSON object, no markdown, no preamble, with exactly these keys:
+"headline": a plain-language headline, max 12 words, neutral, describing the ACTION taken (not whether it is good).
+"summary": 1-2 plain sentences a non-expert can understand. Neutral. No opinion or praise/criticism.
+"category": choose exactly one from this list: ${CATEGORIES.map(c=>c[0]).join(", ")}.
+"type": choose exactly one from this list: ${TYPES.join(", ")}.
+
+Text:
+"""${raw}"""`;
+
+  try{
+    const res = await fetch("https://api.anthropic.com/v1/messages",{
+      method:"POST",
+      headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({model:"claude-sonnet-4-6",max_tokens:1000,messages:[{role:"user",content:prompt}]})
+    });
+    const data = await res.json();
+    const text = (data.content||[]).filter(b=>b.type==="text").map(b=>b.text).join("").trim();
+    const clean = text.replace(/```json|```/g,"").trim();
+    const obj = JSON.parse(clean);
+
+    const cat = CATEGORIES.find(c=>c[0].toLowerCase()===String(obj.category||"").toLowerCase())?.[0] || "Economy";
+    const type = TYPES.find(t=>t.toLowerCase()===String(obj.type||"").toLowerCase()) || "Announcement";
+    const rec = {date:new Date().toISOString().slice(0,10),type,cat,kind:"official",
+      src:"Plain-language desk (AI)",url:"#",title:obj.headline||"Untitled action",sum:obj.summary||""};
+
+    const c = catColor(cat);
+    out.innerHTML = `<div class="result">
+      <div class="rec"><span class="type">${esc(type)}</span><span class="sep">·</span><span>plain language</span></div>
+      <span class="cat" style="color:${c};background:hsla(${CAT_HUE[cat]} 72% 64% / .12)"><span class="cd" style="background:${c}"></span>${esc(cat)}</span>
+      <h3 style="margin:2px 0 0;font-size:18px">${esc(rec.title)}</h3>
+      <p style="margin:0;color:var(--muted);font-size:14px">${esc(rec.sum)}</p>
+      <button class="add" id="addBtn">＋ Add to the record</button>
+    </div>`;
+    $("#addBtn").onclick = ()=>{
+      MOVES.unshift(rec); render();
+      $("#out").innerHTML = `<div class="result"><div class="hint">Added to the feed above ↑</div></div>`;
+      $("#raw").value="";
+    };
+  }catch(err){
+    out.innerHTML = `<div class="result err"><div class="msg">The live model step didn't run in this view. The feed and filters still work — in production this step runs server-side over the ingested sources.</div></div>`;
+  }finally{
+    btn.disabled = false; btn.textContent = "Translate to plain language";
+  }
+};
+
+computeHues(); buildChips(); buildTypes(); render();
+
+// Pull the shared category list and the latest data produced by the pipeline.
+// If these files aren't present (e.g. opening this file on its own), the sample
+// data above is shown instead.
+async function boot(){
+  try{
+    const r = await fetch("categories.json", { cache:"no-store" });
+    const c = await r.json();
+    if(Array.isArray(c.categories) && c.categories.length) CATEGORIES = c.categories;
+    if(Array.isArray(c.types) && c.types.length) TYPES = c.types;
+  }catch(e){ /* keep defaults */ }
+  computeHues();
+  try{
+    const r = await fetch("data.json", { cache:"no-store" });
+    const d = await r.json();
+    if(Array.isArray(d.items) && d.items.length) MOVES = d.items;
+  }catch(e){ /* keep sample data */ }
+  buildChips(); buildTypes(); render();
+}
+boot();
+
+// About dialog
+const aboutModal = document.getElementById("aboutModal");
+document.getElementById("aboutBtn").addEventListener("click", ()=> aboutModal.showModal());
+document.getElementById("aboutClose").addEventListener("click", ()=> aboutModal.close());
+aboutModal.addEventListener("click", (e)=>{ if(e.target === aboutModal) aboutModal.close(); });
+</script>
