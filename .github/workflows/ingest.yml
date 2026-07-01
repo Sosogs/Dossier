@@ -1,0 +1,26 @@
+name: Refresh government actions
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install
+      - run: node ingest.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Commit refreshed data
+        run: |
+          git config user.name "dossier-bot"
+          git config user.email "dossier-bot@users.noreply.github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "data: refresh $(date -u +%FT%TZ)"
+          git push
