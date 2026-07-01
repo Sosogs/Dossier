@@ -152,6 +152,22 @@
   footer b{color:var(--muted);font-weight:600}
   footer .meth{max-width:78ch;line-height:1.7}
 
+  /* ---- support / ko-fi ---- */
+  .nav-support{display:inline-flex;align-items:center;gap:6px;font-family:var(--sans);font-size:13px;font-weight:600;
+    color:#04121d;text-decoration:none;background:linear-gradient(100deg,var(--cyan),#8ad9ff);
+    border:none;border-radius:999px;padding:7px 14px;box-shadow:0 4px 16px rgba(95,208,255,.22)}
+  .nav-support:hover{filter:brightness(1.06)}
+  .support{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;
+    margin-top:22px;padding:18px 20px;border:1px solid var(--line);border-radius:16px;
+    background:linear-gradient(180deg,rgba(95,208,255,.06),var(--glass))}
+  .support-text{max-width:60ch}
+  .support-h{color:var(--ink);font-weight:650;font-size:15px;margin-bottom:3px}
+  .support-text p{margin:0;color:var(--muted);font-size:13.5px;line-height:1.6}
+  .support-btn{flex:none;display:inline-flex;align-items:center;gap:8px;text-decoration:none;
+    font-size:14px;font-weight:650;color:#04121d;background:linear-gradient(100deg,var(--cyan),#8ad9ff);
+    border-radius:999px;padding:11px 18px;box-shadow:0 6px 20px rgba(95,208,255,.25)}
+  .support-btn:hover{filter:brightness(1.06)}
+
   /* ---- about dialog ---- */
   dialog#aboutModal{border:none;padding:0;background:transparent;max-width:620px;width:92vw;color:var(--ink)}
   dialog#aboutModal::backdrop{background:rgba(4,5,12,.66);backdrop-filter:blur(6px)}
@@ -179,7 +195,7 @@
 <div class="wrap">
   <nav class="nav">
     <div class="brand"><span class="mark"></span> DOSSIER</div>
-    <div class="nav-links"><span>The record</span><span>Categories</span><span>Sources</span><button id="aboutBtn">About</button></div>
+    <div class="nav-links"><span>The record</span><span>Categories</span><span>Sources</span><button id="aboutBtn">About</button><a class="kofi-link nav-support" href="#" target="_blank" rel="noopener"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 21s-7.5-4.6-10-9.3C.4 8.4 1.9 5 5.2 5c2 0 3.3 1.2 3.8 2 .5-.8 1.8-2 3.8-2 3.3 0 4.8 3.4 3.2 6.7C19.5 16.4 12 21 12 21z"/></svg>Support Dossier</a></div>
     <div class="nav-cta">EN · FR</div>
   </nav>
 
@@ -231,6 +247,18 @@
 
   <footer>
     <p class="meth"><b>How this works.</b> Official records (Parliament, the Canada Gazette, orders-in-council, departmental releases, PBO and Library of Parliament reports) are summarized in plain language and linked. Journalism appears as headline + short excerpt + a link out to the original, never the full article. Items are logged as <b>actions</b>, not as promises kept or broken, and categorized by policy area. Neutrality lives in the wording: summaries describe what was done, not whether it was good.</p>
+
+    <div class="support">
+      <div class="support-text">
+        <div class="support-h">Independent &amp; reader-supported</div>
+        <p>Dossier takes no advertising and no party money. If it&rsquo;s useful to you, you can help keep it running &mdash; and free for everyone.</p>
+      </div>
+      <a class="kofi-link support-btn" href="#" target="_blank" rel="noopener">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 21s-7.5-4.6-10-9.3C.4 8.4 1.9 5 5.2 5c2 0 3.3 1.2 3.8 2 .5-.8 1.8-2 3.8-2 3.3 0 4.8 3.4 3.2 6.7C19.5 16.4 12 21 12 21z"/></svg>
+        Support Dossier
+      </a>
+    </div>
+
     <p style="margin-top:16px">DOSSIER — working name · prototype · bilingual EN/FR planned</p>
   </footer>
 </div>
@@ -257,6 +285,13 @@
 </dialog>
 
 <script>
+/* ======================================================================
+   YOUR KO-FI LINK — connected to ko-fi.com/thedossier.
+   This single line powers both the "Support Dossier" button in the top
+   menu and the one in the footer. Change it here if your page ever moves.
+   ====================================================================== */
+const KOFI_URL = "https://ko-fi.com/thedossier";
+
 const DEFAULT_CATEGORIES = ["Foreign affairs","National defence","Culture & heritage","Economy","Intergovernmental affairs","Healthcare","Education","Sustainable development","Infrastructure","Housing","Natural resources","Wildlife","Animal welfare","Transportation","Indigenous services","Justice","Finance","Innovation, science & industry","Public safety"];
 const DEFAULT_TYPES = ["Bill","Regulation","Order in council","Spending","Appointment","International agreement","Commons vote","Report","Announcement"];
 let CATEGORIES = DEFAULT_CATEGORIES.slice();
@@ -484,4 +519,7 @@ const aboutModal = document.getElementById("aboutModal");
 document.getElementById("aboutBtn").addEventListener("click", ()=> aboutModal.showModal());
 document.getElementById("aboutClose").addEventListener("click", ()=> aboutModal.close());
 aboutModal.addEventListener("click", (e)=>{ if(e.target === aboutModal) aboutModal.close(); });
+
+// Point the Support buttons at your Ko-fi page
+document.querySelectorAll(".kofi-link").forEach(a => { a.href = KOFI_URL; });
 </script>
