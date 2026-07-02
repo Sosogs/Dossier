@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-01T20:14:13.302Z",
-  "count": 68,
+  "generatedAt": "2026-07-02T18:17:53.264Z",
+  "count": 85,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,193 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "89158fb4e2dfc686",
+      "date": "2026-07-02",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/livestory/energy-proposal-ab-bc-west-coast-july-2-live-updates-9.7251535?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "North Coast oil tanker ban to remain in place as part of multibillion-dollar deal between B.C. and Ottawa",
+      "excerpt": "",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "e7f40dca672a5438",
+      "date": "2026-07-02",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-british-columbia-economic-agreeement-pipeline-9.7255633?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
+      "excerpt": "The B.C. premier's office said the agreement announced Thursday \"will power decades of job growth and prosperity.\" The announcement comes as Alberta was set to update its West Coast pipeline proposal.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "22c7b2f86fc25f79",
+      "date": "2026-07-02",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/carney-alberta-canada-day-cancelled-9.7255600?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ottawa thunderstorms keep Carney from delivering Canada Day unity speech in Edmonton",
+      "excerpt": "Prime Minister Mark Carney urged Canadians to remain united in a Canada Day speech in the nation's capital on Wednesday, but his plan to deliver similar remarks in Edmonton later in the day was upended by thunderstorms…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "b39e29c9961ca386",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/minegoziibe-anishinabe-state-of-emergency-parkland-flooding-9.7256080?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Western Manitoba First Nation declares state of emergency as flooding sparks calls for federal aid",
+      "excerpt": "Minegoziibe Anishinabe First Nation, in Manitoba’s flood-stricken Parkland area, has declared a state of emergency due to washed out infrastructure, joining more than 30 communities that have done the same.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "c0f2939bdba22480",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-strong-mayor-powers-ford-9.7253991?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ontario pushed ahead with strong mayor powers expansion despite 'predominantly negative' feedback",
+      "excerpt": "Premier Doug Ford’s sweeping expansion of strong mayor powers to nearly half of Ontario’s municipalities was met with \"predominantly negative\" feedback during consultations, with respondents calling the system…",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "2aacefa36a2e287c",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/heat-wave-swimming-risk-canada-9.7253498?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Want to cool off with a dip in a river or lake? Here's how to stay safe",
+      "excerpt": "After a rash of drowning deaths during Europe's ongoing record-breaking heat wave, advocates are urging Canadians to stay safe this Canada Day as they push for more public swimming access across the country.",
+      "cat": "Economy"
+    },
+    {
+      "id": "10832cc752477570",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/missing-boy-hamilton-9.7255709?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Search ongoing for 7-year-old boy who went missing at Hamilton conservation area",
+      "excerpt": "Hamilton police are searching the Binbrook Conservation Area for a seven-year-old boy who was last seen on the beach, by the floating inflatable playground.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "602f19993ebf6fbe",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/quesnel-us-trained-doctors-9.7254880?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Quesnel, B.C., rolling out the red carpet to attract U.S.-trained doctors — and it's working",
+      "excerpt": "The community of Quesnel in northern B.C. is pulling out all the stops to attract U.S.-trained physicians and solve previously long waits for family doctors. A health-care recruiter in the community of around 10,000…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "3108425a8fa438c0",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-terrebonne-landfill-9.7255901?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Quebec's biggest landfill gets emergency approval to pile garbage higher",
+      "excerpt": "The Quebec government has authorized the temporary expansion of the province's largest landfill north of Montreal. The Terrebonne site is expected to reach its maximum capacity in less than a year.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "bf67d2e8decaf964",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-island-essentials-benefit-roll-out-friday-9.7255183?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Some Prince Edward Islanders to get extra money from province to help with rising costs",
+      "excerpt": "Some Prince Edward Islanders will see extra money in their bank accounts on Friday as the province rolls out its new Island Essentials Benefit.",
+      "cat": "Economy"
+    },
+    {
+      "id": "bc591851d60e829a",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/labrador-west-fires-july-2-9.7255650?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Evacuation order to be reassessed as rainfall helped fight Labrador West wildfires, mayor says",
+      "excerpt": "Rainfall over wildfires burning near Labrador West provided some much needed relief on Wednesday, but the mayor of Labrador City says it's still too early to know when an evacuation order could be lifted for residents.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "d76ab0a9e609886d",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/london/weather-southwestern-ontario-farmers-9.7254603?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ontario farmers embrace extreme heat after weeks of storms, hail damage crops",
+      "excerpt": "Farmers in southwestern Ontario say that weeks of extreme weather events, including torrential rain and hail, has made growing crops a challenge. Some say they're embracing a week of hot temperatures, which can help…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "bead87b6050fe00f",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-separation-canada-day-9.7255536?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Albertans express patriotism, melancholy on Canada Day amid talk of separation",
+      "excerpt": "The possibility of Alberta separating from Canada was top of mind for Maple Leaf-clad Albertans in the province's largest city as they celebrated the birth of Confederation.",
+      "cat": "Economy"
+    },
+    {
+      "id": "2270366e30366453",
+      "date": "2026-07-01",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/canada-day-activities-in-ottawa-cancelled-9.7255350?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'Extreme weather' wipes out Ottawa's Canada Day activities, including fireworks",
+      "excerpt": "Extreme weather on Wednesday caused the cancellation of Ottawa's evening Canada Day activities, including the fireworks display, as homes flooded, roads were closed and thunderstorms led to power outages.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "b822aea4f5f8aceb",
+      "date": "2026-07-01",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/fire-ban-labrador-9.7255406?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "N.L. government declares fire ban for all Labrador, until at least July 13",
+      "excerpt": "The Minister of Forestry has ordered a blanket fire ban for Labrador, effective to at least July 13.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "41db6b9a27e52b00",
+      "date": "2026-07-01",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/radio/asithappens/canada-joining-eurovision-9.7255437?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why one superfan thinks now is the right time for Canada's Eurovision debut",
+      "excerpt": "When it was announced that Canada would be entering the 2027 Eurovision Song Contest — it was music to Matti McLean’s ears. A Canadian superfan of the international music competition, co-host of the Think About…",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "a6ff40feb744c409",
+      "date": "2026-07-01",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/entertainment/canada-will-enter-2027-eurovision-song-contest-9.7254616?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada will enter the 2027 Eurovision Song Contest",
+      "excerpt": "CBC/Radio-Canada and the European Broadcasting Union have announced Canada will participate in the 2027 Eurovision Song Contest in Bulgaria.",
+      "cat": "Transportation"
+    },
     {
       "id": "7058f827bed930de",
       "date": "2026-07-01",
