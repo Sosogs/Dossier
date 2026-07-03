@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-02T18:17:53.264Z",
-  "count": 85,
+  "generatedAt": "2026-07-03T10:16:32.494Z",
+  "count": 98,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,138 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "a9398fa1c9c1af35",
+      "date": "2026-07-03",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-pipeline-proposal-ottawa-major-projects-9.7254251?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta pitches southern route for West Coast pipeline, with a price tag of $35B or more",
+      "excerpt": "Alberta is formally proposing an oil pipeline to the southwest coast of British Columbia for tanker export to Asian markets, in a partnership with federally-owned Trans Mountain Corp. and Calgary-based Pembina Pipeline…",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "14f9a1f38855778d",
+      "date": "2026-07-03",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/investigates/stubhub-speculative-tickets-fifa-world-cup-2028-olympics-9.7256720?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "StubHub sold ‘ghost tickets’ for World Cup months before real ones were issued, CBC finds",
+      "excerpt": "StubHub claims it doesn’t allow the listing of “speculative” tickets on its platform. But CBC News found “ghost tickets” were available for the FIFA World Cup months before they were issued — and was able to list…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "88fca86f6e68a3a4",
+      "date": "2026-07-03",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/fernie-trail-death-9.7256882?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Fatal crash on Fernie, B.C., mountain bike trail shocks riding community",
+      "excerpt": "Elk Valley RCMP say a man died after a mountain biking crash on Trail Dogs in Fernie, B.C. Police say there is no indication of criminality, and the B.C. Coroners Service is investigating.",
+      "cat": "Justice"
+    },
+    {
+      "id": "01bbc0411c428fa1",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/i-will-kill-everyone-around-you-threat-to-ex-by-father-in-double-murder-suicide-emerges-9.7256577?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'I will kill everyone around you': Threat to ex by father in double-murder suicide emerges",
+      "excerpt": "Police have identified the man who is believed to have killed his seven- and 12-year-old sons in his south Ottawa home and firebombed his dental practice in a nearby village before dying by suicide in a vehicle fire on…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "8a9e895c7fff8f6a",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/kasabonika-lake-first-nation-wildfire-evacuation-update-9.7256589?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Nearly 600 wildfire evacuees from Kasabonika Lake First Nation staying in Toronto",
+      "excerpt": "Kasabonika Lake First Nation in northwestern Ontario has paused an evacuation of its most vulnerable members, as a cluster of five wildfires surrounding the community have stabilized for the time being. Kasabonika…",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "9530cf7ef3a096a1",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/arts/fed-up-with-apartment-problems-these-tenants-made-a-zine-9.7256075?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Fed up with apartment problems, these tenants made a zine",
+      "excerpt": "Led by artist Sonali Menezes, the tenant association of a Hamilton apartment complex created Welcome to Lamoreaux Gardens. The publication includes images of pest infestations, leaking pipes and overflowing garbage.",
+      "cat": "Housing"
+    },
+    {
+      "id": "ec0e9d1b22bff9f6",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-canada-round-of-16-chris-jones-july-2-9.7256433?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How can Canada beat Morocco? It could be found in Promise David’s sublime group-stage goal",
+      "excerpt": "If there’s a reason for Canada’s men to believe they can beat Morocco on Saturday, it’s most easily found in Promise David’s singular moment against Switzerland.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "4d3287a16173d4f0",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/inuk-war-hero-john-shiwak-recognition-9.7256341?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Growing recognition for Inuk war hero John Shiwak brings ‘sense of relief’ says relative",
+      "excerpt": "Even though he died more than a century ago, fighting far from home, seeing Inuk war hero John Shiwak's growing recognition for his sacrifice is a relief for his family.",
+      "cat": "Economy"
+    },
+    {
+      "id": "9a9170490fdaec74",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/rcmp-alleged-migrant-smuggling-stash-house-montreal-9.7256100?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "RCMP raid alleged migrant smuggling stash house in Montreal, arrest 2",
+      "excerpt": "The RCMP say officers are searching a residence in the Montréal-Nord borough in an investigation into a suspected human smuggling ring.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "dcc94b20c03eac52",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/record-high-temperatures-possible-with-ongoing-extreme-heat-in-windsor-essex-9.7256212?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Extreme heat pushes Windsor-Essex closer to 19th-century record temperatures",
+      "excerpt": "An orange heat warning continues to be in effect for Windsor-Essex with possibilities of the temperature reaching record level seen in the 1800s.",
+      "cat": "Economy"
+    },
+    {
+      "id": "6dc66ad1ac03e277",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-gatineau-canada-day-storm-weather-cancel-9.7255678?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ottawa-Gatineau cleans up after storm under smothering heat",
+      "excerpt": "The Ottawa-Gatineau area is cleaning up from massive, powerful thunderstorms that struck the afternoon and evening of Canada Day — and doing so under a punishing heat wave with a risk of more storms.",
+      "cat": "Economy"
+    },
+    {
+      "id": "12983c5b814f118c",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/tornado-warning-west-of-cornwall-9.7256513?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Tornado warning lifted for area west of Cornwall, Ont.",
+      "excerpt": "Environment Canada has lifted a tornado warning that was briefly in place on Thursday afternoon for an area west of Cornwall, Ont.",
+      "cat": "Sustainable development"
+    },
     {
       "id": "89158fb4e2dfc686",
       "date": "2026-07-02",
@@ -957,6 +1089,17 @@
       "title": "Canada launches measures to support those impacted by domestic natural disasters",
       "sum": "Canada continues to face the growing impacts of climate change, with extreme weather conditions becoming more frequent and severe. Communities across the country have responded to these challenges with resilience and strength, and the Government of Canada remains committed to supporting those affected.",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "9e1e68c5a17e21a7",
+      "date": "2025-09-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/summer-weather-canada-storms-heat-wave-2026-9.7253782?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What's behind all the wild weather in Canada this summer?",
+      "excerpt": "",
+      "cat": "Economy"
     },
     {
       "id": "6dc298a5e93a0d63",
