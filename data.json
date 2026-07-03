@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-03T17:03:31.468Z",
-  "count": 103,
+  "generatedAt": "2026-07-03T21:45:18.592Z",
+  "count": 112,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,105 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "befbb1480abe7c8d",
+      "date": "2026-07-03",
+      "src": "Immigration, Refugees and Citizenship Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/parliamentary-secretary-fragiskatos-to-announce-support-for-food-security-in-windsor.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Parliamentary Secretary Fragiskatos to announce support for food security in Windsor",
+      "sum": "Peter Fragiskatos, Parliamentary Secretary to the Minister of Immigration, Refugees and Citizenship, on behalf of the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, will highlight the launch of the National Food Security Strategy to strengthen food systems in Windsor.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "7ec3a628ef3d5ea9",
+      "date": "2026-07-03",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/hoekstra-trade-talks-no-progress-9.7257293?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking",
+      "excerpt": "The U.S. envoy to Canada says 14 months of trade talk between Canada and the Trump administration has resolved few issues. But Pete Hoekstra insists the Americans will keep talking in the hopes of striking an agreement…",
+      "cat": "Economy"
+    },
+    {
+      "id": "2b3f18370cb4e5b9",
+      "date": "2026-07-03",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/feds-to-weigh-guardrails-alternatives-to-contentious-labour-code-tool-hajdu-9.7257490?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Feds to weigh guardrails, alternatives to 'contentious' labour code tool: Hajdu",
+      "excerpt": "Jobs Minister Patty Hajdu says the federal government is exploring possible guardrails or alternatives to using what she says is a \"contentious\" section of the Canada Labour Code that allows Ottawa to intervene in…",
+      "cat": "Transportation"
+    },
+    {
+      "id": "4bd9a46fa651d9e2",
+      "date": "2026-07-03",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-cost-delays-construction-funding-2026-9.7256222?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Gordie Howe bridge cost still $6.4B despite delays, federal authority says",
+      "excerpt": "The cost of the new Gordie Howe bridge connecting Windsor and Detroit is still $6.4 billion despite multiple delays, according to the federal authority that oversees the bridge.",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "c28691590da99e5f",
+      "date": "2026-07-03",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/angry-note-left-scene-double-murder-father-victim-9.7257263?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Angry note left at scene of double murder of sons insisted father was the victim",
+      "excerpt": "In the house where police found two dead brothers — both boys believed to have been murdered by their father Mohammed Al-Lami before he died by suicide — investigators found a note left on the desk of Al-Lami's office,…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "efcb24cb0cd2cf79",
+      "date": "2026-07-03",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-stampede-parade-2026-9.7257432?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Calgary Stampede parade kicks off 10 days of western fun",
+      "excerpt": "A pair of Winter Olympians traded their skis and skates for hats and boots Friday as the Calgary Stampede parade kicked off 10 days of western-themed festivities.",
+      "cat": "Economy"
+    },
+    {
+      "id": "f9882004ba17d8c2",
+      "date": "2026-07-03",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/corb-lund-water-not-coal-petition-rejected-9.7257566?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Elections Alberta rejects Corb Lund's 'Water Not Coal' petition",
+      "excerpt": "Elections Alberta has rejected musician Corb Lund's 'Water Not Coal' petition, saying it failed to meet the requirements for a citizen initiative petition.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "e48f9175ee25ad3a",
+      "date": "2026-07-03",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-rental-market-housing-july-1-9.7257496?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "More than 2,000 Quebec households stranded without a lease after July 1",
+      "excerpt": "More than 2,000 Quebec households are still without a home following the province's July 1 moving day. Housing advocates say the increase compared to last year shows that building more apartments isn't enough to solve…",
+      "cat": "Housing"
+    },
+    {
+      "id": "d2970deb05e9c6af",
+      "date": "2026-07-03",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/fires-northern-quebec-sopfeu-9.7257665?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "New Brunswick, Prince Edward Island and B.C. assist Quebec in battling wildfires",
+      "excerpt": "Three provinces are lending a helping hand to Quebec's wildfire prevention and suppression agency in its efforts to combat fires.",
+      "cat": "Intergovernmental affairs"
+    },
     {
       "id": "6f135355b4718a23",
       "date": "2026-07-03",
