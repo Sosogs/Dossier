@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-03T10:16:32.494Z",
-  "count": 98,
+  "generatedAt": "2026-07-03T17:03:31.468Z",
+  "count": 103,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -35,6 +35,50 @@
   ],
   "items": [
     {
+      "id": "6f135355b4718a23",
+      "date": "2026-07-03",
+      "src": "Immigration, Refugees and Citizenship Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/minister-metlege-diab-to-make-an-announcement-in-winnipeg.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Minister Metlege Diab to make an announcement in Winnipeg",
+      "sum": "The Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, will hold a press conference in Winnipeg to unveil an innovative project to strengthen Francophone immigration in Manitoba. A media availability will follow.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "7e3027e7b7018bb3",
+      "date": "2026-07-03",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/entertainment/tommy-hunter-9.7257339?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Tommy Hunter, 'Canada's Country Gentleman,' dead at 89",
+      "excerpt": "Tommy Hunter, the celebrated Canadian country musician, has died. He was 89.",
+      "cat": "Economy"
+    },
+    {
+      "id": "fbec09346ac1c3e8",
+      "date": "2026-07-03",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/greater-toronto-home-sales-price-increase-9.7257098?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Greater Toronto home sales increased in June, prices expected to rise in months ahead: real estate board",
+      "excerpt": "The Greater Toronto Area continued to see higher home sales last month compared with a year ago even as new listings slowed.",
+      "cat": "Economy"
+    },
+    {
+      "id": "c07ceca9f4476c32",
+      "date": "2026-07-03",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/indigenous-relations-minister-says-province-reviewing-innu-timeline-9.7256766?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "N.L.'s Indigenous relations minister says province reviewing Innu timeline",
+      "excerpt": "Newfoundland and Labrador's Indigenous Relations and Reconciliation Minister Lela Evans says the provincial government is dedicated to \"true reconciliation\" with Innu people, but stopped short of any endorsement of Innu…",
+      "cat": "Indigenous services"
+    },
+    {
       "id": "a9398fa1c9c1af35",
       "date": "2026-07-03",
       "src": "CBC Politics",
@@ -66,6 +110,17 @@
       "title": "Fatal crash on Fernie, B.C., mountain bike trail shocks riding community",
       "excerpt": "Elk Valley RCMP say a man died after a mountain biking crash on Trail Dogs in Fernie, B.C. Police say there is no indication of criminality, and the B.C. Coroners Service is investigating.",
       "cat": "Justice"
+    },
+    {
+      "id": "1b39b2ee3997f149",
+      "date": "2026-07-02",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/southern-pipeline-route-delta-roberts-bank-terminal-2-9.7256890?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why an expansion of the Delta, B.C., container port is going hand-in-hand with Alberta's pipeline proposal",
+      "excerpt": "",
+      "cat": "Natural resources"
     },
     {
       "id": "01bbc0411c428fa1",
