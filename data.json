@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T09:10:08.826Z",
-  "count": 119,
+  "generatedAt": "2026-07-04T15:46:30.451Z",
+  "count": 123,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,39 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "98474218df1e657d",
+      "date": "2026-07-04",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/f-35s-defence-department-business-card-9.7257273?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "DND official rebuked for custom-made business card featuring F-35s",
+      "excerpt": "Amid the ongoing review of Canada's fighter jet procurement, a Department of National Defence official has been told to stop using a custom-made business card featuring two Lockheed Martin F-35s after she handed copies…",
+      "cat": "National defence"
+    },
+    {
+      "id": "31909b8c479697ef",
+      "date": "2026-07-04",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/beef-prices-federal-government-interprovincial-trade-barrier-slaughterhouse-meat-9.7258043?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Feeling sticker shock over Canadian beef? Here's why — and what's being done about it",
+      "excerpt": "Why do beef prices keep going up, and when can Canadians expect relief? CBC's The House spoke to experts across the Canadian meat industry about the ongoing issue and measures the federal government is pitching to…",
+      "cat": "Economy"
+    },
+    {
+      "id": "f638bf623a4ca4cf",
+      "date": "2026-07-04",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/science/nuclear-strategy-pensions-electricity-9.7257049?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada wants to build up to 10 new nuclear plants. Will our pension funds pay for them?",
+      "excerpt": "Canada's ambitious new nuclear strategy has called for private investment to help expand the industry. Given that nuclear power plants are notoriously expensive to build, the government will have to heavily de-risk the…",
+      "cat": "Economy"
+    },
     {
       "id": "ece0d8983c3e6f16",
       "date": "2026-07-04",
@@ -77,6 +110,17 @@
       "title": "B.C. nurses to form picket lines at Vancouver General Hospital next week",
       "excerpt": "Nurses will be escalating job action on July 7 at 5:30 a.m. PT, the B.C. Nurses' Union announced Friday evening. It says essential services will be maintained.",
       "cat": "Healthcare"
+    },
+    {
+      "id": "9282ad9869d75560",
+      "date": "2026-07-03",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
+      "excerpt": "Energy Minister Tim Hodgson says a second pipeline to the West Coast will be money well-spent for the federal government but can't say how much Ottawa would be on the hook for.",
+      "cat": "Natural resources"
     },
     {
       "id": "7a85f038ca1985f5",
