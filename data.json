@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-05T09:48:15.443Z",
-  "count": 123,
+  "generatedAt": "2026-07-05T21:37:49.996Z",
+  "count": 142,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,193 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "dd45ad3a3bd203f8",
+      "date": "2026-07-05",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/us-ambassador-to-canada-july-4-party-speech-9.7259011?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ambassador Hoekstra wants American booze back on Canadian shelves next year",
+      "excerpt": "U.S. Ambassador to Canada Pete Hoekstra's speech at a Fourth of July party in Ottawa included a political nudge aimed at Canada, with American F-35 fighter jets flying over the crowd and a comment about some provinces'…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "bbff741c4d46ee91",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/steves-music-montreal-store-closing-9.7259266?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Steve's Music closing its doors in Montreal after more than 60 years",
+      "excerpt": "",
+      "cat": "Economy"
+    },
+    {
+      "id": "8d1ddb44fa56ae0f",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/metro-vancouver-parks-strike-9.7259237?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Metro Vancouver workers responsible for cleaning, maintaining parks and trails walk off the job",
+      "excerpt": "Over 100 workers with Metro Vancouver's regional parks walked off the job on Sunday, with the union citing member frustration over lack of movement in talks with the district.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "e0fa695258e60c26",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/lachine-canal-drownings-rescue-9.7259222?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "2 people pulled from Montreal's Lachine canal overnight in critical condition",
+      "excerpt": "Rescue teams spent hours looking for two individuals in Montreal's Lachine Canal in the overnight hours of Saturday to Sunday. They were both taken to hospital in critical condition.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "bb88af52384d6535",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/west-island-floods-june-20-2026-class-action-9.7258906?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Proposed class actions target City of Montreal, West Island suburbs, after floods",
+      "excerpt": "Two class-action lawsuits have been filed in Quebec Superior Court after heavy rains on June 20 led to flooding in parts of Montreal's West Island. The proposed lawsuits allege the municipalities didn't do enough to…",
+      "cat": "Justice"
+    },
+    {
+      "id": "39d87c8a9b24c9f4",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-blue-bombers-zach-collaros-taylor-swift-travis-kelce-wedding-9.7259126?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Winnipeg quarterback Zach Collaros 'bummed' to miss Travis Kelce's wedding to Taylor Swift over game schedule",
+      "excerpt": "Blue Bombers quarterback Zach Collaros said he was \"bummed\" to miss out on seeing his longtime friend and NFLer Travis Kelce marry pop icon Taylor Swift at a star-studded wedding at Madison Square Garden in New York…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "89fa0bad4c7e7a18",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/brandon-manitoba-emergency-assiniboine-river-flood-9.7259022?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Brandon, Man., declares state of emergency as overflowing Assiniboine River forecast to continue to rise",
+      "excerpt": "The City of Brandon has declared a state of emergency, with the Assiniboine River spilling its banks days ahead of a forecast flood peak on July 12.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "be223940d6abf96c",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/investigates/ontario-paramedic-non-fatal-overdose-calls-rise-data-analysis-9.7258237?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Overdose calls to paramedics on the rise in several Ontario cities, CBC analysis shows",
+      "excerpt": "Non-fatal opioid overdose calls are on the rise in four Ontario cities — nearly tripling in Hamilton in the first five months of 2026. Researchers and social workers suggest the toxic drug supply and the closure of…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "42aaeacf741dfe66",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/metrolinx-parking-ticket-leads-woman-to-car-stolen-from-oshawa-go-9.7257630?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ontario transit agency issued parking ticket for a car stolen from a train station. Its owner is still fighting it",
+      "excerpt": "When Nancy Griffin parked her vehicle at the Oshawa GO station on March 25, she expected a routine trip to and from Toronto. Instead, she says she found herself at the centre of a months-long ordeal involving a stolen…",
+      "cat": "Transportation"
+    },
+    {
+      "id": "36446f41389070f9",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/councillors-mpps-call-for-help-from-province-after-canada-day-deluge-1.7561637?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ottawa councillors, MPPs call for help from province after Canada Day deluge",
+      "excerpt": "Several Ottawa city councillors and MPPs have signed an open letter calling on the province to make disaster relief funding available for residents facing financial burdens after last week’s storm.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "5585b9c34d77e153",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7257868?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Throwback: When Pokémon GO took over Canada’s capital",
+      "excerpt": "We're coming up on the 10-year anniversary of when Pokémon GO, the augmented reality app, first arrived in Canada. The game kicked off a wave of fandom among kids and adults, including those on Parliament Hill.",
+      "cat": "Economy"
+    },
+    {
+      "id": "39b5f11c5ad2e662",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/okanagan-sockeye-return-expected-to-stay-low-warm-rivers-9.7258978?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Warm rivers raise concern for salmon in B.C.'s Interior",
+      "excerpt": "Warm rivers and streams are becoming a growing concern for salmon in B.C.’s Interior with another low sockeye return anticipated in Okanagan waters this fall.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "7a71764da6b4680f",
+      "date": "2026-07-04",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/calgary/public-private-alberta-pipeline-9.7257602?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta’s pipeline pitch is heavy on public, light on private investment — so who benefits?",
+      "excerpt": "Energy experts and economists say Alberta’s public-private pitch may be the only way to get a pipelines done in today's context, but if there are benefits, they could go beyond just the oil and gas industry.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "eaced8946ff00091",
+      "date": "2026-07-04",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/young-girl-injured-fall-from-apartment-balcony-9.7258669?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Young girl critically injured after falling from apartment balcony in Ottawa",
+      "excerpt": "A young girl was severely injured Saturday morning after falling from an 11th-floor balcony, Ottawa paramedics say.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "1611e443d16ff245",
+      "date": "2026-07-04",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/economic-impact-toronto-fifa-9.7258589?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Toronto had little economic gain during World Cup's first 2 weeks in city, data shows",
+      "excerpt": "Data collected between June 12 and 26 — the first two weeks of the World Cup in Toronto —showed that debit and credit card spending at restaurants and bars in the city rose by just three per cent compared with the same…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "155db9a82e2f381a",
+      "date": "2026-07-04",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/fort-simpson-nwt-wildfire-9.7258696?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "No houses lost in Fort Simpson, N.W.T., wildfire",
+      "excerpt": "Some outbuildings have been damaged confirm officials on Saturday morning, with a challenging day ahead as fire grows in the south and continues to burn in residential areas",
+      "cat": "Economy"
+    },
+    {
+      "id": "3c91b6eb223518c1",
+      "date": "2026-07-04",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/keshechewan-evacuees-homelessness-racist-niagara-falls-9.7258080?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Kashechewan evacuees in Niagara Falls, Ont., get apology from mayor over homelessness comments",
+      "excerpt": "Evacuees from Kashechewan First Nation who have been living in Niagara Falls, Ont., for the last six months marched in sweltering heat through the city's downtown Friday to demand an apology over recent comments made by…",
+      "cat": "Housing"
+    },
     {
       "id": "98474218df1e657d",
       "date": "2026-07-04",
@@ -1179,6 +1366,17 @@
       "cat": "Economy"
     },
     {
+      "id": "2e5b98d4f9b3f957",
+      "date": "2026-06-11",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/soccer/worldcup/canada-world-cup-folo-july-5-9.7259272?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada's historic run at World Cup fuels players' hunger for future tournaments",
+      "excerpt": "",
+      "cat": "Economy"
+    },
+    {
       "id": "e35104b005e24a1b",
       "date": "2026-06-04",
       "src": "Immigration, Refugees and Citizenship Canada",
@@ -1386,6 +1584,17 @@
       "title": "Canada Day's a scorcher in southern Ontario. Here's how some are handling the heat wave",
       "excerpt": "",
       "cat": "Economy"
+    },
+    {
+      "id": "07c64832fc86be79",
+      "date": "2025-03-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-referendum-advertisers-fundraising-9.7258810?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How fundraising is going so far for third-party advertisers in Alberta's referendum campaign",
+      "excerpt": "",
+      "cat": "Innovation, science & industry"
     }
   ]
 }
