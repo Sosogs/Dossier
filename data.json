@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-06T14:07:31.074Z",
-  "count": 152,
+  "generatedAt": "2026-07-06T22:45:46.854Z",
+  "count": 174,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,226 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "0f00a0ad337f77a1",
+      "date": "2026-07-06",
+      "src": "Immigration, Refugees and Citizenship Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/peter-fragiskatos-mp-highlights-launch-of-national-food-security-strategy.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Peter Fragiskatos, MP, highlights launch of National Food Security Strategy",
+      "sum": "The Government of Canada is focused on building a stronger economy and making life more affordable for Canadians. Today, Peter Fragiskatos, Parliamentary Secretary to the Minister of Immigration, Refugees and Citizenship, on behalf of the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, highlighted the launch of the National Food Security Strategy.",
+      "cat": "Economy"
+    },
+    {
+      "id": "796390367a1d61f7",
+      "date": "2026-07-06",
+      "src": "Immigration, Refugees and Citizenship Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/projects-aimed-at-supporting-francophone-minority-communities.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Projects aimed at supporting Francophone minority communities",
+      "sum": "The Centre for Innovation in Francophone Immigration (CIFI) aims to integrate Francophone perspectives into immigration programs in Canada. It promotes immigration to French-speaking employers, facilitates access to programs and supports the growth of Francophone minority communities (FMCs). The CIFI supports innovative projects to reduce obstacles to immigration and offers funding to improve the promotion of FMCs…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "5e8717e8393db362",
+      "date": "2026-07-06",
+      "src": "Immigration, Refugees and Citizenship Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/canada-and-manitoba-join-forces-to-give-new-momentum-to-francophone-immigration.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada and Manitoba join forces to give new momentum to Francophone immigration",
+      "sum": "Canada is committed to supporting Francophone immigration and is focused on attracting and retaining the world’s best talent. As Francophone minority communities face significant demographic and economic challenges, the governments of Canada and Manitoba are joining forces to strengthen official language minority communities by addressing their labour needs and fostering their economic and linguistic vitality.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "5909f1ffd12c2e31",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/convoy-leader-tamara-lich-attends-july-4-party-at-u-s-ambassador-s-residence-in-ottawa-9.7260268?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Convoy leader Tamara Lich attends July 4 party at U.S. ambassador's residence in Ottawa",
+      "excerpt": "Convoy protest leader Tamara Lich had to obtain permission from her parole officer to attend an official Independence Day event at the U.S. ambassador's residence in Ottawa. She's serving a conditional sentence after…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "45e7c568b5bdb794",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/southwest-rainstorm-hail-9.7260127?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Skylights damaged, carport roof gone, car dented — but western Manitoban says she's lucky after 'scary' storm",
+      "excerpt": "Tracy Buck, 67, took shelter in her basement in Killarney, Man., during a storm that damaged homes, took down trees and shut out the lights for thousands of people on Monday night.",
+      "cat": "Economy"
+    },
+    {
+      "id": "6c680e74b8a77d2a",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/science/jeremy-hansen-retiring-9.7260110?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Astronaut Jeremy Hansen is retiring from the Canadian Space Agency",
+      "excerpt": "",
+      "cat": "Economy"
+    },
+    {
+      "id": "e3a698076cd4c0b8",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/canadian-international-ukraine-missing-people-9.7260340?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Father of volunteer soldier killed in Ukraine launches group to help families of war victims",
+      "excerpt": "A Canadian whose son was killed on the front lines of the Ukraine war is now working to help families whose loved ones are missing in action get answers.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "c9372ed884e101ef",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/elections-alberta-separation-referendum-verification-9.7260401?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Elections Alberta set to begin verifying signatures on separatist referendum petition",
+      "excerpt": "Elections Alberta says it's set to begin verifying the signatures on a petition looking to force a vote on the province separating from Canada.",
+      "cat": "Economy"
+    },
+    {
+      "id": "18e246ed46cc464e",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/bob-bowman-summer-mcintosh-canadian-swimming-trials-9.7260500?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Summer McIntosh's coach hails 'very important' 200m butterfly world record",
+      "excerpt": "Legendary swimming coach Bob Bowman has witnessed and coached many athletes to world records over his illustrious career. But being part of his first one while coaching Canadian swimming superstar Summer McIntosh on…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "3673c14169388a55",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-pharmacists-prescription-forgeries-9.7260162?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta pharmacists scramble to keep up as reports of prescription forgeries tick up again",
+      "excerpt": "The Alberta College of Pharmacy recently told its members that forgery attempts are on the rise, and it urged pharmacists to notify police.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "e7d334ade1814002",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-red-card-suspended-9.7260280?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Some N.L. soccer fans see red after Trump asks for player suspension review",
+      "excerpt": "“Who is next? Is the King of England going to withdraw the red card … where does it stop?\"",
+      "cat": "Economy"
+    },
+    {
+      "id": "d1845e4c26241a96",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/business/canada-iran-war-business-outlook-survey-9.7260279?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Iran war drove inflation expectations up, hurt business confidence: BoC",
+      "excerpt": "The Iran war both hampered business confidence and sent inflation expectations soaring, the Bank of Canada revealed in a new set of business outlook surveys published Monday.",
+      "cat": "Economy"
+    },
+    {
+      "id": "e3d5dca6916ddf06",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/submarines-germany-canada-norway-south-korea-9.7259709?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney chooses German submarines for Canadian navy fleet",
+      "excerpt": "German shipbuilder ThyssenKrupp Marine Systems is Canada's preferred choice to build the navy's new fleet of submarines — a multibillion-dollar defence program that is expected to be the largest in the country's history.",
+      "cat": "National defence"
+    },
+    {
+      "id": "2fb190a027489e99",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/diageo-amherstburg-purchase-agreement-9.7260236?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Diageo enters agreement to sell Crown Royal bottling plant in Amherstburg, Ont.",
+      "excerpt": "The makers of Crown Royal whiskey have entered into an agreement to sell their former bottling facility in Amherstburg, Ont., Diageo, has confirmed to CBC.",
+      "cat": "Economy"
+    },
+    {
+      "id": "1a3d177ff7d6fa7b",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/business/air-canada-halts-some-us-routes-9.7260269?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Air Canada halts, delays several flight routes to U.S. destinations amid high fuel costs",
+      "excerpt": "Air Canada is once again scaling back flights to the U.S. amid high jet fuel costs and lower demand for trips south of the border. Air Canada, WestJet and Air Transat all made cuts to their summer flight capacity to the…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "95052d9222b9f57f",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/presumed-drowned-boaters-mourned-richmond-bc-9.7260277?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "6 presumed drowned in charter boat disaster mourned in Richmond, B.C.",
+      "excerpt": "About 100 mourners gathered at a public dock in Richmond, B.C., to commemorate six victims missing and feared drowned after a charter boat sinking in the Strait of Georgia a week earlier.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "30ce1e5c544cb159",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/sea-to-sky-fatal-crash-overnight-closure-9.7259982?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Fatal crash leaves travellers stranded on B.C.'s Sea-to-Sky Highway overnight",
+      "excerpt": "Hundreds of people were stranded on British Columbia's Sea-to-Sky Highway overnight, where a motorcycle crash left one woman dead and prompted a lengthy closure.",
+      "cat": "Economy"
+    },
+    {
+      "id": "5ac6bb93568e761b",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/sudbury/algoma-steel-submarine-contract-9.7259921?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "German submarine deal 'unfortunate' for Algoma Steel, Sault Ste. Marie, Ont., region defence expert says",
+      "excerpt": "The bid for a federal submarine contract that could have provided Algoma Steel in Sault Ste. Marie, Ont., with additional infrastructure and hundreds of new jobs appears unsuccessful. Ottawa is expected to announce…",
+      "cat": "National defence"
+    },
+    {
+      "id": "e4e1e0014ecc462e",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/mla-jordan-kealy-charged-with-sexual-assault-seeks-jury-trial-9.7260074?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. MLA Jordan Kealy seeks jury trial for sexual assault charge",
+      "excerpt": "Independent MLA Jordan Kealy, who represents the riding of Peace River North, made a brief first appearance in Fort St. John provincial court on Monday.",
+      "cat": "Justice"
+    },
+    {
+      "id": "a7090f774176473c",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/bakx-northern-shield-ontario-alberta-oil-9.7259820?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ford, Smith unveil plan for new ‘Northern Shield’ oil pipeline between Alberta and Ontario",
+      "excerpt": "The premiers of Alberta and Ontario unveiled a proposed 3,300 km pipeline to transport oil from Western Canada to refineries in Southern Ontario.",
+      "cat": "Natural resources"
+    },
     {
       "id": "7e037d4b6f3b94ec",
       "date": "2026-07-06",
@@ -76,6 +296,17 @@
       "kind": "news",
       "title": "Timmins reptile store owner charged after confronting alleged vandal with machete",
       "excerpt": "A Timmins reptile-store owner is facing assault-related charges after police say he confronted and injured a man who had smashed the business’s storefront window. The local police are using the incident to tell the…",
+      "cat": "Economy"
+    },
+    {
+      "id": "a9c720e88c63421b",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/canadian-swimming-trials-recap-day-2-9.7260553?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Summer McIntosh breezes to women's 400m individual medley win at Canadian swimming trials",
+      "excerpt": "",
       "cat": "Economy"
     },
     {
@@ -868,6 +1099,17 @@
       "kind": "news",
       "title": "Albertans express patriotism, melancholy on Canada Day amid talk of separation",
       "excerpt": "The possibility of Alberta separating from Canada was top of mind for Maple Leaf-clad Albertans in the province's largest city as they celebrated the birth of Confederation.",
+      "cat": "Economy"
+    },
+    {
+      "id": "bc51da69a9200eb1",
+      "date": "2026-07-01",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/olds-data-centre-campaign-9.7259980?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "When big data comes to a small town: The project riling up citizens in Olds, Alta.",
+      "excerpt": "",
       "cat": "Economy"
     },
     {
