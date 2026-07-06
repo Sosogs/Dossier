@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-05T21:37:49.996Z",
-  "count": 142,
+  "generatedAt": "2026-07-06T14:07:31.074Z",
+  "count": 152,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,105 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "7e037d4b6f3b94ec",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/business/rogers-buying-mlse-9.7259583?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Rogers buying remaining stake in MLSE for $4.35B",
+      "excerpt": "Rogers Communications Inc. says it has signed a deal to buy the remaining 25 per cent stake in Maple Leaf Sports & Entertainment it does not already own from Kilmer Sports Inc. for $4.35 billion.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "fb2f4e4aa4db7a12",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/rto4-ottawa-gatineau-federal-public-service-9.7257909?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal workers return to the office 4 days a week. Will it be smooth sailing or 'another hot mess'?",
+      "excerpt": "",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "41d1fe694b58b7ff",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/richmound-celebrates-new-beginning-without-queen-9.7259494?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Saskatchewan village celebrates new beginning without ‘Queen of Canada’ cult",
+      "excerpt": "Richmound, Sask., held a street party on Saturday to celebrate starting over after two years living with the Kingdom of Canada cult. They marked the occasion by announcing a year-round greenhouse project.",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "a5f64cbb021bafa2",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/sudbury/timmins-reptile-store-vandalism-assualt-9.7258023?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Timmins reptile store owner charged after confronting alleged vandal with machete",
+      "excerpt": "A Timmins reptile-store owner is facing assault-related charges after police say he confronted and injured a man who had smashed the business’s storefront window. The local police are using the incident to tell the…",
+      "cat": "Economy"
+    },
+    {
+      "id": "8e99987d7fa1a3a9",
+      "date": "2026-07-05",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/submarines-germany-canada-korea-defence-9.7259327?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Submarine showdown: Carney poised to choose Canada's next submarine fleet",
+      "excerpt": "Prime Minister Mark Carney is expected to unveil the winner of Canada's submarine competition before heading to the NATO summit, selecting either Germany's TKMS or South Korea's Hanwha Ocean. The decision will reshape…",
+      "cat": "National defence"
+    },
+    {
+      "id": "72c1faaa10ec3957",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/trail-derailment-repentigny-quebec-9.7259370?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Train derails northeast of Montreal, police say no injuries",
+      "excerpt": "Police in Repentigny, Que., say a train derailed in the city's Le Gardeur sector on Sunday afternoon. There were no reports of injuries.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "719b87ba08fa1202",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/olympics/summer/aquatics/swimming/canadian-swimming-trials-july5-9.7259319?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Summer McIntosh breaks women’s 200m butterfly world record at Canadian swim trials",
+      "excerpt": "",
+      "cat": "Economy"
+    },
+    {
+      "id": "9a9362dffa7100bd",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/sioux-valley-dakota-nation-flooding-state-of-emergency-9.7259179?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Sioux Valley Dakota Nation declares state of emergency over rising floodwaters in Manitoba",
+      "excerpt": "Sioux Valley Dakota Nation has declared a state of emergency on Saturday as floodwaters quickly rise in the western Manitoba community and surrounding areas.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "21b4b6bd60790179",
+      "date": "2026-07-05",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/wrigley-fire-shifting-winds-9.7259191?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Shifting winds around Wrigley, N.W.T., causing fire to 'hiccup'",
+      "excerpt": "\"So far our lines have held,\" say N.W.T. Fire officials. As of Sunday, the fire remains out of control, but there have been no reports of structure loss.",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "dd45ad3a3bd203f8",
       "date": "2026-07-05",
@@ -1133,6 +1232,17 @@
       "title": "Details emerge connecting double murder, explosion and suicide in eastern Ontario",
       "excerpt": "",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "88dc74748e8db483",
+      "date": "2026-06-29",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/aggressive-wildfire-burning-near-boston-bar-9.7259251?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. wildfire balloons to 1,200 hectares, forcing evacuations in the Fraser Canyon",
+      "excerpt": "",
+      "cat": "Economy"
     },
     {
       "id": "171fd2888a56e8b9",
