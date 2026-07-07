@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-06T22:45:46.854Z",
-  "count": 174,
+  "generatedAt": "2026-07-07T11:22:42.871Z",
+  "count": 181,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,83 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "5c788a9a8bdf0a62",
+      "date": "2026-07-07",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/trump-nato-summit-ankara-9.7260138?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "NATO heads to Turkey hoping to avoid a Trump blow-up",
+      "excerpt": "European leaders, including Prime Minister Mark Carney, arrive at the NATO summit walking a political tightrope — careful not to provoke U.S. President Donald Trump abroad while avoiding the appearance of yielding to…",
+      "cat": "National defence"
+    },
+    {
+      "id": "bce9b6513dd5a92c",
+      "date": "2026-07-07",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/gas-prices-electric-vehicles-9.7260580?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney's fuel efficiency plan won't bring quick relief to cost of summer road trips, critics say",
+      "excerpt": "The federal government pitched its new tailpipe standards as a way to make fuel-efficient cars more accessible to Canadians. But two groups advocating for low-emission travel say the rules would put the country short of…",
+      "cat": "Transportation"
+    },
+    {
+      "id": "79f5fe125575772a",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/canadian-astronauts-retirement-careers-9.7260629?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Life after space is a journey all astronauts must figure out — and Jeremy Hansen's up next",
+      "excerpt": "What does an astronaut do for an encore? Teach, write or enter politics — to name a few options.",
+      "cat": "Economy"
+    },
+    {
+      "id": "1b4fe424dad315db",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/renata-ford-dead-9.7260839?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Renata Ford, wife of late Toronto mayor Rob Ford has died, premier says",
+      "excerpt": "Renata Ford, the wife of late Toronto mayor Rob Ford, has died, Ontario Premier Doug Ford says.",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "4f8c9c1d0424f768",
+      "date": "2026-07-06",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/carney-subs-deal-germany-norway-tkms-hanwha-9.7260562?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "5 key takeaways from Canada choosing Germany's submarine bid",
+      "excerpt": "Canada is negotiating to buy up to a dozen submarines from German shipbuilder ThyssenKrupp Marine Systems in a deal that is set to add tens of billions of dollars and tens of thousands of jobs to the economy.",
+      "cat": "Economy"
+    },
+    {
+      "id": "0160e06979cd5542",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/stamp-river-falls-missing-woman-9.7260361?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "1 person missing after being swept away at Stamp River Park near Port Alberni, B.C.",
+      "excerpt": "RCMP say a female swimmer is missing after she was reportedly swept away in the current at Stamp River Provincial Park near Port Alberni, B.C., Sunday evening.",
+      "cat": "Economy"
+    },
+    {
+      "id": "8b2601ecc7197f25",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7260593?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Repentigny, Que., residents shaken after train derailed just metres away from their homes",
+      "excerpt": "Forty-six railcars derailed northeast of Montreal on Sunday afternoon, close to some residents’ backyards. There were no injuries or deaths.",
+      "cat": "Transportation"
+    },
     {
       "id": "0f00a0ad337f77a1",
       "date": "2026-07-06",
