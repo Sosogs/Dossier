@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T11:22:42.871Z",
-  "count": 181,
+  "generatedAt": "2026-07-07T19:17:16.819Z",
+  "count": 198,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,193 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ab1eb799a4b76321",
+      "date": "2026-07-07",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/mark-carney-senate-tom-pitfield-9.7261037?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney appoints one of his top advisers and a Conservative MP to Senate",
+      "excerpt": "Prime Minister Mark Carney's first Senate appointments include one of his most senior advisers and a Conservative MP as he pushes to restore some partisan voices to an upper house that has been largely devoid of them…",
+      "cat": "Economy"
+    },
+    {
+      "id": "0883c35a01af63a9",
+      "date": "2026-07-07",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/saab-sweden-nato-canada-globaleye-9.7260918?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "NATO bets on Saab, giving Canada's GlobalEye gamble a major boost",
+      "excerpt": "NATO will negotiate to buy up to 10 Saab GlobalEye surveillance aircraft, joining Canada and 10 other allies in a landmark procurement. The decision bolsters Ottawa's own planned purchase, strengthens Arctic and…",
+      "cat": "National defence"
+    },
+    {
+      "id": "fcacd9f0246d1319",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-funeral-9.7257596?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "With grief and gratitude, Montreal and family honour police officer killed in line of duty",
+      "excerpt": "Mohamed Lamine Benredouane's family, police officers and politicians paid tribute to him on Tuesday.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "1add3f6407550e8a",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/collision-ambulance-pei-new-brunswick-tuesday-9.7261321?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Collision near Confederation Bridge in N.B. involved an ambulance: P.E.I. emergency services",
+      "excerpt": "New Brunswick RCMP reported around 9:30 AT Tuesday morning via Facebook that a collision had happened on Route 16 near the Confederation Bridge. Island EMS says one of its ambulance vehicles was involved. Police have…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "697e1efaaee97e11",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-attorney-general-legal-options-tumbler-ridge-9.7261071?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. 'preparing legal action' against OpenAI in wake of Tumbler Ridge mass shooting",
+      "excerpt": "B.C. Attorney General Niki Sharma says the province is seeking legal options to hold OpenAI accountable for failing to notify law enforcement about \"violent prompts made on its ChatGPT platform\" ahead of the Tumbler…",
+      "cat": "Justice"
+    },
+    {
+      "id": "121d58ccfd395699",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/hanwha-ocean-mohawk-college-ontario-shipyard-9.7261352?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "South Korean shipbuilder withdraws from Hamilton partnership after losing bid for navy submarine contract",
+      "excerpt": "South Korean shipbuilder Hanwha Ocean says it's withdrawing from a partnership with Mohawk College in Hamilton and Ontario Shipyards after losing out on a massive Canadian navy submarine contract.",
+      "cat": "National defence"
+    },
+    {
+      "id": "3f4bb89faf120543",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/london/charges-laid-against-2-accused-of-defrauding-international-students-of-126k-in-southwestern-ontario-9.7261125?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Charges laid against 2 accused of defrauding international students of $126K in southwestern Ontario",
+      "excerpt": "Two individuals in southwestern Ontario face 12 charges related to an alleged immigration scheme that involved defrauding international students of approximately $126,000, according to the Canada Border Services Agency.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "976ccc2ba4360e80",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/venezuela-family-visiting-ottawa-during-earthquakes-9.7260193?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Venezuelan family in Ottawa grapples with grief, uncertainty after quakes back home",
+      "excerpt": "Carlos and Neyda De Sousa were in Ottawa visiting their daughter Maria when the devastating earthquakes struck their home country of Venezuela on June 24. They lost loved ones in the disaster, their home was severely…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "e69df4e2434cb286",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/dry-spring-b-c-bees-9.7258298?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How a dry spring may be affecting B.C.'s bees",
+      "excerpt": "When drought conditions hit, researchers say some flowering plants get stressed and can alter their smell, colour and nectar production — making it hard for bees to get the food they need.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "4ae12bb8e067f4be",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-jail-inmate-death-9.7261389?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Inmate death at Thunder Bay Jail under 'multiple investigations,' Ontario says",
+      "excerpt": "Ontario’s Ministry of the Solicitor General (SOLGEN) has confirmed an inmate died at the Thunder Bay Jail on July 1. It comes just weeks after First Nation leaders called for the jail to be shut down over safety…",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "8446003c4a6164f8",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/evacuation-orders-wildfire-boston-bar-bc-9.7261146?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "3rd evacuation order issued as wildfire continues to burn near Boston Bar, B.C.",
+      "excerpt": "The Boston Bar First Nation issued an evacuation order for IR 2 Kopchitchin on Monday. Anyone in the affected area is asked to leave immediately.",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "5b6561ee0a74836b",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/barbour-beaumont-hamel-reaction-9.7260935?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "N.L. tourism minister ‘sorry for any disappointment’ over ‘stumble’-filled speeches",
+      "excerpt": "After drawing the ire of some Newfoundland and Labrador residents, Tourism Minister Andrea Barbour is apologizing for gaffes made at memorial ceremonies in northern France.",
+      "cat": "Economy"
+    },
+    {
+      "id": "c6805762312ce024",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/tesla-driver-asleep-9.7260847?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Viral video appears to show woman asleep behind the wheel on busy B.C. highway",
+      "excerpt": "RCMP are investigating after a video circulated that appears to show a driver asleep at the wheel of a Tesla travelling on a busy highway in southeastern B.C.",
+      "cat": "Economy"
+    },
+    {
+      "id": "55100bd524dcb7eb",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/cellular-dead-zones-911-call-issues-9.7254335?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "911 caller fears cellular 'dead zones' in Yukon's capital city could lead to tragedy",
+      "excerpt": "Trevor Mead-Robins said he hopes cellular reception issues and “dead zones” throughout Whitehorse don’t result in tragedy because someone in an emergency can’t get the help they need when they need it.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "92408bf32c283968",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/deer-fawn-jogger-kenora-9.7260408?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Daily run for Kenora, Ont., resident turns into magical dash with a doe and fawn",
+      "excerpt": "What started out as a regular daily run in suburban Kenora, Ont., for Liana Berezowski turned into a rare magical moment when a deer and fawn began dashing behind her.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "357792046cf0a420",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-court-of-appeal-first-case-in-french-9.7259938?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "N.L. appeals court could soon hear 1st ever case in French",
+      "excerpt": "The Crown is appealing a ruling that stayed sexual assault charges against a Quebec man due to trial delays. The lawyer for the accused says she'll request for the appeal to be heard in French, as the trial was.",
+      "cat": "Justice"
+    },
+    {
+      "id": "a64de31e175d1ccd",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/parks-canada-asks-public-to-help-stop-invasive-mussels-9.7260462?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Parks Canada asks public to help stop invasive mussels",
+      "excerpt": "Parks Canada says the public's help is needed to stop the spread of aquatic invasive species. Invasive mussels, with microscopic larvae, pose the biggest threat to lakes and streams.",
+      "cat": "Wildlife"
+    },
     {
       "id": "5c788a9a8bdf0a62",
       "date": "2026-07-07",
