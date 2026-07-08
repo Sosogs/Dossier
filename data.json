@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T19:17:16.819Z",
-  "count": 198,
+  "generatedAt": "2026-07-08T17:12:57.202Z",
+  "count": 226,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,292 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "9ad61b0f2394a9dd",
+      "date": "2026-07-08",
+      "src": "Immigration, Refugees and Citizenship Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/projects-aimed-at-supporting-francophone-minority-communities0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Projects aimed at supporting Francophone minority communities",
+      "sum": "The Centre for Innovation in Francophone Immigration (CIFI) aims to integrate Francophone perspectives into immigration programs in Canada. It promotes immigration to French-speaking employers, facilitates access to programs and supports the growth of Francophone minority communities (FMCs). The CIFI supports innovative projects to reduce obstacles to immigration and offers funding to improve the promotion of FMCs…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "ecb72c0e76102639",
+      "date": "2026-07-08",
+      "src": "Immigration, Refugees and Citizenship Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/canada-and-the-northwest-territories-join-forces-to-support-the-growth-of-francophone-communities.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada and the Northwest Territories join forces to support the growth of Francophone communities",
+      "sum": "Canada is making Francophone immigration a force that unites communities and recognizes the contribution of Francophone and bilingual newcomers to the growth of the Francophonie. With this in mind, to promote the demographic and economic development of communities in the Northwest Territories, the governments of Canada and the Northwest Territories are working together to ensure the retention of qualified…",
+      "cat": "Economy"
+    },
+    {
+      "id": "6e210841debe9c61",
+      "date": "2026-07-08",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/iran-war-us-carney-air-strikes-9.7262373?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney backs latest U.S. strikes on Iran as Trump slams NATO allies",
+      "excerpt": "Prime Minister Mark Carney endorsed the latest U.S. strikes on Iran as a justified response to ceasefire violations, even as President Donald Trump declared the truce finished and accused NATO allies of abandoning…",
+      "cat": "National defence"
+    },
+    {
+      "id": "176675afeffa466d",
+      "date": "2026-07-08",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/light-utility-vehicles-army-canada-competition-9.7262363?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ottawa sidelines foreign firms in $4.9B army vehicle competition",
+      "excerpt": "The Carney government has quietly scrapped the next phase of the army's $4.9-billion light utility vehicle competition, abandoning an open procurement in favour of inviting a limited number of Canadian suppliers to bid.…",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "c375566fac32d482",
+      "date": "2026-07-08",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/trump-no-basis-forced-labour-tariffs-9.7262433?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada says there's no basis for Trump's forced labour tariffs",
+      "excerpt": "The Canadian government told the Trump administration that new legislation combatting forced labour in supply chains should shield Canada from new tariffs.",
+      "cat": "Economy"
+    },
+    {
+      "id": "ba05c1ec81356b1b",
+      "date": "2026-07-08",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/tkms-canada-submarine-navy-contract-explained-9.7261980?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why is Canada spending tens of billions on new submarines?",
+      "excerpt": "Here's why the federal government's purchase of a dozen submarines could stack up to a major price tag of $100 billion or more over the lifetime of the deal.",
+      "cat": "Economy"
+    },
+    {
+      "id": "b1fd50be7566b82a",
+      "date": "2026-07-08",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/carney-senate-independent-pitfield-martel-analysis-9.7261876?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney starts to leave his mark on the Senate",
+      "excerpt": "On Tuesday, Prime Minister Mark Carney started to put his own stamp on the Senate with a handful of appointments and a tweak to the Trudeau-era guidelines that raise at least the spectre of a return to the partisan…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "65429cfaae6d7f6f",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/richmond-rcmp-charter-fishing-tragedy-victims-9.7262569?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "1 rescued in B.C. boat sinking dies in hospital, 6 still missing, RCMP say",
+      "excerpt": "RCMP say the boaters came from B.C., Ontario and Washington state. They say one of the four people who was rescued has died in hospital, while six others remain missing.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "a3f52f49c610849c",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/business/rental-prices-canada-june-2026-9.7262794?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Asking rents in Canada fall more than 4% from last year, according to report",
+      "excerpt": "A report from Rentals.ca and Urbanation says Canada saw its 21st consecutive month of year-over-year declines in rent. British Columbia and Ontario saw the biggest drops, while Atlantic Canada rents rose.",
+      "cat": "Housing"
+    },
+    {
+      "id": "b5e7720fc8753708",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Underwater images reveal 1st look at Quest, the final ship of Antarctic explorer Ernest Shackleton",
+      "excerpt": "An expedition almost 400 metres below the surface of the Labrador Sea is revealing the first images of Quest, the sunken wreck of the ship that carried famed Antarctic explorer Sir Ernest Shackleton on his final voyage.",
+      "cat": "Economy"
+    },
+    {
+      "id": "d08c9e6d25f224d0",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/extreme-weather-canada-expensive-9.7261826?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How extreme weather makes life more expensive for Canadians",
+      "excerpt": "Wildfires in B.C. and the Northwest Territories. Floods in Manitoba. Heat waves in Eastern Canada. And it’s only early July. Such events are devastating for the people and communities affected. They’re also increasingly…",
+      "cat": "Economy"
+    },
+    {
+      "id": "3a18424f80de661c",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/data-centre-moratorium-9.7260243?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Hamilton's data centre moratorium could be a Canadian first, researcher says, and more could follow",
+      "excerpt": "Hamilton could soon have a bylaw pausing data centre developments in the city. It would be the first in the country to do so, researcher Anne Pasek says.",
+      "cat": "Justice"
+    },
+    {
+      "id": "763993034b907bab",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/eces-need-regulator-say-nl-childcare-centre-operators-9.7261562?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Early childhood educators need regulatory body for accountability, say N.L. child care-centre operators",
+      "excerpt": "The chair of a group representing the owners of more than 100 child care centres in Newfoundland and Labrador says she believes early childhood educators (ECEs) are not being held to account in the same way as their…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "ae470e8bc91241cd",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/kasabonika-lake-evacuees-return-home-9.7261922?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Hundreds of wildfire evacuees in Toronto to return home to Kasabonika Lake First Nation",
+      "excerpt": "Nearly 600 wildfire evacuees from Kasabonika Lake First Nation are expected to start making their way home Thursday from Toronto. The remote Oji-Cree community declared a state of emergency June 27 due to escalating…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "d3a07048ca97d8ba",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/forsey-labrador-wildfires-july-8-9.7262578?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Fire crews continue to fight 'disheartening' fires burning in Labrador, minister says",
+      "excerpt": "Firefighting crews are continuing to tackle several wildfires burning across Labrador on Wednesday — which are bringing smoke and air quality concerns across the region.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "7c1e15f66b03b276",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/health/liquid-biopsy-treatment-9.7261615?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How Canadian researchers are using 'liquid biopsies' to find traces of tumours left after cancer treatment",
+      "excerpt": "A Toronto-based team is launching a massive, years-long research project to study liquid biopsies, a novel technology meant to catch tiny traces of tumour DNA in the blood. The goal? Finding better ways to protect…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "e8b65b2d5cd14ee9",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-world-cup-match-day-transit-9.7261526?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How did people get around Toronto during the World Cup? Here's what the data shows",
+      "excerpt": "More people took up walking, cycling and transit to get around the city when it hosted the 2026 World Cup, data obtained by CBC News from the city, TTC and Bike Share shows.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "a52190219a5fc0b7",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/railway-operations-resume-repentigny-derailment-9.7262381?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Railway operations slowly resume in Repentigny, Que., following major derailment",
+      "excerpt": "CN Rail says that for now, trains will pass through the municipality at slower speeds. The company says it will also perform inspections after each train passes.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "3f1845457522daf3",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/london/curveball-musical-kroehler-factory-ball-team-9.7260834?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "These 1950s women were furniture builders by day, ball players by night. Now, their story is hitting the stage",
+      "excerpt": "A new musical debuting at the Blyth Festival is telling the story of the Kroehler Girls, a group of Stratford women who worked at a furniture factory in the day and were championship ball players at night.",
+      "cat": "Economy"
+    },
+    {
+      "id": "903d33e254a55154",
+      "date": "2026-07-07",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/submarines-south-korea-germany-canada-military-spending-9.7261919?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney hails submarine deal as NATO win, moves to ease South Korea's disappointment",
+      "excerpt": "Prime Minister Mark Carney celebrated Canada's submarine partnership with Germany and Norway at the NATO summit, while also having a constructive conversation to reassure South Korea after Hanwha Ocean lost the…",
+      "cat": "National defence"
+    },
+    {
+      "id": "17756e3c2b1fcdca",
+      "date": "2026-07-07",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/liberal-condo-plan-bc-conservatives-9.7261672?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Liberals shelve Conservatives' request for probe of plan to buy vacant B.C. condos",
+      "excerpt": "A parliamentary ethics committee meeting left Conservative MPs frustrated Monday when Liberal members voted to shelve their demand to probe a plan to buy unsold, vacant condos in British Columbia and turn them into…",
+      "cat": "Economy"
+    },
+    {
+      "id": "f66cd0c828eede58",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/sarnia-mayor-canadian-pipeline-long-overdue-9.7261251?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "No consultation so far with area First Nation on proposed oil pipeline to Sarnia, chief says",
+      "excerpt": "The chief of Aamjiwnaang First Nation says the community looks forward to engaging constructively on a proposed new pipeline between Hardesty, Alta., and Sarnia. But Chief Janelle Nahmabin said there's been no…",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "9d5754bc99a45d1a",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/world/livestory/operation-hard-ball-indictments-9.7261430?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Dozens charged with murder, extortion and more in crackdown on India-based organized crime groups",
+      "excerpt": "",
+      "cat": "Public safety"
+    },
+    {
+      "id": "1ad7d779351d8f9d",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/niagara-parks-observation-wheel-doug-ford-controversy-9.7261621?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why Ford government's new spin on a giant ferris wheel in Niagara Falls, Ont., has become a 'saga'",
+      "excerpt": "Overwhelming public opposition and a new private-sector proposal for the SkyWheel on Clifton Hill in Niagara Falls, Ont., may have put an end to a controversial proposal by the Ford government to erect a second giant…",
+      "cat": "Economy"
+    },
+    {
+      "id": "2629760314a273a2",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/costco-shoppers-threatened-by-man-at-halifax-store-9.7261445?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Halifax police seeking man who yelled racial slurs, threats at family in Costco",
+      "excerpt": "The man then approached another customer and assaulted him, police said in a news release Tuesday. Police said hate is believed to be a motivating factor in the attack.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "e9d274a98aac7758",
+      "date": "2026-07-07",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/crop-damage-rain-floods-9.7260976?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Manitoba farmers face 'huge devastation in crops' from incessant rain, floods",
+      "excerpt": "Farmers in Manitoba may face big losses this year after an extremely wet spring and stormy early summer, the head of the province's largest agriculture lobby group says.",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "ab1eb799a4b76321",
       "date": "2026-07-07",
@@ -2180,6 +2466,17 @@
       "cat": "Sustainable development"
     },
     {
+      "id": "cdda2e82406117ef",
+      "date": "2026-02-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/ambassador-bridge-windsor-vacant-homes-west-end-sandwich-forster-high-school-9.7262027?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ambassador Bridge company aims to demolish all its vacant Windsor, Ont., homes, old high school",
+      "excerpt": "",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "9e1e68c5a17e21a7",
       "date": "2025-09-18",
       "src": "CBC Canada",
@@ -2211,6 +2508,17 @@
       "title": "How fundraising is going so far for third-party advertisers in Alberta's referendum campaign",
       "excerpt": "",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "1c4ae270238ffa67",
+      "date": "2024-05-03",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/hardeep-singh-nijjar-killing-arrests-made-faq-1.7193911?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What we know about the arrests and investigation into Hardeep Singh Nijjar's killing",
+      "excerpt": "Six men are facing charges in connection with the killing of a Sikh separatist activist in B.C., a crime that fractured the diplomatic relationship between India and Canada. Here's what we know.",
+      "cat": "Foreign affairs"
     }
   ]
 }
