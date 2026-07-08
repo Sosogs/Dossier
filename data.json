@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T17:12:57.202Z",
-  "count": 226,
+  "generatedAt": "2026-07-08T21:50:29.600Z",
+  "count": 242,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,160 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "534b8d4a462be1d4",
+      "date": "2026-07-08",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/hamilton/marineland-beluga-whales-rescue-emergency-9.7262853?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "U.S. government approves emergency rescue of belugas from Marineland in Niagara Falls, Ont.",
+      "excerpt": "The U.S. government has formally approved an emergency rescue of most of the beluga whales from Marineland in Niagara Falls, Ont., to aquariums in the United States.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "d36b4da90ea613ee",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/meta-data-centre-sturgeon-county-alberta-9.7263271?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Meta building its first Canadian data centre northeast of Edmonton",
+      "excerpt": "Meta was revealed Wednesday as the proponent of a data centre in Sturgeon County, northeast of Edmonton.",
+      "cat": "Economy"
+    },
+    {
+      "id": "51237447b7763bf5",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-nb-ambulance-transport-truck-collision-paramedics-9.7263272?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "P.E.I. first-responder community mourns after fatal crash between ambulance, transport truck in N.B.",
+      "excerpt": "A 56-year-old Island EMS paramedic who died in a collision Tuesday is being remembered by his friends and colleagues as an inspirational, dedicated and community minded person.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "a9133df9ded428db",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-fire-ban-july8-9.7263251?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "All of Newfoundland and Labrador now under fire ban",
+      "excerpt": "A provincewide fire ban has been put in place for Newfoundland and Labrador as of Wednesday evening.",
+      "cat": "Economy"
+    },
+    {
+      "id": "fdc8775445a146f0",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/boston-bar-brunswick-creek-fire-july-8-2026-9.7263069?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Wildfires near Boston Bar, B.C., growing, more evacuations ordered",
+      "excerpt": "The Brunswick and Ainslie Creek fires continues to burn out of control in B.C.'s Fraser Canyon.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "de418bcf0ae5e1d6",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/rolan-sokolovski-extradition-hearing-december-9.7262948?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ryan Wedding-linked jeweller who bought $13M Mercedes a step closer to U.S. extradition",
+      "excerpt": "Rolan Sokolovski, a Toronto jeweller accused of laundering millions for former Olympian Ryan Wedding’s alleged cocaine network, has been told to appear for a U.S. extradition hearing in December. Other co-defendants,…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "922d261a9d3b9f76",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/all-but-one-of-the-toronto-cops-charged-in-project-south-headed-directly-to-trial-9.7263148?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "All but one of the Toronto cops charged in corruption probe headed directly to trial",
+      "excerpt": "The cases against most of the Toronto police officers and six civilians charged in the police corruption and organized crime investigation dubbed Project South are expected to proceed directly to trial in Ontario’s…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "985f1fc3a635aff4",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/ammad-chaudhary-charges-dropped-pearson-heist-9.7262791?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Charges dropped against man accused of helping Toronto Pearson gold heist driver escape",
+      "excerpt": "Prosecutors have withdrawn charges against a Georgetown, Ont., man accused of being involved in the multi-million-dollar gold heist at Pearson airport in 2023.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "361613641afa6254",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/soccer/northen-super-league-investment-international-sports-firm-9.7263002?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Northern Super League draws investment of $30 million from international sports firm",
+      "excerpt": "An international firm has invested $30 million in the Northern Super League. The six-team Canadian women's pro soccer league is in its second season with clubs in Vancouver, Calgary, Halifax, Montreal, Toronto and…",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "5e80c94fc10b59c6",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/zebra-robotics-kitchener-students-win-gold-stripe-competition-9.7262781?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'I was shocked': Kitchener, Ont., student, teammates win international robotics contest for Lego Park",
+      "excerpt": "Team KAAmazing Robotics, a group of eight- and nine-year-olds from Zebra Robotics in Kitchener, Ont., won gold in the junior robotics category at the STRIPE Competition in Niagara Falls last month. The team entered the…",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "bfa273f830380464",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/hole-in-one-ace-cambridge-galt-country-club-two-same-day-hole-group-9.7262851?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "2 golfing buddies each sink an ace at same hole on same day at Cambridge, Ont., course",
+      "excerpt": "Two golfers who were part of the same group of four sank a hole-in-one at the same hole and on the same day at the Galt Country Club in Cambridge, Ont., last month. The odds of two golfers in the same group hitting a…",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "9db488b185229105",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/indigenous/flute-loan-evans-knott-mcgill-9.7262620?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Strangers rally to help bring Anishinaabe flutist to prestigious music school",
+      "excerpt": "Anishinaabe flutist Tyler Evans-Knott is set to attend McGill University's Schulich School of Music this fall, after a stranger in Vancouver donated a professional-level flute to replace his old instrument that was…",
+      "cat": "Education"
+    },
+    {
+      "id": "b991f6cc640a6ed0",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/shellfish-toxin-quebec-north-shore-food-inspection-agency-9.7262776?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Food inspection agency warns of paralytic toxin in shellfish in Quebec's North Shore",
+      "excerpt": "The Canadian Food Inspection Agency (CFIA) is warning people in parts of Quebec’s North Shore of the presence of a paralytic biotoxin in mussels, clams and oysters harvested in some areas.",
+      "cat": "Culture & heritage"
+    },
+    {
+      "id": "5479a8760bbcc893",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/canada-wide-nocturnal-bird-sound-migration-tracking-network-takes-flight-9.7262739?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada-wide nocturnal bird sound migration tracker takes flight",
+      "excerpt": "A pair of UWindsor grad students are using AI software with 100 acoustic box recorders placed across country to identify and monitor how birds communicate and travel at night.",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "9ad61b0f2394a9dd",
       "date": "2026-07-08",
@@ -2026,6 +2180,17 @@
       "cat": "Innovation, science & industry"
     },
     {
+      "id": "99612d80104ebdbd",
+      "date": "2026-06-29",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/kamloops-interior-smoke-orange-sky-9.7262692?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. Interior skies glow orange as wildfire smoke from Fraser Canyon settles in",
+      "excerpt": "",
+      "cat": "Economy"
+    },
+    {
       "id": "88dc74748e8db483",
       "date": "2026-06-29",
       "src": "CBC Canada",
@@ -2321,6 +2486,17 @@
       "title": "Canada strengthens Indo‑Pacific ties through changes to visa requirements for eligible travellers from Indonesia and Malaysia",
       "sum": "The Government of Canada is seeking to diversify Canada’s trade partners to support a stronger, more resilient economy. Safely increasing mobility between Canada and its trade partners helps support these efforts.",
       "cat": "Economy"
+    },
+    {
+      "id": "aae9537b34c1a976",
+      "date": "2026-05-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/indictments-bishnoi-gang-transnational-criminal-network-9.7262757?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Killings, extortion and drug trafficking: Court docs detail alleged crime networks operating in Canada",
+      "excerpt": "",
+      "cat": "Healthcare"
     },
     {
       "id": "382a618687455fda",
