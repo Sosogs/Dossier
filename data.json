@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T21:50:29.600Z",
-  "count": 242,
+  "generatedAt": "2026-07-09T11:26:12.649Z",
+  "count": 251,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,105 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "45f01322fa7937d6",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/corporate-watchdog-cancellation-complaints-human-rights-9.7263086?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Corporate watchdog was still accepting complaints as Carney abruptly closed it down",
+      "excerpt": "A corporate watchdog was still accepting complaints right up until the point Prime Minister Mark Carney announced its dissolution — seemingly out of nowhere — despite saying the decision to discontinue the office was…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "bee5fd31a869d099",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/health/parasite-united-states-canada-illness-9.7263481?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "A diarrhea-causing parasite has infected more than 1,000 in the U.S. Is it in Canada?",
+      "excerpt": "A diarrhea-causing parasite has led to a growing outbreak in the United States that has sickened more than 1,000 people and sent dozens to hospital.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "5f97f7c05e0dc863",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-opioid-overdose-calls-9.7263119?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What's behind drop in opioid-related deaths, rise in 911 calls in Ontario? Researcher gives insight",
+      "excerpt": "A public health researcher who focuses on Canada's addictions crisis cites several factors for why opioid-related death rates are declining yet 911 calls have risen in Thunder Bay and other Ontario cities, some of the…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "c96fd60598d162ba",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/climate/canada-pipelines-emission-climate-change-9.7259904?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Plans for more pipelines to export Canadian oil — and emissions — as planet keeps getting hotter",
+      "excerpt": "Pipeline announcements seem to be in abundance at the moment, with ambitions to see more Alberta crude flowing both east and west. But whether or not these plans are realized, the reality is that boosting Canadian oil…",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "cfc2a58a61396978",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/olivier-lamy-ryan-beck-among-those-who-died-in-wildfire-fighting-plane-crash-near-fort-simpson-n-w-t-9.7262021?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "N.W.T. fire officials identify 2 people who died fighting wildfires near Fort Simpson",
+      "excerpt": "Ryan Beck and Olivier Lamy died while they were involved in firefighting operations near the community on June 24, N.W.T. Fire confirmed Wednesday. A third person who died in the crash has not been named.",
+      "cat": "Economy"
+    },
+    {
+      "id": "b198e29f6bfd0984",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/schoenborn-conditional-release-stable-manageable-9.7263573?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Review board cites 'manageable' risk in conditional discharge of B.C. child killer",
+      "excerpt": "The British Columbia Review Board says the risk posed by a man found not criminally responsible for killing his three children is now \"manageable\" in the community with oversight, supervision and multiple conditions.",
+      "cat": "Justice"
+    },
+    {
+      "id": "78d2b4e161343fc2",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/misha-pavelick-killing-conviction-appeal-9.7263604?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Man convicted as youth in 2006 Sask. fatal stabbing files appeal",
+      "excerpt": "The man convicted of fatally stabbing Misha Pavelick, 19, at a party at a campground near Regina Beach in 2006 is appealing his conviction.",
+      "cat": "Economy"
+    },
+    {
+      "id": "1e053019162b98f1",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7263530?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Days after derailment, trains are back on tracks in Repentigny, Que. — and residents are uneasy",
+      "excerpt": "Railway operations are resuming in the municipality northeast of Montreal, as crews continue to clean up 45 cargo train cars that derailed Sunday. CN says for now, trains will pass through at slower speeds and will be…",
+      "cat": "Transportation"
+    },
+    {
+      "id": "4998e694bc277fae",
+      "date": "2026-07-08",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/organized-crime-groups-india-based-arrest-charges-us-canada-response-sikh-groups-9.7262239?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Sikh advocates, Canadian politicians respond to 'Operation Hard Ball' crackdown on 3 India-based crime gangs",
+      "excerpt": "Law enforcement officials described the arrests and charges as having dismantled leadership at the top of organizations that have preyed on the Indian diaspora for years, but Sikh advocacy groups said there are larger…",
+      "cat": "Justice"
+    },
     {
       "id": "534b8d4a462be1d4",
       "date": "2026-07-08",
