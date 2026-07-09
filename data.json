@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T11:26:12.649Z",
-  "count": 251,
+  "generatedAt": "2026-07-09T18:28:39.669Z",
+  "count": 271,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,204 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "2ec41928c0430e3b",
+      "date": "2026-07-09",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/saudi-economy-canada-iran-ceasefire-9.7263955?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney courts Saudi Arabia as U.S.-Iran ceasefire collapses",
+      "excerpt": "Prime Minister Mark Carney sought to deepen ties with Saudi Arabia on Thursday as renewed U.S.-Iran fighting overshadowed his visit. Canada condemned Iranian attacks on Gulf shipping, reaffirmed support for regional…",
+      "cat": "Justice"
+    },
+    {
+      "id": "121d7f19a7660237",
+      "date": "2026-07-09",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/eddie-goldenberg-chretien-9.7264560?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Former Chrétien chief of staff Eddie Goldenberg dead at 77",
+      "excerpt": "Eddie Goldenberg, who served as chief of staff to former prime minister Jean Chrétien, has died at the age of 77.",
+      "cat": "Economy"
+    },
+    {
+      "id": "3659f6e1e29f2f9e",
+      "date": "2026-07-09",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/erdogan-carney-nato-leaders-engraved-pistol-9.7263688?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Turkish president gifts Carney, NATO leaders each an engraved pistol",
+      "excerpt": "Turkish President Recep Tayyip Erdogan gifted Prime Minister Mark Carney a pistol with his name engraved on it, along with ammunition.",
+      "cat": "National defence"
+    },
+    {
+      "id": "fd434310da97c9cf",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7263345?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "WATCH LIVE | Teachers debate the biggest issues affecting Ontario schools",
+      "excerpt": "From class sizes to special education, we've heard from countless Ontario students about the top issues affecting their classrooms. Now, with the last school year behind them and the fall less than two months away,…",
+      "cat": "Education"
+    },
+    {
+      "id": "2c848c99ad1fb9ad",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/danielle-dobersheck-domestic-intimate-partner-violence-melfort-9.7257786?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'I'm going to kill you one day': Friends, family say Danielle Dobersheck faced violence before homicide",
+      "excerpt": "Many of the details about the night Danielle Dobersheck died in a Melfort motel room have come out in court. But her family and friends say the story of what happened to her goes back much further.",
+      "cat": "Justice"
+    },
+    {
+      "id": "0c464c626e0608ca",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/wildfire-brunswick-complex-bc-9.7264316?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'There's wreckage everywhere': Resort owner loses cabins, trailers in growing B.C. wildfires",
+      "excerpt": "The owner of a resort in B.C.'s Fraser Canyon says part of his business has burned to the ground as a group of wildfires grows to nearly 200 square kilometres.",
+      "cat": "Economy"
+    },
+    {
+      "id": "ba6ced394dea5f30",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/beaverlodge-amber-alert-9.7263841?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Beaverlodge RCMP issue Amber Alert for 6-year-old boy",
+      "excerpt": "Police say Lanakai Morrison, 6, was taken on Tuesday. He may be with his mother, 35-year-old Krista Morrison. Daniel Ludwig, 35, and Karl Morrison, 4, may be travelling with them.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "1cceefa2656169e4",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-tornado-alert-9.7263803?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "3 people taken to hospital, damage reported after RCMP say tornado touched down at Alberta campground",
+      "excerpt": "Alberta RCMP spokesperson Const. Sandra Geiger told CBC News that officers were called to the area around 8:30 p.m. after reports of a tornado.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "93f61ca54e9938d0",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/heavy-truck-drivers-quebec-9.7263957?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Quebec requires new truck drivers from Ontario to take an exam",
+      "excerpt": "Following several collisions involving heavy vehicles, Quebec has announced new measures aimed at addressing the issue of inexperienced drivers from Ontario.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "a26f640f5cda5393",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/region-of-waterloo-appeal-court-made-multiple-errors-encampment-decision-9.7264111?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Appeal of Ontario judge's decision preventing removal of encampment residents cites 'multiple errors'",
+      "excerpt": "The Region of Waterloo has issued a notice of appeal of an Ontario judge's May decision that prevented the removal of people living in a Kitchener encampment. The court made \"multiple errors and mixed fact and law,\" the…",
+      "cat": "Justice"
+    },
+    {
+      "id": "99a59b5d2c9d132b",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-nb-ambulance-transport-truck-collision-paramedic-community-mourning-9.7264088?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "23-year-old paramedic who died in N.B. collision remembered as 'kind, compassionate'",
+      "excerpt": "The father of the 23-year-old paramedic who died in a collision between an ambulance and transport truck on Tuesday is remembering the difference his daughter made in the world.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "62d5d7a3a52def9c",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-hardball-gang-extortion-accused-9.7263381?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Extortion, drugs, assassination and transnational Indian crime syndicates: 'Operation Hard Ball' explained",
+      "excerpt": "Canadian and U.S. authorities laid out sweeping allegations of racketeering, extortion and murder against a trio of transnational Indian crime syndicates this week, including the Lawrence Bishnoi gang. CBC News has…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "15a1cdeef1fd8584",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-judge-decision-ufca-sipeknekatik-first-nati-9.7263053?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Judge shuts down lawsuit launched by group opposed to Sipekne’katik First Nation fishery",
+      "excerpt": "A Nova Scotia judge has dismissed a lawsuit launched by a commercial fishing group that argued Sipekne’katik First Nation’s fishery in the province’s southwest was unlawful and wanted the court to declare the band does…",
+      "cat": "Justice"
+    },
+    {
+      "id": "9ad20af92b763b79",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/more-than-50-manitoba-municipalities-have-declared-local-states-of-emergency-due-to-flooding-storms-9.7262665?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "More than 50 Manitoba municipalities have declared local states of emergency due to flooding, storms",
+      "excerpt": "Cottagers and homeowners around Manitoba's Whiteshell Provincial Park are the latest to experience damage from recent storms in the province, as dozens of other communities have declared local states of emergency due to…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "9c9975c3547ebe26",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/sudbury/alberta-ontario-pipeline-proposal-9.7263248?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta-Ontario pipeline proposal faces criticism over costs, need and lack of Indigenous consultation",
+      "excerpt": "A recent proposal to build a new pipeline from Alberta to Ontario is drawing support from the president of the municipal association representing more than 100 cities and towns across northeastern Ontario. But an oil…",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "21809b063cdcf844",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/canadian-residency-wait-quebec-family-9.7261832?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "‘What do I do?’: 6-year wait for permanent residency leaves Montreal father in limbo",
+      "excerpt": "Mohamad Ataya just wants one thing. To live here in Montreal with his family. But while his wife and two young children are Canadian citizens, Ataya's life here has been in limbo for years – waiting for permanent…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "b50a95db59bfcb77",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/st-vincents-warning-deadly-ocean-9.7263063?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Don't stand in 'deadly' ocean in St. Vincent's, N.L., whale-watchers warned",
+      "excerpt": "St. Vincent's residents are fearful of potential deaths, saying some whale watchers are ignoring warnings and stepping into dangerous waters.",
+      "cat": "Economy"
+    },
+    {
+      "id": "b877cd75234bb17a",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-olivia-rodd-investigation-child-youth-advocate-9.7262483?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'Preventable' death of 9-year-old P.E.I. girl a result of 'systemic failures,' child advocate says",
+      "excerpt": "A report by the child and youth advocate on his investigation into the 2020 death of Olivia Rodd provides harsh criticism of the P.E.I. government and mental health services in the province, laying out instances when…",
+      "cat": "Healthcare"
+    },
     {
       "id": "45f01322fa7937d6",
       "date": "2026-07-09",
@@ -88,6 +286,28 @@
       "title": "N.W.T. fire officials identify 2 people who died fighting wildfires near Fort Simpson",
       "excerpt": "Ryan Beck and Olivier Lamy died while they were involved in firefighting operations near the community on June 24, N.W.T. Fire confirmed Wednesday. A third person who died in the crash has not been named.",
       "cat": "Economy"
+    },
+    {
+      "id": "38c992e45c2ff886",
+      "date": "2026-07-08",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/trump-nato-carney-summit-9.7263578?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Trump leaves NATO united on paper, uncertain in practice",
+      "excerpt": "NATO leaders won Donald Trump’s public endorsement of the alliance’s collective-defence guarantee, but little else was settled. The summit ended amid uncertainty over future U.S. troop commitments, defence funding, next…",
+      "cat": "National defence"
+    },
+    {
+      "id": "8ca0440a4305b5e5",
+      "date": "2026-07-08",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/ndp-leader-avi-lewis-not-running-9.7263465?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "NDP Leader Avi Lewis rules out running in upcoming byelections",
+      "excerpt": "Since winning the NDP leadership race in March, Lewis has remained seatless as the federal party faces the difficult task of rebuilding from its historic low of five MPs.",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "b198e29f6bfd0984",
