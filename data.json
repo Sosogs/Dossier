@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T11:23:31.957Z",
-  "count": 284,
+  "generatedAt": "2026-07-10T18:08:50.576Z",
+  "count": 291,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,83 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "39c7becd5be5f7a4",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/london/owen-sound-ontario-restaurant-owner-death-man-sentenced-9.7264526?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "British man guilty in manslaughter of Owen Sound restaurateur Sharif Rahman sentenced to 3½ years in prison",
+      "excerpt": "A British man who pleaded guilty to manslaughter in the death of restaurant owner Sharif Rahman nearly three years ago in Owen Sound, Ont., has been sentenced to 3½ years in prison. Robert Evans Jr. struck Rahman…",
+      "cat": "Economy"
+    },
+    {
+      "id": "85f5e71ddf7c0a70",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/brunswick-wildfire-complex-july-10-9.7265703?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'Vigorous fire behaviour' expected for B.C. wildfire complex near Boston Bar, despite slight reprieve",
+      "excerpt": "The Brunswick wildfires complex near Boston Bar, B.C., continues to rage out of control Friday.",
+      "cat": "Economy"
+    },
+    {
+      "id": "9a1e47c197dd23ce",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-procession-to-bring-home-pei-paramedics-nb-crash-9.7265469?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Procession underway to bring P.E.I. paramedics who died in N.B. crash home",
+      "excerpt": "The two paramedics who died earlier this week in New Brunswick are being brought home to P.E.I. in a procession that is now underway. Mike MacKenzie and Jenna Croucher were among three people who died Tuesday in a…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "3abc6e248b6a05d5",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/man-charged-in-halifax-costco-incident-9.7265659?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Man, 37, charged in Halifax Costco incident",
+      "excerpt": "Police have laid a slew of charges in relation to an incident last weekend in which a man was caught on camera yelling racially offensive language at a family shopping at a Halifax Costco.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "b064292c6dcdfd0f",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-trucking-reacts-quebec-law-9.7264238?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'I don't blame them,' says instructor after Quebec requires new Ontario truckers to take exam",
+      "excerpt": "Following several collisions involving heavy vehicles, Quebec has announced new measures aimed at addressing the issue of inexperienced drivers from Ontario. The auditor general of Ontario and members of the trucking…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "ab3b1bcc33532d8d",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-fire-risk-9.7265264?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why fire risk is already high this summer — despite a snowy winter and cool June for parts of N.L.",
+      "excerpt": "A drought in 2025 contributed to Newfoundland and Labrador's current wildfire challenge, according to Memorial University of Newfoundland biogeography professor Carissa Brown. Environmental conditions and long-term…",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "1b12934f525260b4",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/marineland-rescue-plan-whales-breeding-9.7264656?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ban breeding and entertainment as condition to ship Marineland whales to U.S., animal rights group urges",
+      "excerpt": "Canadian government permits allowing most of the 30 beluga whales at Marineland in Niagara Falls, Ont., to be shipped to U.S. aquariums should come with the condition that the whales aren't to be bred, a national animal…",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "9921bad7d1f8d155",
       "date": "2026-07-10",
