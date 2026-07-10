@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T18:28:39.669Z",
-  "count": 271,
+  "generatedAt": "2026-07-10T11:23:31.957Z",
+  "count": 284,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,149 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "9921bad7d1f8d155",
+      "date": "2026-07-10",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/senate-missed-votes-9.7264884?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Dozens of senators routinely miss key votes in the Red Chamber",
+      "excerpt": "Dozens of senators are routinely absent from the Red Chamber and some legislative changes pass with barely half of all members casting a vote, according to a CBC News analysis of attendance records.",
+      "cat": "National defence"
+    },
+    {
+      "id": "ab1d4c211b1980f4",
+      "date": "2026-07-10",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/calgary/drumheller-separatism-debate-9.7261829?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'It’s awkward': Why Alberta's separation debate tends to live mostly online",
+      "excerpt": "In Drumheller, residents say local Facebook groups are full of angry banter, especially from a couple of hot-heads. But most of the time, people aren’t talking about separatism face-to-face — not unless they’re fairly…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "7aa05c9d20db1967",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/cra-tax-refund-mistakes-delays-9.7264970?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "After he returned mistaken $24,000 tax refund, his CRA account was locked, actual tax refunds delayed",
+      "excerpt": "When Alex Pilon received a $24,274.26 deposit in his bank account last March labelled 'Tax Refund - Canada' he knew it was a mistake, contacted the Canada Revenue Agency and returned the full amount. A year and a half…",
+      "cat": "Finance"
+    },
+    {
+      "id": "923f53cf18a0e287",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/gun-related-intimate-partner-violence-statistics-canada-9.7264967?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Rates of gun-related intimate partner violence rising: StatsCan",
+      "excerpt": "Rates of intimate partner violence involving a firearm increased significantly between 2010 and 2024, according to new research released by Statistics Canada Wednesday.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "13093e3691770600",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/dauphin-field-hospital-closed-flooding-9.7265147?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Field hospital needed after flooding closes Manitoba health-care centre, residents say",
+      "excerpt": "Susan Thiele says she's terrified and she wants some sort of replacement for the regional hospital six blocks from her home in Dauphin, Man., after it was closed by flooding that took out its power and destroyed its…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "b03cb323cb4411e4",
+      "date": "2026-07-09",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/conservatives-liberals-2025-spending-9.7264585?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Conservative Party had $85M in revenue but ended 2025 with a $14M deficit",
+      "excerpt": "After taking in almost $85 million in revenue in 2025, the Conservative Party still finished the year with an annual deficit of more than $14 million, according to recently published financial audits filed with…",
+      "cat": "Finance"
+    },
+    {
+      "id": "fd5e46e2f2cd454d",
+      "date": "2026-07-09",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/caroline-elliott-response-poilievre-liberal-lobbyist-comment-9.7264689?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. Conservative claps back at Poilievre, says federal leader should 'unite not divide'",
+      "excerpt": "The runner-up in the recent B.C. Conservative leadership race urged Pierre Poilievre to avoid divisive comments after the federal Conservative leader took a dig at her campaign over the weekend.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "72accd6ccc2e77ca",
+      "date": "2026-07-09",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/mark-carney-recep-tayyip-erdogan-nato-summit-gun-9.7264610?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Turkey's president gifted Carney a revolver. Carney gave him maple syrup",
+      "excerpt": "Turkish President Recep Tayyip Erdoğan gave every NATO leader a .357 magnum revolver at the end of the summit in Ankara — a gift Prime Minister Mark Carney says was \"not what I expected.\"",
+      "cat": "National defence"
+    },
+    {
+      "id": "4d4aba4b6fa0524e",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/project-south-jail-guard-alleged-murder-plot-target-9.7264797?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Jail guard targeted in Project South alleged murder plot accused of overseeing abusive practices",
+      "excerpt": "The senior corrections officer targeted in an alleged murder plot that sparked the Project South probe into police corruption defended his work at Toronto South Detention Centre in court Thursday in response to…",
+      "cat": "Justice"
+    },
+    {
+      "id": "5346ce70c23e03bf",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/assault-charges-hamilton-july-7-9.7264504?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Boys, 11 and 12, assault 8-year-old with bear spray, Hamilton police say",
+      "excerpt": "Hamilton police say an 11 and 12-year-old broke into a Canadian Tire store Tuesday, stole bear spray then assaulted an eight-year-old with it near Upper Ottawa Street and Rymal Road.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "89f18bf6d4ae96e4",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7264643?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What caused the devastating flooding in parts of Manitoba?",
+      "excerpt": "Both geography and climate change played a role in the severe flooding that's hit western Manitoba communities such as Swan River, Minitonas and Dauphin. CBC's Bartley Kives explains how it happened.",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "e96dc9d0f7532deb",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/bruno-marchand-quebec-city-homelessness-encampments-9.7264422?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Quebec City mayor called out for comments on homelessness, encampments",
+      "excerpt": "Quebec City Mayor Bruno Marchand is receiving pushback from local community groups following a series of comments he made about homelessness and his administration’s position on encampments.",
+      "cat": "Housing"
+    },
+    {
+      "id": "61a16a6c4265bdc5",
+      "date": "2026-07-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/tennis/sinner-djokovic-national-bank-open-field-montreal-9.7264286?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "World No. 1 Jannik Sinner, Novak Djokovic headline National Bank Open field in Montreal",
+      "excerpt": "Top-ranked Jannik Sinner and 24-time Grand Slam champion Novak Djokovic highlight the 96-player list for this summer's National Bank Open, in Montreal, one year after several top players pulled out of the ATP 1000…",
+      "cat": "Economy"
+    },
     {
       "id": "2ec41928c0430e3b",
       "date": "2026-07-09",
