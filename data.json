@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T18:08:50.576Z",
-  "count": 291,
+  "generatedAt": "2026-07-11T07:23:46.863Z",
+  "count": 305,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,160 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "bc829077accc8b85",
+      "date": "2026-07-10",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-opening-9.7266280?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Gordie Howe International Bridge to open July 27, Ottawa confirms",
+      "excerpt": "The Gordie Howe International Bridge connecting Ontario to Michigan will open July 27, the federal government has confirmed.",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "3f5febe17a590607",
+      "date": "2026-07-10",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/entertainment/justin-trudeau-katy-perry-watch-it-burn-clip-9.7266505?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Cute or cringe? The internet weighs in on Trudeau's TikTok 'dancing debut'",
+      "excerpt": "It's been more than a year since Justin Trudeau stepped down as Canada's prime minister, but he keeps bouncing back. This week, he hopped into millions of social media feeds in a promo video for his popstar girlfriend…",
+      "cat": "Economy"
+    },
+    {
+      "id": "ef5494c0135fc41b",
+      "date": "2026-07-10",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/24-sussex-mark-carney-fundraising-public-donor-list-9.7266278?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "More than 2,000 Canadians have donated toward restoration of 24 Sussex Drive",
+      "excerpt": "More than 2,000 individual donors from across Canada have so far contributed to a crowdfunding campaign to restore 24 Sussex Drive, the now derelict official residence of the prime minister in Ottawa.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "7141653551232f92",
+      "date": "2026-07-10",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/supreme-court-mandatory-minimum-prostitution-minor-9.7265835?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Supreme Court restores minimum sentence for obtaining sexual services from a minor",
+      "excerpt": "The Supreme Court of Canada has reinstated the mandatory minimum sentence for offenders who obtain or solicit sexual services from a minor in exchange for money.",
+      "cat": "Justice"
+    },
+    {
+      "id": "11902bcfd5921d6e",
+      "date": "2026-07-10",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-fireworks-bluesfest-july-9-canada-day-reason-9.7265431?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Councillors blast unannounced, belated Canada Day fireworks show",
+      "excerpt": "An unannounced fireworks show over downtown Ottawa surprised and confused many people late Thursday night. A councillor for the area said the decision was made by the city and federal government.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "5716ea691e690c3e",
+      "date": "2026-07-10",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/business/canada-jobs-june-2026-9.7265428?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada added 18,000 jobs in June as unemployment rate edged down",
+      "excerpt": "Canada's economy added 18,000 jobs in June, continuing the momentum in the job market seen the month before and helping to edge down the unemployment rate slightly to 6.5 per cent.",
+      "cat": "Economy"
+    },
+    {
+      "id": "44529ac0abc3186a",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/500-cheques-disaster-financial-assistance-manitoba-9.7266235?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "$500 cheques to be mailed to flooded Manitobans applying for disaster financial assistance, premier says",
+      "excerpt": "A $500 cheque will be in the mail as soon as possible for flood-stricken Manitobans who've applied for disaster financial assistance, and a one-time grant program is in place for anyone in the hardest-hit communities,…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "42fadc1903966051",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/indigenous/ontario-alberta-bc-chiefs-pipelines-reaction-9.7266055?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "First Nations chiefs across country 'blindsided' by pipeline announcements",
+      "excerpt": "First Nations chiefs countrywide are expressing concern about the lack of engagement after two pipelines were announced in Alberta, B.C. and Ontario. Two leaders say they only learned of the plans through last-minute…",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "0380efa538e14e37",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/newmarket-chief-positivity-officer-9.7265419?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ever heard of a chief positivity officer? This Ontario man's job is to ensure optimism is a town priority",
+      "excerpt": "From positivity ambassador to chief positivity officer, Jamie Boyle's role in the Town of Newmarket blossomed over the years as he maintained connections with public services and community groups.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "4c7ada78bb9efc46",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/man-charged-in-halifax-costco-incident-racism-9.7265659?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Man charged after racist tirade in Halifax Costco",
+      "excerpt": "Police have laid several charges after a man was caught on camera yelling profanity and racial slurs at a family shopping at a Halifax Costco.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "2024573264d3beba",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/first-nations-youth-protection-law-9.7265925?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Historic deal grants Uashat mak Mani-utenam jurisdiction over its child welfare",
+      "excerpt": "The Uashat mak Mani-utenam band council is officially taking control of its youth protection services, implementing its own community-led legal framework.",
+      "cat": "Economy"
+    },
+    {
+      "id": "33b48c3f89ff7149",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/sirt-rcmp-chelsea-man-with-weapon-police-shooting-9.6992237?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Subject of 'dangerous man' alert killed by N.S. Mountie hours after public told risk was over",
+      "excerpt": "Questions are being raised about the Nova Scotia RCMP's decision to call off an emergency alert warning the public of an armed and dangerous man — who was later shot and killed by police — while he was still at large.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "b048de284a4d0e53",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-associate-deportation-gun-irb-9.7265908?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Deportation order issued against Bishnoi associate linked to gun used in B.C. shootings",
+      "excerpt": "An immigration tribunal issued a deportation order Friday against a Bishnoi gang associate accused of hiding a gun used in one of a series of shootings against a Surrey, B.C., café owned by famed Indian comedian and TV…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "26365b1d0affdd1f",
+      "date": "2026-07-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-court-gas-station-sexual-assault-9.7265891?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Man found guilty of sexual assault at Regina gas station after using 'just joking' defence",
+      "excerpt": "Judge Steven Schiefner ended his decision with a quote from another court case: \"No consent means no touching; joking or not!\"",
+      "cat": "Justice"
+    },
     {
       "id": "39c7becd5be5f7a4",
       "date": "2026-07-10",
