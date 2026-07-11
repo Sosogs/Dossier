@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T07:23:46.863Z",
-  "count": 305,
+  "generatedAt": "2026-07-11T15:33:16.346Z",
+  "count": 307,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,28 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "7fabf1bf29ccf3a6",
+      "date": "2026-07-11",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/canada-farmland-carney-food-security-strategy-young-farmers-9.7266016?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada has lost millions of hectares of farmland. Where is it all going?",
+      "excerpt": "The Carney government's recently released National Food Security Strategy aims to spend billions over a decade to produce more food in Canada. But it comes as Canadian farmers continue to lose land and struggle to…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "c0463e6751f34b59",
+      "date": "2026-07-11",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/defence-spending-canada-uk-nato-9.7266431?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada's next defence fight won’t be over spending. It’ll be over trust",
+      "excerpt": "Britain’s political upheaval exposed a simple reality: Defence spending without fiscal credibility is a political liability. Canada has bought itself time by revealing few details of its long-term plans. That changes…",
+      "cat": "National defence"
+    },
     {
       "id": "bc829077accc8b85",
       "date": "2026-07-10",
