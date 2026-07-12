@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T15:33:16.346Z",
-  "count": 307,
+  "generatedAt": "2026-07-12T07:50:39.990Z",
+  "count": 318,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,127 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ed5d757fcdcc31d1",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/drowning-deaths-in-b-c-9.7267193?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. drowning deaths rise sharply as safety groups urge life-jacket use",
+      "excerpt": "B.C. has recorded the sharpest increase in drowning deaths, higher than any other provinces in Canada this year, according to the B.C. and Yukon Lifesaving Society. It says at least 30 people have drowned in the…",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "8215f81d61b01d87",
+      "date": "2026-07-11",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/alpha-gal-syndrome-tick-bite-meat-allergy-9.7266506?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Rare tick-bite allergy leaves Nova Scotia woman unable to eat meat or dairy",
+      "excerpt": "A Pictou County woman says she is afraid to leave her house after being diagnosed with alpha-gal syndrome, a rare allergic reaction to meat and dairy linked to lone star tick bites.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "977fe4048717ddb9",
+      "date": "2026-07-11",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/investigates/north-fraser-pretrial-centre-port-coquitlam-jail-security-lapses-escape-alkhalil-9.7266160?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Staff fear rot and anti-'rat' culture help fuel escape risks at Port Coquitlam jail",
+      "excerpt": "A jail that has held the likes of serial killer Robert Pickton, war criminals and Canada’s most notorious gangsters awaiting trials in its segregation cells is in an internal spiral.",
+      "cat": "Justice"
+    },
+    {
+      "id": "80b32caf9a437bf5",
+      "date": "2026-07-11",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/bus-thief-sentenced-9.7266099?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Man who took Hamilton bus on joy ride accepts longer jail sentence to get mental health treatment",
+      "excerpt": "The man who took a Hamilton city bus on a joy ride — with passengers still on board — is serving nine-months in jail. Though the Crown asked for a lower sentence, the man agreed to serve an extra month so he could get…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "800a67ae5b537971",
+      "date": "2026-07-11",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/london/ss-erie-belle-marine-survey-9.7262214?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "A ship exploded in Lake Huron 143 years ago. Now, a team is trying to find its wreckage",
+      "excerpt": "A group of marine archaeologists and volunteers will take to Boiler Beach near Kincardine, Ont., this summer to learn more about the SS Erie Belle steamboat explosion from 1883.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "d8983506168308b3",
+      "date": "2026-07-11",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/brunswick-fire-complex-highway-reopens-9.7266942?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C.'s Highway 1 reopens in Fraser Canyon, but twin wildfires remain out of control",
+      "excerpt": "Officials reopened Highway 1 through British Columbia's Fraser Canyon on Saturday, but warned that active wildfire operations continue in the area.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "47b97f9ed97e36ad",
+      "date": "2026-07-11",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/mark-hiscock-sepsis-9.7265613?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "N.L. musician Mark Hiscock's death from sepsis was preventable, says his family",
+      "excerpt": "More than a year after Newfoundland musician Mark Hiscock died unexpectedly from sepsis, his family is still reeling from the loss — and say his death was preventable.",
+      "cat": "Economy"
+    },
+    {
+      "id": "011ca1b5c068130a",
+      "date": "2026-07-11",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/explainer-bc-charter-fatal-sinking-near-richmond-9.7266516?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What we know about the deadly charter boat sinking off B.C.’s coast",
+      "excerpt": "Here’s what we know about the deadly charter boat sinking off the shores of Richmond, B.C., the people who were aboard, concerns raised about the vessel and the investigation into the company that operated it.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "67b98295afc17c40",
+      "date": "2026-07-11",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-population-growth-decline-9.7266098?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Quebec's population is shifting — and not every region will grow the same way",
+      "excerpt": "New projections from the Institut de la statistique du Québec (ISQ) suggest population growth will become increasingly uneven across the province. Parts of Quebec could see their populations shrink over the coming…",
+      "cat": "Culture & heritage"
+    },
+    {
+      "id": "f759b8f00385174d",
+      "date": "2026-07-11",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/project-lifesave-bracelet-annapolis-valley-search-9.7264520?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How a bracelet helped a search team find a missing N.S. senior",
+      "excerpt": "The elderly man wandered away from his home in Nova Scotia's Annapolis Valley last weekend.",
+      "cat": "Economy"
+    },
+    {
+      "id": "043ecd0938aacd5d",
+      "date": "2026-07-11",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/speed-cameras-safety-9.7262048?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Sask. roads could become more dangerous with speed cameras temporarily off, experts say",
+      "excerpt": "Cameras can deter drivers from speeding, experts say, leading to fewer crashes and safer roads.",
+      "cat": "Transportation"
+    },
     {
       "id": "7fabf1bf29ccf3a6",
       "date": "2026-07-11",
