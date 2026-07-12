@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T07:50:39.990Z",
-  "count": 318,
+  "generatedAt": "2026-07-12T20:29:32.724Z",
+  "count": 327,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,105 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "4e98dbba3ee6a04c",
+      "date": "2026-07-12",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/business/canada-energy-sovereignty-oil-climate-9.7265441?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney talks about Canada's 'energy sovereignty.' But what does that really mean?",
+      "excerpt": "Soon after Donald Trump took office for a second time, with punishing tariffs and menacing talk of Canada as \"the 51st state,\" this country's leaders began to invoke the idea of \"energy sovereignty.\" But the Carney…",
+      "cat": "Economy"
+    },
+    {
+      "id": "e2852580601bf042",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/kootenay-boston-bar-wildfires-evacuation-alert-9.7267501?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. wildfire sparks East Kootenay evacuation alert, weather helps firefight near Boston Bar",
+      "excerpt": "Dozens of people have been told to leave their homes on a moment's notice due to an out-of-control wildfire in British Columbia's southeast.",
+      "cat": "Economy"
+    },
+    {
+      "id": "c729940c63371d0e",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/livestory/toronto-shooting-st-clair-9.7267199?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Witnesses, residents recount aftermath of Toronto festival shooting that left 2 dead, multiple people injured",
+      "excerpt": "",
+      "cat": "Economy"
+    },
+    {
+      "id": "5a32fcfc3ca8c1d5",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/guinea-fowl-for-tick-control-9.7260209?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Guinea fowl sales spike in N.S. as homeowners look for natural tick control",
+      "excerpt": "Some guinea fowl breeders in Nova Scotia are seeing a surge in demand for the birds to control the tick population. Scientists note they could serve as a supplementary control method, and breeders stress space…",
+      "cat": "Economy"
+    },
+    {
+      "id": "497847de35663546",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-tornado-spotting-pownal-bay-mount-mellick-9.7267449?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'Pure excitement': Islanders describe spotting tornado off coast of P.E.I.",
+      "excerpt": "Laura MacNeil has been running shoreline tours in the Vernon Bridge area of P.E.I. for six years. While her tours typically highlight the Island's fossil sites, MacNeil's tour group Saturday morning got to witness a…",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "8ff1b0ba1e107d3d",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/cse-sensors-north-9.7264185?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal agency touts operation of cybersecurity sensors across the North",
+      "excerpt": "The Communications Security Establishment's latest annual report notes that its Cyber Centre deployed the software on government networks in the Northwest Territories in 2022 followed by Yukon and Nunavut in 2024.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "d0f6fc969a149aaf",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/tulliby-lake-extreme-weather-tornado-9.7267416?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Several structures damaged after tornado passes through part of central Alberta hamlet",
+      "excerpt": "In a social media post on Sunday, the County of Vermilion River said no injuries had been reported to officials, and that the Alberta Emergency Management Agency and the Northern Tornadoes Project are investigating.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "387052c05100c469",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-cape-race-associated-press-9.7265479?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How Cape Race, N.L., helped North America get its news — by fishing it out of the sea",
+      "excerpt": "Before there was internet, television and radio, Cape Race, N.L., was at the centre of how North America got its news. Theresa O'Leary's book Race to the Cape tells us how, and why it started here.",
+      "cat": "Economy"
+    },
+    {
+      "id": "a91fa0ffb73d852d",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/wild-yeast-research-beer-9.7266556?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. researchers turn to wild yeast in bid to help struggling craft breweries",
+      "excerpt": "Researchers at Langara College and the University of British Columbia are studying wild yeast collected from across B.C. and the Pacific Northwest to see if it can be used to brew beer with unique flavours while…",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "ed5d757fcdcc31d1",
       "date": "2026-07-12",
