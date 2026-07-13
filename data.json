@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T20:29:32.724Z",
-  "count": 327,
+  "generatedAt": "2026-07-13T11:43:46.160Z",
+  "count": 331,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,50 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "7d57eae783380deb",
+      "date": "2026-07-13",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/carney-calgary-stampede-referendum-9.7267713?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "With Calgary Stampede wrapped up, Ottawa looks ahead to Alberta referendum in fall",
+      "excerpt": "The federal government and those trying to urge Albertans to stay in Canada have a little more than three months to make sure their message sinks in.",
+      "cat": "Economy"
+    },
+    {
+      "id": "95ef0247be6890d5",
+      "date": "2026-07-13",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/opposition-mps-appointed-to-senate-9.7265980?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "It's extremely rare, but Carney isn't the first PM to shuffle an opposition member to the Senate",
+      "excerpt": "Former Conservative MP Richard Martel joins a unique club of senators who have been plucked directly from the House of Commons floor on the recommendation of a prime minister of a different political stripe.",
+      "cat": "National defence"
+    },
+    {
+      "id": "5d9bd3481f71967d",
+      "date": "2026-07-13",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/ottawa/former-public-servant-accused-in-foreign-interference-case-involving-china-9.7252802?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Former public servant accused in foreign interference case involving China",
+      "excerpt": "A former federal scientist in an alleged foreign interference case is accused of copying more than 2,000 documents off a shared departmental server as his lifelong career was nearing its end, with the intention of…",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "035b49a737d5778e",
+      "date": "2026-07-12",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-stampede-mark-carney-corey-hogan-keith-wilson-9.7267573?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "At competing Stampede breakfasts, 2 very different visions for Alberta emerge",
+      "excerpt": "It may have been the final day of the 10-day Calgary Stampede exhibition and rodeo, but two pancake breakfasts held simultaneously Sunday morning made clear the battle for the hearts and minds of Albertans is just…",
+      "cat": "Culture & heritage"
+    },
     {
       "id": "4e98dbba3ee6a04c",
       "date": "2026-07-12",
