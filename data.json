@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T11:43:46.160Z",
-  "count": 331,
+  "generatedAt": "2026-07-13T18:19:30.411Z",
+  "count": 344,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -35,6 +35,105 @@
   ],
   "items": [
     {
+      "id": "a4df733aab7f5fc4",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/train-derailment-submerges-cars-in-pond-9.7268339?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Train derailment sends 11 freight cars into wetland in southwest Calgary",
+      "excerpt": "Multiple train cars were plunged into a body of water after a train derailed in southwest Calgary on Monday morning. Emergency crews said the train was travelling along the Canadian Pacific Kansas Line when it derailed…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "6e3477b321c2996a",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-ottawa-pathways-oilsands-carbon-capture-9.7268392?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Agreement reached on multibillion-dollar Pathways carbon capture and storage project",
+      "excerpt": "Alberta's government, Ottawa and five major oilsands producers have signed a memorandum of understanding to advance the multibillion-dollar Pathways carbon capture project, a condition for a new West Coast pipeline…",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "af905680d84b77c7",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/brantford-dentistry-clinic-hepatitis-hiv-testing-reminder-9.7268309?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Over 800 patients of Brantford, Ont., clinic reminded to get HIV, hepatitis tests after dentist resigns",
+      "excerpt": "Grand Erie Public Health is reminding former patients of Dr. George Chan Dentistry in Brantford, Ont., to get tested for hepatitis B, hepatitis C and HIV. According to files from GEPH obtained by CBC News through a…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "ba30b60a22d37715",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/artificial-intelligence-downtown-truro-tote-bags-9.7267955?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "N.S. artist questions local business association's use of AI for merchandise",
+      "excerpt": "A local artist says she is surprised that a Truro, N.S., business association used artificial intelligence to design merchandise for a recent community festival.",
+      "cat": "Economy"
+    },
+    {
+      "id": "64d7349355dd1e87",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/lcbo-american-products-removal-ontario-liquor-9.7264586?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ontario runs $8M tab storing U.S. alcohol, as province's plans for stockpile still uncertain",
+      "excerpt": "The Ontario government won't explain what will happens to its $79 million U.S. alcohol stockpile, even as new figures obtained by CBC News show taxpayers have spent about $8 million storing it and that roughly $2.6…",
+      "cat": "Finance"
+    },
+    {
+      "id": "9407c1de3af4b08e",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/companions-costs-travel-live-organ-donor-program-9.7266078?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "She's giving her sister a kidney, but didn't know the financial toll",
+      "excerpt": "An Ottawa woman who is donating her kidney to her sister says she was shocked to learn that Nova Scotia won't cover travel expenses for her partner to support her.",
+      "cat": "Economy"
+    },
+    {
+      "id": "585533210718514f",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/pessamit-innu-hydro-quebec-deal-9.7267848?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Pessamit Innu community in Quebec rejects multibillion-dollar hydro deal",
+      "excerpt": "Members of the Innu First Nation of Pessamit, northeast of Quebec City, have voted against a $2.5 billion deal that would have allowed Hydro-Québec to carry out energy projects on its ancestral territory.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "aeefaf48be6b2aa3",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/police-mistake-gender-based-crime-intimate-image-9.7263158?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "N.L. teen whose intimate photo was shared says error by RCMP prevented her from getting justice",
+      "excerpt": "\"It just hurts me, knowing that this could have went through, and that I could have got the justice I wanted,\" says a teenaged girl in N.L. who said an intimate photo of her was shared multiple times. But when a charge…",
+      "cat": "Justice"
+    },
+    {
+      "id": "32da0dbc3d949ff5",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/ratification-vote-set-for-later-this-week-after-unifor-ford-reach-tentative-3-year-deal-9.7267816?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ratification votes set for later this week after Unifor, Ford reach tentative 3-year deal",
+      "excerpt": "If finalized, the agreement would set the pattern for bargaining with Stellantis and General Motors.",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "7d57eae783380deb",
       "date": "2026-07-13",
       "src": "CBC Politics",
@@ -66,6 +165,39 @@
       "title": "Former public servant accused in foreign interference case involving China",
       "excerpt": "A former federal scientist in an alleged foreign interference case is accused of copying more than 2,000 documents off a shared departmental server as his lifelong career was nearing its end, with the intention of…",
       "cat": "Foreign affairs"
+    },
+    {
+      "id": "95c45941b34ba834",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/security-issues-salsa-on-st-clair-9.7268228?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Deadly Toronto festival shooting prompts calls for better security. But that misses the key issue, expert says",
+      "excerpt": "",
+      "cat": "Public safety"
+    },
+    {
+      "id": "84b24b95492995ff",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/calgary-drown-legacy-pond-9.7267678?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Child drowns in southeast Calgary pond",
+      "excerpt": "A child drowned in a pond Sunday afternoon, Emergency Health Services (EHS) and the Calgary Fire Department (CFD) say.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "34202b0eb1437d60",
+      "date": "2026-07-12",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/snowbirds-final-hometown-show-9.7267522?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Snowbirds fly final hometown show before extended pause",
+      "excerpt": "Fifty-five years since their first-ever performance in Moose Jaw, the Snowbirds took to the sky Saturday before what could be an extended pause.",
+      "cat": "Economy"
     },
     {
       "id": "035b49a737d5778e",
@@ -3630,6 +3762,17 @@
       "title": "Ambassador Bridge company aims to demolish all its vacant Windsor, Ont., homes, old high school",
       "excerpt": "",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "d0769a1eb7e84412",
+      "date": "2025-09-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/heat-warnings-central-eastern-canada-9.7267980?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Oppressive heat expected across 4 provinces, Environment Canada warns",
+      "excerpt": "",
+      "cat": "Sustainable development"
     },
     {
       "id": "9e1e68c5a17e21a7",
