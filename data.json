@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T16:43:46.115Z",
-  "count": 377,
+  "generatedAt": "2026-07-14T21:32:40.947Z",
+  "count": 393,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,182 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "565b176fd3f8291d",
+      "date": "2026-07-14",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-carney-trump-open-deal-details-tolls-9.7269424?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Gordie Howe bridge opening deal: What we know and don't know",
+      "excerpt": "Federal officials are refusing to share more details about the Canada-U.S. deal for the long-awaited opening of the Gordie Howe International Bridge connecting Ontario and Michigan as opposition MPs demand answers to…",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "ad47cb983f81b5d8",
+      "date": "2026-07-14",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/manitoba/inky-mark-police-firearm-seizure-9.7269890?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'I broke the law,' former Manitoba MP Inky Mark says after police seize over 400 firearms",
+      "excerpt": "A former federal politician denies trafficking any firearms but acknowledges he illegally transferred three guns, after police seized hundreds of weapons from his western Manitoba home last week.",
+      "cat": "Justice"
+    },
+    {
+      "id": "68828852aabbcab6",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/four-stabbings-hamilton-bus-termnal-9.7270164?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Stabbing attacks leave 4 injured near Hamilton's MacNab bus terminal, suspect sought",
+      "excerpt": "Hamilton police were responding to several reports of stabbings, starting at around 2:10 p.m. ET Tuesday around the King and James street areas near the MacNab bus terminal.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "3f843a327a7335dc",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/oilsands-emissions-pathways-reductions-9.7270114?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Oilsands emissions on track to outpace reductions from Pathways project: economist",
+      "excerpt": "Increased oilsands production from a new pipeline to the West Coast would lead to an average of 20 megatonnes in new emissions per year, the Canadian Climate Institute projects.",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "f3f156b1d35b79eb",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-mpp-tourism-minister-repaying-accommodation-expenses-9.7269670?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Toronto MPP to repay $16K spent on Toronto hotel accommodations",
+      "excerpt": "An Ontario cabinet minister who represents a north Toronto riding is promising to reimburse more than $16,000 in Toronto hotel expenses.",
+      "cat": "Economy"
+    },
+    {
+      "id": "f4c4a4d217defe26",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/salsa-on-st-clair-organizers-threaten-to-cancel-event-want-accountability-9.7269753?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Toronto festival organizers call for accountability in shooting, threaten to pull plug on event",
+      "excerpt": "The group that hosts Salsa on St. Clair is threatening to pull the plug on the festival unless it sees accountability from the City of Toronto and its police force in relation to a shooting that took place Saturday.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "37c42f19b9ac42b0",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/facebook-defamation-lawsuit-rm-pleasantdale-sask-9.7269399?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Sask. man ordered to pay over $150K for defaming municipal administrator on Facebook",
+      "excerpt": "The former administrator of the RM of Pleasantdale says many people in her profession face daily harassment and she hopes her case sets a precedent. The man who defamed her didn't show up to trial, cited non-existent…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "57d40e357c9cb5fd",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/heat-illness-heart-and-stroke-9.7269932?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "People with cardiovascular conditions at risk in heat, Heart and Stroke Foundation says",
+      "excerpt": "The Heart and Stroke Foundation says the heat wave hitting Central Canada can be especially dangerous for people with cardiovascular conditions.",
+      "cat": "Economy"
+    },
+    {
+      "id": "a6c98d5b2d661377",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7269923?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'Operation Hard Ball' explained",
+      "excerpt": "In an investigation named 'Operation Hard Ball,' the FBI and RCMP laid out sweeping allegations of racketeering, extortion and murder against a trio of Indian-linked crime syndicates operating in the U.S. and Canada.…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "87295142842b5679",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-housing-dispute-repossession-case-9.7268345?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Montreal duplex dispute leaves family living in a trailer on the driveway, tenants facing uncertainty",
+      "excerpt": "A Montreal family is living in a trailer outside a duplex they bought while tenants are challenging the repossession request through Quebec’s housing tribunal.",
+      "cat": "Housing"
+    },
+    {
+      "id": "08e7e5d2b8de9778",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/brantford-dentist-office-public-health-hiv-hepatisis-testing-former-patients-9.7266249?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "A look inside Brantford, Ont., dental office flagged for sterilization lapses, leading to patient testing",
+      "excerpt": "Following the closure of Dr. George Chan Dentistry in Brantford, Ont., after an investigation found lapses in sterilization of reusable equipment, CBC News obtained photos from Grand Erie Public Health (GEPH) of what…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "8ac6bad71f1f3a74",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/north-edmonton-apartment-fire-july-9.7269204?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Car collision with Edmonton building caused explosion, fire that left 1 dead, 2 still missing, police say",
+      "excerpt": "A vehicle that hit an apartment building on Edmonton's north side Monday night caused an explosion and fire that left one person dead and forced a building-wide evacuation. Police say two residents of the building…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "bfb94ad7beac08d8",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/medications-drugs-heat-health-effects-experts-9.7268845?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Heat can have adverse effect on people taking certain medications, street drugs",
+      "excerpt": "As temperatures soar this week in southern Ontario, experts say the heat can affect people taking medications and street drugs, and cause adverse health effects.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "490e02c2544a6a08",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7269597?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Heated Rivalry musical parody brings laughs and love to the stage",
+      "excerpt": "CBC News goes behind the scenes of the Heated Rivalry musical parody in Toronto. The lead actors and director-producer discuss bringing Shane and Ilya to life on stage — selling the laughs, the tension and the love…",
+      "cat": "Economy"
+    },
+    {
+      "id": "f04b3cbadff59717",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/ethan-katzberg-season-best-meet-record-hungarian-athletics-grand-prix-9.7269705?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian Olympic champ Katzberg delivers 83.64m hammer throw, marking season best and meet record",
+      "excerpt": "Should young hammer thrower Ethan Katzberg one day break Yuriy Sedykh's world record, it may well happen in Budapest. The Canadian delivered an 83.64-metre season best there on Tuesday to defeat Germany’s Merlin Hummel…",
+      "cat": "Economy"
+    },
+    {
+      "id": "9ba41f36fb7227cf",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/fortune-st-pierre-world-cup-9.7269119?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "People in this Newfoundland town are cheering for France in the World Cup – because they’re neighbours",
+      "excerpt": "Some people in the small Newfoundland and Labrador town of Fortune are cheering for France in the World Cup semi-finals Tuesday — because part of France is right next door. The French islands of St. Pierre and Miquelon…",
+      "cat": "Economy"
+    },
     {
       "id": "5176fde8a7a16e15",
       "date": "2026-07-14",
