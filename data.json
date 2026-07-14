@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T07:24:37.494Z",
-  "count": 361,
+  "generatedAt": "2026-07-14T16:43:46.115Z",
+  "count": 377,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,182 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "5176fde8a7a16e15",
+      "date": "2026-07-14",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/carney-saudi-arabia-iran-yemen-mbs-9.7268649?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada is making a bet on Saudi Arabia despite war and political risk",
+      "excerpt": "Just three days after Prime Minister Mark Carney left Saudi Arabia, the Houthis of Yemen announced that their four-year-old ceasefire with the kingdom had ended. But even with Saudi Arabia potentially embroiled in two…",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "ca5039e75c165184",
+      "date": "2026-07-14",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/carney-consular-general-appointments-u-s-cusma-9.7269449?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government shakes up diplomatic missions in U.S. with new consular appointments",
+      "excerpt": "The federal government announced a handful of new consular appointments on Tuesday, shaking up the diplomatic team across the U.S. after trade talks stretched past the early July benchmark.",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "047796afe7d40b8e",
+      "date": "2026-07-14",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/indigenous/afn-assembly-water-walk-9.7268701?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Assembly of First Nations gathers for summer assembly amid concerns about water bill, major projects",
+      "excerpt": "First Nations leaders are gathering in Ottawa for three days to debate and discuss issues like fast-tracking major projects, new proposed drinking water legislation, and a promised first ministers' meeting with the…",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "6a4baffc56a776af",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/heat-warnings-central-eastern-canada-9.7269359?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Sizzling temperatures and threat of storms blanket much of the country in weather warnings",
+      "excerpt": "Temperature records are forecast to melt away today as five provinces and one territory sit under Environment Canada weather alerts warning of extreme heat or ensuing storms.",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "fb8b69eeba7a1b48",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-flooding-insurance-growndwater-9.7268234?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ottawa homeowner had 'enhanced' flood coverage, but insurer still denied her claim after Canada Day storm",
+      "excerpt": "Since a ferocious storm deluged Ottawa on Canada Day, flooding thousands of basements, some residents have discovered that their home insurance policies don't cover damage caused by groundwater.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "4a7df52d37a82b4d",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/drug-smuggling-charges-stayed-charter-rights-violated-9.7261646?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Judge throws out $13M drug smuggling charges against trucker over 'egregious' Charter rights violations",
+      "excerpt": "Drug smuggling charges carrying a possible life sentence were thrown out of court after a Windsor judge says the cross-border truck driver's Charter rights were violated in an \"egregious\" manner.",
+      "cat": "Justice"
+    },
+    {
+      "id": "3da7841de4e726ab",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/pathways-carbon-capture-cold-lake-fort-mcmurray-agreement-9.7269203?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Fort McMurray, Cold Lake mayors celebrate new Pathways carbon capture agreement",
+      "excerpt": "Now that an agreement has cleared major hurdles for the Pathways carbon capture and storage project, the mayors of the two communities that will host the infrastructure say they are looking forward to the construction…",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "5d1893c967a23f75",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/temporary-workers-canada-deskilling-9.7268762?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada's temporary migrant workers deskilled, living in precarity, study says",
+      "excerpt": "For temporary migrant workers in Canada, a change in job or residency status could mean deskilling and degradation of working conditions, according to a new report.",
+      "cat": "Economy"
+    },
+    {
+      "id": "4a45361f143ee89c",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/business/canada-us-travel-increase-9.7268692?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian trips to U.S. inch up despite months-long travel boycott",
+      "excerpt": "Canadian resident return trips from the U.S. edged up in June by 3.2 per cent compared to the year before, according to Statistics Canada. It's a small increase, but it's the third month in a row in which Canadian…",
+      "cat": "Economy"
+    },
+    {
+      "id": "d8eb2d3141c48dee",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/ea-shortage-ontario-9.7268522?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Classroom care 'rationed' because of EA shortages, say Ontario education workers ahead of contract deadline",
+      "excerpt": "Advocates say a province-wide educational assistant shortage is leaving high-needs students unsupported and forcing classroom evacuations, while the province highlights record funding.",
+      "cat": "Education"
+    },
+    {
+      "id": "606ba858c2ae33a0",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/delta-police-investigate-alleged-fedex-staff-washroom-voyeurism-9.7268743?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Delta police investigate alleged voyeurism in FedEx staff washroom",
+      "excerpt": "Delta police said Monday they had arrested an employee of the business on July 7, who was subsequently released on conditions \"pending further investigation.\"",
+      "cat": "Economy"
+    },
+    {
+      "id": "d49d3935eb98b1b0",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-violence-health-care-workers-9.7268308?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Hamilton hospital exhibit highlights abuse, violence faced by staff",
+      "excerpt": "St. Joseph’s Healthcare Hamilton has launched an exhibit of photos, videos and testimony from hospital staff to shed light on the abuse faced by health-care workers and help provide support. Statistics released last…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "9fe388b4fc658d3b",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/meteor-crater-quebec-discovery-390-million-years-old-9.7268583?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "He saw a pit on Google Maps. It turned out to be a 390-million-year-old meteor crater",
+      "excerpt": "Joël Lapointe, stumbled upon what he thought looked like a suspicious pit in Quebec's Côte-Nord region while he was wandering with his Google Maps cursor in 2024. But it turned out to be a 390-million-year-old meteor…",
+      "cat": "Economy"
+    },
+    {
+      "id": "f16ef31125f70a83",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatoon/saskatoon-food-forest-park-insecurity-bank-hunger-poverty-city-hall-9.7266491?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Saskatoon city hall tests food forests to address poverty, insecurity",
+      "excerpt": "City hall's experiment in two west-side parks is expected to bear fruit — literally — in two years.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "8135b8c0d095c464",
+      "date": "2026-07-13",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/indigenous/canada-shamattawa-water-appeal-9.7265494?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Liberals continue court fight against First Nations drinking water rights, despite new bill",
+      "excerpt": "The Carney government continues to fight First Nations in court to deny Canada has any legal duty to ensure they have safe drinking water on reserve, even as the Liberals advance legislation aiming to do just that. This…",
+      "cat": "Justice"
+    },
+    {
+      "id": "d2f96e8d80ca57e1",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/manitou-stone-mou-elk-island-national-park-9.7268817?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Agreement will see sacred Manitou Stone moved to new home in Elk Island National Park",
+      "excerpt": "Finding a home for the Manitou Asinîy — also known as the Manitou Stone — has been decades in the making, with First Nations in Alberta and Saskatchewan spearheading efforts to find find an appropriate permanent…",
+      "cat": "Indigenous services"
+    },
     {
       "id": "61e6cc87132873bb",
       "date": "2026-07-13",
