@@ -206,11 +206,9 @@
   <div class="metrics">
     <div class="metric"><div class="n" id="m-actions">—</div><div class="l">Actions logged</div></div>
     <div class="metric"><div class="n" id="m-cats">—</div><div class="l">Policy areas</div></div>
-    <div class="metric"><div class="n">37</div><div class="l">Sources tracked</div></div>
-    <div class="metric"><div class="n">Daily</div><div class="l">Refresh cadence</div></div>
+    <div class="metric"><div class="n" id="m-sources">—</div><div class="l">Sources tracked</div></div>
+    <div class="metric"><div class="n">Every 6h</div><div class="l">Refresh cadence</div></div>
   </div>
-
-  <p class="demo-note">Prototype. Entries below are illustrative placeholders to show structure and tone — not real reporting. Source links point to each source's home, not to fabricated articles.</p>
 
   <!-- toolbar -->
   <div class="toolbar">
@@ -259,7 +257,7 @@
       </a>
     </div>
 
-    <p style="margin-top:16px">DOSSIER — working name · prototype · bilingual EN/FR planned</p>
+    <p style="margin-top:16px">Dossier · an independent, non-partisan public record · bilingual EN/FR coming</p>
   </footer>
 </div>
 
@@ -301,67 +299,8 @@ function computeHues(){ CAT_HUE = Object.fromEntries(CATEGORIES.map((n,i)=>[n, M
 const catColor = n => `hsl(${CAT_HUE[n] ?? 230} 72% 64%)`;
 
 // Illustrative placeholder records (not real reporting).
-const SEED = [
-  {date:"2026-06-23",type:"Bill",cat:"Housing",kind:"official",src:"LEGISinfo",url:"https://www.parl.ca/legisinfo/",
-   title:"Bill to create a federal rental-construction financing fund tabled",
-   sum:"A bill was introduced that would set up a federal fund to lend money for new rental-housing construction, with priority for buildings near transit."},
-  {date:"2026-06-23",type:"Order in council",cat:"National defence",kind:"official",src:"Orders in Council",url:"https://orders-in-council.canada.ca/",
-   title:"Senior defence appointment confirmed",
-   sum:"Cabinet formally appointed a new senior official to oversee defence procurement, effective next month."},
-  {date:"2026-06-22",type:"Announcement",cat:"Healthcare",kind:"news",src:"CBC News",url:"https://www.cbc.ca/news",
-   title:"Federal-provincial deal on primary-care funding announced",
-   excerpt:"Ottawa and several provinces set out a multi-year arrangement to expand access to family doctors and nurse practitioners."},
-  {date:"2026-06-22",type:"Regulation",cat:"Sustainable development",kind:"official",src:"Canada Gazette",url:"https://gazette.gc.ca/",
-   title:"New emissions-reporting rules published for large industry",
-   sum:"Regulations were published requiring large industrial facilities to report greenhouse-gas emissions on a stricter schedule starting in 2027."},
-  {date:"2026-06-21",type:"Spending",cat:"Innovation, science & industry",kind:"official",src:"Department release",url:"https://www.canada.ca/en/news.html",
-   title:"Funding committed to domestic semiconductor research",
-   sum:"The government committed funding over five years toward semiconductor research and a pilot manufacturing line at Canadian universities."},
-  {date:"2026-06-21",type:"Commons vote",cat:"Finance",kind:"official",src:"House of Commons",url:"https://www.ourcommons.ca/",
-   title:"Budget implementation bill passes second reading",
-   sum:"The House voted to advance the budget bill to committee for detailed study; the recorded vote is published online."},
-  {date:"2026-06-20",type:"International agreement",cat:"Foreign affairs",kind:"news",src:"The Globe and Mail",url:"https://www.theglobeandmail.com/",
-   title:"Canada signs trade-facilitation pact with Indo-Pacific partners",
-   excerpt:"The agreement aims to lower customs friction for Canadian exporters across several Asian markets."},
-  {date:"2026-06-20",type:"Report",cat:"Economy",kind:"official",src:"Parliamentary Budget Officer",url:"https://www.pbo-dpb.ca/",
-   title:"PBO publishes cost estimate of the rental-financing fund",
-   sum:"The Parliamentary Budget Officer released an independent estimate of what the proposed housing fund would cost taxpayers over its first decade."},
-  {date:"2026-06-19",type:"Announcement",cat:"Indigenous services",kind:"news",src:"APTN News",url:"https://www.aptnnews.ca/",
-   title:"Water-infrastructure agreements reached with several First Nations",
-   excerpt:"New agreements set timelines and funding to upgrade drinking-water systems in multiple communities."},
-  {date:"2026-06-19",type:"Regulation",cat:"Transportation",kind:"official",src:"Canada Gazette",url:"https://gazette.gc.ca/",
-   title:"Updated air-passenger compensation rules take effect",
-   sum:"Revised regulations changed when and how airlines must compensate passengers for delays and cancellations."},
-  {date:"2026-06-18",type:"Appointment",cat:"Justice",kind:"official",src:"Orders in Council",url:"https://orders-in-council.canada.ca/",
-   title:"Federal Court judicial appointments made",
-   sum:"Cabinet appointed several new judges to the Federal Court, filling longstanding vacancies."},
-  {date:"2026-06-18",type:"Announcement",cat:"Natural resources",kind:"news",src:"La Presse",url:"https://www.lapresse.ca/",
-   title:"Critical-minerals strategy expanded with new project list",
-   excerpt:"The government named additional mining and processing projects eligible for federal support."},
-  {date:"2026-06-17",type:"Bill",cat:"Public safety",kind:"official",src:"LEGISinfo",url:"https://www.parl.ca/legisinfo/",
-   title:"Bill on online fraud and identity theft introduced",
-   sum:"A bill was tabled to update criminal provisions on online fraud and to require faster reporting of large data breaches."},
-  {date:"2026-06-17",type:"Spending",cat:"Infrastructure",kind:"official",src:"Department release",url:"https://www.canada.ca/en/news.html",
-   title:"Transit funding announced for three metro regions",
-   sum:"Federal money was committed toward public-transit expansion in three large urban regions, contingent on provincial cost-sharing."},
-  {date:"2026-06-16",type:"Report",cat:"Wildlife",kind:"official",src:"Environment Canada",url:"https://www.canada.ca/en/environment-climate-change.html",
-   title:"Species-at-risk recovery progress report released",
-   sum:"A department report summarized recovery progress for species listed under federal protection over the past year."},
-  {date:"2026-06-16",type:"Announcement",cat:"Culture & heritage",kind:"news",src:"CBC News",url:"https://www.cbc.ca/news",
-   title:"Stable funding announced for public broadcaster and arts councils",
-   excerpt:"Officials outlined multi-year funding intended to give cultural institutions more budget certainty."},
-  {date:"2026-06-15",type:"Regulation",cat:"Animal welfare",kind:"official",src:"Canada Gazette",url:"https://gazette.gc.ca/",
-   title:"Transport-of-animals standards updated",
-   sum:"Regulations revised maximum transport times and welfare requirements for livestock moved across provincial lines."},
-  {date:"2026-06-15",type:"Bill",cat:"Education",kind:"official",src:"LEGISinfo",url:"https://www.parl.ca/legisinfo/",
-   title:"Bill to expand student-loan forgiveness for rural professionals",
-   sum:"A bill was introduced to broaden loan forgiveness for graduates who work in underserved rural regions."},
-  {date:"2026-06-14",type:"Announcement",cat:"Intergovernmental affairs",kind:"news",src:"The Globe and Mail",url:"https://www.theglobeandmail.com/",
-   title:"First ministers set date for health and housing talks",
-   excerpt:"The Prime Minister and premiers agreed to meet later this summer on shared health and housing priorities."}
-];
-
-let MOVES = SEED.slice();
+// Feed data is loaded live from data.json (produced by the refresh pipeline).
+let MOVES = [];
 let activeCat = "All";
 let activeType = "All";
 let query = "";
@@ -430,6 +369,7 @@ function render(){
 
   $("#m-actions").textContent = MOVES.length.toLocaleString();
   $("#m-cats").textContent = CATEGORIES.length;
+  $("#m-sources").textContent = new Set(MOVES.map(m => m.src)).size || "—";
 }
 
 $("#q").oninput = e=>{ query = e.target.value; render(); };

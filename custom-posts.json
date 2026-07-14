@@ -1,12 +1,1 @@
-[
-  {
-    "title": "Editor's note: how a custom entry looks",
-    "sum": "This entry was written by hand in custom-posts.json, not pulled from a feed. Use this for moves you want logged that no feed surfaces cleanly — or to publish your own plain-language write-up of a complex action.",
-    "cat": "Intergovernmental affairs",
-    "type": "Announcement",
-    "src": "Editor",
-    "url": "#",
-    "date": "2026-06-24",
-    "kind": "official"
-  }
-]
+[]
