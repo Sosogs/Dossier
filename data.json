@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T18:19:30.411Z",
-  "count": 344,
+  "generatedAt": "2026-07-14T07:24:37.494Z",
+  "count": 361,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,193 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "61e6cc87132873bb",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/inky-mark-mp-dauphin-firearms-trafficking-9.7268271?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Former Manitoba MP Inky Mark charged with firearms trafficking after hundreds of weapons seized",
+      "excerpt": "Inky Mark, a former federal politician in Manitoba, has been charged after police say they seized hundreds of improperly stored firearms from his home last week.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "309d87c25bf03241",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/liam-johnston-killed-trench-collapse-mr-mikes-plumbing-guilty-plea-ohs-9.7268927?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Calgary company that employed worker killed in trench collapse fined $330K after guilty plea",
+      "excerpt": "Three years after Liam Johnston was buried alive in a trench collapse while working on an excavation site in northwest Calgary, the company that employed him pleaded guilty to one of 11 charges they faced under…",
+      "cat": "Economy"
+    },
+    {
+      "id": "07a60891b79358f9",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/grifols-donors-disease-risk-health-canada-9.7268562?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Private clinic Grifols green-lit plasma donors with disease risk, Health Canada finds",
+      "excerpt": "The private clinic Grifols repeatedly cleared ineligible donors at risk for Creutzfeldt-Jakob disease and operated dangerously over capacity at a Winnipeg centre, according to a Health Canada inspection report.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "9f9027bfe8592704",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/livestory/toronto-salsa-on-st-clair-shooting-update-9.7268418?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "2 victims of fatal shooting at Toronto street festival were targeted, known to each other: police",
+      "excerpt": "",
+      "cat": "Public safety"
+    },
+    {
+      "id": "20d833e964378f03",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7268557?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Tick-borne illnesses surge across Canada. What are the symptoms?",
+      "excerpt": "Health officials are warning of potentially serious outcomes tied to one tick-borne illness in particular called anaplasmosis. CBC’s Tashauna Reid talks about what to watch for.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "50e6bb7f9b05a423",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/bill-montevecchi-obituary-9.6999291?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "World-renowned seabird biologist Bill Montevecchi dead at 80",
+      "excerpt": "Seabird biologist and Memorial University professor emeritus Bill Montevecchi died early Saturday morning. He was 80 years-old.",
+      "cat": "Education"
+    },
+    {
+      "id": "decd2559eac8ad90",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/david-henschel-9.7268227?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Swiss man who punched anti-war protester in Canada a no-show in Ottawa court",
+      "excerpt": "The Swiss man who pleaded guilty to punching a 21-year-old protester outside an Ottawa defence conference in 2024 did not show up in court on Monday as he was expected to, leaving the Crown in the case livid.",
+      "cat": "National defence"
+    },
+    {
+      "id": "3347f74b04862b12",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/soaring-haddock-costs-force-restaurants-to-hike-prices-9.7264663?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "The price of fish and chips is going up this summer in Atlantic Canada. Here’s why",
+      "excerpt": "The Pleasant Street Diner in Dartmouth, N.S., serves about 1,000 pounds of fresh haddock per week. But early this month, their supplier increased the price of the historically affordable fish by 40 per cent, or about $5…",
+      "cat": "Economy"
+    },
+    {
+      "id": "21d7270e6128b321",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/n-b-adopted-trump-like-protectionism-lawyer-alleges-9.7268597?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Lawyer accuses N.B. of adopting Trump-like protectionism at Canada Free Trade Agreement hearing",
+      "excerpt": "The New Brunswick government is being accused of adopting Donald Trump-style protectionism in violation of an internal trade agreement among Canadian provinces and territories.",
+      "cat": "Economy"
+    },
+    {
+      "id": "a30182318efa9968",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-man-rescues-senior-woman-dog-from-slough-craven-9.7268497?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Woman says 'heroes' saved her from sinking SUV in Sask. slough",
+      "excerpt": "Marjorie Flavel, 84, dozed off behind the wheel and veered into a slough on July 5. Her doors were locked. She can't swim.",
+      "cat": "Economy"
+    },
+    {
+      "id": "15d741fc050e61d5",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/highway-concrete-buckling-roads-heat-9.7268312?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Car 'took a beating' after Manitoba highway buckles from extreme heat",
+      "excerpt": "Manitoba's extreme heat has played havoc with highways and city roads, causing some to break, buckle and heave.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "16bd7f06ab485ec9",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/dylan-cease-american-league-starter-mlb-all-star-game-philadelphia-9.7268709?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Dylan Cease will be first Blue Jays pitcher to start MLB all-star game since 2009",
+      "excerpt": "Cristopher Sanchez of the Philadelphia Phillies will start Tuesday's MLB all-star game at 8 p.m. ET in his home ballpark, taking the mound for the National League against Dylan Cease of the American League's Toronto…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "93b6a9e7198f2e1e",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-canada-day-firework-cancel-surprise-2026-9.7268495?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ottawa city official 'extremely sorry' for impact of surprise fireworks",
+      "excerpt": "Ottawa's general manager of emergency and protective services says he's \"extremely sorry\" about a decision to set off unused Canada Day fireworks eight days later and with no public notice.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "d24c8800263f6cd6",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/olympics/summer/athletics/sade-mccreath-canadian-record-womens-100-metres-edmonton-athletics-invitational-9.7268488?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ajax, Ont.'s Sadé McCreath sprints to Canadian women's 100m record at Edmonton meet",
+      "excerpt": "Sadé McCreath of Ajax, Ont., defeated Celera Barnes of the United States in a Canadian record 10.86 seconds in a women's 100-metre semifinal Sunday at the Edmonton Athletics Invitational before losing to previous record…",
+      "cat": "Economy"
+    },
+    {
+      "id": "a2f2abfb0c3ec3fc",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/victim-toronto-salsa-on-st-clair-festival-9.7268624?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "2 men killed in targeted shooting at Toronto street festival knew each other: police",
+      "excerpt": "Toronto police have identified two men killed in what they say was a targeted shooting at the Salsa on St. Clair festival on Saturday night.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "45a7f5bb9ec7eba1",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/john-hamm-premier-dies-obituary-9.7268512?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Former N.S. premier John Hamm dies at 88",
+      "excerpt": "The Pictou County physician was first elected to the legislature in 1993 and served as Nova Scotia's 25th premier from 1999 to 2006.",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "e591bd972691b607",
+      "date": "2026-07-13",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-opens-sports-gambling-market-following-ontarios-lede-9.7268387?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta opens online gambling market, following Ontario's lead",
+      "excerpt": "Albertans can now bet on sports and online casinos using third-party operators. As of Monday, 22 private operators have been approved to work in Alberta. The new legislation comes with rules on advertising and safe…",
+      "cat": "Economy"
+    },
     {
       "id": "a4df733aab7f5fc4",
       "date": "2026-07-13",
