@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T23:04:06.214Z",
-  "count": 63,
+  "generatedAt": "2026-07-15T07:30:16.886Z",
+  "count": 66,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,39 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "1170a9370c2234d7",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/northwestern-ontario-wildfire-evacuations-update-9.7270565?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Accommodations filling up as wildfires spur more evacuations in northwestern Ontario",
+      "excerpt": "Additional communities are facing evacuations as dozens of wildfires continue to rage on across northwestern Ontario. Meanwhile, heat and air quality warnings remain in place in much of the region, as wildland fire…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "eb4a18de00a99872",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/near-record-temperature-toronto-heat-wave-9.7270071?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Toronto under air quality warning due to wildfire smoke after city swelters in extreme heat",
+      "excerpt": "Environment Canada is warning of poor air quality in Toronto due to wildfire smoke after the city reached a sweltering 36 C in the late afternoon Tuesday.",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "2561477f600672b4",
+      "date": "2026-07-14",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/pangnirtung-boy-missing-found-dead-9.7270074?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "9-year-old boy found dead after being reported missing in Pangnirtung, Nunavut",
+      "excerpt": "In a news release on Tuesday, police said the boy was last seen in the Baffin Island community on Sunday evening. His family reported him missing the following evening.",
+      "cat": "Public safety"
+    },
     {
       "id": "565b176fd3f8291d",
       "date": "2026-07-14",
