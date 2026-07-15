@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T07:30:16.886Z",
-  "count": 66,
+  "generatedAt": "2026-07-15T21:32:03.988Z",
+  "count": 87,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,237 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "2217ade4392fbcc3",
+      "date": "2026-07-15",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/canada-joining-global-fighter-jet-program-with-uk-italy-japan-9.7270838?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada joining international program to build next generation of fighter jets",
+      "excerpt": "Defence Minister David McGuinty is expected to announce next week in the United Kingdom that Canada will play a role in an international program to build the next generation of stealth fighter jets, CBC News has learned.",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "20ab5e08a0f3c5cd",
+      "date": "2026-07-15",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/indigenous/afn-aga-resolution-residential-school-denialism-9.7271197?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Assembly of First Nations calls for criminalization of residential school denialism",
+      "excerpt": "The Assembly of First Nations (AFN) has passed an emergency resolution that calls on Canada to criminalize residential school denialism. The advocacy organization, which represents chiefs countrywide, is holding its…",
+      "cat": "Justice"
+    },
+    {
+      "id": "ce12aad28a06cce8",
+      "date": "2026-07-15",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/avi-lewis-ndp-leader-byelection-9.7270225?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "After more than 100 days as NDP leader, has Avi Lewis moved the needle?",
+      "excerpt": "In NDP Leader Avi Lewis's first few months at the helm of his party, he's made little headway in making a name for himself among Canadians.",
+      "cat": "Economy"
+    },
+    {
+      "id": "6d34ba4c48abdcb4",
+      "date": "2026-07-15",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/indigenous/afn-major-projects-resolutions-9.7270957?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "First Nations chiefs vote to oppose Carney government's proposed major projects reforms",
+      "excerpt": "Assembly of First Nations chiefs unanimously resolved Wednesday to oppose the Carney government's proposed reforms aimed at streamlining major project development if those reforms weaken environmental protections or…",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "1e8769e19c028b83",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/protesters-surround-car-tim-houston-wolfville-chamber-commerce-9.7271207?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Protesters surround car, smash glass following N.S. premier's speech",
+      "excerpt": "Nova Scotia's premier was at Acadia University to speak to the Annapolis Valley Chamber of Commerce.",
+      "cat": "Education"
+    },
+    {
+      "id": "b4aa926da2f861f9",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/transgender-inmate-dangerous-offender-women-s-prison-9.7271201?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Judge refuses to order transgender inmate be moved to women's prison",
+      "excerpt": "A judge has ruled against a transgender inmate with a lengthy record of sex crimes involving women, refusing her request to order the Correctional Service of Canada to move her from the men’s prison system into a…",
+      "cat": "Justice"
+    },
+    {
+      "id": "4ac299f22f1c46a5",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/business/bell-satellite-ground-station-finished-9.7271359?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Bell builds ground station for satellite-to-mobile network",
+      "excerpt": "The Canadian telecommunications giant plans to launch space-based cellular service to better serve remote areas.",
+      "cat": "Economy"
+    },
+    {
+      "id": "435efee7eb0087c5",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/train-car-wildfire-armstrong-9.7271351?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "CN workers in viral video of train car surrounded by wildfire flames got out safely, railway says",
+      "excerpt": "Canadian National Railway is responding after a work crew narrowly escaped a train car surrounded by flames on Monday near Armstrong, Ont. Video taken from inside the train appears to show workers looking through the…",
+      "cat": "Transportation"
+    },
+    {
+      "id": "897f3a03a5abd8f3",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/windsor-gordie-howe-bridge-bikes-pedestrians-9.7271280?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Walking, biking across Gordie Howe bridge to start 10 days after vehicles",
+      "excerpt": "Cars, trucks will begin crossing July 27. Cyclists and pedestrians can on Aug. 5",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "8f2519c9ea19454c",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7271468?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Fact check: Canadian real estate listings use AI-generated images",
+      "excerpt": "Whether you're looking to rent or buy a home, you might come across AI-generated photos in real estate listings. CBC's Fact Check team takes a look at some recent examples — and what rules realtors are supposed to…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "c19668ad5200f352",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/oka-cheese-quebec-9.7271019?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why this historic Quebec cheese brand is being sold to a French company",
+      "excerpt": "The Quebec cheese brand OKA, with a history spanning more than 130 years in the province, is being sold to the French group Lactalis, one of the world's largest players in the cheese industry.",
+      "cat": "Economy"
+    },
+    {
+      "id": "19ca07f4f332017d",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/hockey/nhl/nhl-opening-night-all-canadian-matchups-9.7271333?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Pair of all-Canadian matchups highlight NHL opening night in late September",
+      "excerpt": "The 2026-27 NHL season is set to begin Sept. 29 with a pair of all-Canadian matchups. The Montreal Canadiens will visit the Toronto Maple Leafs, with the Edmonton Oilers later hosting the Vancouver Canucks.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "091d5b8d55e64719",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/north-edmonton-apartment-explosion-survivors-9.7271101?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "He'd just told 911 a car had crashed into a gas line. Then the building exploded",
+      "excerpt": "After seeing a vehicle crash into the north Edmonton apartment building where he lived Randolph Pattemore called 911 to report the smell of gas and his worry that there would be an explosion. And then there was.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "4fe5043c3000ed4c",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/repentigny-asks-ottawa-to-consider-reducing-train-speeds-9.7271210?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "After major derailment, Repentigny, Que., asks Ottawa to reduce freight train speeds in urban areas",
+      "excerpt": "The City of Repentigny is formally asking Ottawa to reassess speed limits for trains in urban areas after a derailment earlier this month saw 46 cars jump the tracks in a residential neighbourhood.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "a1847442ca624c1d",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7270799?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "CN train crew: ‘We’re encased in flames now’",
+      "excerpt": "UPDATE (July 15, 2026): This video has been reuploaded to reflect a change in credit. Video posted online shows a CN freight train crew halted midjourney near Armstrong, Ont., on July 13 as wildfires burn outside. CN…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "410219483bf873f7",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/chinese-ev-canada-9.7270657?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Chinese EV makers have sights set on Quebec market",
+      "excerpt": "Dongfeng is China's latest automaker to unveil its electric vehicle offering in Montreal’s Old Port, as Chinese EV manufacturers look to make their entry into the Canadian market.",
+      "cat": "Economy"
+    },
+    {
+      "id": "ffd18be22e210260",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7270798?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Burning question: Can this summer sizzle cook a hot dog on a vehicle antenna?",
+      "excerpt": "Another summer 2026 heat wave has blanketed southern Ontario for days. Temperatures are especially high and humid in Windsor, Ont. But is it hot enough outside to cook a hot dog impaled on a vehicle antenna? The CBC's…",
+      "cat": "Economy"
+    },
+    {
+      "id": "58852e63be9013d9",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/tornado-forecasting-alerts-warning-alberta-9.7270117?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How has tornado forecasting technology changed over time?",
+      "excerpt": "Nowadays, meteorologists rely on computer modelling and Doppler radars to track and forecast storms. But in the 1980s, technology was not nearly as advanced.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "b7e780dccc5dc9bd",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/business/westjet-flight-attendants-vote-9.7270271?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "WestJet flight attendants vote to strike as soon as August long weekend if no deal",
+      "excerpt": "Thousands of Canadian travellers will be double-checking their plans for the August long weekend, after WestJet flight attendants voted 99.4 per cent in favour of a strike.",
+      "cat": "Economy"
+    },
+    {
+      "id": "a85d1e66b2ec48c1",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/fifa-watch-parties-cancelled-smoke-poor-air-quality-9.7271161?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "FIFA Fan Festival, Nathan Phillips Square watch parties cancelled due to poor air quality",
+      "excerpt": "Several World Cup watch parties in Toronto, including FIFA Fan Festival, have been cancelled due to an orange-level air quality warning.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "23d0e7525855ddf2",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/strychnine-poison-gopher-ground-squirrel-alberta-sask-9.7268886?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Strychnine use for gopher control officially begins in Alberta, Saskatchewan after delays",
+      "excerpt": "After significant delays, the window for strychnine use in Alberta and Saskatchewan is now open. Farmers can use the controversial rodenticide to control Richardson's ground squirrels — colloquially known as gophers —…",
+      "cat": "Economy"
+    },
     {
       "id": "1170a9370c2234d7",
       "date": "2026-07-15",
