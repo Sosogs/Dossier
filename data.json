@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T21:32:03.988Z",
-  "count": 87,
+  "generatedAt": "2026-07-16T07:37:41.575Z",
+  "count": 100,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,149 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "aada7cef54ceb4f1",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/health/specialist-care-statistics-canada-health-9.7271679?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Millions of Canadians struggle to get specialist health care: StatsCan report",
+      "excerpt": "A new national report finds that 4.5 million Canadians who are middle aged and older have had trouble accessing specialist care — a problem that could only get worse as the country's population ages.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "28b9627af862ccb5",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-wildfire-lightning-concerns-9.7271825?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Out-of-control wildfire prompts evacuation order for area south of Pemberton, B.C.",
+      "excerpt": "The evacuation order applies to One Mile Lake Park, \"to provide safe working space to crews supporting fire operations.\"",
+      "cat": "Economy"
+    },
+    {
+      "id": "d3d1717795c4f70e",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/rath-mareva-order-extended-alberta-first-nation-9.7271969?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta judge extends order freezing separatist lawyer’s assets in legal dispute with First Nation",
+      "excerpt": "A judge agreed on Wednesday to extend and expand an order that temporarily freezes the assets of lawyer Jeff Rath, one of the leaders of Alberta’s separatist movement.",
+      "cat": "Justice"
+    },
+    {
+      "id": "3d9e909c6cd59ca0",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/little-grand-rapids-chief-clinton-keeper-hospital-wait-9.7270995?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Leaders demand better health care for First Nations people after chief's 13-hour wait at Winnipeg hospital",
+      "excerpt": "First Nations leaders are raising concerns about the quality of care Indigenous people get in Manitoba after the chief of Little Grand Rapids waited in pain for about 13 hours at a Winnipeg hospital.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "ca0de48fb0f06186",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/ekati-diamond-mine-receivership-and-closure-9.7271251?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Uncertainty looms over jobs, clean-up costs as N.W.T.'s Ekati diamond mine nears closure",
+      "excerpt": "Ekati Diamond Mine had been slated to close in 2029 but is now in receivership after its parent company could not secure a buyer for the site. Receiver PricewaterhouseCoopers, along with experts, are assessing how many…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "6e711401a5695403",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/data-centre-ban-voted-down-9.7271641?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "No ban against data centre development after Hamilton council votes down bylaw",
+      "excerpt": "The vote was split 10 against and six for what they were calling an interim control bylaw that would have paused development on data centres for one year, giving the city time to assess and develop further governance…",
+      "cat": "Justice"
+    },
+    {
+      "id": "2fbf33bd65c3ab27",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/train-cab-wildfire-armstrong-9.7271351?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "CN workers in viral video of train cab surrounded by wildfire flames got out safely, railway says",
+      "excerpt": "Canadian National Railway is responding after a work crew narrowly escaped a train cab surrounded by flames on Monday near Armstrong, Ont. Video taken from inside the train appears to show workers looking through the…",
+      "cat": "Transportation"
+    },
+    {
+      "id": "9539420ea6f832fc",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/what-is-dry-lightning-b-c-wildfire-9.7271822?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why B.C. wildfire crews are worried about 'dry lightning' and what they're doing to prepare",
+      "excerpt": "The B.C. Wildfire Service has warned that this week could be a crucial period for firefighters in the province as conditions converge to create what director of wildfire operations Cliff Chapman calls a \"significant…",
+      "cat": "Economy"
+    },
+    {
+      "id": "e838391319660a4e",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7271881?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Before and after: Smoky haze takes over Toronto",
+      "excerpt": "These photos were taken just one day apart, showing how quickly Toronto's sky went from clear to smoky. Smoke from forest fires in northwestern Ontario is causing poor air quality and reduced visibility for much of…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "562f69be9490c365",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/animal-neglect-ellen-haudeck-battleford-horses-9.7271677?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Woman whose horses starved near North Battleford, Sask., prohibited from having animals for life",
+      "excerpt": "Ellen Haudeck was in court in North Battleford on Wednesday to learn her sentence after being convicted of criminally neglecting animals in her care. She received a four-month conditional sentence order followed by 20…",
+      "cat": "Justice"
+    },
+    {
+      "id": "8a2fb04eed2907a4",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7271551?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Finance ministers give economic update as provincial deficits surge",
+      "excerpt": "Federal Finance Minister François-Philippe Champagne gathered his provincial and territorial counterparts in Charlottetown for a summit, where they discussed a range of topics, from potential revenue from the as yet…",
+      "cat": "Finance"
+    },
+    {
+      "id": "1ef83de29672826d",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/apartment-fire-confirmed-victims-9.7271688?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Married couple confirmed as 2 people who died in explosion and fire in north Edmonton",
+      "excerpt": "An Edmonton man whose grandparents died in a fire at an apartment building on the city’s north side earlier this week said he wants them to be remembered for who they were and not for what happened to them.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "582940ddb14563d3",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/connie-wolverine-missing-search-sask-churchill-river-9.7271624?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Search of forest, shoreline continues for barefoot woman missing near Churchill River in Sask.",
+      "excerpt": "Searchers continue combing thick forest and the shoreline of the Churchill River, looking for Connie Wolverine, 44. She was last seen Sunday evening as a storm intensified near her uncle's cabin.",
+      "cat": "Economy"
+    },
     {
       "id": "2217ade4392fbcc3",
       "date": "2026-07-15",
