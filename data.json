@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T07:37:41.575Z",
-  "count": 100,
+  "generatedAt": "2026-07-16T21:46:10.606Z",
+  "count": 120,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,226 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "5d8a9bf046260965",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/namaygoosisagagun-first-nation-wildfire-9.7272350?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Members of First Nation destroyed by northwestern Ontario wildfire helped each other escape by boat",
+      "excerpt": "Namaygoosisagagun First Nation, also known as Collins First Nation, has been destroyed by a wildfire that spans over 350,000 hectares in northwestern Ontario. Community leaders spoke to CBC News about their harrowing…",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "2736102ccce0468d",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/carney-presser-gord-bridge-9.7272695?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada's PM Carney says Gordie Howe bridge tolls won't be split with U.S. until the $6.4B of debt is repaid",
+      "excerpt": "Prime Minister Mark Carney has confirmed that Gordie Howe International Bridge tolls won't be split with the United States until the $6.4 billion of Canadian investment is repaid. However, Carney did clarify that the…",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "a1b55e6e5154f0e8",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/referendum-third-party-advertising-9.7271199?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta separatists 'frustrated and flummoxed' over fundraising tallies from pro-Canada group",
+      "excerpt": "Some separatist groups are “frustrated and flummoxed” over Elections Alberta’s third-party advertising rules ahead of the Oct. 19 referendum.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "a955d1ce7565ba20",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/gopublic/rogers-customer-service-layoffs-9.7272931?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Rogers cutting telco customer service jobs amid complaints of long wait times",
+      "excerpt": "Rogers announced the closure of six radio stations last week, laying off 230 people. But it didn’t mention that it was also laying off front-line telco customer service agents. The company won’t confirm how many jobs…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "72e86a398b495f84",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/indigenous/afn-resolution-wildfire-evacuations-9.7272813?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Assembly of First Nations calls for support for First Nation in Ontario after wildfire",
+      "excerpt": "The Assembly of First Nations passed an emergency resolution calling on the government to help Namaygoosisagagun First Nation after a wildfire destroyed most of the community on Monday.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "25e56c229059a02f",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/don-duguid-obit-9.7273198?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "2-time world curling champ, longtime CBC broadcaster Don Duguid dead at 90",
+      "excerpt": "Don Duguid's son, member of Parliament Terry Duguid, says his father died peacefully Wednesday night.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "5f688359348b0509",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/wildfires-northern-ontario-federal-help-9.7272287?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Fast-moving fires destroy homes in northern Ontario as crews fight flames",
+      "excerpt": "Winds out of the northwest could fan the flames of dozens of forest fires that have already devastated communities in northern Ontario.",
+      "cat": "Economy"
+    },
+    {
+      "id": "8869598a028c27ac",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/boston-bar-evacuation-order-9.7272637?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Boston Bar residents ordered to evacuate as B.C. wildfires intensify",
+      "excerpt": "One evacuee describes the scene as \"an entire mountain disappearing in front of our eyes, trees looking like Q-Tips doused in gasoline just going up in flames.\"",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "7e40f005cb8ba4fd",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/indigenous/afn-assembly-ministers-9.7272213?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Assembly of First Nations questions ministers on major projects, reconciliation",
+      "excerpt": "Federal cabinet ministers faced pointed concerns from frustrated chiefs Thursday at an Assembly of First Nations meeting in Ottawa, as the Liberal government tried to again ease tensions over its efforts to streamline…",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "0157af71bd6197fc",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/bridgewater-teen-accused-in-school-attack-plot-gets-bail-9.7272816?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "N.S. teen accused in school plot released on strict conditions",
+      "excerpt": "The Nova Scotia teen arrested in March for co-plotting a school attack has been released with strict conditions. The case is due back in court in September.",
+      "cat": "Justice"
+    },
+    {
+      "id": "afab1f1bc4bc8610",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-federal-help-wildfire-evacuations-9.7272329?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ford defends Ontario emergency firefighting budget as province asks Ottawa to help with evacuations",
+      "excerpt": "As wildfires burn out of control in parts of Ontario, the province is asking the federal government to ensure aircraft and crews could be deployed in 24 hours or less in case assistance is needed. Premier Doug Ford…",
+      "cat": "Finance"
+    },
+    {
+      "id": "889b8f75aba720a7",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/repentigny-train-9.7272246?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Repentigny, Que., calls for stop to rail traffic after TSB investigation reveals 'several deficiencies'",
+      "excerpt": "The mayor of Repentigny, Que., is calling on the federal transport minister to suspend rail traffic through the city until CN Rail implements corrective measures to the railway track.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "050b1305953550ee",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/federal-announcement-port-of-vancouver-delta-bc-9.7272207?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal government refers Port of Vancouver strategy to Major Projects Office",
+      "excerpt": "Federal Transport Minister Steven MacKinnon has announced the Port of Vancouver Gateway Strategy is being referred to the Major Projects Office to support Canada's goal of doubling exports to non-U.S. markets by 2035.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "85e57f0dab1d224e",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/maxime-paquette-arrest-mexico-quebec-9.7272565?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mexican authorities arrest Quebec fugitive linked to Desjardins data breach, police say",
+      "excerpt": "Quebec provincial police have confirmed the arrest by Mexican authorities of Maxime Paquette, who had been wanted since June 2024 in connection with investigations into the massive Desjardins data breach.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "db8a7d18c51725b9",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/carney-armoured-vehicles-general-dynamics-9.7272503?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ottawa to spend almost $2B over 4 years to buy 190 Canadian-made armoured vehicles",
+      "excerpt": "Canada will spend almost $2 billion over four years on 190 armoured combat support vehicles that will be built by London, Ont.-based General Dynamics Land Systems-Canada, Prime Minister Mark Carney announced on Thursday.",
+      "cat": "Economy"
+    },
+    {
+      "id": "fd3d096477d53cf4",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/smoke-air-quality-hamilton-9.7272134?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What's open, closed in Hamilton, Niagara and area amid 'very high risk' air quality and smoky haze",
+      "excerpt": "A thick, campfire-smelling haze is hanging over Hamilton, Niagara and area for a second day on Thursday, as wildfire smoke from northwestern Ontario continues to drive down air quality throughout the southern part of…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "6a9015b4f894a312",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/smoke-air-quality-warning-thursday-9.7272088?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Toronto air quality may 'temporarily improve' Friday, but conditions could persist into weekend",
+      "excerpt": "A thick, smoky haze blanketing the Greater Toronto Area is \"much worse\" compared to the air quality levels seen over the past few days, an Environment Canada meteorologist says.",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "26f444c46844014a",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/yellowhead-county-alberta-data-centre-9.7271648?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Another AI data centre proposed for rural Alberta",
+      "excerpt": "A company wants to build a data centre in west-central Alberta but doesn't yet have a tech company that has agreed to occupy it. At the proposed project's first public presentation, Yellowhead County had questions for…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "e7c974864b56f960",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/analysis-danielle-smith-oil-production-double-9.7271664?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Danielle Smith wants to double Alberta oil production. Can she bring back the boom?",
+      "excerpt": "",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "76cc4f4a53d829f3",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/radio/costofliving/roadside-attraction-canada-giant-road-trip-9.7265826?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Giant dinosaurs, oversized sausages: Are Canada's roadside attractions worth keeping around?",
+      "excerpt": "From a towering dinosaur in Drumheller, Alta., to a giant nickel coin in Sudbury, Ont., quirky landmarks have drawn visitors for decades. But as tourism changes and maintenance costs rise, some communities in Canada are…",
+      "cat": "Transportation"
+    },
     {
       "id": "aada7cef54ceb4f1",
       "date": "2026-07-16",
