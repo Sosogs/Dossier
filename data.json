@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T07:35:01.998Z",
-  "count": 128,
+  "generatedAt": "2026-07-17T16:37:08.450Z",
+  "count": 138,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -35,6 +35,94 @@
   ],
   "items": [
     {
+      "id": "db3b8a296393c5dd",
+      "date": "2026-07-17",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/operation-hardball-rcmp-india-modi-nijjar-9.7272978?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Senior RCMP officer's 'no evidence' comment about India seems to contradict past statements",
+      "excerpt": "RCMP Deputy Commissioner Lisa Moreland says there is \"no evidence\" to link Indian government officials to crimes committed by Indian gangs that were investigated by U.S. and Canadian law enforcement, including the…",
+      "cat": "Justice"
+    },
+    {
+      "id": "af7285af4c66a19d",
+      "date": "2026-07-17",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/montreal/daniel-jolivet-new-trial-9.7274090?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Justice minister orders new trial for Quebec man who spent 3 decades in prison",
+      "excerpt": "Canada's justice minister has ordered a new trial for a Quebec man convicted of four murders, who was released from prison after concerns were raised about the fairness of his initial trial.",
+      "cat": "Justice"
+    },
+    {
+      "id": "4987b543c84d262f",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/eastern-shore-wildfire-jumps-significantly-in-size-to-1-700-hectares-9.7273714?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Nova Scotia wildfire grows to 1,700 hectares",
+      "excerpt": "Firefighters continue to respond to a growing wildfire near Mooseland Road, on Nova Scotia’s Eastern Shore, about 100 kilometres east of Halifax.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "01b94e2b4180d471",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/london/electrical-apprenticeships-9.7270962?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why electrician pre-apprenticeship programs are no guarantee of work, or even an apprenticeship",
+      "excerpt": "Two graduates of an electrical pre-apprenticeship program in London, Ont., say finding an employer willing to register them as apprentices has been far harder than learning the trade itself. Industry leaders say the…",
+      "cat": "Economy"
+    },
+    {
+      "id": "e7f2c2b223083a40",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/stan-cho-resign-cabinet-ontario-9.7273986?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "MPP Stan Cho resigns from cabinet after hotel expense controversy",
+      "excerpt": "Ontario Premier Doug Ford says he has accepted the resignation from cabinet of Stan Cho, who had been serving as minister of tourism, culture and gaming but recently came under fire for expensing hotel stays in Toronto…",
+      "cat": "Culture & heritage"
+    },
+    {
+      "id": "395e63c62bb0935d",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-wildfire-evacuee-support-9.7273586?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Thunder Bay residents come together to support wildfire evacuees with toy drive, donation drop-offs",
+      "excerpt": "People in Thunder Bay are coming together to collect donations for wildfire evacuees in the city, including members of Namaygoosisagagun First Nation who have lost everything. Here's how the city is helping to…",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "ff140c07a199fa86",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/nathanael-selambi-canada-day-binbrook-water-safety-9.7272723?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'My heart is broken forever,' says mom of boy who died in Hamilton lake on Canada Day",
+      "excerpt": "Nathanael Selambi, 7, was with the local Cameroonian community celebrating Canada Day at Binbrook Conservation Area when he went missing. His body was found in the water the next day, leaving his parents and two…",
+      "cat": "Wildlife"
+    },
+    {
+      "id": "6a59d9ef7c1b4f79",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/sony-playstation-video-game-petition-9.7272867?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "More than 320,000 people sign Winnipeg video game store's petition to keep PlayStation discs spinning",
+      "excerpt": "Hundreds of thousands of people have signed a petition created by a Winnipeg video game store after Sony said earlier this month it plans to ditch physical PlayStation game discs.",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "8272c06caf0eff56",
       "date": "2026-07-17",
       "src": "CBC Canada",
@@ -44,6 +132,17 @@
       "title": "Conservation officers, RCMP investigating two wildlife-related deaths near La Ronge, Sask.",
       "excerpt": "Two deaths at McTavish Lake, north of La Ronge, are suspected to be wildlife-related, the Saskatchewan government says.",
       "cat": "Wildlife"
+    },
+    {
+      "id": "7d10064eeac50d85",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/forest-fire-update-nwo-9.7273766?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Northwestern Ontario wildfires: Evacuation order issued for area near Lac des Mille Lacs",
+      "excerpt": "",
+      "cat": "Economy"
     },
     {
       "id": "ef9a1bcdbc10b8bf",
@@ -374,6 +473,17 @@
       "title": "Alberta judge extends order freezing separatist lawyer’s assets in legal dispute with First Nation",
       "excerpt": "A judge agreed on Wednesday to extend and expand an order that temporarily freezes the assets of lawyer Jeff Rath, one of the leaders of Alberta’s separatist movement.",
       "cat": "Justice"
+    },
+    {
+      "id": "c2ecb9c2d65c9c56",
+      "date": "2026-07-15",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/friday-smoke-air-quality-toronto-gta-9.7273698?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Orange air quality warning persists across Greater Toronto Area, with temporary relief expected in afternoon",
+      "excerpt": "",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "3d9e909c6cd59ca0",
