@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T21:46:10.606Z",
-  "count": 120,
+  "generatedAt": "2026-07-17T07:35:01.998Z",
+  "count": 128,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,94 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "8272c06caf0eff56",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/wildlife-related-deaths-la-ronge-9.7273614?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Conservation officers, RCMP investigating two wildlife-related deaths near La Ronge, Sask.",
+      "excerpt": "Two deaths at McTavish Lake, north of La Ronge, are suspected to be wildlife-related, the Saskatchewan government says.",
+      "cat": "Wildlife"
+    },
+    {
+      "id": "ef9a1bcdbc10b8bf",
+      "date": "2026-07-16",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/cusma-trade-negotiations-netflix-tax-dst-9.7273212?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada doesn't 'get credit' for rolling back trade irritants, U.S. envoy says",
+      "excerpt": "Weeks after the American administration declined to extend the Canada-U.S.-Mexico Agreement, U.S. trade envoy signalled there's been little progress in negotiations between the two countries.",
+      "cat": "Economy"
+    },
+    {
+      "id": "cafc6ebe2256341e",
+      "date": "2026-07-16",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/widlfires-smoke-air-quality-michigan-congress-republicans-9.7272538?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Republicans blast Canada over wildfire smoke, air quality in northern U.S.",
+      "excerpt": "Republican members of U.S. Congress are slamming Canada's federal and provincial governments over what they claim is inaction in preventing the wildfires currently spreading smoke and poor air quality across much of the…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "ab49567857274243",
+      "date": "2026-07-16",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/canada-diplomats-audit-gun-violence-housing-issues-9.7272394?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian diplomats in U.S. face high health care and housing costs: audit",
+      "excerpt": "An internal government audit of Canadian diplomatic missions in the U.S. completed late last year found staff faced safety risks and problems with accessing health care — more than a year after a union flagged those…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "03f704984f6acaf5",
+      "date": "2026-07-16",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/permanent-daylight-saving-time-9.7271404?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "As U.S. moves closer to permanent daylight time, is it inevitable that Canada will follow?",
+      "excerpt": "The United States took one step closer to abandoning the practice of changing the clocks every spring and fall, raising the question: how would such a move down south impact Canada?",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "57a309e5e9ef8949",
+      "date": "2026-07-16",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-karamveer-singh-murder-anmol-9.7271336?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Minister of public safety fights to keep accused murderer and alleged Bishnoi gangster in custody",
+      "excerpt": "Lawyers for the Minister of Public Safety will be in Federal Court Friday trying to keep an alleged senior Bishnoi gang member who faces a murder charge in India in custody at an immigration detention facility while he…",
+      "cat": "Justice"
+    },
+    {
+      "id": "c3942047d81e7ea4",
+      "date": "2026-07-16",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/immigration-pause-sponsorship-family-9.7272155?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada pauses applications for parent, grandparent immigration sponsorship program",
+      "excerpt": "The federal government will not accept any new applications this year from people who want to sponsor their parents and grandparents to come to Canada as permanent residents. Immigration, Refugees and Citizenship Canada…",
+      "cat": "Economy"
+    },
+    {
+      "id": "e2dbed3f794b7f6e",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/jacket-lake-wildfire-rural-halifax-mooseland-road-9.7273148?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Evacuation order issued for Mooseland Road wildfire in Halifax County",
+      "excerpt": "The Mooseland Road wildfire in the Jacket Lake area of Halifax County was estimated at more than 300 hectares Thursday. Between 100 to 150 people are impacted by the evacuation order.",
+      "cat": "Transportation"
+    },
     {
       "id": "5d8a9bf046260965",
       "date": "2026-07-16",
