@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T16:37:08.450Z",
-  "count": 138,
+  "generatedAt": "2026-07-17T21:09:36.484Z",
+  "count": 151,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,138 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "a560548335bd506d",
+      "date": "2026-07-17",
+      "src": "Immigration, Refugees and Citizenship Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/minister-metlege-diab-to-highlight-the-canada-child-benefits-more-generous-support-for-families.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Minister Metlege Diab to highlight the Canada Child Benefit’s more generous support for families",
+      "sum": "Minister Metlege Diab to highlight the Canada Child Benefit’s more generous support for families",
+      "cat": "Economy"
+    },
+    {
+      "id": "020145370e83da92",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/stronach-mistrial-conviciton-lawyer-9.7274682?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Frank Stronach's lawyer says judge has declared mistrial in businessman's sexual assault conviction",
+      "excerpt": "A lawyer for billionaire businessman Frank Stronach says a judge has declared a mistrial on his sexual assault conviction in a surprise ruling ahead of his scheduled September sentencing hearing.",
+      "cat": "Justice"
+    },
+    {
+      "id": "ca3f070a0ca2faad",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-release-karamveer-singh-9.7274361?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'No amount of money' sufficient to stem risk of alleged Bishnoi gang member's release: lawyer",
+      "excerpt": "An accused murderer with ties to senior Bishnoi gang members represents too great a risk for release, a lawyer for Canada's Minister of Public Safety told a Federal Court judge Friday.",
+      "cat": "Justice"
+    },
+    {
+      "id": "0490fbd49683b619",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/business/government-investigating-cn-wildfire-9.7274475?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Government says it's investigating CN's actions after rail crew surrounded by wildfire",
+      "excerpt": "Transport Canada said its investigating to determine if CN failed to comply with rules under the Railway Safety Act, or if health and safety violations occurred. The union representing rail workers has also criticized…",
+      "cat": "Transportation"
+    },
+    {
+      "id": "0f063e23a54b336d",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-couple-killed-in-bear-attack-at-mctavish-lake-9.7274434?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Regina couple killed in bear attack at McTavish Lake",
+      "excerpt": "Family members say Jay and Deb MacDonald are the two people killed by a bear at a lake north of La Ronge on Wednesday.",
+      "cat": "Economy"
+    },
+    {
+      "id": "b23a0451b3b64ee2",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/convoy-leader-pat-king-loses-at-appeal-court-to-be-resentenced-9.7274254?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Convoy leader Pat King loses at appeal court, to be resentenced",
+      "excerpt": "Pat King, a key figure in the 2022 convoy protests, will be re-sentenced after the Ontario Court of Appeal sided with Crown prosecutors who argued his original punishment was too lenient.",
+      "cat": "Justice"
+    },
+    {
+      "id": "9b7fab69e738b3e8",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-olympic-stadium-modernization-plans-9.7273941?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "50 years after Olympic Games, Quebec unveils plan to revamp Big O — again",
+      "excerpt": "",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "d9d0d75ebba5b37e",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/innu-inquiry-final-hearing-9.7273072?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Innu inquiry formal hearings draw to a close as parties give final submissions",
+      "excerpt": "More than four years after the first evidence was presented, the public inquiry into the experiences of Innu families in the child protection system is now drawing to a close.",
+      "cat": "Economy"
+    },
+    {
+      "id": "6cfd69a145cffac4",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/canada-mexico-trade-talks-cusma-usmca-9.7274363?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mexico not looking to cut side deal with U.S. and leave Canada out, foreign secretary says",
+      "excerpt": "Mexico's foreign secretary says his country isn't looking to cut a deal with the U.S. if it means abandoning the trilateral trade pact with Canada.",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "a30b1b40d5c8364f",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/mun-acceptance-emails-error-9.7272979?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Memorial University promises ‘checks and balances’ after 103 students get engineering acceptance letter in error",
+      "excerpt": "Approximately 100 high school graduates had their excitement dashed last weekend after mistakenly receiving admission acceptance emails from Memorial University’s Faculty of Engineering.",
+      "cat": "Education"
+    },
+    {
+      "id": "8f0ef186bc6eba38",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/top-tdsb-students-100-average-9.7273519?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What's the secret to perfect marks? Family, community, discipline and time management, top scholars say",
+      "excerpt": "Three Toronto students earned perfect marks this year and they attribute their academic excellence to dedicated families, personal passions, strong communities and time management.",
+      "cat": "Education"
+    },
+    {
+      "id": "fbae6a02941323e2",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-laurentians-demographics-shifts-9.7272331?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why more Quebecers are flocking to Laurentians as province's demographics shift",
+      "excerpt": "People looking for more space, lower housing costs and easier access to nature are helping drive population growth in Quebec’s Laurentians, according to the province’s latest demographic projections. While Montreal is…",
+      "cat": "Housing"
+    },
     {
       "id": "db3b8a296393c5dd",
       "date": "2026-07-17",
@@ -132,6 +264,17 @@
       "title": "Conservation officers, RCMP investigating two wildlife-related deaths near La Ronge, Sask.",
       "excerpt": "Two deaths at McTavish Lake, north of La Ronge, are suspected to be wildlife-related, the Saskatchewan government says.",
       "cat": "Wildlife"
+    },
+    {
+      "id": "e8ac57d4e4454e70",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/us-complaints-trump-widlfire-smoke-9.7274466?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Trump threatens increased tariffs for wildfire smoke that has 'unnecessarily invaded' U.S.",
+      "excerpt": "",
+      "cat": "Economy"
     },
     {
       "id": "7d10064eeac50d85",
