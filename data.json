@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T07:11:06.650Z",
-  "count": 155,
+  "generatedAt": "2026-07-18T20:32:12.125Z",
+  "count": 162,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -35,6 +35,61 @@
   ],
   "items": [
     {
+      "id": "0ff1af9ae0badd81",
+      "date": "2026-07-18",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/minister-says-nothing-went-wrong-with-ottawa-s-response-to-ontario-wildfires-9.7274886?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Minister says nothing went wrong with Ottawa's response to Ontario wildfires",
+      "excerpt": "As hundreds of wildfires burning across Ontario force communities to evacuate and prompt urgent calls for government support, Eleanor Olszewski, the federal minister of emergency management, is defending Ottawa's…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "74782f3eadd36892",
+      "date": "2026-07-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-lightning-9.7275420?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. wildfire tally surges past 100 as barrage of lightning strikes transforms fire season in a flash",
+      "excerpt": "On Wednesday morning the province's firefighters faced only about 20 blazes in what had been a relatively quiet season so far, but as of Saturday morning there were 113 fires burning, including about 100 started since…",
+      "cat": "Economy"
+    },
+    {
+      "id": "397f801a7bc901f0",
+      "date": "2026-07-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/saturday-smoke-weather-update-gta-toronto-9.7275332?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Air quality warning downgraded to yellow, thunderstorm warning issued across GTA",
+      "excerpt": "Environment Canada downgraded an ongoing air quality warning and issued a severe thunderstorm warning across the Greater Toronto Area for strong winds, large hail and heavy rain on Saturday.",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "8a2fdeba3b0bb160",
+      "date": "2026-07-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/climate-change-budget-resilience-9.7274622?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Over time, more frequent floods and wildfires are threatening Manitoba's fiscal resilience",
+      "excerpt": "The combined cost of wildfires and flooding over the past two years will have a serious impact on the provincial budget in the short term. How Manitoba responds to these disasters on a longer-term basis will be even…",
+      "cat": "Finance"
+    },
+    {
+      "id": "3f40c5b6a89b5af4",
+      "date": "2026-07-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/boden-umpherville-prince-albert-sask-police-coroners-inquest-9.7274815?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Boden Umpherville's family continues search for answers at coroner's inquest",
+      "excerpt": "Family and friends have always disputed the investigation that cleared Prince Albert police of any wrongdoing. A public inquest starting Monday will determine the facts of the 40-year-old's death in 2023.",
+      "cat": "Public safety"
+    },
+    {
       "id": "4461c8d0871ac721",
       "date": "2026-07-18",
       "src": "CBC Canada",
@@ -44,6 +99,17 @@
       "title": "Family of 6 flees Boston Bar fires with 15 pets in tow",
       "excerpt": "When Brittany Alenius, her husband and their four children were told to evacuate, their prized possessions were packed up and ready to go. But the trickiest part was making space in the car for three dogs, six cats, two…",
       "cat": "Economy"
+    },
+    {
+      "id": "d41539207b8cf947",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/police-search-eleven-boy-9.7274266?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Calgary police ask public to search their properties for missing 11-year-old boy",
+      "excerpt": "Calgary police are expanding their search for a boy missing since Thursday, asking residents of the entire city to search their property.",
+      "cat": "Public safety"
     },
     {
       "id": "1a4fee05f4cee0f7",
@@ -308,6 +374,17 @@
       "title": "Conservation officers, RCMP investigating two wildlife-related deaths near La Ronge, Sask.",
       "excerpt": "Two deaths at McTavish Lake, north of La Ronge, are suspected to be wildlife-related, the Saskatchewan government says.",
       "cat": "Wildlife"
+    },
+    {
+      "id": "c02aefbd0fb96cdf",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/northwestern-ontario-new-fires-9.7275405?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Wildfire tally grows to 191 in northern Ontario",
+      "excerpt": "",
+      "cat": "Economy"
     },
     {
       "id": "e8ac57d4e4454e70",
