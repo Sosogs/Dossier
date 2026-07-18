@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T21:09:36.484Z",
-  "count": 151,
+  "generatedAt": "2026-07-18T07:11:06.650Z",
+  "count": 155,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,50 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "4461c8d0871ac721",
+      "date": "2026-07-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/fire-evacuation-pets-boston-bar-9.7275049?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Family of 6 flees Boston Bar fires with 15 pets in tow",
+      "excerpt": "When Brittany Alenius, her husband and their four children were told to evacuate, their prized possessions were packed up and ready to go. But the trickiest part was making space in the car for three dogs, six cats, two…",
+      "cat": "Economy"
+    },
+    {
+      "id": "1a4fee05f4cee0f7",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/assembly-first-nations-separation-resolution-treaty-rights-9.7274690?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "AFN calls on Ottawa, provinces to protect treaty rights in wake of Alberta separatism",
+      "excerpt": "First Nations chiefs from across Canada are calling on the federal and provincial governments to protect treaty rights from, what they say are, threats posed by Alberta separatism.",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "93b4cd07db9e28cc",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/sidhu-alberta-fiscal-outlook-2026-surplus-possible-9.7274508?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "From deficit to surplus? Alberta's bleak budget outlook 'changed dramatically' as oil prices rise",
+      "excerpt": "Alberta's financial outlook has taken a dramatic turn after the province previously forecasted a $9.4-billion shortfall. Surging oil prices could mean the province finishes the fiscal year in the black.",
+      "cat": "Finance"
+    },
+    {
+      "id": "ed3f93e73e54e4b1",
+      "date": "2026-07-17",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/lutselke-repatriation-two-girls-9.7274484?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Remains of 2 girls who died at residential school brought home to Łutselk'e",
+      "excerpt": "Deninu Kųę́ First Nation Chief Louis Balsillie escorted Denise Boucher and Alice Abel’s small wooden caskets by plane on Thursday morning to Łutselk'e. The remains were then driven to a graveyard next to the Snowdrift…",
+      "cat": "Indigenous services"
+    },
     {
       "id": "a560548335bd506d",
       "date": "2026-07-17",
