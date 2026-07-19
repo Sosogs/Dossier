@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T07:51:50.038Z",
-  "count": 165,
+  "generatedAt": "2026-07-19T15:33:44.540Z",
+  "count": 171,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,72 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "547a351b14d91597",
+      "date": "2026-07-19",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/alberta-first-nations-rock-the-vote-separatism-referendum-9.7274549?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta First Nations intend to 'rock the vote' against separatism",
+      "excerpt": "First Nations leaders in Alberta are turning to a campaign that saw record on-reserve voter turnout in an effort to tip the scales against the separatist movement during October's provincial referendum.",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "9f92ad941ed41d73",
+      "date": "2026-07-19",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/canada-congo-ebola-9.7275782?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada to temporarily bar entry by foreign nationals recently in Congo due to Ebola risk",
+      "excerpt": "As part of new, temporary border measures ‌to combat the spread ​of Ebola, the ​Canadian government on Sunday said ​it would deny entry to ‌foreign nationals who had been to the Democratic Republic of the Congo ‌within…",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "36d182fe14eee41b",
+      "date": "2026-07-19",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-alberta-immigrant-referendum-explained-9.7274985?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What some immigrants could lose if Alberta votes yes to Danielle Smith's questions",
+      "excerpt": "To many voters, the various questions on the Oct. 19 ballots that cover social services for newcomers will appear confusing and contradictory.",
+      "cat": "Economy"
+    },
+    {
+      "id": "8eb33c33ebb5258b",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/what-the-1976-montreal-games-represent-to-those-who-boycotted-it-50-years-later-9.7269452?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What the 1976 Montreal Games represent to those who boycotted it, 50 years later",
+      "excerpt": "A young Nigerian woman lands in Montreal, full of excitement and optimism for her first Olympic Games. A Tanzanian track star never leaves home. On the 50th anniversary of the 1976 Games, both athletes reflect on the…",
+      "cat": "Economy"
+    },
+    {
+      "id": "4a3423a90e892747",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-new-alcohol-strategy-9.7270925?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alcohol costs P.E.I. more than it brings in, new provincial strategy says",
+      "excerpt": "Prince Edward Island has released a new provincial alcohol strategy aimed at reducing illness and harms linked to drinking, and experts say it puts the province ahead of much of the country.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "3e55bdffc2079f01",
+      "date": "2026-07-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/wrigley-full-evacuation-9.7275498?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Essential workers evacuate Wrigley, N.W.T., as fire nears",
+      "excerpt": "Chief of the Pehdzéh Kı̨ First Nation says the fire moved towards the community overnight, and crews have been forced to abandon their line for their own safety. Air tankers put down fire retardant, but the fire crossed…",
+      "cat": "Indigenous services"
+    },
     {
       "id": "67114846cfb2ee87",
       "date": "2026-07-18",
