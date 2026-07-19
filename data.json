@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T20:32:12.125Z",
-  "count": 162,
+  "generatedAt": "2026-07-19T07:51:50.038Z",
+  "count": 165,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,28 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "67114846cfb2ee87",
+      "date": "2026-07-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/blue-jays-joe-carter-statue-unveiled-9.7275550?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Blue Jays unveil Joe Carter statue outside Rogers Centre honouring World Series championships",
+      "excerpt": "A statue honouring the 1992 and 1993 World Series champion Toronto Blue Jays has been unveiled outside of Rogers Centre.",
+      "cat": "Economy"
+    },
+    {
+      "id": "a124eaeb42dc4340",
+      "date": "2026-07-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/opseu-firefighters-9.7274582?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Conditions for wildland firefighters 'extremely challenging' in northwestern Ontario: union",
+      "excerpt": "The union representing Ontario's wildland firefighters says conditions for crews battling forest fires in northwestern Ontario are \"extremely challenging.\"",
+      "cat": "Economy"
+    },
     {
       "id": "0ff1af9ae0badd81",
       "date": "2026-07-18",
@@ -374,6 +396,17 @@
       "title": "Conservation officers, RCMP investigating two wildlife-related deaths near La Ronge, Sask.",
       "excerpt": "Two deaths at McTavish Lake, north of La Ronge, are suspected to be wildlife-related, the Saskatchewan government says.",
       "cat": "Wildlife"
+    },
+    {
+      "id": "5642e1bd750abcbb",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/ford-wildfire-us-short-memory-9.7275564?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ford says U.S. politicians criticizing Canadian wildfire response have 'a very short memory'",
+      "excerpt": "",
+      "cat": "Economy"
     },
     {
       "id": "c02aefbd0fb96cdf",
