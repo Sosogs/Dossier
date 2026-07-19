@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T15:33:44.540Z",
-  "count": 171,
+  "generatedAt": "2026-07-19T20:32:33.080Z",
+  "count": 185,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,138 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "97fb426c1efb5097",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/missing-boys-drowning-manitoba-9.7275913?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "2 boys missing, believed to have drowned in Manitoba's Nutimik Lake",
+      "excerpt": "Two boys, aged 10 and 13, are believed to have slipped into the fast-moving rapids near Sturgeon Falls Trail in Manitoba's Nutimik Lake on Saturday.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "c689d7dc47c67f06",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/roughriders-jayden-dalke-killed-crash-9.7275966?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Roughriders linebacker and captain Jayden Dalke killed in crash",
+      "excerpt": "The Saskatchewan Roughriders are mourning linebacker and team captain Jayden Dalke, who died in a car crash Saturday evening. The team announced his death in a statement Sunday.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "a8707cee5e6d74cc",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/matthew-hamm-weyakwin-lake-rcmp-civilian-review-complaints-9.7275029?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Sask. man's death ruled accidental, despite initial RCMP response deemed 'wholly unacceptable'",
+      "excerpt": "When RCMP got a call about an unmanned boat going in circles on Weyakwin Lake, officers didn't make the connection that it could mean a person was missing. Matthew Hamm's body was found in the lake the following spring.…",
+      "cat": "Economy"
+    },
+    {
+      "id": "c4e15e027f4f6097",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/eabametoong-first-nation-wildfire-evacuation-9.7275869?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Leaders of First Nations hit by Ontario wildfires speak out about way climate crises are handled",
+      "excerpt": "With about 600 Eabametoong First Nation members at the centre of another evacuation due to northern Ontario wildfires, community leaders speak out about what makes First Nations more vulnerable to such crises. “The…",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "84ed38f3aab7d770",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/water-glacial-lake-pemberton-9.7275875?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Regional officials in B.C. warn of fast-moving water and debris from glacial lake",
+      "excerpt": "The Squamish-Lillooet Regional District says the public must stay away from Place Creek, Poole Creek, Gates Lake and nearby water channels because of flood water from a lake that has formed near Place Glacier.",
+      "cat": "Economy"
+    },
+    {
+      "id": "a8db45d09a738cf7",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/139-wildfires-northwestern-ontario-9.7275906?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "139 wildfires now actively burning across northwestern Ontario",
+      "excerpt": "There are 139 wildfires burning across northwestern Ontario as of Saturday afternoon, provincial authorities confirmed. Fifty fires were burning in the northeast region, bringing the total wildfire count across northern…",
+      "cat": "Economy"
+    },
+    {
+      "id": "02f8a45b827a0a74",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/canmore-safe-park-program-9.7271545?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canmore, Alta., workers turn to van living as affordable housing remains hard to find",
+      "excerpt": "Demand for Canmore's overnight van parking program remains strong as high housing costs push more workers to live in vehicles. And despite stricter eligibility rules, the town says the program is nearing capacity again.",
+      "cat": "Housing"
+    },
+    {
+      "id": "ba5053dad50003f7",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/wildfires-192-northern-ontario-9.7275818?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Hundreds of Eabametoong First Nation members evacuated as northern Ontario wildfire tally grows to 192",
+      "excerpt": "As new wildfires are discovered in northwestern Ontario during a week of devastation, evacuations have begun for members of Eabametoong First Nation, a fly-in community over 300 kilometres north of Thunder Bay. Roughly…",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "24adccf333f4a7bf",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/blue-jays-duane-ward-obit-july-19-9.7275742?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Duane Ward, former Blue Jays pitcher, World Series champion, dies at 62",
+      "excerpt": "Former Toronto Blue Jays relief pitcher and two-time World Series champion Duane Ward has died at 62. The Blue Jays say Ward died of natural causes in Toronto.",
+      "cat": "Economy"
+    },
+    {
+      "id": "5e13b3a6e981175b",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/john-horgan-dam-ndp-shifting-position-9.7270324?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How the B.C. NDP changed its stance on the John Horgan Dam",
+      "excerpt": "Perhaps just as impressive is the scale of the political reversal the dam previously known as Site C represents for the governing NDP.",
+      "cat": "Economy"
+    },
+    {
+      "id": "163f2ee7d0137793",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/is-there-an-alternative-to-killing-nuisance-black-bears-9.7275247?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Is there an alternative to killing nuisance black bears?",
+      "excerpt": "It’s a common debate in communities next to bear habitat — should you call the B.C. Conservation Officer Service to report a bear looking for sources of human food like garbage or kids’ lunch boxes? Some encourage…",
+      "cat": "Wildlife"
+    },
+    {
+      "id": "e90df6bf0d29135a",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-wildfire-held-9.7275746?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "N.S. says Eastern Shore wildfire now being held, residents can return home",
+      "excerpt": "A wildfire on Nova Scotia's Eastern Shore is now listed as being held, but ground crews will continue the containment efforts throughout the day. Residents evacuated on Thursday are now allowed to return to their homes.",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "547a351b14d91597",
       "date": "2026-07-19",
@@ -88,6 +220,28 @@
       "title": "Alcohol costs P.E.I. more than it brings in, new provincial strategy says",
       "excerpt": "Prince Edward Island has released a new provincial alcohol strategy aimed at reducing illness and harms linked to drinking, and experts say it puts the province ahead of much of the country.",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "e13c33582f92351d",
+      "date": "2026-07-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/no-19-st-johns-street-9.7269329?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Some streets in St. John’s don’t have a house numbered 19. The reason might disgust you",
+      "excerpt": "One may be the loneliest number, but according to Newfoundland tradition, 19 is the smelliest.",
+      "cat": "Economy"
+    },
+    {
+      "id": "e865f7bf17668c64",
+      "date": "2026-07-18",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7274827?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why you'll pay more for fish and chips in the Maritimes this summer",
+      "excerpt": "Government limits on haddock fishing in the Maritimes are driving up the price of fish and chips in the region, with some warning that haddock — once considered the 'affordable option' — could soon become a luxury.",
+      "cat": "Economy"
     },
     {
       "id": "3e55bdffc2079f01",
