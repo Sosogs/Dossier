@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T20:32:33.080Z",
-  "count": 185,
+  "generatedAt": "2026-07-20T17:08:44.826Z",
+  "count": 206,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,237 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "76292d22bb376420",
+      "date": "2026-07-20",
+      "src": "Immigration, Refugees and Citizenship Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/minister-metlege-diab-highlights-canada-child-benefit-payments-increasing-in-20262027.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Minister Metlege Diab highlights Canada Child Benefit payments increasing in 2026–2027",
+      "sum": "The Government of Canada is lowering costs for families by strengthening the Canada Child Benefit (CCB). The CCB is a monthly tax-free payment to help them with the costs of raising children.",
+      "cat": "Finance"
+    },
+    {
+      "id": "a73e5087706e9157",
+      "date": "2026-07-20",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/tump-wildfire-smoke-carney-9.7276302?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Trump tells Carney to take action on wildfire smoke during World Cup chat",
+      "excerpt": "U.S. President Donald Trump personally told Prime Minister Mark Carney to stop poisoning American air and take action to put out wildfires burning across the country.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "f8242f245daaf41f",
+      "date": "2026-07-20",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/carney-andy-burnham-new-uk-prime-minister-9.7276497?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney congratulates new U.K. Prime Minister Burnham, calls for continued co-operation",
+      "excerpt": "Prime Minister Mark Carney and other Canadian officials offered congratulations to new U.K. Prime Minister Andy Burnham — while suggesting there are areas in which the two countries can strengthen relations.",
+      "cat": "Economy"
+    },
+    {
+      "id": "27a6ef313f985c3b",
+      "date": "2026-07-20",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/ottawa/government-tip-off-prompted-spy-agency-to-look-into-federal-scientist-csis-says-9.7273903?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Government tip-off prompted spy agency to look into federal scientist, CSIS says",
+      "excerpt": "The country's top spy agency says Natural Resources Canada approached it with concerns about former federal scientist Dennis Lu more than two decades ago — not the other way around — and has made a rare disclosure of…",
+      "cat": "Economy"
+    },
+    {
+      "id": "6d28219480bd9ab1",
+      "date": "2026-07-20",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/business/cpi-june-2026-9.7276216?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada's inflation rate eased to 2.8% in June thanks to lower gas prices",
+      "excerpt": "Prices at the pump increased at a slower rate on a year-over-year basis in June compared to May, the data showed.",
+      "cat": "Economy"
+    },
+    {
+      "id": "9a34f76a894332ee",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/gatineau-re-installs-samuel-de-champlain-statue-9.7275948?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Amid wider statue debate, Gatineau quietly reinstalls monument to Samuel de Champlain",
+      "excerpt": "The City of Gatineau has quietly reinstalled a statue of 17th-century explorer and Quebec City founder Samuel de Champlain, nearly a decade after it was removed for maintenance.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "fd55990a0b212f47",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-world-cup-wrap-9.7275657?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What did Vancouver get from the World Cup?",
+      "excerpt": "For five weeks, the FIFA Men's World Cup brought big crowds, busy transit and new energy to downtown Vancouver. Now that the crowds have left, the city is weighing the tournament’s legacy, with questions about public…",
+      "cat": "Transportation"
+    },
+    {
+      "id": "3967230fff815087",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/entertainment/tiff-canada-gala-special-presentations-9.7276503?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "TIFF turns the spotlight on Canada in its gala and special presentations",
+      "excerpt": "The 51st Toronto International Film Festival announced its Gala and Special Presentations lineups, which include Chris Rock’s Misty Green and Peter Farrelly’s I Play Rocky, alongside major Canadian premieres and…",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "4f9dab40a85ba48f",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/pathways-project-concerns-9.7274585?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why these Albertans are concerned about the environmental impacts of a proposed C02 pipeline",
+      "excerpt": "Advocates, researchers and industry experts weigh in on the proposed Pathways Project, which aims to capture and store carbon dioxide emissions underground.",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "7e47af2b88ac7fba",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/ford-unifor-ratify-2026-collective-agreement-9.7276376?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Unifor members ratify new deal with Ford Motor that includes wage increases, new investment",
+      "excerpt": "The union representing more than 5,000 workers at the Ford Motor Company of Canada has ratified a new three-year collective agreement — including a wage increase of three per cent per year; renewal of a cost-of-living…",
+      "cat": "Economy"
+    },
+    {
+      "id": "3657c2b89800f2d0",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/commonwealthgames/cbc-sports-coverage-details-commonwealth-games-9.7270300?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "CBC Sports reveals Commonwealth Games broadcast team and coverage details",
+      "excerpt": "CBC Sports will begin its coverage of the Commonwealth Games on Thursday, with the opening ceremony from Glasgow at 2:30 p.m., live on CBC-TV and streamed at CBCSports.ca and CBC Gem.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "1a035cbfb510656e",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/commonwealthgames/erica-wiebe-chef-de-mission-q-and-a-9.7270561?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Erica Wiebe's Commonwealth Games journey comes full circle at Glasgow 2026",
+      "excerpt": "Erica Wiebe’s first taste of the Commonwealth Games experience came back in 2014 in Glasgow. Now, 12 years later, the two-time Commonwealth wrestling gold medallist and Olympic champion is back at the Games in the…",
+      "cat": "Economy"
+    },
+    {
+      "id": "0472cfc5cdd0a71a",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/wheatland-county-data-centre-9.7274384?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Proposed AI data centre hits close to home for concerned residents in Wheatland County, Alberta",
+      "excerpt": "Diode Ventures is seeking approval to develop an AI data centre campus in the southwest corner of Wheatland County. County administration says the project could generate significant tax revenue, while residents are…",
+      "cat": "Finance"
+    },
+    {
+      "id": "f26629c8d27c72d5",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-mother-insurance-coverage-cancer-medication-canada-life-9.7273961?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "She needs $12K-a-month drug to treat incurable cancer, but insurance won’t pay",
+      "excerpt": "Sophie Djeme-Mi Koumazock’s doctor prescribed her a new drug to slow the progression of incurable breast cancer. But as a federal employee, her insurance plan through Canada Life won’t foot the monthly bill, which could…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "59dd4f15f34fa6af",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/inquest-death-beaten-during-arrest-9.7275455?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Inquest begins into death of man stunned, pepper sprayed and beaten during arrest",
+      "excerpt": "The five-day public inquest into the death of Boden Umpherville begins at King's Bench Court in Prince Albert on Monday.",
+      "cat": "Justice"
+    },
+    {
+      "id": "19a86267dc613c70",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/project-south-prosecution-process-9.7274284?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Crown won't prosecute some charges laid in Project South police corruption investigation",
+      "excerpt": "Superior court indictments filed for eight of those accused in the police corruption investigation known as Project South list 33 fewer charges against them than what they were originally charged with by police earlier…",
+      "cat": "Justice"
+    },
+    {
+      "id": "7a96d9d75cb4fa94",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/saint-john-murder-boys-roman-kamyshnyy-domestic-violence-9.7273176?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Saint John man stabbed his own sons to death, altered publication ban reveals",
+      "excerpt": "Publication bans still prohibit naming the two Saint John boys Roman Kamyshnyy was convicted earlier this month of murdering, but CBC News can now report all of the relationships involved and tell more fully this tragic…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "4850d82b74565044",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/kimberley-bc-under-evacuation-alert-due-to-wildfire-9.7276133?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Kimberley, B.C., city of about 9,000, placed under evacuation alert as nearby out-of-control wildfire grows",
+      "excerpt": "The city of Kimberley has been placed under an evacuation alert as an out-of-control wildfire burns west of the East Kootenay community. The regional district has also issued a separate evacuation alert for 66…",
+      "cat": "Economy"
+    },
+    {
+      "id": "35d72e784793f16f",
+      "date": "2026-07-19",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/calgary/dane-lloyd-conservative-referendum-lead-alberta-9.7275791?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Poilievre names Conservatives' point person on the Alberta referendum",
+      "excerpt": "Conservative leader Pierre Poilievre has tapped Alberta MP Dane Lloyd to serve as the party's referendum lead for Alberta, as the province prepares to vote on a question related to separation this fall.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "a191b578f9a0b03c",
+      "date": "2026-07-19",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/toronto/beaches-east-york-byelection-liberal-candidate-9.7275697?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal Liberals select Tanveer Shahnawaz as candidate for Beaches-East York byelection",
+      "excerpt": "The Liberal Party of Canada has selected Tanveer Shahnawaz as their candidate for the upcoming federal byelection in the Beaches-East York riding.",
+      "cat": "Economy"
+    },
+    {
+      "id": "457006feb35a15c0",
+      "date": "2026-07-19",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/municipalities-campaign-rules-alberta-9.7271834?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta municipalities can’t campaign for or against separatism. Here's why",
+      "excerpt": "",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "97fb426c1efb5097",
       "date": "2026-07-19",
