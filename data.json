@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T17:08:44.826Z",
-  "count": 206,
+  "generatedAt": "2026-07-21T09:33:20.694Z",
+  "count": 225,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,215 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "2fa4d676c4a06f79",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/council-of-the-federation-meeting-prince-edward-island-9.7270861?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Trump's escalating trade war puts pressure on premiers with U.S. booze bans as they gather in P.E.I.",
+      "excerpt": "U.S. President Donald Trump's surprise escalation in his trade war with Canada puts renewed pressure on the premiers — most of whom have pulled American booze from liquor stores — as they descend on Charlottetown for…",
+      "cat": "Economy"
+    },
+    {
+      "id": "5dc11e9ba747c7f5",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/enbridge-pipeline-expansion-sunrise-9.7277273?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Enbridge breaks ground on $4B natural gas pipeline expansion",
+      "excerpt": "Enbridge is beginning construction on the Sunrise Expansion Program, a $4 billion expansion of its West Coast Natural Gas pipeline running from near Chetywnd, B.C., to the Canada-U.S. border in the Fraser Valley.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "7b7bb9ce8088d67f",
+      "date": "2026-07-20",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/world/livestory/new-trump-tariffs-canada-us-trade-cusma-usmca-9.7277143?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Trump threatens 50% tariff on some CUSMA-compliant goods",
+      "excerpt": "",
+      "cat": "Economy"
+    },
+    {
+      "id": "366a2a590952a3f5",
+      "date": "2026-07-20",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/world/trump-canada-us-trade-tariffs-cusma-usmca-9.7276973?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Trump to hit Canada with new 50% tariff",
+      "excerpt": "U.S. President Donald Trump is moving to impose tariffs of 50 per cent on a wide range of Canadian exports, a dramatic ramping up of his trade war against his northern neighbour.",
+      "cat": "Economy"
+    },
+    {
+      "id": "a126b44cff5db15f",
+      "date": "2026-07-20",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/trump-wildfire-smoke-carney-9.7276302?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Trump tells Carney to take action on wildfire smoke during World Cup chat",
+      "excerpt": "U.S. President Donald Trump personally told Prime Minister Mark Carney during the World Cup Final to stop poisoning American air and take action to put out wildfires burning across the country.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "f4eb88aabebc958f",
+      "date": "2026-07-20",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/edmonton/hoekstra-pacific-northwest-economic-region-summit-oil-9.7276686?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta, Saskatchewan offer 'most compelling' case for U.S. oil supply: Hoekstra",
+      "excerpt": "The U.S. needs to find three to four million more barrels of oil per day over the next decade, and Canada can be one of the best places to get it, says Pete Hoekstra, adding that the trade relationship between Canada…",
+      "cat": "Economy"
+    },
+    {
+      "id": "5d450d729a7c8670",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/edmonton-institution-for-women-heat-air-conditioning-human-rights-tribunal-9.7277115?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal court orders Edmonton women's prison to address history of heat complaints",
+      "excerpt": "Correctional Service Canada has failed to put an effective solution in place at the Edmonton Institution for Women's secure unit, the federal court says, noting an affidavit showed one cell exceeded 40 C in 2018.",
+      "cat": "Justice"
+    },
+    {
+      "id": "57cab7f8c1f96e59",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-open-ceremony-friday-windsor-detroit-9.7276842?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Gordie Howe bridge to host event for local dignitaries Friday ahead of opening Monday",
+      "excerpt": "Local dignitaries say they have received invitations to an event this Friday related to the opening of the long-awaited Gordie Howe International Bridge connecting Michigan and Ontario.",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "3cb8f95c7c4bc80f",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/soccer/worldcup/canada-world-cup-soccer-owen-goodman-9.7276891?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Goalkeeper Owen Goodman on the front line as Canadian men open new cycle after historic World Cup",
+      "excerpt": "It seems like yesterday and forever ago when Owen Goodman, Canada’s 22-year-old goalkeeper of the future, sat beside the pool at the team’s Vancouver hotel, in that still-hopeful space between World Cup group stage…",
+      "cat": "Economy"
+    },
+    {
+      "id": "1c1bc27254180b1f",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/marineland-transport-belugas-rescue-9.7276986?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Marineland belugas' 'emergency rescue' has begun, leaving Niagara Falls, Ont., for U.S. aquariums",
+      "excerpt": "The first group of Marineland beluga whales that have been at a permanently closed theme park and zoo in Niagara Falls, Ont., have begun their journey to their new homes in the U.S. \"The first wave of the rescue mission…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "720658c68e5c07a3",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/ford-conference-wildfires-9.7276210?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'It's moving quickly': Ford provides update on northern Ontario wildfires, evacuations",
+      "excerpt": "Premier Doug Ford told reporters Monday morning that the nearly 200 wildfires burning across northern Ontario, many of which are out of control, are covering more and more of the province.",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "694f1a832346a7ae",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/fatal-crash-roughrider-jayden-dalke-bhishma-rajyaguru-9.7276759?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Sask. Roughrider in fatal crash was driving on wrong side of divided highway: RCMP",
+      "excerpt": "Saskatchewan Roughriders linebacker Jayden Dalke was driving the wrong way on the highway with alcohol and cannabis in his vehicle before the crash that killed him and another man, RCMP say.",
+      "cat": "Economy"
+    },
+    {
+      "id": "6e7c94716949fa7e",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/entertainment/mcmichael-canadian-art-gallery-9.7276626?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Acclaimed Ontario art gallery to close for up to 3 years for redevelopment",
+      "excerpt": "The McMichael Canadian Art Collection will temporarily close for a landmark redevelopment led by Hariri Pontarini Architects, adding 60 per cent more space and modern facilities over the 2026–29 construction period.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "b2a9daf96a71fbe7",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/boys-drowning-nutimik-lake-9.7276268?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'We need a miracle': Search continues for boys feared drowned in Manitoba lake",
+      "excerpt": "Hope of finding a 13-year-old boy and his 10-year-old brother alive, after they slipped off rocks into rapids at Manitoba's Nutimik Lake on Saturday, is fading, RCMP say.",
+      "cat": "Economy"
+    },
+    {
+      "id": "9a7eb8bcac21a9a7",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-premier-protest-charges-intimidation-mischief-9.7276885?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Man charged with intimidation, mischief after N.S. premier's car surrounded, windshield smashed",
+      "excerpt": "RCMP have charged a 19-year-old with intimidation and mischief related to a protest last week in Wolfville, N.S., where the Nova Scotia premier’s vehicle was surrounded and damaged.",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "ea53537b8e621c74",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7273864?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What's the fastest way to get around Halifax during rush hour?",
+      "excerpt": "Ever watched bikes or scooters whiz by while you're stuck in gridlock traffic, only to wonder, \"Could that really get me home any faster?\" CBC News puts Halifax's active transportation infrastructure to the test against…",
+      "cat": "Transportation"
+    },
+    {
+      "id": "5bf827fac367ad38",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/montreal-family-duplex-dispute-housing-tribunal-ruling-9.7276690?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Part of Montreal family camping outside its duplex allowed to move in, Quebec housing tribunal rules",
+      "excerpt": "Most members of a Montreal family camping in the driveway of their Ahuntsic duplex will be allowed to move into the property on Sept. 1 after a ruling by Quebec’s housing tribunal.",
+      "cat": "Housing"
+    },
+    {
+      "id": "a1033be67fb7b5ce",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-court-matthew-craswell-sentencing-9.7276673?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Substitute teacher sentenced to 7.5 years for child sex abuse offences — in P.E.I. schools and online",
+      "excerpt": "The substitute teacher who has been dubbed a \"predator\" after he sexually touched students in Prince Edward Island classrooms and exploited his own relationship with another child to create child sex abuse material has…",
+      "cat": "Education"
+    },
+    {
+      "id": "fee1653355f3adcb",
+      "date": "2026-07-20",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-libraries-deadline-new-regulations-9.7274672?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta government gives public libraries Jan. 1 deadline to comply with new restrictions",
+      "excerpt": "The province informed public libraries this month that they have until the start of the new year to establish new practices restricting access to library materials containing sexually explicit images to anyone 15 years…",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "76292d22bb376420",
       "date": "2026-07-20",
