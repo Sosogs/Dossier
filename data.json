@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T09:33:20.694Z",
-  "count": 225,
+  "generatedAt": "2026-07-21T16:59:51.824Z",
+  "count": 244,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,193 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "b4176133bd34e7c8",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/nutimik-lake-drowning-search-9.7277993?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Search enters 4th day for 2 young brothers who fell into Manitoba lake",
+      "excerpt": "The search continues for a fourth day to find two young brothers who went missing in Manitoba's Nutimik Lake on Saturday.",
+      "cat": "Economy"
+    },
+    {
+      "id": "bfb553706326156b",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/teen-charged-cat-killed-winnipeg-police-9.7278065?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "16-year-old charged with killing a cat in Winnipeg",
+      "excerpt": "A 16-year-old has been charged with killing or injuring animals after Winnipeg police allege they found the youth holding a knife with a dead cat nearby on Monday night.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "173fb1111ab0e508",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/former-police-officer-pleads-guilty-project-south-investigation-9.7269440?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Former Toronto police officer Derek McCormick pleads guilty in Project South investigation",
+      "excerpt": "One of the Toronto police officers charged in the sweeping police corruption and organized crime investigation dubbed Project South pleaded guilty to two charges on Tuesday morning.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "e5816bd1b4230f12",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-surveillance-pricing-ban-motion-9.7277965?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Toronto mayor, local councillors look to ban surveillance pricing in city",
+      "excerpt": "Surveillance pricing, where businesses use consumer data to offer different prices based on what they think each individual customer will pay, threatens to gouge Torontonians who are already struggling to afford the…",
+      "cat": "Economy"
+    },
+    {
+      "id": "e8a63a94091c4e7b",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/kelowna-swim-competition-drowned-9.7277614?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "A 67-year-old died in one of B.C.'s oldest and largest open water swim events. Here's what we know",
+      "excerpt": "The B.C. Coroners Service is investigating after a 67-year-old man was found dead during an open water swim event on B.C.'s Okanagan Lake this past weekend.",
+      "cat": "Economy"
+    },
+    {
+      "id": "cbffa088f9e82be5",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/canada-joins-global-combat-air-programme-as-observer-9.7277251?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada joins global program building 6th-generation stealth fighter jet",
+      "excerpt": "The Canadian government has signed on to become the first observer of the U.K., Italy and Japan's program to build the next generation of stealth fighter jets by 2035. The commander of the Royal Canadian Air Force told…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "c976359d48a0c01c",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/commonwealthgames/commonwealth-games-flag-bearer-announcement-9.7274395?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Wheelchair basketball player Kady Dandeneau named Canadian flag-bearer for Commonwealth Games",
+      "excerpt": "Wheelchair basketball player Kady Dandeneau and lawn bowler Ryan Bester will lead Canada’s delegation at the opening ceremony for the Commonwealth Games in Glasgow, Scotland on Thursday.",
+      "cat": "Justice"
+    },
+    {
+      "id": "640aeac352297c04",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/right-whale-spotting-9.7276925?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Goldfish the North Atlantic right whale spotted outside N.L. office window",
+      "excerpt": "There are only about 380 North Atlantic right whales in the world and earlier this month, Kristinn Skulason was able to see one just out his office window in Bay de Verde, a town in Newfoundland’s Conception Bay.",
+      "cat": "Economy"
+    },
+    {
+      "id": "9e7ba1eda4a9c74a",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/wakeham-frechette-mou-meeting-9.7277669?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Liberal critic says N.L. running out of time on MOU deal as Wakeham, Fréchette meet in P.E.I.",
+      "excerpt": "Newfoundland and Labrador Premier Tony Wakeham and Quebec Premier Christine Fréchette will meet in Prince Edward Island on Tuesday to discuss ongoing negotiations to reach a new agreement for the sale and development of…",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "2e5fafb361d6d5a9",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/carney-gordie-howe-bridge-comments-deal-criticism-mps-details-9.7276991?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney slammed over lack of Gordie Howe bridge opening deal details",
+      "excerpt": "Opposition MPs are expressing increasing frustration over the lack of details about how a deal between Canada and the U.S. to open a long-awaited major border crossing will work, with several calling on Ottawa to…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "fc077cfdcc4fa201",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/2-ottawa-police-officers-accused-of-gender-based-misconduct-have-quietly-left-force-9.7272173?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "2 Ottawa police officers accused of gender-based misconduct have quietly left force",
+      "excerpt": "Two Ottawa police officers quietly left the service this month after one of them was accused of sexual misconduct and the other was criminally charged for alleged intimate partner violence, CBC News has learned.",
+      "cat": "Justice"
+    },
+    {
+      "id": "0d88aed818a609c5",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/first-person-callout-alberta-independence-9.7268804?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What’s the personal story behind how you will vote in the Alberta separation referendum? Share it on CBC News",
+      "excerpt": "We're looking for several people to publish their perspectives on CBC. Not the same political commentators, but real people with real stakes who are willing to share the why behind how they feel.",
+      "cat": "Economy"
+    },
+    {
+      "id": "07ac951fb9ac3a93",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/artist-plane-iphone-9.7277046?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "A Sask. artist's phone fell 1.1 km from a plane. They found it in a canola field in 'pristine' condition",
+      "excerpt": "Heather Cline and David Stanchuk say they were blown away when they were able to find the phone. They were even more surprised to find it undamaged.",
+      "cat": "Economy"
+    },
+    {
+      "id": "f00f6d6cf6170226",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/friends-family-mourn-22-year-old-killed-in-fatal-crash-9.7277530?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Friends, family mourn 22-year-old killed in wrong-way crash with Sask. Roughrider",
+      "excerpt": "Friends and family are mourning Bhishma Rajyaguru, who ​​d​ied​ Saturday evening ​after ​Saskatchewan Roughrider​ Jayden Dalke crashed into his vehicle.",
+      "cat": "Economy"
+    },
+    {
+      "id": "5f83e49263eb24b7",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/sudbury/kashechewan-water-testing-evacuees-return-home-9.7276896?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Kashechewan First Nation members evacuated 6 months ago await water testing results to return home",
+      "excerpt": "Evacuees from Kashechewan First Nation who have been away from their homes for more than six months are awaiting water testing results to learn if it’s safe to return to the fly-in Cree community.",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "c299833c5aaf7798",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/mealy-mountain-report-9.7276279?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Parks Canada should axe agreement with NunatuKavut in Labrador national park, says report",
+      "excerpt": "A recent report on the Akami-Uapishku-KakKasuak-Mealy Mountains National Park Reserve says Parks Canada is operating in a “complex and highly charged context” in Labrador — and recommends the federal agency end its…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "7c0f60453d8cb68d",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/radio/frontburner/conservative-infighting-canada-9.7277247?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian Conservative infighting goes public",
+      "excerpt": "How a joke at this summer’s Calgary Stampede surfaced bitter tensions in the Canadian Conservative movement.",
+      "cat": "Economy"
+    },
     {
       "id": "2fa4d676c4a06f79",
       "date": "2026-07-21",
@@ -1056,6 +1243,17 @@
       "title": "Conservation officers, RCMP investigating two wildlife-related deaths near La Ronge, Sask.",
       "excerpt": "Two deaths at McTavish Lake, north of La Ronge, are suspected to be wildlife-related, the Saskatchewan government says.",
       "cat": "Wildlife"
+    },
+    {
+      "id": "1d17a2443eeedc46",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/ontario-wildfire-season-2026-9.7277682?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ontario is in the middle of its worst wildfire season, early estimates suggest",
+      "excerpt": "",
+      "cat": "Economy"
     },
     {
       "id": "5642e1bd750abcbb",
@@ -2254,6 +2452,17 @@
       "kind": "official",
       "title": "Canada and the Northwest Territories join forces to support the growth of Francophone communities",
       "sum": "Canada is making Francophone immigration a force that unites communities and recognizes the contribution of Francophone and bilingual newcomers to the growth of the Francophonie. With this in mind, to promote the demographic and economic development of communities in the Northwest Territories, the governments of Canada and the Northwest Territories are working together to ensure the retention of qualified…",
+      "cat": "Economy"
+    },
+    {
+      "id": "d7ae1ad13c666ed1",
+      "date": "2026-07-06",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/carney-trade-response-trump-9.7277862?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney says he and Trump have agreed to 'intensify' trade talks in wake of 50% tariff threat",
+      "excerpt": "",
       "cat": "Economy"
     },
     {
