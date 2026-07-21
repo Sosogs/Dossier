@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T16:59:51.824Z",
-  "count": 244,
+  "generatedAt": "2026-07-21T21:45:36.598Z",
+  "count": 258,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,149 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "4ebf00547830d482",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/windsor-gordie-howe-bridge-ribbon-cutting-9.7278519?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "No cross-border ceremony for Gordie Howe bridge in light of U.S. trade threats: minister",
+      "excerpt": "Canada will celebrate the opening of the Gordie Howe International Bridge this week, the federal minister of infrastructure said Tuesday— but there will not be a celebration with the United States.",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "775cb2aadd91c77b",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/sobeys-parent-company-vows-change-to-practice-that-blocked-competing-stores-9.7278146?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Sobeys' parent company vows change to practice that blocked competing stores",
+      "excerpt": "One of Canada's major grocers has announced a new approach to competition around the land where its stores are located.",
+      "cat": "Economy"
+    },
+    {
+      "id": "3eb0341d79129877",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/nvision-lori-idlout-trust-9.7278384?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Nunavut MP cedes control over firm earning thousands from the government",
+      "excerpt": "NVision Insight Group Inc., an Ottawa-based Indigenous management consulting firm, has earned hundreds of thousands of dollars in sole-sourced contracts from the federal government since 2021. Lori Idlout has placed her…",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "23dc272ed6d6176a",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/belugas-rescued-churchill-9.7278217?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Conservation officers protect beached belugas in Churchill, Man., until tide returns",
+      "excerpt": "Manitoba Conservation officers Vitalii Skrynnyk and Owen Jones are relatively new to Churchill, but they already have a whale of a tale.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "d352bd599b5b7604",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-sickkids-hospital-doctor-charged-child-sex-abuse-material-9.7278272?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Doctor at Toronto's Hospital for Sick Children charged with possessing, accessing child sex abuse material",
+      "excerpt": "A doctor at Toronto's Hospital for Sick Children has been arrested and charged with possessing and accessing child sexual abuse and exploitation material, police say.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "d2a2517da9ff5785",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/commonwealthgames/canada-team-commonwealth-games-glasgow-scotland-2026-9.7278412?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada fields star-studded team at downsized Commonwealth Games",
+      "excerpt": "Canada has sent a star-studded team to the Commonwealth Games in Glasgow, but there are fewer medals on the table for all countries.",
+      "cat": "Economy"
+    },
+    {
+      "id": "dbace81fbbac63bc",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/entertainment/mike-d-tour-9.7278258?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "The Beastie Boys' Mike D is back, and he's coming to Canada",
+      "excerpt": "Mike D of the Beastie Boys is set to tour for his upcoming solo debut, Thank You. The tour, which includes shows in Toronto and Vancouver, will be the first by a member of the iconic rap trio since MCA's death in 2012.",
+      "cat": "Economy"
+    },
+    {
+      "id": "d90b6c56164a0d40",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/trump-50-percent-tariffs-canada-9.7278071?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What Canadian goods is Trump targeting with his latest tariff move?",
+      "excerpt": "U.S. President Donald Trump is moving to impose a new 50 per cent import duty on dozens of Canadian goods. Here are the products he's targeting.",
+      "cat": "Economy"
+    },
+    {
+      "id": "63bfb6cddf455b79",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/marineland-whales-relocation-9.7278211?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "6 beluga whales from Marineland in Niagara Falls, Ont., now swimming in new U.S. homes",
+      "excerpt": "Six captive belugas from Canada are now swimming in the waters of their new homes in the United States. Marineland and a consortium of U.S. aquariums helped move the first batch of whales in a long, complex process that…",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "de129cc396384099",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-commonwealth-games-swimming-preview-9.7278432?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Commonwealth Games swimming preview: Liendo's time to shine",
+      "excerpt": "CBC Sports' daily newsletter looks at the Canadian swimmers to watch at the upcoming Commonwealth Games in Scotland.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "ff793db883d59129",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/labrador-medevac-concerns-9.7276161?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Family, friends seek answers after Labrador woman dies waiting for medevac",
+      "excerpt": "A Labrador family in the local service district of Norman's Bay says their family member deserved better after waiting nearly two days for an emergency medevac for care.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "b5839188ede5cc30",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/soccer/fifa-canadian-pregnant-mothers-reasearch-9.7277722?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian professor helps FIFA create tools to keep moms playing soccer",
+      "excerpt": "Canadian researcher Margie Davenport is helping pregnant and postpartum soccer players keep playing the game they love.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "543ed89f3859e7c8",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/belugas-marineland-whales-move-9.7278125?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "See how they got the belugas from Marineland to the United States, step by step",
+      "excerpt": "Years after Marineland closed to the public, the aquarium has started the process of relocating some beluga whales to facilities in the U.S. See how they moved the first six.",
+      "cat": "Natural resources"
+    },
     {
       "id": "b4176133bd34e7c8",
       "date": "2026-07-21",
@@ -2717,6 +2860,17 @@
       "title": "Understanding the one-time In-Canada Workers Initiative",
       "sum": "The In-Canada Workers Initiative will accelerate permanent residence applications in our inventories for individuals who are already contributing to Canada’s economy across a wide range of in-demand sectors, including in rural areas and communities with labour gaps. Immigration, Refugees and Citizenship Canada (IRCC) will continue to process applications within existing levels space for workers who have applied for…",
       "cat": "Economy"
+    },
+    {
+      "id": "9409f81e12430e1f",
+      "date": "2025-12-10",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/canada-alcohol-direct-to-consumer-9.7278453?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "9 premiers to allow wineries, distilleries, breweries to sell directly to consumers across provinces",
+      "excerpt": "",
+      "cat": "Intergovernmental affairs"
     }
   ]
 }
