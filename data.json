@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T17:00:14.220Z",
-  "count": 283,
+  "generatedAt": "2026-07-22T21:43:14.879Z",
+  "count": 299,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,171 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "3b3892be9e231084",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/ford-trump-carney-tariffs-9.7279926?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ford wants premiers, Carney to be 'more vocal' against Trump, says he 'can't do it alone'",
+      "excerpt": "Ontario Premier Doug Ford says he would like to see his fellow premiers and Prime Minister Mark Carney be \"a little more vocal\" in the face of U.S. President Donald Trump's latest tariff threat.",
+      "cat": "Economy"
+    },
+    {
+      "id": "0c1341cc84d42f30",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/law-opens-door-descendants-of-acadians-to-become-citizens-9.7279974?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'Lost Canadians' law opens door for U.S. descendants of Acadians to become citizens",
+      "excerpt": "Nadine Morin, a documentation specialist at the Anselme-Chiasson Centre for Acadian Studies at the Université de Moncton, said she's received genealogy requests from at least 30 people since January.",
+      "cat": "Justice"
+    },
+    {
+      "id": "760424d995d7c951",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7279981?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Likely tornado tears through Harrington, Que., leaves behind major damage",
+      "excerpt": "Harrington, Que., is approximately 40 kilometres from Mont-Tremblant, with a population of under 1,000 people. The probable tornado hit Tuesday afternoon, resulting in downed power lines and outages in the small…",
+      "cat": "Economy"
+    },
+    {
+      "id": "27c4293307fc9822",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/brunswick-wildfire-complex-boston-bar-evacuation-bc-9.7279475?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "New wildfire near Boston Bar, B.C., quadruples in size overnight",
+      "excerpt": "Multiple evacuation orders remain in effect for people living around Boston Bar, B.C., as a new wildfire joins two already burning out of control in the area.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "c3ec6d762e0efa01",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/brandon-911-service-down-9.7279768?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "911 service restored in Manitoba after outage",
+      "excerpt": "Emergency 911 service has been restored across Manitoba after an hours-long outage Wednesday, according to Bell.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "71db9c677de27957",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/radio/asithappens/jill-dunlop-as-it-happens-9.7279725?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ontario emergency minister's interview cut short after wildfire response questions",
+      "excerpt": "Ontario Emergency Preparedness Minister Jill Dunlop defended the province's wildfire response on CBC Radio's As It Happens on Tuesday, but her staff abruptly cut the interview short after she was asked to respond to…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "9b885060dc609e5c",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-beer-cider-interprovincial-sales-9.7279751?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "P.E.I. brewers say they won't see much return from provinces removing alcohol sale barriers",
+      "excerpt": "Brewers in Prince Edward Island are applauding a move by nine provinces to drop barriers to the sale of alcohol among provinces. But they say it's ultimately unlikely to put more money in their pockets.",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "bc1f39dc38f3513f",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/crime-rates-canada-2025-9.7279896?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Crime rates dropped across most of the country in 2025: Statistics Canada",
+      "excerpt": "Statistics Canada reports that both the rates and severity of crime were down almost across the board in 2025.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "a0be4a938eeb4586",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/man-charged-terrorism-toronto-police-9.7279857?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Terror charge laid against man accused of advocating harm against Jewish community at Toronto demonstrations",
+      "excerpt": "A 33-year-old Toronto man is facing a terrorism charge for \"public statements that advocated for the detestation and harm against members of the Israeli and Jewish communities,\" police say.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "61e7d7c0c0f21510",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/ioc-train-derailment-9.7279804?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal agency links December train derailment in Quebec to temperature swings",
+      "excerpt": "The Transportation Safety Board of Canada says it could not determine the exact cause of a freight train derailment in northern Quebec last December.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "c484993da107d2a5",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/ruling-phones-seizure-police-extension-9.7279806?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Calgary police granted more time to search former mayor, councillor's phones in corruption investigation",
+      "excerpt": "A Calgary judge has ruled that police can keep iPhones seized from former mayor Jyoti Gondek and former city councillor Sean Chu for up to a year. Police seized the devices in March as part of an investigation into…",
+      "cat": "Justice"
+    },
+    {
+      "id": "53fb443dd2a99374",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/human-rights-museum-nakba-exhibit-9.7279745?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Coalition calls on culture minister to withdraw criticism of human rights museum's Nakba exhibit",
+      "excerpt": "A coalition of civil society groups is pushing back against criticism by a federal cabinet minister and Jewish organizations of an exhibit on Palestinian displacement at a national museum in Winnipeg.",
+      "cat": "Culture & heritage"
+    },
+    {
+      "id": "8f620a0aad4d9a37",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-alberta-to-ontario-pipeline-9.7279769?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Manitoba 'willing to entertain' Alberta to Ontario pipeline: premier",
+      "excerpt": "Manitoba Premier Wab Kinew says he's open to a west-east pipeline being pitched by his counterparts in Alberta and Ontario.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "0bd1b5fc9f3553e3",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/bayshore-appeal-gm-plants-city-cleanup-orders-9.7279613?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Owners of abandoned former GM plants in St. Catharines, Ont., appeal orders to clean up hazards",
+      "excerpt": "The company that owns the former General Motors site in St. Catharines, Ont., is challenging city orders to clean up building hazards found at the long-abandoned property, arguing the timeline to meet that order is \"not…",
+      "cat": "Economy"
+    },
+    {
+      "id": "5a62c15b5b6c6b44",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-secondary-school-demolition-begins-9.7279423?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Work begins to tear down Tumbler Ridge Secondary School after deadly B.C. mass shooting",
+      "excerpt": "Officials with School District 59 in northeastern B.C. say work is being done in stages over the summer and is expected to be complete this fall.",
+      "cat": "Education"
+    },
     {
       "id": "ee1d11f39a9205ad",
       "date": "2026-07-22",
@@ -3135,6 +3300,17 @@
       "title": "Understanding the one-time In-Canada Workers Initiative",
       "sum": "The In-Canada Workers Initiative will accelerate permanent residence applications in our inventories for individuals who are already contributing to Canada’s economy across a wide range of in-demand sectors, including in rural areas and communities with labour gaps. Immigration, Refugees and Citizenship Canada (IRCC) will continue to process applications within existing levels space for workers who have applied for…",
       "cat": "Economy"
+    },
+    {
+      "id": "9a708566c27c1edf",
+      "date": "2026-02-09",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/gordie-how-bridge-deals-explained-compare-original-trump-carney-9.7279334?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How does the new Gordie Howe bridge deal compare to the original one?",
+      "excerpt": "",
+      "cat": "Infrastructure"
     },
     {
       "id": "9409f81e12430e1f",
