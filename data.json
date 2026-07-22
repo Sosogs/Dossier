@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T21:45:36.598Z",
-  "count": 258,
+  "generatedAt": "2026-07-22T09:18:48.205Z",
+  "count": 267,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,105 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c6a507b9a6daf4f7",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/lich-white-house-sentence-9.7278022?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Convoy leader Tamara Lich asking court's permission to visit White House, go on cruise",
+      "excerpt": "Tamara Lich, a key figure in the 2022 convoy protest that paralyzed downtown Ottawa for nearly a month, is back in town Wednesday to ask a court for permission to travel internationally, including going on a Caribbean…",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "a60c8aab96de7329",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/chicken-thigh-prices-canada-9.7277782?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Chicken thighs are how much? Here's what's driving the latest grocery sticker shock",
+      "excerpt": "Prices for fresh or frozen chicken thighs jumped 8.2 per cent from May to June — far above the monthly increases for the usual offenders like beef and coffee, according to inflation numbers.",
+      "cat": "Economy"
+    },
+    {
+      "id": "226fbcd87a5f0bd8",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/wildfire-smoke-canada-us-faq-9.7271878?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How wildfire smoke travels from Ontario to New York City — and turns distant city skies orange",
+      "excerpt": "Wildfires that have torched huge areas of forest and devastated communities are also sending smoke far and wide, prompting air quality warnings in distant cities and heated political rhetoric from the U.S. Experts say…",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "18aca01410d45bb9",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/fatal-black-bear-attacks-saskatchewan-how-rare-9.7278656?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Fatal black bear attacks are extremely rare despite recent killings in Saskatchewan, experts say",
+      "excerpt": "Though last week's fatal black bear attack that killed a Saskatchewan couple came just months after another death involving a bear in the province, experts say such fatal attacks are still extremely rare.",
+      "cat": "Economy"
+    },
+    {
+      "id": "b4ba16edd915b4a4",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/alberta-alcohol-liquor-usa-tariffs-9.7278769?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta-based liquor businesses prepare to ‘start pivoting’ amid latest U.S. tariff threat",
+      "excerpt": "Alberta-based liquor businesses say they will be impacted if the United States follows through with a threat to impose 50 per cent tariffs on Canadian alcohol products next month and some are calling for the province to…",
+      "cat": "Economy"
+    },
+    {
+      "id": "5040a0c8fa953917",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/boston-bar-new-fire-evacuation-order-9.7278893?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Boston Bar, B.C., residents ordered to 'leave now' due to new, fast-moving fire",
+      "excerpt": "The Fraser Valley Regional District has ordered anyone remaining in Boston Bar, B.C., to leave immediately due to a new fire south of the community.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "3c6d549701f7d501",
+      "date": "2026-07-21",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/carney-trump-tariffs-analysis-9.7278424?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Will the Gordie Howe bridge still be testament to a successful friendship?",
+      "excerpt": "If nothing else, these latest developments might bolster the case for Mark Carney's contention that \"the old relationship\" we had with the United States \"is over.\" But that still leaves an incredible amount to be…",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "4e0ae3924a1ed9ad",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/north-vancouver-westview-plaza-police-incident-9.7278666?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Man dead after police shooting at shopping plaza in North Vancouver",
+      "excerpt": "A man has died after a police shooting at a shopping plaza in North Vancouver Tuesday afternoon. Police officers responded to reports of a man armed with an \"edged weapon\" threatening people inside of a business at…",
+      "cat": "Economy"
+    },
+    {
+      "id": "6ee85fd36d9487ea",
+      "date": "2026-07-21",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/n-w-t-and-nunavut-premiers-abstain-from-agreement-on-direct-to-consumer-alcohol-sales-9.7278524?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "N.W.T. and Nunavut premiers abstain from agreement on direct-to-consumer alcohol sales",
+      "excerpt": "At Tuesday's meeting between provincial leaders in Charlottetown, nine premiers agreed to update their rules that would allow more Canadian brewers and distillers to sell their products directly to consumers in other…",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "4ebf00547830d482",
       "date": "2026-07-21",
