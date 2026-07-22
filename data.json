@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T09:18:48.205Z",
-  "count": 267,
+  "generatedAt": "2026-07-22T17:00:14.220Z",
+  "count": 283,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,171 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ee1d11f39a9205ad",
+      "date": "2026-07-22",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/world/canada-push-uk-join-defence-security-resiliance-bank-9.7279219?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada urges U.K. to reconsider joining new global bank for defence projects",
+      "excerpt": "The High Commissioner for Canada in the U.K. Bill Blair says the government is engaged in talks urging the U.K. to join its multinational defence bank now that Andy Burnham is the new prime minister.",
+      "cat": "National defence"
+    },
+    {
+      "id": "910ca1ee4a116a6c",
+      "date": "2026-07-22",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/world/trump-tariffs-canada-jamieson-greer-senate-finance-9.7279285?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Trump's trade rep defends new tariffs on Canada",
+      "excerpt": "U.S. President Donald Trump's point man on tariffs is justifying the plan to slap new tariffs of 50 per cent on many Canadian products as a means of reducing the U.S. trade deficit.",
+      "cat": "Economy"
+    },
+    {
+      "id": "c6bf0d62147512da",
+      "date": "2026-07-22",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/kamloops-residential-school-chief-search-update-2026-9.7276990?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Tk'emlúps te Secwépemc chief says probe into possible unmarked graves continues with no end in sight",
+      "excerpt": "Five years after Tk'emlúps te Secwépemc sent shockwaves around the world by announcing the First Nation found more than 200 possible unmarked graves at the site of the former Kamloops Indian Residential School, the…",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "771338df0ea327f7",
+      "date": "2026-07-22",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/kinew-insists-premiers-are-united-against-common-opponent-in-trump-9.7279213?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Kinew insists premiers are united against 'common opponent' in Trump",
+      "excerpt": "Canada's premiers are insisting that they form a united Team Canada in the face of U.S. Donald Trump's escalated trade war — despite disagreement on how to get him to drop the impending tariffs.",
+      "cat": "Economy"
+    },
+    {
+      "id": "87af907e560dff1c",
+      "date": "2026-07-22",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-deal-tolls-canada-trump-open-release-9.7278704?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Text of new Gordie Howe bridge deal seems to contradict Carney",
+      "excerpt": "Ottawa has revealed the text of a controversial agreement with the U.S. to open the long-awaited Gordie Howe International Bridge near Windsor, Ont., that has been at the centre of recent political tensions.",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "5360e309fdace926",
+      "date": "2026-07-22",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/radio/tariffs-donald-trump-50-per-cent-canada-united-states-9.7279166?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Donald Trump threatens new 50% tariffs. What does this mean for Canadians?",
+      "excerpt": "The tariffs set to take effect on Aug. 19, could hit a wide range of industries — with ripple effects for businesses and consumers. Washington correspondents Willy Lowry, Katie Simpson and guest host Mike Crawley…",
+      "cat": "Economy"
+    },
+    {
+      "id": "ec4b48d89fab15c0",
+      "date": "2026-07-22",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/ottawa/alto-high-speed-rail-kingston-ontario-stop-9.7279098?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Kingston probably getting high-speed rail stop, says Alto CEO",
+      "excerpt": "The CEO of the Crown corporation planning a high-speed rail link between Toronto and Quebec City says Kingston, Ont., will probably get a stop because the public is asking for it.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "d02d3d641a6023f4",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/boys-drowning-search-nutimik-lake-9.7279100?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'Just want them to come home': Family of 2 boys missing in Manitoba lake in pain, says lodge owner",
+      "excerpt": "Boats have been on the water of eastern Manitoba's Nutimik Lake since 6 a.m. Wednesday, marking the fifth day of searching for two boys believed to have drowned near Sturgeon Falls.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "375c3471c6b66621",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/eskasoni-teachers-privacy-risk-biometric-scanners-attendance-9.7277875?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Teachers in N.S. First Nation say facial recognition technology puts their privacy at risk",
+      "excerpt": "Teachers in Eskasoni First Nation are asking their school board to pause the use of facial recognition scanning that's being used to take teacher attendance, saying it's invading their privacy.",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "b1c8a1948c4e9352",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/mosquitoes-alberta-skeeter-syndrome-9.7278743?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'Skeeter syndrome' showing up in Alberta as mosquito populations boom",
+      "excerpt": "Alberta's booming mosquito populations are triggering more than just itchiness and aggravation. It turns out the pesky swarms are leading to some emergency room visits in Alberta, particularly among children.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "4546779ce3dcd7e5",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/science/fish-transmissible-cancer-9.7279045?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'Rare' contagious cancer found in fish from Quebec and U.S. lakes",
+      "excerpt": "It's rare that cancerous tumours can spread from one individual to another. But a genetic study suggests that's what's happening with melanoma skin cancer tumours among catfish in Quebec and the northeastern U.S.",
+      "cat": "Economy"
+    },
+    {
+      "id": "0fb4c33c5066a3fd",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/world/trump-tariffs-canada-court-challenge-9.7278373?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Trump's new tariffs on Canada could face a court challenge. But this time, he might win",
+      "excerpt": "U.S. President Donald Trump is imposing his new tariffs on Canadian exports under a section of law that has never been used since it was put on the books in 1930.",
+      "cat": "Justice"
+    },
+    {
+      "id": "38332b5b34f450a9",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/province-partially-repays-patient-spinal-surgery-germany-9.7275532?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Manitoba partially repays retiree for out-of-country surgery after twice refusing to pick up the tab",
+      "excerpt": "Tom Molinski, 69, is relieved after receiving a cheque in the mail for nearly $24,000 from Manitoba Health after the province twice refused to reimburse him for an out-of-country spine surgery nearly two years ago.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "33024b7be114bad7",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/inuit-circumpolar-council-general-assembly-iqaluit-9.7276480?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Meeting at a 'turbulent' time: Inuit Circumpolar Council gathers for general assembly in Iqaluit",
+      "excerpt": "Inuit from Alaska, Canada, Greenland and Russia are gathering for the 15th Inuit Circumpolar Council general assembly in Iqaluit during a time of increased geopolitical pressures and interest in the Arctic.",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "b573b54d796edff9",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/amber-alert-british-columbia-9.7278998?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. RCMP issue Amber Alert for 4-year-old boy",
+      "excerpt": "West Kelowna Mounties have issued an Amber Alert for a four-year-old boy. They say Atlas Andrews was last seen on Ridge Boulevard West in Kelowna at 11:20 a.m. Tuesday.",
+      "cat": "Economy"
+    },
     {
       "id": "c6a507b9a6daf4f7",
       "date": "2026-07-22",
@@ -1485,6 +1650,17 @@
       "title": "Conservation officers, RCMP investigating two wildlife-related deaths near La Ronge, Sask.",
       "excerpt": "Two deaths at McTavish Lake, north of La Ronge, are suspected to be wildlife-related, the Saskatchewan government says.",
       "cat": "Wildlife"
+    },
+    {
+      "id": "5292e033618af226",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/wildfire-response-public-inquiry-9.7278584?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "First Nation chiefs call for public inquiry into Ontario government's wildfire response",
+      "excerpt": "",
+      "cat": "Indigenous services"
     },
     {
       "id": "1d17a2443eeedc46",
