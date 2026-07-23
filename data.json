@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T17:03:37.869Z",
-  "count": 316,
+  "generatedAt": "2026-07-23T21:38:04.744Z",
+  "count": 330,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,138 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ea02e36e240989d7",
+      "date": "2026-07-23",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/bank-of-canada-strike-security-labour-law-9.7281236?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Bank of Canada told again not to use replacement workers at headquarters",
+      "excerpt": "The Bank of Canada has been ordered for the second time this month to stop using the services of contract workers while its security officers are on strike.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "f1fad9126d5841b5",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/commonwealthgames/livestory/commonwealth-games-opening-ceremony-9.7280732?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "King Charles officially declares Commonwealth Games open",
+      "excerpt": "",
+      "cat": "Economy"
+    },
+    {
+      "id": "3ac4658eaa2699cf",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/science/fields-medal-jacob-tsimerman-9.7281134?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "University of Toronto mathematician Jacob Tsimerman wins Fields Medal",
+      "excerpt": "University of Toronto math professor Jacob Tsimerman has won the Fields Medal, the top global honour in mathematics.",
+      "cat": "Education"
+    },
+    {
+      "id": "4d81c365fafb0cbb",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/search-ramirez-brothers-nutimik-lake-9.7281063?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Parents in 'unimaginable pain' as search continues for second child in Manitoba lake",
+      "excerpt": "The parents of two young brothers who drowned in the fast-moving currents of Nutimik Lake in the Whiteshell over the weekend say the the outpouring of support from community is helping sustain them through their loss.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "b7386b38d260e19e",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/millbank-bakery-google-mistake-9.7281070?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Owner of popular Ontario bakery ‘panicked’ after Google's AI overview mistakenly said it was shutting down",
+      "excerpt": "The owner of a beloved restaurant-bakery in Millbank in southern Ontario is doing everything she can to let people know the business is still open after Google's AI overview said it would close for good at the end of…",
+      "cat": "Economy"
+    },
+    {
+      "id": "d741012e47c20b99",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/rdek-vulnerable-person-emergency-database-9.7281196?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "This B.C. region wants to identify vulnerable residents to better help them in emergencies",
+      "excerpt": "As British Columbia faces yet another difficult wildfire season, one region is rolling out a new tool aimed at protecting some of its most vulnerable residents.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "1a79fc189efcab5c",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/mapleton-fatal-crash-children-killed-family-hires-lawyer-9.7280951?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "'The survivors need answers': Family of 5 siblings killed in southern Ontario crash last month hire lawyer",
+      "excerpt": "The family of five siblings killed in a two-vehicle crash in Mapleton Township in southern Ontario last month have hired a Windsor-area lawyer to help them get answers about what exactly happened. Provincial police say…",
+      "cat": "Justice"
+    },
+    {
+      "id": "956f5c333f72cea1",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/niagara-police-homicide-suspects-9.7280582?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Car driven by suspects wanted for murder in death of Niagara Falls man was found in Quebec, police say",
+      "excerpt": "Niagara regional police in Ontario say a car driven by two murder suspects wanted on a Canada-wide warrant has been found in Quebec.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "525119eb56aae1e9",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/lytton-b-c-41-c-hottest-temperature-canada-9.7281037?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Lytton, B.C., hits 41 C, hottest temperature in Canada this year",
+      "excerpt": "The heat wave that has scorched southern British Columbia this week has seen temperatures pass 40 degrees for a second consecutive day in the Fraser Canyon, marking the two hottest temperatures recorded in Canada this…",
+      "cat": "Economy"
+    },
+    {
+      "id": "2d2b2dbb776531af",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/norwegian-adventurer-steffen-skjottelvik-9.7279505?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Family of Norwegian adventurer who died in northern Manitoba returns to tell his story",
+      "excerpt": "Adventurer Steffen Skjottelvik's death last year in northern Manitoba's Hayes River was a tragedy that has become the catalyst for a documentary, a book and a foundation to unite First Nations, Norway and nature.",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "1d0fe0c3c87bd41a",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/maritime-provinces-energy-mou-regional-electricity-operator-9.7280914?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "3 Maritime provinces to consider regional electricity operator",
+      "excerpt": "The deal would help keep energy affordable and ensure the grid is reliable, the provinces say.",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "7fc1a556483569de",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/luciano-frattolin-trial-9.7280534?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Lawyers present arguments in trial of Montreal man accused of killing daughter in New York",
+      "excerpt": "Lawyers have made their opening arguments in the trial of a man accused of killing his nine-year-old daughter in 2025 during a trip to New York.",
+      "cat": "Justice"
+    },
     {
       "id": "2f52d27389f306ec",
       "date": "2026-07-23",
@@ -132,6 +264,28 @@
       "title": "Alberta craft alcohol producers welcome direct-to-consumer deal",
       "excerpt": "On Tuesday, premiers from nine provinces signed a landmark agreement to implement direct-to-consumer alcohol sales, allowing Canadians to order alcohol directly from producers in participating provinces for personal…",
       "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "3a22521d32d318a3",
+      "date": "2026-07-22",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/charlottetown-premiers-meeting-day-two-9.7279213?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Premiers rally behind Carney, but not everyone is confident a tariff deal is close",
+      "excerpt": "Canada's premiers say they're behind the federal government as it tries to talk down U.S. President Donald Trump from his escalated trade war — although not everyone at the table is feeling confident that will happen…",
+      "cat": "Economy"
+    },
+    {
+      "id": "5bcfec366fc58d3f",
+      "date": "2026-07-22",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/indigenous/indigenous-leaders-premiers-9.7279262?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Some Indigenous leaders call premiers' meeting positive but inclusion remains an issue",
+      "excerpt": "Some Indigenous leaders say they had a positive meeting with provincial and territorial leaders on the margins of this year's Council of the Federation gathering in Prince Edward Island, but issues remain with the list…",
+      "cat": "Indigenous services"
     },
     {
       "id": "37da40ae637877b3",
