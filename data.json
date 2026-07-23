@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T09:14:50.530Z",
-  "count": 299,
+  "generatedAt": "2026-07-23T17:03:37.869Z",
+  "count": 316,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,182 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "2f52d27389f306ec",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/windsor/windsor-1-7-tonne-drug-seizure-9.7280780?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Nearly $139M in drugs seized in southern Ontario police bust involving CBSA",
+      "excerpt": "A drug trafficking investigation instigated by the Windsor Police Service has resulted in one of the most significant drug seizures in a single investigation in Ontario, Ontario Provincial Police say.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "9ffb0442294b98c8",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-wildfires-squamish-lillooet-brunswick-complex-9.7280581?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "New evacuation order, alerts issued in Squamish-Lillooet region as wildfires rage across B.C.",
+      "excerpt": "More communities across British Columbia are under threat from separate out-of-control wildfires.",
+      "cat": "Economy"
+    },
+    {
+      "id": "670596a696162c82",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/carlo-bruzzese-extradition-9.7279779?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mafia fugitive or innocent son? Italy seeks to extradite Ontario man over mob ties",
+      "excerpt": "Italy is seeking to extradite Carlo Bruzzese, a Toronto-area man accused of serving as a high-ranking member of the powerful Calabrian 'ndrangheta criminal syndicate, CBC News has learned. The son of a purported mob…",
+      "cat": "Justice"
+    },
+    {
+      "id": "9849e6e6d902f8b9",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/london/london-family-doctors-9.7278092?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How this clinic convinced 21 new doctors to move to London — and yes, they're accepting patients",
+      "excerpt": "London-based Thompson Medical Centre, which operates two clinics in London and one in St. Thomas, has managed to attract 21 new doctors to the region since 2025. The director of the clinic says that amounts to room for…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "fde3bb510a3412e3",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/trump-tariff-threat-premiers-carney-meeting-9.7279671?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada 'will do whatever it takes' to counter Trump's tariff threat, Carney tells premiers",
+      "excerpt": "Prime Minister Mark Carney says his government \"will do whatever it takes\" to defend Canada's interests as the clock ticks down to stave off U.S. President Donald Trump's latest tariff threat.",
+      "cat": "Economy"
+    },
+    {
+      "id": "f8890362de7d71f5",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/charts-trump-tariffs-9.7279519?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "These 3 charts show where Trump's new tariffs could have the biggest impact",
+      "excerpt": "These three charts break down which sectors are in the crosshairs, which provinces will be the hardest hit and how the tariffs will be felt on both sides of the border.",
+      "cat": "Economy"
+    },
+    {
+      "id": "54b8363067f7a1fb",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/lawyers-present-arguments-in-trial-of-montreal-man-accused-of-killing-daughter-in-new-york-9.7280534?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Lawyers present arguments in trial of Montreal man accused of killing daughter in New York",
+      "excerpt": "Lawyers have made their opening arguments in the trial of a man accused of killing his nine-year-old daughter, Melina Frattolin, in 2025 during a trip to New York.",
+      "cat": "Justice"
+    },
+    {
+      "id": "10375eca7068dff3",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/cbrm-mayor-endorses-celtic-crew-motorcycle-club-9.7279746?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Cape Breton mayor's endorsement of local motorcycle club criticized by crime expert",
+      "excerpt": "Mayor Cecil Clarke says he didn't know the Celtic Crew Motorcycle Club was associated with the Hells Angels when he wrote a letter endorsing their community efforts in the Cape Breton Regional Municipality.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "506f744e82dc0936",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-alcohol-companies-dtc-9.7279863?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta craft alcohol producers welcome direct-to-consumer deal",
+      "excerpt": "On Tuesday, premiers from nine provinces signed a landmark agreement to implement direct-to-consumer alcohol sales, allowing Canadians to order alcohol directly from producers in participating provinces for personal…",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "37da40ae637877b3",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/saskatchewan/sask-regina-hospitals-hand-hygeine-9.7279646?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Regina hospitals still haven't cleaned up the hand-washing problem diagnosed in 2018",
+      "excerpt": "Saskatchewan Health Authority says hand hygiene is important for preventing hospital-acquired infections, but does not say why auditor's 2018 recommendations have yet to be fully implemented.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "bed2959fea2c5693",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/health/canada-graphic-image-warnings-cigarette-packs-9.7279931?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada is rolling out new graphic image warnings on cigarette packs",
+      "excerpt": "Experts have welcomed a new series of graphic images on cigarette packaging in Canada, which will be required by August 1, noting they lead to 'significant increases in the effectiveness' of health warnings.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "c1aba01db92b2ec4",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/michel-savard-plq-9.7279970?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Quebec Liberals drop candidate who compared Parti Québécois to Nazis",
+      "excerpt": "Actor Michel Savard, slated to run in the Montreal electoral district of Gouin in the next election, has apologized for the Facebook comments, which he made before he became a Liberal candidate.",
+      "cat": "Economy"
+    },
+    {
+      "id": "e68cb11f95bf61cd",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/david-henschel-swiss-national-sentenced-for-striking-anti-war-protester-9.7278937?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Swiss man who assaulted protester in Ottawa gets absolute discharge",
+      "excerpt": "A Swiss man who pleaded guilty to punching a protester in the face outside an Ottawa defence conference in 2024 was given an absolute discharge Wednesday before exiting the courtroom to angry shouts from supporters of…",
+      "cat": "National defence"
+    },
+    {
+      "id": "4b12238e0f1b0516",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/the-buzzer-newsletter-commonwealth-games-track-and-field-preview-9.7280161?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Commonwealth Games track and field preview: Men's relay team, hammer throw champs headline Canada's contenders",
+      "excerpt": "CBC Sports' daily newsletter looks at the Canadian track and field stars to watch at the Commonwealth Games in Scotland.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "f3aecc282df1f25a",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/the-odyssey-halifax-70mm-imax-film-projection-9.7280052?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Only 9 Canadian cities can show you The Odyssey as it was filmed. Halifax is one",
+      "excerpt": "Christopher Nolan's nearly three-hour epic The Odyssey was shot entirely using 70-mm Imax film — the first film in history to do so.",
+      "cat": "Economy"
+    },
+    {
+      "id": "66dd6003b8d4d362",
+      "date": "2026-07-22",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/player/play/9.7280144?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why there’s hope Quebec will greenlight direct-to-consumer alcohol sales like other provinces have",
+      "excerpt": "Nine premiers across Canada have agreed it’s time to remove the trade barriers preventing people from buying alcohol from other provinces. Christine Fréchette says Quebec subscribes to the objectives of the agreement,…",
+      "cat": "Intergovernmental affairs"
+    },
     {
       "id": "3b3892be9e231084",
       "date": "2026-07-22",
@@ -1815,6 +1991,17 @@
       "title": "Conservation officers, RCMP investigating two wildlife-related deaths near La Ronge, Sask.",
       "excerpt": "Two deaths at McTavish Lake, north of La Ronge, are suspected to be wildlife-related, the Saskatchewan government says.",
       "cat": "Wildlife"
+    },
+    {
+      "id": "e60e600123699331",
+      "date": "2026-07-16",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/wildfire-evacuees-mental-health-first-nations-ontario-9.7280209?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Wildfire evacuees from First Nations in Ontario's far north face uncertainty, mental health toll",
+      "excerpt": "",
+      "cat": "Healthcare"
     },
     {
       "id": "5292e033618af226",
