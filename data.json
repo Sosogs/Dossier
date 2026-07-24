@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T19:39:48.257Z",
-  "count": 353,
+  "generatedAt": "2026-07-24T20:45:05.892Z",
+  "count": 357,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,50 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "e4200ea0bd15651a",
+      "date": "2026-07-24",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/windsor/livestory/gordie-howe-international-bridge-2026-live-updates-9.7172299?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada celebrates long-awaited opening of Gordie Howe bridge without U.S.",
+      "excerpt": "",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "4d9835f8efef0dff",
+      "date": "2026-07-24",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/bloc-hack-crypto-9.7281719?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Bloc leader's X account restored 2 weeks after bitcoin hack",
+      "excerpt": "Bloc Québécois Leader Yves-François Blanchet says social media platform X has restored his account two weeks after it was hacked and started promoting Bitcoin — which is almost as long as it took for the party to…",
+      "cat": "Economy"
+    },
+    {
+      "id": "5b0b5f31e4206fa0",
+      "date": "2026-07-24",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/elmer-mackay-progressive-conservative-mp-dies-9.7282142?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Elmer MacKay, longtime former N.S. Progressive Conservative MP, dies",
+      "excerpt": "MacKay represented the riding of Central Nova and held several ministerial portfolios under former prime minister Brian Mulroney.",
+      "cat": "Economy"
+    },
+    {
+      "id": "34e6b12bf5456113",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/luciano-frattolin-trial-new-york-9.7282160?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Jury hears tape from police search at trial of Montreal man accused of killing his daughter",
+      "excerpt": "A New York jury heard a three-hour recording Thursday that was captured in a police cruiser last July as officers searched for a missing nine-year-old Montreal girl.",
+      "cat": "Public safety"
+    },
     {
       "id": "e610f7a622a448aa",
       "date": "2026-07-24",
@@ -1592,9 +1636,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/minister-metlege-diab-highlights-canada-child-benefit-payments-increasing-in-20262027.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Metlege Diab highlights Canada Child Benefit payments increasing in 2026–2027",
-      "sum": "The Government of Canada is lowering costs for families by strengthening the Canada Child Benefit (CCB). The CCB is a monthly tax-free payment to help them with the costs of raising children.",
-      "cat": "Finance"
+      "title": "Canada Child Benefit payments to increase in 2026-2027",
+      "sum": "The Government of Canada is increasing Canada Child Benefit payments starting in 2026-2027. The CCB is a monthly tax-free payment provided to families to help with child-raising costs.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "a73e5087706e9157",
@@ -2175,9 +2220,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/minister-metlege-diab-to-highlight-the-canada-child-benefits-more-generous-support-for-families.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Metlege Diab to highlight the Canada Child Benefit’s more generous support for families",
-      "sum": "Minister Metlege Diab to highlight the Canada Child Benefit’s more generous support for families",
-      "cat": "Economy"
+      "title": "Minister to highlight increased Canada Child Benefit support",
+      "sum": "Minister Metlege Diab will discuss enhanced support provided through the Canada Child Benefit program for families. The benefit provides financial assistance to eligible families with children.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "020145370e83da92",
@@ -3616,9 +3662,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/projects-aimed-at-supporting-francophone-minority-communities0.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Projects aimed at supporting Francophone minority communities",
-      "sum": "The Centre for Innovation in Francophone Immigration (CIFI) aims to integrate Francophone perspectives into immigration programs in Canada. It promotes immigration to French-speaking employers, facilitates access to programs and supports the growth of Francophone minority communities (FMCs). The CIFI supports innovative projects to reduce obstacles to immigration and offers funding to improve the promotion of FMCs…",
-      "cat": "Innovation, science & industry"
+      "title": "Centre for Innovation in Francophone Immigration established",
+      "sum": "The Centre for Innovation in Francophone Immigration (CIFI) has been created to integrate Francophone perspectives into Canada's immigration programs and support the growth of French-speaking minority communities. It provides funding for projects that reduce immigration barriers and promote Francophone employers and communities.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "ecb72c0e76102639",
@@ -3627,9 +3674,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/canada-and-the-northwest-territories-join-forces-to-support-the-growth-of-francophone-communities.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada and the Northwest Territories join forces to support the growth of Francophone communities",
-      "sum": "Canada is making Francophone immigration a force that unites communities and recognizes the contribution of Francophone and bilingual newcomers to the growth of the Francophonie. With this in mind, to promote the demographic and economic development of communities in the Northwest Territories, the governments of Canada and the Northwest Territories are working together to ensure the retention of qualified…",
-      "cat": "Economy"
+      "title": "Canada and Northwest Territories support Francophone community growth",
+      "sum": "The federal government and Northwest Territories government are collaborating to promote immigration and retention of Francophone and bilingual newcomers. The initiative aims to support demographic and economic development in Northwest Territories communities.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "d7ae1ad13c666ed1",
@@ -3649,9 +3697,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/peter-fragiskatos-mp-highlights-launch-of-national-food-security-strategy.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Peter Fragiskatos, MP, highlights launch of National Food Security Strategy",
-      "sum": "The Government of Canada is focused on building a stronger economy and making life more affordable for Canadians. Today, Peter Fragiskatos, Parliamentary Secretary to the Minister of Immigration, Refugees and Citizenship, on behalf of the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, highlighted the launch of the National Food Security Strategy.",
-      "cat": "Economy"
+      "title": "Canada launches National Food Security Strategy",
+      "sum": "The Government of Canada announced the launch of a National Food Security Strategy. Parliamentary Secretary Peter Fragiskatos highlighted the initiative on behalf of the Minister of Agriculture and Agri-Food.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "796390367a1d61f7",
@@ -3660,9 +3709,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/projects-aimed-at-supporting-francophone-minority-communities.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Projects aimed at supporting Francophone minority communities",
-      "sum": "The Centre for Innovation in Francophone Immigration (CIFI) aims to integrate Francophone perspectives into immigration programs in Canada. It promotes immigration to French-speaking employers, facilitates access to programs and supports the growth of Francophone minority communities (FMCs). The CIFI supports innovative projects to reduce obstacles to immigration and offers funding to improve the promotion of FMCs…",
-      "cat": "Innovation, science & industry"
+      "title": "Centre for Innovation in Francophone Immigration launched",
+      "sum": "The federal government has established the Centre for Innovation in Francophone Immigration to support Francophone minority communities and help integrate French-speaking immigrants into Canada. The centre provides funding and promotes immigration to French-speaking employers while working to reduce barriers to immigration.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "5e8717e8393db362",
@@ -3671,9 +3721,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/canada-and-manitoba-join-forces-to-give-new-momentum-to-francophone-immigration.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada and Manitoba join forces to give new momentum to Francophone immigration",
-      "sum": "Canada is committed to supporting Francophone immigration and is focused on attracting and retaining the world’s best talent. As Francophone minority communities face significant demographic and economic challenges, the governments of Canada and Manitoba are joining forces to strengthen official language minority communities by addressing their labour needs and fostering their economic and linguistic vitality.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada and Manitoba coordinate Francophone immigration initiative",
+      "sum": "Canada and Manitoba are partnering to attract and retain Francophone immigrants to support French-language minority communities. The collaboration aims to address labour shortages and strengthen the economic and linguistic vitality of these communities.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "befbb1480abe7c8d",
@@ -3682,9 +3733,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/parliamentary-secretary-fragiskatos-to-announce-support-for-food-security-in-windsor.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Parliamentary Secretary Fragiskatos to announce support for food security in Windsor",
-      "sum": "Peter Fragiskatos, Parliamentary Secretary to the Minister of Immigration, Refugees and Citizenship, on behalf of the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, will highlight the launch of the National Food Security Strategy to strengthen food systems in Windsor.",
-      "cat": "Public safety"
+      "title": "National Food Security Strategy launched in Windsor",
+      "sum": "Parliamentary Secretary Peter Fragiskatos announced the launch of the National Food Security Strategy on behalf of the Minister of Agriculture and Agri-Food. The strategy aims to strengthen food systems in Windsor.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "6f135355b4718a23",
@@ -3693,9 +3745,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/minister-metlege-diab-to-make-an-announcement-in-winnipeg.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Metlege Diab to make an announcement in Winnipeg",
-      "sum": "The Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, will hold a press conference in Winnipeg to unveil an innovative project to strengthen Francophone immigration in Manitoba. A media availability will follow.",
-      "cat": "Innovation, science & industry"
+      "title": "Minister announces Francophone immigration project in Manitoba",
+      "sum": "Minister of Immigration, Refugees and Citizenship Lena Metlege Diab will hold a press conference in Winnipeg to announce a new project aimed at strengthening Francophone immigration in Manitoba.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "7058f827bed930de",
@@ -3704,9 +3757,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/statement-by-minister-metlege-diab-on-canada-day.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Statement by Minister Metlege Diab on Canada Day",
-      "sum": "“Each year on Canada Day, I reflect on how fortunate we are to call this country home—a place where diversity is celebrated, our values unite us, and our collective identity comes to life through our official languages and the experiences we share. The occasion is a time to celebrate what brings us together, take pride in our communities and look to the future with confidence as we build an even better Canada for…",
-      "cat": "Culture & heritage"
+      "title": "Minister Metlege Diab marks Canada Day with reflection",
+      "sum": "The Minister released a statement on Canada Day reflecting on Canadian identity, diversity, and shared values. The statement emphasized celebrating community and looking toward the future.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "3274912f396506a6",
@@ -3715,9 +3769,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/minister-diab-to-participate-in-a-canada-day-citizenship-ceremony-in-ottawa0.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Diab to participate in a Canada Day citizenship ceremony in Ottawa (afternoon)",
-      "sum": "The Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, will welcome 50 of Canada’s newest citizens from 21 different countries at a special Canada Day citizenship ceremony. Citizenship Judge Rania Sfeir will preside over the ceremony.",
-      "cat": "Justice"
+      "title": "Immigration Minister to host Canada Day citizenship ceremony",
+      "sum": "Minister Lena Metlege Diab will participate in a citizenship ceremony in Ottawa on Canada Day, where 50 people from 21 countries will become Canadian citizens. Citizenship Judge Rania Sfeir will oversee the ceremony.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "002e99bec6b75fcb",
@@ -3726,9 +3781,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/minister-diab-to-participate-in-a-canada-day-citizenship-ceremony-in-ottawa.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Diab to participate in a Canada Day citizenship ceremony in Ottawa (morning)",
-      "sum": "The Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, will welcome 50 of Canada’s newest citizens from 26 different countries at a special Canada Day citizenship ceremony. Citizenship Judge Rania Sfeir will preside over the ceremony.",
-      "cat": "Justice"
+      "title": "Minister Diab to preside at Canada Day citizenship ceremony",
+      "sum": "Minister of Immigration, Refugees and Citizenship Lena Metlege Diab will welcome 50 new Canadian citizens from 26 countries at a Canada Day ceremony in Ottawa. Citizenship Judge Rania Sfeir will oversee the proceedings.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "85e520686ff0cf2d",
@@ -3737,9 +3793,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/federalprovincialterritorial-immigration-ministers-meet-to-discuss-sustainable-immigration.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Federal–Provincial–Territorial Immigration Ministers meet to discuss sustainable immigration",
-      "sum": "The Forum of Ministers Responsible for Immigration (FMRI) met today to advance collaboration on the 2027–2029 Immigration Levels Plan and discuss federal–provincial–territorial (FPT) priorities. They discussed returning immigration to sustainable levels while considering regional, rural and northern contexts, addressing labour shortages, reinforcing key economic sectors, and supporting communities across the…",
-      "cat": "Innovation, science & industry"
+      "title": "Federal-provincial immigration ministers discuss sustainable levels plan",
+      "sum": "Immigration ministers from federal, provincial, and territorial governments met to collaborate on Canada's immigration targets for 2027-2029. The discussion focused on balancing immigration levels with regional needs, labour market demands, and community capacity.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "dd36548bf2f889ae",
@@ -3748,9 +3805,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/minister-diab-to-hold-media-availability-following-meeting-of-the-forum-of-ministers-responsible-for-immigration.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Diab to hold media availability following meeting of the Forum of Ministers Responsible for Immigration",
-      "sum": "The Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, alongside her provincial and territorial counterparts, will hold a press conference following a meeting of the Forum of Ministers Responsible for Immigration (FMRI). Minister Diab will be joined by the Honourable Lin Paddock, Minister of Immigration for Newfoundland and Labrador and Provincial-Territorial FMRI Co-Chair.",
-      "cat": "Innovation, science & industry"
+      "title": "Immigration minister holds media availability after provincial meeting",
+      "sum": "Minister of Immigration Lena Metlege Diab will hold a press conference following a meeting with provincial and territorial immigration ministers. She will be joined by Newfoundland and Labrador's Immigration Minister Lin Paddock.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "655220265040dfd2",
@@ -3759,31 +3817,34 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-marks-world-refugee-day-and-reflects-on-75-years-of-refugee-protection.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada marks World Refugee Day and reflects on 75 years of refugee protection",
-      "sum": "On World Refugee Day, Canada recognizes the 75th anniversary of the 1951 Refugee Convention and the international refugee protection system it created, including the principle that people have the right to seek safety from persecution.",
-      "cat": "Foreign affairs"
+      "title": "Canada marks 75 years of international refugee protection system",
+      "sum": "Canada is observing World Refugee Day and the 75th anniversary of the 1951 Refugee Convention, which established the international framework for protecting people fleeing persecution.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "cc1bcd1f6bc7d799",
       "date": "2026-06-19",
       "src": "Immigration, Refugees and Citizenship Canada",
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-proposes-new-regulations-to-modernize-the-asylum-process-and-support-timely-decisions.html",
-      "type": "Announcement",
+      "type": "Regulation",
       "kind": "official",
-      "title": "Canada proposes new regulations to modernize the asylum process and support timely decisions",
-      "sum": "Canada continues to improve its asylum system so that it is fair, transparent and sustainable over the long-term.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada proposes regulations to modernize asylum process",
+      "sum": "Canada is introducing new regulations designed to update its asylum system with the aim of making decisions more timely. The changes are intended to make the system fairer, more transparent, and sustainable long-term.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "39895ab237e48739",
       "date": "2026-06-19",
       "src": "Immigration, Refugees and Citizenship Canada",
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-proposes-new-regulations-to-modernize-the-asylum-process-and-support-timely-decisions0.html",
-      "type": "Announcement",
+      "type": "Regulation",
       "kind": "official",
-      "title": "Canada proposes new regulations to modernize the asylum process and support timely decisions",
-      "sum": "Building on recent measures to strengthen Canada’s immigration and asylum systems, and recent decreases in asylum claim volumes, the Government of Canada is taking further action to maintain a fair, orderly and well-managed asylum system.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada proposes new regulations to modernize asylum process",
+      "sum": "The Government of Canada is introducing new regulations to update how asylum claims are processed. The action follows recent decreases in asylum claim volumes and prior measures to strengthen immigration systems.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "e35104b005e24a1b",
@@ -3792,9 +3853,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-strengthens-borders-while-supporting-economic-and-tourism-ties-with-saint-pierre-et-miquelon0.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada strengthens borders while supporting economic and tourism ties with Saint-Pierre-et-Miquelon",
-      "sum": "Canada and the French overseas collectivity of Saint-Pierre-et-Miquelon share strong travel, tourism and economic ties, particularly in Atlantic Canada. We work closely to support safe, efficient travel while strengthening the security and integrity of our shared travel routes.",
-      "cat": "Public safety"
+      "title": "Canada enhances border security with Saint-Pierre-et-Miquelon",
+      "sum": "Canada is strengthening border measures with the French overseas territory of Saint-Pierre-et-Miquelon while maintaining travel, tourism, and economic connections. The two jurisdictions are coordinating to improve travel safety and security on their shared routes.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "d4ffbd7126f5f23e",
@@ -3803,9 +3865,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/06/canada-strengthens-borders-while-supporting-economic-and-tourism-ties-with-saint-pierre-et-miquelon.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada strengthens borders while supporting economic and tourism ties with Saint-Pierre-et-Miquelon",
-      "sum": "As part of Canada’s Border Plan, Immigration, Refugees and Citizenship Canada and its partners have strengthened screening, increased information sharing, and enhanced fraud detection to help identify non-genuine travellers and protect the integrity of Canada’s immigration and asylum systems. In 2025, Canada also strengthened authorities to cancel eTAs, visas, and work or study permits in specific circumstances on a…",
-      "cat": "Public safety"
+      "title": "Canada strengthens border screening and visa cancellation authorities",
+      "sum": "Canada has enhanced border security measures including improved screening, increased information sharing, and better fraud detection to identify non-genuine travellers. In 2025, Canada also expanded authorities to cancel electronic travel authorizations, visas, and work or study permits in specific circumstances.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "e0e7a14af3a7f738",
@@ -3814,9 +3877,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/canada-strengthens-indo-pacific-ties-through-changes-to-visa-requirements-for-eligible-travellers-from-indonesia-and-malaysia.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada strengthens Indo-Pacific ties through changes to visa requirements for eligible travellers from Indonesia and Malaysia",
-      "sum": "As Canada continues to deepen its trade, investment and strategic partnerships across the Indo Pacific, the Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, announced today that Canada will make changes to visa requirements for eligible citizens from Indonesia and Malaysia starting tomorrow, May 26, 2026, at 5:30 a.m. Eastern Time.",
-      "cat": "Economy"
+      "title": "Canada eases visa requirements for Indonesian and Malaysian citizens",
+      "sum": "Canada is changing its visa requirements for eligible citizens from Indonesia and Malaysia, effective May 26, 2026. The change is part of Canada's effort to strengthen trade, investment, and strategic partnerships in the Indo-Pacific region.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "c0b7485591cd4350",
@@ -3825,9 +3889,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/canada-strengthens-indopacific-ties-through-changes-to-visa-requirements-for-eligible-travellers-from-indonesia-and-malaysia.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada strengthens Indo‑Pacific ties through changes to visa requirements for eligible travellers from Indonesia and Malaysia",
-      "sum": "The Government of Canada is seeking to diversify Canada’s trade partners to support a stronger, more resilient economy. Safely increasing mobility between Canada and its trade partners helps support these efforts.",
-      "cat": "Economy"
+      "title": "Canada eases visa requirements for Indonesian and Malaysian travellers",
+      "sum": "Canada is modifying visa requirements for eligible travellers from Indonesia and Malaysia to increase mobility between countries. The government states this supports its goal of diversifying trade partners and strengthening the economy.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "382a618687455fda",
@@ -3836,9 +3901,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/building-the-workforce-needed-to-deliver-more-homes-in-halifax.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Building the workforce needed to deliver more homes in Halifax",
-      "sum": "In Budget 2025, we outlined our plan to build Canada Strong.",
-      "cat": "Finance"
+      "title": "Federal budget includes housing workforce plan for Halifax",
+      "sum": "Budget 2025 includes measures to develop the workforce needed to increase housing construction in Halifax. The plan is part of a broader federal strategy described as building Canada Strong.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "fb3c856412ef75b7",
@@ -3847,9 +3913,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/minister-diab-to-highlight-housing-investments-from-the-spring-economic-update-2026.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Diab to highlight housing investments from the Spring Economic Update 2026",
-      "sum": "The Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, will hold a press conference in Dartmouth to highlight housing investments from the Spring Economic Update 2026: Canada Strong For All that will help build more homes in Nova Scotia by growing the skilled workforce, speeding up construction and supporting modern methods of construction.",
-      "cat": "Housing"
+      "title": "Minister highlights housing investments from Spring Economic Update",
+      "sum": "Minister Lena Metlege Diab will hold a press conference in Dartmouth to discuss housing investments announced in the Spring Economic Update 2026. The investments aim to increase home construction in Nova Scotia through workforce development, faster construction timelines, and modern building methods.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "bca4f38ab8e089ea",
@@ -3858,9 +3925,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/canada-and-global-partners-take-action-to-advance-migration-priorities.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada and global partners take action to advance migration priorities",
-      "sum": "Canada is working with partners around the world to strengthen migration systems and address shared challenges. This week, the Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, led Canada’s delegation to the International Migration Review Forum (IMRF) 2026 at the United Nations Headquarters in New York.",
-      "cat": "Foreign affairs"
+      "title": "Canada leads delegation to international migration forum",
+      "sum": "Canada participated in the International Migration Review Forum at the United Nations, where Minister Lena Metlege Diab led discussions with global partners on migration systems and shared challenges.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "af92c8b3866ec2c8",
@@ -3869,20 +3937,22 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/canada-announces-new-international-migration-capacity-building-projects.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada announces new international migration capacity-building projects",
-      "sum": "As part of its ongoing work with international partners, Canada is investing in projects that help improve how migration is managed around the world. These investments support safe, orderly and regular migration, while also helping countries better integrate newcomers. This includes supporting better migration systems, training officials, and expanding safe and regular pathways for people to move between countries.",
-      "cat": "Foreign affairs"
+      "title": "Canada funds international migration capacity-building projects",
+      "sum": "Canada is investing in projects with international partners to improve migration management globally. The investments support safe and orderly migration processes and help countries integrate newcomers through better systems, official training, and expanded pathways.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "e9c02c717c59f26e",
       "date": "2026-05-06",
       "src": "Immigration, Refugees and Citizenship Canada",
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/05/canada-strengthens-regulation-of-immigration-and-citizenship-consultants.html",
-      "type": "Announcement",
+      "type": "Regulation",
       "kind": "official",
-      "title": "Canada strengthens regulation of immigration and citizenship consultants",
-      "sum": "The Government of Canada is strengthening protections for people seeking immigration and citizenship advice by improving access to trustworthy, quality representation. Today, the Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, announced new regulations that have come into force to enhance the oversight of immigration and citizenship consultants in Canada.",
-      "cat": "Economy"
+      "title": "Canada strengthens oversight of immigration and citizenship consultants",
+      "sum": "New regulations have come into force to improve oversight of immigration and citizenship consultants in Canada. The regulations aim to enhance protections for people seeking immigration and citizenship advice.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "5aa5bd9966f07292",
@@ -3891,9 +3961,10 @@
       "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/understanding-the-one-time-in-canada-workers-initiative.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Understanding the one-time In-Canada Workers Initiative",
-      "sum": "The In-Canada Workers Initiative will accelerate permanent residence applications in our inventories for individuals who are already contributing to Canada’s economy across a wide range of in-demand sectors, including in rural areas and communities with labour gaps. Immigration, Refugees and Citizenship Canada (IRCC) will continue to process applications within existing levels space for workers who have applied for…",
-      "cat": "Economy"
+      "title": "In-Canada Workers Initiative accelerates permanent residence applications",
+      "sum": "The federal government is launching a one-time initiative to fast-track permanent residence applications for foreign workers already employed in Canada across in-demand sectors, including rural areas facing labour shortages. Immigration, Refugees and Citizenship Canada will process these applications within existing immigration levels.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "9a708566c27c1edf",
