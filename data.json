@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T21:38:04.744Z",
-  "count": 330,
+  "generatedAt": "2026-07-24T09:11:39.106Z",
+  "count": 342,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,138 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "5976a84bfe4bff97",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/business/economic-benefit-gordie-howe-bridge-9.7281466?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What's the economic benefit of a bridge? Gordie Howe by the numbers",
+      "excerpt": "After 25 years of planning, seven years of construction and months of delays, the first trucks are finally set to roll over the Gordie Howe bridge on Monday. In tow will be some of the billions of dollars worth of goods…",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "bc8a4153949f5a73",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/alberta-southern-pipeline-plan-9.7281355?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Alberta's got a new plan for a southern pipeline to B.C.'s coast — it still won't be easy",
+      "excerpt": "Alberta's proposal for a new pipeline through southern B.C. has been billed as a duplication of the 2024 Trans Mountain expansion, but a deviation to another terminal in the Fraser Valley is unearthing familiar…",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "bc0721922046fae4",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/carney-fossil-fuel-subsidies-oil-gas-9.7281273?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Public funding for fossil fuel industry breaks another Liberal climate promise, advocates say",
+      "excerpt": "The Carney government's financial support for the oil and gas industry amounts to breaking a federal commitment to phase out fossil fuel subsidies, according to environmental advocates.",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "093aefb08200f01f",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/westjet-flight-change-cancel-9.7281740?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "WestJet allowing passengers to change or cancel certain flights due to threat of strike",
+      "excerpt": "WestJet is giving passengers with bookings from July 30 to Aug. 4 the opportunity to cancel or change their flights for free in light of the ongoing labour dispute with flight attendants.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "e04ee11eb4f263b1",
+      "date": "2026-07-23",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/carney-says-should-have-been-clearer-bridge-deal-us-9.7281520?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney says he 'should have been clearer' about new Gordie Howe bridge agreement",
+      "excerpt": "Prime Minister Mark Carney says he \"imperfectly\" described the new deal to open the Gordie Howe International Bridge after the text of the agreement appeared to contradict his original explanation.",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "23066624dcb4340d",
+      "date": "2026-07-23",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/world/trump-tariffs-forced-labour-9.7281548?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "U.S. launches new tariff, replacing what Supreme Court struck down",
+      "excerpt": "The Trump administration is imposing a new global tariff regime designed to take the place of a temporary 10 per cent tariff that expires Friday.",
+      "cat": "Economy"
+    },
+    {
+      "id": "7855951dd5a31bdb",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/clinton-bc-properties-destroyed-wildfire-9.7281675?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Wildfire destroys properties near Clinton, B.C.",
+      "excerpt": "",
+      "cat": "Economy"
+    },
+    {
+      "id": "2118537e79c777b1",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/sudbury/bigotfest-active-clubs-north-bay-reaction-9.7281076?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Jewish advocacy organization, North Bay mayor condemn 'Bigotfest' planned near the city",
+      "excerpt": "The mayor of North Bay and a Jewish advocacy organization are condemning a weekend gathering that appears to be taking place somewhere in the area— that organizers themselves are calling “Bigotfest”— saying hate and…",
+      "cat": "Economy"
+    },
+    {
+      "id": "610f3dd9771ef4bc",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/montreal/woman-guilty-river-deaths-9.7281784?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Woman pleads guilty in St. Lawrence River smuggling operation that killed family",
+      "excerpt": "A dual Canadian-American citizen has pleaded guilty to her role in a human smuggling operation that resulted in the deaths of a Romanian family of four and a boat operator in the St. Lawrence River.",
+      "cat": "Justice"
+    },
+    {
+      "id": "0e465cc299c1855f",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/police-investigating-moncton-attack-9.7279799?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Police in Moncton investigating ‘whether hate was a factor’ in altercation depicted in video",
+      "excerpt": "RCMP say the incident took place Saturday night in a parking lot on Mountain Road, and the investigation is ongoing.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "b5edae2d9cc592eb",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/repeat-offender-property-public-disorder-9.7281541?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. expands repeat property offender program, will monitor 365 people in Lower Mainland",
+      "excerpt": "The B.C. government will soon monitor more than 350 repeat offenders in the Lower Mainland as it launches seven new intervention and monitoring hubs in the region.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "4f3795962ecb4070",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/jays-2026-playoff-hopes-fading-9.7280977?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What’s become of the Toronto Blue Jays? With 2 months left, some fans are giving up hope",
+      "excerpt": "Less than a year after the Blue Jays came within inches of being champions of baseball, the club is struggling to keep its playoff hopes alive. As the Jays try to stave off a sweep against Tampa Bay Thursday and start…",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "ea02e36e240989d7",
       "date": "2026-07-23",
