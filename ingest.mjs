@@ -260,19 +260,44 @@ async function run() {
 
   const fresh = await pullFresh(seen);
 
+  const AI_MAX = 90;                    // cap AI calls per run (cost/time guard)
+  let aiCount = 0;
   if (USE_AI) {
+    // 1) enrich this run's new official items
     for (const rec of fresh) {
-      if (rec.kind !== "official") continue;           // never rewrite news; keep excerpt + link
+      if (rec.kind !== "official" || rec.ai) continue;   // never rewrite news; keep excerpt + link
+      if (aiCount >= AI_MAX) break;
       try {
         const e = await enrich(`${rec.title}\n\n${rec.sum || ""}`);
         rec.title = e.headline || rec.title;
         rec.sum = e.summary || rec.sum;
         rec.cat = matchCategory(e.category) || rec.cat;
         rec.type = matchType(e.type) || rec.type;
+        rec.ai = true;
+        aiCount++;
       } catch (err) {
         console.warn(`  enrich failed (${rec.id}): ${err.message}`);
       }
     }
+    // 2) self-healing backfill: give older official entries still missing a
+    //    proper AI summary one now (no data loss), up to the per-run cap.
+    let healed = 0;
+    for (const rec of (existing.items || [])) {
+      if (aiCount >= AI_MAX) break;
+      if (rec.kind !== "official" || rec.ai) continue;
+      try {
+        const e = await enrich(`${rec.title}\n\n${rec.sum || ""}`);
+        rec.title = e.headline || rec.title;
+        rec.sum = e.summary || rec.sum;
+        rec.cat = matchCategory(e.category) || rec.cat;
+        rec.type = matchType(e.type) || rec.type;
+        rec.ai = true;
+        aiCount++; healed++;
+      } catch (err) {
+        console.warn(`  backfill failed (${rec.id}): ${err.message}`);
+      }
+    }
+    if (healed) console.log(`  backfilled ${healed} older official entr${healed === 1 ? "y" : "ies"}`);
   }
 
   const custom = await loadCustom();
