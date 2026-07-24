@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T09:11:39.106Z",
-  "count": 342,
+  "generatedAt": "2026-07-24T19:39:48.257Z",
+  "count": 353,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,116 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "e610f7a622a448aa",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/commonwealthgames/livestory/commonwealth-games-day-1-july24-9.7282408?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian swimmers begin their quest for gold at Commonwealth Games",
+      "excerpt": "",
+      "cat": "Economy"
+    },
+    {
+      "id": "1b7e1c142afcc101",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/kenmore-air-sucia-island-washington-canadian-response-9.7282421?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Bystanders help rescue passengers from seaplane crash near B.C.-Wash. border",
+      "excerpt": "A San Juan Island EMS member says bystanders were “heroes” Thursday night when a seaplane crashed and later caught fire while making an emergency landing on the shoreline of Sucia Island near the B.C.-Washington border.",
+      "cat": "Public safety"
+    },
+    {
+      "id": "1fa3abd9bb29dc57",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/cyclists-stolen-bikes-winnipeg-charity-ride-9.7282292?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "2 cyclists crossing Canada for men's mental health have bikes stolen in downtown Winnipeg",
+      "excerpt": "Two men on a charity ride to raise awareness for men's mental health had their bikes stolen in downtown Winnipeg on Friday.",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "ca53d6f6cdcf227f",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/abdirahman-abdi-death-ottawa-police-inquest-2016-9.7276323?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "He died after a violent altercation with Ottawa police. 10 years later there are still calls for change",
+      "excerpt": "Saturday will mark 10 years since Abdirahman Abdi died after a violent arrest by Ottawa police, and advocates say that while some positive steps have been taken in the last decade to help people in mental health…",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "f483caf7a0939140",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/tires-stockpiles-scarborough-shop-owner-city-warning-9.7281554?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "More than 1,000 scrap tires are piled at this Toronto auto shop. No recyclers will take them, owner says",
+      "excerpt": "A Scarborough auto repair shop owner says he has been told by the city to clear more than a thousand scrap tires from his business, but he cannot get anyone to pick them up following changes to provincial tire recycling…",
+      "cat": "Economy"
+    },
+    {
+      "id": "af3c921a02e6b0dc",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/manitoba/steinbach-wab-kinew-nearly-3-years-9.7280380?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Wab Kinew has been premier for nearly 3 years. He has yet to publicly visit Manitoba's 3rd-largest city",
+      "excerpt": "Premier Wab Kinew has yet to make a public visit to Steinbach — the province’s third-largest city — nearly three years into his term in office, despite repeatedly promoting a “One Manitoba” message and emphasizing his…",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "8ad14edbbfe3ed71",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/hamilton/manslaughter-plea-9.7282415?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Hamilton man pleads guilty to manslaughter in baby's death",
+      "excerpt": "A Hamilton man who offered to look after his girlfriend's baby girl to show her that he could \"step up\" when needed has pleaded guilty to manslaughter in the 2023 death of the three-and-a-half-month-old.",
+      "cat": "Economy"
+    },
+    {
+      "id": "147b6847c4e57619",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/united-states-trump-wildfire-smoke-complaints-9.7281922?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "U.S. senator stands up for Canada against smoke complaints as U.S. wildfire moves into B.C.",
+      "excerpt": "A U.S. senator is speaking out against statements made by American leaders, including President Donald Trump, alleging Canada is doing a poor job of managing wildfires. Her remarks come as a wildfire from the United…",
+      "cat": "National defence"
+    },
+    {
+      "id": "30494ec6a988e818",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-senate-reform-referendum-danielle-smith-9.7281080?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Once seeking Senate reform, Alberta now ponders voting to be ‘rid of the darn thing’",
+      "excerpt": "Unlike the triple-E movement of decades past, Albertans are being asked to consider a more dramatic gambit as part of October's referendum: abolishing the Red Chamber entirely. That would be no easy feat.",
+      "cat": "Economy"
+    },
+    {
+      "id": "35dd3f9b5e0354f2",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/ottawa/early-retirement-deadline-9.7281367?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "More than 9,100 federal workers apply for early retirement as deadline arrives",
+      "excerpt": "More than 9,100 federal public servants have applied for the government's early retirement incentive program ahead of today’s deadline.",
+      "cat": "Economy"
+    },
     {
       "id": "5976a84bfe4bff97",
       "date": "2026-07-24",
@@ -77,6 +187,17 @@
       "title": "WestJet allowing passengers to change or cancel certain flights due to threat of strike",
       "excerpt": "WestJet is giving passengers with bookings from July 30 to Aug. 4 the opportunity to cancel or change their flights for free in light of the ongoing labour dispute with flight attendants.",
       "cat": "Transportation"
+    },
+    {
+      "id": "ec1315661fa7dd40",
+      "date": "2026-07-23",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/wildfires-burn-bc-fiftynine-creek-clinton-9.7282189?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Wildfires near Boston Bar, B.C., merge as district says some residents still refusing to evacuate",
+      "excerpt": "",
+      "cat": "Economy"
     },
     {
       "id": "e04ee11eb4f263b1",
