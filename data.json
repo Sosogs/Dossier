@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T20:45:05.892Z",
-  "count": 357,
+  "generatedAt": "2026-07-24T21:45:21.851Z",
+  "count": 358,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,17 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "f9104a5bdb6905e5",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/tennis/sinner-djokovic-national-bank-open-withdrawal-montreal-9.7282909?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Top players Jannik Sinner, Novak Djokovic withdraw from National Bank Open in Montreal",
+      "excerpt": "World No. 1 Jannik Sinner and 24-time Grand Slam champion Novak Djokovic have withdrawn from the National Bank Open.",
+      "cat": "Economy"
+    },
     {
       "id": "e4200ea0bd15651a",
       "date": "2026-07-24",
