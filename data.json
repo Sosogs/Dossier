@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T15:47:08.212Z",
-  "count": 367,
+  "generatedAt": "2026-07-25T20:36:54.313Z",
+  "count": 368,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,17 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "687cf999ce1fbb09",
+      "date": "2026-07-25",
+      "src": "CBC Politics",
+      "url": "https://www.cbc.ca/news/politics/canadian-intern-nato-spying-9.7283752?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian intern at NATO military headquarters in Belgium faces spying charges",
+      "excerpt": "A Canadian woman who was an intern at NATO's military headquarters in Belgium has been arrested on spying charges, Belgian prosecutors say.",
+      "cat": "National defence"
+    },
     {
       "id": "92c7a86b2e8004ac",
       "date": "2026-07-25",
