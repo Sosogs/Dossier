@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T21:45:21.851Z",
-  "count": 358,
+  "generatedAt": "2026-07-25T07:34:34.264Z",
+  "count": 363,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,61 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "258fd3e85526d939",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/edmonton/elections-alberta-separation-petition-verified-9.7283199?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Elections Alberta verifies signatures for petition calling for independence referendum",
+      "excerpt": "Elections Alberta has verified the signatures for a citizen initiative petition looking to force a vote on whether the province should separate from Canada.",
+      "cat": "Economy"
+    },
+    {
+      "id": "7673979f4b5c6d81",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/calgary/banff-national-park-grizzly-bear-charges-9.7282811?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Parks Canada charges hikers after grizzly bear run-in with off-leash dog in Banff National Park",
+      "excerpt": "A pair of hikers with an off-leash dog were charged after coming close to a well-known grizzly bear on a popular hiking trail in Banff National Park.",
+      "cat": "Transportation"
+    },
+    {
+      "id": "50b7b2be92a1f8eb",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/north/nunavut-mp-followed-ethics-rules-after-interest-in-firm-placed-in-trust-experts-say-9.7283377?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Nunavut MP followed ethics rules after interest in firm placed in trust, experts say",
+      "excerpt": "Nunavut Liberal MP Lori Idlout didn't break any laws as she put as she put her stake in Ottawa-based consulting company in a trust, but a democracy watchdog says she might have still acted unethically.",
+      "cat": "Justice"
+    },
+    {
+      "id": "11fea80ed817dbea",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/the-odyssey-gta-frenzy-9.7283358?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "It was supposed to be an epic movie-going experience of The Odyssey. Then, the projector broke",
+      "excerpt": "Christopher Nolan's The Odyssey has spurred a frenzy amongst movie lovers trying to see it in Imax 70-mm, widely considered the highest quality cinematic format. But for some, excitement turned to disappointment when a…",
+      "cat": "Economy"
+    },
+    {
+      "id": "0dba5d253436a539",
+      "date": "2026-07-24",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/sports/baseball/mlb/toronto-blue-jays-barger-season-ending-2026-9.7283268?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Blue Jays' Addison Barger's season officially ended by surgery on right elbow",
+      "excerpt": "Addison Barger will undergo season-ending surgery on his right elbow.",
+      "cat": "Economy"
+    },
     {
       "id": "f9104a5bdb6905e5",
       "date": "2026-07-24",
