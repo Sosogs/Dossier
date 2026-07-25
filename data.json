@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T07:34:34.264Z",
-  "count": 363,
+  "generatedAt": "2026-07-25T15:47:08.212Z",
+  "count": 367,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,50 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "92c7a86b2e8004ac",
+      "date": "2026-07-25",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/billy-bishop-airport-federal-government-9.7283568?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal government says it won't support Ontario's Billy Bishop Airport expansion plans",
+      "excerpt": "The federal government says it won't support Ontario Premier Doug Ford's plan to expand Billy Bishop Airport to allow jets to take off and land there.",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "1593c05417fbf990",
+      "date": "2026-07-25",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-pioneer-cemeteries-coastal-erosion-9.7280918?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Some of P.E.I.'s oldest cemeteries are slowly being lost to the sea",
+      "excerpt": "Some of Prince Edward Island’s oldest cemeteries are increasingly at risk as coastal erosion eats away at the land beneath burial grounds that date back more than two centuries.",
+      "cat": "Economy"
+    },
+    {
+      "id": "6f924773ae8e1505",
+      "date": "2026-07-25",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/politics/canada-grocery-competition-carney-food-strategy-funding-food-hubs-food-terminal-9.7282701?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada's got a grocery competition problem. Are local food hubs the answer?",
+      "excerpt": "The Carney government's national food security strategy aims to both empower farmers and reduce consolidation by pledging a 10-year, $1-billion fund to establish as many as 40 local food hubs across the country. While…",
+      "cat": "Public safety"
+    },
+    {
+      "id": "ca22839e978022d3",
+      "date": "2026-07-25",
+      "src": "CBC Canada",
+      "url": "https://www.cbc.ca/news/canada/toronto/canadian-blood-services-public-appeal-donations-9.7282827?cmp=rss",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian Blood Services supply drops nearly 20% since June, prompting call for urgent blood donations",
+      "excerpt": "Canadian Blood Services is appealing for people across the country to donate blood, saying its supply has dropped significantly in the last several weeks.",
+      "cat": "Economy"
+    },
     {
       "id": "258fd3e85526d939",
       "date": "2026-07-24",
