@@ -55,35 +55,40 @@ const { categories: CATEGORIES, types: TYPES } = loadTaxonomy();
 const GC = (dept) =>
   `https://api.io.canada.ca/io-server/gc/news/en/v2?dept=${dept}&sort=publishedDate&orderBy=desc&pick=50&format=atom`;
 
-// All-of-government newsroom (no dept filter) — our best shot at the whole
-// official record in one feed. Also supports publishedDate>=YYYY-MM-DD for the
-// future mandate backfill.
+// All-of-government newsroom (no dept filter) — the whole official record in one
+// feed. Also supports publishedDate>=YYYY-MM-DD for the future mandate backfill.
 const GC_ALL =
   "https://api.io.canada.ca/io-server/gc/news/en/v2?sort=publishedDate&orderBy=desc&pick=100&format=atom";
+
+// Google News feed builder — reliable from anywhere; links out to the source.
+const GNEWS = (query, lang = "en") =>
+  `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=${lang}-CA&gl=CA&ceid=CA:${lang}`;
 
 const FEEDS = [
   // ===== OFFICIAL RECORD — the spine =====
   { src: "Government of Canada", url: GC_ALL, kind: "official", type: "Announcement" },
 
-  // Named departments (proper attribution + acronym). The first live run's log
-  // shows which dept codes actually return data; we keep the winners.
+  // Confirmed-working department feeds (proper attribution + depth):
   { src: "Immigration, Refugees and Citizenship Canada", url: GC("departmentofcitizenshipandimmigration"), kind: "official", type: "Announcement" },
-  { src: "Department of Finance Canada",                  url: GC("departmentoffinancecanada"),             kind: "official", type: "Spending" },
-  { src: "Department of National Defence",                url: GC("departmentofnationaldefence"),           kind: "official", type: "Announcement" },
-  { src: "Global Affairs Canada",                         url: GC("foreignaffairstradeanddevelopmentcanada"), kind: "official", type: "International agreement" },
-  { src: "Health Canada",                                 url: GC("healthcanada"),                          kind: "official", type: "Announcement" },
-  { src: "Department of Justice Canada",                  url: GC("departmentofjustice"),                   kind: "official", type: "Announcement" },
   { src: "Public Safety Canada",                          url: GC("publicsafetycanada"),                    kind: "official", type: "Announcement" },
-  { src: "Environment and Climate Change Canada",         url: GC("environmentandclimatechangecanada"),     kind: "official", type: "Regulation" },
   { src: "Natural Resources Canada",                      url: GC("naturalresourcescanada"),                kind: "official", type: "Announcement" },
   { src: "Innovation, Science and Economic Development Canada", url: GC("departmentofindustry"),            kind: "official", type: "Spending" },
-  { src: "Transport Canada",                              url: GC("transportcanada"),                       kind: "official", type: "Regulation" },
-  { src: "Employment and Social Development Canada",       url: GC("employmentandsocialdevelopmentcanada"),  kind: "official", type: "Announcement" },
   { src: "Indigenous Services Canada",                    url: GC("indigenousservicescanada"),              kind: "official", type: "Announcement" },
-  { src: "Housing, Infrastructure and Communities Canada", url: GC("infrastructurecanada"),                 kind: "official", type: "Spending" },
+
+  // Wrong dept codes (returned 0). Their releases still arrive via the all-of-
+  // government feed above; re-enable once each correct code is confirmed:
+  // { src: "Department of Finance Canada",   url: GC("<code>"), kind:"official", type:"Spending" },
+  // { src: "Department of National Defence", url: GC("<code>"), kind:"official", type:"Announcement" },
+  // { src: "Global Affairs Canada",          url: GC("<code>"), kind:"official", type:"International agreement" },
+  // { src: "Health Canada",                  url: GC("<code>"), kind:"official", type:"Announcement" },
+  // { src: "Department of Justice Canada",   url: GC("<code>"), kind:"official", type:"Announcement" },
+  // { src: "Environment and Climate Change Canada", url: GC("<code>"), kind:"official", type:"Regulation" },
+  // { src: "Transport Canada",               url: GC("<code>"), kind:"official", type:"Regulation" },
+  // { src: "Employment and Social Development Canada", url: GC("<code>"), kind:"official", type:"Announcement" },
+  // { src: "Housing, Infrastructure and Communities Canada", url: GC("<code>"), kind:"official", type:"Spending" },
 
   // ===== NEWS — thin secondary layer (headline + short excerpt + link) =====
-  { src: "CBC Politics", url: "https://rss.cbc.ca/lineup/politics.xml", kind: "news", type: "Announcement" },
+  { src: "Canadian politics (via Google News)", url: GNEWS("Carney government Canada federal"), kind: "news", type: "Announcement" },
 ];
 
 /* ----------------------------------------------------------------------------
