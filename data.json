@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T09:01:11.504Z",
-  "count": 775,
+  "generatedAt": "2026-07-26T15:47:21.024Z",
+  "count": 778,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -7408,6 +7408,17 @@
       "cat": "Economy"
     },
     {
+      "id": "1ac9118e596a0d0c",
+      "date": "2026-05-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVQtZk91bFlaTGI4SUVRQm9uSzN2VVhlVGI3RS1sSDNQLVQ1UmVCR3htTHJYMzlSQUtFOEpJdW5kdmVfOUNwZTdDNWhRTmdvQk05UG9qVEt3RUN1TzRTcHAxVV9oVHgzMEdDcGZ2S0RlUmoyY3JzN0xncDYtRkg1NUVDM0ZXbDhfZGVDdXRTMTU5b2NnZWZaZnpVSjVZa0g0WHI4am1fSQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "The next big climate policy moment: unveiling of federal vehicle regulations - Canadian Climate Institute",
+      "excerpt": "The next big climate policy moment: unveiling of federal vehicle regulations Canadian Climate Institute",
+      "cat": "Sustainable development"
+    },
+    {
       "id": "e83d5d8b16947edf",
       "date": "2026-05-29",
       "src": "Indigenous Services Canada (ISC)",
@@ -7867,6 +7878,17 @@
       "ai": true
     },
     {
+      "id": "9080983a266df439",
+      "date": "2026-05-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0p4YXhrbEhCY0w2YmMtZEZUazBacFl3UVNDNzI3N19uMEJRMnJPU0FsRzEwb1c3THRONHdZV2VDZUdSY2xoX2RnS2twT2ZvV1JZSmhpMjI1Zkh3TjlOQTNoTVhvX3VENEhYZU54VWlpM0p0RzFfMDcxQnlKQUZrVkZRbDQzc1FyclAyTGFTVkZZM09oRTBDeWYwZ2hvbTB0TzVaNWRLYWJwcTZVbXg5S3p3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "‘Build Canada Homes’ remains clear as mud despite Carney government claims - Fraser Institute",
+      "excerpt": "‘Build Canada Homes’ remains clear as mud despite Carney government claims Fraser Institute",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "e2f599cafed71b72",
       "date": "2026-05-05",
       "src": "Public Safety Canada (PS)",
@@ -8191,6 +8213,17 @@
       "sum": "Minister Diab marked the end of Citizenship Week 2026 by welcoming new Canadian citizens. The week provided an opportunity to reflect on Canadian identity, celebrate newcomers, and recognize Indigenous Peoples.",
       "cat": "Indigenous services",
       "ai": true
+    },
+    {
+      "id": "bba2533edf2af3b3",
+      "date": "2026-04-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY0ctOWpaVXB2ZFprSE01MXlDcnkwWGNDNUFUVy16bUFqX1ZCdHE5YjBVanFER1VvcENNaEsyYlhWc0VqMURONmgwWlVaZlNfb21wcURrMUFPeUFxWUdQaThOX0Q3UnpIYVFhdXpoUkZNSDh5RG83VlNzdVFYTWJTdDFsSExPUmc2TDA3MV9B?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mark Carney’s Year Two: Results as a National Imperative - Policy Magazine",
+      "excerpt": "Mark Carney’s Year Two: Results as a National Imperative Policy Magazine",
+      "cat": "Economy"
     },
     {
       "id": "033e5e08b402c035",
