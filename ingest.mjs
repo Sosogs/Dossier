@@ -53,39 +53,37 @@ const { categories: CATEGORIES, types: TYPES } = loadTaxonomy();
  *    swap the `dept=` code to point at other departments.
  * --------------------------------------------------------------------------*/
 const GC = (dept) =>
-  `https://api.io.canada.ca/io-server/gc/news/en/v2?dept=${dept}&sort=publishedDate&orderBy=desc&pick=25&format=atom`;
+  `https://api.io.canada.ca/io-server/gc/news/en/v2?dept=${dept}&sort=publishedDate&orderBy=desc&pick=50&format=atom`;
 
-// Google News feed builder — pull ANY outlet or topic, free, links out to the source.
-//   GNEWS("allinurl:reuters.com Canada government")  -> Reuters coverage via Google
-//   GNEWS("Carney government Canada")                -> all outlets, by topic
-const GNEWS = (query) =>
-  `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-CA&gl=CA&ceid=CA:en`;
+// All-of-government newsroom (no dept filter) — our best shot at the whole
+// official record in one feed. Also supports publishedDate>=YYYY-MM-DD for the
+// future mandate backfill.
+const GC_ALL =
+  "https://api.io.canada.ca/io-server/gc/news/en/v2?sort=publishedDate&orderBy=desc&pick=100&format=atom";
 
 const FEEDS = [
-  // ---- Official government sources (rewritten into a plain-language summary) ----
-  { src: "Immigration, Refugees and Citizenship Canada",
-    url: GC("departmentofcitizenshipandimmigration"), kind: "official", type: "Announcement" },
+  // ===== OFFICIAL RECORD — the spine =====
+  { src: "Government of Canada", url: GC_ALL, kind: "official", type: "Announcement" },
 
-  // ---- News sources (kept as headline + SHORT excerpt + link) ----
+  // Named departments (proper attribution + acronym). The first live run's log
+  // shows which dept codes actually return data; we keep the winners.
+  { src: "Immigration, Refugees and Citizenship Canada", url: GC("departmentofcitizenshipandimmigration"), kind: "official", type: "Announcement" },
+  { src: "Department of Finance Canada",                  url: GC("departmentoffinancecanada"),             kind: "official", type: "Spending" },
+  { src: "Department of National Defence",                url: GC("departmentofnationaldefence"),           kind: "official", type: "Announcement" },
+  { src: "Global Affairs Canada",                         url: GC("foreignaffairstradeanddevelopmentcanada"), kind: "official", type: "International agreement" },
+  { src: "Health Canada",                                 url: GC("healthcanada"),                          kind: "official", type: "Announcement" },
+  { src: "Department of Justice Canada",                  url: GC("departmentofjustice"),                   kind: "official", type: "Announcement" },
+  { src: "Public Safety Canada",                          url: GC("publicsafetycanada"),                    kind: "official", type: "Announcement" },
+  { src: "Environment and Climate Change Canada",         url: GC("environmentandclimatechangecanada"),     kind: "official", type: "Regulation" },
+  { src: "Natural Resources Canada",                      url: GC("naturalresourcescanada"),                kind: "official", type: "Announcement" },
+  { src: "Innovation, Science and Economic Development Canada", url: GC("departmentofindustry"),            kind: "official", type: "Spending" },
+  { src: "Transport Canada",                              url: GC("transportcanada"),                       kind: "official", type: "Regulation" },
+  { src: "Employment and Social Development Canada",       url: GC("employmentandsocialdevelopmentcanada"),  kind: "official", type: "Announcement" },
+  { src: "Indigenous Services Canada",                    url: GC("indigenousservicescanada"),              kind: "official", type: "Announcement" },
+  { src: "Housing, Infrastructure and Communities Canada", url: GC("infrastructurecanada"),                 kind: "official", type: "Spending" },
+
+  // ===== NEWS — thin secondary layer (headline + short excerpt + link) =====
   { src: "CBC Politics", url: "https://rss.cbc.ca/lineup/politics.xml", kind: "news", type: "Announcement" },
-  { src: "CBC Canada",   url: "https://rss.cbc.ca/lineup/canada.xml",   kind: "news", type: "Announcement" },
-  { src: "Reuters (via Google News)", url: GNEWS("allinurl:reuters.com Canada government OR Carney"), kind: "news", type: "Announcement" },
-
-  // ---- Add more by removing the // in front of a line ----
-  // { src: "Associated Press (via Google News)", url: GNEWS("allinurl:apnews.com Canada"),          kind:"news", type:"Announcement" },
-  // { src: "Topic: Carney government (all outlets)", url: GNEWS("Carney government Canada"),         kind:"news", type:"Announcement" },
-  // { src: "Radio-Canada — Politique", url: "https://ici.radio-canada.ca/rss/4159",                 kind:"news", type:"Announcement" }, // confirm current URL
-
-  // La Presse: their RSS terms allow PERSONAL use only and exclude commercial/
-  // political/promotional use. Check it's acceptable for your project before
-  // enabling. Pattern: https://www.lapresse.ca/[section]/rss
-  // { src: "La Presse — Actualités", url: "https://www.lapresse.ca/actualites/rss",                 kind:"news", type:"Announcement" },
-
-  // More official feeds — grab each exact URL from its /news/rss page:
-  // { src: "Prime Minister of Canada",  url: "<from https://www.pm.gc.ca/en/connect/rss>",          kind:"official", type:"Announcement" },
-  // { src: "Global Affairs Canada",     url: "<from international.canada.ca/.../news/rss>",          kind:"official", type:"Announcement" },
-  // { src: "Department of Finance",     url: GC("departmentoffinancecanada"),                       kind:"official", type:"Spending" },
-  // { src: "Canada Gazette, Part II",   url: "<from https://gazette.gc.ca/rss/sc-rb-eng.html>",     kind:"official", type:"Regulation" },
 ];
 
 /* ----------------------------------------------------------------------------
@@ -185,12 +183,36 @@ Text:
 /* ----------------------------------------------------------------------------
  * 6. NORMALIZE one feed item into the record schema the UI reads
  * --------------------------------------------------------------------------*/
+// Common acronyms so a reader searching "IRCC", "RCMP", "CRA" etc. finds the entry.
+const SRC_ACRONYMS = {
+  "Immigration, Refugees and Citizenship Canada": "IRCC",
+  "Department of Finance Canada": "Finance",
+  "Department of National Defence": "DND",
+  "Global Affairs Canada": "GAC",
+  "Health Canada": "HC",
+  "Department of Justice Canada": "Justice",
+  "Public Safety Canada": "PS",
+  "Environment and Climate Change Canada": "ECCC",
+  "Natural Resources Canada": "NRCan",
+  "Innovation, Science and Economic Development Canada": "ISED",
+  "Transport Canada": "TC",
+  "Employment and Social Development Canada": "ESDC",
+  "Indigenous Services Canada": "ISC",
+  "Housing, Infrastructure and Communities Canada": "HICC",
+  "Canada Revenue Agency": "CRA",
+  "Royal Canadian Mounted Police": "RCMP"
+};
+function withAcronym(src) {
+  const a = SRC_ACRONYMS[src];
+  return a && !src.includes(`(${a})`) ? `${src} (${a})` : src;
+}
+
 function normalize(item, feed) {
   const link = item.link || item.guid || "";
   const id = hashId(link || feed.src + (item.title || ""));
   const title = stripHtml(item.title || "Untitled");
   const body = item.contentSnippet || item.content || item.summary || "";
-  const base = { id, date: toDate(item), src: feed.src, url: link, type: feed.type, kind: feed.kind };
+  const base = { id, date: toDate(item), src: withAcronym(feed.src), url: link, type: feed.type, kind: feed.kind };
   if (feed.kind === "news") {
     base.title = title;
     base.excerpt = truncate(body, NEWS_EXCERPT_CHARS);   // short excerpt only
@@ -310,6 +332,7 @@ async function run() {
   }
   merged.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
   const items = merged.slice(0, MAX_ITEMS);
+  for (const it of items) it.src = withAcronym(it.src);   // backfill acronyms onto older entries
 
   const out = {
     generatedAt: new Date().toISOString(),
