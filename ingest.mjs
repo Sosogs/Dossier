@@ -91,7 +91,7 @@ const FEEDS = [
  * --------------------------------------------------------------------------*/
 const OUT_FILE = "data.json";
 const CUSTOM_FILE = "custom-posts.json";   // your hand-written entries (see README)
-const MAX_ITEMS = 500;                     // cap stored records
+const MAX_ITEMS = 2000;                    // cap stored records (paging comes with the full archive)
 const NEWS_EXCERPT_CHARS = 220;            // keep news excerpts short by design
 const OFFICIAL_SUMMARY_CHARS = 420;
 const MODEL = process.env.MODEL || "claude-haiku-4-5-20251001";  // cheapest tier; set MODEL env to "claude-sonnet-4-6" for higher quality
@@ -99,7 +99,13 @@ const NO_AI = process.argv.includes("--no-ai");
 const TEST = process.argv.includes("--test");
 const USE_AI = !NO_AI && !!process.env.ANTHROPIC_API_KEY;
 
-const parser = new Parser({ timeout: 15000 });
+const parser = new Parser({
+  timeout: 20000,
+  headers: {
+    "User-Agent": "Mozilla/5.0 (compatible; DossierBot/1.0; +https://thedossier.ca)",
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5"
+  }
+});
 
 /* ----------------------------------------------------------------------------
  * 4. HELPERS
@@ -259,6 +265,7 @@ async function pullFresh(seen) {
   for (const s of sources) {
     try {
       const parsed = s.xml ? await parser.parseString(s.xml) : await parser.parseURL(s.feed.url);
+      const pulled = (parsed.items || []).length;
       let added = 0;
       for (const item of parsed.items || []) {
         const rec = normalize(item, s.feed);
@@ -267,7 +274,7 @@ async function pullFresh(seen) {
         fresh.push(rec);
         added++;
       }
-      console.log(`  ${s.feed.src}: ${added} new`);
+      console.log(`  ${s.feed.src}: pulled ${pulled}, ${added} new`);
     } catch (e) {
       console.warn(`  ${s.feed.src}: FAILED — ${e.message}`);
     }
