@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T03:02:03.361Z",
-  "count": 671,
+  "generatedAt": "2026-07-26T03:11:56.462Z",
+  "count": 771,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -45,6 +45,61 @@
       "sum": "The Government of Canada and the Ismaili Council for Canada have signed a memorandum of understanding to work together on identifying and developing affordable housing projects across Canada.",
       "cat": "Housing",
       "ai": true
+    },
+    {
+      "id": "f2daae6afc36b171",
+      "date": "2026-07-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uTWRMMmFBby1NY2J2bTViZVpnZG1Ubzg1UFRwUTRPczdrbFNRelhKLWpBR0ZESnNidlE0UllCY09TVTFoSkhOclVTakRxYUlzX2tDVzdXMEgxUzRhS2xjZ1pUSmNpSHNTd2NHbWx0TFhtNk9FM2c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Inside the private Muskoka conference that lures Canada’s movers and shakers – including Mark Carney - The Globe and Mail",
+      "excerpt": "Inside the private Muskoka conference that lures Canada’s movers and shakers – including Mark Carney The Globe and Mail",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "6a04fee81f0912b2",
+      "date": "2026-07-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNell4Qi1jenpJeE5jMnlMQWZxS3dveTBTbUtvSENnMk54VTh1SFlqQ0VMeWRDTmt3bkhIRk9zYmJkVThFbWVYN2tUZzB0b3lnNzQ3akZOQURpQ0pJZ3pBUklTMlA3ZUduamNmbWFWVFEtZVdjaXB4RGJpbmZwaERRTUZTSGtXR1U?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada injects major funding into sports - Inside The Games",
+      "excerpt": "Canada injects major funding into sports Inside The Games",
+      "cat": "Economy"
+    },
+    {
+      "id": "4f0f58cca20262db",
+      "date": "2026-07-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEtyVjBNUmM4Q3prSzdRZjVxT2wxYzM0c3JCSWFhRDNMemktLS1LLXlHTDRPMjZqQ1hBejQ2dkpCMGU2SHJEa0FXNV9ZRGFSYVBkckZhSjZuSlpzNDlqOFMzVzlFVy1seDBqUWhOQlc4eV91YkxSZUpJSERkcEhwZkNWUDNaamY3YWpJbFhaWWNUWmJ0UW1qZG5tTHJDTGE1VVhXS0JrWnVkb3NsaTBuZGMxUVNlcTNwTUxOR3VPUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada's got a grocery competition problem. Are local food hubs the answer? - CBC",
+      "excerpt": "Canada's got a grocery competition problem. Are local food hubs the answer? CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "07c1b2f6b12a9d33",
+      "date": "2026-07-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzJiengzSGpGdWN3OHA4Zy1rTWpxa1h6c2lhX1NfOXdoXzF0MlNqT3pmZGN1RWN0RERRd3JmNVUwaWdxTXh3SDlpQlJyb1ZJUFF2ZjlLUHhISHkxRE1GX2tnZ0ZZeFhPUWdKX0dnYWF2V19ON2MyVHIyUVU2TENHMjFIT0IxbmtkS1Ftd0c0eUt6Zw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal government says it won't support Ontario's Billy Bishop Airport expansion plans - CBC",
+      "excerpt": "Federal government says it won't support Ontario's Billy Bishop Airport expansion plans CBC",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "a77b662f02aba268",
+      "date": "2026-07-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWXFVM0Z5dThwR0lHY0tNNHZvU2s5RmUzaUVRcXlvZk5LcDJ0azNMNm5JVjhrSVpjVkxmUUlrQzBPY3FpSXktYU85OUlmYUI4NjdFVnlEZWpzN2lobHVsbl9wOFpJb00tY2ZyS3R4WlVRNzVnTDBpSm9VdGN0NHBVamxYbDc4NDRpM1ZUeDJ0YjhxOUxwNlhsRw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal government declines to allow jets at Billy Bishop airport ‘at this stage’ - The Globe and Mail",
+      "excerpt": "Federal government declines to allow jets at Billy Bishop airport ‘at this stage’ The Globe and Mail",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "358c403637337e08",
@@ -111,6 +166,50 @@
       "kind": "news",
       "title": "Canadian Blood Services supply drops nearly 20% since June, prompting call for urgent blood donations",
       "excerpt": "Canadian Blood Services is appealing for people across the country to donate blood, saying its supply has dropped significantly in the last several weeks.",
+      "cat": "Economy"
+    },
+    {
+      "id": "7f7e617e0f6cd741",
+      "date": "2026-07-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTGllNGZpWjF4TDNZSnk0aHM3eFc5S2wwdG5KenF0OGJ5VFd0RFFYQjlVeDJ6cEtZV3YxcWszOTczckZWanVUc0lfNlhsdzBLZmlreDk2MkRQVDlpTGJhWUZ6azJaRjB2a2FwWFkzVEYxNGM5Z3lOUngzYm1TZ0F2VmJPYXJnSUE0eHc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadians want to fight. Their prime minister might need to let them - Canada's National Observer",
+      "excerpt": "Canadians want to fight. Their prime minister might need to let them Canada's National Observer",
+      "cat": "Economy"
+    },
+    {
+      "id": "ae0570fdb02cb76d",
+      "date": "2026-07-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmV2ZURyQlhuelBQQnQ3UmEyUzEyb2JGZ1EwYndiTkxHR0tDSW9ITkwycU5CZVRKM3M5WTJ2ZDN5OFhBdl9uZFJrRWxrM0U1V0lDN1pXYkxnSHJsYWFQV3Q5cEl3aGw5X3dvN3c2ZldTQVlsNHFMblZnLVVjSTBIM3VOXzBFUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Public funding for fossil fuel industry breaks another Liberal climate promise, advocates say - CBC",
+      "excerpt": "Public funding for fossil fuel industry breaks another Liberal climate promise, advocates say CBC",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "d2e611f5a53864c4",
+      "date": "2026-07-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3V6WVRubFRKTm5MTm5ibTdnVlF4QzMwaWhGaFlWZi1sWVFrX1QzQ0NlVGVQNVgwdGE1MWpyeGtOeDQ4c210c2t0Y0JvWkxBWkE0Sm9KTzl5cVVtWE5TQlpPNFp4TVNyalR3LTlXcmR0RUl3MnZJTEJqUjA3S3JDekRPb09BRDJYNFk3d2h6SjdwTTlmeTR4RnVmbzA0Q2VWOVc4cW1hTUVrcFBpcjNzQUpqSXRQMkh1MUpTZVdVbFhTTlo4VDNFekFNZzg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian government urged to block Thomson Reuters data deal with US ICE - The Guardian",
+      "excerpt": "Canadian government urged to block Thomson Reuters data deal with US ICE The Guardian",
+      "cat": "Economy"
+    },
+    {
+      "id": "c487cb8c9c8b04aa",
+      "date": "2026-07-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWNraUREMFBGNDF4SDRCVHd3WWllandrYnU1SEsxemsxcVFUR0JLaTBkeDFERTlreGZLbl9LREh5bjBYdy1XUEZua1gteWRYaFJmcHBfdTVLVHF5UmVZRVRzNlRkY3VfaHg1Y3RKZGMxa1I1NWxVb0dreDBBQmN3aUU0d08tSnF4R2NyeENGd0MxVGdoenk5M3B0MU1aclRkRGt6Mm1CYVJTeVRQTEJ2VG9ZRm83NUJuVUotWDQ0dnozb0Z1MHZ1Mw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "‘Everything is on the table’ in U.S. trade talks: PM Carney; Trump hits Canada with 10% tariffs - CTV News",
+      "excerpt": "‘Everything is on the table’ in U.S. trade talks: PM Carney; Trump hits Canada with 10% tariffs CTV News",
       "cat": "Economy"
     },
     {
@@ -568,6 +667,50 @@
       "title": "WestJet allowing passengers to change or cancel certain flights due to threat of strike",
       "excerpt": "WestJet is giving passengers with bookings from July 30 to Aug. 4 the opportunity to cancel or change their flights for free in light of the ongoing labour dispute with flight attendants.",
       "cat": "Transportation"
+    },
+    {
+      "id": "1716ba01f54df543",
+      "date": "2026-07-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzRqRWF3VFlxT01jeV9LOE9ha3RQY2VKUGlkQnFZdU1peWhJTFFvaFowMmNZeU5BZXQ1OWNtRVh3NGpieU1SVXY1dXV3ZWJFSVpVMkV5UnlTUXpPUE9RTk84aEE5ai16Y3FxNWYyOVhwOUUtRGxLVEtxekRsY0g5Z1JMWnZmZjJ6YzJRRGpfTk8?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ottawa halved federal emergency centre staff before wildfire season: union - Global News",
+      "excerpt": "Ottawa halved federal emergency centre staff before wildfire season: union Global News",
+      "cat": "Public safety"
+    },
+    {
+      "id": "4cc7c34564a4ca38",
+      "date": "2026-07-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHBtZUZtbHVtRjNBT2NCV0xDb05QalplN1AyLW1KS0VSWElCMVhTRzAyYmlmWlZ3cHpwWlh2NTMzR1QzWm5wWWtsX19vTzVmRWZmZld6Tk53TkhXa3R2ekdoQk1vWDFLay1JeXAwVVppbWw5eUJRZk5WdjFaZ3lOeVZNUnZGZG9NZ1QzNG9NOWh5WVQ3S0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney, premiers to meet amid new U.S. tariff threats - CityNews Toronto",
+      "excerpt": "Carney, premiers to meet amid new U.S. tariff threats CityNews Toronto",
+      "cat": "Economy"
+    },
+    {
+      "id": "76cc8058be7d7af3",
+      "date": "2026-07-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ueHNVbE9FaGlncWNRcXEzV1RXQzdPV1hGZmM1NjZsNWExQnJTdUR2XzNZUXJPQ21iU20yNmJkanFENnFIZEt4bTlpRUQzQ1FHdVJramx6Y2lFRUVNV0FQRmh1aUs3NVhwMzZrMUFLblFTQ3ZNU0V2eA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney defends Gordie Howe bridge deal as opposition seeks committee probe - Global News",
+      "excerpt": "Carney defends Gordie Howe bridge deal as opposition seeks committee probe Global News",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "20af03ab25901aaa",
+      "date": "2026-07-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVUJfdUJRU3RVZVExYXNVWnBrZTBVTzdLUkNpUjNOU042RDZOM1lTaUtJakhmbTdIcDZHOEw5Y1FiUUVrV09XcWxkZ0lYN0NZX0E0LXYtRVhPZG9MX19XdlNJcVFDWlBzWHpORThjbW9relpBTVlNNllzQ1FPR0w2QzN2T3lCTklmbTNPbjNwRFJxa1BmbFVFTmpjOWt0NE5fTXRKU09LRnV4ZHBwOGREVWlCM0NXd3Bya0VhVGpsYkZaamFNbHAyNHRLZkNWNWlpZXNVS9IB5wFBVV95cUxQbEllUXJCQzNfQ1FURUFqdVRyWmh6eWVxeVRHelFXWnVsM1hpbzBjX3JFLVFnVnFyY0JiSWREY25xOWY5NUVPQnpKNnRzNDZoRVlHQU05WUJsLUlDVzVHbkF0Ml8zQl9BbzhiZXJwZmpIcUROeGNxajNuVEk1bDhKZ2xTcmZ2UU96MWRnbm12REtYMzRaWmVxblBjbXNoX0VDZUdhZld1MGpzTUF2MmFVbi13NlJTQ0hrYTY3QS1ucEFTcWxxZ3NTRWhVQzh2REpRRVBKSDFqSlZ5VkdiNUpsWTVCcndvMmM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney says Canada is ready to respond if Trump's new tariffs go into effect - Gulf News",
+      "excerpt": "Prime Minister Carney says Canada is ready to respond if Trump's new tariffs go into effect Gulf News",
+      "cat": "Economy"
     },
     {
       "id": "41738c13eccc0d99",
@@ -1270,6 +1413,94 @@
       "title": "Alberta craft alcohol producers welcome direct-to-consumer deal",
       "excerpt": "On Tuesday, premiers from nine provinces signed a landmark agreement to implement direct-to-consumer alcohol sales, allowing Canadians to order alcohol directly from producers in participating provinces for personal…",
       "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "281fff22bbf8050d",
+      "date": "2026-07-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3F2aV9sWEVXcEF6YnE3S3FhU19oNVFzMjAzUXJsVmZhdjVWSmtDc1h1ZDFTMXl3a2dtcGMwQ1ZCWWlucUd4UF9kaWdaUFYzOXhGNFFHY2hYQlpqbWl6WmZXYjJxdEdESGQ2a3Q2azVTR182LS0wYThVWjU1ZDNHRTYxdFcwX0c5bldaRA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government cut nearly half the jobs at nerve centre for managing wildfires: union - Ottawa Citizen",
+      "excerpt": "Carney government cut nearly half the jobs at nerve centre for managing wildfires: union Ottawa Citizen",
+      "cat": "Economy"
+    },
+    {
+      "id": "32d4bbb9dee17e79",
+      "date": "2026-07-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GRHNsQUw2YXUteGQ1czd4OE5uUVVtclhFZ0ZubGJ3dk81cDZ4Zmt3UTVYWWlCamg3WHNkZVEtdjRuVS11MmxkME9LTktKbTJmUjNGUUNOMTFTT3V0MWhrWVhCZngzQ2hiaVVtbW5rM1lxeG9qRDVaVUZhOTI?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney is serious about privatizing airports, Australian pension executive says - Financial Post",
+      "excerpt": "Carney is serious about privatizing airports, Australian pension executive says Financial Post",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "be47730e58e4958c",
+      "date": "2026-07-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFZFa2ZQaE90a3AtUWhUSUVTSXFjcG4yakFwZ2JuRnJ5VTVXOEU1Q2xWSUZPcUhWVlRwaUFZZWV4dHU0eHhVcEpvSmRnbUFodzFwSE9TQzBMdUxYc1dGa08tZkpwMmEzbmpkdVJwZTltSmNaZmswYlBUTlF5R1RSSXMtdXgxWWhwVHI3QzZ2STd4RGx6aUpHNDhRTEhQaTk2WDh0WTJDZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Mark Carney announces $1-billion investment in sport - Canadian Running Magazine",
+      "excerpt": "Prime Minister Mark Carney announces $1-billion investment in sport Canadian Running Magazine",
+      "cat": "Economy"
+    },
+    {
+      "id": "9ff8443376028332",
+      "date": "2026-07-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84UjdzX2lEQTZDRHJaZmVPRVhWV3AwNmNIbmFGTTJpWXFkSWhDbTNDaEdmVFN6M2o4ZUxHZXBGS0M3NnBnU1JGZHpKU2hzYkFIZ0tjTzhLNVpGWFE0QW52RV8yS19iOS02M1F5a3M1ZU5ZdjVPWUE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney’s major projects plan is a misguided approach - CUPE",
+      "excerpt": "Carney’s major projects plan is a misguided approach CUPE",
+      "cat": "Economy"
+    },
+    {
+      "id": "ad2ef760061d62d7",
+      "date": "2026-07-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43RUlyeTZrRmNoMGRmQTl0NlFpUzFmSy1zaV9GWFItcmtKUjVRZ1QyM21UblVKbXVudFNtU0ZhS3ZxZ0dxYmRtQng2NF80b1pLZmJOWWtHYTMwLW1qNXFXTmRNcmdqQlhpX25CNEpNemtWbTFrblk4Nw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Gordie Howe bridge revenue-sharing agreement appears to contradict Carney - Global News",
+      "excerpt": "Gordie Howe bridge revenue-sharing agreement appears to contradict Carney Global News",
+      "cat": "Finance"
+    },
+    {
+      "id": "bc7ef7fb8bc73662",
+      "date": "2026-07-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdm1nZ3J0eVk4Tm5ZR3IwaTEyVXYyNTVOcXZWRzB4cC00bFhRZXNqVHdMdjhCWHUxR2RfWlJGWVF2cElma3B0ODlON0dZdHhHaDB5WFpHMmt1QTNXM3dhOGRYZ1J6cWFIaTNCNWstaHhmTWFDYmlHWlF3Q3FRT1JXbHN3WnF3bGE4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Premiers rally behind Carney, but not everyone is confident a tariff deal is close - CBC",
+      "excerpt": "Premiers rally behind Carney, but not everyone is confident a tariff deal is close CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "346b4d6d6c51e6be",
+      "date": "2026-07-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVJEY1BzUm1NZmJYcklvMXpqVmpfaHAyRGpDN29Wd25fZlY1cVEzQmxQVm9NVTc4VU1zaVR6a001T1VHZlZJb1p2VkVocjRXU1VxZzRSOEMyTmkzMlhpaUZwUk9mOUQzSy1iVXppckJoemJQUElsUTRXdk41VG5OR05wYWppX3Z1TnZNZkNzYk9hdlQ0VnhXVEQwWGYxRGdhS3hwMGw4dw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Text of new Gordie Howe bridge deal seems to contradict Carney - CBC",
+      "excerpt": "Text of new Gordie Howe bridge deal seems to contradict Carney CBC",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "015b00c82e3505a2",
+      "date": "2026-07-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlZlYnR2cW5kUDMxMzZPOXlhWllLS0xfOGsxRDB5UDhSN0VLX3BRYzRvN3lXSDN2MlZtazF1anRqcmFhU0lZQ1RnSG9aNHFhTFlMSldLMkZ3aG9EM3hncDlKS2ZtRlhpQzljQUgzWG80MXpUUFc2UTZmem9DQWpDN25CVDc0U0t4aU1sangwS044QmUta013OUdrVzVkX2hLSEpyNVZOam82MjVmbHgxWTVB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How does the new Gordie Howe bridge deal compare to the original one? - CBC",
+      "excerpt": "How does the new Gordie Howe bridge deal compare to the original one? CBC",
+      "cat": "Infrastructure"
     },
     {
       "id": "94bd425bc5d189f1",
@@ -2500,6 +2731,28 @@
       "cat": "Natural resources"
     },
     {
+      "id": "297e958a9f3382d4",
+      "date": "2026-07-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEFiT3lMSjBMTEVGM0pPdEJoMEJ2cEVwall4TnhYMk5IeER5OVZyb29HZnpiMWlxcG9STExpeUV4UWlmNk5fUC1mNk9BQzhOUm9ETTFTX3psQUxNVFhqMy1fYUl5V2drOEI0N1hGN1lPX1d6c1Q1eTFoczlFcFBGQzZSbU05a2RMZEU0Y1FPUTJSOWtFR0ZyXzZYMHI5SkdkVVFGV1RDaGNoRnBaLWVvWHBDTnZBWU0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "THE JOKE IS ON CANADA: Carney Government Doubling Down on Trudeau’s Failed Fiscal Policy - EnergyNow",
+      "excerpt": "THE JOKE IS ON CANADA: Carney Government Doubling Down on Trudeau’s Failed Fiscal Policy EnergyNow",
+      "cat": "Finance"
+    },
+    {
+      "id": "7bfdc9cc90137308",
+      "date": "2026-07-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQODhvUHJ6b0N0SVo1Rng3Uy1wQVU5dVN5SE9tdlFaZ1BDU3VyYW5pdU54Mk1ONGxrTkhNamhDYVlwYUowS0lrOEE1S1pWYWxwc0FQNjJsRVVFSy1aZnY0bHNXenliREZ0QlEwRUsyQnU5bDh6dmVsbkpwTkQ0X2dvaHNUTmJTOTNWQWNNRmctQlM5dw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mark Carney wants to make Canada more like Norway. He has some work to do - Canada's National Observer",
+      "excerpt": "Mark Carney wants to make Canada more like Norway. He has some work to do Canada's National Observer",
+      "cat": "Economy"
+    },
+    {
       "id": "7d29a24b9ec2b7e8",
       "date": "2026-07-20",
       "src": "Government of Canada",
@@ -2650,9 +2903,10 @@
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/minister-joly-to-announce-plans-to-strengthen-canadas-aerospace-sector.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly to announce plans to strengthen Canada’s aerospace sector",
-      "sum": "The Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions, will announce that the Government of Canada is engaging with Pratt & Whitney Canada to strengthen Canada’s aerospace sector.",
-      "cat": "Economy"
+      "title": "Government to engage with Pratt & Whitney on aerospace sector",
+      "sum": "Minister of Industry Mélanie Joly will announce that the Government of Canada is engaging with Pratt & Whitney Canada to strengthen the aerospace sector.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "6299a24bbd49765e",
@@ -2661,9 +2915,10 @@
       "url": "https://www.canada.ca/en/parks-canada/news/2026/07/government-of-canada-and-partners-acquire-19-hectares-of-former-windsor-raceway-to-contribute-to-proposed-national-urban-park-in-the-windsor-area.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Government of Canada and partners acquire 19 hectares of former Windsor Raceway to contribute to proposed national urban park in the Windsor area",
-      "sum": "Government of Canada and partners acquire 19 hectares of former Windsor Raceway to contribute to proposed national urban park in the Windsor area",
-      "cat": "Economy"
+      "title": "Canada acquires former Windsor Raceway for national urban park",
+      "sum": "The Government of Canada and partners have purchased 19 hectares of land from the former Windsor Raceway. The acquisition is intended to support the development of a proposed national urban park in the Windsor area.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "0417f16d92b81c93",
@@ -2672,9 +2927,10 @@
       "url": "https://www.canada.ca/en/health-canada/news/2026/07/government-of-canada-to-make-announcement-in-support-of-youth-mental-health-in-nova-scotia.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Government of Canada to make announcement in support of youth mental health in Nova Scotia",
-      "sum": "Maggie Chi, Parliamentary Secretary to the Minister of Health, The Honourable Lena Diab, Minister of Immigration, Refugees and Citizenship, and the Honourable Brian Comer, Nova Scotia Minister of Addictions and Mental Health, on behalf of the Honourable Marjorie Michel, Minister of Health will hold a news conference to announce mental health care support to more youth in Nova Scotia.",
-      "cat": "Healthcare"
+      "title": "Canada announces youth mental health support for Nova Scotia",
+      "sum": "Federal and provincial officials will hold a news conference to announce mental health care support services for youth in Nova Scotia. The announcement involves the Parliamentary Secretary to the Minister of Health and provincial health ministers.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "2c96ca8cead72aec",
@@ -2683,9 +2939,10 @@
       "url": "https://www.canada.ca/en/environment-climate-change/news/2026/07/minister-dabrusin-highlights-increased-canada-child-benefit-payments-for-families.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Dabrusin highlights increased Canada Child Benefit payments for families",
-      "sum": "Today in Windsor, the Honourable Julie Dabrusin, Minister of the Environment, Climate Change and Nature, on behalf of the Honourable Anna Gainey, Secretary of State (Children and Youth), is pleased to announce the increased tax-free support the program is delivering to families in 2026-2027.",
-      "cat": "Sustainable development"
+      "title": "Canada Child Benefit payments increase for families in 2026-2027",
+      "sum": "The government is increasing Canada Child Benefit payments, a tax-free support program for families. The increase takes effect in 2026-2027.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "4bb5c84282a1fc3b",
@@ -2694,9 +2951,10 @@
       "url": "https://www.canada.ca/en/treasury-board-secretariat/news/2026/07/the-canada-child-benefit-payments-increasing-in-2026-2027.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "The Canada Child Benefit payments increasing in 2026-2027",
-      "sum": "The Government of Canada is lowering costs for families by strengthening the Canada Child Benefit. Approximately 47,000 families in Newfoundland and Labrador benefiting from more generous payments starting this month.",
-      "cat": "Economy"
+      "title": "Canada Child Benefit payments increase for 2026-2027",
+      "sum": "The Canada Child Benefit will provide higher payments to families starting in 2026-2027. Approximately 47,000 families in Newfoundland and Labrador are affected by this increase.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "4dd840d66e5411ae",
@@ -2705,9 +2963,10 @@
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/minister-valdez-highlights-increased-supports-for-canadian-families-through-the-canada-child-benefit.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Valdez highlights increased supports for Canadian families through the Canada Child Benefit",
-      "sum": "The Government of Canada continues to make life more affordable for families by strengthening the Canada Child Benefit (CCB), helping parents cover the costs of raising their children and giving every child the opportunity to thrive.",
-      "cat": "Innovation, science & industry"
+      "title": "Government increases Canada Child Benefit payments for families",
+      "sum": "The Canada Child Benefit has been strengthened to provide additional financial support to Canadian families with children. The enhancement aims to help parents manage childcare costs.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "44b856844700d7d9",
@@ -2716,9 +2975,10 @@
       "url": "https://www.canada.ca/en/public-services-procurement/news/2026/07/alternating-lane-closure-on-des-allumettes-bridge.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Alternating lane closure on Des Allumettes Bridge",
-      "sum": "Public Services and Procurement Canada wishes to advise motorists of an alternating lane closure on the Des Allumettes Bridge for the annual bridge cleaning.",
-      "cat": "Infrastructure"
+      "title": "Des Allumettes Bridge to undergo annual cleaning with lane closures",
+      "sum": "Public Services and Procurement Canada is implementing alternating lane closures on the Des Allumettes Bridge to conduct annual cleaning maintenance. Motorists are advised of the temporary traffic restrictions.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "66bce5e16949ff30",
@@ -2727,9 +2987,10 @@
       "url": "https://www.canada.ca/en/parks-canada/news/2026/07/proposed-national-urban-park-in-the-windsor-area.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Proposed National Urban Park in the Windsor Area",
-      "sum": "Proposed National Urban Park in the Windsor Area.",
-      "cat": "Economy"
+      "title": "National urban park proposed for Windsor area",
+      "sum": "The federal government is proposing to establish a national urban park in the Windsor area. This would create a new protected green space within or near an urban centre.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "5202d49e157c72ee",
@@ -2738,9 +2999,10 @@
       "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/07/government-of-canada-to-announce-investment-in-community-infrastructure-in-cape-breton-regional-municipality.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Government of Canada to announce investment in community infrastructure in Cape Breton Regional Municipality",
-      "sum": "Members of the media are invited to Atlantic Canada’s first Building Communities Strong Fund (BCSF) announcement with Mike Kelloway, Member of Parliament for Sydney—Glace Bay.",
-      "cat": "Infrastructure"
+      "title": "Canada announces community infrastructure investment in Cape Breton",
+      "sum": "The Government of Canada is announcing funding for community infrastructure projects in Cape Breton Regional Municipality through the Building Communities Strong Fund. An MP representing the Sydney—Glace Bay riding will make the announcement.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "7b7bb9ce8088d67f",
@@ -3133,11 +3395,12 @@
       "date": "2026-07-19",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/canadas-delegation-at-the-farnborough-international-airshow-to-advance-canadas-aerospace-industry-boost-competitiveness-and-strengthen-the-economy.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Canada’s delegation at the Farnborough International Airshow to advance Canada’s aerospace industry, boost competitiveness and strengthen the economy",
-      "sum": "Canada’s delegation at the Farnborough International Airshow to advance Canada’s aerospace industry, boost competitiveness and strengthen the economy",
-      "cat": "Foreign affairs"
+      "title": "Canada sends delegation to Farnborough International Airshow",
+      "sum": "Canada is participating in the Farnborough International Airshow to promote its aerospace industry and support economic competitiveness. The delegation will engage with international stakeholders in the aviation sector.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "35d72e784793f16f",
@@ -3481,37 +3744,62 @@
       "cat": "Economy"
     },
     {
+      "id": "ee21e48d201ba63b",
+      "date": "2026-07-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWFUbXlkYzBONm00SXI4OEk1UDJISFF0c1R1dnQ5anQ2UVlvMWNzQTZhcTRYTGRCVnBDNXRVLU5EanVEUW9weWQ0Z2oxdTVhYnFRN3dMa2JoMFlkOENxNVU2UGxHdXZaVDgzdU1SRV9xbFRBWUxSVFN3bk1CRkV2OS1ESHphejM2Uy01UWowb0FWR2duY3c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Five Reasons Why Mark Carney Needs to Care About Healthcare - C.D. Howe Institute",
+      "excerpt": "Five Reasons Why Mark Carney Needs to Care About Healthcare C.D. Howe Institute",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "4e24587f1d3bc804",
+      "date": "2026-07-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUtVdnhhWkZiUm5uX1FTR2VTekJIMmM0a3VwdnpEa2hXOVhvY0JKdnZsdlNWa0p2cGVhaVB0WnJCS09Ga2NXX2UyOWZkVVUtRkN1QUxYTGZBZFp5NFJxUzg0Ui1ZNjRCaUlxTHBmYWs2Q183NXZfVF9DVnJWY2hFSm51TEJVZlZPZnk4LXFYTTNSV1dQWW1DWkw3bjhNbGZSZHA2S214aGdQVW1iSVMxMjhLTy1TSFBIeDk2Szg3SzBlY2s?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "If Carney wants to drive investment in Canada, competition is the way - Corporate Knights",
+      "excerpt": "If Carney wants to drive investment in Canada, competition is the way Corporate Knights",
+      "cat": "Economy"
+    },
+    {
       "id": "e09f0935f174df5a",
       "date": "2026-07-17",
       "src": "Natural Resources Canada (NRCan)",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/canada-child-benefit-payments-increasing-in-20262027.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada Child Benefit payments increasing in 2026–2027",
-      "sum": "Today in Alberta, Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources and Member of Parliament for Calgary Confederation, highlighted the increased tax-free support the program is delivering to families in 2026–2027, on behalf of the Honourable Anna Gainey, Secretary of State (Children and Youth).",
-      "cat": "Finance"
+      "title": "Canada Child Benefit payments increase for 2026-2027",
+      "sum": "Canada Child Benefit payments will increase in 2026-2027, providing additional tax-free support to eligible families. The increase was announced in Alberta by a parliamentary secretary.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "b0e2a602f87b262e",
       "date": "2026-07-17",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/ministers-joly-mackinnon-and-mcguinty-and-secretary-of-state-fuhr-to-deliver-remarks-and-hold-media-availability-at-official-opening-of-canada-pavi.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Ministers Joly, MacKinnon and McGuinty and Secretary of State Fuhr to deliver remarks and hold media availability at official opening of Canada Pavilion at the Farnborough International Airshow",
-      "sum": "The Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions; the Honourable Steven MacKinnon, Minister of Transport and Leader of the Government in the House of Commons; the Honourable David J. McGuinty, Minister of National Defence; and the Honourable Stephen Fuhr, Secretary of State (Defence Procurement), will deliver remarks at the official opening…",
-      "cat": "Foreign affairs"
+      "title": "Ministers open Canada Pavilion at Farnborough International Airshow",
+      "sum": "Federal ministers are delivering remarks and holding media availability at the official opening of Canada's pavilion at the Farnborough International Airshow. The event includes the Ministers of Industry, Transport, National Defence, and the Secretary of State for Defence Procurement.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "e78ae87060b52515",
       "date": "2026-07-17",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/minister-valdez-to-highlight-continued-support-for-families-through-canada-child-benefit.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Valdez to highlight continued support for families through Canada Child Benefit",
-      "sum": "The Honourable Rechie Valdez, Minister of Women and Gender Equality and Secretary of State (Small Business and Tourism), will be in Toronto to highlight the increase to the Canada Child Benefit, supporting families across Canada.",
-      "cat": "Economy"
+      "title": "Minister highlights Canada Child Benefit increase for families",
+      "sum": "Minister Rechie Valdez will promote an increase to the Canada Child Benefit in Toronto. The benefit provides financial support to families across Canada.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "5a126494c1647bf5",
@@ -3520,9 +3808,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/07/the-canada-child-benefit-payments-increasing-in-2026-2027-nearly-153000-families-in-manitoba-benefiting-from-more-generous-payments-starting-this-m.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "The Canada Child Benefit payments increasing in 2026-2027 nearly 153,000 families in Manitoba benefiting from more generous payments starting this month",
-      "sum": "The Government of Canada is lowering costs for families by strengthening the Canada Child Benefit (CCB). The CCB is a monthly tax-free payment to help them with the costs of raising children.",
-      "cat": "Finance"
+      "title": "Canada Child Benefit payments increase for Manitoba families",
+      "sum": "The Canada Child Benefit, a monthly tax-free payment to help families with child-raising costs, will provide more generous payments starting this month. Nearly 153,000 families in Manitoba will benefit from the increased payments in 2026-2027.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "d41539207b8cf947",
@@ -3801,15 +4090,27 @@
       "cat": "Wildlife"
     },
     {
+      "id": "a3993505f072a545",
+      "date": "2026-07-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGlPX2FVOWM0YWFtM0Y0NTJpMkZaWWs0NUl2c3Rrc21seE9OejhXZndxMWQ1YkdtQXdoeXRSemFtdmhya2dlNDgwYzhXY3dPeUNtZU5nby1UTVgyLVhBR3FfWlJnbGw2YkNGYUk1UzJvaWZ6ZlliLXhvcVJnTUJ0b0s4QkNuZDZSQWc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney Offers Fire Help to Ontario, but Canadian Government’s Role Is Limited - The New York Times",
+      "excerpt": "Carney Offers Fire Help to Ontario, but Canadian Government’s Role Is Limited The New York Times",
+      "cat": "Economy"
+    },
+    {
       "id": "95455876521a7434",
       "date": "2026-07-16",
       "src": "Natural Resources Canada (NRCan)",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/canada-invests-in-reliable-affordable-and-clean-electricity.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada invests in reliable, affordable and clean electricity",
-      "sum": "Today’s announcement demonstrates how the federal government is supporting the modernization of Canada’s electricity system, helping to reduce GHG emissions and prepare for the growing electricity demand as we work to double Canada’s electricity grid by 2050 under Powering Canada Strong: A National Strategy for an Electrified Canadian Economy.",
-      "cat": "Economy"
+      "title": "Canada announces electricity system modernization investment",
+      "sum": "The federal government is investing to modernize Canada's electricity system to reduce greenhouse gas emissions and meet growing electricity demand. This supports the goal of doubling Canada's electricity grid by 2050.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "4114ba085272e121",
@@ -3818,9 +4119,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/parliamentary-secretary-hogan-to-highlight-support-for-canadian-families.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Parliamentary Secretary Hogan to highlight support for Canadian families",
-      "sum": "Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources, will highlight efforts to lower costs for families across Canada.",
-      "cat": "Natural resources"
+      "title": "Parliamentary Secretary to highlight family cost support efforts",
+      "sum": "Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources, will discuss government efforts aimed at reducing costs for Canadian families.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ae813a1e1b69985e",
@@ -3829,9 +4131,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/minister-hodgson-to-announce-significant-energy-milestone-in-british-columbia.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Hodgson to announce significant energy milestone in British Columbia",
-      "sum": "The Honourable Tim Hodgson, Minister of Energy and Natural Resources, will announce a milestone for energy infrastructure in British Columbia.",
-      "cat": "Natural resources"
+      "title": "Minister Hodgson announces energy infrastructure milestone in British Columbia",
+      "sum": "Minister of Energy and Natural Resources Tim Hodgson will announce a significant milestone related to energy infrastructure in British Columbia.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "0b001a048b2b5182",
@@ -3840,9 +4143,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/07/parliamentary-secretary-lavack-to-highlight-the-canada-child-benefits-more-generous-support-for-families.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Parliamentary Secretary Lavack to highlight the Canada Child Benefit's more generous support for families",
-      "sum": "Please be advised that the Honourable Ginette Lavack, Member of Parliament for St. Boniface—St. Vital and Parliamentary Secretary to the Minister of Indigenous Services, will be in Winnipeg to highlight the increase to the Canada Child Benefit, lowering costs for families across Canada.",
-      "cat": "Indigenous services"
+      "title": "Parliamentary Secretary highlights increased Canada Child Benefit support",
+      "sum": "Parliamentary Secretary Ginette Lavack will visit Winnipeg to highlight an increase to the Canada Child Benefit, which provides financial support to families. The benefit has been made more generous to help lower costs for families across Canada.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "e60e600123699331",
@@ -4252,15 +4556,27 @@
       "cat": "Justice"
     },
     {
+      "id": "40ff47c122425a15",
+      "date": "2026-07-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcXFPNWZsOXRvWDl1d3FDVmRaWTUya1JZd242MzNYR01CVjNZeUdzZ0o4ZUJuUEtzSVBNNXFPMHdPemdPX3NNdDF6NVJyNkxzVnh4dGJrWEdnSE9yUk41WEVTb3QyVDJVU3hKUUJZdFhKOTdTNVFXcU1xZlNHUUtIRU1rMHM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "First Nations chiefs vote to oppose Carney government’s proposed major projects reforms - Radio-Canada",
+      "excerpt": "First Nations chiefs vote to oppose Carney government’s proposed major projects reforms Radio-Canada",
+      "cat": "Indigenous services"
+    },
+    {
       "id": "988013c5a4076c0f",
       "date": "2026-07-15",
       "src": "Natural Resources Canada (NRCan)",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/ps-guay-to-make-clean-energy-announcement-in-saint-jean-baptiste-de-rouville.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "PS Guay to make clean energy announcement in Saint-Jean-Baptiste-de-Rouville",
-      "sum": "PS Guay to make clean energy announcement in Saint-Jean-Baptiste-de-Rouville",
-      "cat": "Natural resources"
+      "title": "Parliamentary Secretary to announce clean energy initiative",
+      "sum": "Parliamentary Secretary Guay will make an announcement regarding clean energy in the Saint-Jean-Baptiste-de-Rouville area.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "c2ecb9c2d65c9c56",
@@ -4637,15 +4953,27 @@
       "cat": "Sustainable development"
     },
     {
+      "id": "4b2568438cf1805d",
+      "date": "2026-07-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmFHUUstbFZyRlFXaHhtWHhUYWhZOXUtZzJURnlSR1RkTXFiLWRlR0l5a2h1V3RLZjh0bTNvbmVCTmM4ZXJmejdFUjdQaXRLLV8zM2NhcWFJM3Z6Z3IzT2pvUWZyOW5MUlgyYURXODBzRUhxNGtlNmFyZno2Tk1sZ3ZLUWVSY2tFYUc1WFhST2lQWVFwblY3c2FB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government shakes up diplomatic missions in U.S. with new consular appointments - Radio-Canada",
+      "excerpt": "Carney government shakes up diplomatic missions in U.S. with new consular appointments Radio-Canada",
+      "cat": "Foreign affairs"
+    },
+    {
       "id": "9a412cb5659ff864",
       "date": "2026-07-14",
       "src": "Natural Resources Canada (NRCan)",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/strengthening-and-advancing-quebecs-forest-sector-transformation.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
-      "title": "Strengthening and advancing Quebec’s forest sector transformation",
-      "sum": "In partnership with the province of Quebec, the Government of Canada is taking action to address these challenges and position Quebec’s forest sector for long-term success. Today, Claude Guay, Parliamentary Secretary to the Minister of Energy and Natural Resources, highlighted over $17 million for 12 forest sector transformation projects across the province.",
-      "cat": "Natural resources"
+      "title": "Canada invests $17 million in Quebec forest sector transformation",
+      "sum": "The federal government is partnering with Quebec to support the forest sector through funding for 12 transformation projects. The investment totals over $17 million and aims to address challenges facing the sector.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "2561477f600672b4",
@@ -4912,15 +5240,27 @@
       "cat": "Public safety"
     },
     {
+      "id": "9631663e065ffc0e",
+      "date": "2026-07-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcm8tMGdOTWM5a0c0XzE1TWJNcmdsZVRhVlE4aUVka25aTHF3eTFNWVIwRWh0bU1wUFdVS2g2cEh4QjNJQ3NBNS1jQUhMMlpyTlRxY2JsbmdydElDWE9sdS13V0k3ZHVRZVM1bnNCeThhMFB4ME9vcFdRVkxBdUJ0a2xWRXFCQzNWaVVad3NWSkdoY1FwTU92Xzd2elY2UXl6Vm42ZDJfekRWbFpBZ2hMQm5nVzh2TWZBX1NHWjRBOW5OSGFpcmNFWWtROXh5QXY3X0JJT3RXY1JtSTZNLXBVLU9QZzh1bXRaTlE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney shuffles PMO as aide leaves to run in B.C. byelection | National News - thecanadianpressnews.ca",
+      "excerpt": "Carney shuffles PMO as aide leaves to run in B.C. byelection | National News thecanadianpressnews.ca",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "5eafe71f0f34c013",
       "date": "2026-07-13",
       "src": "Natural Resources Canada (NRCan)",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/government-of-canada-to-help-strengthen-quebecs-forest-sector.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Government of Canada to help strengthen Quebec’s forest sector",
-      "sum": "Claude Guay, Parliamentary Secretary to the Minister of Energy and Natural Resources, will highlight recent forest sector support from the Government of Canada.",
-      "cat": "Natural resources"
+      "title": "Canada announces forest sector support for Quebec",
+      "sum": "The Government of Canada is providing support to strengthen Quebec's forest sector. A parliamentary secretary will outline recent assistance measures from the federal government.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "6e3477b321c2996a",
@@ -4978,6 +5318,17 @@
       "cat": "Foreign affairs"
     },
     {
+      "id": "39ef30ad529307e3",
+      "date": "2026-07-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcVpoRVpKRnJFRzhiZ3Viem1NbTBLTlpxMDNRemVrTVRqLWMyOWNxZWpFMW9DOG1sVEI1eGh1Zi1UUXg1Z3B4NEJyTzVXVVcyY05WZ0VGaEo3dko3VEVfYkVkNWtPVl9mUmlIQ01LQ2hJMElFSkhnS0V4NElBcFRaaUlJRkduYUhWOXplMXgzaVNGV3pSRGVoVTE1X2JYQUhNc19yVkNwUjF5RFFEdVp4VFdxcTdQaXJPdjJ0a0l5MGRFWmoxYTZ0dTc0dXQ3MkxTaVFB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "‘Good deal for Canada:’ PM Carney insists not a lot of profits to split with U.S. on Gordie Howe Bridge - CTV News",
+      "excerpt": "‘Good deal for Canada:’ PM Carney insists not a lot of profits to split with U.S. on Gordie Howe Bridge CTV News",
+      "cat": "Infrastructure"
+    },
+    {
       "id": "035b49a737d5778e",
       "date": "2026-07-12",
       "src": "CBC Politics",
@@ -5028,9 +5379,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/minister-hodgson-marks-milestone-in-canada-and-polands-energy-and-economic-security-partnership.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Hodgson marks milestone in Canada and Poland’s energy and economic security partnership",
-      "sum": "Minister Hodgson marks milestone in Canada and Poland’s energy and economic security partnership",
-      "cat": "Public safety"
+      "title": "Canada and Poland strengthen energy and economic security partnership",
+      "sum": "Minister Hodgson has marked a significant milestone in the Canada-Poland relationship focused on energy and economic security. The partnership aims to advance mutual interests in these areas between the two countries.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "a49a278baac2c5f1",
@@ -5039,20 +5391,22 @@
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/improving-mobile-connectivity-to-keep-people-safe-in-quebec.html",
       "type": "Spending",
       "kind": "official",
-      "title": "Improving mobile connectivity to keep people safe in Quebec",
-      "sum": "Government of Canada investment expanded mobile service to Indigenous community in Mauricie",
-      "cat": "Indigenous services"
+      "title": "Canada expands mobile service to Quebec Indigenous community",
+      "sum": "The Government of Canada has invested in expanded mobile connectivity to an Indigenous community in the Mauricie region of Quebec. The investment aims to improve mobile service access in the area.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "da164fbe2c0578f1",
       "date": "2026-07-10",
       "src": "Indigenous Services Canada (ISC)",
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/07/itum-and-the-governments-of-canada-and-quebec-sign-the-first-tripartite-coordination-agreement-in-quebec-for-innu-child-and-family-services.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
-      "title": "ITUM and the governments of Canada and Québec sign the first tripartite coordination agreement in Québec for Innu child and family services",
-      "sum": "The Innu Takuaikan Uashat mak Mani utenam (ITUM) Council, the Government of Canada, and the Government of Québec officially signed today the Tshisheuatishitau Child and Family Services Coordination Agreement marking a historic milestone in the recognition of ITUM's inherent jurisdiction over child and family services for its community.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada, Quebec, Innu council sign child services agreement",
+      "sum": "The Innu Takuaikan Uashat mak Mani utenam (ITUM) Council, the Government of Canada, and the Government of Québec signed a coordination agreement recognizing ITUM's jurisdiction over child and family services for its community. This is described as the first tripartite coordination agreement of its kind in Québec.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "bc829077accc8b85",
@@ -5121,15 +5475,27 @@
       "cat": "National defence"
     },
     {
+      "id": "399f61a1f244ddb4",
+      "date": "2026-07-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbTJwWjhubjV5aEtWZmRMTjBQNnBCRjg0N24tc19lblVFSDFxM1VfY1VRMjJuUmt2YWFFSTRoUjZPUkQ4Qjl4bzgzNzNqSkRnREtBZEpUaTBROF9JOHNEUV9ucy0xZXNxVW9MM2FtV2pVYk5xTjdobnNScTVqYjI5Y2Y3aUpMMkdVYlFEMndsUlpKV0N5OUZZczlpZ0RhRVAtSGdTUnFSRkdaQTRLZTRpLUtzSHRKZ09aVTY1TGhIRW9GYXM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney in Saudi Arabia seeking economic partnerships amid human rights concerns - Canada's National Observer",
+      "excerpt": "Carney in Saudi Arabia seeking economic partnerships amid human rights concerns Canada's National Observer",
+      "cat": "Economy"
+    },
+    {
       "id": "e641b749a6c55c59",
       "date": "2026-07-09",
       "src": "Public Safety Canada (PS)",
       "url": "https://www.canada.ca/en/public-safety-canada/news/2026/07/government-of-canada-supports-inclusive-volunteer-recruitment-and-strengthens-water-and-shoreline-search-and-rescue-response-in-saskatchewan.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
-      "title": "Government of Canada supports inclusive volunteer recruitment and strengthens water and shoreline search and rescue response in Saskatchewan",
-      "sum": "Today, the Honourable Buckley Belanger, Secretary of State for Rural Development, on behalf of the Honourable Eleanor Olszewski, Minister of Emergency Management and Community Resilience and Minister responsible for Prairies Economic Development Canada, announced approximately $1.15 million for two search and rescue projects led by the Search and Rescue Saskatchewan Association of Volunteers (SARSAV).",
-      "cat": "Public safety"
+      "title": "Canada funds search and rescue volunteer recruitment in Saskatchewan",
+      "sum": "The Government of Canada is providing approximately $1.15 million to support two search and rescue projects in Saskatchewan. The funding will support volunteer recruitment and improve water and shoreline search and rescue response capabilities through the Search and Rescue Saskatchewan Association of Volunteers.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "b0b6861d964f3bf9",
@@ -5138,9 +5504,10 @@
       "url": "https://www.canada.ca/en/public-safety-canada/news/2026/07/the-government-of-canada-provides-an-update-regarding-the-2026-wildfire-season--july-update.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "The Government of Canada provides an update regarding the 2026 wildfire season – July update",
-      "sum": "Today, the Honourable Eleanor Olszewski, Minister of Emergency Management and Community Resilience and Minister responsible for Prairies Economic Development Canada, joined by Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources, and Ginette Lavack, Parliamentary Secretary to the Minister of Indigenous Services provided an update on the worsening wildfire situation in Canada.",
-      "cat": "Public safety"
+      "title": "Canada updates wildfire preparedness for 2026 season",
+      "sum": "The Government of Canada released a July update on the worsening wildfire situation in Canada for the 2026 season. The update was provided by the Minister of Emergency Management and Community Resilience, along with parliamentary secretaries from Energy and Natural Resources and Indigenous Services.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "ac452a1e100a4db6",
@@ -5149,9 +5516,10 @@
       "url": "https://www.canada.ca/en/public-safety-canada/news/2026/07/wildfire-information-and-seasonal-preparedness-tips-for-canadians.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Wildfire information and seasonal preparedness tips for Canadians",
-      "sum": "The Government of Canada’s Wildfires 2026 web page includes vital information about programs, policies and initiatives to keep Canadians informed about the ongoing wildfire situation across the country.",
-      "cat": "Economy"
+      "title": "Government launches wildfire information and preparedness web page",
+      "sum": "The Government of Canada created a dedicated web page for the 2026 wildfire season to provide Canadians with information about wildfire-related programs, policies, and initiatives. The page aims to keep the public informed about wildfire situations across the country.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "bf46dd19ebd4e4e4",
@@ -5160,20 +5528,33 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/minister-hodgson-to-mark-milestone-in-canadapoland-energy-relationship.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Hodgson to mark milestone in Canada–Poland energy relationship",
-      "sum": "The Minister of Energy and Natural Resources, the Honourable Tim Hodgson, will travel to Poland for the announcement of progress on a significant clean electricity project.",
-      "cat": "Natural resources"
+      "title": "Canada and Poland advance clean electricity partnership",
+      "sum": "Minister of Energy and Natural Resources Tim Hodgson will travel to Poland to announce progress on a joint clean electricity project between the two countries.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "9367b0e520200b9a",
       "date": "2026-07-09",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/minister-joly-announces-federal-investments-backing-canadian-mining-innovations-to-strengthen-critical-minerals-supply-chains-and-improve-mine-rest.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly announces federal investments backing Canadian mining innovations to strengthen critical minerals supply chains and improve mine restoration",
-      "sum": "Projects will help advance precision mining and AI-powered ecological restoration technologies",
-      "cat": "Innovation, science & industry"
+      "title": "Federal government invests in Canadian mining innovation projects",
+      "sum": "The federal government is funding Canadian mining technology projects focused on precision mining and AI-powered ecological restoration. The investments aim to strengthen critical minerals supply chains and improve mine restoration practices.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "5bb97a3c50257783",
+      "date": "2026-07-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQmpJNFc5ZjVGOVdDT2Q2dUY4WVAwVm5xYlNxUnd2LWpJZmhXUElhem4tN0FIVk56N1otU19SaGtrSTRzdVY5SW9IcDRSb0REeXpoNjVvV3FhalQ1b1RVblZGQ1dCZmRDS2JGOVBHVGV5NGhTZGV3OXZKWERFZFJhdzFJdzR5RFliMUNSYzQ2YThzWkxIYzZoR1NmTGlxcDFyV0UwYnlicnh3Q0NmRUtrUDVhYU51eV9iM2NSdU9MV0dZa2otYmVYa3IyZnQ1aU0tNkROTXJmbEJlNXJTNnhBTVdEUzdEaXRzOU9Yb1FMQ3c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government excludes U.S. bidders from $4.9B army vehicle contract - Toronto Star",
+      "excerpt": "Carney government excludes U.S. bidders from $4.9B army vehicle contract Toronto Star",
+      "cat": "Economy"
     },
     {
       "id": "49f9d4de6552dfe2",
@@ -5182,9 +5563,10 @@
       "url": "https://www.canada.ca/en/public-safety-canada/news/2026/07/secretary-of-state-belanger-to-announce-support-for-search-and-rescue-volunteer-recruitment-and-water-response-in-saskatchewan.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Secretary of State Belanger to announce support for Search and Rescue volunteer recruitment and water response in Saskatchewan",
-      "sum": "Members of the media are invited to join the Honourable Buckley Belanger, Secretary of State for Rural Development, on behalf of the Honourable Eleanor Olszewski, Minister of Emergency Management and Community Resilience and Minister responsible for Prairies Economic Development Canada, for an announcement regarding Government of Canada support for inclusive search and rescue volunteer recruitment and strengthened…",
-      "cat": "Public safety"
+      "title": "Canada announces support for search and rescue volunteer recruitment",
+      "sum": "The Government of Canada is announcing support for recruiting search and rescue volunteers in Saskatchewan and improving water response capabilities. The announcement will be made by the Secretary of State for Rural Development on behalf of the Minister of Emergency Management and Community Resilience.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "6b8741f8353305ae",
@@ -5193,31 +5575,34 @@
       "url": "https://www.canada.ca/en/public-safety-canada/news/2026/07/minister-olszewski-and-parliamentary-secretaries-lavack-and-hogan-to-provide-an-update-on-canadas-2026-wildfire-season.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Olszewski and Parliamentary Secretaries Lavack and Hogan to provide an update on Canada’s 2026 wildfire season",
-      "sum": "Members of the media are invited to join the Honourable Eleanor Olszewski, Minister of Emergency Management and Community Resilience and Minister responsible for Prairies Economic Development Canada, Ginette Lavack, Parliamentary Secretary to the Minister of Indigenous Services, and Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources, as they provide an update on the forecast for the…",
-      "cat": "Public safety"
+      "title": "Ministers provide update on Canada's 2026 wildfire season forecast",
+      "sum": "Minister Eleanor Olszewski and two Parliamentary Secretaries will brief media on the forecasted wildfire conditions for the 2026 season in Canada.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "9dbcabb41bd33b8b",
       "date": "2026-07-08",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/minister-joly-to-make-critical-a-minerals-announcement-in-sudbury.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly to make a critical minerals announcement in Sudbury",
-      "sum": "The Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions, will make an announcement related to digital technologies and critical minerals with DIGITAL, one of Canada’s Global Innovation Clusters .",
-      "cat": "Innovation, science & industry"
+      "title": "Minister Joly announces digital technologies and critical minerals initiative",
+      "sum": "Minister of Industry Mélanie Joly will announce a new initiative related to digital technologies and critical minerals in partnership with DIGITAL, Canada's Global Innovation Cluster. The announcement will take place in Sudbury.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "3a05ee3011e84d8c",
       "date": "2026-07-08",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/canada-and-republic-of-korea-sign-memorandum-of-understanding-to-advance-ai-innovation-and-safety.html",
-      "type": "Spending",
+      "type": "International agreement",
       "kind": "official",
-      "title": "Canada and Republic of Korea sign memorandum of understanding to advance AI innovation and safety",
-      "sum": "Canada and Republic of Korea sign memorandum of understanding to advance AI innovation and safety",
-      "cat": "Innovation, science & industry"
+      "title": "Canada and South Korea sign AI innovation and safety agreement",
+      "sum": "Canada and the Republic of Korea have signed a memorandum of understanding to collaborate on artificial intelligence development and safety measures. The agreement establishes a framework for the two countries to work together on AI innovation initiatives.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "9ad61b0f2394a9dd",
@@ -5244,15 +5629,27 @@
       "ai": true
     },
     {
+      "id": "92807fc125180b5f",
+      "date": "2026-07-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWExOVWxXQ09NRTZmVHZyanpsWXc4Nm5sSHY5Ui1oekxLbUtmaWtocWV5VGtOOGVHeUNPdExyZUJLOUVDRkgwQWJsR3lyOGRYWUtMc0d5bExaaEhQWGp2S045eGt5elVwaGpoUkttdFd3UnZMZWJMZkg3bFdhNU5mVXJtVzBpWlBhdnB3a3l3Sng1cGx5RDk1X20xeXR1amtETEdJTExVc3Bwc1BMS29mb1lYeTJrU0FYeWxYeDh3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney modernises Senate appointment process to respond to Canada’s emerging challenges - pm.gc.ca",
+      "excerpt": "Prime Minister Carney modernises Senate appointment process to respond to Canada’s emerging challenges pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
       "id": "e1341c72f39fcac6",
       "date": "2026-07-07",
       "src": "Natural Resources Canada (NRCan)",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/canada-announces-first-agreement-under-new-canada-critical-minerals-accelerator.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada announces first agreement under new Canada Critical Minerals Accelerator",
-      "sum": "Today, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, launched the Canada Critical Minerals Accelerator (CCMA) and announced a Strategic Investment Agreement signed by the CCMA, the Canada Growth Fund (CGF) and Teck Resources Limited (Teck). The Agreement supports expanding production capacity at Teck’s Trail Operations in British Columbia, one of the world’s largest fully integrated…",
-      "cat": "Natural resources"
+      "title": "Canada launches Critical Minerals Accelerator with Teck Resources agreement",
+      "sum": "Canada announced the creation of the Canada Critical Minerals Accelerator and signed its first Strategic Investment Agreement with Teck Resources Limited to expand production at their Trail Operations facility in British Columbia. The agreement involves the Canada Growth Fund and aims to increase critical minerals production capacity.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "9a62c41c9040508f",
@@ -5261,9 +5658,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/eight-tree-planting-projects-supported-in-saskatchewan.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Eight tree-planting projects supported in Saskatchewan",
-      "sum": "On July 7, 2026, the Honourable Nathalie Provost, Secretary of State (Nature), highlighted eight projects across Saskatchewan. These projects represent an investment of $24.5 million through the 2 Billion Trees (2BT) program to plant more than five million trees that will help protect nature and biodiversity in the province by restoring critical habitats for species at risk and wildfire-affected areas and by…",
-      "cat": "Wildlife"
+      "title": "Eight tree-planting projects funded in Saskatchewan",
+      "sum": "The federal government is supporting eight tree-planting projects in Saskatchewan with $24.5 million in funding through the 2 Billion Trees program. These projects aim to plant over five million trees to restore habitats for species at risk and areas affected by wildfires.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "c9663b8214125e2b",
@@ -5272,20 +5670,44 @@
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-invests-30-million-to-launch-fifth-phase-of-cancode-program-to-offer-new-training-opportunities-for-youth-and-teachers.html",
       "type": "Spending",
       "kind": "official",
-      "title": "Government of Canada invests $30 million to launch fifth phase of CanCode program to offer new training opportunities for youth and teachers",
-      "sum": "More than 1.1 million students and teachers will gain AI knowledge and learn coding skills",
-      "cat": "Innovation, science & industry"
+      "title": "Canada invests $30 million in fifth phase of CanCode program",
+      "sum": "The Government of Canada is allocating $30 million to launch the fifth phase of the CanCode program, which will provide training in artificial intelligence and coding skills. The initiative is expected to reach more than 1.1 million students and teachers.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "607ca206c0016592",
       "date": "2026-07-07",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/parliamentary-secretary-menard-highlights-launch-of-new-small-business-procurement-program-measures-to-modernize-federal-contracting-and-boost-acce.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Parliamentary Secretary Ménard highlights launch of new Small Business Procurement Program measures to modernize federal contracting and boost access for Canadian businesses",
-      "sum": "Small businesses are the backbone of Canada’s economy, driving innovation, creating good jobs and strengthening communities across the country.",
+      "title": "Small Business Procurement Program measures launched to modernize federal contracting",
+      "sum": "Parliamentary Secretary Ménard announced new measures under the Small Business Procurement Program designed to modernize how the federal government contracts and improve access for Canadian small businesses. The program aims to support small businesses' participation in federal procurement.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "3aa4119b7d04cd76",
+      "date": "2026-07-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLU93WUxuY29fY2RZWkJaNTFjUWpKd2U1cFlXbTZZYlFlM24xd3pCNEd1a2tWNm14WjV0ZHlBaURNZkJhYVlYVWp2a2RRanBFUVZyeXhLMzMweG5XclNwc0xiczBMTHhlaE4tWnllbFFuZUJoN2NNUFJadDlEMlU4T1hWLVhUU0xxT3FSanZEekxWUWJxa2NTc1FGWjFManRDS0xsRm80eS1UcF95ZmJ0ZEJHWDN0WTJxeVAzOWIzMmdVSXZxOHU3N0ZYTQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "The Carney government’s expanding power to identify Canadians online, access their data—and punish them - The Hub | More Signal. Less Noise.",
+      "excerpt": "The Carney government’s expanding power to identify Canadians online, access their data—and punish them The Hub | More Signal. Less Noise.",
       "cat": "Economy"
+    },
+    {
+      "id": "e781eb96b571875b",
+      "date": "2026-07-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnJual9xQmhqeDF0SVhoQnBVMTFIOHRHakdEOFMtcFBQRE15cm5ybnlFdUxnLUl4YnBRMWFraklTbzBSbFJMT0I5ZGZvUmhEUkZMektmc29RSU5qclAwMTdMb2IwclFzaDhLZDZvTFkyZ1hxSXRvNXRoUFYzWW5HMC13V196SnI2RE56UkxpZmlmV2J4UjRDbGhxYjBZV08ybkE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mark Carney's new climate doctrine - Canada's National Observer",
+      "excerpt": "Mark Carney's new climate doctrine Canada's National Observer",
+      "cat": "Sustainable development"
     },
     {
       "id": "d7ae1ad13c666ed1",
@@ -5341,20 +5763,22 @@
       "url": "https://www.canada.ca/en/public-safety-canada/news/2026/07/minister-olszewski-approves-emergency-assistance-with-the-response-and-recovery-from-the-significant-flooding-in-the-province-of-manitoba.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Olszewski approves emergency assistance with the response and recovery from the significant flooding in the province of Manitoba",
-      "sum": "Today, the Honourable Eleanor Olszewski, Minister of Emergency Management and Community Resilience and Minister responsible for Prairies Economic Development Canada, issued the following statement.",
-      "cat": "Public safety"
+      "title": "Emergency assistance approved for Manitoba flooding response and recovery",
+      "sum": "Minister Eleanor Olszewski has approved emergency assistance to support response and recovery efforts following significant flooding in Manitoba. The assistance is being provided through the federal Emergency Management and Community Resilience portfolio.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "18d3118cdef6ae95",
       "date": "2026-07-04",
       "src": "Natural Resources Canada (NRCan)",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/canada-invests-in-clean-energy-in-alberta-and-saskatchewan.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
-      "title": "Canada invests in clean energy in Alberta and Saskatchewan",
-      "sum": "Today, on the margins of the Calgary Stampede, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced more than $26 million in funding for 17 projects across Alberta and Saskatchewan that will accelerate the deployment of clean technology; modernize energy systems and infrastructure; reduce emissions; and build the regulatory, industrial and workforce capacity needed for Canada’s long-term…",
-      "cat": "Sustainable development"
+      "title": "Canada funds clean energy projects in Alberta Saskatchewan",
+      "sum": "The federal government announced over $26 million in funding for 17 clean energy projects across Alberta and Saskatchewan. The funding supports deployment of clean technology, modernization of energy systems, and emissions reduction efforts.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "a2d87729a1aab5e7",
@@ -5363,9 +5787,21 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/backgrounder-canada-invests-in-clean-energy-in-alberta-and-saskatchewan.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Backgrounder: Canada invests in clean energy in Alberta and Saskatchewan",
-      "sum": "On July 4, 2026, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced more than $26 million in funding for 17 projects across Alberta and Saskatchewan that will accelerate the deployment of clean technology; modernize energy systems and infrastructure; reduce emissions; and build the regulatory, industrial and workforce capacity needed for Canada’s long-term economic growth and energy…",
-      "cat": "Sustainable development"
+      "title": "Canada funds 17 clean energy projects in Alberta and Saskatchewan",
+      "sum": "The Minister of Energy and Natural Resources announced over $26 million in funding for 17 clean energy projects across Alberta and Saskatchewan. The projects aim to deploy clean technology, modernize energy infrastructure, reduce emissions, and develop workforce and regulatory capacity.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "12db924ec557fd67",
+      "date": "2026-07-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSHNqZTVjVm9mNXBDdklOekFNWmNEVFF2RHVRdi1lS0ZYUGFtcjhxa094VjFEdWhxbXozU2RxYXd5cU1mRVd3NXZWYVdmbHhGVHhwRHFCQnNJeGZFZWFWbXlHYk1ScmFKeDdvbFZXLWZraVotc21pN3pLVHBvdVlaQWpZUTh2VHhPdzE0R3dvZ1QzMm00RmpmTWNObUpVWnUtdlBpdkE3RlFwSGQ5?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Tristin Hopper: Carney is releasing tons of 'strategic plans,' with few results - National Post",
+      "excerpt": "Tristin Hopper: Carney is releasing tons of 'strategic plans,' with few results National Post",
+      "cat": "Economy"
     },
     {
       "id": "6eddbdbcd9535786",
@@ -5374,31 +5810,34 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/minister-hodgson-to-make-significant-mining-announcement.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Hodgson to make significant mining announcement",
-      "sum": "The Honourable Tim Hodgson, Minister of Energy and Natural Resources, will make a critical minerals announcement.",
-      "cat": "Natural resources"
+      "title": "Minister Hodgson announces critical minerals initiative",
+      "sum": "Minister of Energy and Natural Resources Tim Hodgson will make an announcement regarding critical minerals. The specific details of the announcement are not yet disclosed.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "756a13f8114c04b3",
       "date": "2026-07-03",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/parliamentary-secretary-menard-to-announce-next-steps-of-buy-canadian-policy.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Parliamentary Secretary Ménard to announce next steps of Buy Canadian policy",
-      "sum": "Marie-Gabrielle Ménard, Parliamentary Secretary to the Minister of Women and Gender Equality and Secretary of State (Small Business and Tourism), on behalf of the Honourable Joël Lightbound, Minister of Government Transformation, Public Works and Procurement and Quebec Lieutenant, will be in Montréal to highlight new measures to directly support small business involvement in federal procurement.",
-      "cat": "Housing"
+      "title": "Government announces next steps for Buy Canadian procurement policy",
+      "sum": "Parliamentary Secretary Marie-Gabrielle Ménard will announce new measures in Montreal to support small business participation in federal government procurement. The announcement is made on behalf of the Minister of Government Transformation, Public Works and Procurement.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "f6acd1edc9e06e2e",
       "date": "2026-07-03",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/minister-valdez-signs-canadaphilippines-memorandum-of-understanding-on-tourism-cooperation.html",
-      "type": "Spending",
+      "type": "International agreement",
       "kind": "official",
-      "title": "Minister Valdez signs Canada–Philippines memorandum of understanding on tourism cooperation",
-      "sum": "Countries commit to working together, underscoring importance of sector to national economies",
-      "cat": "Economy"
+      "title": "Canada and Philippines sign tourism cooperation memorandum",
+      "sum": "Canada and the Philippines have signed a memorandum of understanding to cooperate on tourism. Both countries recognize tourism's importance to their national economies.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "befbb1480abe7c8d",
@@ -5425,25 +5864,60 @@
       "ai": true
     },
     {
+      "id": "798a150309518fe9",
+      "date": "2026-07-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmhteTUwanRWOWM5Y2dIVUw4cjhXVGhvVDhUS3UyOHNpN2pjZ1NuY0lncXVhM0lxb3VEalRLZHhjdnlUX1h6SHlwMkI2aGdlVVJPS0ZRcmFna2pwbGNWZjBFZndvYWJGZFdUcDdKVnNOdXIzSktfSFZibGtzcXlta0ZMWG5iaTJRZDJCTm1HQ2k4bXdyRnhwVXNPWWFpeFF4M1hYNzFPN3FGM05memt0bnUzdEhyYjBTckhnbQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney announces new Canada-British Columbia Cooperative Prosperity Agreement to build a stronger, more sustainable economy - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces new Canada-British Columbia Cooperative Prosperity Agreement to build a stronger, more sustainable economy pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
+      "id": "17ebc8090489a9e7",
+      "date": "2026-07-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yVGd1TlJVN3lPOXpvLWFwTlFWZGJ1ZHprR0FMUndWemV5dEk0eUZ0RFVZaEw2bGIyTUFZSTJmbTYzaFJBcm9fTllKRGZUSVJJdGo4NUpDUk82Xzlhb1RnZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "B.C. secures landmark agreement to power decades of jobs, prosperity, growth - BC Gov News",
+      "excerpt": "B.C. secures landmark agreement to power decades of jobs, prosperity, growth BC Gov News",
+      "cat": "Economy"
+    },
+    {
       "id": "8d83284e9bc67aa8",
       "date": "2026-07-02",
       "src": "Natural Resources Canada (NRCan)",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/minister-hodgson-to-make-electricity-announcement-in-alberta.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Hodgson to make electricity announcement in Alberta",
-      "sum": "The Minister of Energy and Natural Resources, the Honourable Tim Hodgson, will make a funding announcement to support a cleaner, more affordable and reliable electricity grid.",
-      "cat": "Natural resources"
+      "title": "Minister announces electricity funding for Alberta grid",
+      "sum": "The Minister of Energy and Natural Resources will announce funding to support improvements to Alberta's electricity grid. The funding is intended to support a cleaner, more affordable and reliable electricity system.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "94b14b8e5811fe27",
       "date": "2026-07-02",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/minister-joly-announces-significant-federal-investment-in-adf-group-incs-project-to-strengthen-canadas-domestic-steel-production.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly announces significant federal investment in ADF Group Inc.’s project to strengthen Canada’s domestic steel production",
-      "sum": "ADF is upgrading its facilities in Terrebonne and Métabetchouan to help meet the growing demand for heavy steel structures",
+      "title": "Federal investment announced for ADF Group steel production upgrade",
+      "sum": "The federal government is investing in ADF Group Inc. to upgrade steel production facilities in Terrebonne and Métabetchouan. The upgrades aim to increase Canada's domestic capacity for heavy steel structures.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "507b74ce2109dc3c",
+      "date": "2026-07-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaGNLbHlhbk45cG94LXF4NHJxYlkwN2g5Yi1MMWh4aGFOR3lZMEJ2WUd6VlFpWXhRNXZYMWZTSlYxckhEZTlPS3BmTTNCWUtZSWw0bjFUY0xkem1tWnFOOE1TWHNZVmRRckQtbTVVemI1YWZ3b2oyR2tfa3RXcGsxbnVac25ZcjhRcDVCZTkyTjJSalB5dHVDR3dHNWR4RS1VWGNaQ0p0MTZWLTduQUFiY25GMnZocnV5YlZjYnFCSVRiYXdTVEk1U0JzalpyWEVvQnFuUWlnWEd3T0xaQXRlOXg4ZmowQmJNN2tLcERpaXVleHN4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada’s trade and energy ambitions are tightly bound as Mark Carney looks to the U.S. — and Alberta - Toronto Star",
+      "excerpt": "Canada’s trade and energy ambitions are tightly bound as Mark Carney looks to the U.S. — and Alberta Toronto Star",
       "cat": "Economy"
     },
     {
@@ -5459,15 +5933,49 @@
       "ai": true
     },
     {
+      "id": "50d8b050e5105f03",
+      "date": "2026-06-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XdGlfM0lfNFRsbHJjSDdiZ2xMb1Zmend4YXNpRGlxTzlpcXlRR1JxU1p5Qi1KT2EtaUgycmFXTExsMnZlWE12RnVha29KckRqSjQ2YkVhakEtemZZWFFPdVNCRENPZDE5Y05HU1ZPYTVXTklSdzdxcTNyQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "PM Mark Carney will be in Alberta for Canada Day - CityNews Edmonton",
+      "excerpt": "PM Mark Carney will be in Alberta for Canada Day CityNews Edmonton",
+      "cat": "Economy"
+    },
+    {
+      "id": "c81953f2388894a9",
+      "date": "2026-06-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGZyUTQtcEFVMS05Y2pzN0ZqcmxUV2dPOUp1QkRzbUwxangwa2pJRk1qNXdXVk5iU1EzaHdjWm9OREttNy1jTjMtam5hSFVnc0x3MFdlc0NLWUxHc3Jkb01NOU04cU9SSmZLT2VGdlI3Zm1IdGVkNHpDOHNGM3ZjM3U4R3g0YmJGbEd3UFpWajlfQ1ZVU1NFUnc4OA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Mark Carney says he’ll be in Alberta for Canada Day - paNOW",
+      "excerpt": "Prime Minister Mark Carney says he’ll be in Alberta for Canada Day paNOW",
+      "cat": "Economy"
+    },
+    {
+      "id": "9b8576ec79ba6e20",
+      "date": "2026-06-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZURVQ2Y5cURWb2NaZ2ZVM1NoeHZIY3BjYXJTcjVxQTliVjJqY1hhSy1jdHg1UEFjckhlMTlSSkpoU3h1eDVrNnY5UnFKOE5aMkQzekxLX0NsY1ZmVEFsWmd5MEJyS1U0Sk9raFZ6MDhKMlFSSTNvUFk4V0lCWWNjUW9SNU9ZeTlsQV8wS29TNV9yd2JtX3Q5NVk1azU1RU9qNnlnVkpEWEtwd29EVUFkMmRBVlVsemwtamJGdDNzZ2E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Foreign investors buy record amounts of Canadian government debt, lowering Carney's borrowing costs - Reuters",
+      "excerpt": "Foreign investors buy record amounts of Canadian government debt, lowering Carney's borrowing costs Reuters",
+      "cat": "Foreign affairs"
+    },
+    {
       "id": "79adbdd3edd1f871",
       "date": "2026-06-30",
       "src": "Natural Resources Canada (NRCan)",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/minister-hodgson-meets-with-polands-minister-of-energy-milosz-motyka.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Hodgson Meets with Poland’s Minister of Energy, Milosz Motyka",
-      "sum": "On June 29, 2026, Canada’s Minister for Energy and Natural Resources, Tim Hodgson, and Poland’s Minister of Energy, Miłosz Motyka, met on the margins of the International Energy Agency’s Global Conference on Energy Efficiency. They reaffirmed Canada and Poland’s strong and growing bilateral relationship and advanced cooperation in support of a secure, sustainable, and affordable energy future.",
-      "cat": "Foreign affairs"
+      "title": "Canada and Poland advance energy cooperation",
+      "sum": "Canada's Minister for Energy and Natural Resources met with Poland's Minister of Energy on June 29, 2026, to discuss bilateral cooperation on energy security and sustainability.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "8ba9582dac0f4b96",
@@ -5476,9 +5984,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/canadaeuropean-commission-readout-meeting-between-the-minister-of-energy-and-natural-resources-and-commissioner-dan-jrgensen.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada–European Commission Readout: Meeting between the Minister of Energy and Natural Resources and Commissioner Dan Jørgensen",
-      "sum": "On June 29, 2026, Tim Hodgson, Canada’s Minister of Energy and Natural Resources met with Dan Jørgensen, European Commissioner for Energy and Housing, in Montreal, on the margins of the International Energy Agency’s Global Conference on Energy Efficiency.",
-      "cat": "Housing"
+      "title": "Canada and EU discuss energy and housing cooperation",
+      "sum": "Canada's Minister of Energy and Natural Resources met with the European Commissioner for Energy and Housing on June 29, 2026, in Montreal to discuss energy matters.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "5a1bf60650712086",
@@ -5487,42 +5996,46 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/global-leaders-advance-action-on-energy-efficiency-affordability-and-security-at-the-iea-global-conference-in-montreal.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Global leaders advance action on energy efficiency, affordability and security at the IEA Global Conference in Montreal",
-      "sum": "Today, the 11th Annual Global Conference on Energy Efficiency concluded in Montreal, bringing together ministers, industry leaders and international experts to accelerate global progress on energy efficiency, security and affordability.",
-      "cat": "Foreign affairs"
+      "title": "Global energy efficiency conference concludes in Montreal",
+      "sum": "The 11th Annual Global Conference on Energy Efficiency concluded in Montreal, bringing together government ministers, industry leaders and international experts to discuss energy efficiency, security and affordability.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "f90bace061538900",
       "date": "2026-06-30",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/secretary-of-state-belanger-highlights-the-launch-of-the-national-food-security-strategy.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Secretary of State Belanger highlights the launch of the National Food Security Strategy",
-      "sum": "The Government of Canada is focused on building a stronger economy and making life more affordable for Canadians.",
-      "cat": "Economy"
+      "title": "Government launches National Food Security Strategy",
+      "sum": "The Secretary of State announced the launch of the National Food Security Strategy. The government stated this initiative is part of broader efforts to strengthen the economy and improve affordability for Canadians.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "67b6a64d239b4fef",
       "date": "2026-06-30",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-joly-to-announce-investment-to-adf-group.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly to announce investment to ADF Group",
-      "sum": "The Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions, will announce a Strategic Response Fund investment in ADF Group Inc. The announcement will be made in the presence of Bernard Drainville, Quebec Minister of Economy, Innovation and Energy.",
-      "cat": "Innovation, science & industry"
+      "title": "Government announces Strategic Response Fund investment in ADF Group",
+      "sum": "Minister Joly will announce a Strategic Response Fund investment in ADF Group Inc., a Quebec-based company. The announcement will be made jointly with Quebec's Minister of Economy, Innovation and Energy.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "aa1ddfe8d34bc282",
       "date": "2026-06-30",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/canada-and-germany-strengthen-industrial-partnership-to-build-resilient-semiconductor-supply-chains.html",
-      "type": "Spending",
+      "type": "International agreement",
       "kind": "official",
-      "title": "Canada and Germany strengthen industrial partnership to build resilient semiconductor supply chains",
-      "sum": "Deepened cooperation will support resilient supply chains and the technologies that power innovation, economic growth and artificial intelligence",
-      "cat": "Innovation, science & industry"
+      "title": "Canada and Germany strengthen semiconductor supply chain partnership",
+      "sum": "Canada and Germany have agreed to deepen industrial cooperation on semiconductor supply chains. The partnership aims to support resilient supply chains and technologies that support innovation and economic growth.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "3274912f396506a6",
@@ -5549,26 +6062,39 @@
       "ai": true
     },
     {
+      "id": "d455f50e6cc691ad",
+      "date": "2026-06-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1dBMFlYRGZQb1o1RC14YW9OaVJ2b2RWZkk3cmdwNmhiRGVaMEpXV3hoNW5vWWhWUk8wMTUyTDhBTXdxc0h2ejhPWnRZcGVVb1htZkpERU55WWRiejZTMmFOS2ZPd1Y0eTJpNm9udjdiM0ZPR21ueF9zWmczOHNaX2FvNkJmZlZqZHpkNW5lWkRWam5Jckd1ZW0wNTJ3QXk4a2ZYRWxmR3JaenVHVFAzZ2hNcEpta3NvaVZlY2ZhU0NyN29ZYmhVbFYwMjRlUGJlVXdIaFktVTRDdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "COMMENTARY: Carney’s Command of Canada’s Projects: What Gets Built, What Gets Blocked, and Who Decides - Ron Wallace - EnergyNow",
+      "excerpt": "COMMENTARY: Carney’s Command of Canada’s Projects: What Gets Built, What Gets Blocked, and Who Decides - Ron Wallace EnergyNow",
+      "cat": "Natural resources"
+    },
+    {
       "id": "5fedf3733b73ec92",
       "date": "2026-06-29",
       "src": "Public Safety Canada (PS)",
       "url": "https://www.canada.ca/en/public-safety-canada/news/2026/06/secretary-of-state-sahota-highlights-launch-of-national-food-security-strategy.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Secretary of State Sahota highlights launch of National Food Security Strategy",
-      "sum": "Backed by more than $3 billion in investments over 10 years, this strategy will drive productivity and innovation, support independent grocers, and create greater competition across Canada’s food system to help lower prices for Canadians.",
-      "cat": "Public safety"
+      "title": "Government launches National Food Security Strategy with $3 billion investment",
+      "sum": "The government introduced a National Food Security Strategy supported by more than $3 billion in funding over 10 years. The strategy aims to increase productivity and innovation in Canada's food system, support independent grocers, and promote competition to help reduce food prices.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "9379b8e1e9bd55ae",
       "date": "2026-06-29",
       "src": "Natural Resources Canada (NRCan)",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/canadaitaly-joint-statement-on-the-ministerial-energy-dialogue-meeting.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
-      "title": "Canada—Italy Joint Statement on the Ministerial Energy Dialogue Meeting",
-      "sum": "Canada—Italy Joint Statement on the Ministerial Energy Dialogue Meeting",
-      "cat": "Natural resources"
+      "title": "Canada and Italy establish ministerial energy dialogue meeting",
+      "sum": "Canada and Italy have initiated a ministerial-level energy dialogue to discuss energy-related matters between the two countries. This establishes a formal mechanism for government officials from both nations to meet and coordinate on energy policy.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "aad929c57e1e7e1f",
@@ -5577,9 +6103,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/canada-drives-lower-bills-and-cleaner-energy-in-quebec-british-columbia-nova-scotia-and-prince-edward-island.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada drives lower bills and cleaner energy in Quebec, British Columbia, Nova Scotia and Prince Edward Island",
-      "sum": "Canada drives lower bills and cleaner energy in Quebec, British Columbia, Nova Scotia and Prince Edward Island",
-      "cat": "Natural resources"
+      "title": "Federal government supports lower energy bills and clean energy initiatives",
+      "sum": "The federal government is working with Quebec, British Columbia, Nova Scotia, and Prince Edward Island to reduce energy bills for residents and advance cleaner energy solutions in these provinces.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "9136da7f173e3f2c",
@@ -5588,9 +6115,54 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/backgrounder-canada-drives-lower-bills-and-cleaner-energy-in-quebec-british-columbia-nova-scotia-and-prince-edward-island.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Backgrounder: Canada drives lower bills and cleaner energy in Quebec, British Columbia, Nova Scotia and Prince Edward Island",
-      "sum": "Backgrounder: Canada drives lower bills and cleaner energy in Quebec, British Columbia, Nova Scotia and Prince Edward Island",
-      "cat": "Natural resources"
+      "title": "Canada supports lower energy bills and cleaner power in four provinces",
+      "sum": "The federal government is working with Quebec, British Columbia, Nova Scotia, and Prince Edward Island to reduce energy bills for residents and increase clean energy production. The initiative involves federal support for these provinces' energy goals.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "72f8cafc9d3ade4c",
+      "date": "2026-06-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRENWRzA3Tlppc3VJZnF5eE1XVUhNU0lLbWZQT3Q5ajB6V3RFam5LdlVhQlhVUURndG5oRnl2YUVwN1ktNk5rd1pMYjltVXF1d051b1luZGhSNk1ROElvNldxckFfZ0x3aXB4YTAwLTlIbWt0VV9IaG0wWjN3Tk50QTRWbw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Conrad Black: The Carney government's Canada Day conundrums - National Post",
+      "excerpt": "Conrad Black: The Carney government's Canada Day conundrums National Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "76e83d05d781760f",
+      "date": "2026-06-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbDlPWVJMcmYwRXVmczY0dzBLSEU0T1RZSW0zZTF1dmgyUlBJTGJMSEt3dWJkMUlpbThiem1iUXZaRVl1Z3JvNlVNNmEwajV5bUs2UDZaeHBqNzhhYWN3N1M1TmNtUS1GOFN3NC1MN292bVdQdW4xMEdlRV9uc0c1X3Bqd283RVdYd19TT0pRaU5idjNxZ0xiX3prWVptTEVNTExtaGN3SjVrdnpsVEk4ZGxKV18ydms3dnNiRXJNMWE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney announces national competition to restore official residence at 24 Sussex Drive - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces national competition to restore official residence at 24 Sussex Drive pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
+      "id": "514e5ffe6ecfa693",
+      "date": "2026-06-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ybndwM3REYkJ1T2VOV1NJNy0wT0VMd2RsbHV6M0ttLTRCYVdaZEJPcVR6WHJIUnc0dS1MOFh0dWNTODdlZ3FiVzNnOG9PVlZzeDZYaUJaZXNKNTl6MDBJV3RCbklmQ3J5QTlBdE00cGE3UQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "New federal agencies won’t fix old problems with delivery - Policy Options",
+      "excerpt": "New federal agencies won’t fix old problems with delivery Policy Options",
+      "cat": "Economy"
+    },
+    {
+      "id": "42e11bce1edfb61c",
+      "date": "2026-06-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWllGekcyUXlrZU41dGYzSndwU0tRa18tVTBBREZOV1IxbzN1ZmYwa20yejRoV2RHQ1VGSUtvMmwtMWVIcWtCYndGa244UTRxWHN3RXpjRDBGWmY3OFJUUHhrUWt4WWUyZHQxSWxseGl1RnJYLWktS01sZjZEM2RER0VBbTU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Opinion: Carney should reject top-down big government and pivot to sound policy - Financial Post",
+      "excerpt": "Opinion: Carney should reject top-down big government and pivot to sound policy Financial Post",
+      "cat": "Economy"
     },
     {
       "id": "c4ed609b39cfe30f",
@@ -5645,33 +6217,36 @@
       "date": "2026-06-26",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/canada-and-germany-to-strengthen-collaboration-on-semiconductors.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Canada and Germany to strengthen collaboration on semiconductors",
-      "sum": "Carlos Leitão, Parliamentary Secretary to the Minister of Industry, and Stefan Rouenhoff, Parliamentary State Secretary at the Federal Ministry for Economic Affairs and Energy of Germany, will announce deeper cooperation on shared priorities in the semiconductor sector.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada and Germany announce semiconductor collaboration agreement",
+      "sum": "Canada and Germany will announce plans to strengthen cooperation on semiconductors and shared priorities in the sector. Officials from both countries' economic and industry departments will make the announcement.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "b98367e05f73e08c",
       "date": "2026-06-26",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-joly-to-attend-an-announcement-with-minerai-de-fer-quebec-champion-iron.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly to attend an announcement with Minerai de fer Québec (Champion Iron)",
-      "sum": "The Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions as well as Mr. Claude Guay, Parliamentary Secretary to the Minister of Natural Resources of Canada, will attend an announcement with Minerai de fer (Champion Iron) and show support for the steel industry.",
-      "cat": "Innovation, science & industry"
+      "title": "Minister Joly to attend Champion Iron announcement",
+      "sum": "Minister of Industry Mélanie Joly and a Parliamentary Secretary will attend an announcement with mining company Minerai de fer Québec (Champion Iron) to show support for Canada's steel industry.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "549a991edecd5527",
       "date": "2026-06-26",
       "src": "Public Safety Canada (PS)",
       "url": "https://www.canada.ca/en/public-safety-canada/news/2026/06/government-of-canada-invests-in-youth-crime-prevention-in-nunavut.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
-      "title": "Government of Canada invests in youth crime prevention in Nunavut",
-      "sum": "Today, Jacques Ramsay, Parliamentary Secretary to the Minister of Public Safety, on behalf of the Honourable Gary Anandasangaree, Minister of Public Safety, announced $1.59 million in federal support to the Department of Justice of the Government of Nunavut for a youth crime prevention project through the Crime Prevention Action Fund (CPAF).",
-      "cat": "Justice"
+      "title": "Canada funds youth crime prevention project in Nunavut",
+      "sum": "The federal government announced $1.59 million in funding to Nunavut's Department of Justice for a youth crime prevention project. The funding comes through the Crime Prevention Action Fund.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "048427bb3b3a2582",
@@ -5680,9 +6255,10 @@
       "url": "https://www.canada.ca/en/public-safety-canada/news/2026/06/minister-anandasangaree-highlights-launch-of-national-food-security-strategy.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Anandasangaree highlights launch of National Food Security Strategy",
-      "sum": "The Government of Canada is focused on building a stronger economy and making life more affordable for Canadians. Today, the Honourable Gary Anandasangaree, Minister of Public Safety, on behalf of the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, highlighted the launch of the National Food Security Strategy.",
-      "cat": "Economy"
+      "title": "Government launches National Food Security Strategy",
+      "sum": "The Government of Canada announced the launch of a National Food Security Strategy to address food security issues. The announcement was made by the Minister of Public Safety on behalf of the Minister of Agriculture and Agri-Food.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "0f2b391990b0a9ca",
@@ -5691,9 +6267,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/minister-hodgson-advances-canadas-mission-to-be-an-energy-superpower-at-emmc-2026.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Hodgson advances Canada’s mission to be an energy superpower at EMMC 2026",
-      "sum": "This week, while attending the 2026 Energy and Mine Ministers’ Conference (EMMC) in Yellowknife, Northwest Territories — the annual gathering of federal, provincial and territorial ministers responsible for energy and mining — the Honourable Tim Hodgson, Minister of Energy and Natural Resources, advanced key actions the Government of Canada is taking to strengthen our mining and energy sectors.",
-      "cat": "Natural resources"
+      "title": "Energy Minister presents government mining and energy sector policies",
+      "sum": "Minister Hodgson attended the 2026 Energy and Mine Ministers' Conference in Yellowknife to present federal government actions aimed at strengthening Canada's mining and energy sectors. The conference brought together federal, provincial, and territorial ministers responsible for energy and mining.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "ff8e053814b286ce",
@@ -5702,9 +6279,21 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/canada-takes-action-to-advance-a-stronger-grid-and-increase-reliable-affordable-energy.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada takes action to advance a stronger grid and increase reliable, affordable energy",
-      "sum": "Today, following discussions at the Energy and Mines Minister’s Conference (EMMC), the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced that the federal government will prioritize financial and regulatory support for the following transmission projects.",
-      "cat": "Natural resources"
+      "title": "Federal government prioritizes support for transmission grid projects",
+      "sum": "Following discussions at the Energy and Mines Minister's Conference, the federal government announced it will provide financial and regulatory support to advance electricity transmission projects across Canada.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "63faf618b6920920",
+      "date": "2026-06-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnFWM0Nmb3NzVS00LWxKTTJHcFN5M0N6UUJmVnduOEdEWDVxX0RnaThNRndxRGI2cmFUdmowOUJmUFVMcXFfT3BfNmhVZms2QkptdV9XUzRpRlhVVHB5aVFoYTB3b3U5OEE5ZUVQbE1ub2F5TVZUaXI1N201RktXSU04SHE5a2ZpZ1N5Q1RqYmlzZldralE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal government on pace to meet Carney public service reduction target, experts say - Ottawa Citizen",
+      "excerpt": "Federal government on pace to meet Carney public service reduction target, experts say Ottawa Citizen",
+      "cat": "Economy"
     },
     {
       "id": "87646adc0c4bf71a",
@@ -5783,11 +6372,34 @@
       "date": "2026-06-25",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-valdez-announces-investment-in-toronto-ai-company-that-helps-businesses-connect-with-diverse-markets.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Valdez announces investment in Toronto AI company that helps businesses connect with diverse markets",
-      "sum": "Minister Valdez announces investment in Toronto AI company that helps businesses connect with diverse markets",
-      "cat": "Economy"
+      "title": "Government invests in Toronto AI company for market diversity",
+      "sum": "Minister Valdez announced a government investment in a Toronto-based artificial intelligence company that provides tools to help businesses reach diverse markets.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "d3abc2530f3aa926",
+      "date": "2026-06-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMUEzMTRGaEhyVjF2b2FBb29BcXZHamw5NjlPSE1wX2doUlo2d1B2dG9aZ0Y0T293ZUJrTExxWW1Ydkt1cHRRNnhXRDllUnd0WUtxWmx1czA5aFFaam9oNUItejExVUFVRWpwb0U5X3dRVFVWWlhEYUdqSXBoSXp5N01jcGVKTkYzR0I4a2R0RWQwZWZ6cXRuM2szX1FLNUxobVNQcFYyeXRZNWM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government already clawing back ‘MOU’ promises made to Alberta - Fraser Institute",
+      "excerpt": "Carney government already clawing back ‘MOU’ promises made to Alberta Fraser Institute",
+      "cat": "Justice"
+    },
+    {
+      "id": "f6300ac19e10971e",
+      "date": "2026-06-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mMktnemxuV09fdnllYmZQdDJfWGYxai1TUTJjYjdWT2tUSzFEVlhCeFhYNXpjbTQybmplU3FhSFpBLTRiV2ZESUpPLUhrUlVMdnI5NV9JTFFUeVI1OW9ZNTYwOS12OXhvNW5F?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal Polling: Liberals Maintain Lead as Satisfaction with Carney Government Rises - leger360.com",
+      "excerpt": "Federal Polling: Liberals Maintain Lead as Satisfaction with Carney Government Rises leger360.com",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "5cea06663f7b1f9d",
@@ -5854,11 +6466,23 @@
       "date": "2026-06-24",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-valdez-to-announce-artificial-intelligence-investment.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Valdez to announce artificial intelligence investment",
-      "sum": "Minister Valdez to announce artificial intelligence investment",
-      "cat": "Economy"
+      "title": "Minister Valdez announces artificial intelligence investment",
+      "sum": "Minister Valdez is making an announcement regarding government investment in artificial intelligence. The specific details of the investment amount and focus areas are not provided in this notice.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "51fc41e67e528f13",
+      "date": "2026-06-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORWZBN0hXYzI2SzRuRHFCRG9pNkVKTkM4Vmd1a0xXSThVbEdKYzFEaE95SHBwMkdsVkVxOWN6dTEtOTNHRlBCYmtaT3RQclh2OEk5bi0tNHE4NHFTelh3cTNBX3F1MUN6dnVjNzg0S0c1S25YN0kxV3hjc0dTOTdlUms4X2xYaFdCSjFjbkdDZU5Wbkt1WW1Xc3lZU2ZpbDNqb3paZ3RIZUVrRjdEcllJZWpuWDhCeFZEOTNGckpiYWNnWGNhMnNRcTA2WjdxNnhNS2I4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Fact-checking PM Carney’s claim that government buying 2,200 condo units will help affordable housing crisis - The Hub | More Signal. Less Noise.",
+      "excerpt": "Fact-checking PM Carney’s claim that government buying 2,200 condo units will help affordable housing crisis The Hub | More Signal. Less Noise.",
+      "cat": "Housing"
     },
     {
       "id": "85e520686ff0cf2d",
@@ -5927,9 +6551,10 @@
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/government-of-canada-invests-100-million-in-vital-health-data-platform.html",
       "type": "Spending",
       "kind": "official",
-      "title": "Government of Canada invests $100 million in VITAL health data platform",
-      "sum": "VITAL will securely connect hospital data to improve health services, accelerate research and support Canadian innovation",
-      "cat": "Healthcare"
+      "title": "Canada invests $100 million in VITAL health data platform",
+      "sum": "The Government of Canada is providing $100 million in funding for VITAL, a platform designed to securely connect hospital data across the country. The platform is intended to improve health services, speed up health research, and support innovation in Canada.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "2a0c1f1037d358b1",
@@ -5938,9 +6563,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/06/five-manitoba-first-nations-reach-major-milestones-in-improving-access-to-safe-drinking-water0.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Five Manitoba First Nations reach major milestones in improving access to safe drinking water",
-      "sum": "Today, the Honourable Rebecca Chartrand, on behalf of the Honourable Mandy Gull-Masty, Minister of Indigenous Services, joined Long Plain First Nation to celebrate the completion of upgrades to and an expansion of its water treatment plant.",
-      "cat": "Indigenous services"
+      "title": "Five Manitoba First Nations complete water treatment upgrades",
+      "sum": "Five Manitoba First Nations have completed improvements to their water treatment infrastructure to increase access to safe drinking water. The Minister of Indigenous Services marked the completion of upgrades and expansion at Long Plain First Nation's water treatment plant.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "5c366ecf3a015ffc",
@@ -5949,9 +6575,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/06/five-manitoba-first-nations-reach-major-milestones-in-improving-access-to-safe-drinking-water.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Five Manitoba First Nations reach major milestones in improving access to safe drinking water",
-      "sum": "Five First Nations in Manitoba are marking milestones in improving access to safe and reliable drinking water for nearly 10,000 community members.",
-      "cat": "Indigenous services"
+      "title": "Five Manitoba First Nations reach drinking water access milestones",
+      "sum": "Five First Nations in Manitoba have achieved progress in improving safe drinking water access for approximately 10,000 community members. The milestones represent advancement in water infrastructure for these communities.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "dd36548bf2f889ae",
@@ -5972,9 +6599,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/minister-hodgson-highlights-launch-of-national-food-security-strategy.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Hodgson highlights launch of National Food Security Strategy",
-      "sum": "Minister Hodgson highlights launch of National Food Security Strategy",
-      "cat": "Public safety"
+      "title": "National Food Security Strategy launched by Minister Hodgson",
+      "sum": "Minister Hodgson announced the launch of a National Food Security Strategy. The strategy addresses food security issues across Canada.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "c1daa271199124cb",
@@ -5983,9 +6611,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/government-of-canada-invests-216-million-in-first-of-its-kind-clean-energy-project-in-manitoba.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Government of Canada invests $21.6 million in first-of-its-kind clean energy project in Manitoba",
-      "sum": "Today, the Honourable Rebecca Chartrand, Minister of Northern and Arctic Affairs and Minister responsible for the Canadian Northern Economic Development Agency, on behalf of the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced $21.6 million in federal funding for a suite of projects that will transform how electricity is generated and managed in Sayisi Dene First Nation, located in the…",
-      "cat": "Natural resources"
+      "title": "Canada funds $21.6 million clean energy project in Manitoba",
+      "sum": "The federal government announced $21.6 million in funding for clean energy projects in Sayisi Dene First Nation, Manitoba. The projects will change how electricity is generated and managed in the community.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "9a3c2290992476b9",
@@ -5994,9 +6623,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/government-of-canada-announces-172-million-to-support-clean-energy-projects-in-nunavut.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Government of Canada announces $17.2 million to support clean energy projects in Nunavut",
-      "sum": "Today, Lori Idlout, Member of Parliament for Nunavut, on behalf of the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced $17.2 million in federal funding to support four remote renewable energy projects in Nunavut.",
-      "cat": "Natural resources"
+      "title": "Canada funds $17.2 million clean energy projects in Nunavut",
+      "sum": "The federal government announced $17.2 million in funding for four remote renewable energy projects in Nunavut. The announcement was made by the Member of Parliament for Nunavut on behalf of the Minister of Energy and Natural Resources.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "cfad8170742e74bc",
@@ -6005,31 +6635,34 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/government-of-canada-launches-nuclear-energy-strategy.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Government of Canada launches Nuclear Energy Strategy",
-      "sum": "Building on our existing strength, today, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced the release of Canada’s Nuclear Energy Strategy. A key complement to Canada’s recently released National Electricity Strategy, this new Strategy targets doubling our workforce by 2050, catalyzing billions in private investment and enabling generational investments in this key strategic asset.",
-      "cat": "Natural resources"
+      "title": "Canada releases Nuclear Energy Strategy targeting workforce doubling",
+      "sum": "The Minister of Energy and Natural Resources announced Canada's Nuclear Energy Strategy, which aims to double the nuclear workforce by 2050 and attract billions in private investment. The strategy complements the National Electricity Strategy released earlier.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "e8ebb16318d6e678",
       "date": "2026-06-22",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-valdez-announces-new-funding-for-the-women-entrepreneurship-strategy.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Valdez announces new funding for the Women Entrepreneurship Strategy",
-      "sum": "Minister Valdez announces new funding for the Women Entrepreneurship Strategy",
-      "cat": "Economy"
+      "title": "New funding announced for Women Entrepreneurship Strategy",
+      "sum": "Minister Valdez announced additional funding for the Women Entrepreneurship Strategy. The strategy aims to support women entrepreneurs in Canada.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "b766b169bd5bd426",
       "date": "2026-06-22",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/backgrounder-government-of-canada-to-help-bring-high-speed-internet-access-to-manitoba-communities.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Backgrounder: Government of Canada to help bring high-speed Internet access to Manitoba communities",
-      "sum": "On June 22, the Honourable Rebecca Chartrand, Minister of Northern and Arctic Affairs and Minister responsible for the Canadian Northern Economic Development Agency, on behalf of the Honourable Buckley Belanger, Secretary of State for Rural Development, announced over $96.8 million in funding to bring high-speed Internet access to up to 7,875 households in Manitoba through a Valler Fiber Ltd. project.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada funds high-speed internet expansion in Manitoba",
+      "sum": "The Government of Canada announced $96.8 million in funding to bring high-speed internet access to up to 7,875 households in Manitoba through a project by Valler Fiber Ltd.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "b5191b77df481489",
@@ -6038,31 +6671,45 @@
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/canada-expanding-high-speed-internet-access-in-rural-and-remote-areas-in-manitoba.html",
       "type": "Spending",
       "kind": "official",
-      "title": "Canada expanding high-speed Internet access in rural and remote areas in Manitoba",
-      "sum": "Federal investment of over $96.8 million to connect more than 7,800 homes to high-speed Internet",
-      "cat": "Economy"
+      "title": "Canada invests $96.8 million to expand rural broadband in Manitoba",
+      "sum": "The federal government is investing over $96.8 million to bring high-speed Internet access to more than 7,800 homes in rural and remote areas of Manitoba.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "6e5bcd1e495a45f1",
       "date": "2026-06-22",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-solomon-to-announce-an-investment-in-health-data-infrastructure.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Solomon to announce an investment in health data infrastructure",
-      "sum": "The Honourable Evan Solomon, Minister of Artificial Intelligence and Digital Innovation and Minister responsible for the Federal Economic Development Agency for Southern Ontario, and Maggie Chi, Parliamentary Secretary to the Minister of Health, will announce a major investment in health data infrastructure.",
-      "cat": "Healthcare"
+      "title": "Government announces investment in health data infrastructure",
+      "sum": "Minister Solomon and Parliamentary Secretary Chi will announce a major investment to support health data infrastructure. The investment aims to improve how health information is managed and used across the country.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "73f2fda87245a3ba",
       "date": "2026-06-22",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/government-of-canada-launched-the-strategic-response-fund-call-for-proposals-to-support-domestic-food-security-and-strengthen-canadian-industry.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Government of Canada launched the Strategic Response Fund call for proposals to support domestic food security and strengthen Canadian industry",
-      "sum": "With global supply chain disruptions and rising food costs posing risks to Canadian families, the Government of Canada is taking concrete action to help give Canadians access to affordable and healthy food.",
-      "cat": "Healthcare"
+      "title": "Government launches fund to support domestic food security and industry",
+      "sum": "The Government of Canada opened applications for the Strategic Response Fund to address food security concerns and support Canadian food producers. The fund responds to global supply chain disruptions and rising food costs affecting Canadian consumers.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "39b85c711e14f620",
+      "date": "2026-06-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUtPeXA1VkZlbUdSdGZNSlZfT3prYllqQ2RScEdvNjNCbDNiaWxFdG1pek1zZ2dEcWQ2dWZaSXZMNzRTTUM0ZWlJZFR5WFVUWmJ1THBMOEtGcHUwNm5NOWtMQzZvekNVZlJSQ3d2b2FPWFRlMzg1UC0xVEE0dTJIcFlSOEVxaFNyb0tMZlpha2JPeFhzZnhzWW54NnVTNDVROVdUbTBIWEN0OHdIbndJNUIwb1o?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Statement by Prime Minister Carney on National Indigenous Peoples Day - pm.gc.ca",
+      "excerpt": "Statement by Prime Minister Carney on National Indigenous Peoples Day pm.gc.ca",
+      "cat": "Indigenous services"
     },
     {
       "id": "655220265040dfd2",
@@ -6075,6 +6722,28 @@
       "sum": "Canada observed World Refugee Day and acknowledged the 75th anniversary of the 1951 Refugee Convention, which established the international system for protecting people fleeing persecution. The recognition reaffirmed the principle that individuals have the right to seek safety from persecution.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "9afbc3e7d8d0c3cf",
+      "date": "2026-06-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3ozMjYyM2lVQ0t5R28wOVpjSlhmWVBTWTk2amRYNnF4SmkzMTVIaEs1ejliT1FkQ1Y5cnRtTzJRZlZZWUp4S2ptSk1VYUdlVWtPLXpVTDVwbU03Vm14WE9UeVZyQ0RnWTc0TEJTb2xMSHphT3luaEQ2X2xQVXpPNW91MkF5WGhQelhWNHhDY0Q3eEJiOGh3dUJvcDdLNVc1ZXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government passes law allowing authorization of banned pesticides - CBC",
+      "excerpt": "Carney government passes law allowing authorization of banned pesticides CBC",
+      "cat": "Justice"
+    },
+    {
+      "id": "9dfddaac3b8e0730",
+      "date": "2026-06-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3dpZTg5RkNxMllwSWVrUFdfWW43ZVJfTzl1QnBMeWgzTVRuSzRIazJtcTRUSzJYLXY2ZWVsd2RoZTJ2SERPaDNPUGFWNDJUakVZU1F2UVpRZGZDMjQ2bWstV3ktM2lIa29aM19tcndBZDF5WFZtR1NKdmlrNHp1QjM1b2RtNzk5RFM1NmhyUVVjY3RQal9SUER6ekZiVC1IVGprQWFZWnZyQ3BYZGM0ek51SGFxcFA1TnZFR01RWmxyaEFBaGJlWm1DWmRpajY4c2tMWG1ZRDQ3UQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mark Carney’s Government is Rushing Through Major Changes to Canada’s Labour Laws. Unions Say Workers Should Be Alarmed. - PressProgress",
+      "excerpt": "Mark Carney’s Government is Rushing Through Major Changes to Canada’s Labour Laws. Unions Say Workers Should Be Alarmed. PressProgress",
+      "cat": "Justice"
     },
     {
       "id": "39895ab237e48739",
@@ -6107,9 +6776,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/minister-hodgson-to-make-nuclear-energy-announcement.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Hodgson to make nuclear energy announcement",
-      "sum": "The Honourable Tim Hodgson, Minister of Energy and Natural Resources, will make a significant announcement about Canada’s nuclear energy direction. Media availability will follow.",
-      "cat": "Natural resources"
+      "title": "Minister Hodgson announces direction on Canadian nuclear energy",
+      "sum": "Minister of Energy and Natural Resources Tim Hodgson will make an announcement regarding Canada's nuclear energy policy. Media will be available to ask questions following the announcement.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "d1199cb7d785e5d9",
@@ -6118,9 +6788,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/minister-hodgson-to-make-energy-and-mining-announcements-in-yellowknife.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Hodgson to make energy and mining announcements in Yellowknife",
-      "sum": "Minister Hodgson to make energy and mining announcements in Yellowknife",
-      "cat": "Natural resources"
+      "title": "Minister Hodgson to announce energy and mining initiatives",
+      "sum": "Minister Hodgson will make announcements regarding energy and mining in Yellowknife. The specific details of these announcements have not been disclosed.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "10f654928bee6cfa",
@@ -6129,9 +6800,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/minister-chartrand-to-make-clean-energy-announcement.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Chartrand to make clean energy announcement",
-      "sum": "The Honourable Rebecca Chartrand, Minister of Northern and Arctic Affairs and Minister responsible for the Canadian Northern Economic Development Agency, on behalf of the Honourable Tim Hodgson, Minister of Energy and Natural Resources, will make a funding announcement.",
-      "cat": "Natural resources"
+      "title": "Minister announces clean energy funding",
+      "sum": "Minister Chartrand will announce funding for clean energy initiatives on behalf of the Minister of Energy and Natural Resources. The announcement will address clean energy development priorities.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "8c1180fad77508a3",
@@ -6140,20 +6812,22 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/mp-idlout-to-make-clean-energy-announcement-for-nunavut.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "MP Idlout to make clean energy announcement for Nunavut",
-      "sum": "Lori Idlout, Member of Parliament for Nunavut, on behalf of the Honourable Tim Hodgson, Minister of Energy and Natural Resources, will make a funding announcement.",
-      "cat": "Natural resources"
+      "title": "Clean energy funding announced for Nunavut",
+      "sum": "MP Lori Idlout will announce federal funding for clean energy projects in Nunavut on behalf of the Minister of Energy and Natural Resources. The specific funding amount and project details are to be disclosed at the announcement.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "c5c9509173e2ee7d",
       "date": "2026-06-19",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-valdez-to-announce-major-federal-investments-to-support-women-entrepreneurs-in-alberta-and-across-canada.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Valdez to announce major federal investments to support women entrepreneurs in Alberta and across Canada",
-      "sum": "The Honourable Rechie Valdez, Minister of Women and Gender Equality and Secretary of State (Small Business and Tourism), will announce significant new federal funding to support women entrepreneurs in Alberta and across Canada.",
-      "cat": "Economy"
+      "title": "Federal funding announced for women entrepreneurs across Canada",
+      "sum": "Minister Rechie Valdez will announce significant federal funding to support women entrepreneurs in Alberta and across Canada. The investment aims to provide financial support to women starting or growing businesses.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "8b2e015c4f1dcb05",
@@ -6162,9 +6836,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/06/zagime-anishinabek-celebrates-the-groundbreaking-of-a-new-k-8-school.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Zagimē Anishinabēk celebrates the groundbreaking of a New K-8 School",
-      "sum": "Schools are often the cornerstone of First Nations communities, providing students with a safe place to learn and grow, and acting as a gathering place for community events and cultural activities. Investing in education infrastructure helps create opportunities for future generations, strengthens cultural identity, and supports the overall well-being of the community.",
-      "cat": "Education"
+      "title": "Groundbreaking held for new K-8 school in Zagimē Anishinabēk",
+      "sum": "Zagimē Anishinabēk has begun construction of a new kindergarten through grade 8 school. The school is expected to serve as an educational facility and community gathering space.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "fe37bd7f4d6f8915",
@@ -6183,11 +6858,122 @@
       "date": "2026-06-18",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-joly-to-hold-teleconference-during-visit-to-japan-following-engagements-in-china.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly to hold teleconference during visit to Japan, following engagements in China",
-      "sum": "Minister Joly to hold teleconference during visit to Japan, following engagements in China",
+      "title": "Minister Joly holds teleconference during Japan visit after China engagements",
+      "sum": "Foreign Affairs Minister Chrystien Joly will conduct a teleconference while visiting Japan, following previous diplomatic engagements in China.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "583da989f1f4d062",
+      "date": "2026-06-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXBBN2pfNWFXazFzLXVfY3RyQ1FnbzBVcUhwdUdleHQzenhQUS1YOWxJXzRPVE1UWnkxTnZYYWxyS3Iwb3pOaUtBR1pIS1RpVzJVdjVYN29pcm5ick9ULS0xTTVBS3ZHYVJ5TUZLdkkyRVV4V1phdEhHMnBlLUdYRDAyU1g1UVFLY1hhdWtTV2ZSbGxMbVgxaTRhWlZ4RWpaUlQ0NFI1Tnhlcm9o?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Kids taking Carney government to court - CBA National",
+      "excerpt": "Kids taking Carney government to court CBA National",
+      "cat": "Justice"
+    },
+    {
+      "id": "4d47aea0757b6878",
+      "date": "2026-06-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaWVzTmxGbGNRMVV4ZGlTUWxXS0p1NUowWUdIOGpCUHdVN1dWOXczTWY2SlN3dEJKaFBvMFB1WnpobGdHbGs4YzlqWU5Kc1hCVTBwUWdURDd1ZVIxalFUSi1ZZVlNcXViZnZNX0hJbVZ0SS13YTZaVlp3d1BxWHZUSi1lQ0RpV3ByOVpVelhFRUliMnBYUE5WazRXQlhLazNFaUQyaWNUWlpjZmdyRWdfNk4zUm5Uc0ROcGJlaWVtVE43RTgtRm94UDRra1puYk1FSVF0bk1n?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Building Canada Act’s purpose questioned as Carney government marks 1 year without a single project designated - The Hub | More Signal. Less Noise.",
+      "excerpt": "Building Canada Act’s purpose questioned as Carney government marks 1 year without a single project designated The Hub | More Signal. Less Noise.",
       "cat": "Economy"
+    },
+    {
+      "id": "48445f6cd6592748",
+      "date": "2026-06-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVTEVkSkxSOUpraWVSc3p0eEIySy1MYTF0X0lBM0dXc1hZSDVUbUtZbjFFb1NaWklva0dEMG9uMl9TbjVzUjFXSW02ZmhxcE41YzhCdXU5elM0QjM2ZHcwTHV0UzBmcFRnYmo2M3VubEUxVDJ1SWU0VTV3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadians doubt the public service is ready for future challenges - Policy Options",
+      "excerpt": "Canadians doubt the public service is ready for future challenges Policy Options",
+      "cat": "Economy"
+    },
+    {
+      "id": "eaaf2194477d4041",
+      "date": "2026-06-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkZVTHVaSFdpY3M5UGFiOVI5N3puVlluU0tZczMyckxKcVVJUmxEdWgtaTVoaXJpSDhfOV8yX0NTdkFDVXpZZ1R2S0lxWFhmRlN1dmdFMFRCRnpiaWhQV3lUejE3Z0ItbW1wQ2I2N3hRX2VOOTVrTm5WT054eWJaSi1KLVk3TFN2bWhqb1pTSk5UNVdTRGFIRW94OHdRZWRWV2hDUW5VaVBLcE9Qa29USjBB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Kids taking Carney government to court - CBA National",
+      "excerpt": "Kids taking Carney government to court CBA National",
+      "cat": "Justice"
+    },
+    {
+      "id": "f072d1155814b31c",
+      "date": "2026-06-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcy1ZWGg0RDROcEVMRzVFclQ2aDRSODh3VTkyejlDYndMa0poS3RReTNkU0RXMm5FU1dhNlBrSllmX2NDeU9VNXZrVkN1akhGVHdzaVZDdHRxMHh1aGR2cHRmdzE1VlQ4c2MzRGtYS2cybEIweVdKZVN4THJkdnE4MnJTeFhrTWI4bDh4cA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Youth, advocacy groups sue Carney government over climate rollbacks - CBC",
+      "excerpt": "Youth, advocacy groups sue Carney government over climate rollbacks CBC",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "d8955d9af1edb1a3",
+      "date": "2026-06-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOTZKNXRnVjBYLTZBY3doajNiNFJsOTBIR3lYOHBHZU8ycVhjcjZVLVVHb21tSWtrYzM2V0NHdG1Fa0c3eXlGZ2dubV9IU0lWWW5rdUtRZ3hwWDY0UUoyemhVQWFQTzgxUzNHaVZ4dlY5VGo1ajA4N2FMeWNyZXd5R1ZPSGJaeEFxSzVqQ3dwaEk4blhnWkU1UVJOejNZMC03T3BjUE5mQ0ZyQXJWbjlKWkNBN3FnNnFINmhJRXFYX3VXUU9aeVlaX0xtcnhpMEtNWVM3dTRfazU2cExwaTJLUGl4OWNodWIycUsxM0dMQUpYdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Youth sue Canadian government over climate plan - Ecojustice",
+      "excerpt": "Youth sue Canadian government over climate plan Ecojustice",
+      "cat": "Justice"
+    },
+    {
+      "id": "a694753ef948e6c4",
+      "date": "2026-06-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT1V1cUhmS29LdUNZUGtLR3VjZDMwTmlDbnFHWVk5MG9XTzFQcUU0YndqMVdQQW5jaEJxUDlvdGdyUHgxRW9WRGlOSkNod3JoOHZXVE03TGs2Sk5Eb1YxRGhYZTRsYy1YVnRDX2xjLW02aFlTSnFsY0w5ZU9zLVhYYkZqYndqb3ZsM1hyRGlmblB3cnBjTVJqZW9PaTJXTllNR1UtQ1JQTE13MEw4eHZqWWRGS194Z2V4ZUJJV25EdXpORXVpNklDWlIwaWJoOXlFa0phd25CWQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Youth unite with advocacy groups to take federal government to court for “planning to fail” on 2030 climate target - Ecojustice",
+      "excerpt": "Youth unite with advocacy groups to take federal government to court for “planning to fail” on 2030 climate target Ecojustice",
+      "cat": "Justice"
+    },
+    {
+      "id": "d3ed26d35885ca18",
+      "date": "2026-06-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXgtWFlKckg3YXVlU1V2M19TUXcwNng1aTNuNlR1bVhNcFB6YUJ4eE01Zk1nMHNQMHRqTmpfMUd2eUVrOVNzZGNtNHluUGNrLXdmTTF3NkxObGVFT3FkYXlrOTlfZmRCVlE3dDlGbkpldDlCV21MVHV5c3JYQ244RTJMOTYxUWR5Uk9CdlZOMHV4V0lMMmNyZ3Rkbm1NVXdaMnFmejNxWQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney still cares about climate policy - Canada's National Observer",
+      "excerpt": "Carney still cares about climate policy Canada's National Observer",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "e9d5c5283d63df17",
+      "date": "2026-06-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2NpTGQyVmtCZURmOFlObkN1NWw1dE5ZY1hQVk1tbUdETEhua2tLeUpkenI4OWM2cXVuRGFqSWdJZlB3VW5XOXB0TE1oenloUFZza082VnVuWWVuTDVxWkpiRjJYbUNkQ3IyNG1sLVRfYTl4aFdaTzZ1VU5Da043THpuTmM5ZmcwNE5fYzlUWDRDd0ZXMkNIQkRn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mark Carney still cares about climate policy - Canada's National Observer",
+      "excerpt": "Mark Carney still cares about climate policy Canada's National Observer",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "9bdf245a4abafb35",
+      "date": "2026-06-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTndFVDE2enlGaVBncjVNY1FUMHFkSTMwRzA2YlBzQXk3MjZ2MGlMM25oaVF5bFJ0M1NTb0lwczBDS3ZoRjNFOUoyM245dE1SaFlnM2cxTjZuX2pNTzBMdkNpbHRNbm90alZLa21ZR0dvTlRWRll0Nl9hT0hXZUNhbGtMS0FKcGpRa3NDX0g0c3U4Q2M?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government faces first lawsuit over its climate policies - Canada's National Observer",
+      "excerpt": "Carney government faces first lawsuit over its climate policies Canada's National Observer",
+      "cat": "Justice"
     },
     {
       "id": "2f62808ae78d684b",
@@ -6206,55 +6992,60 @@
       "date": "2026-06-16",
       "src": "Indigenous Services Canada (ISC)",
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/06/minister-gull-masty-introduces-legislation-to-support-access-to-clean-drinking-water-in-first-nations-communities-and-announces-historic-funding-co.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
-      "title": "Minister Gull-Masty introduces legislation to support access to clean drinking water in First Nations communities and announces historic funding commitment",
-      "sum": "Everyone in Canada should have access to clean and safe drinking water. First Nations have long called for legislation that affirms their inherent rights, sets minimum standards for water services, recognizes their stewardship in keeping water clean, and meets their needs. Effective legislation, a national regulatory regime, and First Nations-led institutions are essential to supporting sustainable access to clean,…",
-      "cat": "Indigenous services"
+      "title": "Legislation introduced for First Nations drinking water access",
+      "sum": "The Minister introduced legislation to support clean drinking water access in First Nations communities and announced funding. The legislation aims to set minimum standards, affirm Indigenous rights, and establish a national regulatory framework for water services.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "95a20933d0019dad",
       "date": "2026-06-16",
       "src": "Indigenous Services Canada (ISC)",
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/06/bill-c-37-first-nations-clean-water-act.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
-      "title": "Bill C-37: First Nations Clean Water Act",
-      "sum": "Bill C-37, the proposed First Nations Clean Water Act, demonstrates the Government of Canada's commitment to address the priorities and concerns raised by First Nations, now and in the future.",
-      "cat": "Indigenous services"
+      "title": "Bill C-37 proposes First Nations Clean Water Act",
+      "sum": "Bill C-37 seeks to establish a clean water act specifically for First Nations communities. The legislation is presented as addressing water-related priorities and concerns raised by First Nations.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "3a45cb3967755cb7",
       "date": "2026-06-15",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/government-of-canada-tables-new-legislation-to-protect-childrens-data-strengthen-privacy-and-build-trust-in-the-digital-economy.html",
-      "type": "Spending",
+      "type": "Bill",
       "kind": "official",
-      "title": "Government of Canada tables new legislation to protect children’s data, strengthen privacy and build trust in the digital economy",
-      "sum": "Government of Canada tables new legislation to protect children’s data, strengthen privacy and build trust in the digital economy",
-      "cat": "Economy"
+      "title": "Government introduces legislation to protect children's online data privacy",
+      "sum": "The Government of Canada has introduced new legislation aimed at protecting children's personal data and strengthening privacy protections in the digital economy. The measure is intended to build greater trust in digital services.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "89865bd5afc7164f",
       "date": "2026-06-15",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/government-of-canada-introduces-legislation-to-protect-canadians-privacy-in-the-digital-age.html",
-      "type": "Spending",
+      "type": "Bill",
       "kind": "official",
-      "title": "Backgrounder: Government of Canada introduces legislation to Protect Canadians’ Privacy in the Digital Age",
-      "sum": "Today, the Government of Canada introduced Bill C-36, an Act to enact the Protecting Privacy and Consumer Data Act (PPCDA), to amend the Personal Information Protection and Electronic Documents Act and to make consequential and related amendments to other Acts.",
-      "cat": "Economy"
+      "title": "Canada introduces bill to update privacy laws for digital era",
+      "sum": "The Government of Canada introduced Bill C-36, which creates new privacy legislation called the Protecting Privacy and Consumer Data Act. The bill also amends existing privacy and data protection laws.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "ac41fe06cf8113ca",
       "date": "2026-06-15",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-joly-to-travel-to-china-and-japan-to-advance-canadian-interests-abroad.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly to travel to China and Japan to advance Canadian interests abroad",
-      "sum": "The Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions, and the Honourable Kody Blois, Parliamentary Secretary to the Prime Minister, will travel to China and Japan from June 14 to 23, 2026, to advance Canadian priorities and promote economic growth.",
-      "cat": "Transportation"
+      "title": "Minister Joly travels to China and Japan for economic discussions",
+      "sum": "Minister of Industry Mélanie Joly and Parliamentary Secretary Kody Blois will visit China and Japan from June 14-23, 2026. The trip aims to advance Canadian priorities and promote economic growth.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "84f85aeea76a89ae",
@@ -6263,31 +7054,78 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/06/minister-gull-masty-to-make-historic-announcement-on-first-nations-drinking-water.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty to make historic announcement on First Nations drinking water",
-      "sum": "The Honourable Mandy Gull-Masty, Minister of Indigenous Services, will hold a press conference and media availability on an Act respecting water, source water, drinking water, wastewater and related infrastructure on First Nation lands.",
-      "cat": "Indigenous services"
+      "title": "Minister announces legislation on First Nations water infrastructure",
+      "sum": "The Minister of Indigenous Services will hold a press conference to announce an Act addressing water, drinking water, wastewater and related infrastructure on First Nation lands.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "e87353361f982512",
+      "date": "2026-06-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGRUZTJ3LTEyV29pVmhUaVM0cVJQaXE3Y3BUek5MM3ktRno1OENQNFVac3Z5bEFMSUFHcVY5QnJWSm9LUjgyMTdmakVrejYxeW5BelpzRDhtX0xab3BtZ0c3a3dSRU56QUZSS0VzRUZVYWFZNk5LT1k5dGxwb01ERE1BVnBYbGRUTnFlUmd3ZkpTSF9vYl9XQWV3LTM1RmhFR3R3a0xJbVZkUXlXQTRuZg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Statement by Prime Minister Carney on National Public Service Week - pm.gc.ca",
+      "excerpt": "Statement by Prime Minister Carney on National Public Service Week pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "b252ba06092c860d",
       "date": "2026-06-12",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/government-of-canada-officials-to-hold-a-media-technical-briefing-regarding-the-new-bill-entitled-an-act-to-enact-the-protecting-privacy-and-consum.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Government of Canada officials to hold a media technical briefing regarding the new bill entitled An Act to enact the Protecting Privacy and Consumer Data Act, to amend the Personal Information Protection and Electronic Documents Act and to make amendments to other Acts",
-      "sum": "Officials from Innovation, Science and Economic Development Canada will hold a technical briefing for the media regarding the new bill entitled An Act to enact the Protecting Privacy and Consumer Data Act, to amend the Personal Information Protection and Electronic Documents Act and to make amendments to other Acts.",
-      "cat": "Innovation, science & industry"
+      "title": "Government to brief media on new privacy and consumer data bill",
+      "sum": "Officials from Innovation, Science and Economic Development Canada will hold a technical briefing for media about a new bill that creates the Protecting Privacy and Consumer Data Act and amends related privacy legislation.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "a104df9f08dacaaa",
       "date": "2026-06-12",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/statement-from-minister-valdez-and-secretary-of-state-van-koeverden-on-fifa-world-cup-2026.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Statement from Minister Valdez and Secretary of State van Koeverden on FIFA World Cup 2026™",
-      "sum": "Today, the Honourable Rechie Valdez, Minister of Women and Gender Equality and Secretary of State (Small Business and Tourism), and the Honourable Adam van Koeverden, Secretary of State (Sport), issued the following statement on FIFA World Cup 2026™",
+      "title": "Ministers issue statement on FIFA World Cup 2026 hosting",
+      "sum": "Two federal ministers released a statement regarding Canada's involvement with the FIFA World Cup 2026. The statement was issued jointly by the Minister of Women and Gender Equality and the Secretaries of State for Small Business, Tourism, and Sport.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "1622c503ebe19768",
+      "date": "2026-06-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmNld1kwOGVCY2dOanhldjEwZjRZREFDeEZsTzdHa1dia2xmNy1qZC1WOVpUR21FMTdXTVRCS2xwOW13TGNQZ282b3dyYzF0MGJMbUJZYmRudkd4eXZ0THk0OWQyZTBCM2ZFRTAzc1F0M1lrSi1IaFdCM1RZaEdvSnJCel9ibXFwcUZVRkFpQXJoOHN4Z2l1WHRWV3JBTF93bTdpRXBzWk01RXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal Politics: Canadians cooling on Carney as gap narrows between Liberals and CPC - Angus Reid Institute",
+      "excerpt": "Federal Politics: Canadians cooling on Carney as gap narrows between Liberals and CPC Angus Reid Institute",
       "cat": "Economy"
+    },
+    {
+      "id": "6bcc60369859970c",
+      "date": "2026-06-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMDBDWXlWNXhZejZPcThZaHVBdllDQWFoczFWNXFheThGNE84a0hVOEVnbFNuYWE0Q3FDTHI3RUhjTlZCbzF2a2lMMVdRWnhGOUJiX09pYUhrcE11SWJBeDhERzBPeW9qU0xFZ091OHhqY2VGRDZXNm8tSmdmVmVkQXZndHhfZ2gxZ284LVdLTXlvZjFhdnE5bEd3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney unveils new $3.2B food security strategy - Radio-Canada",
+      "excerpt": "Carney unveils new $3.2B food security strategy Radio-Canada",
+      "cat": "Public safety"
+    },
+    {
+      "id": "113ebf91ff43f434",
+      "date": "2026-06-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2V2YzE3Tm5Iams3eDhibVBtTjFEWjlPdHNQdlM4YWtVbGRWdU9BSTZDSGdRQWo3bDN1dDNleHBYdXpKaW9oS01DUmo1WWF3R0NJOExoRHZIVmtkQ3ZQTUw4cXlBTnAzZFVZSE1PWGI1a2t3OWx3WG40QWF2WHJqSTduRkdOOEpwRjlhQ3lLN2pGTnR3QWVYN1NPS0RBcjFtbXFzaWc4bkxJQTJhYkE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Statement: New Polling Shows PM Carney Misread the Room on Climate - Environmental Defence",
+      "excerpt": "Statement: New Polling Shows PM Carney Misread the Room on Climate Environmental Defence",
+      "cat": "Sustainable development"
     },
     {
       "id": "96248ebfc8b79591",
@@ -6355,6 +7193,28 @@
       "title": "Minister Joly announces a $75 million investment in Canadian Blood Services and Canadian Armed Forces partnership",
       "sum": "Investing in Canada’s health and defence emergency readiness to keep Canadians safe at home and abroad",
       "cat": "National defence"
+    },
+    {
+      "id": "9836556526e5be6c",
+      "date": "2026-06-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83RHFDMUFUM0I1ZlNZWXlOTFFmb0dSMDBRWjV2RGpDeXA2QncxbDFGNkhtNi16TFFFMHlNSUVwYmtjLVlkT21DMDBUZmRwc1pEZTZueUttQ1lBQkdtWWhsdHJkMmxHWXBNTFJKWm1xRmpUaXRKd2c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why the Buy Canadian strategy won’t cost – or deliver -- much - Policy Options",
+      "excerpt": "Why the Buy Canadian strategy won’t cost – or deliver -- much Policy Options",
+      "cat": "Economy"
+    },
+    {
+      "id": "9f93c4197e26c0b5",
+      "date": "2026-06-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajlCZW1MTkpEWnBhNG9ad2ZJZ1hwR3pYdkRHRVdzTm9EOTZrRHNGWExCaXJ3ZkRub2xhY1UtZmN6ZzRSc0ZyN0ZaSFJwNWtUWHA5VE0zUnliVjc5eGRwdW10em8zbkY2V3lfMWhNcTdxUlVKVkZHTEpFRklvbGJIUWJ2aDRwTnFZdGhDcmpjcUlUdGF1RkdVem5RVnJhbTRLNV81RXNDRlRkM0pManFfWW1NaG1hVC16czJHQWtIQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada’s nature plan promises $3.8B for protection — but Carney promises unchecked destruction - Wilderness Committee",
+      "excerpt": "Canada’s nature plan promises $3.8B for protection — but Carney promises unchecked destruction Wilderness Committee",
+      "cat": "Economy"
     },
     {
       "id": "253502a42b3d17fa",
@@ -6448,6 +7308,28 @@
       "cat": "Economy"
     },
     {
+      "id": "1ed27230324110a3",
+      "date": "2026-06-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON2c2cF8zUWZhcjlJWjBoWi1uZ0ZaTFp4dVZ5TndrY3JjMnhxcl9RUTYyd1ZvNFhFc2tUa3FGeXFYd3ZUQnNvYlRFUDZrWkJyV1RVQTMwTmpOVTZJTGdiT0JiM0ZNQ1ZqeFlYeEgwMWRuOWxLV3Jmd19WV29aV3JDaklvQUx0ZTVBdkZkQVFfZ1FrOWNyQURqODdVSFFmTVdqdnl4V1JoeGYtODdiNlk1cFgwWVl3ODV2TkhNd2RhT2Y?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney launches AI for All: Canada’s new national artificial intelligence strategy - pm.gc.ca",
+      "excerpt": "Prime Minister Carney launches AI for All: Canada’s new national artificial intelligence strategy pm.gc.ca",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "01d2a52fb3d688ed",
+      "date": "2026-06-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3RxQ2tJSnFIY01aZmlkQXlUa0tkTTdDNEprTDlPbEpRMXEzLWtrV19MRDk4U2NnNXhfU21QN1ktOHdqVEJGeEtaMTdTVnFLbHFMY2h6enZKVy0yQlFTVm9KOGdDR0ZhWGRyLXl4QVBmZUJoOVpqaFNJdTdGcng0RzhB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal AI strategy puts focus on health care — UHN - University Health Network - UHN",
+      "excerpt": "Federal AI strategy puts focus on health care — UHN University Health Network - UHN",
+      "cat": "Healthcare"
+    },
+    {
       "id": "e35104b005e24a1b",
       "date": "2026-06-04",
       "src": "Immigration, Refugees and Citizenship Canada (IRCC)",
@@ -6470,6 +7352,28 @@
       "sum": "Canada has strengthened border screening procedures, increased information sharing, and improved fraud detection to identify non-genuine travellers. In 2025, Canada expanded authorities to cancel electronic travel authorizations, visas, and work or study permits in specific circumstances.",
       "cat": "Public safety",
       "ai": true
+    },
+    {
+      "id": "ccf0de951f17ea84",
+      "date": "2026-06-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uaDNZUE15VUNhcHlETkh0X2pPLWk0b0ZDMnNfeFJqRXpjSERnWENsdGlBRUs1bzVCdXFSaXktSlo3clViYVNlRTYxb2hFQzIxR3ZmbjQ1aldBUXR1T1ZpS1ZsaDVlaVkwNGJTakxrdGN2WlB1UzF2eG93?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal Politics: Liberals Reach Highest Level of Support - leger360.com",
+      "excerpt": "Federal Politics: Liberals Reach Highest Level of Support leger360.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "01b0257e5a1ef499",
+      "date": "2026-06-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVFSU2F3RGVSVl95THFmMWpFV3psdmtUTUg4aDJUQnNwcTVDYlpmM284bS02aThTX1FnOUFfWlJfQ09CdDdadlJ6SUxKZkhUemhLY2tFLTBDWmNPTDBtMHJiekJFbkdvbnV1SVVCRG8xb0tiQnA4VF9IZHlHYVQwZHNza1dyN2FsM2p3bjVVNThMTURHZng1LWNYNzhiSEJCbXVKLThrRkEzUjJ2dWxBRXpobnZWdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government should get truly ‘ambitious’ and reform Old Age Security - Fraser Institute",
+      "excerpt": "Carney government should get truly ‘ambitious’ and reform Old Age Security Fraser Institute",
+      "cat": "Public safety"
     },
     {
       "id": "e83d5d8b16947edf",
@@ -6578,6 +7482,28 @@
       "ai": true
     },
     {
+      "id": "8fc877560b8970d9",
+      "date": "2026-05-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcC05dTExd2p4RzVJWGltY0FVdUM2LXRJbjltYS1SQk5BbGZnZnhkck4zUlI4RDBUclhOdTNVN3BJWFZoemhJN3dETVJjZ0diZWU2dHV5MzB4YXd6aUtPbWl5QkllUUVqQjI5MFVMU0ZLTVhHa21ka3pHNlZsZkU2c2xROFZkRzVWdkt3TElwandmRmV4SFNtb252VGxidk9TaWtoQkNUVU9rbUVzd3ZOaUZwb3czTndQWG02UzVYU3FINmJ3emh3aFhBdWZHMlU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian Politics: Carney Government Approval and Liberal Lead Reach New Highs as Optimism About Canada Improves - Abacus Data",
+      "excerpt": "Canadian Politics: Carney Government Approval and Liberal Lead Reach New Highs as Optimism About Canada Improves Abacus Data",
+      "cat": "Economy"
+    },
+    {
+      "id": "5d3458ad88aa8a05",
+      "date": "2026-05-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUlRHS2xhZDZQUmE3MV9uTnZ0RFNPTjZuOVIySlJsZFhvZGRULUtmdXBYYVlpRHpjSUMxYy1WY090ZkhTY20tUU9lSkZRZE5Eank4S2pDRFEwMDEzU1NoZ21aX0Y4SU9nQnp1M2dEWFlrcFpjOGJtdnZRNVJWcTdQRWl1WXFvc3ljcnVJS1VQX3lqZGlwaXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Unions warn Carney government is considering sweeping changes to labour law — including the right to strike - CBC",
+      "excerpt": "Unions warn Carney government is considering sweeping changes to labour law — including the right to strike CBC",
+      "cat": "Justice"
+    },
+    {
       "id": "778cec47ae4b45aa",
       "date": "2026-05-22",
       "src": "Public Safety Canada (PS)",
@@ -6588,6 +7514,17 @@
       "sum": "Minister of Emergency Management Eleanor Olszewski will announce measures to improve Canada's aerial wildfire-fighting capabilities. The announcement will be made with parliamentary secretaries from emergency management and natural resources.",
       "cat": "Public safety",
       "ai": true
+    },
+    {
+      "id": "9ff86c42ebcf2470",
+      "date": "2026-05-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGFQUHp5QXA0Q1pOOTlOUlpQSnJtcG11dk9qWjRuN0pHSm5MbUJCTHd3RkUwS01WOUlpeFcyVFFYUXdpVTVyQlZHNEdaY29JbGZLVHBiMVJsOF9oSHpsOURSajhkOUp6QVp5aU40dmxfN1RHcmRGUXZGNXhYcjZnY3BSeEh4TjE5T002Nk9GN3JkLWFfbHc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney says the world is facing an 'energy crisis' and Canada must help solve it - CBC",
+      "excerpt": "Carney says the world is facing an 'energy crisis' and Canada must help solve it CBC",
+      "cat": "Natural resources"
     },
     {
       "id": "51ec31dd0a729143",
@@ -6648,6 +7585,50 @@
       "sum": "Minister Eleanor Olszewski is marking the 10th anniversary of the Fort McMurray wildfire and announcing new disaster recovery funding for Alberta. The announcement will be made during a media availability.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "085c7cef4af7cba4",
+      "date": "2026-05-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZldSVHExU3FpRXVTSTNtMzFXN3BVWnFlQm1DZDEtLVVRdUxqWkpHZEpyQ1ktNVBHODVRN0VOU1k4OGRBdlBoSnM1QV9ZeGRKZkR2cUpsUVJzSVM3RFpBVzhkZXRhbkNqOEVSaUFROTJVdjAycHJaeHB4ZWh0TlNQLWlSeGRNb2ZmVVZDOERrMF94emdNQ1JJSEJxTHpOaEtJZ0p1NFByZ0dFMHp6TGNqTXZUbnhnZWhNdXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada and Alberta strike agreement to diversify our exports, reduce emissions, and build a stronger economy - pm.gc.ca",
+      "excerpt": "Canada and Alberta strike agreement to diversify our exports, reduce emissions, and build a stronger economy pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
+      "id": "07f502ba8c7ccc7c",
+      "date": "2026-05-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YRjB6cDg4S1pWSUJxUHBhZlZIUkQ5Vm1xQzNKRzE2RFpablJMcGQycGlYVjZKeXRXS3ZoQUVBd0gtME1TbXIyWmdPVnVkWUxSTkJ1UVNPX00ybTJNdWxhakZ0d2pLVGRiekE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "The Canada Strong Fund isn’t a sovereign wealth fund — and that’s OK - Policy Options",
+      "excerpt": "The Canada Strong Fund isn’t a sovereign wealth fund — and that’s OK Policy Options",
+      "cat": "Economy"
+    },
+    {
+      "id": "2805f575773c03eb",
+      "date": "2026-05-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZW01N253MVVzUUxnejMxbVpxV1B1U1otSDY4cFR6eXluWXBvd2RUZU5VMS1WbTFoY0lBQVFqMHNlUlVMQXlhRENWTlRvRUlMTE9wa0s3UVhBOGotdVpkUjBPWXpHNloxcTBzVEtuVzBUTXQyWVprQTVXQWEwYnNhZFpGY2YwYnVuS08tc2VadzVCNGZFYkY4aFhpN0FhNHdvQUtvSDZEMExLQmM1TXRoQ3l4YWltRjlHSHAxNw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government’s ‘guardian’ stance precisely what’s wrong with Canadian health care - Fraser Institute",
+      "excerpt": "Carney government’s ‘guardian’ stance precisely what’s wrong with Canadian health care Fraser Institute",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "8b340aeab0714ebd",
+      "date": "2026-05-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT1NTQnVNU1BRR0RuaTU0a0hvWG1HLUotWFA2QndocFlCcEVCSTROM1BJZlB2b2RKRHYtSG1BZDVjRG16UGI4WFg1bFFoRE9NSXY1RVBrYU5iRWpWQkVheVlkZFhxQTI3bldKdEFhQzFkMEN4aFhTZk1EbnJ6NW5EZWZvcUQtYWFJQXdiZlREM1FoVEVKeHk2a1o5TXZtUXNiQW1PUXhBRk0wVTFidlJwT0dEMFRpYWZIV0hvSk1WTzd5S2xTV0o1QQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "PM Carney says federal government open to selling public assets to fund projects - BNN Bloomberg",
+      "excerpt": "PM Carney says federal government open to selling public assets to fund projects BNN Bloomberg",
+      "cat": "Economy"
     },
     {
       "id": "eec9f62f4bce13ea",
@@ -6719,6 +7700,17 @@
       "sum": "The 2025 budget includes measures to develop the workforce needed to increase housing construction in Halifax as part of a broader national housing strategy.",
       "cat": "Housing",
       "ai": true
+    },
+    {
+      "id": "f4de4f06bd4dee9b",
+      "date": "2026-05-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVTNQNk1uVG9tTkxfVlhuVzFDbkVHNGFQYldqcTBTLXg3c3VxR1h0RWRTdjhOUTVia3FjZE9JSkQ3QWRCbHRtZWRiZG8xUjNvRHhVa2dnb0NObjNoT0d4cER4S09oMXltZlplR0dUMkxqVnc3Z2dLZEhPbVZFSm9rNWxSVTFwbWdVYnZHSE5vNDRVazI2NkdSdjg4NVBlMDVNM1FhUWpxdmZNb05mN3JlMG5wZzhpM0FrVkE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian Politics: Carney Government Approval Hits New High as Liberals Lead Conservatives by 10 - Abacus Data",
+      "excerpt": "Canadian Politics: Carney Government Approval Hits New High as Liberals Lead Conservatives by 10 Abacus Data",
+      "cat": "Economy"
     },
     {
       "id": "fb3c856412ef75b7",
@@ -6933,6 +7925,17 @@
       "ai": true
     },
     {
+      "id": "0bad9f415702054e",
+      "date": "2026-05-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYllRQXhwbzhMSmxsSEN5OU5zOVd1U2xhblRKTlpNNHZya2REWlpyQXhYaGtxeHkweHltWUtBSThtc3hwNXp1RTF4cHA4ckVCc0dDWDRHR1piSWpKbTlnUExNaWxKNTVQbzUtME5OZ3JwbkxKZUtPdXV6YnJOR3FTSDhjanA3QlU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal Politics: Canadians Remain Satisfied as Liberals Hold Lead - leger360.com",
+      "excerpt": "Federal Politics: Canadians Remain Satisfied as Liberals Hold Lead leger360.com",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "ccdc2e8875bf0f58",
       "date": "2026-05-01",
       "src": "Immigration, Refugees and Citizenship Canada (IRCC)",
@@ -6980,6 +7983,17 @@
       "cat": "Indigenous services"
     },
     {
+      "id": "4a7b330e5d0abcd2",
+      "date": "2026-04-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DQ3Q1Y0VycDM3ODdhSXJaLVZrM21kS0FXLWtxczFWSDUtcnA1MGlxOXduckNnWWxaYm03TUlDUTRSOVVoQnljNzF2aFJHZUd6RTc5T2lFR0xUQ0g0TjJDLXR2ZDI5NFlESkJZRlFDYVZoc0N5?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney’s AI push risks harm as Ottawa automates public services - Policy Options",
+      "excerpt": "Carney’s AI push risks harm as Ottawa automates public services Policy Options",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "2b350bad93a2ba35",
       "date": "2026-04-30",
       "src": "Public Safety Canada (PS)",
@@ -6990,6 +8004,17 @@
       "sum": "Minister of Public Safety Gary Anandasangaree will join regional and municipal leaders to announce investments from the Spring Economic Update 2026 aimed at helping workers and young people develop skills and gain experience.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "c6ed0e7fa975e979",
+      "date": "2026-04-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHN6b1I3SUlKcXFaZmt3SFRhSDd0RUgzZ3FVWXhiYy1ERVpDeHREaWlwbG9FekNyc1ExVksxcEI4Z0I1MHhGU01jWlBwVjZoN19oZ3VOS2JSX01OZFVNMUFBTWRuQUVId2VTeWVpRkl4NmhYV2VMbms1ZHlRNWY4eVBnNnI3MUJUS2JUNFRWZGRlY05lMXVXd2ctOUpYdXZta2Frai1OZ2VVYXNCdVdSVkpkNDczZWs?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government should privatize Canada Post and end archaic boondoggle - Fraser Institute",
+      "excerpt": "Carney government should privatize Canada Post and end archaic boondoggle Fraser Institute",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "50f9a17ded24c8c5",
@@ -7015,6 +8040,28 @@
       "cat": "Indigenous services"
     },
     {
+      "id": "56545a4e665177e2",
+      "date": "2026-04-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDQxYlRmV05lTmU0RDZTaDZDR2RYVEF4QTQwbm5vYUZoa211VmRYdmF2dGFtWDJkNXVLdjFnV0NGZHZEZDRVLVFYYUxMUjBzb2pXTU9LWFhVLXJCUWZWX2h6RS1PTkpyNU1wX2xGMHJiS256VTV2RlY0Z1QxaG1vR2ZFbnF4UE43NHVNS2hXV182ejF3NVRZOEt4UnRvcWFpQ2xsZHBBX205Q3o2VDRvTWNHVnJGckk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney’s ‘Canada Strong Fund’ unlikely to make Canada more attractive to investors - Fraser Institute",
+      "excerpt": "Carney’s ‘Canada Strong Fund’ unlikely to make Canada more attractive to investors Fraser Institute",
+      "cat": "Economy"
+    },
+    {
+      "id": "7cd556ca89114703",
+      "date": "2026-04-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ25YM2M5bk5heGRCWVlidkZ0Zl9xQ0wtaWN0M3ZsY2hhcDJ6UGlJa0x6MjFMN25yZGNkWFc0T3VELWRtdTBCTHhVYVdNbTlnM0VMRERSMGZlaWtnRVY2ZlVUWVhVb2JoeFRGYW9faDBrWnVpQld4eWRISTZqaFk5Q1g4eWNJR3NnSkxV?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney continues borrowing binge in budget update - Canadian Taxpayers Federation",
+      "excerpt": "Carney continues borrowing binge in budget update Canadian Taxpayers Federation",
+      "cat": "Finance"
+    },
+    {
       "id": "9091f72a3cf95be8",
       "date": "2026-04-28",
       "src": "Public Safety Canada (PS)",
@@ -7025,6 +8072,50 @@
       "sum": "The Government of Canada will announce federal funding to support hosting the FIFA World Cup 2026 in Toronto and Vancouver. The announcement will be made by the Minister of Public Safety alongside Ontario and Toronto officials.",
       "cat": "Finance",
       "ai": true
+    },
+    {
+      "id": "bf9a92d47a17a16d",
+      "date": "2026-04-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlhwYWNRRmI1WmZJSWhkbDJINURXX08wOFVpWHBPeGRnMHJlZENuNEcxZTNyQjVienRrdk1tMld0VHcweU0ydG4yY1dIMXZiOFRoMkhTRFc2dklkWERGSmtmODdPZ2JVbzBwS3U1bDVXQ2RVbTlYN0swenEzdEJpa2hFbTNrVnVvTzhiTzJ3OA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney announces creation of Canada's first national sovereign wealth fund - CBC",
+      "excerpt": "Carney announces creation of Canada's first national sovereign wealth fund CBC",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "26f71f8162fd608f",
+      "date": "2026-04-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkFGeVBYSGdaU1JQVGo3VEtKaFM3aXhYN0dpcV8wYm04Ul9QaU5waXJGV2FkeFBqNVI2Uk5hRk91TW5jb0xpUGFtLXNZV1ZxTUxNWW0tVHBnd1VLSy1yWDRyNnFNV1hLcnBITzMwamtXOW9YV3RNN1Yyd3NmdWpnNlRBRFctLWQxSUthVlpQS01xWGpXYWp5OUtpS0pwOEJ2Z2Q0dEV2Y1ZYaXNVREt5MV82aUE4ekNzaUxGSA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government’s sovereign wealth fund not the best way to help grow wealth in Canada - Fraser Institute",
+      "excerpt": "Carney government’s sovereign wealth fund not the best way to help grow wealth in Canada Fraser Institute",
+      "cat": "Economy"
+    },
+    {
+      "id": "e203aad9e512d814",
+      "date": "2026-04-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHQ5Q2hwSDVNWTRtMVg5Znk0d09WZmtRZ29fbng0UGxSOWtPSXl4NWVKaVl6d3E3bDZhMWJFTnZwUXp3aUhSTXpWUkxEV0Zfc0F5LVd0SjhmM3k5OG5hZmRiQTBBcXV0YW5oc1ZON0Y3WVNMTFpNczBCUmM4UEgxSDVIcE1sSVdCVVRmVEZhOFNXVEZiU0tz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government to open its books next week with mini-budget - Canada's National Observer",
+      "excerpt": "Carney government to open its books next week with mini-budget Canada's National Observer",
+      "cat": "Finance"
+    },
+    {
+      "id": "a2a2e95e0504cf29",
+      "date": "2026-04-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObFhCc3VIaHNzUHpvekE1ck43cUNIZjJQbk9hV29TcTc4THhJTXZESU9UMC1HMDhyVzI1MWZPYXQxRng4azN2LWVtMGw2czAyc01UbTRyYmdBTUlRcTRJeWk5TlhsbUpUbUtGYlVMU3VKZTYzWE1FN2hyZjNNX1V1MEY3OU9DLUduRHdBb2FtdFFFRjVtblVmRl84MFZJb21QZk1JaTVqVjl4TlgtVHBaOXVxdkZDLUJXQUE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney announces new Advisory Committee on Canada-U.S. Economic Relations - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces new Advisory Committee on Canada-U.S. Economic Relations pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "bdd0bd05b0de8e50",
@@ -7039,6 +8130,17 @@
       "ai": true
     },
     {
+      "id": "033e5e08b402c035",
+      "date": "2026-04-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEtKOU95enpHOHZMc29fZEkyNDJuSGFzUmlHbWQtU0pyWTgybDN4M0QwYUFhV3Y3N3JJOTN2N3VmMFVMMkhUQjZHSUZXM2p6MU1Cd1ZZLUJXY3pZZ0ljdVIzRTlCUExYRmhTa1hXS19mZWphOXpzWkdiOVA2NWpyUjJFZ1BaajMwSHVPUkd3TVhtMEw2aVZXdjFocXhRM1FjMTNWMW1vdHo4amV5VDJKU2hfczF6dw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadians oppose the Middle East war. The federal government doesn’t - Policy Alternatives",
+      "excerpt": "Canadians oppose the Middle East war. The federal government doesn’t Policy Alternatives",
+      "cat": "Economy"
+    },
+    {
       "id": "b41fcc6e60816630",
       "date": "2026-04-16",
       "src": "Immigration, Refugees and Citizenship Canada (IRCC)",
@@ -7049,6 +8151,17 @@
       "sum": "Minister of Immigration Lena Metlege Diab will preside over a special citizenship ceremony welcoming 30 new citizens from 18 countries as part of Citizenship Week, celebrated April 12-18. The event marks the occasion to recognize the rights and responsibilities of Canadian citizenship.",
       "cat": "Justice",
       "ai": true
+    },
+    {
+      "id": "0b86ec494b706ffa",
+      "date": "2026-04-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGJ5LW0zSDUwZlV0LW1TZG1URWd1c1ZlWjdSZjRuZTcwbTcxdU5QZWlnX0t6bnNhTzJoSXVwSkpkbGpvVGN2dEtibFl4N1RXUFlYa0U0VFhOVTlNUmI3SGpkczE3bmtOb1hqbng1TjZrUjBJaUhFT05fbHpHWFhsTl9JdG1IOEtmdEdfZWlqRTJWRGhnZk0zOExNckV6N1ZoeFIydTBYSFBjVU5kMTA4bmpSNmQzZklCUDBzMEJ3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney suspends the federal fuel excise tax on gasoline and diesel to lower costs for Canadians - pm.gc.ca",
+      "excerpt": "Prime Minister Carney suspends the federal fuel excise tax on gasoline and diesel to lower costs for Canadians pm.gc.ca",
+      "cat": "Finance"
     },
     {
       "id": "6f610c03753475b2",
@@ -7072,6 +8185,28 @@
       "sum": "The federal government is observing Citizenship Week as an opportunity for Canadians to reflect on shared values and celebrate new citizens. The Minister highlighted the week as a time to recognize what unites the country.",
       "cat": "Culture & heritage",
       "ai": true
+    },
+    {
+      "id": "5170304121690895",
+      "date": "2026-04-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZk11ZUR2Sk5BSUpqRS1vZmxwa19hZlFKNjRGOUNOUm5uZWNfLXdPZVd6dVlfU0hEVy1ZNjZ4RU1CRkZPdm5WVWxVbGlTZHJQUTBhaDZxSHN2Uk0wUlVQMWhnWHNRTENkd1J2YzFZeHpLZC1Mc041TXhaYUkxZlN5SGFsN3MtVHhRQ2U0WU5BNDdHaGt3d21vZnd1Yi1YcTlrcTRNaA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "If this Keeps Up, Carney Could be Headed for a National Unity Government - Policy Magazine",
+      "excerpt": "If this Keeps Up, Carney Could be Headed for a National Unity Government Policy Magazine",
+      "cat": "Economy"
+    },
+    {
+      "id": "083112621544266e",
+      "date": "2026-04-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2RoZkJvWlFidDRaRTUtOXVnUGhkSy16WlRvMjJNR2NmZ0hWam4tb3ludDJpc0RBZDFIdDh3YUJ2Y2RkaUx1NkxydnRqQ19IVmhseFpNYXJrNnB1VDdGckFBZWdhaDV0dklRMUJmTjhMamhEWi02YmxjOGMxMXlGZ01wYVJ2OEpYanNCUGpHRExnQ05YY2lvRUQ3bTFaallYb2cxc1FMRGhZdXNW?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney should abandon—not continue—fiscal approach of predecessor - Fraser Institute",
+      "excerpt": "Carney should abandon—not continue—fiscal approach of predecessor Fraser Institute",
+      "cat": "Finance"
     },
     {
       "id": "19956da64559ddbc",
@@ -7152,6 +8287,28 @@
       "title": "Minister Gull-Masty to make an announcement on First Nations Child and Family Services",
       "sum": "Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will hold a press conference and media availability to provide an important update on the long-term reform of First Nations Child and Family Services.",
       "cat": "Indigenous services"
+    },
+    {
+      "id": "b953d46373d3bdc9",
+      "date": "2026-03-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3NoOGZiaWY3dTl1RXRYVkdYMmd6dS1Yb3hkN0ItYVJSTy01b0p4M2sxT0NvMVRfYUJMNVdvajh4eXk1NDFrd0g2ZkRFS0tzQTJ4ZXhkM0FwYm5FVzNhRVJFUk5naVl0anl3T2FFMGdPSE1vRXF2bmZXU2hyQ3FTT3ZaS1JRTVgwTnlQZWRyRmp5RHFQc0NqYTVUbWhQcHhWYjk3OU5lcmV1TklZVnZKcHV3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney delivers remarks at the Halifax Chamber of Commerce - pm.gc.ca",
+      "excerpt": "Prime Minister Carney delivers remarks at the Halifax Chamber of Commerce pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
+      "id": "35abae2cbc6f28e1",
+      "date": "2026-03-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUU1NOXhoNGJPNngxT3Vva0tpRGlMVmxDSUp6STVZalRmWWktaHVIYndOUHVmcF9POEk2a0JjM3JQNTdYb1lubEhxQ1RpTnk5aUdJZ0pWZ3p2b1g5TURZRWd4ak9zMEZyOTdLMGoyRElVQTBfZnZfbWloRHRlckZfUGZZcWhQZmJVZS11MmNVd0xmSUtlNWhwNDdEajgzVVFtaGM5VWdnWXlCZUJLQzQwQTV2MUYxZE5sZk1SRQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada and Nova Scotia sign a new agreement to get major projects built faster - pm.gc.ca",
+      "excerpt": "Canada and Nova Scotia sign a new agreement to get major projects built faster pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "1121841dedd501e6",
@@ -7268,6 +8425,17 @@
       "ai": true
     },
     {
+      "id": "04287267fa945042",
+      "date": "2026-03-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdllEM041YTV4ejNfZkpuNXVNczlyQTg3ejNFY1AzS25rRmUxcWs2b0Y0c092LVRwMU9zUGRwcngyQTRjaTkxUWszUEJNTjVMeldzeU5UVUhyVWFSc2ttQTVfbXJjVUtsdDYyNWRaSkNucG96MGNXSG5weU11SGdETFVnY0lpSnFXU2hoMXVKQk4ydk0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "‘One elbow up, one down’: The Carney government after its first year - iPolitics",
+      "excerpt": "‘One elbow up, one down’: The Carney government after its first year iPolitics",
+      "cat": "Economy"
+    },
+    {
       "id": "ca6474abc038d1a7",
       "date": "2026-03-13",
       "src": "Immigration, Refugees and Citizenship Canada (IRCC)",
@@ -7304,6 +8472,17 @@
       "ai": true
     },
     {
+      "id": "94b80bc4ae541050",
+      "date": "2026-03-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQjNkbjZnUV92RUNYTWtZWDJjNURFWWNiemJOTlYzSERaNGVObXRJZFBDZmhfd3laZkV2V0ZKTlVidDVISXdOZU1WM0V2T2R1R3ZFRWZzakIyc0ZPQnNlV3hmT0c1elJ2Y1E0Z2JzS2w0WmVHLWwyQTRLTU5qN2c4cUxhQnNVclotSm9qaGlmSHU2TTlhT05LSXoyWjhzZkd6QUFwR3pEdDF5YWE5U294WnZVZktxdy1rMDdnTmpfaU0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney secures ambitious new partnership with India focused on energy, talent, and technology - pm.gc.ca",
+      "excerpt": "Prime Minister Carney secures ambitious new partnership with India focused on energy, talent, and technology pm.gc.ca",
+      "cat": "Natural resources"
+    },
+    {
       "id": "ae6e4bfd006f7809",
       "date": "2026-03-02",
       "src": "Immigration, Refugees and Citizenship Canada (IRCC)",
@@ -7336,6 +8515,17 @@
       "title": "Minister Gull-Masty to make an announcement on Jordan’s Principle",
       "sum": "Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will hold a press conference and media availability to provide an important update on Jordan’s Principle.",
       "cat": "Indigenous services"
+    },
+    {
+      "id": "0ddbab121cf48469",
+      "date": "2026-02-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTV9wQmhFcXZQN0RiSWJJelFkQ3ZfLVk3WVFxWkNCa1JYUmJZbFc1LXRyal9OdmtuXzBjbDFfTkVhbG9aRmx4QzlBYnZOT3A2QWI2c1AyekVqdDF0OXFvNXJFVzNNNnlrUExUZEtQSHZvVl9kZW9FQThhNTlXWEdSRTJwdGpDdS1hWkdKY2EtckN0dkpkRFBRQ1h6VnB6cHFWZDFsakdIMks5MkdDNDJsU2ZxYjQ5dV9nZjFpR3Vlaw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney to diversify Canada’s trade, attract new investment, and secure new partnerships with visits to India, Australia, and Japan - pm.gc.ca",
+      "excerpt": "Prime Minister Carney to diversify Canada’s trade, attract new investment, and secure new partnerships with visits to India, Australia, and Japan pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "35d78b20e059b377",
