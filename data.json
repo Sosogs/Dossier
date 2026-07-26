@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T15:47:21.024Z",
-  "count": 778,
+  "generatedAt": "2026-07-26T21:14:13.157Z",
+  "count": 783,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -44,6 +44,18 @@
       "title": "Canada and Ismaili Council sign housing collaboration agreement",
       "sum": "The Government of Canada and the Ismaili Council for Canada have signed a memorandum of understanding to work together on identifying and developing affordable housing projects across Canada.",
       "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "0fea81512bda3f24",
+      "date": "2026-07-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/building-canada-strong-by-investing-in-an-acadian-cultural-and-historical-space.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government invests in Acadian cultural and historical space",
+      "sum": "Federal and provincial officials announced an investment in a cultural and historical space dedicated to Acadian heritage. The project involves the Minister responsible for Intergovernmental Affairs, the provincial Minister of Agriculture, Aquaculture and Fisheries, and local municipal leadership.",
+      "cat": "Culture & heritage",
       "ai": true
     },
     {
@@ -667,6 +679,17 @@
       "title": "WestJet allowing passengers to change or cancel certain flights due to threat of strike",
       "excerpt": "WestJet is giving passengers with bookings from July 30 to Aug. 4 the opportunity to cancel or change their flights for free in light of the ongoing labour dispute with flight attendants.",
       "cat": "Transportation"
+    },
+    {
+      "id": "7a1edaaf9b50a9a5",
+      "date": "2026-07-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeTNLWmVPMmNTci1QNFNoRnFhMXhTUXQ3Zi1QbzNRT1NPT2JhMDNCeUpQb3Z0ZTItUTlDX1JkYUgtMHFCNGJqaXJza3FFV3Z2UW5oWlZCdmpOTlRlMDNlVFo0VFlsdjlBMDJHUEZJaUdIOGdkOVZzRlBNcmVpV2RRVV9Ic1B6THhoOFZKb1Nwa3VWYWVCZVBzam9wTEpyR25zdXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney, premiers set to meet amid new US tariff threats - Canada's National Observer",
+      "excerpt": "Carney, premiers set to meet amid new US tariff threats Canada's National Observer",
+      "cat": "Economy"
     },
     {
       "id": "1716ba01f54df543",
@@ -8079,6 +8102,17 @@
       "ai": true
     },
     {
+      "id": "d38efe9fc50eb139",
+      "date": "2026-04-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0NnZDVSc2NrcGxGZDJRbzFTblJMYV9jeHVRUmZaMFVHYUJfYldWU0NzLUpaMGgyVnNYMXhiTm13ZEpRRXFqci15N0paRHdVMFFHX3RoUm5nQ1RpcW4zV2FOaGI2dXJRY3ZxdGJSdWhQRXRlSjlNOWhxQXd1Q3FGYkFDTU9XX3p6RzhYbnhza2V1YjZOazBBT0t4bnRRWDU3M2p0RmYyaDJ2NFk3R0pmajVpU2licTJE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "7 key takeaways from the Liberal government’s spring economic snapshot - Radio-Canada",
+      "excerpt": "7 key takeaways from the Liberal government’s spring economic snapshot Radio-Canada",
+      "cat": "Economy"
+    },
+    {
       "id": "4c339d3721aa004b",
       "date": "2026-04-29",
       "src": "Canadian politics (via Google News)",
@@ -8247,6 +8281,17 @@
       "sum": "Minister of Immigration Lena Metlege Diab will preside over a special citizenship ceremony welcoming 30 new citizens from 18 countries as part of Citizenship Week, celebrated April 12-18. The event marks the occasion to recognize the rights and responsibilities of Canadian citizenship.",
       "cat": "Justice",
       "ai": true
+    },
+    {
+      "id": "a5be65a7c4eae269",
+      "date": "2026-04-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzV5ZUZEZl81eWV2a1R0NDcyVUxXLVh2aFhtTkVjeU16WDIyQTR1TkFhUFVxMDA3UEc4UmlwT2VLbjZWa2E0MzBBZEdBb0lLMG92U1lwYTZzVXpXZHpqUV9ybXNUejU5dFBLXzBTRTJxcWxXeGhLYlJDTVN4TFBMckdLY0JNTUZGRWVndnRKNi1JeVlWc19IcUtUTjTSAZwBQVVfeXFMTzJYSlgyZXNBZ1lUaGxsZFU1Z0FSeGcwWVJjWFp3U2NIZTg0Z3ZseGNYNEZscHQ3VVBQM1h5VkZfNFQ1STNTUHI1WWgzdXpGNEEtY0VUU1ZZUFJCUUs2dTlhTmI1eTJUNV9DQmVNV2ZZT2Zzbnl3alp3ZlBvYnZsM1JnWXZaVlFHbmtOUmpheWRMVlcwZFNwcy1NbjM3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "ANALYSIS: What a majority government means for Mark Carney — and Canada - TVO.org",
+      "excerpt": "ANALYSIS: What a majority government means for Mark Carney — and Canada TVO.org",
+      "cat": "Economy"
     },
     {
       "id": "0b86ec494b706ffa",
@@ -8577,6 +8622,17 @@
       "sum": "Minister Lightbound will announce an initiative on behalf of Immigration Minister Diab addressing labour shortages in Quebec. The announcement relates to federal immigration and refugee policies.",
       "cat": "Intergovernmental affairs",
       "ai": true
+    },
+    {
+      "id": "7d08df612a35a482",
+      "date": "2026-03-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhMYlNqQkNjWWdkckhyZ1RWbmFoTEVhSS1OaWZLZmlvN3ZwWjFjOTJvRklxZFNnekF5MjZWRXVmLVZnUUZuR2RNT3hHbjNPa1FTU0Nia1FyYmpMa25iQXFMYTBtX2JsSV8tUGF5dVYwX0ZGdjFqWnF1RVBvNnF0Rm1rV3ZLcVNrX2Vrd19uNFNMMFBhMk42bzNoQnh1RjdP?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian public service leaders reshuffled by PM Mark Carney - Global Government Forum",
+      "excerpt": "Canadian public service leaders reshuffled by PM Mark Carney Global Government Forum",
+      "cat": "Economy"
     },
     {
       "id": "94b80bc4ae541050",
