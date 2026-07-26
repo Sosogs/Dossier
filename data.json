@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T03:11:56.462Z",
-  "count": 771,
+  "generatedAt": "2026-07-26T09:01:11.504Z",
+  "count": 775,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -6712,6 +6712,17 @@
       "cat": "Indigenous services"
     },
     {
+      "id": "64a5592dc31159e4",
+      "date": "2026-06-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTlrVTNmaHVyV3U0MkN0Rm96Sk81SUo1azBnWEtGRjN1ZXZtZ2VCdGJNZ0RRUVFIbDdxZWdWWEVWSnRCQ2hYTVpKWVAwRUoydWJkOXFvcUw5eE1PNlh6cU9Bei1Tem9ZdFE4RXVDU0RqMFdUMVZOZDhxdDJnVUVJWFZLbmpuTUlMMm5oTVNCMS12S1NHV3B5RkNsdmxkVFBPMkdVOXJ5Y0RBWFo1Zk5aNzJNV2hyRzhp0gG-AUFVX3lxTE45ZUVJcVNLY190Vkx4Mjd2T2RtLS01c2VYQVp2N2ZPM21vb2s2c2x1RFFuOFNReVFKdGpObjB6Z1IxYTN4bHVNR05HZ1dqOHJnZ0tzc1g1TGZqa0NrX29kQkhGMW81SEloa2FXRkUxeUpXY3NKZ1JlX2xyd2psYUhfU0QxSm1YbUx1TWVMcTFieGxDUjlUYVZvUUdXRlFtdWxlbGR3aGgxQm9yZDVCMTE3VUN6MHZ0ZV8tRjBjenc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Accountability advocates ‘shocked’ as Canadian government eliminates watchdog agency - news - Mongabay",
+      "excerpt": "Accountability advocates ‘shocked’ as Canadian government eliminates watchdog agency news - Mongabay",
+      "cat": "Economy"
+    },
+    {
       "id": "655220265040dfd2",
       "date": "2026-06-20",
       "src": "Immigration, Refugees and Citizenship Canada (IRCC)",
@@ -7146,42 +7157,46 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/media-accreditation-now-open-iea-global-conference-on-energy-efficiency-in-montreal.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Media accreditation now open: IEA Global Conference on Energy Efficiency in Montreal",
-      "sum": "The Honourable Tim Hodgson, Minister of Energy and Natural Resources; the Honourable Julie Dabrusin, Minister of Environment, Climate Change and Nature; and Dr. Fatih Birol, Executive Director of the International Energy Agency (IEA), will co-host the IEA 11th Annual Global Conference on Energy Efficiency on June 29–30 in Montreal, in partnership with Hydro-Québec.",
-      "cat": "Sustainable development"
+      "title": "Canada hosts International Energy Agency global efficiency conference",
+      "sum": "Canada will host the International Energy Agency's 11th Global Conference on Energy Efficiency in Montreal on June 29-30. The conference is co-hosted by Canada's Minister of Energy and Natural Resources, Minister of Environment and Climate Change, and the IEA Executive Director.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "cf7ebb942eb36072",
       "date": "2026-06-11",
       "src": "Natural Resources Canada (NRCan)",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/canada-invests-in-its-first-national-geothermal-energy-roadmap.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
-      "title": "Canada invests in its first national geothermal energy roadmap",
-      "sum": "Today, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced $468,000 in funding through Natural Resources Canada’s Energy Innovation Program to support the Canadian Deep Geothermal Roadmap project, led by the Canadian Deep Geothermal Coalition (CDGC).",
-      "cat": "Transportation"
+      "title": "Canada funds national geothermal energy roadmap development",
+      "sum": "The federal government is providing $468,000 to support development of Canada's first national geothermal energy roadmap. The project is being led by the Canadian Deep Geothermal Coalition through Natural Resources Canada's Energy Innovation Program.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "c79212137c36b392",
       "date": "2026-06-11",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-joly-reinforces-strategic-ties-with-european-commission-at-conference-of-montreal.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly reinforces strategic ties with European Commission at Conference of Montreal",
-      "sum": "In a more dangerous and divided world, Canada’s government is focused on what we can control.",
-      "cat": "Economy"
+      "title": "Minister Joly meets European Commission at Montreal Conference",
+      "sum": "Minister Joly engaged with the European Commission at the Conference of Montreal to reinforce Canada's strategic relationship with Europe. The government stated its focus on addressing challenges in an increasingly divided global environment.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "5e73e13828bbf68b",
       "date": "2026-06-11",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-joly-reinforces-strategic-ties-with-france-at-conference-of-montreal.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly reinforces strategic ties with France at Conference of Montreal",
-      "sum": "In a more dangerous and divided world, Canada’s government is focused on what we can control.",
-      "cat": "Economy"
+      "title": "Minister Joly reinforces strategic ties with France",
+      "sum": "Minister Joly engaged with French counterparts at the Conference of Montreal to strengthen Canada-France relations. The engagement reflects Canada's focus on maintaining strategic partnerships amid global challenges.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "208888dc1117236a",
@@ -7190,9 +7205,10 @@
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-joly-announces-a-75-million-investment-in-canadian-blood-services-and-canadian-armed-forces-partnership.html",
       "type": "Spending",
       "kind": "official",
-      "title": "Minister Joly announces a $75 million investment in Canadian Blood Services and Canadian Armed Forces partnership",
-      "sum": "Investing in Canada’s health and defence emergency readiness to keep Canadians safe at home and abroad",
-      "cat": "National defence"
+      "title": "Government invests $75 million in blood services and military partnership",
+      "sum": "The government is providing $75 million to support a partnership between Canadian Blood Services and the Canadian Armed Forces. The funding is intended to strengthen emergency readiness capabilities for health and defence.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "9836556526e5be6c",
@@ -7233,22 +7249,24 @@
       "date": "2026-06-10",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-joly-to-participate-in-a-fireside-chat-at-eurasia-groups-2026-canadaus-summit.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly to participate in a fireside chat at Eurasia Group’s 2026 Canada–U.S. Summit",
-      "sum": "The Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions, will take part in a fireside chat at the Eurasia Group’s Canada–U.S. Summit.",
-      "cat": "Economy"
+      "title": "Minister Joly to speak at Canada-U.S. Summit",
+      "sum": "Minister of Industry Mélanie Joly will participate in a fireside chat discussion at the Eurasia Group's 2026 Canada–U.S. Summit.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "67eddf19c78254cc",
       "date": "2026-06-10",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/minister-joly-to-join-apotex-for-tmx-bell-ringing-ceremony-and-deliver-remarks-on-the-life-sciences-sector.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Minister Joly to join Apotex Health Corp. for TMX bell-ringing ceremony and deliver remarks on the life sciences sector",
-      "sum": "The Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions, will participate in the TMX bell-ringing ceremony and deliver remarks on Canada’s life sciences sector and the key role pharma plays in building a strong economy.",
-      "cat": "Healthcare"
+      "title": "Minister Joly to ring TMX bell, discuss life sciences sector",
+      "sum": "Minister of Industry Mélanie Joly will participate in a Toronto Metals Exchange bell-ringing ceremony with Apotex Health Corp. and deliver remarks about Canada's life sciences and pharmaceutical sectors.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "75cc89ec7b81d806",
@@ -7281,9 +7299,10 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/minister-hodgson-to-deliver-keynote-at-the-2026-global-energy-show.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Hodgson to deliver keynote at the 2026 Global Energy Show",
-      "sum": "The Minister of Energy and Natural Resources, the Honourable Tim Hodgson, will give a keynote address at the 2026 Global Energy Show.",
-      "cat": "Natural resources"
+      "title": "Minister to deliver keynote speech at 2026 Global Energy Show",
+      "sum": "The Minister of Energy and Natural Resources will give a keynote address at the 2026 Global Energy Show. The event is a major international gathering focused on energy sector issues.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "98fed273b179ec58",
@@ -7292,20 +7311,22 @@
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/ps-hogan-to-discuss-north-americas-energy-advantage.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "PS Hogan to discuss North America’s energy advantage",
-      "sum": "PS Hogan to discuss North America’s energy advantage",
-      "cat": "Natural resources"
+      "title": "Parliamentary Secretary Hogan to discuss North American energy advantage",
+      "sum": "Parliamentary Secretary Hogan will hold discussions regarding North America's energy advantages. The specific details, timing, and participants of these discussions are not provided.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "b25c940deb8f7013",
       "date": "2026-06-05",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/06/federal-provincial-and-territorial-ministers-and-representatives-responsible-for-rural-development-met-in-prince-edward-island-to-strengthen-collab.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
-      "title": "Federal, provincial and territorial ministers and representatives responsible for rural development met in Prince Edward Island to strengthen collaboration on rural development",
-      "sum": "Over the past three days, federal, provincial and territorial ministers and representatives responsible for rural development met for the third time—this time in Morell, Prince Edward Island—to discuss shared priorities and strengthen collaboration in support of rural development across Canada.",
-      "cat": "Economy"
+      "title": "Federal and provincial ministers meet on rural development collaboration",
+      "sum": "Federal, provincial, and territorial ministers responsible for rural development met in Prince Edward Island to discuss shared priorities and strengthen coordination on rural development across Canada.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "1ed27230324110a3",
@@ -7376,15 +7397,27 @@
       "cat": "Public safety"
     },
     {
+      "id": "bb1b056570d4c022",
+      "date": "2026-06-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRGVPS2FuZEpLdjJJRHJxd3FzamJTc2dPZzhCLWVMU0hhSEM1dUxwUUcyaU1OVzZHamM1bXhrcGFpM295cndrLUh5a1Z6Vmh3MkRNd1VsbENGVFJRdzZtNEU0SjVPbkpSOVUwZE5LMzFjRDF6ME96dkZuRXJmYU1fMGRtREpnbWgtRTRLcmRDR1FXcVFHWUNrczJ3VVQ1MEpLSFNWanh6NDhtOWFfMUtqRHRscVNnWHhwMG9ET2VnNEQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney highlights new measures to combat antisemitism and support Canada’s Jewish community - pm.gc.ca",
+      "excerpt": "Prime Minister Carney highlights new measures to combat antisemitism and support Canada’s Jewish community pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
       "id": "e83d5d8b16947edf",
       "date": "2026-05-29",
       "src": "Indigenous Services Canada (ISC)",
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/05/ontario-first-nations-and-canada-celebrate-the-implementation-of-the-ontario-final-agreement-to-reform-child-and-family-services.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
-      "title": "Ontario First Nations and Canada celebrate the implementation of the Ontario Final Agreement to reform Child and Family Services",
-      "sum": "Today, the Honourable Mandy Gull-Masty, Minister of Indigenous Services, joined Regional Chief Abram Benedict, Grand Chief Alvin Fiddler, the Chiefs of Ontario and Nishnawbe Aski Nation in Ottawa to mark the official implementation of the Ontario Final Agreement to reform the First Nations Child and Family Services Program across the province. As of today, funding begins to flow under the Agreement, supporting First…",
-      "cat": "Indigenous services"
+      "title": "Ontario First Nations Child and Family Services agreement implemented",
+      "sum": "Canada and Ontario First Nations have officially implemented the Ontario Final Agreement to reform the First Nations Child and Family Services Program. Funding under the agreement has begun flowing to support the program across the province.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "340a44cc961a0a4b",
@@ -7417,9 +7450,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/05/minister-gull-masty-the-chiefs-of-ontario-and-nishnawbe-aski-nation-to-celebrate-implementation-of-the-ontario-final-agreement-to-reform-child-and-.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty, the Chiefs of Ontario and Nishnawbe Aski Nation to celebrate implementation of the Ontario Final Agreement to reform Child and Family Services",
-      "sum": "The Honourable Mandy Gull-Masty, Minister of Indigenous Services, the Chiefs of Ontario and Nishnawbe Aski Nation will hold a celebration on the implementation of the Ontario Final Agreement to reform First Nations Child and Family Services.",
-      "cat": "Indigenous services"
+      "title": "Ontario Final Agreement on First Nations Child and Family Services implemented",
+      "sum": "Minister Mandy Gull-Masty, the Chiefs of Ontario, and Nishnawbe Aski Nation are holding a celebration marking the implementation of the Ontario Final Agreement, which reforms First Nations Child and Family Services.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "3a99cebc3ff1f21c",
@@ -7514,6 +7548,17 @@
       "sum": "Minister of Emergency Management Eleanor Olszewski will announce measures to improve Canada's aerial wildfire-fighting capabilities. The announcement will be made with parliamentary secretaries from emergency management and natural resources.",
       "cat": "Public safety",
       "ai": true
+    },
+    {
+      "id": "a4ea2b7109d8eddb",
+      "date": "2026-05-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWJ3SFNRYi15UFFXQ3JPa01Cb1pqbG5mbDVDTW9hY3VabVdFTXFmNUFYNnp4SXdIb2FuS0ROQVMyeXVCcDFhTnQ3YlExYkxUc1JBd1lBQjNYdkZmRjlZNmpncTlodVVOSFRBRlkxcEFKQmM2Q0RfaVFPVzVWSmpPU2NvWi1MTUJFMFRqNGQwX2tuNy1IcmlzWm9QeU1XZUticXdRNFNzNFlXNlJZSXNxSTBHRQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney heads to Vancouver for closed-door meeting with B.C. Premier David Eby - iPolitics",
+      "excerpt": "Carney heads to Vancouver for closed-door meeting with B.C. Premier David Eby iPolitics",
+      "cat": "Intergovernmental affairs"
     },
     {
       "id": "9ff86c42ebcf2470",
@@ -7661,9 +7706,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/05/honouring-excellence-in-nursing-2026-indigenous-services-canada-award-recipients-announced.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Honouring Excellence in Nursing: 2026 Indigenous Services Canada Award Recipients Announced",
-      "sum": "In First Nations and Inuit communities, nurses are key to the delivery of healthcare, as frontline providers and trusted partners walking alongside patients through every stage of their health journey.",
-      "cat": "Indigenous services"
+      "title": "Indigenous Services Canada announces 2026 nursing award recipients",
+      "sum": "Indigenous Services Canada has announced the recipients of its 2026 award for nursing excellence. The awards recognize nurses working in First Nations and Inuit communities who provide frontline healthcare services.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "f3d429b623543b60",
@@ -7779,9 +7825,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/05/minister-gull-masty-to-hold-media-availability-on-the-ontario-final-agreement-on-long-term-reform-of-the-first-nations-child-and-family-services-pr.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty to hold media availability on the Ontario Final Agreement on Long-Term Reform of the First Nations Child and Family Services Program",
-      "sum": "The Honourable Mandy Gull-Masty, Minister of Indigenous Services, will hold a press conference and media availability to provide an update on the implementation of the Ontario Final Agreement on the long-term reform of child and family services.",
-      "cat": "Indigenous services"
+      "title": "Minister announces Ontario First Nations child services reform agreement",
+      "sum": "Minister of Indigenous Services Mandy Gull-Masty will hold a media availability to provide an update on implementing the Ontario Final Agreement for long-term reform of First Nations child and family services.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "e9c02c717c59f26e",
@@ -7838,9 +7885,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/05/statement-on-the-30th-anniversary-of-the-framework-agreement-on-first-nation-land-management.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Statement on the 30th Anniversary of the Framework Agreement on First Nation Land Management",
-      "sum": "This year marks 30 years since the signing of a landmark agreement that transformed how First Nations manage their lands.",
-      "cat": "Indigenous services"
+      "title": "Government marks 30th anniversary of First Nation land management agreement",
+      "sum": "The federal government issued a statement recognizing 30 years since the Framework Agreement on First Nation Land Management was signed. The agreement changed how First Nations manage their lands.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "5aa5bd9966f07292",
@@ -7883,22 +7931,24 @@
       "date": "2026-05-04",
       "src": "Indigenous Services Canada (ISC)",
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/05/abegweit-first-nation-the-government-of-canada-and-the-province-of-prince-edward-island-announce-a-first-of-its-kind-multilateral-emergency-managem.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
-      "title": "Abegweit First Nation, the Government of Canada, and the Province of Prince Edward Island announce a first-of-its-kind multilateral emergency management agreement",
-      "sum": "Today, the Honourable Mandy Gull-Masty, Minister of Indigenous Services, joined Chief Roderick \"Junior\" Gould of Abegweit First Nation, and the Honourable Bloyce Thompson, Minister of Justice and Public Safety and Attorney General of the Province of Prince Edward Island, to sign a historic, first-of-its-kind multilateral emergency management agreement.",
-      "cat": "Indigenous services"
+      "title": "First multilateral emergency management agreement signed with First Nation",
+      "sum": "Abegweit First Nation, the Government of Canada, and Prince Edward Island signed a new emergency management agreement. This is the first agreement of its kind bringing together the federal government, a province, and a First Nation for coordinated emergency response.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "457244966ac285e2",
       "date": "2026-05-04",
       "src": "Indigenous Services Canada (ISC)",
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/05/auditor-general-of-canadas-report-new-fiscal-initiatives-with-first-nations.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
-      "title": "Auditor General of Canada’s Report: New Fiscal Initiatives with First Nations",
-      "sum": "The Government of Canada welcomes the Auditor General’s report on the New Fiscal Relationship with First Nations and is taking action on its recommendations.",
-      "cat": "Finance"
+      "title": "Government responds to Auditor General report on First Nations fiscal relationship",
+      "sum": "The Auditor General released a report examining the fiscal relationship between Canada and First Nations. The Government of Canada stated it will take action on the report's recommendations.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "6e12fe80288819d5",
@@ -7976,11 +8026,12 @@
       "date": "2026-05-01",
       "src": "Indigenous Services Canada (ISC)",
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/05/indigenous-services-canada-abegweit-first-nation-and-the-province-of-prince-edward-island-will-announce-a-milestone-agreement.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
-      "title": "Indigenous Services Canada, Abegweit First Nation, and the Province of Prince Edward Island will announce a milestone agreement",
-      "sum": "Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will join Chief Junior Gould of Abegweit First Nation, and the Honourable Bloyce Thompson, Minister of Justice, Public Safety and Attorney General – Province of Prince Edward Island, to sign a multilateral emergency management agreement.",
-      "cat": "Indigenous services"
+      "title": "Indigenous Services, Abegweit First Nation, and PEI sign emergency management agreement",
+      "sum": "The federal Minister of Indigenous Services, Abegweit First Nation, and Prince Edward Island's Minister of Justice are signing a multilateral agreement to coordinate emergency management efforts. The agreement represents a collaborative arrangement between the three parties.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "4a7b330e5d0abcd2",
@@ -8004,6 +8055,17 @@
       "sum": "Minister of Public Safety Gary Anandasangaree will join regional and municipal leaders to announce investments from the Spring Economic Update 2026 aimed at helping workers and young people develop skills and gain experience.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "4c339d3721aa004b",
+      "date": "2026-04-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODZ4bFU3LUQ2NjJoVk5wbmNQU2ppSmxqVTZVc05ib3ZWZTBkYkZBQUNKN3pMcnp1LUpkdWdodmMwX0ZZd1JObndORmJjSmNFcWs4WFRjRkwyTEJWamF4X2l4Q09GUG5PVTNOejdEOERhYXlERmZ1ZDVhS2tqS0lsUVZCUTNIY051ckZEZjdWOXpCVFJjWEtEOVNFRmgweF9DVTN0WnVGTm1JbUx3czdSclV3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney’s fiscal update continues Trudeau-era approach to federal finances - Fraser Institute",
+      "excerpt": "Carney’s fiscal update continues Trudeau-era approach to federal finances Fraser Institute",
+      "cat": "Finance"
     },
     {
       "id": "c6ed0e7fa975e979",
@@ -8035,9 +8097,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/04/sturgeon-lake-first-nation-opening-birthing-and-childrearing-lodge.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Sturgeon Lake First Nation opening birthing and childrearing lodge",
-      "sum": "Today, the Sturgeon Lake First Nation, in partnership with Indigenous Services Canada (ISC), celebrated the grand opening of the Shirley Bighead Nihtāwiki and Ohpikihāwasowin Birthing and Childrearing Lodge.",
-      "cat": "Indigenous services"
+      "title": "Sturgeon Lake First Nation opens birthing and childrearing lodge",
+      "sum": "Sturgeon Lake First Nation and Indigenous Services Canada officially opened the Shirley Bighead Nihtāwiki and Ohpikihāwasowin Birthing and Childrearing Lodge. The facility provides birthing and childrearing services for the community.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "56545a4e665177e2",
@@ -8170,9 +8233,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/04/minister-gull-masty-to-join-the-first-walking-out-ceremony-on-parliament-hill.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty to join the first Walking Out Ceremony on Parliament Hill",
-      "sum": "Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will celebrate the first Walking Out Ceremony on Parliament Hill—an important rite of passage for a Cree child—followed by a media scrum.",
-      "cat": "Indigenous services"
+      "title": "Minister participates in first Walking Out Ceremony on Parliament Hill",
+      "sum": "Minister of Indigenous Services Mandy Gull-Masty will participate in a Walking Out Ceremony on Parliament Hill, a Cree rite of passage for children. The event will be followed by media availability.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "631d29de7046b1f1",
@@ -8213,11 +8277,12 @@
       "date": "2026-04-07",
       "src": "Indigenous Services Canada (ISC)",
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/04/completion-of-a-strategic-project-strengthening-food-security-in-nunavik-the-government-of-canada-invests-nearly-one-million-dollars-to-modernize-t.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
-      "title": "Completion of a strategic project strengthening food security in Nunavik: the Government of Canada invests nearly one million dollars to modernize the FCNQ’s storage capacity",
-      "sum": "In a context where food security and essential services remain key priorities for northern communities, the Government of Canada is highlighting the completion of a transformative project aimed at improving access to fresh, affordable food and reducing costs in Nunavik.",
-      "cat": "Public safety"
+      "title": "Canada invests one million dollars in Nunavik food storage modernization",
+      "sum": "The Government of Canada has completed a project to modernize food storage capacity in Nunavik, investing nearly one million dollars. The project aims to improve access to fresh, affordable food and reduce costs in the northern community.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "59589b03d797c8fe",
@@ -8226,9 +8291,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/04/ps-lavack-highlights-funding-to-better-serve-inuit-communities-in-nunavik.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "PS Lavack highlights funding to better serve Inuit communities in Nunavik",
-      "sum": "Parliamentary Secretary Lavack to make announcement on investment to better serve Inuit communities in Nunavik.",
-      "cat": "Indigenous services"
+      "title": "Federal funding announced for Inuit communities in Nunavik",
+      "sum": "Parliamentary Secretary Lavack announced federal investment aimed at improving services for Inuit communities located in Nunavik, Quebec.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "b6332c395303d62e",
@@ -8271,11 +8337,12 @@
       "date": "2026-03-30",
       "src": "Indigenous Services Canada (ISC)",
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/03/canadian-human-rights-tribunal-approves-historic-agreement-to-reform-ontario-first-nations-child-and-family-services.html",
-      "type": "Announcement",
+      "type": "Order in council",
       "kind": "official",
-      "title": "Canadian Human Rights Tribunal Approves Historic Agreement to Reform Ontario First Nations Child and Family Services",
-      "sum": "Today, the Canadian Human Rights Tribunal issued a letter of decision approving the Ontario Final Agreement (OFA) to reform the First Nations Child and Family Services (FNCFS) Program in its entirety — a long-awaited milestone made possible by the leadership of First Nations in Ontario.",
-      "cat": "Indigenous services"
+      "title": "Canadian Human Rights Tribunal approves Ontario First Nations child services reform agreement",
+      "sum": "The Canadian Human Rights Tribunal has approved an agreement to reform how child and family services are delivered to First Nations in Ontario. The agreement was developed with input from First Nations leadership in the province.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "923475e9b82e3004",
@@ -8284,9 +8351,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/03/minister-gull-masty-to-make-an-announcement-on-first-nations-child-and-family-services.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty to make an announcement on First Nations Child and Family Services",
-      "sum": "Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will hold a press conference and media availability to provide an important update on the long-term reform of First Nations Child and Family Services.",
-      "cat": "Indigenous services"
+      "title": "Minister to announce First Nations Child and Family Services update",
+      "sum": "Minister of Indigenous Services Mandy Gull-Masty will hold a press conference to provide an update on reforms to First Nations Child and Family Services.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "b953d46373d3bdc9",
@@ -8329,9 +8397,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/03/minister-gull-masty-announces-nearly-14-billion-to-strengthen-health-wellness-and-community-supports-for-indigenous-peoples.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty announces nearly $1.4 billion to strengthen health, wellness and community supports for Indigenous Peoples",
-      "sum": "Today, the Honourable Mandy Gull‑Masty, Minister of Indigenous Services, joined the President of the Ontario Federation of Indigenous Friendship Centres, Armand Jourdain Sr, and the CEO of the National Association of Friendship Centres, Jennifer Rankin, in Toronto to announce federal investments of nearly $1.4 billion to support urban Indigenous populations, mental health and trauma support programming, and assisted…",
-      "cat": "Healthcare"
+      "title": "Federal government announces $1.4 billion for Indigenous health and community support",
+      "sum": "The Minister of Indigenous Services announced nearly $1.4 billion in federal funding to strengthen health, wellness, and community supports for Indigenous Peoples, including mental health and trauma support programming for urban Indigenous populations.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "febc4fbf31af569c",
@@ -8340,9 +8409,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/03/minister-gull-masty-to-announce-funding-for-indigenous-led-health-wellness-and-community-supports.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty to announce funding for Indigenous-led health, wellness, and community supports",
-      "sum": "Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will make an announcement about funding for Indigenous-led health, wellness, and community supports.",
-      "cat": "Healthcare"
+      "title": "Minister announces funding for Indigenous health and wellness",
+      "sum": "Minister of Indigenous Services Mandy Gull-Masty will announce funding allocated to Indigenous-led health, wellness, and community support programs.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "3d912ccce07a02b3",
@@ -8351,9 +8421,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/03/minister-gull-masty-announces-7389-million-to-strengthen-first-nations-health-governance-and-emergency-management.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty announces $738.9 million to strengthen First Nations health, governance, and emergency management",
-      "sum": "Strong, healthy communities depend on timely access to health care, effective governance, and emergency supports.",
-      "cat": "Healthcare"
+      "title": "Government announces $738.9 million for First Nations health and governance",
+      "sum": "The Minister announced $738.9 million in funding for First Nations communities to support health services, governance systems, and emergency management. The funding aims to improve access to health care and strengthen community infrastructure.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "109526d452a67410",
@@ -8362,9 +8433,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/03/minister-gull-masty-to-announce-funding-for-essential-services-in-first-nations-communities.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty to announce funding for essential services in First Nations communities",
-      "sum": "Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will make an announcement about funding for essential services in First Nations communities at the Nishnawbe Aski Nation Chiefs Spring Assembly.",
-      "cat": "Indigenous services"
+      "title": "Minister announces funding for First Nations essential services",
+      "sum": "Minister of Indigenous Services Mandy Gull-Masty will announce funding intended for essential services in First Nations communities at the Nishnawbe Aski Nation Chiefs Spring Assembly.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "f56e56308a4ed7ba",
@@ -8385,9 +8457,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/03/statement-on-world-water-day-2026--water-and-gender.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Statement on World Water Day 2026 – Water and Gender",
-      "sum": "As we recognize World Water Day, we acknowledge that there are First Nations in Canada that continue to face challenges accessing clean drinking water. This reminds us why it is so important to work together to support access to safe drinking water for communities today and for future generations.",
-      "cat": "Indigenous services"
+      "title": "Government acknowledges First Nations water access challenges on World Water Day",
+      "sum": "The federal government recognized World Water Day 2026 and acknowledged that some First Nations communities in Canada continue to struggle with access to clean drinking water. The statement emphasized the importance of collaborative efforts to ensure safe drinking water access for communities now and in the future.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "7364d451b3879b6d",
@@ -8396,9 +8469,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/03/2026-national-first-nations-water-leadership-award-recipients-honoured-on-national-indigenous-water-operator-day.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "2026 National First Nations Water Leadership Award recipients honoured on National Indigenous Water Operator Day",
-      "sum": "Today we recognize the 2026 recipients of the National First Nations Water Leadership Award, whose dedication supports safe, reliable drinking water in First Nations communities.",
-      "cat": "Indigenous services"
+      "title": "2026 National First Nations Water Leadership Award recipients recognized",
+      "sum": "The federal government honoured the recipients of the 2026 National First Nations Water Leadership Award on National Indigenous Water Operator Day. The award recognizes individuals whose work supports safe and reliable drinking water access in First Nations communities.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "b002877c01f0d19d",
@@ -8501,9 +8575,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/02/minister-gull-masty-announces-155-billion-for-jordans-principle.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty announces $1.55 billion for Jordan’s Principle",
-      "sum": "Today, the Honourable Mandy Gull-Masty, Minister of Indigenous Services, announced that the federal government is committing $1.55 billion to renew Jordan’s Principle until March 31, 2027. This investment responds to sustained demand over the past decade and will protect uninterrupted access to essential supports for children.",
-      "cat": "Indigenous services"
+      "title": "Federal government commits $1.55 billion to Jordan's Principle",
+      "sum": "The Minister of Indigenous Services announced $1.55 billion in federal funding to renew Jordan's Principle through March 31, 2027. The funding supports continued access to essential services for children.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "2ca7eb3cb90c05cf",
@@ -8512,9 +8587,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/02/minister-gull-masty-to-make-an-announcement-on-jordans-principle.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty to make an announcement on Jordan’s Principle",
-      "sum": "Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will hold a press conference and media availability to provide an important update on Jordan’s Principle.",
-      "cat": "Indigenous services"
+      "title": "Minister announces update on Jordan's Principle",
+      "sum": "Minister of Indigenous Services Mandy Gull-Masty will hold a press conference to provide an update on Jordan's Principle, a policy addressing inequities in government services for Indigenous children.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "0ddbab121cf48469",
@@ -8534,9 +8610,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/02/minister-gull-masty-announces-new-support-to-empower-inuit-and-strengthen-northern-communities.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty announces new support to empower Inuit and strengthen Northern Communities",
-      "sum": "Today, the Honourable Mandy Gull-Masty, Minister of Indigenous Services, joined the Makivvik Executives in Kuujjuaq to announce new investments to support Inuit children and families, strengthen community well-being, and improve food security across Inuit Nunangat.",
-      "cat": "Indigenous services"
+      "title": "Minister announces new investments for Inuit communities",
+      "sum": "Minister of Indigenous Services Mandy Gull-Masty announced new investments to support Inuit children and families, strengthen community well-being, and improve food security across Inuit Nunangat. The announcement was made in Kuujjuaq with Makivvik Executives.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "943e9b0bf0bb6617",
@@ -8581,9 +8658,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/02/minister-gull-masty-to-make-an-announcement-to-support-northern-communities.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty to make an announcement to support northern communities",
-      "sum": "Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will make an important announcement to support and empower Inuit communities across Inuit Nunangat. The announcement will be made at the Regional Council of the Kativik Regional Government quarterly meeting.",
-      "cat": "Indigenous services"
+      "title": "Minister announces support measures for Inuit communities",
+      "sum": "Minister of Indigenous Services Mandy Gull-Masty will announce initiatives to support Inuit communities in Inuit Nunangat. The announcement will take place at a quarterly meeting of the Kativik Regional Government.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "faab002853633666",
@@ -8628,9 +8706,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/01/semiahmoo-first-nation-advances-community-infrastructure-to-support-future-housing.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Semiahmoo First Nation advances community infrastructure to support future housing",
-      "sum": "Reliable community infrastructure is essential to building safe housing and supporting long-term growth. At Semiahmoo First Nation, targeted infrastructure investments are laying the groundwork for new housing that will allow more members to live in their home community.",
-      "cat": "Housing"
+      "title": "Semiahmoo First Nation receives infrastructure investment for housing",
+      "sum": "The Semiahmoo First Nation is receiving targeted infrastructure investments to support new housing development. These investments are intended to enable more community members to live in their home community.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "afc64ddb3e4aaee1",
@@ -8639,9 +8718,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/01/parliamentary-secretary-lavack-to-make-an-announcement-on-infrastructure-improvements-in-semiahmoo-first-nation.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Parliamentary Secretary Lavack to make an announcement on infrastructure improvements in Semiahmoo First Nation",
-      "sum": "Please be advised that Ginette Lavack, Parliamentary Secretary to the Minister of Indigenous Services, along with Chief Harley Chappell of the Semiahmoo First Nation and Ernie Klassen, Member of Parliament for South Surrey-White Rock, will make an announcement on improvements to community infrastructure.",
-      "cat": "Indigenous services"
+      "title": "Parliamentary Secretary announces infrastructure improvements for Semiahmoo First Nation",
+      "sum": "Parliamentary Secretary Ginette Lavack, along with the Chief of Semiahmoo First Nation and the local Member of Parliament, will announce improvements to community infrastructure in the First Nation.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "90f1cce2272fa659",
@@ -8650,9 +8730,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/12/canada-advances-first-nations-led-new-path-forward-on-long-term-reform-of-the-first-nations-child-and-family-services-program.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Canada advances First Nations-led new path forward on long-term reform of the First Nations Child and Family Services Program",
-      "sum": "The Government of Canada is committed to advancing long-term reform alongside First Nations across the country—so child and family services put children, families, and communities at the centre of care.",
-      "cat": "Indigenous services"
+      "title": "Canada advances First Nations-led reform of child and family services",
+      "sum": "The Government of Canada is working with First Nations to reform the First Nations Child and Family Services Program with a focus on centering children, families, and communities in service delivery.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "5d7884859abfec95",
@@ -8661,9 +8742,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/12/minister-gull-masty-to-make-an-announcement-on-first-nations-child-and-family-services.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty to make an announcement on First Nations Child and Family Services",
-      "sum": "Ottawa, Ontario — Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will hold a press conference and media availability to provide important updates regarding the long-term reform of the First Nations Child and Family Services Program.",
-      "cat": "Indigenous services"
+      "title": "Minister announces First Nations Child and Family Services updates",
+      "sum": "Minister of Indigenous Services Mandy Gull-Masty will hold a press conference to provide updates on long-term reforms to the First Nations Child and Family Services Program.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "42b8348a51b907a7",
@@ -8672,9 +8754,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/11/standing-buffalo-dakota-nation-celebrates-opening-of-new-water-treatment-plant-advancing-community-health-and-infrastructure.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Standing Buffalo Dakota Nation Celebrates Opening of New Water Treatment Plant, Advancing Community Health and Infrastructure",
-      "sum": "Standing Buffalo Dakota Nation marked a significant community milestone today with the opening of a new state-of-the-art water treatment plant, reflecting the Nation’s ongoing commitment to clean water access, community wellness, and long-term infrastructure renewal.",
-      "cat": "Healthcare"
+      "title": "Standing Buffalo Dakota Nation opens new water treatment plant",
+      "sum": "Standing Buffalo Dakota Nation opened a new water treatment plant to provide clean water access and improve community infrastructure. The facility represents an investment in long-term water system renewal for the Nation.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "196804b9d5deaa74",
@@ -8683,9 +8766,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/11/historic-milestone-mcdowell-lake-first-nation-celebrates-new-mishi-sakahikaniing-reserve-laying-groundwork-for-community-growth.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Historic Milestone: McDowell Lake First Nation Celebrates New Mishi Sakahikaniing Reserve, Laying Groundwork for Community Growth",
-      "sum": "Today, McDowell Lake First Nation Chief Lois James, Provincial Minister of Indigenous Affairs First Nations Economic Reconciliation, the Honourable Greg Rickford and Federal Minister of Indigenous Services, the Honourable Mandy Gull-Masty, are proud to announce the creation of the Mishi Sakahikaniing Reserve—a historic and long-awaited milestone in the community’s efforts to establish a permanent land base.",
-      "cat": "Indigenous services"
+      "title": "New reserve established for McDowell Lake First Nation",
+      "sum": "McDowell Lake First Nation has established the Mishi Sakahikaniing Reserve, creating a permanent land base for the community. Federal and provincial officials participated in the announcement.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "158c1101a60c42bf",
@@ -8694,9 +8778,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/11/okanese-first-nation-improves-community-wellness-with-new-water-treatment-plant.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Okanese First Nation Improves Community Wellness with New Water Treatment Plant",
-      "sum": "Okanese First Nation is improving community wellness with the grand opening of a new, state-of-the-art water treatment plant to support long-term, reliable access to safe and clean drinking water for community members.",
-      "cat": "Indigenous services"
+      "title": "Okanese First Nation opens new water treatment plant",
+      "sum": "Okanese First Nation has opened a new water treatment plant to provide safe and clean drinking water to community members. The facility is designed to ensure long-term reliable access to water.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "8682ce887d680b6c",
@@ -8705,9 +8790,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/11/minister-gull-masty-highlights-2025-budget-investments-to-support-chantier-naval-forillon-and-exploramer.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty highlights 2025 budget investments to support Chantier Naval Forillon and Exploramer",
-      "sum": "Canada faces a rapidly changing and increasingly uncertain world. The rules-based international order and the trading system that powered Canada’s prosperity for decades are being reshaped significantly – affecting our companies, our rural communities and our workers, causing major disruption and upheaval for Canadians. But together we are responding with strength, confidence and determination.",
-      "cat": "Foreign affairs"
+      "title": "Budget investments announced for Chantier Naval Forillon and Exploramer",
+      "sum": "The Minister highlighted 2025 budget investments directed toward Chantier Naval Forillon and Exploramer. The announcement contextualized these investments within broader concerns about changes to the international trading system and their effects on Canadian businesses and workers.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "e1a36e62be35c65a",
@@ -8716,9 +8802,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/11/minister-gull-masty-to-make-announcement-in-gaspe-regarding-budget-2025-investments-in-gaspesie.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty to make announcement in Gaspé regarding Budget 2025 investments in Gaspésie",
-      "sum": "Gaspé, Québec — Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will hold a media availability to highlight federal budget investments.",
-      "cat": "Finance"
+      "title": "Minister announces Budget 2025 investments in Gaspésie region",
+      "sum": "Minister of Indigenous Services Mandy Gull-Masty will hold a media event in Gaspé, Quebec to announce federal budget investments in the Gaspésie region.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "595d4ab4014afa84",
@@ -8727,9 +8814,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/10/budget-2025-to-invest-in-personal-support-workers.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Budget 2025 to invest in personal support workers",
-      "sum": "In a rapidly changing and uncertain world, Canada’s new government is focused on what we can control. We are protecting our communities and our country. We are building our economy with major projects and millions more homes. We are empowering Canadians with lower costs and new opportunities to help you get ahead. We cannot control what other nations do, but we can control what we choose to build—and we are building…",
-      "cat": "Finance"
+      "title": "Budget 2025 allocates funding for personal support workers",
+      "sum": "The federal government's 2025 budget includes investment in personal support workers as part of broader economic and social spending initiatives. The budget also emphasizes community protection, housing development, and cost reduction for Canadians.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "06394efe0ea97f24",
@@ -8738,9 +8826,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/10/minister-gull-masty-to-visit-manoir-providence-in-chibougamau-to-thank-staff-meet-seniors-and-highlight-pre-budget-measures.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Minister Gull-Masty to visit Manoir Providence in Chibougamau to thank staff, meet seniors and highlight pre-budget measures",
-      "sum": "Please be advised that the Honourable Mandy Gull-Masty, Minister of Indigenous Services, will be in Chibougamau to thank staff and meet seniors during a visit to Manoir Providence. On this occasion, the Minister will highlight new measures from Budget 2025 to support workers.",
-      "cat": "Finance"
+      "title": "Indigenous Services Minister visits Chibougamau senior care facility",
+      "sum": "Minister Mandy Gull-Masty will visit Manoir Providence in Chibougamau to meet with staff and seniors. During the visit, the Minister will highlight Budget 2025 measures designed to support workers.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "6b9704be5f5f7306",
@@ -8749,9 +8838,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/10/okanese-first-nation-builds-early-learning-facility-to-support-child-development-and-school-readiness.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Okanese First Nation Builds Early Learning Facility to Support Child Development and School Readiness",
-      "sum": "Today, Okanese First Nation is celebrating the grand opening of its newly-constructed Okanese Aboriginal Head Start On-Reserve Building—a vibrant, community-driven space dedicated to nurturing early childhood development and school readiness.",
-      "cat": "Indigenous services"
+      "title": "Okanese First Nation opens early learning facility",
+      "sum": "Okanese First Nation opened a new Aboriginal Head Start On-Reserve building designed to support early childhood development and prepare children for school. The facility serves as a community space for early learning programs.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "5d0b398133b26edc",
@@ -8760,9 +8850,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/10/statement-from-minister-gull-masty-on-the-auditor-generals-follow-up-report-on-programs-for-first-nations-and-inuit.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Statement from Minister Gull-Masty on the Auditor General’s follow-up report on programs for First Nations and Inuit",
-      "sum": "Minister Gull-Masty issues statement to acknowledge the Auditor General of Canada’s follow-up report on programs for First Nations and Inuit",
-      "cat": "Indigenous services"
+      "title": "Minister responds to Auditor General follow-up report on Indigenous programs",
+      "sum": "Minister Gull-Masty issued a statement acknowledging the Auditor General of Canada's follow-up report examining programs for First Nations and Inuit. The statement represents the government's response to the audit findings.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "a4a256419ad58bff",
@@ -8771,9 +8862,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/10/red-sucker-lake-first-nation-celebrates-grand-opening-of-new-school.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Red Sucker Lake First Nation celebrates grand opening of new school",
-      "sum": "Indigenous Services Canada is working in partnership with First Nations to help establish educational facilities that will deliver quality and culturally appropriate programs and services for students.",
-      "cat": "Education"
+      "title": "Red Sucker Lake First Nation opens new school facility",
+      "sum": "Red Sucker Lake First Nation held a grand opening for a new school. Indigenous Services Canada partnered with the First Nation to help establish the facility, which will provide education programs designed to meet students' needs and reflect Indigenous culture.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "3efff142c8ab9522",
@@ -8782,9 +8874,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/10/new-digital-pilot-makes-registration-application-process-faster-for-eligible-first-nations.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "New digital pilot makes registration application process faster for eligible First Nations",
-      "sum": "Today, Indigenous Services Canada (ISC) launched the first phase of a faster, easier way for First Nations individuals to apply for registration under the Indian Act at in-person service locations.",
-      "cat": "Indigenous services"
+      "title": "Indigenous Services Canada launches digital pilot for First Nations registration",
+      "sum": "Indigenous Services Canada has begun the first phase of a digital pilot project to streamline the registration application process for First Nations individuals under the Indian Act. The pilot is available at in-person service locations.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "24af641c3f1f872d",
@@ -8793,9 +8886,10 @@
       "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/10/iskut-band-celebrates-grand-opening-of-new-uwechon-kotsedei-kime-school---uwechon-house-of-learning-expanding-education-opportunities-for-youth.html",
       "type": "Announcement",
       "kind": "official",
-      "title": "Iskut Band celebrates grand opening of new Łuwechōn Kots’ede’i Kime School - Łuwechon House of Learning, expanding education opportunities for youth",
-      "sum": "The Iskut Band held a grand opening ceremony today for their new school, now called Łuwechōn Kots’ede’i Kime, which translates to Łuwechōn House of Learning.",
-      "cat": "Education"
+      "title": "Iskut Band opens new school for community youth education",
+      "sum": "The Iskut Band held a grand opening ceremony for their new school, Łuwechōn Kots'ede'i Kime (Łuwechōn House of Learning). The school expands education opportunities for youth in the community.",
+      "cat": "Education",
+      "ai": true
     }
   ]
 }
