@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T21:14:13.157Z",
-  "count": 783,
+  "generatedAt": "2026-07-27T12:40:26.222Z",
+  "count": 787,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -178,6 +178,17 @@
       "kind": "news",
       "title": "Canadian Blood Services supply drops nearly 20% since June, prompting call for urgent blood donations",
       "excerpt": "Canadian Blood Services is appealing for people across the country to donate blood, saying its supply has dropped significantly in the last several weeks.",
+      "cat": "Economy"
+    },
+    {
+      "id": "da2b78747c103b8e",
+      "date": "2026-07-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU05ZVmkwZDVOelVQY0JLMWEzR2lXTjA2TVF2NjBob2xwUzVuVmpXRGNza0gxcUtkNmNhQ0plZ1VUc09seEY5clJlRTc1UV9QWGF6em1Nb09WTDZXY21BUGJKMHh0ME9WcENaSHh6V05iLXN6MDFNSWpnRkVwQWFHTA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney says Canada ready to respond if Trump’s new tariffs go into effect - CityNews Calgary",
+      "excerpt": "Prime Minister Carney says Canada ready to respond if Trump’s new tariffs go into effect CityNews Calgary",
       "cat": "Economy"
     },
     {
@@ -679,6 +690,17 @@
       "title": "WestJet allowing passengers to change or cancel certain flights due to threat of strike",
       "excerpt": "WestJet is giving passengers with bookings from July 30 to Aug. 4 the opportunity to cancel or change their flights for free in light of the ongoing labour dispute with flight attendants.",
       "cat": "Transportation"
+    },
+    {
+      "id": "50cb7b7bfd3ae8ca",
+      "date": "2026-07-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96LTNRWVhlYjc3ZDdTY0JzWHQ1blBaSTVDVDc4NjE0d1FPMDVhLVpKbU9MN0EtZnJyWHlnd194SU00d05mOG1LS2NGYnFhMTJMeXd6TVdYTnJtMDJUTHozaDlfcWNJTnM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada needs an investment ‘hub’ as Carney steps up push for foreign money, says federal agency - The Logic",
+      "excerpt": "Canada needs an investment ‘hub’ as Carney steps up push for foreign money, says federal agency The Logic",
+      "cat": "Foreign affairs"
     },
     {
       "id": "7a1edaaf9b50a9a5",
@@ -5956,6 +5978,17 @@
       "ai": true
     },
     {
+      "id": "c5042d64154e5688",
+      "date": "2026-06-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR1RSNkpVSVk1NFF5SHphMENoWExqanRZRlFNdXRKSlZ0cnRlck4xbUQxanFOd3lEa3NsSVF6Z096NnluajFNMTV3czBZOHp1Slc3RWVBQzZ2YWpYcTN2NHR1dl9fODFHZnZCRWdrWGJ5LWt0MWEyMTN4OUFoMnowRXJxQ3UyREFtZjZsamxZQTFkUWZURDBFUTJpWUNjVVNzTzh4czZfOEpnZVBNSnEtNWZsWlRTQlFvTlZLcC1nRnFwdlZKTUpmYzNpRXRzWG9xbS1iZXR6SFdjdk51bEt1YVVJVVdhOWI2Vzgw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Foreign investors buy record amounts of Canadian government debt, lowering Carney’s borrowing costs - BNN Bloomberg",
+      "excerpt": "Foreign investors buy record amounts of Canadian government debt, lowering Carney’s borrowing costs BNN Bloomberg",
+      "cat": "Foreign affairs"
+    },
+    {
       "id": "50d8b050e5105f03",
       "date": "2026-06-30",
       "src": "Canadian politics (via Google News)",
@@ -7708,6 +7741,17 @@
       "title": "PM Carney says federal government open to selling public assets to fund projects - BNN Bloomberg",
       "excerpt": "PM Carney says federal government open to selling public assets to fund projects BNN Bloomberg",
       "cat": "Economy"
+    },
+    {
+      "id": "5f37afc96e97dd33",
+      "date": "2026-05-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZWs0Q1FaQmI1SXFiNXJWLWhJNmRpNXBOSUN4cGRTSEEyYXNRMXhfMEZMdUlROHFBanpJNTU0M3E4NENyWmlyTVByUEhUZ3JxTXdFaURyZk5NRmE1UWVEZFBiSXBIejlEQjZrYWNKNlRCeGlPYWFsSk0tYjVJTGU2aGQ2MDM1TGJKblJ3QWdZZko?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Natural gas to play key role in strategy to double Canada’s electricity grid by 2050 - CBC",
+      "excerpt": "Natural gas to play key role in strategy to double Canada’s electricity grid by 2050 CBC",
+      "cat": "Natural resources"
     },
     {
       "id": "eec9f62f4bce13ea",
