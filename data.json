@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T12:40:26.222Z",
-  "count": 787,
+  "generatedAt": "2026-07-27T21:50:25.283Z",
+  "count": 820,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -35,6 +35,282 @@
   ],
   "items": [
     {
+      "id": "22410ba8069c276e",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/07/government-of-canada-invests-in-youth-gang-prevention-in-kelowna.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal government funds youth gang prevention program in Kelowna",
+      "sum": "The federal government announced $1.68 million over five years for a youth gang prevention project in Kelowna, British Columbia. The Strong Roots Initiative will be delivered by the Childhood Connections - Okanagan Family and Childcare Society through the Youth Gang Prevention Fund.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "992bfb5285b204ee",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/07/government-of-canada-supports-2026-iwbf-wheelchair-basketball-world-championships-building-on-canadas-sport-hosting-legacy.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Canada funds 2026 wheelchair basketball world championships",
+      "sum": "The federal government is providing funding to support the 2026 IWBF Wheelchair Basketball World Championships, which will be held in Ottawa. This continues Canada's participation in hosting major international sporting events.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "c86b9f6326c6112e",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/07/seizure-of-contraband-and-unauthorized-items-at-cowansville-institution0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Contraband seized at Cowansville Institution",
+      "sum": "Staff at Cowansville Institution, a medium-security federal prison, seized contraband and unauthorized items on July 20 and 22, 2026.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "68c4ae8f0c03d5aa",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/07/government-of-canada-supports-the-strength-and-promotion-of-french-in-saskatchewan.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada supports French language vitality in Saskatchewan",
+      "sum": "The Government of Canada has stated its support for strengthening and promoting the French language in Saskatchewan. The announcement emphasizes the government's commitment to the vitality of French in the province.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "66be783ff175fcf2",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/07/government-of-canada-supports-growth-and-competitiveness-of-three-burlington-businesses.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Government invests $7.5 million in three Burlington businesses",
+      "sum": "FedDev Ontario announced $7.5 million in funding for three Burlington-based companies to support their growth and expansion. The investment is intended to help these businesses scale their operations and pursue new opportunities.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "1aef06cd59ea60ea",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/building-canada-strong-from-playground-to-podiumgovernment-of-canada-makes-major-investments-in-alberta.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government announces major sports investments in Alberta",
+      "sum": "The Government of Canada is making investments in sports programs and athletic development in Alberta. The funding is intended to support community sports, athletes, and national unity.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "fe883eb8864bee8f",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/07/secretary-of-state-van-koeverden-announces-strengthened-support-for-canadian-athletes.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government enhances support program for Canadian athletes",
+      "sum": "The Government of Canada is increasing funding and support through the Athlete Assistance Program to help Canadian athletes dedicate more time to training and competition.",
+      "cat": "Education",
+      "ai": true
+    },
+    {
+      "id": "62f1dbc74ad8a943",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/minister-metlege-diab-and-parliamentary-secretary-koutrakis-to-make-an-announcement-in-vancouver.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government announces online passport renewal service",
+      "sum": "The Minister of Immigration, Refugees and Citizenship and a Parliamentary Secretary will announce a new online passport renewal service in Vancouver. Details will be provided at a media availability following the announcement.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "33ba6b9a818ce738",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-highlights-key-themes-from-rural-development-action-plan-consultation.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government consults on rural development priorities and themes",
+      "sum": "The Government of Canada has gathered input from a consultation on its Rural Development Action Plan. The results from this consultation will be used to shape future rural development policies and initiatives.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "65c9c098d1860287",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-rural-consultation.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government of Canada Initiates Rural Consultation Process",
+      "sum": "The Government of Canada is conducting consultations with rural communities. The specific topics and scope of these consultations are not detailed in the provided text.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
+    },
+    {
+      "id": "30cd728f01dc3b0a",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/07/government-of-canada-invests-in-gun-violence-prevention-in-new-westminster-british-columbia.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada funds gun violence prevention program in New Westminster",
+      "sum": "The federal government announced up to $1.04 million in funding for gun and gang violence prevention initiatives in New Westminster, British Columbia. The announcement was made by the Minister of Public Safety.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "4925a06106fd1692",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-services-procurement/news/2026/07/full-closure-of-alexandra-bridge.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Alexandra Bridge to close for Les Grands Feux event",
+      "sum": "Public Services and Procurement Canada will fully close the Alexandra Bridge on six dates in July and August to accommodate the Les Grands Feux of Casino Lac-Leamy event and implement safety patrols during these periods.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "8844277b1e543745",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-coast-guard/news/2026/07/canadian-coast-guard-issues-75000-penalty-for-a-hazardous-vessel.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canadian Coast Guard issues $75,000 penalty for hazardous vessel",
+      "sum": "The Canadian Coast Guard issued a $75,000 penalty to the owner of the MV Breeze, a deteriorating wooden tug on the Fraser River in British Columbia, under the Wrecked, Abandoned or Hazardous Vessels Act.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "826b2d6dd40078e6",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/minister-macdonald-to-announce-investment-to-support-canadian-agri-food-businesses.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government invests in agri-food sector support for small businesses",
+      "sum": "Minister MacDonald will announce funding through the Strategic Response Fund for a Natural Products Canada project. The investment aims to help Canadian small and medium-sized enterprises in the agri-food sector.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "162dabcf0a99dffe",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/07/government-of-canada-to-announce-support-for-ocean-steel--construction-ltd.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada announces support for Ocean Steel & Construction Ltd",
+      "sum": "The Government of Canada is announcing financial or other support for Ocean Steel & Construction Ltd., a company involved in steel and construction work.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "273435a0b31c3c91",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/07/government-of-canada-announces-loan-support-to-millar-western-forest-products-ltd.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada provides loan support to Millar Western Forest Products",
+      "sum": "The Government of Canada announced loan support to Millar Western Forest Products Ltd. to address challenges facing the forest sector, which has been affected by trade disputes between the U.S. and China that have weakened markets for softwood lumber and pulp products.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "b43229f047bd946e",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/07/government-of-canada-to-announce-support-for-niagara-region-businesses.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada announces business support for Niagara Region",
+      "sum": "A federal government announcement will provide support to businesses in the Niagara Region, focusing on growth, innovation, and manufacturing competitiveness. The announcement will be made by the Member of Parliament for St. Catharines on behalf of the Minister of Artificial Intelligence and Digital Innovation.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "8256530b45b2cd3c",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/07/announcement-of-new-diplomatic-appointment0.html",
+      "type": "Appointment",
+      "kind": "official",
+      "title": "Canada appoints new diplomat to foreign service",
+      "sum": "The Minister of Foreign Affairs announced a diplomatic appointment to Canada's foreign service.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "cf66ca303f9b5cc1",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/07/biographical-note--diplomatic-appointment.html",
+      "type": "Appointment",
+      "kind": "official",
+      "title": "Canada appoints new diplomat to foreign service",
+      "sum": "The Minister of Foreign Affairs announced a new diplomatic appointment. The specific position and appointee details were not included in this announcement notice.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "f225879277edc606",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/07/parliamentary-secretary-oliphant-represents-canada-at-perus-presidential-inauguration.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada sends parliamentary secretary to Peru presidential inauguration",
+      "sum": "Parliamentary Secretary Robert Oliphant will represent Canada at the inauguration of Peru's president-elect Keiko Fujimori in Lima on July 27-28, 2026. The attendance aims to strengthen Canada's relationship with Peru.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "4e303c18060df7ab",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/veterans-affairs-canada/news/2026/07/ministers-of-veterans-affairs-and-national-defence-honour-korean-war-veterans-on-korean-war-veterans-day.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Ministers honour Korean War Veterans on commemoration day",
+      "sum": "The Ministers of Veterans Affairs and National Defence issued a statement honouring Korean War Veterans on Korean War Veterans Day.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "784b85298e1fde7a",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/07/government-of-canada-boosts-manufacturing-growth-in-dartmouth.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada provides manufacturing support to Dartmouth facility",
+      "sum": "The Government of Canada is providing support for modernization and innovation at a manufacturing facility in Dartmouth. The initiative aims to increase productivity, strengthen supply chains, and help access new markets.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "20c5c41a00c0018f",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-health/news/2026/07/government-of-canada-to-make-an-announcement-regarding-a-new-medical-countermeasures-laboratory-facility-in-winnipeg.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government announces new medical countermeasures laboratory in Winnipeg",
+      "sum": "The Government of Canada will announce the establishment of a new medical countermeasures laboratory facility in Winnipeg. The announcement will be made by federal ministers and the local Member of Parliament.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
       "id": "56f2767d0b2c750e",
       "date": "2026-07-27",
       "src": "Government of Canada",
@@ -45,6 +321,28 @@
       "sum": "The Government of Canada and the Ismaili Council for Canada have signed a memorandum of understanding to work together on identifying and developing affordable housing projects across Canada.",
       "cat": "Housing",
       "ai": true
+    },
+    {
+      "id": "19161977c7580c9b",
+      "date": "2026-07-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOFJodXR1VWZ5SGJCNE9Fa3h4d05lX19Vc0Q2TEY2VHYtT1ZxUVFVV2ZpMkE4OHZMSHl5a002MjczVEp3NHd5Y0tGcGhVdGt0TkI3bUhkUmVRWnd3blQzREpxMFI1eGIzZWdKSUZQQk9lZkl5R05USU5UMEQ1TnBucw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney calls 3 byelections in B.C., Ontario and Quebec - Global News",
+      "excerpt": "Carney calls 3 byelections in B.C., Ontario and Quebec Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "ffa7bc19b476d78a",
+      "date": "2026-07-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON3RISTAydHZNSWI3QWJ6NjRoQUZXQV9QenpWb1A0dXk4QTNmUDVvcEprbEZCSUduUElmX0xFSVJOQ0NLUDBuZTBfdVZHaHhpa2VDX1R0TjVfMjhhYUJtZmR6ZFZVaHZKOUZmUnFFcXlNdnh5X05tcElaYzNrR1ozQkRKU1VnNHlEZTRLLVFDVUQySHFpRFhleGV0aVR3X3lnZldvZXVaOGd6V003?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Irwin Cotler: What happened to Carney's Davos call for principled, pragmatic foreign policy? - National Post",
+      "excerpt": "Irwin Cotler: What happened to Carney's Davos call for principled, pragmatic foreign policy? National Post",
+      "cat": "Foreign affairs"
     },
     {
       "id": "0fea81512bda3f24",
@@ -6530,6 +6828,17 @@
       "ai": true
     },
     {
+      "id": "cbc7b7ca3b4b0e55",
+      "date": "2026-06-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTNxdkRrV0lVaExHRzdhcHVVWWdDY2xkWjlsZ19SV1NrYm5wSjFmTTk2ZkI4XzFCVzhXSUp2SFRjcHptbG5GZXBIczVUVjdvN2V6cVJtc3d4MW9FanBrWHFMR1VJOGNPQk1POVhidV9RajVkbWNxcTNtRmZzYndvTkU3VFVxYUlDdlhnSVI1QnZHMVA3UlFtbQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "New N.W.T. highway set to be Carney government's 1st national interest project: sources - CBC",
+      "excerpt": "New N.W.T. highway set to be Carney government's 1st national interest project: sources CBC",
+      "cat": "Economy"
+    },
+    {
       "id": "51fc41e67e528f13",
       "date": "2026-06-23",
       "src": "Canadian politics (via Google News)",
@@ -6966,6 +7275,17 @@
       "cat": "Economy"
     },
     {
+      "id": "0ca8d8418bae1846",
+      "date": "2026-06-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNUJvMlJXeGF6M2lKeFVmWGhON0pGQXg0bVZTZ3A4R0YzUXZ2T2FrUlROQmtXSUNEQWoyMnBZUFB3OGJFUlpFUmVCX2N6VDBkZjQ4NDhiVnNFdURXRS1IRXZUdWRxM1BEVnhCaXJuRGZnRkgzS1hYWDh0cTRUZlZUeTBZa0VvdmN2SXdWWU9PXzIyTzRJWmNGTHpteTNtb2NXNHR6eg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian government sued over climate inaction - CTV News",
+      "excerpt": "Canadian government sued over climate inaction CTV News",
+      "cat": "Sustainable development"
+    },
+    {
       "id": "eaaf2194477d4041",
       "date": "2026-06-16",
       "src": "Canadian politics (via Google News)",
@@ -7373,6 +7693,17 @@
       "ai": true
     },
     {
+      "id": "0ae6bd17acb679aa",
+      "date": "2026-06-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU9pbmxUaHUwRWxtbHRsZU1FRl9Fb2dtWXY5aFIyZFkyVE9kZ0MxdDluVUdQQ2Q0RGlTV09hT0g3V3Z5SzZKVXpCaE5PX21Gc2tmdEZiSG4ta1pvQlFTQ2lJdGNjNHpDX2J2STJjbXZjZk9PeDFfRkdKX3puQkhnTVdfZUpUXzczZDZtZXB0TQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "How close is Carney to achieving his top promises? Here’s a status report - The Globe and Mail",
+      "excerpt": "How close is Carney to achieving his top promises? Here’s a status report The Globe and Mail",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "b25c940deb8f7013",
       "date": "2026-06-05",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
@@ -7383,6 +7714,17 @@
       "sum": "Federal, provincial, and territorial ministers responsible for rural development met in Prince Edward Island to discuss shared priorities and strengthen coordination on rural development across Canada.",
       "cat": "Intergovernmental affairs",
       "ai": true
+    },
+    {
+      "id": "4ce26969f43e2e1e",
+      "date": "2026-06-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbFJNb3pqWldfR3NTM0dYY1V4Z3JCNDJvZEpIb0tEVHZrUnZYTGZyVkJMRnFNOTMyR2FKMngtSGtvVGlkWFFJT0REUVhxQ2FrWlNONUV5dUQyNFZ3ZnlCWldtMUdXdVQxV3hIUTY4OG9PbDlYX3NfNjFfOWR2YnFSbzY1M2JTTlNUZGJsbXZPOEk2V1otRWJUYWV2TW45UTVXUkc4T0plSmgyNUJxX1NZQ1lxR3pJWVd2U0tsb0J3U2dvTkEtblI3TTFaM2Jmel9CTWV4NmJjYjJCemc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "New federal AI strategy looks to close 'adoption gap,' build public trust - constructconnect.com",
+      "excerpt": "New federal AI strategy looks to close 'adoption gap,' build public trust constructconnect.com",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "1ed27230324110a3",
@@ -8203,6 +8545,17 @@
       "ai": true
     },
     {
+      "id": "3ddfa3fcc07660e4",
+      "date": "2026-04-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBILW9VQTdvaHd5UmtQZUxTTWh6Ymh1S3lLYm1IQ0FQcE1hSXY5d1lBbm4wQ19DWGpPZHItaWd2dFZReXZnNXF0ZVA0YUtjeGxYM0wtNG1KWjRBMndsbUIxSUlyTVZudw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government is ‘shredding’ environmental rules and ‘misleading’ Canadians: former advisors - The Narwhal",
+      "excerpt": "Carney government is ‘shredding’ environmental rules and ‘misleading’ Canadians: former advisors The Narwhal",
+      "cat": "Sustainable development"
+    },
+    {
       "id": "56545a4e665177e2",
       "date": "2026-04-28",
       "src": "Canadian politics (via Google News)",
@@ -8301,6 +8654,28 @@
       "kind": "news",
       "title": "Mark Carney’s Year Two: Results as a National Imperative - Policy Magazine",
       "excerpt": "Mark Carney’s Year Two: Results as a National Imperative Policy Magazine",
+      "cat": "Economy"
+    },
+    {
+      "id": "33c9d6260d01579d",
+      "date": "2026-04-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTGphNjdNTmFHdlczTVQ1OFU2RHNMdnRWYUlqSjBzaklZTjdRRWJLblF5S014TXB5TDhwanNKSGlNbFRsX2MzdW9ndVM2NXQ2cE0yX3dXMERWZXRPampLclk1VV9rRWZSSzdQSC1GeVhPTHNONUdfLUZnWXA4bGhjZVpZNW9naUxXeXd3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mark Carney’s First Year: A Report Card on Five Fronts - Policy Magazine",
+      "excerpt": "Mark Carney’s First Year: A Report Card on Five Fronts Policy Magazine",
+      "cat": "Economy"
+    },
+    {
+      "id": "1a2900715b6e211e",
+      "date": "2026-04-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXl2d2MwUmpTaEhxVlhybUtpSmZmcGpoQlFjSWRMTWtkMEhaNmU0SnZlaEEzaWxiNDhNZWY4cWpCNVNySkVTRVo5S1dZSW1GQ2EtcWN6NmNpWFVkckZ6Y2lkeUItU0lJWkllVGxITWtLVzFZR1dpMmVBVHI0SDR4bjVwTi02WTVUYlhvczJrLVZ4V3JGRG5icGF1VjdfME5SSHZ1cHEwU2pWckVwajBGbVV5ZTBObjdWdE5n?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney’s majority government should ‘get serious’ about fixing federal finances - Fraser Institute",
+      "excerpt": "Carney’s majority government should ‘get serious’ about fixing federal finances Fraser Institute",
       "cat": "Economy"
     },
     {
@@ -8583,6 +8958,17 @@
       "sum": "The federal government recognized World Water Day 2026 and acknowledged that some First Nations communities in Canada continue to struggle with access to clean drinking water. The statement emphasized the importance of collaborative efforts to ensure safe drinking water access for communities now and in the future.",
       "cat": "Indigenous services",
       "ai": true
+    },
+    {
+      "id": "19e7bbcc596db18b",
+      "date": "2026-03-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZm9lMVlrTFVCYW1fY3pNYWxueXJoTFk5WkUxUzU4c0RoaHFDS0VMdzloMUgtUU1VVU1vTUdBRlVlclBlcW45ZjU0UlRnaEpuOWF4QjFWaDgtWXB5QWl3LVNXZFYyTGdmakpZMTFleHU2anNwS0hDS1JUM3pKRHRCdXN4MlprT19HZ2RYcm5mTDJWSGUy?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "The Carney Government and Alberta’s Quest for a New Pipeline - Policy Magazine",
+      "excerpt": "The Carney Government and Alberta’s Quest for a New Pipeline Policy Magazine",
+      "cat": "Natural resources"
     },
     {
       "id": "7364d451b3879b6d",
