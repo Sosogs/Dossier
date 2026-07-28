@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T08:36:46.817Z",
-  "count": 824,
+  "generatedAt": "2026-07-28T14:10:46.039Z",
+  "count": 836,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,124 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "9de4688afebf37ed",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/minister-mcknight-to-make-liquefied-natural-gas-announcement.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government to announce liquefied natural gas international export plan",
+      "sum": "The Minister of Veterans Affairs will announce a policy regarding international energy exports, specifically liquefied natural gas, on behalf of the Minister of Energy and Natural Resources.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "53ef34ecdf8477b3",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/07/government-of-canada-to-support-economic-development-in-markham.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government announces economic development support for Markham",
+      "sum": "Minister Evan Solomon will announce federal support for economic development in Markham. The announcement involves the Federal Economic Development Agency for Southern Ontario.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "a1071fe482594900",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/07/federal-investment-helps-dartmouth-manufacturer-produce-critical-parts-faster.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal investment supports Dartmouth manufacturer production capacity",
+      "sum": "The federal government is providing investment to help a Dartmouth-based manufacturer increase production speed for critical parts. The government states this supports economic productivity, job creation, and supply chain resilience.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "97481accd1f17d6a",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/food-inspection-agency/news/2026/07/strengthening-access-to-new-markets-export-opportunities-for-canadian-blueberries-to-the-philippines.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada expands blueberry exports to Philippines market",
+      "sum": "The Government of Canada is working to help Canadian blueberry producers access new export markets, specifically the Philippines. This action aims to expand international sales opportunities for the Canadian blueberry sector.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "c372e9fd73729927",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/parliamentary-secretary-fragiskatos-to-make-an-announcement-in-toronto.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Online passport renewal service announcement made in Toronto",
+      "sum": "Parliamentary Secretary Peter Fragiskatos will announce changes to online passport renewals in Toronto on behalf of the Minister of Immigration, Refugees and Citizenship.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
+    },
+    {
+      "id": "68308be6c3296864",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/07/strengthening-protections-for-canadian-independent-harvesters-and-coastal-communities.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government announces measures to support independent fish harvesters",
+      "sum": "The Minister of Fisheries announced two measures intended to ensure that economic benefits from fishing remain with independent harvesters and coastal communities.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "f6940d25bbeaf277",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/minister-dabrusin-to-make-northern-energy-affordability-announcement.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Minister announces northern clean energy affordability funding",
+      "sum": "Minister Julie Dabrusin will announce funding for clean energy and affordability programs in northern Canada. The announcement will be made alongside Brendan Hanley, Parliamentary Secretary to the Minister of Northern and Arctic Affairs.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "5ab9b6d1cca4875f",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/07/multiple-charges-laid-in-deceptive-online-passport-service-scam.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Multiple charges laid in online passport service scam",
+      "sum": "The Competition Bureau has laid multiple charges related to a deceptive online passport service scam. The charges were announced on July 28, 2026.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "3e3066fd848f235e",
+      "date": "2026-07-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1dackZDSHJpbUZjTlQwempmbjNzeGlRRzFDdkxBR2pLalk2M21rTl9PdWM1STB3QkU1VTRyWFRZV1RFbkVFZzFzOVdEek5ad19HSWlqWS10cXZTVTlOWllzZGZWOHJKbE9ELTd5UFZWSUtMbmhlOFdtZ3FURmFFRVowcnFOUzFtX3BFd3ZOc3Znd1cwTEdSZUlacVhwLThKYmN3c18wNXlXTGkwQ0xuY29DV2x6eVlEZUNN?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "COMMENTARY: Here’s How Carney Can Meaningfully Address Legitimate Frustrations of Albertans - EnergyNow",
+      "excerpt": "COMMENTARY: Here’s How Carney Can Meaningfully Address Legitimate Frustrations of Albertans EnergyNow",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "b11910bc81ae3ad4",
+      "date": "2026-07-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOGJvYXhza0VfLTVmeHIyb1VnTXFaNlBuaDc4cUxUQUNUaW5rNmxZSVcyWUhYd2preXlyellXOElwZGc5VHRIYmJsbDd4QlQwTHFFQnk4ckJ0OS1SeHk4ZDQtcUs2NldlWjhkVzdET1FIYlBGMU9HX3gyYmNtTDVla1duSms0UUgzQ2tyTlQzcm9aUGxpRm1wQ2lIdGowWFUwS3B0OHZPQjBKV2k0dHhFeHl4THlwbDgxMFlJTTg2cmRwczBwNElsblZ0RVFsR2pELWZPbDZNQXhaV2xNczlobU1B?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian housing construction drops further below half of Carney government’s 500,000 per year target, rentals dominate new builds - The Hub | More Signal. Less Noise.",
+      "excerpt": "Canadian housing construction drops further below half of Carney government’s 500,000 per year target, rentals dominate new builds The Hub | More Signal. Less Noise.",
+      "cat": "Housing"
+    },
     {
       "id": "309b62998d526040",
       "date": "2026-07-27",
@@ -5308,6 +5426,17 @@
       "cat": "Sustainable development"
     },
     {
+      "id": "011315936efd52cc",
+      "date": "2026-07-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczVSejlGRWVXdzJnbDlMSzFsTDlyUXg0aC1fbDlXbkg1ci1XbmhGaEdKZ01LTF9zOF9JZFAyMXlrMWQ2NXZUSXlwclFkLTNGWXJFMVNnOFE3ckY0bkozODJWNEdJY3VMY3RhOVhVSFhuNTB2TC13VTFYUWtIbXRRVmNRTGZKbU9hS2syRENfQlM4cjQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government shakes up diplomatic missions in U.S. with new consular appointments - CBC",
+      "excerpt": "Carney government shakes up diplomatic missions in U.S. with new consular appointments CBC",
+      "cat": "Foreign affairs"
+    },
+    {
       "id": "dfcb243a4acac9dc",
       "date": "2026-07-14",
       "src": "Canadian politics (via Google News)",
@@ -8437,6 +8566,17 @@
       "sum": "Minister Eleanor Olszewski issued a statement commemorating the tenth anniversary of the 2016 Fort McMurray wildfires. The statement marks the occasion as Minister of Emergency Management and Community Resilience.",
       "cat": "Public safety",
       "ai": true
+    },
+    {
+      "id": "5744a71ab358027d",
+      "date": "2026-05-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PYzZ6eXc3ZVhGZTdtVlpLLWJ0azVsbGFaMHJOYjFaSXNYZWplM3hoOC1GQi1LNl9EMVMxc0FLc3NHOV9DTjNrd3Flc0RjWGtMRG1fT2hZYXJlQ0ZxdmVPdzBJVU5IZzI0YXdNTQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Our Policy Series: Carney’s Canada One Year Later - Policy Magazine",
+      "excerpt": "Our Policy Series: Carney’s Canada One Year Later Policy Magazine",
+      "cat": "Economy"
     },
     {
       "id": "f3c941dc31785773",
