@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T21:50:25.283Z",
-  "count": 820,
+  "generatedAt": "2026-07-28T02:40:01.019Z",
+  "count": 822,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "309b62998d526040",
+      "date": "2026-07-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/canada-and-northwest-territories-partner-to-build-more-homes-and-essential-infrastructure.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada and Northwest Territories partner on housing and infrastructure",
+      "sum": "Canada and the Northwest Territories have agreed to work together to increase housing supply and strengthen essential infrastructure in the territory. The partnership aims to support community growth and development.",
+      "cat": "Housing",
+      "ai": true
+    },
     {
       "id": "22410ba8069c276e",
       "date": "2026-07-27",
@@ -7691,6 +7703,17 @@
       "sum": "Parliamentary Secretary Hogan will hold discussions regarding North America's energy advantages. The specific details, timing, and participants of these discussions are not provided.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "a38f37d1230532f7",
+      "date": "2026-06-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkZwMTZhbHlKaHAxcjlpQWxZSHZQZHpTbHhMdXdhUzM4WUo2dVNXbVlUNFdTNDAtUEFCVjBoNWZrdE85TFZfaUtyYmNQQk44OC1zM0ZDZElfcjBCUWNNYVdXaUR0WnhMeXgxX3hKSHZTUTJjc285WmRIeHk4WkVsUDVQZEJlMDh2N0xEamRyY2I?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Can Mark Carney get Canadians to trust AI? - CBC",
+      "excerpt": "Can Mark Carney get Canadians to trust AI? CBC",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "0ae6bd17acb679aa",
