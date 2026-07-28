@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T02:40:01.019Z",
-  "count": 822,
+  "generatedAt": "2026-07-28T08:36:46.817Z",
+  "count": 824,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -5308,6 +5308,17 @@
       "cat": "Sustainable development"
     },
     {
+      "id": "dfcb243a4acac9dc",
+      "date": "2026-07-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQk1JNm5kaGFDaTBZeGFfS2t2RnZwZ25tdUZSNWV5Q2RXR0RDMVlHNXNhZmUwLWFnZktMMlV5Yl9sR1J1RDVEc3NNaTJmeHNPQUd6bUpoQ2tOeGIyT3F5eFRlUTNIQTVUdHNOUzM4dUk5aEVJUVRsTDd6Tm82Z2hROTRITDFnc005TTk3NnA2a0pRR3dXTWpyUG5TX3ZiNHpDcUlhOXBUV0lEOEdN?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "CUPE urges federal government to respect Charter right to free and fair collective bargaining at WestJet - CUPE",
+      "excerpt": "CUPE urges federal government to respect Charter right to free and fair collective bargaining at WestJet CUPE",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "4b2568438cf1805d",
       "date": "2026-07-14",
       "src": "Canadian politics (via Google News)",
@@ -7898,6 +7909,17 @@
       "sum": "Four federal ministers will provide an update on Canada's readiness for the 2026 wildfire season, including forecasts and preparedness measures. The briefing involves ministers responsible for emergency management, environment, indigenous services, and energy.",
       "cat": "Public safety",
       "ai": true
+    },
+    {
+      "id": "122f02eb5eaff293",
+      "date": "2026-05-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHFLS3lFNi1HOEljUkNYbzkzeHJBNzk1RnBORndBVDhzQjk5OVJVZjVyZlUtcGllckxQMHdSWXVHQmNiNTlFT1FGcy1WMjg3NnhIYm8tdzJEa1R6QVFVTGxKb3UxOHk4R1NCMWtXM1I4RGE2TTVvaDhJejlYS3ZlQ3JvX1lFNk5GazZSblB0QVFnWW8?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal government does not know better than the market - Fraser Institute",
+      "excerpt": "Federal government does not know better than the market Fraser Institute",
+      "cat": "Economy"
     },
     {
       "id": "e0e7a14af3a7f738",
