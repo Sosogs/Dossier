@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T14:10:46.039Z",
-  "count": 836,
+  "generatedAt": "2026-07-28T19:27:17.768Z",
+  "count": 850,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,150 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "23bf499832afc712",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/infrastructure-announcement-in-antigonish.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Infrastructure announcement planned for Antigonish",
+      "sum": "A federal infrastructure announcement will be held in Antigonish with Parliamentary Secretary Jaime Battiste and the Mayor of Antigonish. Details of the specific infrastructure project were not provided in this notice.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "f6b8ed53998b6c19",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/transport-canada/news/2026/07/government-of-canada-to-announce-major-investment-in-the-passenger-locomotive-fleet-to-strengthen-connections-across-the-country.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada announces investment in passenger locomotive fleet renewal",
+      "sum": "The Minister of Transport will announce a major investment to renew Canada's passenger locomotive fleet. The investment is intended to improve transportation connections across the country.",
+      "cat": "Transportation",
+      "ai": true
+    },
+    {
+      "id": "6b1b630f8fa9c1c2",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/canada-expands-online-passport-renewal-to-all-eligible-adults.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada expands online passport renewal to all eligible adults",
+      "sum": "The Government of Canada is expanding its online passport renewal service to all eligible adult Canadians. This digital service allows people to renew their passports without visiting in person.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "9d1c864d531bd43a",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/infrastructure-announcement-in-saint-john.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Infrastructure announcement scheduled in Saint John",
+      "sum": "Federal and municipal officials will make an infrastructure announcement in Saint John. The event will include Wayne Long, Secretary of State for Canada Revenue Agency and Financial Institutions, and Saint John's Mayor Donna Noade Reardon.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "36ca83bb1ee483dc",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/07/government-of-canada-supports-the-strength-and-promotion-of-french-in-saskatchewan0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada supports French language vitality in Saskatchewan",
+      "sum": "The Government of Canada has expressed support for strengthening and promoting the French language in Saskatchewan. This support aims to help maintain the vitality of French-speaking communities in the province.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "dd1a70083a6c5f38",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/07/backgrounder-government-of-canada-supports-the-strength-and-promotion-of-french-in-saskatchewan.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada supports French language vitality in Saskatchewan",
+      "sum": "The Government of Canada is supporting efforts to strengthen and promote the French language in Saskatchewan. This includes backing for the vitality of French-language communities and services in the province.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "103053d7f1f28d5f",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/07/government-of-canada-acts-to-protect-canadian-softwood-lumber-jobs-announces-support-to-lumber-company.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal government provides $60 million loan to softwood lumber company",
+      "sum": "The federal government announced a $60 million loan to Arbec Bois d'œuvre Inc. through the Large Enterprise Tariff Loan facility. The funding is intended to help the company maintain operations and transition its business model.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "6b94c22ee3f1159e",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/07/minister-sidhu-to-announce-next-steps-in-canadas-approach-to-trade-diversification.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Minister announces next steps in Canadian trade diversification",
+      "sum": "Minister of International Trade Maninder Sidhu will announce the government's next steps in its trade diversification strategy. A media availability will follow the announcement.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "9026d5cf3afc34a1",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/07/thirteen-niagara-region-businesses-receive-support-to-strengthen-resiliency-and-grow.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal government invests $11.3 million in 13 Niagara Region businesses",
+      "sum": "The federal government announced a combined investment of over $11.3 million to support 13 businesses in the Niagara Region. The funding is intended to help these businesses strengthen their capabilities and pursue growth opportunities.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "19f144b402bf8555",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/07/government-of-canada-investments-to-help-niagara-region-businesses-adapt-and-drive-innovation.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal government invests $11.3 million in Niagara Region businesses",
+      "sum": "FedDev Ontario is providing over $11.3 million in funding to 13 businesses in the Niagara Region to help them adapt their operations and pursue innovation opportunities.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "1078ab06102816a4",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-announces-50-million-federal-investment-in-natural-products-canada-to-strengthen-canadas-agri-food-sector.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government invests $50 million in Natural Products Canada agri-food initiative",
+      "sum": "The Government of Canada announced a $50 million federal investment in Natural Products Canada to support the agri-food sector. The investment was announced by the Minister of Agriculture and Agri-food along with other government officials.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "4e672617c0eec7b5",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/07/government-of-canada-supports-soccer-in-calgary-and-across-the-country.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal funding supports 25 community soccer pitches across Canada",
+      "sum": "The Secretary of State announced federal funding for Canadian Tire Jumpstart Charities to build up to 25 community soccer pitches across Canada, including one in Calgary. The initiative aims to increase youth participation in soccer.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
     {
       "id": "9de4688afebf37ed",
       "date": "2026-07-28",
@@ -7610,6 +7754,17 @@
       "cat": "Economy"
     },
     {
+      "id": "e4deac9f466a66cc",
+      "date": "2026-06-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVFkZHZiX2hHWEJkbmRDRWl6RDFKd2NVR2Zwcm40X2pPU3FoRHJldkxUSndDNlFUQ1h1TjFGcHlVUlFBS1V3dWxlMm5uZ1MzLVU2TUI5WkNyemRwdml3bXQ4ZElZZ282OEVfMnJmaUZLc2QxaXYwX1FzS1BvSVBaTnZoUUJXYkFYYVVpVXVoXzJVLVl3VDEyNmZFd3YxQWx6MVhCOQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "PM Carney unveils plan to lower food costs. Here’s how it works. - CTV News",
+      "excerpt": "PM Carney unveils plan to lower food costs. Here’s how it works. CTV News",
+      "cat": "Economy"
+    },
+    {
       "id": "b252ba06092c860d",
       "date": "2026-06-12",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
@@ -7795,6 +7950,17 @@
       "sum": "Minister of Industry Mélanie Joly will participate in a Toronto Metals Exchange bell-ringing ceremony with Apotex Health Corp. and deliver remarks about Canada's life sciences and pharmaceutical sectors.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "e23033b80304f735",
+      "date": "2026-06-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWmNjOE1HRW4zWlczOFZ2UGhNcUJKUnY4aFJHcVd4RlZVY09KeHo2eWdqV20tSmgzR3E5YjB2c05RTXlaVlhhcWEzdmxFZTVVTGJMYVdTTDdTWFlXQW9leFdDRFVhal8yZHJBNWJ3eGVTdmZJVVoxMmo5VEMyMC1tc1d1VC1ZZE9DUzF4OA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ottawa's bill regulating social media, AI expected to include some age restrictions - CBC",
+      "excerpt": "Ottawa's bill regulating social media, AI expected to include some age restrictions CBC",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "75cc89ec7b81d806",
