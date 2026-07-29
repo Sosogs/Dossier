@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T14:13:55.606Z",
-  "count": 867,
+  "generatedAt": "2026-07-29T19:19:23.519Z",
+  "count": 881,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,161 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "47c6d14403a348a7",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/federal-government-invests-in-active-transportation-and-accessibility-improvements-in-antigonish.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal government funds active transportation and accessibility in Antigonish",
+      "sum": "The federal government is investing in active transportation infrastructure and accessibility improvements in Antigonish, Nova Scotia. The announcement was made by Parliamentary Secretary Jaime Battiste and Mayor Sean Cameron.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "2998501065809293",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/07/seizure-of-contraband-and-unauthorized-items-at-saskatchewan-penitentiary.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Contraband seized at Saskatchewan Penitentiary",
+      "sum": "Staff at Saskatchewan Penitentiary seized packages containing contraband and unauthorized items on July 25 and 27, 2026.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "ba1b865c4fe5d0c8",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/07/recreational-harvester-fined-5500-for-multiple-fisheries-act-violations-in-burrard-inlet-british-columbia.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Recreational fisher fined $5,500 for Fisheries Act violations",
+      "sum": "A recreational harvester in Burrard Inlet, British Columbia was fined $5,500 for violating multiple Fisheries Act regulations. Fisheries and Oceans Canada enforces fishing rules to protect fish populations and habitats for Indigenous communities, recreational harvesters, and commercial operators.",
+      "cat": "Wildlife",
+      "ai": true
+    },
+    {
+      "id": "2c3d53ef88c52a35",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/canada-expands-online-passport-renewal-to-all-eligible-adults0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada expands online passport renewal to all eligible adults",
+      "sum": "The Government of Canada has expanded its online passport renewal service to all eligible adults. The expansion aims to reduce in-person visits and simplify the passport renewal process through digital services.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "cd68d64973ed97ab",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/backgrounder-canada-invests-in-clean-energy-projects-across-yukon-nunavut-and-the-northwest-territories-to-secure-affordable-reliable-clean-power.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada funds eight clean energy projects in three northern territories",
+      "sum": "The federal government announced nearly $7 million in funding for clean energy projects across Yukon, the Northwest Territories, and Nunavut. The funding aims to support affordable, reliable, and clean power in these regions.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "559d337266a03874",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/federal-government-invests-in-clean-energy-projects-across-yukon-nunavut-and-the-northwest-territories-to-secure-affordable-reliable-clean-power.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal government invests in clean energy projects in northern territories",
+      "sum": "The federal government is providing funding for clean energy projects in Yukon, Nunavut, and the Northwest Territories. The investment aims to provide affordable and reliable clean power to these regions.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "5e0419afa2dabbab",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/health-canada/news/2026/07/health-canada-obtains-permanent-injunction-preventing-canlab-researchs-illegal-sale-of-injectable-peptides-in-canada.html",
+      "type": "Order in council",
+      "kind": "official",
+      "title": "Health Canada obtains injunction against unauthorized peptide sales",
+      "sum": "The Superior Court of Québec issued a permanent injunction on June 11, 2026, prohibiting Canlab Research from selling unauthorized injectable peptides in Canada. Health Canada sought the court order to stop the illegal distribution of these products.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "0a2bfebdaec3075e",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/building-canada-strong-by-investing-in-the-saint-john-multipurpose-recreational-facility.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal investment announced for Saint John recreational facility",
+      "sum": "The federal government is investing up to $29.8 million toward the Saint John Multipurpose Recreational Facility, with the City of Saint John contributing $20 million. The project was announced by the Secretary of State for Canada Revenue Agency and Financial Institutions and the Mayor of Saint John.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "fcfbed5d23d69d95",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/07/minister-dabrusin-to-announce-new-funding-for-electric-vehicle-infrastructure-and-education-across-canada.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Minister announces funding for electric vehicle infrastructure and education",
+      "sum": "Minister of Environment Julie Dabrusin will announce new federal funding dedicated to electric vehicle infrastructure and education programs across Canada.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "41142fa9e68c8692",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/border-services-agency/news/2026/07/cbsa-officers-seize-380-kg-of-methamphetamine-and-cocaine-at-coutts-port-of-entry-in-alberta.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "CBSA seizes 380 kg methamphetamine and cocaine at Alberta border",
+      "sum": "Canada Border Services Agency officers at the Coutts port of entry in Alberta intercepted a commercial truck carrying 380 kilograms of methamphetamine and cocaine. The drugs were hidden within the vehicle.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "f42e2e33fa127dc5",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/07/government-of-canada-supports-economic-development-in-markham.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal government invests in economic development in Markham",
+      "sum": "The federal government, through FedDev Ontario, is providing investment to support economic development in Markham. The funding is intended to help expand local activities and support a major event that is expected to attract visitors and stimulate the local economy.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "16d4023f4eac3a94",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/canada-advances-global-energy-exports-by-signing-second-european-lng-deal.html",
+      "type": "International agreement",
+      "kind": "official",
+      "title": "Canada signs second European liquefied natural gas export deal",
+      "sum": "Canada has signed a second agreement to export liquefied natural gas (LNG) to Europe. This builds on previous LNG export arrangements between the two regions.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "bb00e341a15521f3",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWNwbDNKY3RZUThmekFJNlk2eVB3T2lDRHlxYmFkYkpjWkM5ekh0Y1hSZHJhMWFoeHZ3bkNpZGYwRGNnc0kzWXdwU09WNzRSVG9NZmE1VlBQNjRhWGF1d1Zndy0waDl1TzdoSXB3Nm5jekNTdDZFVGdaSmJpRDlHWHdDU2VIZGhuWHhXQmVXa1ZTdDR5anR4T3hlWU9tOE1t?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "About 10,000 federal public servants apply for early retirement - CBC",
+      "excerpt": "About 10,000 federal public servants apply for early retirement CBC",
+      "cat": "Economy"
+    },
     {
       "id": "566cb93c09db811e",
       "date": "2026-07-29",
@@ -435,6 +590,17 @@
       "title": "Canadian housing construction drops further below half of Carney government’s 500,000 per year target, rentals dominate new builds - The Hub | More Signal. Less Noise.",
       "excerpt": "Canadian housing construction drops further below half of Carney government’s 500,000 per year target, rentals dominate new builds The Hub | More Signal. Less Noise.",
       "cat": "Housing"
+    },
+    {
+      "id": "53b65205770233c0",
+      "date": "2026-07-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5icUNQaWtVaVpaRUcyb29sUFFKSjBOQ0JmYTFKUS1objFnNnE4bjVwSG5qaUlLTHNBaF9HU2RqYU1weHhtRXNaNmxiZXZSNmJscVRsOVdQWUg1dlUzWE1WYXIyMA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "As most Canadians rebuke Trump tariff threat and call for retaliation, confidence in PM to get a good deal declines - Angus Reid Institute",
+      "excerpt": "As most Canadians rebuke Trump tariff threat and call for retaliation, confidence in PM to get a good deal declines Angus Reid Institute",
+      "cat": "Economy"
     },
     {
       "id": "51e69e336b932c82",
