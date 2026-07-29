@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T19:27:17.768Z",
-  "count": 850,
+  "generatedAt": "2026-07-29T02:46:56.539Z",
+  "count": 857,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,64 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "33ade7f11bdb2f36",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/national-film-board/news/2026/07/two-new-documentaries-by-indigenous-creators-premiering-in-montreal-next-month--malaya-qaunirq-chapmans-nirilaurta-let-us-eat-and-jessie-ray-shorts.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Two Indigenous documentaries premiere at Montreal film festival",
+      "sum": "The National Film Board of Canada is premiering two documentaries by Indigenous creators at the Présence autochtone International First Peoples Festival in Montreal on August 6. The films are Nirilaurta: Let Us Eat by Malaya Qaunirq Chapman and Moon Noonk Edouard by Jessie Ray Short.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "9e495518a51ecc66",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/national-film-board/news/2026/07/streaming-as-of-august-17-on-nfb-three-new-animated-documentary-shorts-explore-motherhood-adoption-and-the-humanity-of-health-care.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "NFB releases three animated documentary shorts online",
+      "sum": "The National Film Board of Canada released three new animated documentary shorts on August 17, 2026, available for free online. The films explore motherhood, adoption, and healthcare through animation produced in the NFB's creative lab program.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "d1c91051ba76e03e",
+      "date": "2026-07-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/07/minister-mcguinty-brings-together-industry-and-investment-leaders-to-accelerate-canadas-defence-industrial-strategy.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Minister convenes industry and investment leaders on Defence Industrial Strategy",
+      "sum": "Minister McGuinty brought together industry and investment leaders to advance Canada's Defence Industrial Strategy. The government stated its focus on rebuilding and reinvesting in the Canadian Armed Forces to enhance their capabilities.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "7419702c9c99ea7c",
+      "date": "2026-07-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMVB2UVI5bTZkOFhBcUN5QmRFdlI0UmFQWG1XdFRoWE8wSkctZkZYSEpYN21ObkFudnNTLVlxOHBFcXhMY2dneTdtWVBmSmF3MUxzYk1pWU9CaGpzQUd5U2R6N0dWLTdMdTFoUEc5bzB6bXBwN1JhTjJ5el9HYjFEWWdtUkpkcHFXbWVIMkhUSy1KRExIWmpnVkh0d0FCdHI5a1Z4ZFpfZU1sVWVWZ0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ford government chastises Carney government for giving into ‘fringe group’ over island airport expansion - Global News",
+      "excerpt": "Ford government chastises Carney government for giving into ‘fringe group’ over island airport expansion Global News",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "883c5c0a9588360f",
+      "date": "2026-07-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbm1WdWh0ZE9tV0dTdnA2UVlHaVNqWWNUUFdPNkZfWDlzVkg5cWlVSTdldG84bllQUHFzWFpROU9oTDF0N0NxUVBDNFFGZ19CdFoxcjhrVmd5UXVNY3UwSTVuV1N1TTRxTnJSRFNaX21wMjJRcWR6RkRjNWRLQmJRX0tZVHZvaFIxN1RrbDJPREx2V1VSYlVadnl5aXIzVDhTdFJTczd6S0NTdDBRZGxmcmtpTmhPbWlibDFEZQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Economists sound the alarm about 'very concerning' lack of transparency on federal finances - National Post",
+      "excerpt": "Economists sound the alarm about 'very concerning' lack of transparency on federal finances National Post",
+      "cat": "Economy"
+    },
     {
       "id": "23bf499832afc712",
       "date": "2026-07-28",
@@ -295,6 +353,17 @@
       "title": "Canadian housing construction drops further below half of Carney government’s 500,000 per year target, rentals dominate new builds - The Hub | More Signal. Less Noise.",
       "excerpt": "Canadian housing construction drops further below half of Carney government’s 500,000 per year target, rentals dominate new builds The Hub | More Signal. Less Noise.",
       "cat": "Housing"
+    },
+    {
+      "id": "51e69e336b932c82",
+      "date": "2026-07-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPYVlMbVY5VVVLT1AzRk5DTWdYYlFQejIyMWx3RmZDZWwtdVhkYndyU25LNHlHX05qZ2R6aXVGTlR0Mmd5b0h1Z0F3cVJON0JIUDdkYW5hUHZvMXlQenVWWVkxWEpyU0FzUGs1SnVSLVA5NW50ckx3SGZ5MTZDZG9NUzVNOU5tTTdvZXdsVXkxVzl4Wkg5V2lNeElydEw0Z3VTcjd0bjZGQ2tMOWgxUW5OdTM0bGRzRW9UOHNjOEs1b0x0cVdIUVRpMlNSbFhvM0RDNkQxdl92c0IxSmQtcHZmWGJURGh5TVVBQ2xIa0F4cURNYXdydF9mOFlld3pGVkZuUUxVZnN2NmhhV2RLRE9rVW41b3M1dFBTMFNyRTB3aTE5Zw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "‘Disappointed’ Doug Ford spoke privately with Mark Carney after decision blocking Billy Bishop expansion - Toronto Star",
+      "excerpt": "‘Disappointed’ Doug Ford spoke privately with Mark Carney after decision blocking Billy Bishop expansion Toronto Star",
+      "cat": "Economy"
     },
     {
       "id": "309b62998d526040",
@@ -5877,6 +5946,17 @@
       "title": "Car collision with Edmonton building caused explosion, fire that left 1 dead, 2 still missing, police say",
       "excerpt": "A vehicle that hit an apartment building on Edmonton's north side Monday night caused an explosion and fire that left one person dead and forced a building-wide evacuation. Police say two residents of the building…",
       "cat": "Public safety"
+    },
+    {
+      "id": "23e3173a3ad7f058",
+      "date": "2026-07-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVzhGZFBiMEZyNUE0VFZleWRUNEJQSVFxS3lqeHBlbnB0MHczRFhkcFljZmw5d3BYbEJoMXNaQ3RHbldMNEhqRFZJYUlScTRETW96YWtDS3NaOWNBdXFVRVJELU5neFdBVUFidnBwN2pTenk1ZHFHYjNNYkk5ekFETlowOFVPc3NvUmhLS25XZGRyUnFTdEdReHFRNVkyN0V1OXN6LQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "The fiscal fantasy of fossil fuels - Canada's National Observer",
+      "excerpt": "The fiscal fantasy of fossil fuels Canada's National Observer",
+      "cat": "Finance"
     },
     {
       "id": "9631663e065ffc0e",
