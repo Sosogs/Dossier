@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T08:43:21.583Z",
-  "count": 860,
+  "generatedAt": "2026-07-29T14:13:55.606Z",
+  "count": 867,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,88 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "566cb93c09db811e",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/07/government-of-canada-announces-support-to-help-a-new-brunswick-company-modernize-compete-and-reach-new-markets.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada announces support for New Brunswick company modernization",
+      "sum": "The Government of Canada is providing support to help a New Brunswick company modernize its operations and expand into new markets. The initiative aims to strengthen Canadian productivity and supply chains in international markets.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "465762b3481c8a5f",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/transport-canada/news/2026/07/passenger-rail-locomotive-assembly-returns-to-canada-through-a-195-billion-government-of-canada-investment.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Canada invests $1.95 billion in passenger rail locomotive assembly",
+      "sum": "The Government of Canada is investing $1.95 billion to bring passenger rail locomotive assembly back to Canada. This investment aims to support economic growth, strengthen Canadian industry, and maintain passenger rail connectivity across the country.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "03d2a485d2cb87de",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/07/minister-solomon-in-toronto-to-announce-new-support-helping-southern-ontario-businesses-build-trade-resilience-and-enter-new-european-markets.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Minister announces trade support for southern Ontario businesses",
+      "sum": "Minister Solomon is announcing new support to help southern Ontario businesses build trade resilience and access European markets. The announcement is being made through FedDev Ontario, the federal economic development agency for the region.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "56a7c567e0f0f827",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/space-agency/news/2026/07/live-broadcast-of-crew-13-technical-briefing-and-news-conference.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canadian Space Agency hosts Crew-13 technical briefing and news conference",
+      "sum": "The Canadian Space Agency is holding a live broadcast event on August 3rd featuring a technical briefing about NASA's Crew-13 mission. The event will include expert panelists and a news conference with Crew-13 crewmembers, including Canadian astronaut Colonel Joshua Kutryk.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "99e922988204c75d",
+      "date": "2026-07-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/07/git-coatings-to-expand-production-with-federal-investment-in-canadas-defence-sector.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal investment supports defence coatings company expansion",
+      "sum": "The federal government is investing in GIT Coatings, a Dartmouth-based company, to help it expand production capacity. The investment aims to strengthen Canada's defence supply chains through new equipment.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "40b541858b8e1af9",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lSWpfclFqX1ZUUWpDaVJUdUNGVG9fOW1ycm56Ny1CTXBCYjB2RjlwSUw4STJfTTdHQjN3RlFyd3BxUDR1RjZlbVJxdTFFWjRPMVFfUUNkNjI2SmxEZlNtV0RLdUpBdTgtM1NHc0RnQW1CNkhSQldUZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "The Political Risk for the Carney Government in Another Airline Labour Dispute - inFocus with David Coletto",
+      "excerpt": "The Political Risk for the Carney Government in Another Airline Labour Dispute inFocus with David Coletto",
+      "cat": "Transportation"
+    },
+    {
+      "id": "db7beacea615e5ee",
+      "date": "2026-07-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzRBcHV6SXBnbkt0aFNlcUgtY015c3oxY2d2T1FzcXQ0VjV6SjdwMFRaMEFsR0VielVRMGpuMGk2bUxrdi0wWFRWdTd1RGh2ZWhuWUhtS3JndDkwS0dJTmNCNHVUSVR6VmdoM29xUmpYVHVWYTRDRkc1NzdYdGJHaFdGamZ0Y2lyNjc1MWQ4cXd5anNDN0FpemdUb0pmVmZnZ1FDYVRycWpVdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Government disputes union claim of deep job cuts at federal emergency centre - Ottawa Citizen",
+      "excerpt": "Government disputes union claim of deep job cuts at federal emergency centre Ottawa Citizen",
+      "cat": "Public safety"
+    },
     {
       "id": "33ade7f11bdb2f36",
       "date": "2026-07-28",
