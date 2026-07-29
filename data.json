@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T02:46:56.539Z",
-  "count": 857,
+  "generatedAt": "2026-07-29T08:43:21.583Z",
+  "count": 860,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -6407,6 +6407,17 @@
       "ai": true
     },
     {
+      "id": "03bc9a7363106c99",
+      "date": "2026-07-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT1E1MWwyX2dWTF9zdXp4ald1bzRnVmRzQ2pheGtJYjNGRnZRTlA4aEZsOElrUWpHV0U4ejN2NFA0UFJ6TG1BMk5qdHFVT0xqRXdGQzVBNm1xS2Vad3c0ZGd4dzU4TndDYUJLQjl5a3hCYllmcnV5UVJUQzM3dEJ5RUFaR1RxMVZ6ZGtTRGQ0V1lRT09DdXIxTlFoUHR1Tm5aQXFHMGZ1bjJ3VGFrSThuX09iTkhyQ1pHS1FJX002bEZaRDVabVg0dEtKOEVvUUJxX25oaEYxeGNzeldCU1E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Backgrounder: Government of Canada advances Canadian Patrol Submarine Project - canada.ca",
+      "excerpt": "Backgrounder: Government of Canada advances Canadian Patrol Submarine Project canada.ca",
+      "cat": "Economy"
+    },
+    {
       "id": "3aa4119b7d04cd76",
       "date": "2026-07-06",
       "src": "Canadian politics (via Google News)",
@@ -7775,6 +7786,17 @@
       "ai": true
     },
     {
+      "id": "f42207787094ca49",
+      "date": "2026-06-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOcFVnUEFqWE56Q3lTNEZkRHdfNnppX0NWVnNfeEl5cHczMEdZOUJpMUhVdGhkdnFabWRoVVFIZGF2Z2d4YmhCM2twWkZBWWh6YWRIU1d5Ml82c0FlQlVQY084VTZLTnpqT2xueUpTWjIwQzB1QmhWNlVfamFWZXZ3Mm5mOTg3UGpQN28xZVhhbWc0SU5LcnR2cDh1R2tZWnBxTndoVHNzMExMUUtSZk5vYWFsUDF1OXNYbmQ2aXdWQTZKWnladFlwNjZGNlBiZjk0OEktOTl1QzVwVU9TVFFmT3RHZm9uVjJWTXUwZnRPTXZ5blVsUUx3eEZ3MWE2cDBXemtJeDRCYUIyd1BIWmI5dGkzRHFWTzcxNkltWmczVmxnM213cmI4RVR5dC1JQzhPQm1MRw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Government of Canada tables new legislation to protect children’s data, strengthen privacy and build trust in the digital economy - canada.ca",
+      "excerpt": "Government of Canada tables new legislation to protect children’s data, strengthen privacy and build trust in the digital economy canada.ca",
+      "cat": "Economy"
+    },
+    {
       "id": "3a45cb3967755cb7",
       "date": "2026-06-15",
       "src": "Innovation, Science and Economic Development Canada (ISED)",
@@ -9085,6 +9107,17 @@
       "kind": "news",
       "title": "Mark Carney’s Year Two: Results as a National Imperative - Policy Magazine",
       "excerpt": "Mark Carney’s Year Two: Results as a National Imperative Policy Magazine",
+      "cat": "Economy"
+    },
+    {
+      "id": "5dc7532381525164",
+      "date": "2026-04-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmFNQUZ3WUpXNElQaVVhR3RWcW0yX1dhZGF2bzUtTlU0YndLX2NiVmJFVG5vQnUyN1l6YWtaMnNNZjJuR0xYd0dxODJtNEFWdk95cmFYalI3T0tTQ1JhU1NpU2RmbklwdGFIY2JZeHpiTWpyNFBQWHZMVnUzUF9qOWNldXcxbFE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mark Carney’s Remarks at the 2026 Liberal National Convention - Liberal Party of Canada",
+      "excerpt": "Mark Carney’s Remarks at the 2026 Liberal National Convention Liberal Party of Canada",
       "cat": "Economy"
     },
     {
