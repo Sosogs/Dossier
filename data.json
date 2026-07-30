@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T02:32:15.629Z",
-  "count": 887,
+  "generatedAt": "2026-07-30T08:29:13.552Z",
+  "count": 891,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,50 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "e560d6402a2ee1b6",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRjY2MjQ4bjZPUE9ReThMZmxjM2RPOW5SN2pwODlUTDJBRUJwVmdqdnlBTnVWWnBhbGpKVGxwdmtjV2VrMGJqWDBuWlR2Yjc3VUJ3Y2g5a1hZV1NIV200bXVPVDNsM0dzVHpOVVFrTnBRUkNTWXFPdFJYQmlWX2xKYWk1aVJpV05xZGRwUWdUOFJMLVhxQzRWY2ZXWFI5cFJ4dWFyN1gxaw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "PM Carney says government has ‘taken back control’ of immigration - CTV News",
+      "excerpt": "PM Carney says government has ‘taken back control’ of immigration CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "b741eb913d955635",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTGdMTjZWX1l1cHF2N0F4Mlh6LUlzTDMzMXRkYWQ2VGZkZHZfNmFWS0RTVElWa2FhN1ZXSWJSVjlhUzU2cVNsSnJpeFRVZjh1ZEwwNnBwY3Y2SWxjZGpSY1gzbHlJVGlUMzJFT1ZnZ0NaOG9meW9mUVk4NXJSYjc3TVdDRWhaTDh4SXdDZUFMbFhWeEpKR2hqMUoxWlNJQzg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney says government has ‘taken back control’ of immigration - meadowlakeNOW",
+      "excerpt": "Carney says government has ‘taken back control’ of immigration meadowlakeNOW",
+      "cat": "Economy"
+    },
+    {
+      "id": "00f3a211b0c5d598",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR1BqTE96ZXAtVmlvOHlZbUI1dGV5VUVyMXd5LTViNlFGSXRDTjJvd0tGc0dwMmpzZ1lXT2ZkeW9hOV9qd3M5cFRCUFYycnJ4MVB0SnE5YmtyS1ZnUjVxaU84Qy02X0Q2VnpQQUZlV3UzR0JGenBjZUc0cUxkakE2Z0RMTmFNLWktOFB3OF9Tb29UU0xkM096ODJtX1dsdjEwbW9FcjV2c2I3SXJ5amZTSHREZU9tUnJIMGs1ZWFPbU5ORlYzOVR2ZnRURFo3MDBZb0p0OHBvMm9rOFZyQktUd0tqWUMxVEE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney says government has 'taken back control' of immigration - Winnipeg Sun",
+      "excerpt": "Carney says government has 'taken back control' of immigration Winnipeg Sun",
+      "cat": "Economy"
+    },
+    {
+      "id": "e84c3ca52c45e973",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdi14aEFwQ0xkQzZPRHBIVW5rRHFZanRxX3NKaGFzY3ZsOUlHSmpKYUNMTmhGblNCcmJmR0ItRmU2c0pRSHdaYUlFRE1KWDlSeUVLMU5qQ043WUY4UjZGY3o4a0NQdnQ2LUw1cHY4TW52Q1hta1FIcUpFeUFiOWI2czhhT3JNSDloZ0tad0h6SnJ4UXUxUjZ1dlpnVXlvRk1XUEwzSW5lbWd2cmR1RXFrS2JhSlhNanB6ZWZhc18xME9WNnB4bDVOOFU5VWV0OGo4endrMFh3d1JnaWdaR3BUc0kwd3lBVTJlUU5EV3pzTW9BM1BUNFRZQUJiRQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mark Carney rejects using oil exports as leverage against U.S. amid tariff fight: ‘Canadians are reliable’ - Toronto Star",
+      "excerpt": "Mark Carney rejects using oil exports as leverage against U.S. amid tariff fight: ‘Canadians are reliable’ Toronto Star",
+      "cat": "Economy"
+    },
     {
       "id": "3fbce81a207fc498",
       "date": "2026-07-29",
