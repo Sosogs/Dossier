@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T08:29:13.552Z",
-  "count": 891,
+  "generatedAt": "2026-07-30T14:06:58.305Z",
+  "count": 899,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,90 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "49ba3d124eb65fc9",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/border-services-agency/news/2026/07/cbsa-to-end-commercial-driver-registration-program-due-to-low-uptake.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "CBSA ends Commercial Driver Registration Program",
+      "sum": "The Canada Border Services Agency is discontinuing its Commercial Driver Registration Program because participation has been low. The program is being terminated due to insufficient uptake from eligible drivers.",
+      "cat": "Transportation",
+      "ai": true
+    },
+    {
+      "id": "95ffd2c05e00d8a5",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/07/statement-from-minister-anandasangaree-on-world-day-against-trafficking-in-persons-2026.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Minister issues statement on World Day Against Trafficking in Persons",
+      "sum": "Minister of Public Safety Gary Anandasangaree released a statement on World Day Against Trafficking in Persons 2026. The statement marks the government's acknowledgment of the annual awareness day.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "58a3ab4113ed9576",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/07/government-of-canada-support-to-help-ontario-businesses-strengthen-trade-resilience-and-expand-into-new-markets.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal funding supports Ontario businesses to expand exports",
+      "sum": "The Government of Canada is providing funding through FedDev Ontario to the Toronto Business Development Centre to create a new program helping Ontario businesses strengthen their trade capabilities and enter new markets.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "d253044b8dd077af",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/07/150700-in-federal-funding-will-help-add-more-seating-at-the-crapaud-exhibition.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal funding allocated for seating expansion at Crapaud Exhibition",
+      "sum": "The federal government is providing $150,700 through the Build Communities Strong Fund to add seating at the Crapaud Exhibition. The fund supports infrastructure projects across Atlantic Canada.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "706454fbbc7c5c31",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/07/canadian-armed-forces-strengthen-arctic-mobility-and-operational-support-during-operation-nanook-qimaavivut.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canadian Armed Forces launches Arctic mobility operation",
+      "sum": "The Canadian Armed Forces has started Operation NANOOK-QIMAAVIVUT, a military engineering activity designed to strengthen mobility and operational support in the Arctic region. The operation is conducted as part of Operation NANOOK, Canada's primary Arctic military initiative.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "5872c564de133909",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/infrastructure-announcement-in-fredericton.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Infrastructure announcement planned in Fredericton",
+      "sum": "Federal and provincial officials will make an infrastructure announcement in Fredericton. The event will include a parliamentary secretary and a New Brunswick minister.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "4d4a79bb5d407c8a",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/federal-government-celebrates-progress-on-the-go-transit-expansion.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government marks progress on GO Transit expansion in Toronto",
+      "sum": "The federal government announced completed upgrades at the Bloor GO/UP Station in Toronto. The improvements increase capacity on the Kitchener Line and enhance pedestrian connections to Randolph Avenue.",
+      "cat": "Transportation",
+      "ai": true
+    },
     {
       "id": "e560d6402a2ee1b6",
       "date": "2026-07-29",
@@ -9489,6 +9573,17 @@
       "kind": "news",
       "title": "Mark Carney’s First Year: A Report Card on Five Fronts - Policy Magazine",
       "excerpt": "Mark Carney’s First Year: A Report Card on Five Fronts Policy Magazine",
+      "cat": "Economy"
+    },
+    {
+      "id": "cfaba5121e666c28",
+      "date": "2026-04-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREktS0dIdlc5LURVb19tcDlqdFJvak9UQWJaQ3oxR0lMWEpjWlVnQ2gycVJ4TFYxemxFWlNGUDVoRWhNTkg4dW5TZzJkU1BkOWZ6REo3NzBuVGg0WTZWQnZVNEppZ3FPUUZQR0R1MEc4ZTI5VUV6UzJkUzVBbXNMVDJiejFtbDBZclJ1bWVwcUtyYUYtOWN3NXFrcUFxZTV2UGoxUU5yNUlJZS00S05xX3J1V3hSRGhWQXRKYjhR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney announces first-ever Canada Investment Summit - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces first-ever Canada Investment Summit pm.gc.ca",
       "cat": "Economy"
     },
     {
