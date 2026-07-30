@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T14:06:58.305Z",
-  "count": 899,
+  "generatedAt": "2026-07-30T19:28:09.024Z",
+  "count": 914,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,173 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "73a816b0af212498",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/ps-guay-to-make-critical-minerals-infrastructure-announcement.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Parliamentary Secretary announces critical minerals infrastructure funding",
+      "sum": "Claude Guay, Parliamentary Secretary to the Minister of Energy and Natural Resources, will announce funding for critical minerals infrastructure projects.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "d493ac8d2ed69309",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/law-commission-canada/news/2026/07/law-commission-of-canada-releases-2025-2026-annual-report.html",
+      "type": "Report",
+      "kind": "official",
+      "title": "Law Commission of Canada releases 2025-2026 annual report",
+      "sum": "The Law Commission of Canada has tabled its annual report for 2025-2026 in Parliament. The report documents the organization's activities and work during that fiscal year.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "22d03f1a0c7bb945",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/women-gender-equality/news/2026/07/minister-valdez-announces-federal-support-for-crisis-hotlines-responding-to-gender-based-violence-in-newfoundland-and-labrador.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal support announced for gender-based violence crisis hotlines",
+      "sum": "The federal Minister of Women and Gender Equality announced renewed funding for crisis hotlines that respond to gender-based violence in Newfoundland and Labrador. The announcement was made alongside provincial and local elected officials.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "5e170efc06fe34d7",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-services-procurement/news/2026/07/lane-closures-on-macdonald-cartier-bridge-to-motorists.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Lane closures announced for Macdonald-Cartier Bridge rehabilitation",
+      "sum": "Public Services and Procurement Canada is implementing lane closures on the Macdonald-Cartier Bridge from August 7 to November 30 to conduct rehabilitation work. Motorists are being notified of the closures in advance.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "e13bb281ae43e97c",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/07/the-federal-government-invests-in-electric-vehicle-infrastructure-and-education-across-canada.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government invests $11 million in electric vehicle infrastructure projects",
+      "sum": "The federal government is providing $11 million in funding to support 23 electric vehicle infrastructure and education projects across Canada. The announcement was made by the Minister of Environment, Climate Change and Nature.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "bb4b76142858f9aa",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/07/government-of-canada-continues-investments-in-electric-vehicle-infrastructure-and-education.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada invests $11 million in electric vehicle infrastructure and education",
+      "sum": "The Minister of Environment, Climate Change and Nature announced funding of over $11 million for 23 electric vehicle charging infrastructure and education projects across Canada on July 30, 2026.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "bbf344880ff38c5e",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/07/minister-sidhu-establishes-strategic-exports-office-to-strengthen-canadas-global-competitiveness.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Strategic Exports Office established to support Canadian exporters",
+      "sum": "Minister of International Trade Maninder Sidhu announced the creation of Canada's Strategic Exports Office to help Canadian businesses expand into international markets. The office will provide support and guidance to companies seeking to diversify their exports globally.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "25c411c6f5ccd86b",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/building-communities-strong-in-british-columbia-with-54-new-infrastructure-projects.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal government invests $152 million in 54 British Columbia infrastructure projects",
+      "sum": "The federal government is providing more than $152 million to fund 54 infrastructure projects across British Columbia through the Strategic Priorities Fund. These projects are selected because they exceed what individual local governments can afford to build alone.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "95ac044c0fc9e7dd",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fednor/news/2026/07/minister-hajdu-to-announce-fednor-funding-to-help-more-businesses-capitalize-on-opportunities-in-the-defence-industry.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "FedNor funding announced to support defence industry businesses",
+      "sum": "Minister Hajdu will announce FedNor funding to help businesses in Northeastern Ontario participate in Canada's defence sector. The announcement will be made alongside Parliamentary Secretary Pauline Rochefort.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "3ef8a3b6db916e15",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-justice/news/2026/07/human-trafficking-project-descriptions.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Nine organizations receive $3.35 million to combat human trafficking",
+      "sum": "The Department of Justice Canada is providing over $3.35 million in funding to nine organizations across Canada over three years. The funding supports projects aimed at preventing human trafficking, improving services for victims and survivors, and protecting at-risk populations.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "4df9ca844a39ffbb",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-justice/news/2026/07/minister-fraser-announces-support-and-funding-for-victims-and-survivors-of-human-trafficking.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government announces support funding for human trafficking victims",
+      "sum": "The Government of Canada is providing support and funding for victims and survivors of human trafficking following Criminal Code reforms that are now in effect. The changes aim to support victims, prosecute traffickers, and prevent human trafficking.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "9edafefc00bc04be",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-justice/news/2026/07/minister-fraser-announces-support-and-funding-for-victims-and-survivors-of-human-trafficking0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government announces funding for human trafficking victims and survivors",
+      "sum": "The Government of Canada is implementing Criminal Code reforms to support victims and survivors of human trafficking and to hold traffickers accountable. The changes are now in force as part of broader efforts to prevent human trafficking.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "c414776d24eb56dc",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-invests-70-million-to-strengthen-the-ev-battery-supply-chain-in-quebec.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Canada invests $70 million in Quebec EV battery supply chain",
+      "sum": "The Government of Canada is providing $70 million in funding to support a $761 million project by Volta Energy Solutions to upgrade and expand its electric vehicle battery operations in Canada, with a focus on Quebec.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "c1893ef1abf1b1e3",
+      "date": "2026-07-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2t2M2RfQlhqV2RoeU13dXAyODJ6TGoyUzV2bkRWc1BLTkZlaW1aZXV4YmpSQnR2eW5rbWpZS00wZm9uVlM1NVJ2NF96MUlJcndoalRjWHozSGtNaXBKNXE3S3htdWIwRDNRbGxHSXNYcnNnYy04LVRGeUZXak15RXphNGVULTVqWjRTTQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government needs to dig deeper on food security - Rabble.ca",
+      "excerpt": "Carney government needs to dig deeper on food security Rabble.ca",
+      "cat": "Public safety"
+    },
     {
       "id": "49ba3d124eb65fc9",
       "date": "2026-07-30",
@@ -117,6 +284,17 @@
       "sum": "The federal government announced completed upgrades at the Bloor GO/UP Station in Toronto. The improvements increase capacity on the Kitchener Line and enhance pedestrian connections to Randolph Avenue.",
       "cat": "Transportation",
       "ai": true
+    },
+    {
+      "id": "6e32fad3bd0a9508",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR05meVFsUkMwSUF2RnRkMHZjcGI4ZHpLZ05JLXZQVnNyVlRwZFp4ZDFOcHJRTkRJWGNBV2pSOWs4OUNVNy01UzVPOUthcEdWVzhjbDZ1Y28wc254V3RnQWZaWlRoT1RIckxJVFYxeE16dW1VcUVpSml4SmhSckFIRVJCeWxObnM5Qm9NaXRsX2ZJLXQ2WkVNY2VB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney rules out using energy as leverage in U.S. trade talks - The Globe and Mail",
+      "excerpt": "Carney rules out using energy as leverage in U.S. trade talks The Globe and Mail",
+      "cat": "Economy"
     },
     {
       "id": "e560d6402a2ee1b6",
