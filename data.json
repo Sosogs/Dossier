@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T14:11:02.256Z",
-  "count": 922,
+  "generatedAt": "2026-07-31T19:28:35.603Z",
+  "count": 932,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,90 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "446c54b34d189625",
+      "date": "2026-07-31",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/07/government-of-canada-announces-funding-to-support-those-affected-by-the-tumbler-ridge-tragedy.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada provides $4 million for Tumbler Ridge tragedy support",
+      "sum": "The Government of Canada is allocating more than $4 million in federal funding to support people affected by a tragedy that occurred in Tumbler Ridge, British Columbia in February 2026.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "d0d729a3d4d9fee5",
+      "date": "2026-07-31",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/07/seizures-of-contraband-and-unauthorized-items-at-collins-bay-institution1.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Contraband seized at Collins Bay federal prison",
+      "sum": "Staff at Collins Bay Institution, a federal prison, seized multiple packages containing contraband and unauthorized items between July 22-25, 2026.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "aea90744be3a46a2",
+      "date": "2026-07-31",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/law-commission-canada/news/2026/07/law-commission-of-canada-announces-spring-summer-2026-emerging-scholars.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Law Commission names three emerging scholars for 2026",
+      "sum": "The Law Commission of Canada has selected Kaitlyn Blaser, Marie-Pier Jolicoeur, and Leanna Katz as Emerging Scholars for the Spring-Summer 2026 term.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "3d88918564e288d9",
+      "date": "2026-07-31",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/07/canada-imposes-provisional-safeguard-tariff-on-imports-of-wood-cabinets-and-vanities-to-protect-canadian-manufacturers-and-workers.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada imposes provisional safeguard tariff on wood cabinet imports",
+      "sum": "Canada has implemented a provisional safeguard tariff on imported wood cabinets and vanities to protect domestic manufacturers and workers. The measure is part of broader federal efforts to strengthen the economy amid global trade competition.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "c8de33f3720ffdce",
+      "date": "2026-07-31",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/canada-and-ontario-mark-another-milestone-for-the-scarborough-subway-extension.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada and Ontario break ground on Scarborough Subway Extension station",
+      "sum": "The federal and Ontario governments marked a milestone in the Scarborough Subway Extension project by breaking ground on Lawrence and McCowan Station, the second of three new stations planned for the Greater Toronto Area.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "1d16229c9ebb21ee",
+      "date": "2026-07-31",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fednor/news/2026/07/government-of-canada-invests-27-million-to-strengthen-northeastern-ontarios-defence-sector.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada invests $2.7 million in Northeastern Ontario defence projects",
+      "sum": "The federal government is providing $2.7 million in funding through FedNor to support two defence-related projects in Northeastern Ontario led by the International Test Pilots School and SKADI Cyber Defense Corporation. The investment aims to strengthen the regional economy and the defence sector.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "27e54ae4d2327e82",
+      "date": "2026-07-31",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-renames-canada-impact-research-chairs-program-in-honour-of-eddie-goldenberg.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada Impact+ Research Chairs program renamed for Eddie Goldenberg",
+      "sum": "The Government of Canada has renamed the Canada Impact+ Research Chairs program to honour Eddie Goldenberg in recognition of his long career supporting Canadian research and innovation.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
     {
       "id": "d7c05a5f20c814eb",
       "date": "2026-07-31",
@@ -91,6 +175,17 @@
       "kind": "news",
       "title": "Carney touts BC port expansion plan to strengthen independence, diversify economy - nationalobserver.com",
       "excerpt": "Carney touts BC port expansion plan to strengthen independence, diversify economy nationalobserver.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "819ef06071d43f3c",
+      "date": "2026-07-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUV5V3Iya29CSzF1MjRCV0VoRjNlcW5uTjEwb1pacDhLLWtzNDBNQmtUT3JBUXdISVM4a2lWbDRyVFIwSXNDYnpHNnF6SE1nYjZCWXJFUDRMYTRad09zdUhlSkI2ak82aFBSNVgtU25mLWxmM3p2bk91UEZjTDlqNWVJZGlGNkRjbzVDbG1vVHI?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "New task force looks to make public service 'less risk-averse' - Ottawa Citizen",
+      "excerpt": "New task force looks to make public service 'less risk-averse' Ottawa Citizen",
       "cat": "Economy"
     },
     {
@@ -355,6 +450,17 @@
       "sum": "The federal government announced completed upgrades at the Bloor GO/UP Station in Toronto. The improvements increase capacity on the Kitchener Line and enhance pedestrian connections to Randolph Avenue.",
       "cat": "Transportation",
       "ai": true
+    },
+    {
+      "id": "19e65b2fe15a870c",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sc1FqMFZ5cFQ1a1BrbFhZZlQyUTB6ZklVT3NZOTBDdUlfbDV5eUZDcXNkQkdIZ0MtNTY1blBOQWFiVFJBeUx4UEhhNFRGT0cydmlGZVZMU19hbGM5NjdtWUZpdFVXSEVyYl9sLVJTOHI2cWlFYlE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Liberals block committee effort to probe Carney’s Gordie Howe bridge deal - Global News",
+      "excerpt": "Liberals block committee effort to probe Carney’s Gordie Howe bridge deal Global News",
+      "cat": "Infrastructure"
     },
     {
       "id": "6e32fad3bd0a9508",
@@ -3531,6 +3637,17 @@
       "title": "Boston Bar, B.C., residents ordered to 'leave now' due to new, fast-moving fire",
       "excerpt": "The Fraser Valley Regional District has ordered anyone remaining in Boston Bar, B.C., to leave immediately due to a new fire south of the community.",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "56a3000013c696f9",
+      "date": "2026-07-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQktMbWhQNy1fNXhBWXREeXBpWS1HencwbW9wNElGV3NrX090QWRxd29VdDhxSHhaYi12Ml93RldkbXVoVHF4UHhsQ21OemNkN01ocE9CdTBkalpiaWFPaXhLcVVqUGk0S2NkbUw4YlpJOGlmTTNWaHpSRGZERnh0OVlLRlk1QzVQekxoMkZHNFhqSXNwOUhKMVpNSkgtcTVvOTRUSE1hSUFLOFY2U1VBbW5tdXRaeFFteFhLLVVFSTZHV3pneEltRXk2VmNLWFJESW9CTGJKWXplYldYWkxnNmo3amJ4STk1UFY5eVp6eEp1NS16UzZoYjNlelVBTVUzcVNESjNCQUlRYWUwV0dV?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "New details on Gordie Howe Bridge deal confirm Canada will split toll revenue with U.S. - Toronto Star",
+      "excerpt": "New details on Gordie Howe Bridge deal confirm Canada will split toll revenue with U.S. Toronto Star",
+      "cat": "Finance"
     },
     {
       "id": "61ab7d29d816eca6",
