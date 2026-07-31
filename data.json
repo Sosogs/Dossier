@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T08:51:53.991Z",
-  "count": 918,
+  "generatedAt": "2026-07-31T14:11:02.256Z",
+  "count": 922,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,54 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d7c05a5f20c814eb",
+      "date": "2026-07-31",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/canada-and-new-brunswick-invest-in-housing-enabling-infrastructure-to-help-build-more-homes-in-fredericton.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Canada and New Brunswick fund housing infrastructure in Fredericton",
+      "sum": "The federal, provincial, and municipal governments are jointly investing over $23 million through the Canada Housing Infrastructure Fund to expand water, stormwater, and sewer infrastructure in Fredericton to support new housing development.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "9770efe93cd2c4c3",
+      "date": "2026-07-31",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/07/parliamentary-secretary-grant-to-make-forest-sector-announcement.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Parliamentary Secretary announces forest sector funding",
+      "sum": "Wade Grant, Parliamentary Secretary to the Minister of Environment and Climate Change, will announce funding for the forest sector.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "d30ee8f53d705330",
+      "date": "2026-07-31",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/07/alert-to-countries-companies-and-other-entities-regarding-north-korean-it-workers.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada joins alert on North Korean IT workers",
+      "sum": "Canada and other countries issued a joint alert warning about North Korean IT workers and related cybersecurity risks. The alert was coordinated with allied nations including Australia, France, Germany, Italy, Japan, and other partners.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "ac3e6af89fa6e85f",
+      "date": "2026-07-31",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/impact-assessment-agency/news/2026/07/the-federal-government-announces-major-milestone-for-the-crawford-nickel-project.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal government announces Crawford Nickel Project milestone",
+      "sum": "The federal government has reached a major milestone on the Crawford Nickel Project. The government states the project aims to create jobs and strengthen Canada's economy while protecting the environment and respecting Indigenous rights.",
+      "cat": "Natural resources",
+      "ai": true
+    },
     {
       "id": "be503fe143a1e7fe",
       "date": "2026-07-31",
