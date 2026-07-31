@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T02:57:14.700Z",
-  "count": 917,
+  "generatedAt": "2026-07-31T08:51:53.991Z",
+  "count": 918,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -9652,6 +9652,17 @@
       "sum": "Sturgeon Lake First Nation and Indigenous Services Canada officially opened the Shirley Bighead Nihtāwiki and Ohpikihāwasowin Birthing and Childrearing Lodge. The facility provides birthing and childrearing services for the community.",
       "cat": "Indigenous services",
       "ai": true
+    },
+    {
+      "id": "f52bf48692f138c7",
+      "date": "2026-04-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTNkaUk4WWlWamhqSWdwaDcwNWlRV1pWRUp2Y3pfY1puUkk4TlowSVBwVUNjQmVyNUtmSXNWS05qZHVNakZZblF6Ui1ycEhNVkNSUVo4RlVEdDZMbFlNTVBfUmJZemNicUVMMzZYZnBvbG1JelJvSHU2dGN6cGRsbmN6RFFJeHU1OWxVZlo3eVFmX0dfX2E0MlZzWGtVZ1FGa3RFTXZ0dmVFTU0xVF8zang1amZiZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Fiscal update will likely show Carney remains committed to Trudeau playbook - Fraser Institute",
+      "excerpt": "Fiscal update will likely show Carney remains committed to Trudeau playbook Fraser Institute",
+      "cat": "Finance"
     },
     {
       "id": "3ddfa3fcc07660e4",
