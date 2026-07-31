@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T19:28:09.024Z",
-  "count": 914,
+  "generatedAt": "2026-07-31T02:57:14.700Z",
+  "count": 917,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,29 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "be503fe143a1e7fe",
+      "date": "2026-07-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTk5lU3lfQ2wycm90WVl1RXI0Y2ZmVmx1bkZkcV9JZ2tyMDJGX0RieVhUMlhhNXlWakhrLTRSVHFJQ1JrWEs3TGFISjVLcl9NMi12ZFE1ZlhTd2pYRzdSRm5lMGlSTzVUU0tkNTdhRlFpcTJPeWRWRHYyYTMxSFpaVlpjZ2VKYkptTzRmV3lqMXJ5ZmhLRGx6UlNWZEtQNFZfX1FfX1BsM0pldnF1NmVaREhfUWhWS0dWZ0Z1cURwMG9tMlNa?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney touts BC port expansion plan to strengthen independence, diversify economy - nationalobserver.com",
+      "excerpt": "Carney touts BC port expansion plan to strengthen independence, diversify economy nationalobserver.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "cbdb5ce0f0d3a223",
+      "date": "2026-07-30",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/international-trade-tribunal/news/2026/07/tribunal-initiates-final-injury-inquirycertain-unarmoured-building-cables-from-china.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Trade tribunal investigates Chinese building cables for dumping and subsidies",
+      "sum": "The Canadian International Trade Tribunal opened an inquiry into whether Chinese unarmoured building cables are being dumped or subsidized in ways that harm Canadian industry. The investigation follows a preliminary determination by Canada Border Services Agency.",
+      "cat": "Economy",
+      "ai": true
+    },
     {
       "id": "73a816b0af212498",
       "date": "2026-07-30",
@@ -4696,6 +4719,17 @@
       "kind": "news",
       "title": "Kimberley, B.C., city of about 9,000, placed under evacuation alert as nearby out-of-control wildfire grows",
       "excerpt": "The city of Kimberley has been placed under an evacuation alert as an out-of-control wildfire burns west of the East Kootenay community. The regional district has also issued a separate evacuation alert for 66…",
+      "cat": "Economy"
+    },
+    {
+      "id": "ac109321d20919b5",
+      "date": "2026-07-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRU56R2lENjQwUzVGRGhwVFAzdzZSYnVTNUt0aDhTXzBnRS0tMGVjSGVoSzZxS1pMMHVwWDRnY3E5RHc4Y1BtYzJJMkpsM0Zza2djdUdpcjF3QzZXWURyTnBGcTVBaUtMSEkwbDhpVGRHZ2h1NDNaWGVqWGdZeXVsVXFtek5vUnhiMWFrN0RvWQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "The Carney Economic Agenda Meets First-Nations Friction - Policy Magazine",
+      "excerpt": "The Carney Economic Agenda Meets First-Nations Friction Policy Magazine",
       "cat": "Economy"
     },
     {
