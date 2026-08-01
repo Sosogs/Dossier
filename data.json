@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T19:28:35.603Z",
-  "count": 932,
+  "generatedAt": "2026-08-01T02:56:48.736Z",
+  "count": 937,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,17 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "8c267af364b07f99",
+      "date": "2026-07-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmozNkpxWThzUlJ0cUhpNjliRWtBUGtSam8ybENqeEZ0d3dya2pVbk94M05vbWFwamctN3dwLXZKQ2IxT0M5OGlUQnFtQkRaQjcwLWE3eGFMZHYtNjUyR1o0NjBOTXp3clJnc3U1aWlQeE43SHFXa3FLd3ZVaDY5MQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Feds approve Crawford Nickel Project in Ontario, promising it'll create 5,000 jobs during build - cbc.ca",
+      "excerpt": "Feds approve Crawford Nickel Project in Ontario, promising it'll create 5,000 jobs during build cbc.ca",
+      "cat": "Economy"
+    },
     {
       "id": "446c54b34d189625",
       "date": "2026-07-31",
@@ -175,6 +186,17 @@
       "kind": "news",
       "title": "Carney touts BC port expansion plan to strengthen independence, diversify economy - nationalobserver.com",
       "excerpt": "Carney touts BC port expansion plan to strengthen independence, diversify economy nationalobserver.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "55d34af4c757cd49",
+      "date": "2026-07-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblRhdEJvMTBpWEJZbFdWMVYwQTZEOXVHVzVWUGlZWWtjRFBFVkZhZFkwSFkxSkNwTUFKNWRVTHVlOTFsZjIzRWYyM2JHWUtkXzVrVHFYODhUYU1Mcm03TzRJcXNObC1BdC0tMjNkQnJRTnp5aTBrMFdkNGxaTU1mcHRGNTJJVlpnTG5kR0R0Y1ppREE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "LILLEY: What qualifies Jagmeet Singh to run Canada’s top tourism office? - Toronto Sun",
+      "excerpt": "LILLEY: What qualifies Jagmeet Singh to run Canada’s top tourism office? Toronto Sun",
       "cat": "Economy"
     },
     {
@@ -4887,6 +4909,17 @@
       "cat": "Economy"
     },
     {
+      "id": "8386d19ab41bf32e",
+      "date": "2026-07-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc2lnNXdGbU1TNGlqV3pnTnRWTU1NajZmZVpmczdsc1U0UXBpcTBVVTEzaFpMOXdhRmFkZzhFZWhnTFUxcXp2d2JVbjRzRTh1aXRDcXY2b1UwRl9OUWo2anN1RmVuSDJVZTV2T0szdlRTZFJaNFdrV3RYVm9VQXJrb3FaT202Ry15QkZ3NXJQazk2TUxSZkdhOXZlbjhkTWZWTHc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Liberals Hold a Six-Point Lead as Carney Government Approval Remains Above 50% - Abacus Data",
+      "excerpt": "Liberals Hold a Six-Point Lead as Carney Government Approval Remains Above 50% Abacus Data",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "ac109321d20919b5",
       "date": "2026-07-19",
       "src": "Canadian politics (via Google News)",
@@ -8945,6 +8978,17 @@
       "cat": "Innovation, science & industry"
     },
     {
+      "id": "940127383fa6e146",
+      "date": "2026-06-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUR6cGVEZ21oTHBza0hRTkxxdjBEcmI0US1pQ25aQW9wU1dva1VVNkhxeXd1cHBoX3hWVnU2eXprMy1ZUS03bWMzdjZWUklsRFlsN1lGaFdnNk9Iaml5QmlzMDV6UUs5THZWWU50d3NVOWdBMlJGc2NZY2gzeXpqcnowUGpuOWlYRjdqeGNJVU01d0dTY0c0anF1eFF3T21DZ29tVzRiSll3YmlqMmdr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal government launches AI strategy with focus on health care innovation - UHN Foundation",
+      "excerpt": "Federal government launches AI strategy with focus on health care innovation UHN Foundation",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "0ae6bd17acb679aa",
       "date": "2026-06-05",
       "src": "Canadian politics (via Google News)",
@@ -9220,6 +9264,17 @@
       "sum": "Minister of Emergency Management Eleanor Olszewski will announce measures to improve Canada's aerial wildfire-fighting capabilities. The announcement will be made with parliamentary secretaries from emergency management and natural resources.",
       "cat": "Public safety",
       "ai": true
+    },
+    {
+      "id": "9953af70ba22d5c5",
+      "date": "2026-05-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFhFT2tDa002UUJoV25qUGF6Sy1jLUJneENGY25ZMEV3XzdBMWxyOU9aWjlNMjZaR3dvSUJybmtGTXNzTGU0TGdMRzdERUx2NS10SkhVTWdjbVZLYm85QkpZQUpRd0xuMndUY2VQam12UE1EeXdmWWdHQVMwejhTbkljUGNhNzdINlU4MHZkNzJkc0hPVjZFRXFGbXFZaEFZc1dhYVBZXzNNYjNOLURHVzdXTnFRZ1pJUFE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Here’s how Carney can meaningfully address legitimate frustrations of Albertans - Fraser Institute",
+      "excerpt": "Here’s how Carney can meaningfully address legitimate frustrations of Albertans Fraser Institute",
+      "cat": "Economy"
     },
     {
       "id": "a4ea2b7109d8eddb",
