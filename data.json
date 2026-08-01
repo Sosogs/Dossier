@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T08:23:20.327Z",
-  "count": 937,
+  "generatedAt": "2026-08-01T13:24:43.021Z",
+  "count": 940,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c4c92960d1edd4ae",
+      "date": "2026-08-01",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/agriculture-agri-food/news/2026/07/ministers-statement-food-day-canada-2026.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government marks 23rd anniversary of Food Day Canada",
+      "sum": "The Minister issued a statement commemorating Food Day Canada's 23rd anniversary, which was established in 2003. The statement recognized the food producers and the initiative's founder, the late Anita Stewart.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
     {
       "id": "8c267af364b07f99",
       "date": "2026-07-31",
@@ -472,6 +484,17 @@
       "sum": "The federal government announced completed upgrades at the Bloor GO/UP Station in Toronto. The improvements increase capacity on the Kitchener Line and enhance pedestrian connections to Randolph Avenue.",
       "cat": "Transportation",
       "ai": true
+    },
+    {
+      "id": "8fc3e74eb80676c2",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXZxeE5DYlNfa01oUmhkcDNYNGp0ZnRHLVhlU3BnQ3ZpbzJhbFh5STRRa0NPLUVFVUF3eHJJUzduUkRyOGw1WERXbDFXS1V6YUhtYWMzYWduYi02ZjJOVDlTSEZfMGVOcHZMSUVWWUg1MHZORXdTOHlFZVotbVZsRW81R1otOUE0WVRUNFh6X1VuTXpC?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney says government has ‘taken back control’ of immigration - paNOW",
+      "excerpt": "Carney says government has ‘taken back control’ of immigration paNOW",
+      "cat": "Economy"
     },
     {
       "id": "19e65b2fe15a870c",
@@ -8185,6 +8208,17 @@
       "sum": "Five First Nations in Manitoba have achieved progress in improving safe drinking water access for approximately 10,000 community members. The milestones represent advancement in water infrastructure for these communities.",
       "cat": "Indigenous services",
       "ai": true
+    },
+    {
+      "id": "49c03b8bf17995b9",
+      "date": "2026-06-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUFZrQUcxdi1aWHIxQmRkZWFfeC1aX1F0SmtpeVMwa3hMMHplT2NyajBWeFZuRDd2RWQ2UW5iRnROeWZLMktSLVMzems0RmFxZjAtTm5UbndHUzQ0UG9hNXV3Q0FqbmtvaGlzTzF0S1pCYjRubGQwZ0lNM05ZVVR0dGNQNFhqcHJOZTNJMXRfa0RDTDRITWJ0ZG93cHprUE5RU0M5U1NWeEN1dw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government silent on cost of new high-speed rail stop in Kingston - Canadian Taxpayers Federation",
+      "excerpt": "Carney government silent on cost of new high-speed rail stop in Kingston Canadian Taxpayers Federation",
+      "cat": "Finance"
     },
     {
       "id": "dd36548bf2f889ae",
