@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T13:24:43.021Z",
-  "count": 940,
+  "generatedAt": "2026-08-01T19:10:26.016Z",
+  "count": 942,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "dad185961a6a06c9",
+      "date": "2026-08-01",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/07/minister-announces-small-craft-harbour-improvement-projects-on-the-burin-peninsula-newfoundland-and-labrador.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Funding announced for harbour improvements in Newfoundland and Labrador",
+      "sum": "The Minister of Fisheries announced federal funding to repair the breakwater at Fortune's small craft harbour and dredge the harbour basin at Burin. These projects are part of the government's broader infrastructure commitment.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "eca464ff8126711f",
+      "date": "2026-08-01",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/07/statement-by-minister-miller-on-emancipation-day.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government of Canada marks Emancipation Day",
+      "sum": "Minister Miller issued a statement on behalf of the Government of Canada recognizing Emancipation Day.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
     {
       "id": "c4c92960d1edd4ae",
       "date": "2026-08-01",
