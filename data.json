@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T08:26:27.444Z",
-  "count": 943,
+  "generatedAt": "2026-08-02T13:24:55.278Z",
+  "count": 945,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,17 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "344174d6ece2894f",
+      "date": "2026-08-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3NERUN6MDRlZDJQNmpuOE1LUlVnVWFka250RTZfZWdIQ1pxZk42OFBmN2hmQWxPLUZYRkx1NE1pQnJoWG9jdjZpZEdkbXBVVnFJWDdwd2ppODhiazVLTWRMYVczdlZOQmtXdVNOSGluWi1CZkE1RWgzQVR4Z205VWdBNkVCM3dNdUZVc2RUZU9EbWZHWXJ0V2Zqaw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada could add billions to its economy by processing more food. Here's what it's trying - cbc.ca",
+      "excerpt": "Canada could add billions to its economy by processing more food. Here's what it's trying cbc.ca",
+      "cat": "Economy"
+    },
     {
       "id": "dad185961a6a06c9",
       "date": "2026-08-01",
@@ -69,6 +80,17 @@
       "sum": "The Minister issued a statement commemorating Food Day Canada's 23rd anniversary, which was established in 2003. The statement recognized the food producers and the initiative's founder, the late Anita Stewart.",
       "cat": "Culture & heritage",
       "ai": true
+    },
+    {
+      "id": "3e2733a81e2a1653",
+      "date": "2026-07-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRHJ1VkpqWkhDODJWVEhVRXZyWTZOcGlYMjNpTjJvNXRnazcyODlIT3lJOU9nWi1rSVd3X0NDSHIwV1BLVHV4M1R2YnlJQ08yLURHVWZoSnlNdlpGODVLNFRTdHJSZWk3a1RaTV9QX2ZsZmJsTVBVZXRsMS1vSXJMRUYwU1J2M1R5WEtsc2ZUSU9zM3Z1Skp6SThUS3J5cmVCSjY2MjNJcFFNZXdNMVFQcVRwWVdyckFCR1p5Nmw4OHc0VWlOa2xtZlQ1dko0VDY0UzdjVTZwTkFjYzBFbW91OUdaZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government approves nickel mine in Northern Ontario - Toronto Star",
+      "excerpt": "Carney government approves nickel mine in Northern Ontario Toronto Star",
+      "cat": "Economy"
     },
     {
       "id": "8c267af364b07f99",
