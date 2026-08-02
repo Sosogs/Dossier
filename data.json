@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T02:55:47.580Z",
-  "count": 942,
+  "generatedAt": "2026-08-02T08:26:27.444Z",
+  "count": 943,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -222,6 +222,17 @@
       "kind": "news",
       "title": "Carney touts BC port expansion plan to strengthen independence, diversify economy - nationalobserver.com",
       "excerpt": "Carney touts BC port expansion plan to strengthen independence, diversify economy nationalobserver.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "20073d49a8d13ce9",
+      "date": "2026-07-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xU3prS3lTa2FOamJqSGZrZFR2bmpVVktCSE96bEQ0by1fbHVkdGtDWTY4OUFzM012c1JZd0xvcFNPRi1ncXdmVnhkLTctWjdMY0E1allBNDZqVkZrbHBSdy0zUDdtZ01NSzQwZA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Léger: Amid New Tariffs, Confidence in Carney Holds - 338canada.ca",
+      "excerpt": "Léger: Amid New Tariffs, Confidence in Carney Holds 338canada.ca",
       "cat": "Economy"
     },
     {
