@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T13:24:55.278Z",
-  "count": 945,
+  "generatedAt": "2026-08-02T19:12:44.938Z",
+  "count": 947,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,29 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "b6efc08451a5342d",
+      "date": "2026-08-02",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/07/secretary-of-state-van-koeverden-congratulates-team-canada-as-the-glasgow-2026-commonwealth-games-come-to-an-end.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Secretary of State congratulates Team Canada after Glasgow 2026 Commonwealth Games",
+      "sum": "Secretary of State van Koeverden issued congratulations to Team Canada following the conclusion of the Glasgow 2026 Commonwealth Games. The statement acknowledged Canada's participation and representation at the international sporting event.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "d3a9876a8b81a54d",
+      "date": "2026-08-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEJUX2d3THp4OV9IWnljaU9ZdXdkWF9lUGE3Y0lBb2JzS2JJZlE5VXJPUVpmSDdjd1FfeWZCRUM5ZjZOVG1kdmwzSTBfeDZ1di1xdXFwLVZ5ZXgyQjlvLTlnaFFtdmN2S3NsQzlUX1FLVVBxbzVCNjY0OVhSbENFbERGY0FncVBSYS05OFdkVmFOSWU1VXhCbVA4TWIydzJ0Mkc0TTZSYnZ3QncwOE1GWmw1TGtXeF8xVjVV?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What options does the federal government have on the WestJet strike? - CBC",
+      "excerpt": "What options does the federal government have on the WestJet strike? CBC",
+      "cat": "Economy"
+    },
     {
       "id": "344174d6ece2894f",
       "date": "2026-08-01",
