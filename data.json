@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T14:42:19.043Z",
-  "count": 952,
+  "generatedAt": "2026-08-03T19:39:27.378Z",
+  "count": 953,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,17 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "a613eb361737eab8",
+      "date": "2026-08-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEZTcHBSUDBDTGZiWkxqeUVfdTNKSll2b0ZCMWZqQ3RFWGVveGI0cG5aUzVwcm42czRCdTFHc0JINVJod3BxRzJURHB1aEJLSmNFWmYwOFpmYkZnM3hBVEZGYkZLU1ViMm1KTFg0MlNXQklmRHFjcUhvZHpXWnFmTldFUjhOZTNocWFlaXotSmQwVy1sZkFHZDg0TjBibmdtT05HVlQteE5mN0FmOE5DSA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadians tell Carney to shift to British spelling in federal protocol - CTV News",
+      "excerpt": "Canadians tell Carney to shift to British spelling in federal protocol CTV News",
+      "cat": "Economy"
+    },
     {
       "id": "b2aecd91ef74100d",
       "date": "2026-08-03",
