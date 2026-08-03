@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T09:49:19.196Z",
-  "count": 950,
+  "generatedAt": "2026-08-03T14:42:19.043Z",
+  "count": 952,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,28 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "b2aecd91ef74100d",
+      "date": "2026-08-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaW5RNFZGcTctX05saDlRa1k3MERKT3k2dWVaYjQ5OXRSb1dibGw2NDNGdGQzYVhGNWphb1VoT1hqU3BqZWRoNmlyUHJTb2p0U0I5TzBnYVllQ3k3Qk1GM0tlaHZTZnd1RXpsSUdVNXd2VHNpRXRGdFVrRGMzUkdLVTBVMmh5YzN2WDdRYVNwZE14UTdWMzEwSWt4bGZ0RU5aVkxMbm9pYkUtS0VNbnowV1ppQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Some Canadians tell Carney Ottawa's spelling protocol should lean British - National Newswatch",
+      "excerpt": "Some Canadians tell Carney Ottawa's spelling protocol should lean British National Newswatch",
+      "cat": "Economy"
+    },
+    {
+      "id": "81de868c7d824439",
+      "date": "2026-08-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3T1BZQ1E0ZW9yZVpoNWZNRXQ4SzlRbGZWME8zQkFzUHBLTWd5dEhiZFhpTWRraXhXbkNzbTJ3OUlHajlIY1Q2WTNaQzhvdDFEMHNtV0FSc1lLUW9BMG56NWFkb2t4MWd1bmtTNkp4SQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "🟢 Juno Jump Start: Carney Liberals are “finishing the job” on Trudeau's war on faith - Juno News",
+      "excerpt": "🟢 Juno Jump Start: Carney Liberals are “finishing the job” on Trudeau's war on faith Juno News",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "b8d6fd9278e87af5",
       "date": "2026-08-02",
