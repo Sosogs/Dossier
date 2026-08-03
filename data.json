@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T19:12:44.938Z",
-  "count": 947,
+  "generatedAt": "2026-08-03T02:56:45.965Z",
+  "count": 950,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -35,6 +35,28 @@
   ],
   "items": [
     {
+      "id": "b8d6fd9278e87af5",
+      "date": "2026-08-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWYzOXpiR1Rkc2dtRFpocjdlQUI3U0FTNU12aHNkTGczcEs1TU9GR05ndVlYZXRMS1QzVHFpSGZ0MEtzZTFtbWI3TjRqSUdndHFVQmxpRmhXcGhYM1poaE1Dakt0b3pzUHVWd1BDa0JIUGJPNmtBWFh4bVpWVjNUelUzNllkbXRwM0d1SHpvOWl4aHFsNXNPTDdxSDZkd1RIN2lyRnRMbVRSVEhZOTB6OWtVODU3TlpZVHJ2bzBKaWhfTGxITEpnXzQ0d3d4WXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "PERSPECTIVE: Fiscal Update Will Likely Show Carney Remains Committed to Trudeau Playbook - Fraser Institute - EnergyNow",
+      "excerpt": "PERSPECTIVE: Fiscal Update Will Likely Show Carney Remains Committed to Trudeau Playbook - Fraser Institute EnergyNow",
+      "cat": "Finance"
+    },
+    {
+      "id": "30c378be60ca819b",
+      "date": "2026-08-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnSy1pTzlEa3lYeTVjbjlMSXBSeGRWTm42SUViUlFEMF9wMGphc1lrVmduV19jZmF5RThoemg1LTZjeDlaZnI1SW5tSHV0QUFPa3ZfMkMzT3Vkb3VraFZGdGhpM0doUTJseUtXOUVtV1d4ekpCX09fc0ZvdXk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Context Matters: As Trump and Climate Change rise in Saliance, Carney holds 6-point lead - inFocus with David Coletto",
+      "excerpt": "Context Matters: As Trump and Climate Change rise in Saliance, Carney holds 6-point lead inFocus with David Coletto",
+      "cat": "Sustainable development"
+    },
+    {
       "id": "b6efc08451a5342d",
       "date": "2026-08-02",
       "src": "Government of Canada",
@@ -55,6 +77,17 @@
       "kind": "news",
       "title": "What options does the federal government have on the WestJet strike? - CBC",
       "excerpt": "What options does the federal government have on the WestJet strike? CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "2c53cc019758d6a4",
+      "date": "2026-08-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOLUl0UDNEQXNNU0ZWcF9wZnlpT3NTczVHclV5RWstaW9sMXR3cGk3MHl0OUhkakNUTmt2TkN5RGVZbFB2Sm9wWVd4SzlQVFdQQWtDWEU0WWl0T2tXVldsalRzVkJ4S0l1YUlxQlA5d1VyamZHTWlGYzNENkFWSEJ4Mk1ZY2wzNkFUSDlYQ2l0cENoeUhaNlZ3VkN3MTRldmNpSXJUZHRHazJOTnpoMHJubkJqMTg1U0VkVkMzV0RRYXI4Tm5CUXpBR1hKazE1MTA2LV8taExqUTlyXzZ0Ni1peHR1LUJmLVFFS1pFTExBRFBDRktQWURqMUFYZ3VfZmdBNllEaTZNMnpQUUxJR1IwRy1rV0QyQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Does the Carney government have a labour problem? Union leaders speak out as WestJet strike looms - thestar.com",
+      "excerpt": "Does the Carney government have a labour problem? Union leaders speak out as WestJet strike looms thestar.com",
       "cat": "Economy"
     },
     {
