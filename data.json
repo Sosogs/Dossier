@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T19:39:27.378Z",
-  "count": 953,
+  "generatedAt": "2026-08-04T02:41:35.468Z",
+  "count": 955,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,17 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d639472f5bd25517",
+      "date": "2026-08-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3Y3OWFJcHBHRERoZEw3ME9LQkZsd3VFV0VOVUFiMC1vYjBrR1BhdWpJWDFTYkQ1NTFYRENxQzZRekVlUF9lLWh5V2wzby11UjRCTkF1Xy1UTEFISGFZMkNFT0lSMGR4ZGNOLUtYVXRmLTczSFAwYWNfU2tsOFNEdHhpUDJka0VxaWJsR1FZMXhNYXQ5MWF3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "ANALYSIS: With four vacant ridings, why did Carney call just three byelections? - Global News",
+      "excerpt": "ANALYSIS: With four vacant ridings, why did Carney call just three byelections? Global News",
+      "cat": "Economy"
+    },
     {
       "id": "a613eb361737eab8",
       "date": "2026-08-03",
@@ -7893,6 +7904,17 @@
       "kind": "news",
       "title": "Conrad Black: The Carney government's Canada Day conundrums - National Post",
       "excerpt": "Conrad Black: The Carney government's Canada Day conundrums National Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "c7d57ba3b9f8e329",
+      "date": "2026-06-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM0oyZDhyN1huVVdFdk9JREIxR2ppLWVOM2N4QzE4eW9nM0t5dGNoa1Q0U1d1NlYzcUVOUFFja1V2N1c1S0tuOUQ0dl9WOXJldzhNN29jUklHMmI5bm9IaVlkaDROYnhlY2ZLV0Y3c2ZNZmlkUDl2a0M0MjN3cUNlUzBJNmhtRmYwTVE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada’s White House Is a Dump. Mark Carney Wants It Fixed Up. - The New York Times",
+      "excerpt": "Canada’s White House Is a Dump. Mark Carney Wants It Fixed Up. The New York Times",
       "cat": "Economy"
     },
     {
