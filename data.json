@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T02:41:35.468Z",
-  "count": 955,
+  "generatedAt": "2026-08-04T08:39:25.361Z",
+  "count": 956,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,17 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "37aa252d13d428e2",
+      "date": "2026-08-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYURSdWJGYWNDUzhPTkpWcmh3Wm5wdmRBRHhCX3hxSFd1NDRlWG1ka3FWUXE2NVc0LUxxNVFLaVBEbGdBV3hlSGh6aDhXX2NGeGJvZkx3aFVVenlCWERucWNiWFlMVWYwRXRsVzgzcFhxX3RVb01fT1l4Ql84WFlTTk5Zanh2S0hqR3dJR1l3TnBSMGhZdlZwMHBCOUxIUEJ4VW1sZkdRMUR1LWRVWm0wcjNlWmp1TFZq?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Some Canadians tell Carney Ottawa's spelling protocol should lean British - Castanet",
+      "excerpt": "Some Canadians tell Carney Ottawa's spelling protocol should lean British Castanet",
+      "cat": "Economy"
+    },
     {
       "id": "d639472f5bd25517",
       "date": "2026-08-03",
