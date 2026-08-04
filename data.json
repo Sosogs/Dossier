@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T14:18:59.416Z",
-  "count": 966,
+  "generatedAt": "2026-08-04T19:39:44.527Z",
+  "count": 974,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,100 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "f19ddc052df86708",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/08/fisheries-and-oceans-canada-partners-with-manitoba-government-to-complete-third-aquatic-invasive-species-roadside-inspection-blitz-of-the-season-on.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada and Manitoba conduct aquatic invasive species inspection blitz",
+      "sum": "Fisheries and Oceans Canada is partnering with the Manitoba Government to conduct roadside inspections on Highway 1 to prevent the spread of aquatic invasive species like zebra and quagga mussels. These species can damage ecosystems, infrastructure, and the economy.",
+      "cat": "Wildlife",
+      "ai": true
+    },
+    {
+      "id": "d377b1948bc0ae8d",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/08/strengthening-indigenous-leadership-in-british-columbias-forest-sector.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government funds Indigenous-led wood processing facility in BC",
+      "sum": "The federal government announced over $1.2 million in funding to Iskum Investments LP to support development of a potential wood processing facility in coastal British Columbia that would be majority Indigenous-owned and operated. The project could create over 700 jobs in the region.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "a6ead1cae3647306",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/08/fisheries-and-oceans-canada-to-share-results-of-the-2026-operation-north-pacific-guard-mission-in-the-indo-pacific.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada to report on 2026 North Pacific fishing enforcement mission",
+      "sum": "Fisheries and Oceans Canada and the Canadian Coast Guard will present results from Operation North Pacific Guard, a mission conducted in 2026 to detect and prevent illegal fishing in the North Pacific Ocean.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "042e6909d125bc7a",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/news/2026/07/statement-by-the-government-of-canada-on-the-notice-of-settlement-approval-regarding-the-sweet-v-hmk-class-action.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government approves settlement in Sweet v HMK class-action lawsuit",
+      "sum": "The Government of Canada has approved a settlement in the Sweet v HMK class-action case. The settlement resolves claims brought by a class of plaintiffs against the named defendants.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "2f66435085190de3",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/08/government-of-canada-establishes-foreign-influence-registry.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada establishes registry for foreign influence activities",
+      "sum": "The Government of Canada is creating a registry to track foreign state and actor attempts to influence Canadian public life and democratic institutions. This measure aims to increase transparency about foreign influence activities.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "f94e4b95a71681c8",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/health-canada/news/2026/08/health-canada-authorizes-vaccine-clinical-trial-for-ebola-disease-caused-by-the-bundibugyo-virus.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Health Canada authorizes Moderna Ebola vaccine clinical trial",
+      "sum": "Health Canada has approved Moderna to begin a Phase I clinical trial testing an mRNA vaccine candidate for Ebola disease caused by the Bundibugyo virus. The authorization was issued on July 30, 2026.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "08409347d0733a78",
+      "date": "2026-08-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFNvXzFtV2hvNUJxM3ludzZyT1UxRWJwYnphZ0pnT0dXZWRZNktBNmhIRXdiTVFRTmNWeVFKZ3JlS0hmWWt3OEIwUlh0YjRRcDRjaUQ1d19RbHBqeS1DV0xGaUNYbGV5YnRaRGc0bWQ4QW1Tazc2d3ZSYm1XQjFKTERkOHlXcGd2RlVzVDhsaGZZWTY0V3RaSlg2emV6Q3BPRE85MmhFTVZJbzY3S25SREFrSQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government moves to use Building Canada Act powers for the first time - iPolitics",
+      "excerpt": "Carney government moves to use Building Canada Act powers for the first time iPolitics",
+      "cat": "Economy"
+    },
+    {
+      "id": "9fcf6a62c142566f",
+      "date": "2026-08-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFBBdEFLM1FXOWo4aHEyWTdfMlliLTl6UHBRdTVMT2VLRlRQaTJaSGR1Sk8wU2pxX1psTVJVdjdrN0RmODdRTWFVaUoxNGNHekdwaFdsMkdGNDdYZm1qd2s2WGRZbE1SN1JkWDRXejBVY2l6dE16SzBYaElRNUc0UG5PQ3lYODVxUXpwYmY1TGpJTEZ6LWhBaWVTdzRYSlE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government moves toward listing West Coast pipeline as national interest project - CBC",
+      "excerpt": "Carney government moves toward listing West Coast pipeline as national interest project CBC",
+      "cat": "Natural resources"
+    },
     {
       "id": "8af3925c02bc2af7",
       "date": "2026-08-04",
