@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T08:39:25.361Z",
-  "count": 956,
+  "generatedAt": "2026-08-04T14:18:59.416Z",
+  "count": 966,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,100 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "8af3925c02bc2af7",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-to-travel-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Foreign Affairs Minister to visit Benin and Côte d'Ivoire",
+      "sum": "Minister of Foreign Affairs Anita Anand will travel to Benin and Côte d'Ivoire from August 4-6, 2026. The visit aims to strengthen Canada's diplomatic, economic, and development partnerships in West Africa.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "79f1aeb406d6309e",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/food-inspection-agency/news/2026/07/wood-you-take-two-minutes-to-protect-canadas-trees.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "CFIA launches Tree Check Month campaign to engage public",
+      "sum": "The Canadian Food Inspection Agency is promoting Tree Check Month in August to encourage Canadians to help protect local plants and trees. The campaign highlights the importance of healthy trees to the environment, public wellbeing, and the economy.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "24a29929cd508419",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-supports-the-toronto-caribbean-carnival.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government provides funding for Toronto Caribbean Carnival",
+      "sum": "Parliamentary Secretary Karim Bardeesy announced government funding support for the Toronto Caribbean Carnival. The funding is being provided to help support the event.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "3c4b8164f35d93ca",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/women-gender-equality/news/2026/08/minister-valdez-announces-federal-support-for-crisis-hotlines-responding-to-gender-based-violence-in-newfoundland-and-labrador.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal funding announced for gender-based violence hotlines in Newfoundland and Labrador",
+      "sum": "The federal government is providing $700,000 over 5 years to support crisis hotlines that respond to gender-based violence in Newfoundland and Labrador. The funding was announced by federal and provincial ministers responsible for women and gender equality.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "5fe67cf8e73cf779",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/defence-investment-agency/news/2026/08/the-government-of-canada-awards-a-military-communications-contract-to-support-arctic-sovereignty-and-national-security0.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Canada awards $2.3 billion military satellite communications contract",
+      "sum": "The Defence Investment Agency has awarded a contract to Telesat LEO ULC worth approximately $2.3 billion to deliver the Enhanced Satellite Communications Project – Polar, which will support military communications in Arctic regions. The contract includes two optional extension periods valued at approximately $214 million.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "97c020c73e9950d5",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/defence-investment-agency/news/2026/08/the-government-of-canada-awards-a-military-communications-contract-to-support-arctic-sovereignty-and-national-security.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Canada awards $2.3B military communications contract to Telesat",
+      "sum": "The Government of Canada is contracting Telesat to provide enhanced satellite communications for the Canadian Armed Forces, with a focus on Arctic operations and national security. The initial contract is valued at approximately $2.3 billion before tax.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "ed380d307620129f",
+      "date": "2026-08-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVGYxenpPaEozMWRRSmNxV1l5ekVKa2YtcGlxM2VkOThYaS1iVUxkNXQ4TVdCMHBsd1VBVzlSRUxBdzN1VXdqbktZc0hiM2c5WjZMU1lEbTg5LVh5ZVBrS1ZZeTdWekdwODBmR1ZwQXQ2aEdMSFhzNE1qZmtHY2tzQWc5ZU5Pb0NXYmxMNVoyX1g2NzJ1dGxubGlQX3BmTHk5UmwwNXZQb2lDazZCdzhxMFZMeGIzMGNqRVBHQUFFa1gyR3Z5SDcxdGxkcE1Ka2U4azJDRFJLdHYxd25MSkZn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "OPINION: Carney’s Promised Energy Superpower Reset Is Running Out of Time for Those Who Can Really Build Canada Strong - EnergyNow",
+      "excerpt": "OPINION: Carney’s Promised Energy Superpower Reset Is Running Out of Time for Those Who Can Really Build Canada Strong EnergyNow",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "e75835942ed9d418",
+      "date": "2026-08-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUHFWU3VWQnNZaUp6bVdPTVRhNUVxejRKbEhmYnJiYmx2dFZTME9EZ2JMQVlVWUhJVHYxNHdTMTd2Z1ItTEtwVzgxclFqbUJicGwwakpxdDNqdGJzZ3k3REN5OGlRbzBlTDN0VWNOM21GV1o3eGJSaXNHVUVtS3lhSXBwTUhVZ09ZdzFjenBOV1RlMGNzX1NtR3RIN3p0Tzh1b2JFdERQQlpRWTU4eDd0eDB3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Some Canadians tell Carney Ottawa’s spelling protocol should lean British - CityNews Toronto",
+      "excerpt": "Some Canadians tell Carney Ottawa’s spelling protocol should lean British CityNews Toronto",
+      "cat": "Economy"
+    },
     {
       "id": "37aa252d13d428e2",
       "date": "2026-08-03",
@@ -652,6 +746,17 @@
       "sum": "The federal government announced completed upgrades at the Bloor GO/UP Station in Toronto. The improvements increase capacity on the Kitchener Line and enhance pedestrian connections to Randolph Avenue.",
       "cat": "Transportation",
       "ai": true
+    },
+    {
+      "id": "e815dacc5766a2ea",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWlBVTlKZWFvR2V6dmY4alhQeFg0Z3l0Q200LW5RaHl1UUJkYm1EVFhlb2xvOFRMWFAybEZ6SVctaHlfTm1aYzNjOHdyMVNjTzBVVU9lVEw3Nkl1ai1nemI5bF9Ma2dkWEh2Z29lbDdyNUxraHVJOW5OUkc0UkpmMWRpSWtjZFJxZUdrcVhxaGE2cXJSVkp0MU5xNVZnMi1aUEhMVU1QYW9sUUFwcUhIcWZjbDlrcDdIWXd6TQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada and Alberta forge new infrastructure partnership to accelerate homebuilding - pm.gc.ca",
+      "excerpt": "Canada and Alberta forge new infrastructure partnership to accelerate homebuilding pm.gc.ca",
+      "cat": "Infrastructure"
     },
     {
       "id": "8fc3e74eb80676c2",
@@ -7080,6 +7185,17 @@
       "title": "Former public servant accused in foreign interference case involving China",
       "excerpt": "A former federal scientist in an alleged foreign interference case is accused of copying more than 2,000 documents off a shared departmental server as his lifelong career was nearing its end, with the intention of…",
       "cat": "Foreign affairs"
+    },
+    {
+      "id": "1d55b0fea28515f0",
+      "date": "2026-07-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm44OTlBYUt4TGFxRmxua2NLWU5KWW5kRlZUR3A0WHQwS2p0U05Vc1JqVHdOd0NiTXZQaWtZckwwaWg4bDczaEhBZ2ZMS21EdzlMcUhUc2xWLTBrZTdGT0hrMF83MlBhejY2U2tJWXhPZzlxbmVobjlQeVdCUzRBMDlzN09oRmc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney talks about Canada's 'energy sovereignty.' But what does that really mean? - CBC",
+      "excerpt": "Carney talks about Canada's 'energy sovereignty.' But what does that really mean? CBC",
+      "cat": "Natural resources"
     },
     {
       "id": "39ef30ad529307e3",
