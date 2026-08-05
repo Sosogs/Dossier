@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T19:39:44.527Z",
-  "count": 974,
+  "generatedAt": "2026-08-05T02:39:44.550Z",
+  "count": 979,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,53 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "494b5162a035124a",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/minister-mcguinty-to-deliver-keynote-address-on-albertas-support-to-canadas-defence-and-security.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Defence Minister travels to Alberta for keynote address",
+      "sum": "Minister of National Defence David McGuinty will visit Alberta from August 5-8, 2026 to discuss the federal government's commitment to the province's role in Canada's defence, security, and innovation.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "66b621d94cef08c5",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/08/seizure-of-contraband-and-unauthorized-items-at-drumheller-institution.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Contraband seized at Drumheller Institution prison facility",
+      "sum": "On August 1, 2026, staff at Drumheller Institution discovered and seized packages containing contraband and unauthorized items. The seizure resulted from monitoring activities by institutional staff.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "c8831fa1b3bc7690",
+      "date": "2026-08-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/international-trade-tribunal/news/2026/08/tribunal-initiates-expiry-reviewcertain-grinding-media-from-india.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Trade tribunal reviews tariffs on Indian grinding media",
+      "sum": "The Canadian International Trade Tribunal started a review to determine whether tariffs on certain grinding media from India should remain in place. The review examines whether removing these tariffs would lead to resumed dumping or subsidies that could harm Canadian producers.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "4ef80014fa8c6c9d",
+      "date": "2026-08-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1Q5RS1tYW5mMTYwcUYzX0NIS0l0a3N0MEFaMWNQU0lfcFVTSGlrYnBjT1R6cFV2cDQ3alNlbjFPUlQwdmJoTnUyMFhjbGNFNDNSREVweFFwbmt6Q0plM0xyR0NVUks3d2VLVmg4MEs0ZGFHTVE2Y3ZuT2cxWWJmaTh5LXZfcVA1SG11OUVVUV9HMkc3akE5RklkdnZpLVlTRGozbkxMZkJueWxZQ0tzZWhOREpHYkd4RF80Uw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canadian Employers Urge Carney to Stop Some Strikes Before They Begin - Bloomberg.com",
+      "excerpt": "Canadian Employers Urge Carney to Stop Some Strikes Before They Begin Bloomberg.com",
+      "cat": "Economy"
+    },
     {
       "id": "f19ddc052df86708",
       "date": "2026-08-04",
@@ -9582,6 +9629,17 @@
       "sum": "Minister Mandy Gull-Masty, the Chiefs of Ontario, and Nishnawbe Aski Nation are holding a celebration marking the implementation of the Ontario Final Agreement, which reforms First Nations Child and Family Services.",
       "cat": "Indigenous services",
       "ai": true
+    },
+    {
+      "id": "0c740288656c4994",
+      "date": "2026-05-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMEFWZU9NYUpFbFhlamJHd094WUNJaDh5Q2V5N25NdFotZ1ZQMTRicVJEQ3dKek9GMFZjR2hrOEVlcEx1SG52Z3F1aFdHNE9DdmhvSVJYOXhHaTR6bnBOQkZabDZ5R25JeDFjamdlVFpIV1hUMkNNYmItNmFKcUh6bTJaUEFCdUNDVkNkbUFxNHcxZU1MaVowQW53UnZlVk0yRUdIV05HU2E3eVJMbzdQSnBRYVZGclp2MjFGNHN0dzc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Why Mark Carney is pushing ‘Fortress North America’ amid deep Canadian distrust of the U.S. - The Conversation",
+      "excerpt": "Why Mark Carney is pushing ‘Fortress North America’ amid deep Canadian distrust of the U.S. The Conversation",
+      "cat": "Economy"
     },
     {
       "id": "3a99cebc3ff1f21c",
