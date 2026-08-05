@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T08:38:25.988Z",
-  "count": 980,
+  "generatedAt": "2026-08-05T14:12:22.130Z",
+  "count": 984,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,52 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "a26294fcc852db9f",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/infrastructure-announcement-in-kinkora.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal infrastructure announcement scheduled in Kinkora",
+      "sum": "The Minister of Agriculture and Agri-Food and the Mayor of Kinkora will hold a media event to announce infrastructure initiatives. Details of the specific projects were not provided in the announcement.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "76ac1b19e1fff78e",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/08/minister-joly-highlights-results-of-the-sixth-annual-corporations-canada-diversity-disclosure-report.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Sixth annual diversity disclosure report for Canadian corporations released",
+      "sum": "Minister of Industry Melanie Joly presented results from the annual Corporations Canada diversity disclosure report, which tracks diversity metrics among Canadian corporations. This is the sixth year the report has been released.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "e5f3ab1b2b30f478",
+      "date": "2026-08-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmpkRUF3bVNSS1g2UGU5cGltNkUzT2VFc1EtTzlmYjd1QWViN0ttdVM1LTF5dXZLOWxYMVNlWnR0bExrdy11aE8wVmlDOHZ5X0FBZG1jMUVWd1I2eFlsUDR3YTNWN1ZKUFNrUGdUZGtvOE5vbllPWmlKLWRzTHE3RWNMVjFIZGRSeURPT0phRGNWS1NQbWxtRTRib3BRZE1ndzV1SFVn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "New survey shows businesses confident in Carney government’s agenda - iPolitics",
+      "excerpt": "New survey shows businesses confident in Carney government’s agenda iPolitics",
+      "cat": "Economy"
+    },
+    {
+      "id": "e1905a649f516430",
+      "date": "2026-08-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2MtMS03N2gyUGc1bk42cjRGT19JX1pJVENGQVJoaVFfUVY1NldreGdvRDJudG5CRHFVY0xiUHYwempEMERJbVJfeXFRZmFNdklvanRSc1h6ZHlwS3RRSHh1THhTNXEyNDN6VXpGUW04UzU5c01GTEJuY1V6YjllTHBOeVZZQm0wdXNkTUFzZ1IxMFFVUnFCV3hlMlJKWkRnbXdMM2ZQeWJiVV8zRzRBUw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney has ‘no obvious challenger’ among Conservatives, new poll says - CP24",
+      "excerpt": "Carney has ‘no obvious challenger’ among Conservatives, new poll says CP24",
+      "cat": "Economy"
+    },
     {
       "id": "494b5162a035124a",
       "date": "2026-08-04",
