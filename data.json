@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T14:12:22.130Z",
-  "count": 984,
+  "generatedAt": "2026-08-05T19:37:19.523Z",
+  "count": 995,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,136 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "8b46454ffbfbce17",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/canada-and-toronto-announce-new-partnership-to-build-thousands-of-new-homes.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada and Toronto partner to build over 5,600 rental homes",
+      "sum": "Canada and the City of Toronto announced a partnership to develop 18 housing projects that will create more than 5,600 rental homes in Toronto. The homes will include affordable, supportive, and rent-controlled units funded through federal housing programs.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "b34afb9132a2c1fa",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-services-procurement/news/2026/08/secretary-of-state-fuhr-to-announce-new-measures-to-protect-canadians-by-supporting-private-sector-emergency-response-capabilities.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government to announce military asset sales for emergency response",
+      "sum": "The Secretary of State for Defence Procurement will announce measures to support private sector emergency response capabilities through the sale of military assets. The announcement is being made on behalf of the Minister of Government Transformation, Public Works and Procurement.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "bdeb3d4a182ee355",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/joint-statement-from-benin-and-canada-a-new-stage-in-a-strategic-partnership.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada and Benin strengthen bilateral partnership through ministerial visit",
+      "sum": "Canadian Foreign Affairs Minister Anita Anand visited Benin and issued a joint statement with Benin's Foreign Affairs Minister pledging to deepen political dialogue, economic cooperation, and joint work on peace, security, and sustainable development.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "9ae955e06030103f",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/infrastructure-announcement-in-lunenburg.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Infrastructure announcement planned for Lunenburg Opera House",
+      "sum": "Federal officials will make an announcement regarding infrastructure in Lunenburg. The event will include the local Member of Parliament, a federal minister, and representatives from the Lunenburg Opera House restoration committee.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "4fc5026c11a33e42",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-health/news/2026/06/canada-advances-new-medical-countermeasures-laboratory-facility-in-winnipeg.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada develops medical countermeasures laboratory facility in Winnipeg",
+      "sum": "The Government of Canada is building a new laboratory facility in Winnipeg to strengthen Canada's ability to respond to public health emergencies. The facility's development is informed by lessons from the COVID-19 pandemic.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "41248177fe9623ff",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fednor/news/2026/08/government-of-canada-investing-over-1-million-in-indigenous-led-clean-energy-in-northwestern-ontario.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Canada invests $1.1 million in Indigenous clean energy project",
+      "sum": "The federal government is providing $1,129,183 to Bingwi Neyaashi Anishnaabek in northwestern Ontario to install a district biomass heating system. The system will supply heat to buildings in the community.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "9a6b2e8f1df1a98d",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/border-services-agency/news/2026/08/392-stolen-vehicles-recovered-in-project-nocargo-pilot-valued-at-28-million.html",
+      "type": "Report",
+      "kind": "official",
+      "title": "392 stolen vehicles recovered in Project NoCargo pilot",
+      "sum": "A pilot project called Project NoCargo resulted in the recovery of 392 stolen vehicles valued at approximately $28 million. The recovered vehicles have been returned through law enforcement efforts.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "75604abb45762184",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/08/successful-season-of-elver-harvest-and-enforcement-in-nova-scotia-and-new-brunswick.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada completes elver harvest season with enforcement operations",
+      "sum": "Fisheries and Oceans Canada conducted enforcement activities during the 2026 elver fishing season in Nova Scotia and New Brunswick. The department worked to promote compliance and support sustainable management of the fishery across these regions.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "48b481be72367cb0",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/08/canada-invests-to-connect-quebec-critical-minerals-to-market.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada invests $5 million in Quebec critical minerals infrastructure",
+      "sum": "The federal government announced a $5 million investment in the Saguenay–Lac-Saint-Jean region to support infrastructure development for critical minerals projects, including First Phosphate's phosphate mining operation.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "d7acc111aecf2bc0",
+      "date": "2026-08-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1NkSlFZNzhIZUZXM0JramlJUWJRM2xfaGM1eENBYnNHX29hRlM4bVk2NFRmanBSS05rTnhFV0lzSE1VNHZSME1xM3VwSldKRDdqM3BSY2Q5LXEzZEkwUGRHREVCd2doMjgyNjRxRF9rMzRNZFU1N2QyS1Ztc0FWX29tME9nOXFIbEQ1OTA2SDhvWnduaTJ5SUxVbWlCQzZV?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney promises $2.7 billion to build rental homes in Toronto - Penticton Herald",
+      "excerpt": "Carney promises $2.7 billion to build rental homes in Toronto Penticton Herald",
+      "cat": "Housing"
+    },
+    {
+      "id": "e5c805e81ed545c4",
+      "date": "2026-08-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQel82WUZWUWxyWkFsNldnSE5FV2FPekZBWVVuZUZpV0k5ajdfSWFQMGRJY2dzMjA0eWJNa3U4WEl2NUtqNS02STlQWk1DVjBhMi1BQmU2WkFXT2dxeGdpRWZHRE8yTUNhVnByQllfVDRfMFB0c0dVUDV4V3BpSC1lWGdjbTd0T19lMmFiRDVaaVdDQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney pledges $2.7B for new affordable housing measures in Toronto - CBC",
+      "excerpt": "Carney pledges $2.7B for new affordable housing measures in Toronto CBC",
+      "cat": "Housing"
+    },
     {
       "id": "a26294fcc852db9f",
       "date": "2026-08-05",
