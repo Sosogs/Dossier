@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T02:39:44.550Z",
-  "count": 979,
+  "generatedAt": "2026-08-05T08:38:25.988Z",
+  "count": 980,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -10353,6 +10353,17 @@
       "sum": "Sturgeon Lake First Nation and Indigenous Services Canada officially opened the Shirley Bighead Nihtāwiki and Ohpikihāwasowin Birthing and Childrearing Lodge. The facility provides birthing and childrearing services for the community.",
       "cat": "Indigenous services",
       "ai": true
+    },
+    {
+      "id": "8ea517271c8f81c1",
+      "date": "2026-04-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX2xxanRvbXhjeWdmZ0d1aS1pa0tPZHZGT3F1VGNkX0pIS2xlR3RrWmlnSzdnTG9DUWZqMS01YWlFRzItV1hONklpekp0dDZGR01sd2N6dTFJUjZ4VWl2NXV2RHg3aHRVcF9US2lfaGJGZFZMeGZxalRWTlU3T193VTROVldxbmktZUh0YVlaWS05NllvaDFRMS03T1hIXzQ0LTJ6enEyM0xLSlRkTVFTbUVRR2UxanR2ZkxrZmxTRmllTXl0RnRES00xckhjQzc1ZFFiZWhLT2hEUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Liberals on better-than-expected ground, plan to spend billions on skilled trades in economic update - CBC",
+      "excerpt": "Liberals on better-than-expected ground, plan to spend billions on skilled trades in economic update CBC",
+      "cat": "Economy"
     },
     {
       "id": "f52bf48692f138c7",
