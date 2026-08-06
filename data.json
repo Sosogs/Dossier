@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T19:37:19.523Z",
-  "count": 995,
+  "generatedAt": "2026-08-06T02:42:34.764Z",
+  "count": 1002,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,75 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "dccf8c900fd158f9",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-meets-with-minister-of-foreign-affairs-of-benin-corinne-amori-brunet.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canadian Foreign Affairs Minister meets Benin counterpart",
+      "sum": "Minister Anita Anand met with Benin's Minister of Foreign Affairs Corinne Amori Brunet in Cotonou to discuss bilateral cooperation, economic growth, democratic governance, and regional security in West Africa.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "bf9bec22e0291415",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-supports-the-return-of-the-taste-of-the-danforth.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government announces funding for Taste of the Danforth festival",
+      "sum": "The Minister of Canadian Identity and Culture announced federal funding support for the Taste of the Danforth, a cultural event. The funding enables the return of the festival.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "4c49706ecb50ad24",
+      "date": "2026-08-05",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/infrastructure-announcement-in-edmonton.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal infrastructure announcement scheduled in Edmonton",
+      "sum": "The Minister of Emergency Management and Community Resilience will hold a media event in Edmonton alongside a community league leader to announce infrastructure initiatives. Details of the specific projects were not disclosed in the announcement notice.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "829198fba419d218",
+      "date": "2026-08-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUGdEV0laT1dCS2JlanB0bWh5MEVjdGd3Mjdja3k1NGVHcVdpUVlJZW93LWt0b2hZZTBOTjhsblJTcEYzNHJJUjN3dEJ4Ml9Tc21vWnQtMEZFY1loejQ4QWJFdlQ0V0FvekFhcFNlT3dIUFlRY1JEUFVxTzRqU0lMVUtnRzRIbHExSW03R2pQRmZDUUM0dGhOd1htTDZGcTBmdWtmd0lKbU56OERQZmVHT0s4NmNLQXlsODh4a21KNXpHeUJHQWFaTWFmVjBNUzhRdmM3MGk1c3hFSXBlYTc2dU1hc3VuTk1nNlBYTXgtcw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "PM Carney on New Housing in Toronto, Canada-U.S. Trade Talks – August 5, 2026 - CPAC",
+      "excerpt": "PM Carney on New Housing in Toronto, Canada-U.S. Trade Talks – August 5, 2026 CPAC",
+      "cat": "Housing"
+    },
+    {
+      "id": "2fd3578256cd240c",
+      "date": "2026-08-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGpmeUtTMWxrdVp0M09QZVhGZ1NvSXpIWVdsWTY1VFRNeldnZGhDZVlYcWZWZDhGcy1TaHQzNmJzRFBCN2dDS2txUDQyd1gxd1VGWXA5NU5nc0hPd1Q3eUtRc0hOUUVrcTlhVm8yY3JSbkRTY21EbEhrZHd3cnh3NnJyU05wRVhZcTQ4YUFvc0s0ckhpaVNfcV9kWElTcnd2MWZ6S1Azckk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Cribbing the Burnham Book: How Carney Can Expand Ottawa’s Regional Footprint - Policy Magazine",
+      "excerpt": "Cribbing the Burnham Book: How Carney Can Expand Ottawa’s Regional Footprint Policy Magazine",
+      "cat": "Economy"
+    },
+    {
+      "id": "cbac0acf9cb61021",
+      "date": "2026-08-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGgxX2FUbEIyQWs5OVdaSEo5MVM3UW4xVW9heDg3SWJkNWlra1BMMFd0ZVBEdzNoaEdqaU9tMVlCT0tsQ3Z5Y21MdFh3UDVkTEhvc0dBQm9YVmFhNHI3dVZLeG9qMzJGQzZKU29ka29KeFhkb3JJaGlOMl9yelljeFRmVHZWazdVeVpycHpVeVJETnFJMlE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney pledges $2.7-billion for Toronto rental homes - The Globe and Mail",
+      "excerpt": "Carney pledges $2.7-billion for Toronto rental homes The Globe and Mail",
+      "cat": "Housing"
+    },
     {
       "id": "8b46454ffbfbce17",
       "date": "2026-08-05",
@@ -9656,6 +9725,17 @@
       "sum": "Federal, provincial, and territorial ministers responsible for rural development met in Prince Edward Island to discuss shared priorities and strengthen coordination on rural development across Canada.",
       "cat": "Intergovernmental affairs",
       "ai": true
+    },
+    {
+      "id": "e551c82aff2af832",
+      "date": "2026-06-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MeGRHX1FVWVRZWGg5R21hMjduaTRvUXBkbEI4ZHlyLVhOM3ExOXRwVzhMd3ZIaHIycGxIbERPYnNmU1dqX1hqRnVCdWNpZmZXVzRjbXU5TUk1Zw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "What to know about Canada's new AI strategy - BBC",
+      "excerpt": "What to know about Canada's new AI strategy BBC",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "4ce26969f43e2e1e",
