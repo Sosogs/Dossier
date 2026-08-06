@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T02:42:34.764Z",
-  "count": 1002,
+  "generatedAt": "2026-08-06T08:38:39.831Z",
+  "count": 1004,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,17 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d3856c01b39bd6a4",
+      "date": "2026-08-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsc2k1OWpSZF9id2NVMGtVUFBDRmZVZTU3RFVoZmlWOFAxVjRxWXRVLWFYMk5CdXJmTFpSRVZhV1JObkVMaDhOdlB1ZVI0cXIzV3hkdFFFOWt6SGIyXzlrT0FhTzFhSloyVGF5QWJZQlZubjFSdXNFOFRITmE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "‘Carney needs to listen’ - PressReader",
+      "excerpt": "‘Carney needs to listen’ PressReader",
+      "cat": "Economy"
+    },
     {
       "id": "dccf8c900fd158f9",
       "date": "2026-08-06",
@@ -10116,6 +10127,17 @@
       "title": "The Canada Strong Fund isn’t a sovereign wealth fund — and that’s OK - Policy Options",
       "excerpt": "The Canada Strong Fund isn’t a sovereign wealth fund — and that’s OK Policy Options",
       "cat": "Economy"
+    },
+    {
+      "id": "91a84de004061fc5",
+      "date": "2026-05-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWFpONEhOekRKUnBzZlp2cDI1bXVzY3R4cmlzUHhKNWwtd0NWamdaaGw0bDZpemEzQTNMQWpzbG00OFB4c1FjRDNSRk04eUhRVWFVTmFsMDh1Vk9aTFZVVko5eFhUbmVzeC1hbm44OUpfTXA3dDNLczNOQWd4d1hYZXRIbTdKQUtTX2M3UFFPWENNd2hleGlUMkhoejZ1N0RWbGtPWThn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney Announces Forthcoming National Electricity Strategy - EnergyNow",
+      "excerpt": "Prime Minister Carney Announces Forthcoming National Electricity Strategy EnergyNow",
+      "cat": "Natural resources"
     },
     {
       "id": "2805f575773c03eb",
