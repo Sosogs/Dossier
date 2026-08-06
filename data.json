@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T08:38:39.831Z",
-  "count": 1004,
+  "generatedAt": "2026-08-06T14:13:51.779Z",
+  "count": 1015,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,89 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "5f50ec67009a8bb0",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/infrastructure-announcement-in-marathon.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Infrastructure announcement scheduled in Marathon, Ontario",
+      "sum": "Federal Minister Patty Hajdu and Marathon's mayor will make an infrastructure announcement together. Details of the specific project or funding will be revealed at the event.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "c3a9812d4d035d4d",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/law-commission-canada/news/2026/08/law-commission-of-canada-releases-what-we-heard-report-for-january-to-june-2026.html",
+      "type": "Report",
+      "kind": "official",
+      "title": "Law Commission of Canada releases public engagement report",
+      "sum": "The Law Commission of Canada published a report summarizing public input and feedback gathered from January to June 2026. This is the sixth such report released since the organization resumed operations in June 2023.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "cf8bd1d0f02165d9",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/building-canada-strong-by-investing-in-the-infrastructure-needed-to-build-more-homes-in-kinkora.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal investment supports housing infrastructure in Kinkora",
+      "sum": "The federal government is investing over $620,000 in infrastructure expansion for the Johnston subdivision in Kinkora to support new housing development. The funds will be used to expand wastewater and stormwater management services needed for the growing population.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "5e166b70bf7fe7e3",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/08/government-of-canada-invests-in-hanon-systems-to-strengthen-canadas-ev-manufacturing-sector.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Government invests in Hanon Systems electric compressor plant",
+      "sum": "The Government of Canada is providing investment to Hanon Systems to build Canada's first electric compressor manufacturing facility. The project aims to strengthen domestic electric vehicle manufacturing capacity.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "8e9aa9cf018fa805",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/biographical-notes--diplomatic-appointments.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Diplomatic appointments announced by Foreign Affairs Minister",
+      "sum": "The Minister of Foreign Affairs announced new diplomatic appointments. The specific appointees and their positions were not detailed in this excerpt.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "19ece64e2e7becd5",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/announcement-of-new-diplomatic-appointments.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government announces new diplomatic appointments",
+      "sum": "The Minister of Foreign Affairs has announced new diplomatic appointments. The specific positions and appointees were listed in the announcement.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "be626ade4e9e7141",
+      "date": "2026-08-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0xRbU0zbEpWeXpMSGYyNXBtcXZXQjZmSHAxM2FVYUtvM0JaUmlIeVhyVmo1UU1UUXRGenpod2Q3MTJEREY4Rm1MV2dDTXhBVGd1NmIyTHprcDF6TG1pYzNwRXA2eFRMdFBSc014bWhtWC1hbXRLZkxvbnJOTnBFSGQyZlg3bkdNQUVKa3JlNHJUQ2VWUGJMMWRmbExGS2RldXNv?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney pledges $2.7 billion to build rental homes in Toronto - Canada's National Observer",
+      "excerpt": "Carney pledges $2.7 billion to build rental homes in Toronto Canada's National Observer",
+      "cat": "Housing"
+    },
     {
       "id": "d3856c01b39bd6a4",
       "date": "2026-08-06",
@@ -278,6 +361,17 @@
       "title": "New survey shows businesses confident in Carney government’s agenda - iPolitics",
       "excerpt": "New survey shows businesses confident in Carney government’s agenda iPolitics",
       "cat": "Economy"
+    },
+    {
+      "id": "71c926d053d1c016",
+      "date": "2026-08-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TRTlpVTlwWjdUMHlRM2RZamEwRTQ3ZnNIMWRPNWRscldoM1RfQUNBZ0VjVko4Y2RxalhpRmdOVTlyRld1UWpuS0lSa0pqTUxwcS1QTTBWMmUxUlFsU1JBNnRkakZXUldZaFp6OGlrXzJBUWdSRy0yemtvQTc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Some Canadians tell Ottawa in emails they support using British spelling - Global News",
+      "excerpt": "Some Canadians tell Ottawa in emails they support using British spelling Global News",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "e1905a649f516430",
@@ -8595,6 +8689,17 @@
       "ai": true
     },
     {
+      "id": "74ad449dab724b8f",
+      "date": "2026-06-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHpFNEVBZDJhMUlLYmFwT18wWkNYSTFBZldzTWlMWkJnbWlYN2RnWk14UUl5WXpBYV8xMGtCZDN2cE03aXJGMTYyeFJrSUpGOEgzVlU5cDA2czBWSkQ1Uy1PSUpvYzBMdlMxOWk3eHlhQzFDUE9SSUZjMWpTbHpGLV81NGJYSldyNkpIUFVlR3RIZEpIYW1BWVZTMGVrZExmUFN1WUlldncwQ3dfQzB6LUtTekI5azh4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney defends $1.45B plan to convert unbought B.C. condos to affordable rent-to-own - CBC",
+      "excerpt": "Carney defends $1.45B plan to convert unbought B.C. condos to affordable rent-to-own CBC",
+      "cat": "Economy"
+    },
+    {
       "id": "63faf618b6920920",
       "date": "2026-06-25",
       "src": "Canadian politics (via Google News)",
@@ -9031,6 +9136,17 @@
       "sum": "The Government of Canada opened applications for the Strategic Response Fund to address food security concerns and support Canadian food producers. The fund responds to global supply chain disruptions and rising food costs affecting Canadian consumers.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "5ebdc7bf454c740f",
+      "date": "2026-06-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40T2p3QXVXcWMtYng5VmJETzBxdTIwd2FjU2VLaF9OMUdwTlZRVzhRdDlaR1k0ZFI3dmtzRVFMT1lkb3QzZ3djaFlLRXlfSUFtaUtoMnFCMFJZTk5RUVhsNmdwVHRoSUU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Federal Liberal Lead Holds Steady - Abacus Data",
+      "excerpt": "Federal Liberal Lead Holds Steady Abacus Data",
+      "cat": "Economy"
     },
     {
       "id": "39b85c711e14f620",
@@ -9736,6 +9852,17 @@
       "sum": "Federal, provincial, and territorial ministers responsible for rural development met in Prince Edward Island to discuss shared priorities and strengthen coordination on rural development across Canada.",
       "cat": "Intergovernmental affairs",
       "ai": true
+    },
+    {
+      "id": "0dab0d497a2c150e",
+      "date": "2026-06-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmFyMDR1WjZXWGx6QW9fR0oxcl9hbV9rdjB0UVVDUl82RkVxRDRUYkxZVVl5bkJkV1JFeUUzLTBnZ3Y5TEhZWi1ZUGhybTZtOFR4Z2wtckVGTWx3RFRvVHNINEhISy1nZU1xQjdoQUJQTlQtaXNWU0EzdVl5QjZRLXNFUmFZeWtsY0V4V1U0T2lteFJLTFJtT3BKaTM2WFJLZVNkajZhU1dfZmx3VWVvMURfREJiRmJwRmIzUWdqcw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney to unveil AI strategy in Toronto as Liberals set to limit debate on crime bill - iPolitics",
+      "excerpt": "Carney to unveil AI strategy in Toronto as Liberals set to limit debate on crime bill iPolitics",
+      "cat": "Public safety"
     },
     {
       "id": "e551c82aff2af832",
