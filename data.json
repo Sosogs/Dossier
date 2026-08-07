@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T00:04:04.644Z",
-  "count": 1032,
+  "generatedAt": "2026-08-07T07:18:26.475Z",
+  "count": 1034,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "a28534718b646508",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/minister-leblanc-updates-advisory-committee-on-canadaus-economic-relations.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Minister LeBlanc updates U.S. economic relations advisory committee",
+      "sum": "Minister Dominic LeBlanc, along with Canada's Chief Trade Negotiator and Ambassador to the United States, provided updates to the Advisory Committee on Canada–U.S. Economic Relations.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "c95ab15b8e6591aa",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/federal-government-invests-in-energy-and-building-upgrades-for-community-hall-in-edmonton.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Federal government funds energy upgrades for Edmonton community hall",
+      "sum": "The federal government is investing $823,122 in the Sherbrooke Community League in Edmonton through the Green and Inclusive Community Buildings program. The funding will support building improvements and energy efficiency upgrades.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
     {
       "id": "41ba6b2eb5d5c34e",
       "date": "2026-08-06",
