@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T14:13:51.779Z",
-  "count": 1015,
+  "generatedAt": "2026-08-07T00:04:04.644Z",
+  "count": 1032,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,160 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "41ba6b2eb5d5c34e",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/joint-statement-by-canada-and-cote-divoire-a-growing-partnership.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada and Côte d'Ivoire strengthen diplomatic partnership",
+      "sum": "Canada's Minister of Foreign Affairs visited Côte d'Ivoire and met with the country's Minister of Foreign Affairs to discuss bilateral relations. The visit marks part of efforts to develop a growing partnership between the two countries.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "d91fdd126c5040c5",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/minister-leblanc-and-canadas-chief-negotiator-update-provincial-and-territorial-trade-ministers-on-canada-us-trade-negotiations.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal officials brief provinces on Canada-U.S. trade negotiations",
+      "sum": "Minister LeBlanc and Canada's Chief Trade Negotiator met with provincial and territorial trade ministers to update them on ongoing Canada-U.S. trade negotiations. The meeting aimed to share the latest developments in trade discussions between the two countries.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
+    },
+    {
+      "id": "b6d5ccef032f4e51",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/building-canada-strong-by-investing-in-cultural-infrastructure-in-lunenburg.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal funding announced for cultural infrastructure in Lunenburg",
+      "sum": "The federal government is investing in cultural infrastructure in Lunenburg, Nova Scotia. The investment aims to support community development and economic growth in the region.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "e7be051a7c7e693f",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/space-agency/news/2026/08/canada-intends-to-repurpose-canadarm3-investments-to-support-the-next-phase-of-lunar-exploration.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada redirects Canadarm3 funding toward lunar exploration program",
+      "sum": "Canada is repurposing investments in Canadarm3 to support lunar exploration activities. The Canadian Space Agency is adjusting plans to align the technology with opportunities from the Artemis program.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "1bac3de2878caf44",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/08/seizures-of-contraband-and-unauthorized-items-at-stony-mountain-institution.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Contraband seized at Stony Mountain Institution in July",
+      "sum": "Staff at Stony Mountain Institution seized packages containing contraband and unauthorized items on three dates in late July and early August 2026.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "1e837a6f21b43af7",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/minister-mcguinty-launches-canadas-first-quantum-defence-innovation-secure-hub-to-strengthen-defence-capabilities.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada launches Quantum Defence Innovation Secure Hub in Calgary",
+      "sum": "Minister of National Defence David McGuinty announced the creation of the Quantum Defence Innovation Secure Hub (DISH) in Calgary as part of the BOREALIS research bureau. The hub is intended to support defence-related quantum technology research and development.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "763f9ee72c35b0dd",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/pacific-economic-development/news/2026/08/government-of-canada-announcing-investments-to-help-bc-businesses-navigate-trade-disruptions-and-seize-new-opportunities.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada announces investments to help B.C. businesses with trade disruptions",
+      "sum": "The Government of Canada is announcing investments to assist British Columbia businesses and organizations in managing trade disruptions and maintaining competitiveness. The funding aims to help these businesses adapt to current trade challenges and identify new opportunities.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "7ae4f9ee24c10340",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/transport-canada/news/2026/08/the-government-of-canada-announces-expanded-air-transport-agreement-between-canada-and-nigeria.html",
+      "type": "International agreement",
+      "kind": "official",
+      "title": "Canada expands air transport agreement with Nigeria",
+      "sum": "The Government of Canada has expanded its air transport agreement with Nigeria. The agreement aims to strengthen trade and investment while improving connectivity between the two countries.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "354686d60859ccdf",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/08/operation-north-pacific-guard-strengthens-relations-with-japan-monitors-high-seas-fisheries-during-pacific-wide-patrol.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada completes North Pacific patrol with Japan to monitor fishing",
+      "sum": "Fisheries and Oceans Canada conducted its annual patrol of the North Pacific Ocean in cooperation with Japan to detect illegal fishing activity and monitor commercial fishing fleets on international waters.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "6a667271838c02f0",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-services-procurement/news/2026/08/minister-mcguinty-to-mark-major-milestone-for-laboratories-canada-facility-in-ottawa.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Government announces next steps for Ottawa science facility project",
+      "sum": "Minister McGuinty will announce progress on the Regulatory Security Science Main project in Ottawa, a major facility under the Laboratories Canada initiative. The announcement will be made on behalf of the Minister of Government Transformation, Public Works and Procurement.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "808dc02855408ddd",
+      "date": "2026-08-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/veterans-affairs-canada/news/2026/08/veterans-affairs-canada-awards-contract-for-independent-review-of-rehabilitation-services-and-vocational-assistance-program.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Veterans Affairs contracts independent review of rehabilitation program",
+      "sum": "Veterans Affairs Canada has awarded a contract for an independent review of its Rehabilitation Services and Vocational Assistance Program. The review findings will inform future improvements to how rehabilitation services are delivered.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "cfd9a0ac993ac7b5",
+      "date": "2026-08-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb3QwMXV1Qm5OOUdwQWxHN1Raamd2MjJhZ0JXYlVYcjZxY3ExUl9SaGUzcER5QS01bGthWVNJS2dpOW4tdGgyNXViaEtkRlFtS0g3d05TbFhsRC1rd0l6emo1dEYzM1FPX2pjWndQcU5aMzQ0TGNST19XZXJkOXBnTzQyMGFLUUktOE9WWmpBUjBFdlJEZTRyVXc1NWxHUkFwREwtQzRVOWl0Mld2ZVFGNXg1ejJmUTk4LTZjeTJkcGVtdFZkYWwxc2xHUWJDOWlKLUlGdXRVaXQydE1kN0Vacm1kMzdVVGxzNlJ2ZG9R?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney government restores some health coverage it had cut for refugees - thestar.com",
+      "excerpt": "Carney government restores some health coverage it had cut for refugees thestar.com",
+      "cat": "Healthcare"
+    },
+    {
+      "id": "b2a7c1ca387ec291",
+      "date": "2026-08-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTk5qeFpMbFhtNVhCLTR5UGd5VGlRcjhuX2k4Vm45dk5sQy1VRGVqWU10Tk5ZV1FqV0lPZnIzMVBEZG1CNHpsOEppenBCWlNGNmVtazE1c2RIVkw0LUhqY0oxYUtOQWpjckhyTDVjeG50Rkw3WEpweVR1N0VINmpTZTZTSzFBdWFCanpkSU9fSkRyZUFJWk9lNjctYzVwM3YxRkg5YnBQZFdYWjBDVzFzRDVkZHVyRV9LYThfVGVqWW4yTTA0VVh2OW9pajdKTnhuNGpxbGdDQ1JwWjExT3l1dW93VGpKN3NGTjJjY1BicklKOFd5YkFJcldoekE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Donald Trump calls Canada’s leaders ‘nasty.’ Mark Carney says trade talks are, too - thestar.com",
+      "excerpt": "Donald Trump calls Canada’s leaders ‘nasty.’ Mark Carney says trade talks are, too thestar.com",
+      "cat": "Economy"
+    },
     {
       "id": "5f50ec67009a8bb0",
       "date": "2026-08-06",
@@ -139,6 +293,28 @@
       "sum": "Minister Anita Anand met with Benin's Minister of Foreign Affairs Corinne Amori Brunet in Cotonou to discuss bilateral cooperation, economic growth, democratic governance, and regional security in West Africa.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "01dd9d1b988b9873",
+      "date": "2026-08-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhPb25temJGMk90WnNKZTY5ZHczWTJqLUZ6RjVnTElzNWpVd2tWeEw1SUxLSGxORTZySXFYb0FMcWM3Zzg4ZFFWd29nS1Y1ZzBBWkFqbDhid2FPMk45dFp4MDAtSmRyOU5iNE53VnVfZl9qNEdsQ0hzTEh0UDhTaDZBMTM4YnVGN0NOdjUyVEh6UGJKbk11UzVldTZLZ0k3X3F4bGE5UXV4VDRzYWR3anRnMVgxbS1wcVVNNVNR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Government of Canada and City of Toronto to build thousands of new rental homes - pm.gc.ca",
+      "excerpt": "Government of Canada and City of Toronto to build thousands of new rental homes pm.gc.ca",
+      "cat": "Housing"
+    },
+    {
+      "id": "bb399b0fd8d8ab19",
+      "date": "2026-08-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmcwN0N3X2ZyYkNVWTkxcXRob01Oa1lTYmpDVTZUdDZSOWRRb1p5ckwyeUhkR0pMeDlkeDB6a0Y2ZUVTSlRtb3pmczlnMmVaX0dHR1RoMnJlVE9qVG04MXlIR05HUE5sUGE5ckxLTjA4QkU5SHNkN05WN2ZrOVltNUR0ZVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney says possibility of jets at Billy Bishop airport not nixed ‘forever’ - globalnews.ca",
+      "excerpt": "Carney says possibility of jets at Billy Bishop airport not nixed ‘forever’ globalnews.ca",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "bf9bec22e0291415",
@@ -8689,6 +8865,17 @@
       "ai": true
     },
     {
+      "id": "0eddb2ad7805f5da",
+      "date": "2026-06-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdDhJU1JBZzQtSllVVnZqTmRWZUd5OFVEZUlZZWtDM01oSUxIS1FGcnNwTlBqcU1nSXFrbi1nck9KMlBTd2djZklVdkhNd2ZQUmtlRVQ2SlRiQXg5MG1SeVlNcGRkNy1wbnE0ZGJ2czM4OFhYSFpNR2ozb1BwX2hDY2s2ZThrNkx3djkxMjU4UGdOTEh3aGVFSG5YUktVTWVCLTdQdlZBQjdnRzNNeU5yc3FPOUY4TnlUb2ZkYmQzcXBkRWlpVWZEQ0pOS3BnRk9lbm1YZGx2d2RweDhXMWc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Mark Carney’s plan to bulk-buy unsold Vancouver condos might be a bailout, but it doesn’t have to be - ici.radio-canada.ca",
+      "excerpt": "Mark Carney’s plan to bulk-buy unsold Vancouver condos might be a bailout, but it doesn’t have to be ici.radio-canada.ca",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "74ad449dab724b8f",
       "date": "2026-06-25",
       "src": "Canadian politics (via Google News)",
@@ -10232,6 +10419,17 @@
       "sum": "Minister Eleanor Olszewski is marking the 10th anniversary of the Fort McMurray wildfire and announcing new disaster recovery funding for Alberta. The announcement will be made during a media availability.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "4d3b889f3fb47033",
+      "date": "2026-05-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdFFxYkRVYzhWTUx3eFJZV2R5WmlsYkhDVkJ4S3pRV1pwTkY1a19KLXdjbGpyODdCWmt0dklpNWNPVXFlMkhwcmZmSDdrVnNLNkhXUklmYnpRY0VWcHRaenJsMlZKaWhVbmdCUWlvVDVWV3NteHBpMHpNX1djU3ZaeDU5ckdmTUpYREppVXBiaHY2cGRfYXhKLXRfbmlDOFJTUU1HR1pNN09SRWtIbzl2ckM3Wk5VN2hvTHB0SWQwakxSYzJveUhkVVJLVTFEOTVrcllFYjZKOA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney says the ’best place for Alberta is in Canada,’ amid fracas over a separation referendum - ici.radio-canada.ca",
+      "excerpt": "Carney says the ’best place for Alberta is in Canada,’ amid fracas over a separation referendum ici.radio-canada.ca",
+      "cat": "Economy"
     },
     {
       "id": "085c7cef4af7cba4",
