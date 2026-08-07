@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T07:18:26.475Z",
-  "count": 1034,
+  "generatedAt": "2026-08-07T13:07:24.372Z",
+  "count": 1039,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,66 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "35891a06b9966193",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/infrastructure-announcement-in-new-waterford.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Infrastructure announcement scheduled in New Waterford",
+      "sum": "Federal and provincial officials will hold an infrastructure announcement in New Waterford, Nova Scotia. The event will include the Parliamentary Secretary to the Minister of Transport, the Nova Scotia Minister of Housing, and the Mayor of the Cape Breton Regional Municipality.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "32021c367302fdd3",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/building-canada-strong-by-investing-in-the-town-of-marathon-active-living-centre.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Federal government invests $37 million in Marathon Active Living Centre",
+      "sum": "Minister Patty Hajdu announced a federal investment of over $37 million in the Town of Marathon Active Living Centre. The funding comes through the Direct Delivery stream of the Build Communities Strong Fund.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "6b8a317b0040e099",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/national-film-board/news/2026/08/a-psychedelic-doomscroll-through-the-mind-of-a-master-canadian-politician-by-the-trailblazing-winnipeg-director-world-premiere-for-matthew-rankins-.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "NFB documentary on Brian Mulroney premieres at TIFF 2026",
+      "sum": "A National Film Board of Canada documentary about former Prime Minister Brian Mulroney, directed by Matthew Rankin, will premiere at the Toronto International Film Festival in September 2026. The film is scheduled to screen as part of the festival's Midnight Madness program.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "54b13d7e01d0e754",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/national-film-board/news/2026/08/carol-nguyens-still-night-burning-house-to-make-world-premiere-at-the-2026-toronto-international-film-festival.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Carol Nguyen's documentary to premiere at 2026 Toronto International Film Festival",
+      "sum": "Vietnamese-Canadian filmmaker Carol Nguyen's feature documentary debut, Still Night, Burning House, will premiere at the 2026 Toronto International Film Festival in the TIFF Docs program.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "1294ccfe09fb8d5f",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-invests-in-the-performing-arts-in-kitchener.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada announces performing arts funding for Kitchener",
+      "sum": "The Government of Canada is providing funding for performing arts in Kitchener. MP Tim Louis will make the announcement.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
     {
       "id": "a28534718b646508",
       "date": "2026-08-07",
