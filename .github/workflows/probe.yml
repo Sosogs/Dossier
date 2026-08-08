@@ -1,0 +1,13 @@
+name: Archive probe (read-only)
+on:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+      - run: npm install
+      - run: node ingest.mjs --probe
