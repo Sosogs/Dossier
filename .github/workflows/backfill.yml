@@ -1,0 +1,28 @@
+name: Mandate backfill (one-time)
+on:
+  workflow_dispatch:
+    inputs:
+      from:
+        description: "Start date (YYYY-MM-DD)"
+        default: "2025-03-14"
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+      - run: npm install
+      - run: node ingest.mjs --backfill
+        env:
+          BACKFILL_FROM: ${{ inputs.from }}
+      - name: Commit archive
+        run: |
+          git config user.name "dossier-bot"
+          git config user.email "dossier-bot@users.noreply.github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "backfill: mandate archive since ${{ inputs.from }}"
+          git push
