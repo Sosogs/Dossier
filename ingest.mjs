@@ -97,7 +97,7 @@ const FEEDS = [
  * --------------------------------------------------------------------------*/
 const OUT_FILE = "data.json";
 const CUSTOM_FILE = "custom-posts.json";   // your hand-written entries (see README)
-const MAX_ITEMS = 2000;                    // cap stored records (paging comes with the full archive)
+const MAX_ITEMS = 15000;                   // raised for the full mandate archive
 const NEWS_EXCERPT_CHARS = 220;            // keep news excerpts short by design
 const OFFICIAL_SUMMARY_CHARS = 420;
 const MODEL = process.env.MODEL || "claude-haiku-4-5-20251001";  // cheapest tier; set MODEL env to "claude-sonnet-4-6" for higher quality
@@ -317,6 +317,52 @@ async function run() {
       }
     }
     console.log("Probe complete. Nothing was written or changed.");
+    return;
+  }
+
+  // ---- mandate backfill: pull the full official record since a start date ----
+  if (process.argv.includes("--backfill")) {
+    const from = process.env.BACKFILL_FROM || "2025-03-14";
+    console.log(`MANDATE BACKFILL since ${from} (no AI on the pull; plain-language summaries fill in on later refreshes)`);
+    const existing = await readJson(OUT_FILE, { items: [] });
+    const seen = new Set((existing.items || []).map((i) => i.id));
+    const fresh = [];
+    const ARCH = (dept, lang, cursor) =>
+      `https://api.io.canada.ca/io-server/gc/news/${lang}/v2?${dept ? `dept=${dept}&` : ""}publishedDate>=${cursor}&sort=publishedDate&orderBy=asc&pick=2000&format=atom`;
+
+    async function pullArchive(feed) {
+      let cursor = from, total = 0, guard = 0;
+      while (guard++ < 12) {
+        let parsed;
+        try { parsed = await parser.parseURL(ARCH(feed.dept, feed.lang, cursor)); }
+        catch (e) { console.log(`  ${feed.src} (${feed.lang}): FAILED at ${cursor} — ${e.message}`); break; }
+        const items = parsed.items || [];
+        let newest = cursor;
+        for (const item of items) {
+          const d = (item.isoDate || item.pubDate || "").slice(0, 10);
+          if (d > newest) newest = d;
+          const rec = normalize(item, feed);
+          if (seen.has(rec.id)) continue;
+          seen.add(rec.id); fresh.push(rec); total++;
+        }
+        if (items.length < 2000 || newest <= cursor) break;   // reached the end / no progress
+        cursor = newest;
+      }
+      console.log(`  ${feed.src} (${feed.lang}): ${total} archived`);
+    }
+
+    for (const lang of ["en", "fr"]) {
+      await pullArchive({ dept: null, src: lang === "en" ? "Government of Canada" : "Gouvernement du Canada", kind: "official", type: "Announcement", lang });
+      for (const d of DEPTS) await pullArchive({ dept: d.code, src: d[lang], kind: "official", type: d.type, lang });
+    }
+
+    const merged = []; const ids = new Set();
+    for (const r of [...fresh, ...(existing.items || [])]) { if (ids.has(r.id)) continue; ids.add(r.id); merged.push(r); }
+    merged.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+    const items = merged.slice(0, MAX_ITEMS);
+    for (const it of items) { it.src = withAcronym(it.src); if (!it.lang) it.lang = "en"; }
+    await writeFile(OUT_FILE, JSON.stringify({ generatedAt: new Date().toISOString(), count: items.length, categories: CATEGORIES, types: TYPES, items }, null, 2));
+    console.log(`Wrote ${OUT_FILE} — ${items.length} items total, ${fresh.length} archived this run.`);
     return;
   }
 

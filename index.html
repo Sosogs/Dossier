@@ -191,6 +191,8 @@
   .chip.oo{border-color:rgba(126,224,192,.4);color:#7ee0c0}
   .chip.oo.active{background:#7ee0c0;color:#04121d;border-color:#7ee0c0;font-weight:600}
   .tagline{margin-top:16px}
+  .load-more{margin:8px auto 34px;cursor:pointer;font-family:var(--sans);font-size:14px;font-weight:600;color:var(--cyan);background:var(--glass);border:1px solid var(--line-strong);border-radius:999px;padding:11px 22px}
+  .load-more:hover{border-color:var(--cyan);background:rgba(95,208,255,.08)}
   @media (max-width:620px){
     .nav-links{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
     .nav-links > span[data-i18n]{display:none}
@@ -235,6 +237,7 @@
 
   <div class="count" id="count"></div>
   <div class="grid" id="grid"></div>
+  <div style="text-align:center"><button id="loadMore" class="load-more" hidden></button></div>
 
   <footer>
     <p class="meth" data-i18n-html="footMethod"><b>How this works.</b> Official records (Parliament, the Canada Gazette, orders-in-council, departmental releases, PBO and Library of Parliament reports) are summarized in plain language and linked. Journalism appears as headline + short excerpt + a link out to the original, never the full article. Items are logged as <b>actions</b>, not as promises kept or broken, and categorized by policy area. Neutrality lives in the wording: summaries describe what was done, not whether it was good.</p>
@@ -357,11 +360,13 @@ function applyLang(){
   document.querySelectorAll("[data-i18n-html]").forEach(el=>{ const k=el.dataset.i18nHtml; if(t[k]!==undefined) el.innerHTML=t[k]; });
   document.querySelectorAll(".lang-toggle span").forEach(s=>s.classList.toggle("on", s.dataset.l===LANG));
 }
-function switchLang(l){ if(l===LANG) return; LANG=l; try{ localStorage.setItem("dossier-lang",l);}catch(e){} applyLang(); buildChips(); buildTypes(); render(); }
+function switchLang(l){ if(l===LANG) return; LANG=l; try{ localStorage.setItem("dossier-lang",l);}catch(e){} shown = PAGE_SIZE; applyLang(); buildChips(); buildTypes(); render(); }
 
 /* ===== state ===== */
 let MOVES = [];
 let activeCat = "All", activeType = "All", officialOnly = false, query = "";
+const PAGE_SIZE = 60;
+let shown = PAGE_SIZE;
 
 const $ = s => document.querySelector(s);
 const grid = () => $("#grid"), countEl = () => $("#count");
@@ -379,7 +384,7 @@ function buildChips(){
     return `<button class="chip${name===activeCat?' active':''}" data-cat="${esc(name)}">${dot}${esc(label)}</button>`;
   }).join("");
   chips.querySelectorAll(".chip").forEach(el=>el.onclick=()=>{
-    activeCat = (el.dataset.cat===activeCat && activeCat!=="All") ? "All" : el.dataset.cat;
+    activeCat = (el.dataset.cat===activeCat && activeCat!=="All") ? "All" : el.dataset.cat; shown = PAGE_SIZE;
     buildChips(); render();
   });
 }
@@ -388,7 +393,7 @@ function buildTypes(){
   const sel = $("#typeSel");
   sel.innerHTML = [{en:"All"}, ...TYPES].map(o=>`<option value="${esc(o.en)}">${o.en==="All"?esc(t.allTypes):esc(typeLabel(o.en))}</option>`).join("");
   sel.value = activeType;
-  sel.onchange = ()=>{ activeType = sel.value; render(); };
+  sel.onchange = ()=>{ activeType = sel.value; shown = PAGE_SIZE; render(); };
 }
 
 function card(m){
@@ -421,7 +426,11 @@ function render(){
   }).sort((a,b)=> (b.date||"").localeCompare(a.date||""));
 
   countEl().textContent = `${rows.length} action${rows.length===1?"":"s"}`;
-  grid().innerHTML = rows.length ? rows.map(card).join("") : `<div class="empty">${esc(t.empty)}</div>`;
+  const page = rows.slice(0, shown);
+  grid().innerHTML = page.length ? page.map(card).join("") : `<div class="empty">${esc(t.empty)}</div>`;
+  const lm = $("#loadMore");
+  if (rows.length > shown) { lm.hidden = false; lm.textContent = (LANG==="fr" ? "Afficher plus" : "Load more") + ` (${(rows.length - shown).toLocaleString(LANG==="fr"?"fr-CA":"en-CA")})`; }
+  else { lm.hidden = true; }
 
   const loc = LANG==="fr" ? "fr-CA" : "en-CA";
   $("#m-actions").textContent = langItems.length.toLocaleString(loc);
@@ -432,8 +441,9 @@ function render(){
 /* ===== init ===== */
 computeHues(); applyLang(); buildChips(); buildTypes(); render();
 
-$("#q").oninput = e=>{ query = e.target.value; render(); };
-$("#ooBtn").onclick = ()=>{ officialOnly = !officialOnly; $("#ooBtn").classList.toggle("active", officialOnly); render(); };
+$("#q").oninput = e=>{ query = e.target.value; shown = PAGE_SIZE; render(); };
+$("#ooBtn").onclick = ()=>{ officialOnly = !officialOnly; $("#ooBtn").classList.toggle("active", officialOnly); shown = PAGE_SIZE; render(); };
+$("#loadMore").onclick = ()=>{ shown += PAGE_SIZE; render(); };
 document.querySelectorAll(".lang-toggle span").forEach(s=> s.onclick = ()=> switchLang(s.dataset.l));
 
 const aboutModal = $("#aboutModal");
