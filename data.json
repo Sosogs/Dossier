@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T01:45:25.441Z",
-  "count": 1067,
+  "generatedAt": "2026-08-08T06:55:56.695Z",
+  "count": 1069,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -2992,6 +2992,17 @@
       "title": "Canadian Blood Services supply drops nearly 20% since June, prompting call for urgent blood donations",
       "excerpt": "Canadian Blood Services is appealing for people across the country to donate blood, saying its supply has dropped significantly in the last several weeks.",
       "cat": "Economy"
+    },
+    {
+      "id": "77704f5e28207608",
+      "date": "2026-07-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbjI4U1NYalZuYVlvRWVPdUpETGFXbFhVY21WTDZmSm1ZSms0X2tkSFdHNHBwMmFJc0l5VEliVDlKd0NIMXZFdXFRLUZtWkZHYm9WRklCemZOTDltOFVzQ0tXWWFiaUtIa3hLaHBhX2lqdnJ5QUdtM1FkV2Z0SWhtaW1B?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney aims to reverse $1 trillion in foreign capital flight over 2 days in September - Global News",
+      "excerpt": "Carney aims to reverse $1 trillion in foreign capital flight over 2 days in September Global News",
+      "cat": "Foreign affairs"
     },
     {
       "id": "da2b78747c103b8e",
@@ -10539,6 +10550,17 @@
       "title": "Carney government should get truly ‘ambitious’ and reform Old Age Security - Fraser Institute",
       "excerpt": "Carney government should get truly ‘ambitious’ and reform Old Age Security Fraser Institute",
       "cat": "Public safety"
+    },
+    {
+      "id": "75696c04bc50220d",
+      "date": "2026-06-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWVwLXFic000b2w5eXZhTm9yeFpRaU1NQzNaNWtLY3EzaTl1VkRxNmtrdVNSRVR3R0ZzYXV4SGdRV25MdkhFLS1CWXFPYzFNbzk3bnJWbE9MczdveWxnT25rdHFSSWFLR2piRExFSXR6VEJ5TVBlcTJPYlR0cXRPNEg2Tkt5LTI4a1FJcDdzdWV2VDFyaXlCZmhSMHNzZ0phVVRtTzN6V2MtQnZhWklpUjZUclBrWXM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Statement by Prime Minister Carney on National Indigenous History Month - pm.gc.ca",
+      "excerpt": "Statement by Prime Minister Carney on National Indigenous History Month pm.gc.ca",
+      "cat": "Indigenous services"
     },
     {
       "id": "bb1b056570d4c022",
