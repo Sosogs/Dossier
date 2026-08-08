@@ -30,13 +30,13 @@ const DEFAULT_TYPES = [
   "Bill", "Regulation", "Order in council", "Spending", "Appointment",
   "International agreement", "Commons vote", "Report", "Announcement"
 ];
+function labelOf(x) { return typeof x === "string" ? x : (x && x.en) || ""; }
 function loadTaxonomy() {
   try {
     const c = JSON.parse(readFileSync("categories.json", "utf8"));
-    return {
-      categories: Array.isArray(c.categories) && c.categories.length ? c.categories : DEFAULT_CATEGORIES,
-      types: Array.isArray(c.types) && c.types.length ? c.types : DEFAULT_TYPES
-    };
+    const cats = Array.isArray(c.categories) && c.categories.length ? c.categories.map(labelOf).filter(Boolean) : DEFAULT_CATEGORIES;
+    const typs = Array.isArray(c.types) && c.types.length ? c.types.map(labelOf).filter(Boolean) : DEFAULT_TYPES;
+    return { categories: cats, types: typs };
   } catch {
     return { categories: DEFAULT_CATEGORIES, types: DEFAULT_TYPES };
   }
@@ -52,43 +52,44 @@ const { categories: CATEGORIES, types: TYPES } = loadTaxonomy();
  *    feed below is a verified working example of the api.io.canada.ca pattern;
  *    swap the `dept=` code to point at other departments.
  * --------------------------------------------------------------------------*/
-const GC = (dept) =>
-  `https://api.io.canada.ca/io-server/gc/news/en/v2?dept=${dept}&sort=publishedDate&orderBy=desc&pick=50&format=atom`;
+const GC = (dept, lang = "en") =>
+  `https://api.io.canada.ca/io-server/gc/news/${lang}/v2?dept=${dept}&sort=publishedDate&orderBy=desc&pick=50&format=atom`;
 
 // All-of-government newsroom (no dept filter) — the whole official record in one
 // feed. Also supports publishedDate>=YYYY-MM-DD for the future mandate backfill.
-const GC_ALL =
-  "https://api.io.canada.ca/io-server/gc/news/en/v2?sort=publishedDate&orderBy=desc&pick=100&format=atom";
+const GC_ALL = (lang = "en") =>
+  `https://api.io.canada.ca/io-server/gc/news/${lang}/v2?sort=publishedDate&orderBy=desc&pick=100&format=atom`;
 
 // Google News feed builder — reliable from anywhere; links out to the source.
 const GNEWS = (query, lang = "en") =>
   `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=${lang}-CA&gl=CA&ceid=CA:${lang}`;
 
+// Confirmed-working departments (same dept code for both languages; only the
+// /en|fr/ path changes). Each generates an English feed and a French feed.
+const DEPTS = [
+  { code: "departmentofcitizenshipandimmigration", en: "Immigration, Refugees and Citizenship Canada", fr: "Immigration, Réfugiés et Citoyenneté Canada", type: "Announcement" },
+  { code: "publicsafetycanada",       en: "Public Safety Canada",                                 fr: "Sécurité publique Canada",                                 type: "Announcement" },
+  { code: "naturalresourcescanada",   en: "Natural Resources Canada",                             fr: "Ressources naturelles Canada",                             type: "Announcement" },
+  { code: "departmentofindustry",     en: "Innovation, Science and Economic Development Canada",  fr: "Innovation, Sciences et Développement économique Canada",  type: "Spending" },
+  { code: "indigenousservicescanada", en: "Indigenous Services Canada",                           fr: "Services aux Autochtones Canada",                          type: "Announcement" }
+];
+
 const FEEDS = [
-  // ===== OFFICIAL RECORD — the spine =====
-  { src: "Government of Canada", url: GC_ALL, kind: "official", type: "Announcement" },
+  // ===== OFFICIAL RECORD — the spine (English + French) =====
+  { src: "Government of Canada",   url: GC_ALL("en"), kind: "official", type: "Announcement", lang: "en" },
+  { src: "Gouvernement du Canada", url: GC_ALL("fr"), kind: "official", type: "Announcement", lang: "fr" },
+  ...DEPTS.flatMap((d) => [
+    { src: d.en, url: GC(d.code, "en"), kind: "official", type: d.type, lang: "en" },
+    { src: d.fr, url: GC(d.code, "fr"), kind: "official", type: d.type, lang: "fr" }
+  ]),
 
-  // Confirmed-working department feeds (proper attribution + depth):
-  { src: "Immigration, Refugees and Citizenship Canada", url: GC("departmentofcitizenshipandimmigration"), kind: "official", type: "Announcement" },
-  { src: "Public Safety Canada",                          url: GC("publicsafetycanada"),                    kind: "official", type: "Announcement" },
-  { src: "Natural Resources Canada",                      url: GC("naturalresourcescanada"),                kind: "official", type: "Announcement" },
-  { src: "Innovation, Science and Economic Development Canada", url: GC("departmentofindustry"),            kind: "official", type: "Spending" },
-  { src: "Indigenous Services Canada",                    url: GC("indigenousservicescanada"),              kind: "official", type: "Announcement" },
-
-  // Wrong dept codes (returned 0). Their releases still arrive via the all-of-
-  // government feed above; re-enable once each correct code is confirmed:
-  // { src: "Department of Finance Canada",   url: GC("<code>"), kind:"official", type:"Spending" },
-  // { src: "Department of National Defence", url: GC("<code>"), kind:"official", type:"Announcement" },
-  // { src: "Global Affairs Canada",          url: GC("<code>"), kind:"official", type:"International agreement" },
-  // { src: "Health Canada",                  url: GC("<code>"), kind:"official", type:"Announcement" },
-  // { src: "Department of Justice Canada",   url: GC("<code>"), kind:"official", type:"Announcement" },
-  // { src: "Environment and Climate Change Canada", url: GC("<code>"), kind:"official", type:"Regulation" },
-  // { src: "Transport Canada",               url: GC("<code>"), kind:"official", type:"Regulation" },
-  // { src: "Employment and Social Development Canada", url: GC("<code>"), kind:"official", type:"Announcement" },
-  // { src: "Housing, Infrastructure and Communities Canada", url: GC("<code>"), kind:"official", type:"Spending" },
+  // Nine mis-coded departments (Finance, Defence, Global Affairs, Health, Justice,
+  // Environment, Transport, ESDC, Housing) are still covered by the all-government
+  // feed above; add dedicated feeds here once each correct dept code is confirmed.
 
   // ===== NEWS — thin secondary layer (headline + short excerpt + link) =====
-  { src: "Canadian politics (via Google News)", url: GNEWS("Carney government Canada federal"), kind: "news", type: "Announcement" },
+  { src: "Canadian politics (via Google News)",      url: GNEWS("Carney government Canada federal", "en"), kind: "news", type: "Announcement", lang: "en" },
+  { src: "Politique canadienne (via Google News)",   url: GNEWS("gouvernement Carney Canada fédéral", "fr"), kind: "news", type: "Announcement", lang: "fr" }
 ];
 
 /* ----------------------------------------------------------------------------
@@ -165,13 +166,14 @@ const matchType = (v) =>
  *    Same job as the prototype's desk, but here it runs automatically over every
  *    pulled OFFICIAL item, using YOUR key (never exposed to the browser).
  * --------------------------------------------------------------------------*/
-async function enrich(rawText) {
+async function enrich(rawText, lang = "en") {
+  const language = lang === "fr" ? "French" : "English";
   const prompt = `You convert dense Canadian federal government text into a clear, neutral public-facing record entry.
 Return ONLY a JSON object, no markdown, with exactly these keys:
-"headline": plain-language headline, max 12 words, neutral, describing the ACTION (not whether it is good).
-"summary": 1-2 plain sentences a non-expert understands. Neutral. No opinion, praise, or criticism.
-"category": exactly one of: ${CATEGORIES.join(", ")}.
-"type": exactly one of: ${TYPES.join(", ")}.
+"headline": plain-language headline in ${language}, max 12 words, neutral, describing the ACTION (not whether it is good).
+"summary": 1-2 plain sentences in ${language} a non-expert understands. Neutral. No opinion, praise, or criticism.
+"category": exactly one of these English labels (do not translate): ${CATEGORIES.join(", ")}.
+"type": exactly one of these English labels (do not translate): ${TYPES.join(", ")}.
 
 Text:
 """${rawText}"""`;
@@ -211,7 +213,12 @@ const SRC_ACRONYMS = {
   "Indigenous Services Canada": "ISC",
   "Housing, Infrastructure and Communities Canada": "HICC",
   "Canada Revenue Agency": "CRA",
-  "Royal Canadian Mounted Police": "RCMP"
+  "Royal Canadian Mounted Police": "RCMP",
+  "Immigration, Réfugiés et Citoyenneté Canada": "IRCC",
+  "Sécurité publique Canada": "SP",
+  "Ressources naturelles Canada": "RNCan",
+  "Innovation, Sciences et Développement économique Canada": "ISDE",
+  "Services aux Autochtones Canada": "SAC"
 };
 function withAcronym(src) {
   const a = SRC_ACRONYMS[src];
@@ -223,7 +230,7 @@ function normalize(item, feed) {
   const id = hashId(link || feed.src + (item.title || ""));
   const title = stripHtml(item.title || "Untitled");
   const body = item.contentSnippet || item.content || item.summary || "";
-  const base = { id, date: toDate(item), src: withAcronym(feed.src), url: link, type: feed.type, kind: feed.kind };
+  const base = { id, date: toDate(item), src: withAcronym(feed.src), url: link, type: feed.type, kind: feed.kind, lang: feed.lang || "en" };
   if (feed.kind === "news") {
     base.title = title;
     base.excerpt = truncate(body, NEWS_EXCERPT_CHARS);   // short excerpt only
@@ -302,7 +309,7 @@ async function run() {
       if (rec.kind !== "official" || rec.ai) continue;   // never rewrite news; keep excerpt + link
       if (aiCount >= AI_MAX) break;
       try {
-        const e = await enrich(`${rec.title}\n\n${rec.sum || ""}`);
+        const e = await enrich(`${rec.title}\n\n${rec.sum || ""}`, rec.lang);
         rec.title = e.headline || rec.title;
         rec.sum = e.summary || rec.sum;
         rec.cat = matchCategory(e.category) || rec.cat;
@@ -320,7 +327,7 @@ async function run() {
       if (aiCount >= AI_MAX) break;
       if (rec.kind !== "official" || rec.ai) continue;
       try {
-        const e = await enrich(`${rec.title}\n\n${rec.sum || ""}`);
+        const e = await enrich(`${rec.title}\n\n${rec.sum || ""}`, rec.lang);
         rec.title = e.headline || rec.title;
         rec.sum = e.summary || rec.sum;
         rec.cat = matchCategory(e.category) || rec.cat;
@@ -344,7 +351,7 @@ async function run() {
   }
   merged.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
   const items = merged.slice(0, MAX_ITEMS);
-  for (const it of items) it.src = withAcronym(it.src);   // backfill acronyms onto older entries
+  for (const it of items) { it.src = withAcronym(it.src); if (!it.lang) it.lang = "en"; }   // backfill acronyms + language onto older entries
 
   const out = {
     generatedAt: new Date().toISOString(),

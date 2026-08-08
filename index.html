@@ -1,10 +1,3 @@
-<!--
-  DOSSIER — prototype
-  Non-partisan tracker of government actions ("moves"), categorized and
-  written in plain language. Front-end + a live AI enrichment desk that
-  stands in for the backend ingestion/summarization pipeline.
-  Sample data is illustrative placeholder content (clearly labelled).
--->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
@@ -190,34 +183,52 @@
   }
   @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto}}
   :focus-visible{outline:2px solid var(--cyan);outline-offset:2px;border-radius:4px}
+
+  /* ---- bilingual additions ---- */
+  .lang-toggle{display:inline-flex;gap:2px;align-items:center;font-family:var(--mono);font-size:11px;border:1px solid var(--line-strong);border-radius:999px;padding:2px 3px;background:var(--glass)}
+  .lang-toggle span{cursor:pointer;padding:3px 8px;border-radius:999px;color:var(--muted);user-select:none}
+  .lang-toggle span.on{background:var(--cyan);color:#04121d;font-weight:700}
+  .chip.oo{border-color:rgba(126,224,192,.4);color:#7ee0c0}
+  .chip.oo.active{background:#7ee0c0;color:#04121d;border-color:#7ee0c0;font-weight:600}
+  .tagline{margin-top:16px}
+  @media (max-width:620px){
+    .nav-links{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+    .nav-links > span[data-i18n]{display:none}
+  }
 </style>
 
 <div class="wrap">
   <nav class="nav">
     <div class="brand"><span class="mark"></span> DOSSIER</div>
-    <div class="nav-links"><span>The record</span><span>Categories</span><span>Sources</span><button id="aboutBtn">About</button><a class="kofi-link nav-support" href="#" target="_blank" rel="noopener"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 21s-7.5-4.6-10-9.3C.4 8.4 1.9 5 5.2 5c2 0 3.3 1.2 3.8 2 .5-.8 1.8-2 3.8-2 3.3 0 4.8 3.4 3.2 6.7C19.5 16.4 12 21 12 21z"/></svg>Support Dossier</a></div>
-    <div class="nav-cta">EN · FR</div>
+    <div class="nav-links">
+      <span data-i18n="navRecord">The record</span>
+      <span data-i18n="navCategories">Categories</span>
+      <span data-i18n="navSources">Sources</span>
+      <button id="aboutBtn" data-i18n="navAbout">About</button>
+      <a class="kofi-link nav-support" href="#" target="_blank" rel="noopener"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 21s-7.5-4.6-10-9.3C.4 8.4 1.9 5 5.2 5c2 0 3.3 1.2 3.8 2 .5-.8 1.8-2 3.8-2 3.3 0 4.8 3.4 3.2 6.7C19.5 16.4 12 21 12 21z"/></svg><span data-i18n="support">Support Dossier</span></a>
+      <span class="lang-toggle" role="group" aria-label="Language"><span data-l="en">EN</span><span data-l="fr">FR</span></span>
+    </div>
   </nav>
 
-  <div class="eyebrow"><span class="dot"></span> NON-PARTISAN GOVERNMENT RECORD</div>
-  <h1>Every move,<br><span class="grad">on the record.</span></h1>
-  <p class="lede">A neutral, searchable log of what the federal government actually does — bills, regulations, orders, spending, appointments and announcements — each written in plain language and linked to its source. Not opinion. Not a scorecard. The actions themselves.</p>
+  <div class="eyebrow"><span class="dot"></span> <span data-i18n="eyebrow">NON-PARTISAN GOVERNMENT RECORD</span></div>
+  <h1 data-i18n-html="heroH1">Every move,<br><span class="grad">on the record.</span></h1>
+  <p class="lede" data-i18n="lede">A neutral, searchable log of what the federal government actually does — bills, regulations, orders, spending, appointments and announcements — each written in plain language and linked to its source. Not opinion. Not a scorecard. The actions themselves.</p>
 
   <div class="metrics">
-    <div class="metric"><div class="n" id="m-actions">—</div><div class="l">Actions logged</div></div>
-    <div class="metric"><div class="n" id="m-cats">—</div><div class="l">Policy areas</div></div>
-    <div class="metric"><div class="n" id="m-sources">—</div><div class="l">Sources tracked</div></div>
-    <div class="metric"><div class="n">Every 6h</div><div class="l">Refresh cadence</div></div>
+    <div class="metric"><div class="n" id="m-actions">—</div><div class="l" data-i18n="mActionsL">Actions logged</div></div>
+    <div class="metric"><div class="n" id="m-cats">—</div><div class="l" data-i18n="mAreasL">Policy areas</div></div>
+    <div class="metric"><div class="n" id="m-sources">—</div><div class="l" data-i18n="mSourcesL">Sources tracked</div></div>
+    <div class="metric"><div class="n" data-i18n="cadenceVal">Every 6h</div><div class="l" data-i18n="mCadenceL">Refresh cadence</div></div>
   </div>
 
-  <!-- toolbar -->
   <div class="toolbar">
     <div class="search-row">
       <label class="search">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8c90a8" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
-        <input id="q" type="text" placeholder="Search the record…" aria-label="Search actions" />
+        <input id="q" type="text" data-i18n-ph="searchPh" placeholder="Search the record…" aria-label="Search" />
       </label>
-      <select class="type" id="typeSel" aria-label="Filter by action type"></select>
+      <select class="type" id="typeSel" aria-label="Type"></select>
+      <button class="chip oo" id="ooBtn" data-i18n="officialOnly">Official only</button>
     </div>
     <div class="chips" id="chips"></div>
   </div>
@@ -225,241 +236,227 @@
   <div class="count" id="count"></div>
   <div class="grid" id="grid"></div>
 
-  <!-- enrichment desk -->
-  <section class="desk">
-    <div class="desk-head">
-      <div class="kicker">Plain-language desk · live</div>
-      <h2>Turn a dense government document into a readable entry</h2>
-      <p>This is the backend enrichment layer, running live. Paste raw text — an order-in-council, a bill summary, a Gazette notice, a news release — and it returns a plain-language headline and summary, picks a category and an action type, and drops a finished card into the feed above. In production this same step runs automatically over the ingested sources.</p>
-    </div>
-    <div class="desk-body">
-      <textarea id="raw" placeholder="Paste something dense here. e.g. 'His Excellency the Governor General in Council, on the recommendation of the Minister of Finance, pursuant to subsection 19(1) of the…' — and watch it become readable."></textarea>
-      <div class="desk-actions">
-        <button class="run" id="run">Translate to plain language</button>
-        <button class="ghost" id="sample">Insert sample text</button>
-        <span class="hint" id="hint">Uses the live model in this artifact. Core feed works without it.</span>
-      </div>
-      <div id="out"></div>
-    </div>
-  </section>
-
   <footer>
-    <p class="meth"><b>How this works.</b> Official records (Parliament, the Canada Gazette, orders-in-council, departmental releases, PBO and Library of Parliament reports) are summarized in plain language and linked. Journalism appears as headline + short excerpt + a link out to the original, never the full article. Items are logged as <b>actions</b>, not as promises kept or broken, and categorized by policy area. Neutrality lives in the wording: summaries describe what was done, not whether it was good.</p>
+    <p class="meth" data-i18n-html="footMethod"><b>How this works.</b> Official records (Parliament, the Canada Gazette, orders-in-council, departmental releases, PBO and Library of Parliament reports) are summarized in plain language and linked. Journalism appears as headline + short excerpt + a link out to the original, never the full article. Items are logged as <b>actions</b>, not as promises kept or broken, and categorized by policy area. Neutrality lives in the wording: summaries describe what was done, not whether it was good.</p>
 
     <div class="support">
       <div class="support-text">
-        <div class="support-h">Independent &amp; reader-supported</div>
-        <p>Dossier takes no advertising and no party money. If it&rsquo;s useful to you, you can help keep it running &mdash; and free for everyone.</p>
+        <div class="support-h" data-i18n="supportH">Independent &amp; reader-supported</div>
+        <p data-i18n="supportP">Dossier takes no advertising and no party money. If it&rsquo;s useful to you, you can help keep it running &mdash; and free for everyone.</p>
       </div>
       <a class="kofi-link support-btn" href="#" target="_blank" rel="noopener">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 21s-7.5-4.6-10-9.3C.4 8.4 1.9 5 5.2 5c2 0 3.3 1.2 3.8 2 .5-.8 1.8-2 3.8-2 3.3 0 4.8 3.4 3.2 6.7C19.5 16.4 12 21 12 21z"/></svg>
-        Support Dossier
+        <span data-i18n="support">Support Dossier</span>
       </a>
     </div>
 
-    <p style="margin-top:16px">Dossier · an independent, non-partisan public record · bilingual EN/FR coming</p>
+    <p class="tagline" data-i18n="tagline">Dossier · an independent, non-partisan public record</p>
   </footer>
 </div>
 
-<!-- ====================================================================== -->
-<!-- ABOUT TEXT — to change the mission wording, edit between the markers   -->
-<!-- below (or just ask Claude to update it).                               -->
-<!-- ====================================================================== -->
 <dialog id="aboutModal">
   <div class="about-wrap">
     <button class="about-close" id="aboutClose" aria-label="Close">×</button>
     <div class="about-panel">
-      <div class="kicker">Why this exists</div>
-      <h2>A record, so you don&rsquo;t have to remember.</h2>
-      <!-- ABOUT-START -->
-      <p class="lead">We carry a feeling about a government long after we&rsquo;ve forgotten what built it. Decisions and headlines arrive every single day; the impression settles in, but the specifics slip away. By the time it matters most &mdash; the next time you vote &mdash; you remember the mood, not the record.</p>
-      <p>Dossier is a data keeper. It gathers, in one place and in plain language, the actual moves a government makes &mdash; the bills, regulations, appointments, spending and announcements &mdash; each one filed by topic and linked to its source, so you can look back at the evidence instead of relying on memory.</p>
-      <p>Because democracy isn&rsquo;t only choosing a party and then stepping back to let them lead. It&rsquo;s watching what they do in between &mdash; steadily, on the record &mdash; so that the next choice you make is a genuinely informed one. That only works if the facts are at your fingertips, not reassembled from memory under pressure.</p>
-      <p>Life is full, and the demands on your attention are real. No one has time to track every decision. This is meant to carry that weight for you: a tool to help you gauge, not a test of what you can recall. Come back whenever you want to check the record.</p>
-      <!-- ABOUT-END -->
-      <p class="sign">It takes no side. It keeps the record.</p>
+      <div class="kicker" data-i18n="aboutKicker">Why this exists</div>
+      <h2 data-i18n="aboutH2">A record, so you don&rsquo;t have to remember.</h2>
+      <div data-i18n-html="aboutBody">
+        <p class="lead">We carry a feeling about a government long after we&rsquo;ve forgotten what built it. Decisions and headlines arrive every single day; the impression settles in, but the specifics slip away. By the time it matters most &mdash; the next time you vote &mdash; you remember the mood, not the record.</p>
+        <p>Dossier is a data keeper. It gathers, in one place and in plain language, the actual moves a government makes &mdash; the bills, regulations, appointments, spending and announcements &mdash; each one filed by topic and linked to its source, so you can look back at the evidence instead of relying on memory.</p>
+        <p>Because democracy isn&rsquo;t only choosing a party and then stepping back to let them lead. It&rsquo;s watching what they do in between &mdash; steadily, on the record &mdash; so that the next choice you make is a genuinely informed one.</p>
+        <p>Life is full, and the demands on your attention are real. No one has time to track every decision. This is meant to carry that weight for you: a tool to help you gauge, not a test of what you can recall.</p>
+      </div>
+      <p class="sign" data-i18n="aboutSign">It takes no side. It keeps the record.</p>
     </div>
   </div>
 </dialog>
 
 <script>
-/* ======================================================================
-   YOUR KO-FI LINK — connected to ko-fi.com/thedossier.
-   This single line powers both the "Support Dossier" button in the top
-   menu and the one in the footer. Change it here if your page ever moves.
-   ====================================================================== */
+/* ===== Ko-fi link (change if your page ever moves) ===== */
 const KOFI_URL = "https://ko-fi.com/thedossier";
 
-const DEFAULT_CATEGORIES = ["Foreign affairs","National defence","Culture & heritage","Economy","Intergovernmental affairs","Healthcare","Education","Sustainable development","Infrastructure","Housing","Natural resources","Wildlife","Animal welfare","Transportation","Indigenous services","Justice","Finance","Innovation, science & industry","Public safety"];
-const DEFAULT_TYPES = ["Bill","Regulation","Order in council","Spending","Appointment","International agreement","Commons vote","Report","Announcement"];
-let CATEGORIES = DEFAULT_CATEGORIES.slice();
-let TYPES = DEFAULT_TYPES.slice();
-let CAT_HUE = {};
-function computeHues(){ CAT_HUE = Object.fromEntries(CATEGORIES.map((n,i)=>[n, Math.round((i*360/Math.max(CATEGORIES.length,1)+12)%360)])); }
-const catColor = n => `hsl(${CAT_HUE[n] ?? 230} 72% 64%)`;
+/* ===== translations ===== */
+const T = {
+  en: {
+    navRecord: "The record", navCategories: "Categories", navSources: "Sources", navAbout: "About",
+    support: "Support Dossier",
+    eyebrow: "NON-PARTISAN GOVERNMENT RECORD",
+    heroH1: 'Every move,<br><span class="grad">on the record.</span>',
+    lede: "A neutral, searchable log of what the federal government actually does — bills, regulations, orders, spending, appointments and announcements — each written in plain language and linked to its source. Not opinion. Not a scorecard. The actions themselves.",
+    mActionsL: "Actions logged", mAreasL: "Policy areas", mSourcesL: "Sources tracked", mCadenceL: "Refresh cadence", cadenceVal: "Every 6h",
+    searchPh: "Search the record…", allTypes: "All action types", officialOnly: "Official only", allCats: "All",
+    badgeOfficial: "Official · summary", badgeNews: "News · excerpt", sourceLink: "Source ↗",
+    empty: "No actions match these filters. Clear the search or pick a different category.",
+    footMethod: "<b>How this works.</b> Official records (Parliament, the Canada Gazette, orders-in-council, departmental releases, PBO and Library of Parliament reports) are summarized in plain language and linked. Journalism appears as headline + short excerpt + a link out to the original, never the full article. Items are logged as <b>actions</b>, not as promises kept or broken, and categorized by policy area. Neutrality lives in the wording: summaries describe what was done, not whether it was good.",
+    supportH: "Independent & reader-supported",
+    supportP: "Dossier takes no advertising and no party money. If it's useful to you, you can help keep it running — and free for everyone.",
+    tagline: "Dossier · an independent, non-partisan public record",
+    aboutKicker: "Why this exists", aboutH2: "A record, so you don't have to remember.",
+    aboutBody: '<p class="lead">We carry a feeling about a government long after we\u2019ve forgotten what built it. Decisions and headlines arrive every single day; the impression settles in, but the specifics slip away. By the time it matters most \u2014 the next time you vote \u2014 you remember the mood, not the record.</p><p>Dossier is a data keeper. It gathers, in one place and in plain language, the actual moves a government makes \u2014 the bills, regulations, appointments, spending and announcements \u2014 each one filed by topic and linked to its source, so you can look back at the evidence instead of relying on memory.</p><p>Because democracy isn\u2019t only choosing a party and then stepping back to let them lead. It\u2019s watching what they do in between \u2014 steadily, on the record \u2014 so that the next choice you make is a genuinely informed one.</p><p>Life is full, and the demands on your attention are real. No one has time to track every decision. This is meant to carry that weight for you: a tool to help you gauge, not a test of what you can recall.</p>',
+    aboutSign: "It takes no side. It keeps the record."
+  },
+  fr: {
+    navRecord: "Le registre", navCategories: "Catégories", navSources: "Sources", navAbout: "À propos",
+    support: "Soutenir Dossier",
+    eyebrow: "REGISTRE GOUVERNEMENTAL NON PARTISAN",
+    heroH1: 'Chaque geste,<br><span class="grad">au dossier.</span>',
+    lede: "Un registre neutre et consultable de ce que le gouvernement fédéral fait réellement — projets de loi, règlements, décrets, dépenses, nominations et annonces — chacun rédigé en langage clair et lié à sa source. Pas d'opinion. Pas de palmarès. Les actions elles-mêmes.",
+    mActionsL: "Actions consignées", mAreasL: "Domaines", mSourcesL: "Sources suivies", mCadenceL: "Fréquence", cadenceVal: "Toutes les 6 h",
+    searchPh: "Rechercher dans le registre…", allTypes: "Tous les types", officialOnly: "Officiel seulement", allCats: "Tout",
+    badgeOfficial: "Officiel · résumé", badgeNews: "Nouvelles · extrait", sourceLink: "Source ↗",
+    empty: "Aucune action ne correspond à ces filtres. Effacez la recherche ou choisissez une autre catégorie.",
+    footMethod: "<b>Comment ça marche.</b> Les documents officiels (Parlement, Gazette du Canada, décrets, communiqués ministériels, rapports du DPB et de la Bibliothèque du Parlement) sont résumés en langage clair et liés. Le journalisme apparaît sous forme de titre + court extrait + lien vers l'original, jamais l'article complet. Les éléments sont consignés comme des <b>actions</b>, non comme des promesses tenues ou rompues, et classés par domaine. La neutralité tient à la formulation : les résumés décrivent ce qui a été fait, pas si c'était bien.",
+    supportH: "Indépendant, financé par les lecteurs",
+    supportP: "Dossier n'accepte ni publicité ni argent de parti. Si le site vous est utile, vous pouvez aider à le maintenir — et à le garder gratuit pour tous.",
+    tagline: "Dossier · un registre public indépendant et non partisan",
+    aboutKicker: "Pourquoi ce site existe", aboutH2: "Un registre, pour ne pas avoir à tout retenir.",
+    aboutBody: '<p class="lead">On garde une impression d\u2019un gouvernement bien après avoir oublié ce qui l\u2019a façonnée. Les décisions et les manchettes arrivent chaque jour; l\u2019impression s\u2019installe, mais les détails s\u2019effacent. Au moment qui compte le plus \u2014 la prochaine fois que vous votez \u2014 vous vous souvenez de l\u2019humeur, pas du registre.</p><p>Dossier est un gardien de données. Il rassemble, en un seul endroit et en langage clair, les gestes concrets d\u2019un gouvernement \u2014 projets de loi, règlements, nominations, dépenses et annonces \u2014 chacun classé par thème et lié à sa source, pour que vous puissiez revoir les faits au lieu de vous fier à votre mémoire.</p><p>Parce que la démocratie ne consiste pas seulement à élire un parti puis à le laisser gouverner. C\u2019est observer ce qu\u2019il fait entre-temps \u2014 de façon constante, au registre \u2014 pour que votre prochain choix soit véritablement éclairé.</p><p>La vie est bien remplie et les sollicitations sont réelles. Personne n\u2019a le temps de suivre chaque décision. Ce site porte ce poids à votre place : un outil pour vous aider à juger, pas un test de ce dont vous vous souvenez.</p>',
+    aboutSign: "Aucun parti pris. Seulement le registre."
+  }
+};
 
-// Illustrative placeholder records (not real reporting).
-// Feed data is loaded live from data.json (produced by the refresh pipeline).
+/* ===== taxonomy (fallback; real labels come from categories.json) ===== */
+const DEFAULT_TAX = {
+  categories: [
+    {en:"Foreign affairs",fr:"Affaires étrangères"},{en:"National defence",fr:"Défense nationale"},
+    {en:"Culture & heritage",fr:"Culture et patrimoine"},{en:"Economy",fr:"Économie"},
+    {en:"Intergovernmental affairs",fr:"Affaires intergouvernementales"},{en:"Healthcare",fr:"Santé"},
+    {en:"Education",fr:"Éducation"},{en:"Sustainable development",fr:"Développement durable"},
+    {en:"Infrastructure",fr:"Infrastructure"},{en:"Housing",fr:"Logement"},
+    {en:"Natural resources",fr:"Ressources naturelles"},{en:"Wildlife",fr:"Faune"},
+    {en:"Animal welfare",fr:"Bien-être animal"},{en:"Transportation",fr:"Transports"},
+    {en:"Indigenous services",fr:"Services aux Autochtones"},{en:"Justice",fr:"Justice"},
+    {en:"Finance",fr:"Finances"},{en:"Innovation, science & industry",fr:"Innovation, sciences et industrie"},
+    {en:"Public safety",fr:"Sécurité publique"}
+  ],
+  types: [
+    {en:"Bill",fr:"Projet de loi"},{en:"Regulation",fr:"Règlement"},{en:"Order in council",fr:"Décret"},
+    {en:"Spending",fr:"Dépenses"},{en:"Appointment",fr:"Nomination"},{en:"International agreement",fr:"Accord international"},
+    {en:"Commons vote",fr:"Vote aux Communes"},{en:"Report",fr:"Rapport"},{en:"Announcement",fr:"Annonce"}
+  ]
+};
+let CATEGORIES = DEFAULT_TAX.categories.slice();
+let TYPES = DEFAULT_TAX.types.slice();
+let CAT_HUE = {};
+function computeHues(){ CAT_HUE = Object.fromEntries(CATEGORIES.map((c,i)=>[c.en, Math.round((i*360/Math.max(CATEGORIES.length,1)+12)%360)])); }
+const catColor = n => `hsl(${CAT_HUE[n] ?? 230} 72% 64%)`;
+function catLabel(en){ const c = CATEGORIES.find(x=>x.en===en); return c ? (c[LANG]||c.en) : en; }
+function typeLabel(en){ const t = TYPES.find(x=>x.en===en); return t ? (t[LANG]||t.en) : en; }
+
+/* ===== language ===== */
+function detectLang(){
+  try { const s = localStorage.getItem("dossier-lang"); if (s==="en"||s==="fr") return s; } catch(e){}
+  return (navigator.language || "en").toLowerCase().startsWith("fr") ? "fr" : "en";
+}
+let LANG = detectLang();
+function applyLang(){
+  const t = T[LANG];
+  document.documentElement.lang = LANG;
+  document.querySelectorAll("[data-i18n]").forEach(el=>{ const k=el.dataset.i18n; if(t[k]!==undefined) el.textContent=t[k]; });
+  document.querySelectorAll("[data-i18n-ph]").forEach(el=>{ const k=el.dataset.i18nPh; if(t[k]!==undefined) el.placeholder=t[k]; });
+  document.querySelectorAll("[data-i18n-html]").forEach(el=>{ const k=el.dataset.i18nHtml; if(t[k]!==undefined) el.innerHTML=t[k]; });
+  document.querySelectorAll(".lang-toggle span").forEach(s=>s.classList.toggle("on", s.dataset.l===LANG));
+}
+function switchLang(l){ if(l===LANG) return; LANG=l; try{ localStorage.setItem("dossier-lang",l);}catch(e){} applyLang(); buildChips(); buildTypes(); render(); }
+
+/* ===== state ===== */
 let MOVES = [];
-let activeCat = "All";
-let activeType = "All";
-let query = "";
+let activeCat = "All", activeType = "All", officialOnly = false, query = "";
 
 const $ = s => document.querySelector(s);
-const grid = $("#grid"), countEl = $("#count");
+const grid = () => $("#grid"), countEl = () => $("#count");
+function esc(s){ return (s||"").replace(/[&<>]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[m])); }
+function fmtDate(d){ try{ return new Date(d+"T12:00:00").toLocaleDateString(LANG==="fr"?"fr-CA":"en-CA",{month:"short",day:"numeric"}); }catch(e){ return d; } }
 
 function buildChips(){
+  const t = T[LANG];
   const chips = $("#chips");
-  const all = ["All", ...CATEGORIES];
-  chips.innerHTML = all.map((name)=>{
+  const all = [{en:"All"}, ...CATEGORIES];
+  chips.innerHTML = all.map(c=>{
+    const name = c.en;
+    const label = name==="All" ? t.allCats : catLabel(name);
     const dot = name==="All" ? "" : `<span class="cd" style="background:${catColor(name)}"></span>`;
-    return `<button class="chip${name===activeCat?' active':''}" data-cat="${name}">${dot}${name}</button>`;
+    return `<button class="chip${name===activeCat?' active':''}" data-cat="${esc(name)}">${dot}${esc(label)}</button>`;
   }).join("");
-  chips.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{
-    activeCat = (c.dataset.cat===activeCat && activeCat!=="All") ? "All" : c.dataset.cat;
+  chips.querySelectorAll(".chip").forEach(el=>el.onclick=()=>{
+    activeCat = (el.dataset.cat===activeCat && activeCat!=="All") ? "All" : el.dataset.cat;
     buildChips(); render();
   });
 }
 function buildTypes(){
+  const t = T[LANG];
   const sel = $("#typeSel");
-  sel.innerHTML = ["All", ...TYPES].map(t=>`<option value="${t}">${t==="All"?"All action types":t}</option>`).join("");
+  sel.innerHTML = [{en:"All"}, ...TYPES].map(o=>`<option value="${esc(o.en)}">${o.en==="All"?esc(t.allTypes):esc(typeLabel(o.en))}</option>`).join("");
+  sel.value = activeType;
   sel.onchange = ()=>{ activeType = sel.value; render(); };
 }
-function esc(s){return (s||"").replace(/[&<>]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[m]));}
-function fmtDate(d){return new Date(d+"T12:00:00").toLocaleDateString("en-CA",{month:"short",day:"numeric"});}
 
 function card(m){
+  const t = T[LANG];
   const c = catColor(m.cat);
-  const body = m.kind==="news"
-    ? `<p class="excerpt">${esc(m.excerpt)}</p>`
-    : `<p>${esc(m.sum)}</p>`;
-  const badge = m.kind==="news"
-    ? `<span class="badge news">News · excerpt</span>`
-    : `<span class="badge official">Official · summary</span>`;
+  const body = m.kind==="news" ? `<p class="excerpt">${esc(m.excerpt)}</p>` : `<p>${esc(m.sum)}</p>`;
+  const badge = m.kind==="news" ? `<span class="badge news">${esc(t.badgeNews)}</span>` : `<span class="badge official">${esc(t.badgeOfficial)}</span>`;
   return `<article class="card">
-    <div class="rec"><span class="type">${esc(m.type)}</span><span class="sep">·</span><span>${fmtDate(m.date)}</span></div>
-    <span class="cat" style="color:${c};background:hsla(${CAT_HUE[m.cat] ?? 230} 72% 64% / .12)">
-      <span class="cd" style="background:${c}"></span>${esc(m.cat)}</span>
+    <div class="rec"><span class="type">${esc(typeLabel(m.type))}</span><span class="sep">·</span><span>${fmtDate(m.date)}</span></div>
+    <span class="cat" style="color:${c};background:hsla(${CAT_HUE[m.cat] ?? 230} 72% 64% / .12)"><span class="cd" style="background:${c}"></span>${esc(catLabel(m.cat))}</span>
     <h3>${esc(m.title)}</h3>
     ${body}
-    <div class="src">
-      <span class="from">${badge} · ${esc(m.src)}</span>
-      <a href="${esc(m.url)}" target="_blank" rel="noopener">Source ↗</a>
-    </div>
+    <div class="src"><span class="from">${badge} · ${esc(m.src)}</span><a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(t.sourceLink)}</a></div>
   </article>`;
 }
 
 function render(){
+  const t = T[LANG];
   const q = query.trim().toLowerCase();
-  const rows = MOVES.filter(m=>{
+  const langItems = MOVES.filter(m => (m.lang||"en")===LANG);
+  const rows = langItems.filter(m=>{
     if(activeCat!=="All" && m.cat!==activeCat) return false;
     if(activeType!=="All" && m.type!==activeType) return false;
+    if(officialOnly && m.kind!=="official") return false;
     if(q){
-      const hay = (m.title+" "+(m.sum||"")+" "+(m.excerpt||"")+" "+m.src+" "+m.cat).toLowerCase();
+      const hay = (m.title+" "+(m.sum||"")+" "+(m.excerpt||"")+" "+m.src+" "+catLabel(m.cat)).toLowerCase();
       if(!hay.includes(q)) return false;
     }
     return true;
-  }).sort((a,b)=> b.date.localeCompare(a.date));
+  }).sort((a,b)=> (b.date||"").localeCompare(a.date||""));
 
-  countEl.textContent = `${rows.length} action${rows.length===1?"":"s"}`
-    + (activeCat!=="All"?` · ${activeCat}`:"") + (activeType!=="All"?` · ${activeType}`:"");
-  grid.innerHTML = rows.length
-    ? rows.map(card).join("")
-    : `<div class="empty">No actions match these filters. Clear search or pick a different category.</div>`;
+  countEl().textContent = `${rows.length} action${rows.length===1?"":"s"}`;
+  grid().innerHTML = rows.length ? rows.map(card).join("") : `<div class="empty">${esc(t.empty)}</div>`;
 
-  $("#m-actions").textContent = MOVES.length.toLocaleString();
+  const loc = LANG==="fr" ? "fr-CA" : "en-CA";
+  $("#m-actions").textContent = langItems.length.toLocaleString(loc);
   $("#m-cats").textContent = CATEGORIES.length;
-  $("#m-sources").textContent = new Set(MOVES.map(m => m.src)).size || "—";
+  $("#m-sources").textContent = new Set(langItems.map(m=>m.src)).size || "—";
 }
 
+/* ===== init ===== */
+computeHues(); applyLang(); buildChips(); buildTypes(); render();
+
 $("#q").oninput = e=>{ query = e.target.value; render(); };
+$("#ooBtn").onclick = ()=>{ officialOnly = !officialOnly; $("#ooBtn").classList.toggle("active", officialOnly); render(); };
+document.querySelectorAll(".lang-toggle span").forEach(s=> s.onclick = ()=> switchLang(s.dataset.l));
 
-/* ---------- live enrichment desk ---------- */
-const SAMPLE_RAW = "His Excellency the Administrator of the Government of Canada in Council, on the recommendation of the Minister of Transport, pursuant to subsection 7.6(1) of the Aeronautics Act, makes the annexed Regulations Amending the Canadian Aviation Regulations (small remotely piloted aircraft systems), prescribing registration, operator certification, and minimum-altitude requirements for the operation of such systems within controlled airspace, to come into force ninety days after registration.";
+const aboutModal = $("#aboutModal");
+$("#aboutBtn").onclick = ()=> aboutModal.showModal();
+$("#aboutClose").onclick = ()=> aboutModal.close();
+aboutModal.addEventListener("click", e=>{ if(e.target===aboutModal) aboutModal.close(); });
+document.querySelectorAll(".kofi-link").forEach(a=> a.href = KOFI_URL);
 
-$("#sample").onclick = ()=>{ $("#raw").value = SAMPLE_RAW; };
-
-$("#run").onclick = async ()=>{
-  const raw = $("#raw").value.trim();
-  const out = $("#out"), btn = $("#run");
-  if(!raw){ out.innerHTML = `<div class="result err"><div class="msg">Paste some text first.</div></div>`; return; }
-  btn.disabled = true; btn.textContent = "Reading…";
-  out.innerHTML = `<div class="result"><div class="hint">Summarizing and categorizing…</div></div>`;
-
-  const prompt = `You convert dense Canadian federal government text into a clear, neutral public-facing record entry.
-Return ONLY a JSON object, no markdown, no preamble, with exactly these keys:
-"headline": a plain-language headline, max 12 words, neutral, describing the ACTION taken (not whether it is good).
-"summary": 1-2 plain sentences a non-expert can understand. Neutral. No opinion or praise/criticism.
-"category": choose exactly one from this list: ${CATEGORIES.map(c=>c[0]).join(", ")}.
-"type": choose exactly one from this list: ${TYPES.join(", ")}.
-
-Text:
-"""${raw}"""`;
-
-  try{
-    const res = await fetch("https://api.anthropic.com/v1/messages",{
-      method:"POST",
-      headers:{"Content-Type":"application/json"},
-      body:JSON.stringify({model:"claude-sonnet-4-6",max_tokens:1000,messages:[{role:"user",content:prompt}]})
-    });
-    const data = await res.json();
-    const text = (data.content||[]).filter(b=>b.type==="text").map(b=>b.text).join("").trim();
-    const clean = text.replace(/```json|```/g,"").trim();
-    const obj = JSON.parse(clean);
-
-    const cat = CATEGORIES.find(c=>c[0].toLowerCase()===String(obj.category||"").toLowerCase())?.[0] || "Economy";
-    const type = TYPES.find(t=>t.toLowerCase()===String(obj.type||"").toLowerCase()) || "Announcement";
-    const rec = {date:new Date().toISOString().slice(0,10),type,cat,kind:"official",
-      src:"Plain-language desk (AI)",url:"#",title:obj.headline||"Untitled action",sum:obj.summary||""};
-
-    const c = catColor(cat);
-    out.innerHTML = `<div class="result">
-      <div class="rec"><span class="type">${esc(type)}</span><span class="sep">·</span><span>plain language</span></div>
-      <span class="cat" style="color:${c};background:hsla(${CAT_HUE[cat]} 72% 64% / .12)"><span class="cd" style="background:${c}"></span>${esc(cat)}</span>
-      <h3 style="margin:2px 0 0;font-size:18px">${esc(rec.title)}</h3>
-      <p style="margin:0;color:var(--muted);font-size:14px">${esc(rec.sum)}</p>
-      <button class="add" id="addBtn">＋ Add to the record</button>
-    </div>`;
-    $("#addBtn").onclick = ()=>{
-      MOVES.unshift(rec); render();
-      $("#out").innerHTML = `<div class="result"><div class="hint">Added to the feed above ↑</div></div>`;
-      $("#raw").value="";
-    };
-  }catch(err){
-    out.innerHTML = `<div class="result err"><div class="msg">The live model step didn't run in this view. The feed and filters still work — in production this step runs server-side over the ingested sources.</div></div>`;
-  }finally{
-    btn.disabled = false; btn.textContent = "Translate to plain language";
-  }
-};
-
-computeHues(); buildChips(); buildTypes(); render();
-
-// Pull the shared category list and the latest data produced by the pipeline.
-// If these files aren't present (e.g. opening this file on its own), the sample
-// data above is shown instead.
 async function boot(){
   try{
     const r = await fetch("categories.json", { cache:"no-store" });
     const c = await r.json();
-    if(Array.isArray(c.categories) && c.categories.length) CATEGORIES = c.categories;
-    if(Array.isArray(c.types) && c.types.length) TYPES = c.types;
-  }catch(e){ /* keep defaults */ }
+    const norm = x => typeof x==="string" ? {en:x, fr:x} : x;
+    if(Array.isArray(c.categories) && c.categories.length) CATEGORIES = c.categories.map(norm);
+    if(Array.isArray(c.types) && c.types.length) TYPES = c.types.map(norm);
+  }catch(e){}
   computeHues();
   try{
     const r = await fetch("data.json", { cache:"no-store" });
     const d = await r.json();
-    if(Array.isArray(d.items) && d.items.length) MOVES = d.items;
-  }catch(e){ /* keep sample data */ }
-  buildChips(); buildTypes(); render();
+    if(Array.isArray(d.items)) MOVES = d.items;
+  }catch(e){}
+  applyLang(); buildChips(); buildTypes(); render();
 }
 boot();
-
-// About dialog
-const aboutModal = document.getElementById("aboutModal");
-document.getElementById("aboutBtn").addEventListener("click", ()=> aboutModal.showModal());
-document.getElementById("aboutClose").addEventListener("click", ()=> aboutModal.close());
-aboutModal.addEventListener("click", (e)=>{ if(e.target === aboutModal) aboutModal.close(); });
-
-// Point the Support buttons at your Ko-fi page
-document.querySelectorAll(".kofi-link").forEach(a => { a.href = KOFI_URL; });
 </script>
