@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T06:55:56.695Z",
-  "count": 1069,
+  "generatedAt": "2026-08-08T12:51:35.452Z",
+  "count": 1073,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,40 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "3a10c55b64ddec6e",
+      "date": "2026-08-08",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-provides-funding-for-the-afromonde-festival.html",
+      "type": "Spending",
+      "kind": "official",
+      "title": "Government of Canada funds AfroMonde Festival",
+      "sum": "The Government of Canada is providing funding support to the AfroMonde Festival. The festival receives financial assistance from the federal government.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "32a7d59ae11e70dc",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDFYZWQzQjZJSWVrb0FCMTMwU2lvU2pTa2VQY0NaakRBY3JCeThKR1NveE5fXzVLb042Nk1peDVpZzlsVS1CZmQzT2k0RTV3bllHd3NYS2RRb2pCa0FUNkhfVzM5YmU1dVBJT3c5VzVZQmpEUThDMll4S1lBRDZMa3NMU0lBMFo2QVZOWUF5YU8?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada must avoid concessions in U.S. trade talks, dairy farmers warn - Global News",
+      "excerpt": "Canada must avoid concessions in U.S. trade talks, dairy farmers warn Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "df398ddea2c0630d",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMU0tZ1BkZUlBSlVYOE5XbHpHMVN4bDJqWmpFYm8tYWxma1dVT0ExZzlBeXBnWDY4cHNHbEFSdVF2OFhJV2U5Ymlfb09Nc2dXVmJZYXVxLTktQXBSOWI2TnlrNTBmMmt1ZWFybTBOazluc3hERzVXejdaV2pOaGZ5YkUwM0tDVFl6WlNFWDU0SUIya0lrNnBUc1E1b3A3aFQ0Vm9ULUNrOEx3NnhINVhCcjBROWlJOTRTckhDeVI0TQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Carney responds after Trump says ‘nasty’ Canada ‘screwed’ U.S. with tariffs - CTV News",
+      "excerpt": "Carney responds after Trump says ‘nasty’ Canada ‘screwed’ U.S. with tariffs CTV News",
+      "cat": "Economy"
+    },
     {
       "id": "1002bf940abbb77a",
       "date": "2026-08-07",
@@ -410,6 +444,17 @@
       "sum": "The federal government is investing $823,122 in the Sherbrooke Community League in Edmonton through the Green and Inclusive Community Buildings program. The funding will support building improvements and energy efficiency upgrades.",
       "cat": "Sustainable development",
       "ai": true
+    },
+    {
+      "id": "9d434bbeaa5c0477",
+      "date": "2026-08-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT190XzZaOTJjZ3FEV0VoYUh6NzVoVXpiN2ZST1RlVFFQcTBFZTNJUWlNWWN2UDdBU0tfNzRoeVhQOGdpajlHZGsySXlmTkNIeEk5cXVFUVhPWkxXa2FDazc2SklJNEhJOVM5SUZHOFJBbXJnaVpRbkRzaDJaNDdsamU2MGJiV3Q0c3RSQm9hY1F2c0ZyNHE2Ti1TUVNISkEtR284ZVV5R0pCdVk1a084QWpRUGI?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Fossil fuel lobbying skyrockets in first year of PM Carney’s government - Environmental Defence",
+      "excerpt": "Fossil fuel lobbying skyrockets in first year of PM Carney’s government Environmental Defence",
+      "cat": "National defence"
     },
     {
       "id": "31f05bd3890d96b9",
