@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T19:00:01.229Z",
-  "count": 1052,
+  "generatedAt": "2026-08-08T01:45:25.441Z",
+  "count": 1067,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,143 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "1002bf940abbb77a",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/minister-mcguinty-concludes-alberta-visit-focused-on-innovation-and-strengthening-canadas-defence-capabilities.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Defence Minister concludes Alberta visit on innovation and defence",
+      "sum": "Minister of National Defence David McGuinty completed a two-day visit to Alberta where he met with Canadian Armed Forces members, researchers, industry leaders and community partners. The visit focused on highlighting government investments in defence innovation, research, military infrastructure and Canadian industry.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "253d1e52ae42eb4b",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/08/statement-from-the-commissioner-of-the-correctional-service-of-canada0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Two correctional officers killed at Edmonton Institution for Women",
+      "sum": "Two correctional officers, Nicolae Serban and Ramandeep Kaur Maan, died at Edmonton Institution for Women while performing their duties. The Correctional Service of Canada issued a statement mourning their loss.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "7678ee180c590749",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/northern-economic-development/news/2026/08/the-government-of-canada-to-announce-investments-supporting-indigenous-led-economic-development-and-infrastructure-in-the-northwest-territories.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada announces funding for Indigenous-led economic development in Northwest Territories",
+      "sum": "The Government of Canada will announce funding for four Indigenous-led projects designed to strengthen the economy and infrastructure of the Northwest Territories. The announcement will be made by the Parliamentary Secretary to the Minister of Northern and Arctic Affairs.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "7e3c7fcc2341b222",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/08/death-of-an-inmate-from-edmonton-institution-for-women.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Inmate death at Edmonton Institution for Women reported",
+      "sum": "An inmate named Kiara Mooswa died on August 6, 2026, while in custody at Edmonton Institution for Women. The federal government is reporting the death.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "d9b59d75bb0b6f13",
+      "date": "2026-08-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-services-procurement/news/2026/08/government-of-canada-conditionally-sells-retired-cc-130h-hercules-aircraft-to-protect-canadians-by-strengthening-canadas-private-sector-aerial-fire.html",
+      "type": "Announcement",
+      "kind": "official",
+      "title": "Canada conditionally sells retired Hercules aircraft for firefighting",
+      "sum": "The Government of Canada is selling retired CC-130H Hercules military aircraft with conditions attached. The sale aims to strengthen private sector aerial firefighting capacity to help respond to wildfires.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "dbcff8f452d77635",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmlPMkdhMzhPQnl4NUoybzRWazUxejhETS1YNTY2N2FnWWtkb0tkdWVUbUh0ZkoyZFF0TXJ2R19aZy1IMEF5aHBfOG5LZVg0aHZkNDEwUDBVcjJpQzVRU2dweTRsdjF0VWRrWC1odGx1WDJFYThMczB2bVZ5TEtIZmxGYzJzZlJVc2Ewc0NDYWlsVUxHanpNTjJfMTVfSlpmeEQw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ford pushes Carney to extend excise fuel tax suspension - Canada's National Observer",
+      "excerpt": "Ford pushes Carney to extend excise fuel tax suspension Canada's National Observer",
+      "cat": "Finance"
+    },
+    {
+      "id": "9e1ccc3d1bd5dc80",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMllBV29OUWpQWDl5TkY1UkI1WFFtTG1rb2hVa2F4QzBTVE9vTDBJTVlTbnRSRXowcnBPS3dLWFZxdlJidW1BeHpfQzdjVTlCUGtYLWtWOEh1RHFPbUppRHpzX2FmZXRUZlYxVGtkeG1mNGdYOUZsWS1kUDNIRG1vVWpjdGE3NS1ZdEZr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Canada prepared to halt booze bans, meet other U.S. demands in exchange for tariff relief: sources - CBC",
+      "excerpt": "Canada prepared to halt booze bans, meet other U.S. demands in exchange for tariff relief: sources CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "fd2a53a1a525986d",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfdFVlWW5VVEZpSWlVRzYyY3lYMG9yMUJId2E5b3NPNzI0eHhUMWpIMHZqc19Zdl9iRXA1VG1mYXRVb01MWm9tdUJqTF9YUjFuREc4SFBZYWQ0MmRUQlNIT3Z3T0Y4a0I0bFktU0tReGZSRjA4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Former Vancouver Mayor Says a British Columbia Cabinet Minister Is Under Active Investigation Over China Links, and That Carney Government Is Not Acting on Foreign Interference - The Bureau | Sam Cooper",
+      "excerpt": "Former Vancouver Mayor Says a British Columbia Cabinet Minister Is Under Active Investigation Over China Links, and That Carney Government Is Not Acting on Foreign Interference The Bureau | Sam Cooper",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "c364f2a2030f1268",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2lGeUtZeUluQkhZWGdGcml2S2c3S0FMS0Mxcm5XNElvNzNsaUxIN0M1QU1hUEZ5LVNBUWpNbnlyay15U2tHRFhtakdsdVYwMkx2NHFVRm1HNi1KZUtla0pDUXFRMFNSV3UydUMzWGZVTGFrMlVyblJTRy1uSkpYeHJscVh4bjJTdzdpbnlXR0xZZTdubW9nZHdiMWpkVXlIOTBFMFBUanh5OU1m?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ford asks Carney to make federal gas tax suspension permanent - cp24.com",
+      "excerpt": "Ford asks Carney to make federal gas tax suspension permanent cp24.com",
+      "cat": "Finance"
+    },
+    {
+      "id": "dd7a81599546d595",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZDFENjlNUGdHQVhqd0JNV3pMNUNTZDBNZHBYLTFsaV8zRk81b0lWdTJ6Tk9HOW02UGZtWV9kZVlrcGpDY3BSTi00bzhMWTB4MVljckZrWk9HRmd6LU84b0xhdjZvbTF3b1FUdy1LX3NMbnZ2YW5tTzBVTlM5WEd4b0ZiTUQ2NDJudndUQ2ZXYVdPUzVLQWdXb0RpQngxZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Opinion: Carney wants your trust, not your questions - MooseJawToday.com",
+      "excerpt": "Opinion: Carney wants your trust, not your questions MooseJawToday.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "e677acf7f821d8a3",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdU4yLTBrT1dqRTZxazYtX2Y4YXZfOXZ0VmViYWYtWEdmeXN2STZvaTRsUTM5RDMtX2xYT2hKZjU0bkVYUFU4d1JjWnd0SW9HUDZnT0otSGlad1hGckVKdGZ3eEtLQmtXQl96blpmcDRZY3ZPbTF6b3JwWWxyT1d2Ukdrak84aXluY1l3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Ford writes Carney asking to extend gas and diesel excise tax holiday to Jan. 1 - CBC",
+      "excerpt": "Ford writes Carney asking to extend gas and diesel excise tax holiday to Jan. 1 CBC",
+      "cat": "Finance"
+    },
+    {
+      "id": "944adcca730917cc",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yYWFUNWpYUzlVaXlXcTNIY19Yb0M5U25Na3dOeU5qeUFaTzdBbXV2UEdfaEI2SFBkV0QzMk52dnpELWR5R2RBSFdpaXFDZEE2R216VndKbEtWVm9IcDdybmxpazFBcWM3c1Z4Zkt3LXJRTWs?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Calls mount across Canada for Liberals to extend fuel tax holiday - Juno News",
+      "excerpt": "Calls mount across Canada for Liberals to extend fuel tax holiday Juno News",
+      "cat": "Finance"
+    },
     {
       "id": "ec7a7d4abb0502e9",
       "date": "2026-08-07",
@@ -273,6 +410,17 @@
       "sum": "The federal government is investing $823,122 in the Sherbrooke Community League in Edmonton through the Green and Inclusive Community Buildings program. The funding will support building improvements and energy efficiency upgrades.",
       "cat": "Sustainable development",
       "ai": true
+    },
+    {
+      "id": "31f05bd3890d96b9",
+      "date": "2026-08-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa09zUmxVeU9mV1NkS0dfRGtOTXV4bVZ2ZUFQWlQtOENrV1VMaGZUelZRTEhyVzAwVUxMa1E5U0xLYXdSZ0pFSmVQNGVmVDR4YmFCdUVIVTVLek5kV3JiZ29UaVlUNUtkZ0ljMHFUa3REbWF5UTlBWFJYdHFZRGJYNFhKWVNmRDBzT1FvNVVJaV9sLXlwemxKZWFKUldvQUNNbGg3bVZrcw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Liberal Party selects lawyer Jessica Cardill as new national director - The Globe and Mail",
+      "excerpt": "Liberal Party selects lawyer Jessica Cardill as new national director The Globe and Mail",
+      "cat": "Justice"
     },
     {
       "id": "41ba6b2eb5d5c34e",
@@ -4123,6 +4271,17 @@
       "title": "Alberta craft alcohol producers welcome direct-to-consumer deal",
       "excerpt": "On Tuesday, premiers from nine provinces signed a landmark agreement to implement direct-to-consumer alcohol sales, allowing Canadians to order alcohol directly from producers in participating provinces for personal…",
       "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "08091330ca09d181",
+      "date": "2026-07-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeW44YjF2WFRHaE84dzROd0tTRGRGTjlpM0JHcVl1UjRIN1I0ZjQtanpIRGJFSklkSVJEYzBIclVkRFhiLU5DbTR6NnBkbTB2NTNZRXRncl81VFo4WXlmWTF0QWIyX3VkUTVSckc2OWFUajQ4ZU9WR0NIQ2lnMVNnUWhOY2RJTTZKU0hNbHJlVll1bnVXWFNfVFcyYlB3RGtoblZRRUJR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "Prime Minister Carney convenes the Incident Response Group - pm.gc.ca",
+      "excerpt": "Prime Minister Carney convenes the Incident Response Group pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "281fff22bbf8050d",
@@ -11196,6 +11355,17 @@
       "sum": "Sturgeon Lake First Nation and Indigenous Services Canada officially opened the Shirley Bighead Nihtāwiki and Ohpikihāwasowin Birthing and Childrearing Lodge. The facility provides birthing and childrearing services for the community.",
       "cat": "Indigenous services",
       "ai": true
+    },
+    {
+      "id": "79007263d51a4661",
+      "date": "2026-04-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY096WnptaVRncjBFdjc5a2cyVlpMUnEwMzRtZndLZjJYaXAzbnpLUkxudTVYODl3VFRtR3YzNEhTbTVIWklRSUlTYkQ3MTl4X2gxS1hMVkxOaU5UTFlKMlhwdU1TQURfQmdNaTFWd2FIbmRSN2U3Qlktd2tsdFRkX3RNU1lWZHFsVjF1bUNtUGpfYjhsUXNMTWhocmZTbFZYUTJUN1U4LUNnWkdVWl9nWFRFblpNQ1dEdGkw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "title": "One year since federal election and Ottawa’s fiscal problems have only gotten worse - Fraser Institute",
+      "excerpt": "One year since federal election and Ottawa’s fiscal problems have only gotten worse Fraser Institute",
+      "cat": "Finance"
     },
     {
       "id": "8ea517271c8f81c1",
