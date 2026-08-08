@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T18:05:19.049Z",
+  "generatedAt": "2026-08-08T18:41:01.124Z",
   "count": 1514,
   "categories": [
     "Foreign affairs",
@@ -2919,9 +2919,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Fermetures de voies aux automobilistes sur le pont Macdonald-Cartier",
-      "sum": "Services publics et Approvisionnement Canada souhaite aviser les automobilistes que des fermetures de voies seront nécessaires afin d’exécuter des travaux de réhabilitation sur le pont Macdonald-Cartier, du vendredi 7 août au lundi 30 novembre.",
-      "cat": "Innovation, science & industry"
+      "title": "Fermetures de voies sur le pont Macdonald-Cartier annoncées",
+      "sum": "Services publics et Approvisionnement Canada annonce des fermetures de voies sur le pont Macdonald-Cartier pour des travaux de réhabilitation du 7 août au 30 novembre. Les automobilistes sont avisés de ces restrictions.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "a696aaf02d95a002",
@@ -2931,9 +2932,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral investit dans les infrastructures pour les véhicules électriques et l’éducation dans l’ensemble du Canada",
-      "sum": "Aujourd’hui, l’honorable Julie Dabrusin, ministre de l’Environnement, du Changement climatique et de la Nature, a annoncé que 11 millions de dollars sont accordés à 23 projets portant sur les infrastructures pour les véhicules électriques et la sensibilisation dans l’ensemble du Canada.",
-      "cat": "Infrastructure"
+      "title": "Le Canada investit 11 millions pour les infrastructures de véhicules électriques",
+      "sum": "Le gouvernement fédéral accorde 11 millions de dollars à 23 projets visant à développer les infrastructures de recharge pour véhicules électriques et à sensibiliser les Canadiens à cette technologie.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "8ab2dd8051afdb72",
@@ -2943,9 +2945,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada continue d’investir dans les infrastructures pour les véhicules électriques et l’éducation",
-      "sum": "Le 30 juillet 2026, l’honorable Julie Dabrusin, ministre de l’Environnement, du Changement climatique et de la Nature, a annoncé que plus de 11 millions de dollars seront accordés à 23 projets visant à densifier les infrastructures de recharge et à mieux faire connaître les véhicules électriques dans l’ensemble du Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 11 millions dans les bornes de recharge électrique",
+      "sum": "Le 30 juillet 2026, le gouvernement du Canada a annoncé l'octroi de plus de 11 millions de dollars à 23 projets. Ces fonds visent à augmenter les infrastructures de recharge pour véhicules électriques et à promouvoir leur adoption à travers le pays.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "be01e8657cd25be9",
@@ -2955,21 +2958,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Sidhu met en place le Bureau des exportations stratégiques pour renforcer la compétitivité mondiale du Canada",
-      "sum": "Dans un environnement mondial de plus en plus complexe et concurrentiel, les entreprises canadiennes recherchent un soutien accru alors qu’elles diversifient activement leurs exportations vers les marchés étrangers. Afin d’accompagner et de guider les entreprises canadiennes dans leur croissance et leur expansion sur les marchés mondiaux, le ministre du Commerce international, l’honorable Maninder Sidhu, a annoncé…",
-      "cat": "Foreign affairs"
+      "title": "Création du Bureau des exportations stratégiques du Canada",
+      "sum": "Le ministre du Commerce international annonce la création d'un nouveau bureau pour aider les entreprises canadiennes à diversifier leurs exportations et à se développer sur les marchés mondiaux.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "312ecb113927b158",
       "date": "2026-07-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/batir-des-collectivites-fortes-en-colombie-britannique-grace-a-financement-dans-54-nouveaux-projets-dinfrastructure.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Bâtir des collectivités fortes en Colombie-Britannique grâce à financement dans 54 nouveaux projets d’infrastructure",
-      "sum": "Dans le cadre du Fonds pour les priorités stratégiques, plus de 152 millions de dollars sont investis dans 54 nouveaux projets d’infrastructure dans l’ensemble de la Colombie-Britannique. Ce programme financé par le gouvernement fédéral soutient, dans le cadre du volet communautaire du Fonds pour bâtir des collectivités fortes en C.-B., des projets d’infrastructure dont le coût dépasse les capacités financières…",
-      "cat": "Innovation, science & industry"
+      "title": "Ottawa investit 152 millions dans 54 projets d'infrastructure en Colombie-Britannique",
+      "sum": "Le gouvernement fédéral verse plus de 152 millions de dollars pour financer 54 nouveaux projets d'infrastructure en Colombie-Britannique par l'intermédiaire du Fonds pour les priorités stratégiques. Ce financement soutient des projets communautaires dont les coûts dépassent les capacités financières locales.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "50f1808417d4ff8b",
@@ -2979,21 +2984,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Hajdu annoncera un financement de FedNor pour aider les entreprises à tirer parti des possibilités offertes par le secteur de la défense",
-      "sum": "L’honorable Patty Hajdu, ministre de l’Emploi et des Familles et ministre responsable de FedNor, sera accompagnée de Pauline Rochefort, secrétaire parlementaire du secrétaire d’État (Développement rural) et députée de Nipissing—Timiskaming, pour faire une annonce importante de FedNor visant à renforcer la participation du Nord-Est de l’Ontario au secteur canadien de la défense.",
-      "cat": "Innovation, science & industry"
+      "title": "FedNor annonce du financement pour entreprises secteur défense",
+      "sum": "La ministre Hajdu annonce un financement de FedNor destiné à aider les entreprises du Nord-Est de l'Ontario à participer au secteur canadien de la défense.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "0df250360992bcd0",
       "date": "2026-07-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/07/description-des-projets-relatifs-a-la-traite-de-personnes.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Description des projets relatifs à la traite de personnes",
-      "sum": "Neuf organisations de partout au Canada recevront plus de 3,35 millions de dollars de financement sur trois exercices financiers (2026–2029) versés par le ministère de la Justice Canada. Ces investissements soutiennent des projets qui contribuent à prévenir la traite de personnes, à améliorer les services destinés aux victimes et aux personnes survivantes, et à protéger les personnes susceptibles d’être davantage…",
-      "cat": "Justice"
+      "title": "Le Canada finance neuf organismes pour combattre la traite de personnes",
+      "sum": "Le ministère de la Justice Canada accordera plus de 3,35 millions de dollars à neuf organismes canadiens sur trois ans. Ce financement appuiera des projets visant à prévenir la traite de personnes, améliorer les services aux victimes et protéger les personnes à risque.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "bc81036d2bbf185f",
@@ -3003,9 +3010,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Fraser annonce des mesures de soutien et un financement pour les victimes et les personnes survivantes de la traite de personnes",
-      "sum": "Le gouvernement du Canada prend des mesures plus énergiques pour protéger les victimes et les personnes survivantes de la traite de personnes grâce aux récentes réformes du Code criminel qui sont maintenant en vigueur. Ces modifications viennent renforcer les efforts continus visant à soutenir les victimes et les personnes survivantes, à tenir les coupables pour responsables et à prévenir ce crime odieux.",
-      "cat": "Housing"
+      "title": "Le Canada annonce du soutien aux victimes de traite de personnes",
+      "sum": "Le gouvernement du Canada met en place des mesures de soutien et du financement pour les victimes et les survivants de la traite de personnes. Ces actions s'appuient sur des réformes récentes du Code criminel entrées en vigueur.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "f9131477009ccb85",
@@ -3015,21 +3023,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Fraser annonce des mesures de soutien et un financement pour les victimes et les personnes survivantes de la traite de personnes",
-      "sum": "Le gouvernement du Canada prend des mesures plus énergiques pour protéger les victimes et les personnes survivantes de la traite de personnes grâce aux récentes réformes du Code criminel qui sont maintenant en vigueur. Ces modifications viennent renforcer les efforts continus visant à soutenir les victimes et les personnes survivantes, à tenir les coupables pour responsables et à prévenir ce crime odieux.",
-      "cat": "Housing"
+      "title": "Gouvernement annonce soutien financier aux victimes de traite de personnes",
+      "sum": "Le gouvernement du Canada annonce des mesures de soutien et un financement pour les victimes et survivants de la traite de personnes, suite à des réformes du Code criminel maintenant en vigueur. Ces actions visent à soutenir les victimes, responsabiliser les coupables et prévenir ce crime.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "73264597e337b7ac",
       "date": "2026-07-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-gouvernement-du-canada-investit-70-millions-de-dollars-pour-renforcer-la-chaine-dapprovisionnement-en-batteries-de-vehicules-electriques-au-quebec.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit 70 millions de dollars pour renforcer la chaîne d’approvisionnement en batteries de véhicules électriques au Québec",
-      "sum": "Le projet de 761 millions de dollars permettra à Solutions énergétiques Volta de moderniser et d’étendre ses activités au Canada",
-      "cat": "Economy"
+      "title": "Canada investit 70 millions pour batteries de véhicules électriques",
+      "sum": "Le gouvernement du Canada fournit 70 millions de dollars pour renforcer la production de batteries de véhicules électriques au Québec. Ce financement fait partie d'un projet plus large de 761 millions de dollars destiné à moderniser les installations de Solutions énergétiques Volta.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "35c27b11f11a83d8",
@@ -3039,9 +3049,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration du ministre Anandasangaree à l’occasion de la Journée mondiale de la lutte contre la traite des personnes de 2026",
-      "sum": "Aujourd’hui, l’honorable Gary Anandasangaree, ministre de la Sécurité publique, a fait la déclaration suivante.",
-      "cat": "Innovation, science & industry"
+      "title": "Déclaration du ministre sur la lutte contre la traite des personnes",
+      "sum": "Le ministre de la Sécurité publique a émis une déclaration à l'occasion de la Journée mondiale de la lutte contre la traite des personnes en 2026.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "20073d49a8d13ce9",
@@ -3372,9 +3383,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada étend le renouvellement en ligne du passeport à tous les adultes admissibles (Toronto)",
-      "sum": "Le gouvernement du Canada s’engage à rendre la vie des Canadiennes et des Canadiens plus simple et plus pratique. Cela passe notamment par la mise en place d’un programme de passeport moderne offrant des services numériques sécurisés et conviviaux qui permettent de gagner du temps, de réduire les déplacements en personne et de faciliter le renouvellement du passeport.",
-      "cat": "Economy"
+      "title": "Canada étend le renouvellement en ligne du passeport à tous les adultes",
+      "sum": "Le gouvernement du Canada élargit son service de renouvellement de passeport en ligne pour tous les adultes admissibles. Ce service numérique vise à réduire les délais de traitement et les visites en personne.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "d93a24e53871eab3",
@@ -3384,33 +3396,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Le gouvernement fédéral investit dans des projets d’énergie propre au Yukon, au Nunavut et aux Territoires du Nord-Ouest pour y offrir une électricité propre, fiable et abordable",
-      "sum": "L’honorable Julie Dabrusin, ministre de l’Environnement, du Changement climatique et de la Nature, et Brendan Hanley, secrétaire parlementaire du ministre des Affaires du Nord et de l’Arctique, ont annoncé un financement de près de 7 millions de dollars pour réaliser, au Yukon, aux Territoires du Nord-Ouest et au Nunavut, huit projets d’énergie propre",
-      "cat": "Innovation, science & industry"
+      "title": "Le gouvernement fédéral finance des projets d'énergie propre dans trois territoires",
+      "sum": "Le gouvernement fédéral investit près de 7 millions de dollars dans huit projets d'énergie propre au Yukon, aux Territoires du Nord-Ouest et au Nunavut. Ces projets visent à fournir de l'électricité propre, fiable et abordable dans ces régions.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "4a2fa80f32b8e538",
       "date": "2026-07-29",
       "src": "Ressources naturelles Canada (RNCan)",
       "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/07/le-gouvernement-federal-investit-dans-des-projets-denergie-propre-au-yukon-au-nunavut-et-aux-territoires-du-nord-ouest-pour-y-offrir-une-electricit.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral investit dans des projets d’énergie propre au Yukon, au Nunavut et aux Territoires du Nord-Ouest pour y offrir une électricité propre, fiable et abordable",
-      "sum": "Le gouvernement fédéral investit dans des projets d’énergie propre au Yukon, au Nunavut et aux Territoires du Nord-Ouest pour y offrir une électricité propre, fiable et abordable",
-      "cat": "Economy"
+      "title": "Le gouvernement fédéral investit dans l'énergie propre dans trois territoires",
+      "sum": "Le gouvernement fédéral finance des projets d'énergie propre au Yukon, au Nunavut et aux Territoires du Nord-Ouest. Ces investissements visent à fournir de l'électricité propre, fiable et abordable dans ces régions.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "818e824a44f42c7b",
       "date": "2026-07-29",
       "src": "Ressources naturelles Canada (RNCan)",
       "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/07/le-canada-favorise-lexportation-denergie-a-lechelle-mondiale-grace-a-la-signature-dun-deuxieme-accord-europeen-sur-le-gaz-naturel-liquefie.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada favorise l’exportation d’énergie à l’échelle mondiale grâce à la signature d’un deuxième accord européen sur le gaz naturel liquéfié",
-      "sum": "Le Canada favorise l’exportation d’énergie à l’échelle mondiale grâce à la signature d’un deuxième accord européen sur le gaz naturel liquéfié",
-      "cat": "Economy"
+      "title": "Canada signe un deuxième accord européen sur le gaz naturel liquéfié",
+      "sum": "Le Canada a signé un deuxième accord avec l'Europe concernant l'exportation de gaz naturel liquéfié. Cet accord vise à favoriser l'exportation canadienne d'énergie sur les marchés mondiaux.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "2ff53afde4c673c4",
@@ -3871,9 +3886,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada étend le renouvellement en ligne du passeport à tous les adultes admissibles",
-      "sum": "Le gouvernement du Canada s’engage à rendre la vie des Canadiennes et des Canadiens plus simple et plus pratique. Cela passe notamment par la mise en place d’un programme de passeport moderne offrant des services numériques sécurisés et conviviaux qui permettent de gagner du temps, de réduire les déplacements en personne et de faciliter le renouvellement du passeport.",
-      "cat": "Economy"
+      "title": "Canada étend le renouvellement en ligne du passeport à tous les adultes",
+      "sum": "Le gouvernement du Canada rend le renouvellement du passeport disponible en ligne pour tous les adultes admissibles. Ce service numérique vise à simplifier les démarches et réduire les visites en personne.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "cc5c78c25a8a3b44",
@@ -3883,9 +3899,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire parlementaire Fragiskatos fera une annonce à Toronto",
-      "sum": "Peter Fragiskatos, secrétaire parlementaire de la ministre de l’Immigration, des Réfugiés et de la Citoyenneté, sera à Toronto pour faire une annonce relative au renouvellement des passeports en ligne. Cette annonce est faite au nom de l’honorable Lena Metlege Diab, ministre de l’Immigration, des Réfugiés et de la Citoyenneté. Une séance avec les médias suivra. Un point de presse suivra l’annonce.",
-      "cat": "Innovation, science & industry"
+      "title": "Renouvellement des passeports en ligne annoncé à Toronto",
+      "sum": "Le secrétaire parlementaire Fragiskatos annoncera à Toronto une initiative concernant le renouvellement des passeports en ligne, au nom de la ministre de l'Immigration, des Réfugiés et de la Citoyenneté.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "9e48e4d7546b618f",
@@ -3895,9 +3912,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre McKnight fera une annonce sur le gaz naturel liquéfié",
-      "sum": "L’honorable Jill McKnight, ministre des Anciens Combattants, au nom du ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, fera une annonce au sujet des exportations d’énergie à l’échelle internationale.",
-      "cat": "Foreign affairs"
+      "title": "Annonce sur les exportations de gaz naturel liquéfié",
+      "sum": "La ministre McKnight fera une annonce concernant les exportations d'énergie à l'échelle internationale, au nom du ministre de l'Énergie et des Ressources naturelles.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "0cef176a1e2a8bd5",
@@ -3907,21 +3925,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Dabrusin fera une annonce au sujet de l’abordabilité de l’énergie dans le Nord",
-      "sum": "La ministre de l’Environnement, du Changement climatique et de la Nature, l’honorable Julie Dabrusin, annoncera du financement en lien avec l’énergie propre et le coût de la vie dans le Nord. Elle sera accompagnée du secrétaire parlementaire de la ministre des Affaires du Nord et de l’Arctique et député du Yukon, Brendan Hanley.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Dabrusin annonce financement énergie propre Nord",
+      "sum": "La ministre de l'Environnement annoncera du financement destiné à l'énergie propre et à l'abordabilité énergétique dans le Nord canadien. Cette annonce sera faite en compagnie du secrétaire parlementaire des Affaires du Nord et du Yukon.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "4e1eb60a892ba344",
       "date": "2026-07-28",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-gouvernement-du-canada-annonce-un-investissement-federal-de-50-millions-de-dollars-dans-produits-naturels-canada-en-vue-de-renforcer-le-secteur-.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce un investissement fédéral de 50 millions de dollars dans Produits naturels Canada en vue de renforcer le secteur agroalimentaire",
-      "sum": "Aujourd’hui, le ministre de l’Agriculture et de l’Agroalimentaire, l’honorable Heath MacDonald, a annoncé, au nom de la ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, l’honorable Mélanie Joly, et en compagnie du député de Charlottetown et secrétaire parlementaire de la ministre des Anciens Combattants et ministre associée de la Défense nationale, Sean…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 50 millions dans Produits naturels Canada",
+      "sum": "Le gouvernement du Canada annonce un investissement fédéral de 50 millions de dollars dans Produits naturels Canada pour renforcer le secteur agroalimentaire. Cet investissement a été annoncé par le ministre de l'Agriculture et de l'Agroalimentaire.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "db7beacea615e5ee",
@@ -4290,9 +4310,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Metlege Diab et la secrétaire parlementaire Koutrakis feront une annonce à Vancouver",
-      "sum": "L’honorable Lena Metlege Diab, ministre de l’Immigration, des Réfugiés et de la Citoyenneté, et Annie Koutrakis, secrétaire parlementaire de la ministre de l’Emploi et des Familles, feront une annonce concernant le renouvellement des passeports en ligne. Un point de presse suivra.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce sur le renouvellement des passeports en ligne à Vancouver",
+      "sum": "La ministre de l'Immigration et une secrétaire parlementaire feront une annonce à Vancouver concernant le renouvellement des passeports en ligne. Un point de presse suivra cet événement.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "e54b45ff3b16f166",
@@ -4302,57 +4323,62 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit dans la lutte contre les activités des gangs de jeunes à Kelowna",
-      "sum": "Aujourd'hui, l'honorable Gary Anandasangaree, ministre de la Sécurité publique, a annoncé un financement fédéral de 1,68 million de dollars sur cinq ans pour l'initiative Strong Roots « Empowering Youth, Families and our Community for Safer Future », qui sera mise en œuvre par la société Childhood Connections – Okanagan Family and Childcare de Kelowna, en Colombie-Britannique, par l'entremise du Fonds de lutte…",
-      "cat": "Economy"
+      "title": "Canada finance programme de prévention des gangs de jeunes à Kelowna",
+      "sum": "Le gouvernement du Canada investit 1,68 million de dollars sur cinq ans dans un programme appelé Strong Roots à Kelowna, en Colombie-Britannique. Cette initiative, mise en œuvre par Childhood Connections – Okanagan Family and Childcare, vise à autonomiser les jeunes et les familles pour prévenir les activités des gangs de jeunes.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "d933c2b789f14c77",
       "date": "2026-07-27",
       "src": "Sécurité publique Canada (SP)",
       "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/07/le-gouvernement-du-canada-investit-dans-la-prevention-de-la-violence-liee-aux-armes-a-feu-a-new-westminster-en-colombie-britannique.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit dans la prévention de la violence liée aux armes à feu à New Westminster, en Colombie-Britannique",
-      "sum": "Aujourd'hui, l'honorable Gary Anandasangaree, ministre de la Sécurité publique, a annoncé un financement pouvant atteindre 1,04 million de dollars pour la prévention de la violence liée aux armes à feu et aux gangs à New Westminster, en Colombie-Britannique.",
-      "cat": "Economy"
+      "title": "Canada finance la prévention de la violence aux armes à feu",
+      "sum": "Le gouvernement du Canada annonce un financement pouvant atteindre 1,04 million de dollars pour des programmes de prévention de la violence liée aux armes à feu et aux gangs à New Westminster, en Colombie-Britannique.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "cb5eb85582c05be8",
       "date": "2026-07-27",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-gouvernement-du-canada-souligne-les-themes-cles-degages-de-la-consultation-relative-au-plan-daction-pour-le-developpement-rural.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada souligne les thèmes clés dégagés de la consultation relative au Plan d’action pour le développement rural",
-      "sum": "Les constats qui en sont issus orienteront l’élaboration du futur plan d’action",
-      "cat": "Economy"
+      "title": "Canada consulte sur plan d'action développement rural",
+      "sum": "Le gouvernement du Canada a mené une consultation sur un plan d'action pour le développement rural. Les résultats de cette consultation serviront à orienter l'élaboration d'un futur plan d'action.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "a180842553df5676",
       "date": "2026-07-27",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/consultation-du-gouvernement-du-canada-sur-lavenir-des-regions-rurales.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Consultation du gouvernement du Canada sur l’avenir des régions rurales",
-      "sum": "Consultation du gouvernement du Canada sur l’avenir des régions rurales",
-      "cat": "Economy"
+      "title": "Le gouvernement du Canada consulte sur l'avenir des régions rurales",
+      "sum": "Le gouvernement du Canada mène une consultation publique concernant l'avenir des régions rurales. Cette consultation vise à recueillir les opinions et les priorités des résidants et des collectivités rurales.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "9bdf38fd8abdf8ff",
       "date": "2026-07-27",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-ministre-macdonald-annoncera-un-investissement-en-appui-aux-entreprises-canadiennes-de-lagroalimentaire.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre MacDonald annoncera un investissement en appui aux entreprises canadiennes de l’agroalimentaire",
-      "sum": "Le ministre de l’Agriculture et de l’Agroalimentaire, l’honorable Heath MacDonald, annoncera, au nom de la ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, l’honorable Mélanie Joly, un investissement au titre du Fonds stratégique pour l’innovation en appui à un projet de Produits naturels Canada qui aidera de petites et moyennes entreprises du secteur…",
-      "cat": "Innovation, science & industry"
+      "title": "Investissement fédéral pour soutenir entreprises agroalimentaires canadiennes",
+      "sum": "Le ministre de l'Agriculture annoncera un investissement du Fonds stratégique pour l'innovation destiné à soutenir un projet de Produits naturels Canada. Cet investissement aidera les petites et moyennes entreprises du secteur agroalimentaire.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "53b65205770233c0",
@@ -4881,33 +4907,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Anandasangaree annoncera un financement pour soutenir les efforts visant à prévenir la violence liée aux armes à feu et aux gangs à New Westminster",
-      "sum": "Les membres des médias sont invités à se joindre à l’honorable Gary Anandasangaree, ministre de la Sécurité publique, ainsi qu’à Jake Sawatzky, député de New Westminster-Burnaby-Maillardville, et son honneur Patrick Johnstone, maire de la ville de New Westminster, pour une annonce concernant les efforts du gouvernement du Canada afin d’assurer la sécurité des collectivités canadiennes.",
-      "cat": "Innovation, science & industry"
+      "title": "Financement annoncé pour prévenir la violence armée à New Westminster",
+      "sum": "Le ministre de la Sécurité publique annoncera un financement gouvernemental destiné à soutenir les efforts de prévention de la violence liée aux armes à feu et aux gangs à New Westminster. Cette annonce se fera en présence du député local et du maire de la ville.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "5a3bf4a45c35f1b4",
       "date": "2026-07-24",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-secretaire-detat-belanger-annonce-lelargissement-de-lacces-a-internet-haute-vitesse-en-saskatchewan.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État Belanger annonce l’élargissement de l’accès à Internet haute vitesse en Saskatchewan",
-      "sum": "L’investissement fédéral de plus de 141 millions de dollars permettra de brancher au-delà de 30 000 foyers à Internet haute vitesse",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 141 millions pour élargir Internet haute vitesse Saskatchewan",
+      "sum": "Le secrétaire d'État Belanger annonce un investissement fédéral de plus de 141 millions de dollars pour connecter plus de 30 000 foyers à Internet haute vitesse en Saskatchewan.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "8ed9a8896362ac8e",
       "date": "2026-07-24",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-gouvernement-du-canada-contribuera-a-etendre-lacces-a-internet-haute-vitesse-dans-des-collectivites-de-la-saskatchewan.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada contribuera à étendre l’accès à Internet haute vitesse dans des collectivités de la Saskatchewan",
-      "sum": "Le 24 juillet 2026, le secrétaire d’État au Développement rural, l’honorable Buckley Belanger, a annoncé un financement de plus de 141 millions de dollars pour fournir un accès à Internet haute vitesse dans des collectivités de la Saskatchewan.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada finance l'accès Internet haute vitesse en Saskatchewan",
+      "sum": "Le gouvernement du Canada annonce un financement de plus de 141 millions de dollars pour étendre l'accès à Internet haute vitesse dans des collectivités de la Saskatchewan.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "77704f5e28207608",
@@ -5482,12 +5511,13 @@
       "date": "2026-07-23",
       "src": "Ressources naturelles Canada (RNCan)",
       "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/07/batir-un-reseau-electrique-plus-solide-dans-les-maritimes.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Bâtir un réseau électrique plus solide dans les Maritimes",
-      "sum": "Aujourd’hui, en marge de la réunion des premiers ministres à Charlottetown (Île-du-Prince-Édouard), les premiers ministres du Nouveau-Brunswick, de la Nouvelle-Écosse et de l’Île-du-Prince-Édouard ont signé un protocole d’entente destiné à faire progresser la coopération régionale en matière d’électricité et l’intégration des réseaux électriques dans les Maritimes. Le protocole d’entente, qui a reçu l’appui du…",
-      "cat": "Innovation, science & industry"
+      "title": "Les Maritimes signent un protocole sur l'intégration électrique régionale",
+      "sum": "Trois provinces des Maritimes ont signé un protocole d'entente pour améliorer la coopération régionale en électricité et intégrer leurs réseaux électriques. Cet accord a été annoncé lors d'une réunion des premiers ministres à Charlottetown.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "3674ca6bc68f2ba3",
@@ -5497,57 +5527,62 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada investit dans le projet d’agrandissement de l’interconnexion Île-du-Prince-Édouard–Nouveau-Brunswick",
-      "sum": "Pour bâtir un réseau plus solide dans les Maritimes, le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, a annoncé aujourd’hui l’octroi de 5,9 millions de dollars à la PEI Energy Corporation pour l’avancement du projet d’agrandissement de l’interconnexion Île-du-Prince-Édouard–Nouveau-Brunswick. Ces fonds serviront à effectuer des études techniques, des levés marins, des évaluations…",
-      "cat": "Natural resources"
+      "title": "Canada finance l'expansion de l'interconnexion Île-du-Prince-Édouard–Nouveau-Brunswick",
+      "sum": "Le Canada octroie 5,9 millions de dollars à la PEI Energy Corporation pour l'agrandissement de l'interconnexion entre l'Île-du-Prince-Édouard et le Nouveau-Brunswick. Ces fonds financent des études techniques et des évaluations pour le projet.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "18e2f0d5c4d382db",
       "date": "2026-07-23",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-gouvernement-du-canada-lance-une-consultation-publique-sur-la-transparence-de-lia.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada lance une consultation publique sur la transparence de l’IA",
-      "sum": "Les commentaires de la population permettront de déterminer comment offrir une IA sécuritaire, responsable et fiable au Canada",
-      "cat": "Innovation, science & industry"
+      "title": "Canada lance consultation publique sur transparence de l'IA",
+      "sum": "Le gouvernement du Canada demande l'avis du public sur la façon de rendre l'intelligence artificielle plus transparente, sécuritaire et responsable. Les commentaires recueillis serviront à orienter les politiques gouvernementales sur ce sujet.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "8277d07aa62c6a06",
       "date": "2026-07-23",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-gouvernement-du-canada-fera-une-annonce-importante-au-sujet-des-services-internet-haute-vitesse-en-saskatchewan.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada fera une annonce importante au sujet des services Internet haute vitesse en Saskatchewan",
-      "sum": "Le secrétaire d’État au Développement rural, l’honorable Buckley Belanger, annoncera des améliorations à l’accès aux services Internet haute vitesse dans des régions rurales de la Saskatchewan.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada annonce amélioration Internet haute vitesse Saskatchewan",
+      "sum": "Le gouvernement du Canada annoncera des améliorations pour l'accès aux services Internet haute vitesse dans les régions rurales de la Saskatchewan. Le secrétaire d'État au Développement rural fera cette annonce.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "333c5115c81b945f",
       "date": "2026-07-23",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-secretaire-detat-belanger-souligne-laugmentation-des-versements-au-titre-de-lallocation-canadienne-pour-enfants-en-2026-2027.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État Belanger souligne l’augmentation des versements au titre de l’Allocation canadienne pour enfants en 2026-2027",
-      "sum": "Près de 134 100 familles de la Saskatchewan profiteront de versements accrus dès ce mois-ci",
-      "cat": "Innovation, science & industry"
+      "title": "Augmentation des versements de l'Allocation canadienne pour enfants",
+      "sum": "Le secrétaire d'État Belanger annonce une augmentation des versements de l'Allocation canadienne pour enfants à partir de 2026-2027. Environ 134 100 familles en Saskatchewan recevront des paiements plus élevés dès le mois courant.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "44ebc797a85e7158",
       "date": "2026-07-23",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-ministre-joly-met-en-valeur-les-atouts-de-lindustrie-aerospatiale-canadienne-au-salon-international-de-laeronautique-de-farnborough-au-royaume-uni.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly met en valeur les atouts de l’industrie aérospatiale canadienne au Salon international de l’aéronautique de Farnborough, au Royaume-Uni",
-      "sum": "La ministre Joly met en valeur les atouts de l’industrie aérospatiale canadienne au Salon international de l’aéronautique de Farnborough, au Royaume-Uni",
-      "cat": "Foreign affairs"
+      "title": "Ministre Joly promeut l'industrie aérospatiale canadienne à Farnborough",
+      "sum": "La ministre Joly a présenté les capacités de l'industrie aérospatiale canadienne au Salon international de l'aéronautique de Farnborough au Royaume-Uni. Cette participation vise à mettre en avant les atouts du secteur canadien sur la scène internationale.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "5859b27c749acd4e",
@@ -5557,9 +5592,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La Première Nation Shawanaga inaugure sa nouvelle usine de traitement de l'eau",
-      "sum": "Aujourd’hui, la Première Nation Shawanaga a célébré l’achèvement de sa nouvelle usine de traitement de l’eau, une étape importante dans les efforts déployés par la communauté pour améliorer l’accès à une eau potable sûre et propre.",
-      "cat": "Innovation, science & industry"
+      "title": "Première Nation Shawanaga inaugure nouvelle usine traitement eau",
+      "sum": "La Première Nation Shawanaga a achevé la construction de sa nouvelle usine de traitement de l'eau. Cette installation vise à améliorer l'accès à une eau potable sûre et propre pour la communauté.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "50cb7b7bfd3ae8ca",
@@ -6401,12 +6437,13 @@
       "date": "2026-07-22",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-secretaire-detat-belanger-soulignera-le-soutien-continu-du-gouvernement-aux-familles-grace-a-lallocation-canadienne-pour-enfants.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d'État Belanger soulignera le soutien continu du gouvernement aux familles grâce à l'Allocation canadienne pour enfants",
-      "sum": "Le secrétaire d’État au Développement rural, l’honorable Buckley Belanger, soulignera la bonification de l’Allocation canadienne pour enfants par le gouvernement du Canada, une mesure qui contribuera à réduire le coût de la vie pour les familles d’un bout à l’autre du pays.",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement augmente l'Allocation canadienne pour enfants",
+      "sum": "Le secrétaire d'État Buckley Belanger annonce une augmentation de l'Allocation canadienne pour enfants. Cette mesure vise à réduire le coût de la vie pour les familles à travers le Canada.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "08091330ca09d181",
@@ -7230,24 +7267,26 @@
       "date": "2026-07-21",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-ministre-joly-participera-a-une-discussion-sur-la-strategie-industrielle-du-canada-et-tiendra-une-teleconference-a-lintention-des-medias-durant-.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly participera à une discussion sur la stratégie industrielle du Canada et tiendra une téléconférence à l’intention des médias durant sa visite au Royaume-Uni",
-      "sum": "La ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, l’honorable Mélanie Joly, participera à une séance de discussion en mode hybride sur la stratégie industrielle du Canada et la diplomatie des puissances moyennes à Londres.",
-      "cat": "Foreign affairs"
+      "title": "Ministre Joly discute stratégie industrielle au Royaume-Uni",
+      "sum": "La ministre de l'Industrie Mélanie Joly participera à une discussion hybride à Londres sur la stratégie industrielle du Canada et la diplomatie des puissances moyennes. Elle tiendra également une téléconférence pour les médias lors de sa visite au Royaume-Uni.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "4c6c98e91bbdd067",
       "date": "2026-07-21",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-ministre-joly-annonce-un-partenariat-avec-pratt--whitney-canada-visant-a-renforcer-le-secteur-aerospatial-canadien.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly annonce un partenariat avec Pratt & Whitney Canada visant à renforcer le secteur aérospatial canadien",
-      "sum": "La ministre Joly annonce un partenariat avec Pratt & Whitney Canada visant à renforcer le secteur aérospatial canadien",
-      "cat": "Economy"
+      "title": "Ministre Joly annonce partenariat avec Pratt & Whitney Canada",
+      "sum": "La ministre Joly a annoncé un partenariat avec Pratt & Whitney Canada destiné à renforcer le secteur aérospatial canadien.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "56a3000013c696f9",
@@ -7897,9 +7936,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Metlege Diab souligne que les versements au titre de l’Allocation canadienne pour enfants augmentent en 2026-2027",
-      "sum": "Le gouvernement du Canada allège la charge financière des familles en augmentant l’Allocation canadienne pour enfants (ACE). L’ACE est un paiement mensuel non imposable visant à les aider à subvenir aux besoins des enfants.",
-      "cat": "Innovation, science & industry"
+      "title": "Allocation canadienne pour enfants augmente en 2026-2027",
+      "sum": "Le gouvernement du Canada augmente l'Allocation canadienne pour enfants, un paiement mensuel non imposable destiné à aider les familles à subvenir aux besoins des enfants.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "ea7345168d3e0726",
@@ -7909,45 +7949,49 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Démarrage du chantier du projet d’agrandissement Sunrise d’Enbridge",
-      "sum": "Le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, a annoncé aujourd’hui que les travaux de construction avaient commencé sur le chantier du projet d’agrandissement Sunrise en Colombie-Britannique, dans la foulée de l’approbation du projet par le gouvernement en avril 2026.",
-      "cat": "Infrastructure"
+      "title": "Construction débute sur l'agrandissement Sunrise d'Enbridge",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles a annoncé le début des travaux de construction du projet d'agrandissement Sunrise en Colombie-Britannique. Ce projet avait été approuvé par le gouvernement en avril 2026.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "baf88357c76aa071",
       "date": "2026-07-20",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-secretaire-parlementaire-de-la-ministre-de-lindustrie-participera-a-une-discussion-en-groupe-au-sommet-annuel-de-la-region-economique-du-nord-ou.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire parlementaire de la ministre de l’Industrie participera à une discussion en groupe au Sommet annuel de la région économique du Nord-Ouest du Pacifique",
-      "sum": "Le secrétaire parlementaire de la ministre de l’Industrie Karim Bardeesy participera à une discussion en groupe au Sommet annuel de la région économique du Nord-Ouest du Pacifique (anglais).",
-      "cat": "Innovation, science & industry"
+      "title": "Secrétaire parlementaire participe au Sommet du Nord-Ouest Pacifique",
+      "sum": "Le secrétaire parlementaire de la ministre de l'Industrie participera à une discussion en groupe lors du Sommet annuel de la région économique du Nord-Ouest du Pacifique.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "dbf31174b48009ea",
       "date": "2026-07-20",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-ministre-joly-annoncera-une-mesure-visant-a-renforcer-le-secteur-canadien-de-laerospatiale.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly annoncera une mesure visant à renforcer le secteur canadien de l’aérospatiale",
-      "sum": "La ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, l’honorable Mélanie Joly, annoncera l’association du gouvernement du Canada avec Pratt & Whitney Canada en vue de renforcer le secteur canadien de l’aérospatiale.",
-      "cat": "Economy"
+      "title": "Canada s'associe à Pratt & Whitney pour renforcer l'aérospatiale",
+      "sum": "La ministre de l'Industrie annoncera un partenariat entre le gouvernement du Canada et Pratt & Whitney Canada pour soutenir le secteur aérospatial canadien.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "2a69c4f36ccd2e8c",
       "date": "2026-07-20",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-ministre-valdez-souligne-la-bonification-de-lallocation-canadienne-pour-enfants-au-benefice-des-familles-canadiennes.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Valdez souligne la bonification de l’Allocation canadienne pour enfants au bénéfice des familles canadiennes",
-      "sum": "Le gouvernement du Canada continue de rendre la vie plus abordable pour les familles en bonifiant l’Allocation canadienne pour enfants (ACE). Cette mesure aidera les parents à subvenir aux besoins de leurs enfants et donnera à chaque enfant la possibilité de s’épanouir.",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement augmente l'Allocation canadienne pour enfants",
+      "sum": "Le gouvernement du Canada augmente l'Allocation canadienne pour enfants pour aider les familles à subvenir aux besoins de leurs enfants. Cette mesure vise à rendre la vie plus abordable pour les parents.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "297e958a9f3382d4",
@@ -8672,12 +8716,13 @@
       "date": "2026-07-19",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-presence-de-la-delegation-canadienne-au-salon-international-de-laeronautique-de-farnborough-viendra-stimuler-lindustrie-aerospatiale-canadienne-.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La présence de la délégation canadienne au Salon international de l’aéronautique de Farnborough viendra stimuler l’industrie aérospatiale canadienne, augmenter la compétitivité et renforcer l’économie de notre pays",
-      "sum": "La présence de la délégation canadienne au Salon international de l’aéronautique de Farnborough viendra stimuler l’industrie aérospatiale canadienne, augmenter la compétitivité et renforcer l’économie de notre pays",
-      "cat": "Foreign affairs"
+      "title": "Délégation canadienne au Salon international de l'aéronautique de Farnborough",
+      "sum": "Une délégation canadienne participe au Salon international de l'aéronautique de Farnborough. Cette participation vise à promouvoir l'industrie aérospatiale canadienne sur la scène internationale.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "8386d19ab41bf32e",
@@ -9096,9 +9141,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Metlege Diab soulignera le soutien plus généreux offert aux familles grâce à l’Allocation canadienne pour enfants",
-      "sum": "La ministre Metlege Diab soulignera le soutien plus généreux offert aux familles grâce à l’Allocation canadienne pour enfants",
-      "cat": "Economy"
+      "title": "Ministre souligne augmentation de l'allocation canadienne pour enfants",
+      "sum": "La ministre Metlege Diab met en avant un soutien accru aux familles par l'Allocation canadienne pour enfants. Cette allocation procure un aide financière aux familles ayant des enfants.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "4b33ef3da4a31556",
@@ -9108,33 +9154,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les versements au titre de l’Allocation canadienne pour enfants augmentent en 2026-2027",
-      "sum": "Aujourd’hui en Alberta, Corey Hogan, secrétaire parlementaire du ministre de l’Énergie et des Ressources naturelles et député de Calgary Confederation, a souligné l'augmentation de l'aide financière non imposable que les familles reçoivent en 2026-2027 grâce à ce programme, au nom de l’honorable Anna Gainey, secrétaire d’État (Enfance et Jeunesse).",
-      "cat": "Innovation, science & industry"
+      "title": "Allocation canadienne pour enfants augmente en 2026-2027",
+      "sum": "Le gouvernement augmente les versements de l'Allocation canadienne pour enfants à partir de 2026-2027. Cette aide financière non imposable sera versée aux familles canadiennes.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "13801af81669d37e",
       "date": "2026-07-17",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/les-ministres-joly-mackinnon-et-mcguinty-et-le-secretaire-detat-fuhr-prononceront-une-allocution-et-repondront-aux-questions-des-medias-lors-de-lin.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les ministres Joly, MacKinnon et McGuinty et le secrétaire d’État Fuhr prononceront une allocution et répondront aux questions des médias lors de l’inauguration du pavillon du Canada au Salon international de l’aéronautique de Farnborough",
-      "sum": "La ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, l’honorable Mélanie Joly; le ministre des Transports et leader du gouvernement à la Chambre des communes, l’honorable Steven MacKinnon; le ministre de la Défense nationale, l’honorable David J. McGuinty; et le secrétaire d’État (Approvisionnement en matière de défense), l’honorable Stephen Fuhr,…",
-      "cat": "Foreign affairs"
+      "title": "Canada inaugure son pavillon au Salon de Farnborough",
+      "sum": "Des ministres fédéraux prononceront des allocutions et répondront aux questions des médias lors de l'inauguration du pavillon du Canada au Salon international de l'aéronautique de Farnborough. Quatre membres du gouvernement y participeront, incluant les ministres de l'Industrie, des Transports et de la Défense nationale.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "dc6ccef607bd2a75",
       "date": "2026-07-17",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-ministre-valdez-soulignera-le-soutien-continu-offert-par-le-gouvernement-aux-familles-dans-le-cadre-de-lallocation-canadienne-pour-enfants.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Valdez soulignera le soutien continu offert par le gouvernement aux familles dans le cadre de l’Allocation canadienne pour enfants",
-      "sum": "La ministre des Femmes et de l’Égalité des genres et secrétaire d’État (Petites Entreprises et Tourisme), l’honorable Rechie Valdez, sera de passage à Toronto pour souligner l’augmentation de l’Allocation canadienne pour enfants, qui vise à soutenir les familles au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Valdez souligne l'augmentation de l'Allocation canadienne pour enfants",
+      "sum": "La ministre Rechie Valdez annonce une augmentation de l'Allocation canadienne pour enfants lors d'une visite à Toronto. Cette allocation vise à soutenir financièrement les familles canadiennes.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "772be0625fe78f3c",
@@ -9144,9 +9193,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Augmentation des paiements de l'Allocation canadienne pour enfants en 2026-2027 – Près de 153 000 familles du Manitoba bénéficieront de paiements plus généreux à compter de ce mois-ci",
-      "sum": "Le gouvernement du Canada réduit les coûts pour les familles en renforçant l’Allocation canadienne pour enfants (ACE). L’Allocation canadienne pour enfants est un paiement mensuel non imposable qui les aide à assumer les coûts liés au fait d’élever des enfants.",
-      "cat": "Innovation, science & industry"
+      "title": "Augmentation de l'Allocation canadienne pour enfants en 2026-2027",
+      "sum": "Le gouvernement du Canada augmente les paiements de l'Allocation canadienne pour enfants à partir de ce mois-ci. Environ 153 000 familles du Manitoba recevront des paiements plus élevés pour les aider à couvrir les frais liés à l'éducation des enfants.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "ee21e48d201ba63b",
@@ -9533,9 +9583,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada investit dans une électricité propre, fiable et abordable",
-      "sum": "L’annonce d’aujourd’hui montre que le gouvernement fédéral soutient la modernisation du réseau électrique canadien et contribue ainsi à réduire les émissions de GES et à préparer le réseau à répondre à la demande croissante d’électricité à l’heure où nous nous employons à doubler sa capacité de production d’ici 2050 dans le cadre de Propulser un Canada fort : une stratégie nationale pour une économie canadienne…",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada investit dans la modernisation du réseau électrique",
+      "sum": "Le gouvernement fédéral annonce un investissement pour moderniser le réseau électrique canadien. Cette mesure vise à réduire les émissions de gaz à effet de serre et à doubler la capacité de production d'électricité d'ici 2050.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "563d8534af991495",
@@ -9545,9 +9596,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire parlementaire Hogan mettra en valeur l’aide apportée aux familles canadiennes",
-      "sum": "Le secrétaire parlementaire du ministre de l’Énergie et des Ressources naturelles, Corey Hogan, soulignera les efforts visant à réduire les coûts pour les familles partout au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Le secrétaire parlementaire Hogan met en avant l'aide aux familles",
+      "sum": "Le secrétaire parlementaire Corey Hogan soulignera les efforts du gouvernement visant à réduire les coûts pour les familles canadiennes.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ebbd6bac023a405f",
@@ -9557,9 +9609,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Hodgson annoncera un jalon important pour le secteur de l’énergie en Colombie-Britannique",
-      "sum": "Le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, annoncera un jalon important pour les infrastructures énergétiques en Colombie Britannique.",
-      "cat": "Infrastructure"
+      "title": "Ministre Hodgson annonce jalon secteur énergie Colombie-Britannique",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles annoncera une étape importante concernant les infrastructures énergétiques en Colombie-Britannique.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "ea2553890dae7c8a",
@@ -9569,9 +9622,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La secrétaire parlementaire Lavack soulignera un soutien plus généreux de l'allocation canadienne pour enfants",
-      "sum": "Veuillez prendre note que l'honorable Ginette Lavack, députée de Saint-Boniface—Saint-Vital et secrétaire parlementaire de la ministre des Services aux Autochtones, sera à Winnipeg pour souligner la hausse de l'allocation canadienne pour enfants, laquelle permettra de réduire les dépenses des familles partout au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Augmentation de l'allocation canadienne pour enfants annoncée",
+      "sum": "La secrétaire parlementaire Lavack soulignera une hausse de l'allocation canadienne pour enfants lors d'une visite à Winnipeg. Cette augmentation vise à réduire les dépenses des familles canadiennes.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "8c37269b0f7f3746",
@@ -10113,9 +10167,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire parlementaire Guay fera une annonce sur l’énergie propre à Saint-Jean-Baptiste-de-Rouville",
-      "sum": "Le secrétaire parlementaire Guay fera une annonce sur l’énergie propre à Saint-Jean-Baptiste-de-Rouville",
-      "cat": "Innovation, science & industry"
+      "title": "Secrétaire parlementaire annonce initiative énergie propre",
+      "sum": "Le secrétaire parlementaire Guay fera une annonce concernant l'énergie propre dans la municipalité de Saint-Jean-Baptiste-de-Rouville.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "40ff47c122425a15",
@@ -10555,12 +10610,13 @@
       "date": "2026-07-14",
       "src": "Ressources naturelles Canada (RNCan)",
       "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/07/consolider-et-faire-avancer-la-transformation-du-secteur-forestier-quebecois.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Consolider et faire avancer la transformation du secteur forestier québécois",
-      "sum": "En partenariat avec la province de Québec, le gouvernement du Canada s’emploie à remédier à ces difficultés et à placer le secteur forestier québécois en bonne posture pour réussir sur le long terme. Claude Guay, secrétaire parlementaire du ministre de l’Énergie et des Ressources naturelles, a aujourd’hui souligné l’octroi de plus de 17 millions de dollars pour 12 projets de transformation du secteur forestier dans…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada octroie 17 millions pour transformer le secteur forestier québécois",
+      "sum": "Le gouvernement du Canada accorde plus de 17 millions de dollars à 12 projets visant à transformer le secteur forestier au Québec. Cette initiative est menée en partenariat avec la province de Québec.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "011315936efd52cc",
@@ -10907,9 +10963,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada aidera à renforcer le secteur forestier au Québec",
-      "sum": "Le secrétaire parlementaire du ministre de l’Énergie et des Ressources naturelles, Claude Guay, présentera les mesures récentes prises par le gouvernement du Canada pour soutenir le secteur forestier.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada renforce le secteur forestier au Québec",
+      "sum": "Le secrétaire parlementaire du ministre de l'Énergie et des Ressources naturelles présentera les mesures prises par le gouvernement du Canada pour soutenir le secteur forestier québécois.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "23e3173a3ad7f058",
@@ -11088,9 +11145,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Hodgson célèbre un jalon important pour le partenariat entre le Canada et la Pologne en matière de sécurité énergétique et économique",
-      "sum": "Le ministre Hodgson célèbre un jalon important pour le partenariat entre le Canada et la Pologne en matière de sécurité énergétique et économique",
-      "cat": "Economy"
+      "title": "Canada et Pologne renforcent leur partenariat énergétique et économique",
+      "sum": "Le ministre Hodgson marque une étape importante dans la collaboration entre le Canada et la Pologne sur les questions de sécurité énergétique et de développement économique.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "bcad5bb6ea42a4ca",
@@ -11100,21 +11158,23 @@
       "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Assurer la sécurité des résidents du Québec grâce à l’amélioration de la connectivité mobile",
-      "sum": "Un investissement du gouvernement du Canada a permis d’étendre les services mobiles à une communauté autochtone de la Mauricie",
-      "cat": "Economy"
+      "title": "Canada investit pour améliorer la connectivité mobile en Mauricie",
+      "sum": "Le gouvernement du Canada a investi pour étendre les services mobiles à une communauté autochtone de la Mauricie. Cet investissement vise à améliorer la connectivité et la sécurité des résidents du Québec.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "9cf1a62716c70e60",
       "date": "2026-07-10",
       "src": "Services aux Autochtones Canada (SAC)",
       "url": "https://www.canada.ca/fr/services-autochtones-canada/nouvelles/2026/07/litum-et-les-gouvernements-du-canada-et-du-quebec-signent-le-premier-accord-de-coordination-tripartite-au-quebec-en-matiere-de-services-a-lenfance-.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "ITUM et les gouvernements du Canada et du Québec signent le premier accord de coordination tripartite au Québec en matière de services à l’enfance et à la famille pour les Innus",
-      "sum": "Le Conseil Innu Takuaikan Uashat mak Mani-utenam (ITUM), le gouvernement du Canada et le gouvernement du Québec ont procédé aujourd’hui à la cérémonie officielle de signature pour l’accord de coordination relatif aux services à l’enfance et à la famille Tshisheuatishitau, une étape historique qui marque un tournant majeur dans la reconnaissance de la compétence inhérente de l’ITUM en matière de services à l’enfance…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada, Québec et ITUM signent accord services enfance Innus",
+      "sum": "Le Conseil Innu Takuaikan Uashat mak Mani-utenam (ITUM), le gouvernement du Canada et le gouvernement du Québec ont signé un accord de coordination pour les services à l'enfance et à la famille destinés aux Innus. Cet accord reconnaît les compétences inhérentes de l'ITUM dans la prestation de ces services.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "b70dc3d404f16655",
@@ -11235,9 +11295,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada appuie le recrutement inclusif de bénévoles et renforce les interventions de recherche et sauvetage sur les plans d’eau et les rives en Saskatchewan",
-      "sum": "Aujourd’hui, l’honorable Buckley Belanger, secrétaire d’État (Développement rural), au nom de l’honorable Eleanor Olszewski, ministre de la Gestion des urgences et de la Résilience des communautés et ministre responsable de Développement économique Canada pour les Prairies, a annoncé l’octroi de près de 1,15 million de dollars pour deux projets de recherche et sauvetage dirigés par l’Association des bénévoles de…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada finance recherche et sauvetage en Saskatchewan",
+      "sum": "Le gouvernement du Canada accorde près de 1,15 million de dollars pour deux projets de recherche et sauvetage sur les plans d'eau et les rives en Saskatchewan, en soutenant le recrutement inclusif de bénévoles.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "3c32f18416c21e0d",
@@ -11247,9 +11308,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada fait le point sur la saison des feux de forêt de 2026 – Mise à jour de juillet",
-      "sum": "Aujourd’hui, l’honorable Eleanor Olszewski, ministre de la Gestion des urgences et de la Résilience des communautés et ministre responsable de Développement économique Canada pour les Prairies, accompagnée de Corey Hogan, secrétaire parlementaire du ministre de l’Énergie et des Ressources naturelles, et Ginette Lavack, secrétaire parlementaire de la ministre des Services aux Autochtones, a fait le point sur la…",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada fait le point sur la saison des feux de forêt 2026",
+      "sum": "Le gouvernement du Canada a fourni une mise à jour de juillet sur la saison des feux de forêt de 2026. Cette mise à jour a été présentée par la ministre de la Gestion des urgences et de représentants parlementaires des ministères concernés.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "54d944b87aa8476c",
@@ -11259,9 +11321,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Renseignements sur les feux de forêt et conseils de préparation saisonnière pour les Canadiens",
-      "sum": "La page Web Feux de forêt 2026 du gouvernement du Canada contient des renseignements essentiels sur les programmes, les politiques et les initiatives visant à tenir les Canadiens informés de la situation actuelle des feux de forêt dans tout le pays.",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement publie informations et conseils sur feux de forêt",
+      "sum": "Le gouvernement du Canada a publié une page Web contenant des informations sur les programmes, politiques et initiatives concernant les feux de forêt. Cette ressource vise à tenir les Canadiens informés de la situation actuelle des feux de forêt à travers le pays.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "043c2e047e277c5f",
@@ -11271,21 +11334,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Hodgson marquera un jalon important dans la relation énergétique entre le Canada et la Pologne",
-      "sum": "Le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, se rendra en Pologne pour annoncer les progrès réalisés dans le cadre d’un important projet d’électricité propre.",
-      "cat": "Economy"
+      "title": "Le Canada et la Pologne progressent sur un projet d'électricité propre",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles se rend en Pologne pour annoncer les progrès d'un projet important d'électricité propre entre les deux pays.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "bec8d447edc982ea",
       "date": "2026-07-09",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-ministre-joly-annonce-des-investissements-federaux-dans-linnovation-miniere-pour-soutenir-les-chaines-dapprovisionnement-en-mineraux-critiques-e.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly annonce des investissements fédéraux dans l’innovation minière pour soutenir les chaînes d’approvisionnement en minéraux critiques et la remise en état de l’environnement minier",
-      "sum": "Les projets donneront lieu à des progrès en exploitation minière de précision et en restauration écologique assistée par l’IA",
-      "cat": "Innovation, science & industry"
+      "title": "Investissements fédéraux annoncés pour innovation minière et restauration",
+      "sum": "Le gouvernement fédéral annonce des investissements dans l'innovation minière pour soutenir les chaînes d'approvisionnement en minéraux critiques et la restauration environnementale. Les projets visent à développer l'exploitation minière de précision et la restauration écologique assistée par intelligence artificielle.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "399f61a1f244ddb4",
@@ -11372,9 +11437,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et les Territoires du Nord-Ouest s’allient pour soutenir la croissance des communautés francophones",
-      "sum": "Le Canada fait de l’immigration francophone une force qui unit les communautés et reconnaît la contribution des nouveaux arrivants d’expression française et bilingues au rayonnement de la Francophonie. En ce sens, afin de favoriser le développement démographique et économique des communautés du Nord Ouest, les gouvernements du Canada et des Territoires du Nord Ouest agissent conjointement pour assurer la rétention…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Territoires du Nord-Ouest soutiennent croissance communautés francophones",
+      "sum": "Le Canada et les Territoires du Nord-Ouest travaillent ensemble pour favoriser le développement démographique et économique des communautés francophones. Cette collaboration vise à retenir les nouveaux arrivants d'expression française et bilingues dans la région.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "3b7f906e3577831c",
@@ -11384,9 +11450,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Projets visant à soutenir les communautés francophones en situation minoritaire",
-      "sum": "Le Centre d’innovation en immigration francophone (CIIF) vise à intégrer les perspectives francophones dans les programmes d’immigration au Canada. Il promeut l’immigration auprès des employeurs francophones, facilite l’accès aux programmes et soutient la croissance des communautés francophones en situation minoritaire (CFSM). Le CIIF appuie des projets innovants pour réduire les obstacles à l’immigration et offre…",
-      "cat": "Innovation, science & industry"
+      "title": "Centre d'innovation soutient l'immigration francophone au Canada",
+      "sum": "Le Centre d'innovation en immigration francophone aide à intégrer les perspectives francophones dans les programmes d'immigration canadiens. Il soutient les employeurs francophones et les communautés francophones minoritaires en réduisant les obstacles à l'immigration.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "b05833a012bd7a67",
@@ -11396,9 +11463,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État Belanger annoncera l’octroi de fonds pour le recrutement de bénévoles en recherche et sauvetage et l’intervention sur les plans d’eau en Saskatchewan",
-      "sum": "Les représentants des médias sont invités à se joindre à l’honorable Buckley Belanger, secrétaire d’État au Développement rural, au nom de l'honorable Eleanor Olszewski, ministre de la Gestion des urgences et de la Résilience des communautés et ministre responsable de Développement économique Canada pour les Prairies, pour une annonce concernant l’appui du gouvernement du Canada au recrutement inclusif de bénévoles…",
-      "cat": "Innovation, science & industry"
+      "title": "Financement pour le recrutement de bénévoles en recherche et sauvetage en Saskatchewan",
+      "sum": "Le gouvernement du Canada annonce du financement pour aider au recrutement de bénévoles en recherche et sauvetage et intervention sur les plans d'eau en Saskatchewan. L'annonce sera faite par le secrétaire d'État Belanger.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "81400bdfe865d2e8",
@@ -11408,33 +11476,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Olszewski et les secrétaires parlementaires Lavack et Hogan feront le point sur la saison des feux de forêt de 2026 au Canada",
-      "sum": "Les membres des médias sont invités à se joindre à l'honorable Eleanor Olszewski, ministre de la Gestion des urgences et de la Résilience des communautés et ministre responsable de Développement économique Canada pour les Prairies, à Ginette Lavack, secrétaire parlementaire de la ministre des Services aux Autochtones, et à Corey Hogan, secrétaire parlementaire du ministre de l'Énergie et des Ressources naturelles.…",
-      "cat": "Innovation, science & industry"
+      "title": "Mise à jour sur la saison des feux de forêt 2026 au Canada",
+      "sum": "La ministre Olszewski et deux secrétaires parlementaires tiendront un point de presse pour discuter de la saison des feux de forêt de 2026 au Canada. Cette rencontre médiatisée abordera la gestion des urgences liées aux incendies de forêt.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "94473b433e850dfc",
       "date": "2026-07-08",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-ministre-joly-fera-une-annonce-concernant-les-mineraux-critiques-a-sudbury.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly fera une annonce concernant les minéraux critiques à Sudbury",
-      "sum": "La ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, l’honorable Mélanie Joly, fera une annonce concernant les technologies numériques et les minéraux critiques en compagnie de représentants de DIGITAL, l’une des grappes d’innovation mondiales du Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Joly annonce des mesures sur les minéraux critiques à Sudbury",
+      "sum": "La ministre de l'Industrie, Mélanie Joly, fera une annonce à Sudbury concernant les technologies numériques et les minéraux critiques, en collaboration avec des représentants de la grappe d'innovation DIGITAL.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "49e80fbdc859fb9b",
       "date": "2026-07-08",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-canada-et-la-republique-de-coree-signent-un-protocole-dentente-pour-promouvoir-linnovation-et-la-securite-dans-le-domaine-de-lintelligence-artif.html",
-      "type": "Spending",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et la République de Corée signent un protocole d’entente pour promouvoir l’innovation et la sécurité dans le domaine de l’intelligence artificielle",
-      "sum": "Le Canada et la République de Corée signent un protocole d’entente pour promouvoir l’innovation et la sécurité dans le domaine de l’intelligence artificielle",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Corée signent protocole entente intelligence artificielle",
+      "sum": "Le Canada et la République de Corée ont signé un protocole d'entente visant à promouvoir l'innovation et la sécurité dans le domaine de l'intelligence artificielle. Cet accord établit une coopération entre les deux pays sur les enjeux liés à l'IA.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "5bb97a3c50257783",
@@ -11534,9 +11605,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada annonce un premier accord dans le cadre du nouvel Accélérateur canadien des minéraux critiques",
-      "sum": "Aujourd’hui, le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, a lancé l’ACMC et a annoncé la signature d’un accord d’investissement stratégique entre l’ACMC, le Fonds de croissance du Canada (FCC) et Teck Resources Limited (Teck). L’accord appuie l’accroissement des capacités de production du site de Teck situé à Trail, en Colombie Britannique, l’un des plus grands complexes de fusion…",
-      "cat": "Transportation"
+      "title": "Canada annonce accord sur accélérateur minéraux critiques avec Teck",
+      "sum": "Le Canada a lancé l'Accélérateur canadien des minéraux critiques et annoncé un accord d'investissement stratégique avec Teck Resources Limited pour augmenter la capacité de production à son site de Trail en Colombie-Britannique.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "2f53f7ef879148ee",
@@ -11546,9 +11618,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Appui à huit projets de plantation d’arbres en Saskatchewan",
-      "sum": "Le 7 juillet 2026, l’honorable Nathalie Provost, secrétaire d’État (Nature), a souligné huit projets en Saskatchewan. Ces projets représentent un investissement de 24,5 millions de dollars dans le cadre du programme 2 milliards d’arbres (2GA) en vue de planter plus de cinq millions d’arbres qui aideront à protéger la nature et la biodiversité dans la province en restaurant des habitats essentiels pour les espèces en…",
-      "cat": "Innovation, science & industry"
+      "title": "Huit projets de plantation d'arbres financés en Saskatchewan",
+      "sum": "Le gouvernement fédéral appuie huit projets de plantation d'arbres en Saskatchewan avec un investissement de 24,5 millions de dollars. Ces projets, qui font partie du programme 2 milliards d'arbres, visent à planter plus de cinq millions d'arbres pour restaurer des habitats et protéger la biodiversité provinciale.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "8291abf262c62916",
@@ -11558,21 +11631,23 @@
       "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit 30 millions de dollars pour lancer la cinquième phase du programme CodeCan afin d’offrir de nouvelles possibilités de formation aux jeunes et aux enseignants",
-      "sum": "Plus de 1,1 million d’élèves et d’enseignants pourront acquérir des connaissances en intelligence artificielle et développer des compétences en codage",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 30 millions pour la cinquième phase du programme CodeCan",
+      "sum": "Le gouvernement du Canada consacre 30 millions de dollars à la cinquième phase du programme CodeCan pour offrir de la formation en intelligence artificielle et en codage. Plus de 1,1 million d'élèves et d'enseignants auront accès à ces nouvelles possibilités d'apprentissage.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "2aa09c252097a171",
       "date": "2026-07-07",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-secretaire-parlementaire-menard-souligne-de-nouvelles-mesures-dans-le-cadre-du-programme-dapprovisionnement-aupres-des-petites-entreprises-afin-.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La secrétaire parlementaire Ménard souligne de nouvelles mesures dans le cadre du Programme d’approvisionnement auprès des petites entreprises afin de moderniser les contrats fédéraux et de les rendre plus accessibles aux entreprises canadiennes",
-      "sum": "Les petites entreprises sont le fondement de l’économie canadienne : elles stimulent l’innovation, créent de bons emplois et renforcent les collectivités du pays tout entier.",
-      "cat": "Innovation, science & industry"
+      "title": "Modernisation du Programme d'approvisionnement auprès des petites entreprises",
+      "sum": "Le gouvernement fédéral annonce de nouvelles mesures pour moderniser ses contrats et les rendre plus accessibles aux petites entreprises canadiennes. Ces changements visent à faciliter l'accès des petites entreprises aux marchés publics fédéraux.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "92807fc125180b5f",
@@ -11646,9 +11721,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le député Peter Fragiskatos souligne le lancement de la Stratégie nationale de sécurité alimentaire",
-      "sum": "Le gouvernement du Canada s’efforce de renforcer l’économie et de rendre la vie plus abordable pour la population canadienne. Aujourd’hui, Peter Fragiskatos, secrétaire parlementaire de la ministre de l’Immigration, des Réfugiés et de la Citoyenneté, au nom de l’honorable Heath MacDonald, ministre de l’Agriculture et de l’Agroalimentaire, a souligné le lancement de la Stratégie nationale de sécurité alimentaire.",
-      "cat": "Innovation, science & industry"
+      "title": "Lancement de la Stratégie nationale de sécurité alimentaire",
+      "sum": "Le gouvernement du Canada a lancé la Stratégie nationale de sécurité alimentaire. Le secrétaire parlementaire Peter Fragiskatos a annoncé cette initiative au nom du ministre de l'Agriculture et de l'Agroalimentaire.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "c90d1fec75bdbfb8",
@@ -11658,9 +11734,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Projets visant à soutenir les communautés francophones en situation minoritaire",
-      "sum": "Le Centre d’innovation en immigration francophone (CIIF) vise à intégrer les perspectives francophones dans les programmes d’immigration au Canada. Il promeut l’immigration auprès des employeurs francophones, facilite l’accès aux programmes et soutient la croissance des communautés francophones en situation minoritaire (CFSM). Le CIIF appuie des projets innovants pour réduire les obstacles à l’immigration et offre…",
-      "cat": "Innovation, science & industry"
+      "title": "Centre d'innovation soutient immigration francophone au Canada",
+      "sum": "Le Centre d'innovation en immigration francophone (CIIF) a été créé pour intégrer les perspectives francophones dans les programmes d'immigration canadiens. Il promeut l'immigration auprès des employeurs francophones et soutient la croissance des communautés francophones en situation minoritaire.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "df3fb0d612c0470d",
@@ -11670,9 +11747,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et le Manitoba unissent leurs efforts pour donner un nouvel élan à l’immigration francophone",
-      "sum": "Le Canada est déterminé à soutenir l’immigration francophone et mise sur l’attraction et la rétention des meilleurs talents du monde. Alors que les communautés francophones en situation minoritaire font face à des défis démographiques et économiques importants, les gouvernements du Canada et du Manitoba unissent leurs efforts pour renforcer les communautés de langue officielle en situation minoritaire en répondant à…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Manitoba renforcent l'immigration francophone",
+      "sum": "Le gouvernement fédéral et le Manitoba collaborent pour attirer et retenir des immigrants francophones afin de soutenir les communautés de langue française en situation minoritaire face aux défis démographiques et économiques.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "03bc9a7363106c99",
@@ -11769,9 +11847,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Olszewski approuve une aide d’urgence pour appuyer le rétablissement à la suite des importantes inondations qui ont frappé la province du Manitoba",
-      "sum": "Aujourd’hui, l’honorable Eleanor Olszewski, ministre de la Gestion des urgences et de la Résilience des communautés et ministre responsable de Développement économique Canada pour les Prairies, a fait la déclaration suivante.",
-      "cat": "Innovation, science & industry"
+      "title": "Manitoba reçoit une aide d'urgence suite aux inondations",
+      "sum": "La ministre de la Gestion des urgences a approuvé une aide d'urgence pour soutenir la reprise du Manitoba après des inondations importantes. Cette assistance vise à appuyer le rétablissement de la province.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "41ae37126c7714dd",
@@ -11794,9 +11873,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Le Canada investit dans l’énergie propre en Alberta et en Saskatchewan",
-      "sum": "Le 4 juillet 2026, le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, a annoncé l’octroi de plus de 26 millions de dollars pour la réalisation, en Alberta et en Saskatchewan, de 17 projets qui contribueront à accélérer le déploiement de technologies propres; à moderniser des infrastructures et systèmes énergétiques; et à constituer les capacités réglementaires, industrielles et humaines…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 26 millions dollars en énergie propre albertaine et saskatchewanaise",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles a annoncé le 4 juillet 2026 un investissement de plus de 26 millions de dollars pour 17 projets en Alberta et en Saskatchewan. Ces projets visent à accélérer le déploiement de technologies propres et à moderniser les infrastructures énergétiques.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "40f9b47efd2bdfad",
@@ -11806,9 +11886,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada investit dans l’énergie propre en Alberta et en Saskatchewan",
-      "sum": "Aujourd’hui, en marge du Stampede de Calgary, le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, a annoncé l’octroi de plus de 26 millions de dollars pour la réalisation, en Alberta et en Saskatchewan, de 17 projets qui contribueront à accélérer le déploiement de technologies propres; à moderniser des infrastructures et des systèmes énergétiques; à réduire les émissions; et à constituer…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 26 millions pour projets d'énergie propre",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles annonce un financement de plus de 26 millions de dollars pour 17 projets en Alberta et en Saskatchewan. Ces projets visent à déployer des technologies propres, moderniser les infrastructures énergétiques et réduire les émissions.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "18d3118cdef6ae95",
@@ -11844,9 +11925,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire parlementaire Fragiskatos annoncera des mesures de soutien à la sécurité alimentaire à Windsor",
-      "sum": "Peter Fragiskatos, secrétaire parlementaire de la ministre de l’Immigration, des Réfugiés et de la Citoyenneté, au nom de l’honorable Heath MacDonald, ministre de l’Agriculture et de l’Agroalimentaire, soulignera le lancement de la Stratégie nationale de sécurité alimentaire visant à renforcer les systèmes alimentaires à Windsor.",
-      "cat": "Innovation, science & industry"
+      "title": "Lancement de la Stratégie nationale de sécurité alimentaire à Windsor",
+      "sum": "Le secrétaire parlementaire Fragiskatos annoncera le lancement de la Stratégie nationale de sécurité alimentaire, qui vise à renforcer les systèmes alimentaires. Cette annonce sera faite à Windsor au nom du ministre de l'Agriculture et de l'Agroalimentaire.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "94ecec35c1365de8",
@@ -11856,9 +11938,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Metlege Diab fera une annonce à Winnipeg",
-      "sum": "L’honorable Lena Metlege Diab, ministre de l’Immigration, des Réfugiés et de la Citoyenneté, tiendra une conférence de presse à Winnipeg afin de dévoiler un projet novateur visant à renforcer l’immigration francophone au Manitoba. Un point de presse suivra.",
-      "cat": "Natural resources"
+      "title": "Ministre annonce projet immigration francophone Manitoba",
+      "sum": "La ministre de l'Immigration tiendra une conférence de presse à Winnipeg pour présenter un nouveau projet destiné à renforcer l'immigration francophone au Manitoba.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "379d0f22f80162db",
@@ -11868,33 +11951,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Hodgson fera une annonce importante concernant le secteur minier",
-      "sum": "Le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, fera une annonce liée aux minéraux critiques.",
-      "cat": "Economy"
+      "title": "Le ministre annonce une mesure sur les minéraux critiques",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles fera une annonce concernant le secteur minier et les minéraux critiques.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "fec9460000c88543",
       "date": "2026-07-03",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-secretaire-parlementaire-menard-annoncera-les-prochaines-etapes-de-la-politique--achetez-canadien.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La secrétaire parlementaire Ménard annoncera les prochaines étapes de la politique « Achetez canadien »",
-      "sum": "La secrétaire parlementaire de la ministre des Femmes et de l’Égalité des genres et secrétaire d’État (Petites Entreprises et Tourisme), Marie-Gabrielle Ménard, sera à Montréal, au nom du ministre de la Transformation du gouvernement, des Travaux publics et de l’Approvisionnement et lieutenant du Québec, l’honorable Joël Lightbound, pour souligner de nouvelles mesures visant à soutenir directement la participation…",
-      "cat": "Housing"
+      "title": "Gouvernement annonce nouvelles mesures politique Achetez canadien",
+      "sum": "La secrétaire parlementaire Marie-Gabrielle Ménard annoncera les prochaines étapes de la politique « Achetez canadien » à Montréal, au nom du ministre de la Transformation du gouvernement, des Travaux publics et de l'Approvisionnement. Ces mesures visent à soutenir la participation directe dans les approvisionnements gouvernementaux.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "419e6a050251cda2",
       "date": "2026-07-03",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-ministre-valdez-signe-un-protocole-dentente-canada-philippines-sur-la-cooperation-en-matiere-de-tourisme.html",
-      "type": "Spending",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Valdez signe un protocole d’entente Canada-Philippines sur la coopération en matière de tourisme",
-      "sum": "Les deux pays s’engagent à collaborer, soulignant l’importance du secteur du tourisme pour leurs économies nationales",
-      "cat": "Economy"
+      "title": "Canada et Philippines signent accord coopération touristique",
+      "sum": "La ministre Valdez a signé un protocole d'entente entre le Canada et les Philippines pour renforcer leur collaboration dans le secteur du tourisme. Les deux pays reconnaissent l'importance économique du tourisme pour leurs nations respectives.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "12db924ec557fd67",
@@ -11981,21 +12067,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Hodgson fera une annonce concernant l’électricité en Alberta",
-      "sum": "Le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, fera une annonce de financement pour soutenir un réseau électrique plus propre, plus abordable et plus fiable.",
-      "cat": "Economy"
+      "title": "Ministre Hodgson annonce financement électricité Alberta",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles annoncera un financement destiné à soutenir un réseau électrique plus propre, plus abordable et plus fiable en Alberta.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "d4d1b1bf8e659fcb",
       "date": "2026-07-02",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/la-ministre-joly-annonce-un-investissement-federal-important-dans-un-projet-de-groupe-adf-inc-visant-a-renforcer-la-production-dacier-au-canada.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly annonce un investissement fédéral important dans un projet de Groupe ADF inc. visant à renforcer la production d’acier au Canada",
-      "sum": "L’entreprise met à niveau ses installations à Terrebonne et à Métabetchouan pour répondre à la demande croissante de structures lourdes en acier",
-      "cat": "Economy"
+      "title": "Le Canada investit dans la production d'acier avec Groupe ADF",
+      "sum": "La ministre Joly annonce un investissement fédéral dans Groupe ADF inc. pour moderniser ses installations au Québec. L'entreprise améliorera sa capacité de production de structures en acier lourdes.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "798a150309518fe9",
@@ -12055,9 +12143,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration de la ministre Metlege Diab à l’occasion de la fête du Canada",
-      "sum": "« Chaque année, à l’occasion de la fête du Canada, je mesure la chance que nous avons de pouvoir considérer ce pays comme notre foyer, un lieu où la diversité est célébrée, où nos valeurs communes nous unissent et où notre identité collective prend vie à travers nos langues officielles et les expériences que nous partageons. Ce moment est l’occasion de célébrer ce qui nous unit, de tirer fierté de nos communautés et…",
-      "cat": "Economy"
+      "title": "Déclaration de la ministre Metlege Diab pour la fête du Canada",
+      "sum": "La ministre Metlege Diab a publié une déclaration à l'occasion de la fête du Canada. Elle y souligne l'importance de la diversité, des valeurs communes et de l'identité collective du pays.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "507b74ce2109dc3c",
@@ -12092,9 +12181,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Diab participera à une cérémonie de citoyenneté spéciale pour la fête du Canada (matin)",
-      "sum": "L’honorable Lena Metlege Diab, ministre de l'Immigration, des Réfugiés et de la Citoyenneté, accueillera 50 nouvelles citoyennes canadiennes et nouveaux citoyens canadiens, originaires de 26 pays différents, lors d’une cérémonie spéciale organisée à l’occasion de la fête du Canada. La juge de la citoyenneté Rania Sfeir présidera la cérémonie.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre accueille 50 nouveaux citoyens à cérémonie fête Canada",
+      "sum": "La ministre de l'Immigration accueillera 50 nouvelles personnes citoyennes canadiennes provenant de 26 pays lors d'une cérémonie spéciale organisée pour la fête du Canada. La juge Rania Sfeir présidera l'événement.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "94961b8d84b4eb23",
