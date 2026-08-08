@@ -295,6 +295,31 @@ async function pullFresh(seen) {
 }
 
 async function run() {
+  // ---- read-only archive probe: how far back / how much can we pull? ----
+  if (process.argv.includes("--probe")) {
+    const from = "2025-03-14";
+    const probes = [
+      { label: "Government of Canada", dept: null },
+      { label: "Immigration (IRCC)",   dept: "departmentofcitizenshipandimmigration" }
+    ];
+    console.log(`ARCHIVE PROBE — asking for everything since ${from} (pick up to 2000, oldest-first)`);
+    for (const p of probes) {
+      for (const lang of ["en", "fr"]) {
+        const url = `https://api.io.canada.ca/io-server/gc/news/${lang}/v2?${p.dept ? `dept=${p.dept}&` : ""}publishedDate>=${from}&sort=publishedDate&orderBy=asc&pick=2000&format=atom`;
+        try {
+          const parsed = await parser.parseURL(url);
+          const items = parsed.items || [];
+          const dates = items.map((i) => (i.isoDate || i.pubDate || "").slice(0, 10)).filter(Boolean).sort();
+          console.log(`  ${p.label} (${lang}): pulled ${items.length}  |  oldest ${dates[0] || "?"}  newest ${dates[dates.length - 1] || "?"}`);
+        } catch (e) {
+          console.log(`  ${p.label} (${lang}): FAILED — ${e.message}`);
+        }
+      }
+    }
+    console.log("Probe complete. Nothing was written or changed.");
+    return;
+  }
+
   console.log(`DOSSIER ingest  (AI: ${USE_AI ? "on" : "off"}${TEST ? ", test mode" : ""})`);
   const existing = await readJson(OUT_FILE, { items: [] });
   const seen = new Set((existing.items || []).map((i) => i.id));
