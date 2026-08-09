@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T18:46:34.982Z",
-  "count": 14003,
+  "generatedAt": "2026-08-09T01:53:32.419Z",
+  "count": 14007,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -71,6 +71,18 @@
       "cat": "Culture & heritage",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "6fcac22afa095c70",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SUURZUV9jZFc4X3hkYTZZTERWeFZBNnBEcGZaNnJnMkdlNFpCQUdFd0x6aUdsYnR4OVZ6TDBJN0I0bklxRzg2a0lLR0FNYTRpbjFDc1pEYmIxSzRHYVB0bEJfSkVOdHpsNnpqNGY3WGE2M2FaUlp2bURUSQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ford urges Carney to extend gas tax cut or make it permanent - The Globe and Mail",
+      "excerpt": "Ford urges Carney to extend gas tax cut or make it permanent The Globe and Mail",
+      "cat": "Finance"
     },
     {
       "id": "2eee97811722bed4",
@@ -1405,6 +1417,18 @@
       "cat": "Foreign affairs",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "3a4fe7cab9ebc1a1",
+      "date": "2026-08-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN19ZUTFnbG1BUkpoT2dSRG40VEZwSHlUU0duaWJXVlNfUzdOdE9oakhkRmp0bTB4Umt1bjA1Tk94aldLV1pZYjFWZzdYM1dqc2Z3NzNQQVZ4dlN1SFlsVzYyT3dkNXZqVEJ3NHQzNHp5aTQyTDM2RENyNXpmVF9GY3BWM0RPWFpGSElXaE4tc1BZRW5CN0o2Y3dSMA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Oil industry is targeting Canada's highest-ranking decision makers — and it's paying off - Canada's National Observer",
+      "excerpt": "Oil industry is targeting Canada's highest-ranking decision makers — and it's paying off Canada's National Observer",
+      "cat": "Natural resources"
     },
     {
       "id": "18985b9b9a6081e2",
@@ -2867,9 +2891,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral célèbre les progrès du prolongement du réseau GO Transit",
-      "sum": "Aujourd’hui, le gouvernement du Canada a célébré les progrès continus réalisés dans l’amélioration du transport en commun à Toronto. D’importants travaux de modernisation ont été menés à la station Bloor GO/UP, ce qui permet d’accroître la capacité de la ligne Kitchener et d’améliorer les liaisons piétonnes vers l’avenue Randolph.",
-      "cat": "Transportation"
+      "title": "Le Canada célèbre l'expansion du réseau GO Transit à Toronto",
+      "sum": "Le gouvernement fédéral a marqué les progrès de l'amélioration du transport en commun à Toronto. Des travaux de modernisation à la station Bloor GO/UP augmentent la capacité de la ligne Kitchener et améliorent les accès piétons.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "d1ce2ab60cd4f90e",
@@ -2879,9 +2904,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Fredericton",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de David Myles, secrétaire parlementaire du ministre de l’Identité et de la Culture canadiennes et ministre responsable des Langues officielles et de la secrétaire d’État et député de Fredericton—Oromocto, de l’honorable Luke Randall, ministre responsable d’Opportunités NB, du Développement économique et des Petites…",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Fredericton avec représentants fédéraux",
+      "sum": "Le gouvernement fédéral annonce une initiative d'infrastructure à Fredericton. L'événement réunit des représentants fédéraux et provinciaux.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "a4ec7412c28acbc6",
@@ -2891,33 +2917,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les Forces armées canadiennes renforcent la mobilité et le soutien opérationnel dans l’Arctique pendant l’opération NANOOK-QIMAAVIVUT",
-      "sum": "Dans un monde de plus en plus incertain, le Canada se concentre sur ce qu’il peut contrôler : rebâtir et réarmer les Forces armées canadiennes (FAC), ainsi que réinvestir dans celles-ci, dans le but de garantir qu’elles ont les capacités nécessaires pour préserver sa souveraineté.",
-      "cat": "Innovation, science & industry"
+      "title": "Forces armées canadiennes renforcent capacités en Arctique",
+      "sum": "Les Forces armées canadiennes mènent l'opération NANOOK-QIMAAVIVUT pour renforcer leur mobilité et soutien opérationnel dans l'Arctique. Le gouvernement réinvestit dans les forces armées pour améliorer leurs capacités et protéger la souveraineté canadienne.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "859f24776c05e434",
       "date": "2026-07-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/07/un-financement-federal-de-150-700--permettra-lajout-de-sieges-a-la-crapaud-exhibition.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Un financement fédéral de 150 700 $ permettra l’ajout de sièges à la Crapaud Exhibition",
-      "sum": "Le Fonds pour bâtir des collectivités fortes soutiendra les collectivités du Canada atlantique, car il permettra de construire des infrastructures fiables à une vitesse et à une échelle sans précédent depuis des générations",
-      "cat": "Infrastructure"
+      "title": "Financement fédéral pour ajout de sièges à exposition",
+      "sum": "Le gouvernement fédéral accorde 150 700 $ pour ajouter des sièges à la Crapaud Exhibition. Ce financement provient du Fonds pour bâtir des collectivités fortes, qui soutient les projets d'infrastructure dans le Canada atlantique.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "2fb75a41ac30797e",
       "date": "2026-07-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/developpement-economique-sud-ontario/nouvelles/2026/07/le-gouvernement-du-canada-apporte-son-soutien-aux-entreprises-de-lontario-pour-les-aider-a-renforcer-leur-resilience-commerciale-et-a-conquerir-de-.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada apporte son soutien aux entreprises de l’Ontario pour les aider à renforcer leur résilience commerciale et à conquérir de nouveaux marchés",
-      "sum": "L’investissement de FedDev Ontario permettra au Toronto Business Development Centre de lancer un nouveau programme de soutien à l’exportation",
-      "cat": "Economy"
+      "title": "Canada soutient les entreprises ontariennes pour l'exportation",
+      "sum": "Le gouvernement du Canada investit par l'intermédiaire de FedDev Ontario pour aider les entreprises de la province à renforcer leur résilience commerciale et accéder à de nouveaux marchés. Cet investissement permettra au Toronto Business Development Centre de lancer un nouveau programme de soutien à l'exportation.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "99f416c74a003980",
@@ -2927,9 +2956,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L'ASFC mettra fin au Programme d'inscription des chauffeurs du secteur commercial en raison d'un faible taux d'adhésion",
-      "sum": "L'ASFC mettra fin au Programme d'inscription des chauffeurs du secteur commercial en raison d'un faible taux d'adhésion",
-      "cat": "Innovation, science & industry"
+      "title": "L'ASFC termine le programme d'inscription des chauffeurs commerciaux",
+      "sum": "L'Agence des services frontaliers du Canada met fin à son Programme d'inscription des chauffeurs du secteur commercial. Cette décision est prise en raison d'un faible taux de participation au programme.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "3c339b01f4b93f42",
@@ -3452,12 +3482,13 @@
       "date": "2026-07-29",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/07/git-coatings-accroitra-sa-production-grace-a-un-financement-federal-dans-le-secteur-canadien-de-la-defense.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "GIT Coatings accroîtra sa production grâce à un financement fédéral dans le secteur canadien de la défense",
-      "sum": "De nouveaux équipements aideront une entreprise de Dartmouth à accroître sa production et à renforcer les chaînes d’approvisionnement canadiennes de la défense",
-      "cat": "Innovation, science & industry"
+      "title": "GIT Coatings reçoit financement fédéral pour augmenter production défense",
+      "sum": "GIT Coatings, une entreprise de Dartmouth, recevra du financement fédéral pour acquérir de nouveaux équipements. Cet investissement augmentera la production de l'entreprise et renforcera les chaînes d'approvisionnement canadiennes du secteur de la défense.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "b628dc86f7c5e517",
@@ -3467,9 +3498,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Mission Crew-13 : retransmission en direct d’une séance d’information technique et d’une conférence de presse de l’équipage",
-      "sum": "Le 3 août, les médias sont invités au centre spatial John H. Chapman (siège de l’Agence spatiale canadienne [ASC]) pour assister à la retransmission en direct d’une séance d’information technique sur la mission Crew-13 avec un panel d’experts, qui sera suivie d’une conférence de presse de l’équipage, incluant l’astronaute de l’ASC le colonel Joshua Kutryk.",
-      "cat": "Innovation, science & industry"
+      "title": "Conférence de presse et séance d'information sur la mission Crew-13",
+      "sum": "Le 3 août, les médias sont invités à une retransmission en direct d'une séance d'information technique et d'une conférence de presse au sujet de la mission Crew-13. L'événement inclura l'astronaute canadien le colonel Joshua Kutryk.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "35bc7fb6272e04c2",
@@ -3479,21 +3511,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Solomon à Toronto pour annoncer un nouveau soutien afin d’aider les entreprises du Sud de l’Ontario à renforcer leur résilience commerciale et à conquérir de nouveaux marchés européens",
-      "sum": "L’honorable Evan Solomon, ministre de l’Intelligence artificielle et de l’Innovation numérique et ministre responsable de l’Agence fédérale de développement économique pour le Sud de l’Ontario (FedDev Ontario), fera une annonce importante à l’appui de la résilience commerciale dans le Sud de l’Ontario.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Solomon annonce soutien aux entreprises du Sud-Ontario",
+      "sum": "Le ministre de l'Intelligence artificielle et de l'Innovation numérique annonce un nouveau programme d'aide pour les entreprises du Sud de l'Ontario. Ce soutien vise à renforcer leur résilience commerciale et à les aider à accéder aux marchés européens.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "3e340e77abd36822",
       "date": "2026-07-29",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/transports-canada/nouvelles/2026/07/lassemblage-des-locomotives-ferroviaires-voyageurs-revient-au-canada-grace-a-un-investissement-de-195-milliard-de-dollars-du-gouvernement-du-canada.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "L’assemblage des locomotives ferroviaires voyageurs revient au Canada grâce à un investissement de 1,95 milliard de dollars du gouvernement du Canada",
-      "sum": "Les chemins de fer ont contribué à bâtir le Canada, en reliant les gens et les communautés sur de vastes distances et en favorisant l’unité du pays. Aujourd’hui, un réseau ferroviaire voyageurs moderne et résilient est essentiel pour soutenir la croissance économique, renforcer l’industrie canadienne et maintenir les liens entre les Canadiens et les Canadiennes.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 1,95 milliard pour l'assemblage de locomotives voyageurs",
+      "sum": "Le gouvernement du Canada investit 1,95 milliard de dollars pour ramener l'assemblage des locomotives ferroviaires voyageurs au pays. Cet investissement vise à soutenir la croissance économique et renforcer l'industrie ferroviaire canadienne.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "985aa562167c3bce",
@@ -3503,9 +3537,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce un soutien qui aidera une entreprise néo-brunswickoise à se moderniser, à livrer concurrence et à percer de nouveaux marchés",
-      "sum": "Renforcer la productivité et les chaînes d’approvisionnement canadiennes dans un contexte de marchés internationaux en évolution",
-      "cat": "Innovation, science & industry"
+      "title": "Canada soutient modernisation entreprise Nouveau-Brunswick",
+      "sum": "Le gouvernement du Canada annonce un soutien financier pour une entreprise du Nouveau-Brunswick afin de l'aider à se moderniser et à accéder à de nouveaux marchés. Cette mesure vise à renforcer la productivité et les chaînes d'approvisionnement canadiennes.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "d597016f5f6fe843",
@@ -3515,9 +3550,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada appuie le développement économique à Markham",
-      "sum": "L’investissement de FedDev Ontario aidera Markham à élargir ses activités tout en organisant un événement de classe mondiale afin d’attirer des visiteurs et de stimuler le développement économique local",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada soutient le développement économique à Markham",
+      "sum": "FedDev Ontario investit pour aider Markham à élargir ses activités et organiser un événement international. Cet appui vise à attirer des visiteurs et stimuler le développement économique local.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "4c882d41b4925bd0",
@@ -3527,9 +3563,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les agents de l'ASFC saisissent 380 kg de méthamphétamine et de cocaïne au point d'entrée de Coutts en Alberta",
-      "sum": "Les agents de l'#ASFC au point d'entrée de Coutts, Alberta, ont saisi 380 kg de méthamphétamine et de cocaïne dissimulés dans un camion de transport commercial.",
-      "cat": "Transportation"
+      "title": "ASFC saisit 380 kg de drogues illégales à Coutts en Alberta",
+      "sum": "Des agents de l'Agence des services frontaliers du Canada ont saisi 380 kilogrammes de méthamphétamine et de cocaïne cachés dans un camion commercial au point d'entrée de Coutts en Alberta.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "81d7f4e0687b7a35",
@@ -3539,9 +3576,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Julie Dabrusin annoncera du nouveau financement destiné aux infrastructures pour les véhicules électriques et l’éducation dans l’ensemble du Canada",
-      "sum": "Les représentants des médias sont priés de noter que l’honorable Julie Dabrusin, ministre de l’Environnement, du Changement climatique et de la Nature, annoncera du nouveau financement destiné aux infrastructures pour les véhicules électriques et l’éducation dans l’ensemble du Canada.",
-      "cat": "Infrastructure"
+      "title": "Nouveau financement annoncé pour infrastructures véhicules électriques et éducation",
+      "sum": "La ministre de l'Environnement annoncera du financement destiné aux infrastructures de recharge pour véhicules électriques et à l'éducation à travers le Canada.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "7947bcc6a25c6755",
@@ -3551,9 +3589,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Bâtir un Canada fort en investissant dans le complexe récréatif polyvalent de Saint John",
-      "sum": "À cette fin, l’honorable Wayne Long, secrétaire d’État de l’Agence du revenu du Canada et des Institutions financières et député de Saint John—Kennebecasisa, et Donna Noade Reardon, mairesse de la Ville de Saint John, ont annoncé un investissement fédéral pouvant atteindre 29,8 millions de dollars et une contribution municipale de 20 millions de dollars pour le complexe récréatif polyvalent de Saint John dans le…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 29,8 millions pour complexe récréatif Saint John",
+      "sum": "Le gouvernement fédéral annonce un investissement de jusqu'à 29,8 millions de dollars pour la construction d'un complexe récréatif polyvalent à Saint John, en Nouvelle-Écosse. La Ville de Saint John contribue 20 millions de dollars au projet.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "f57a709f8c744607",
@@ -3563,9 +3602,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Santé Canada obtient une injonction permanente interdisant à Canlab Research la vente illégale de peptides injectables au Canada",
-      "sum": "Le 11 juin 2026, la Cour supérieure du Québec a accordé à Santé Canada une injonction permanente contre Canlab Research et ses représentants. Cette injonction interdit à l’entreprise de commercialiser au Canada des peptides injectables non autorisés.",
-      "cat": "Innovation, science & industry"
+      "title": "Santé Canada obtient injonction contre vente illégale de peptides",
+      "sum": "Le 11 juin 2026, la Cour supérieure du Québec a accordé une injonction permanente à Santé Canada interdisant à Canlab Research de vendre des peptides injectables non autorisés au Canada.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "0ccf7846c4522f05",
@@ -3575,9 +3615,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Un pêcheur récréatif condamné à une amende de 5 500 $ pour de multiples infractions à la Loi sur les pêches commises dans la baie Burrard, en Colombie-Britannique",
-      "sum": "Le non-respect des règlements canadiens en matière de pêche nuit aux efforts de conservation et menace la durabilité des ressources halieutiques pour les communautés autochtones, les pêcheurs récréatifs et les exploitants commerciaux. Les agents des pêches de Pêches et Océans Canada (MPO) jouent un rôle essentiel dans la protection du poisson et de son habitat grâce à leurs activités d’application de la loi, de…",
-      "cat": "Wildlife"
+      "title": "Pêcheur récréatif condamné à une amende pour infractions à la Loi sur les pêches",
+      "sum": "Un pêcheur récréatif a reçu une amende de 5 500 $ pour avoir enfreint plusieurs règlements fédéraux de pêche dans la baie Burrard, en Colombie-Britannique. Le non-respect de ces règlements compromet les efforts de conservation et la durabilité des ressources halieutiques.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "a76964585c5d37a7",
@@ -3587,9 +3628,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisie d’objets interdits et non autorisés au Pénitencier de la Saskatchewan",
-      "sum": "Le 25 et 27 juillet 2026, grâce à la vigilance du personnel, des colis contenant des objets interdits et non autorisés ont été saisis au Pénitencier de la Saskatchewan.",
-      "cat": "Housing"
+      "title": "Saisie d'objets interdits au Pénitencier de la Saskatchewan",
+      "sum": "Du personnel du Pénitencier de la Saskatchewan a saisi des colis contenant des objets interdits et non autorisés les 25 et 27 juillet 2026. Ces saisies ont été effectuées grâce à la vigilance des employés de l'établissement.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "e07bf51fb86da7a8",
@@ -3599,9 +3641,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral investit dans l’amélioration du transport actif et de l’accessibilité à Antigonish",
-      "sum": "Jaime Battiste, secrétaire parlementaire de la ministre des Relations Couronne-Autochtones et député de Cape Breton—Canso—Antigonish, et Sean Cameron, maire d’Antigonish, en ont fait l’annonce.",
-      "cat": "Transportation"
+      "title": "Le gouvernement fédéral investit dans le transport actif à Antigonish",
+      "sum": "Le gouvernement fédéral annonce un investissement destiné à améliorer le transport actif et l'accessibilité à Antigonish. L'annonce a été faite par le secrétaire parlementaire de la ministre des Relations Couronne-Autochtones et le maire d'Antigonish.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "01ebcf442099d192",
@@ -3611,9 +3654,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des investissements fédéraux appuient le système sportif canadien en Alberta, du terrain de jeu au podium",
-      "sum": "Le secrétaire d’État van Koeverden a conclu une visite de deux jours à Calgary et à Canmore, où il a rencontré des jeunes, des athlètes inspirants, des entraîneurs, des bénévoles et des dirigeants sportifs, et souligné des investissements fédéraux dans le sport et les loisirs pour l’Alberta.",
-      "cat": "Innovation, science & industry"
+      "title": "Investissements fédéraux pour le sport et les loisirs en Alberta",
+      "sum": "Le secrétaire d'État van Koeverden a visité Calgary et Canmore pour rencontrer des jeunes, athlètes, entraîneurs et dirigeants sportifs. Il a présenté des investissements fédéraux destinés à soutenir le système sportif et les loisirs en Alberta.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "66ecc966a9bcd7a6",
@@ -3623,9 +3667,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Victoria",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Will Greaves, député de Victoria, de Darlene Rotchford, députée provinciale d’Esquimalt-Colwood, de Jenna Stoner, première vice-présidente de l’Union des municipalités de la Colombie Britannique (UBCM), et de Cliff McNeil-Smith, président du district régional de la capitale (CRD) et maire de Sidney.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce conjointe sur l'infrastructure à Victoria",
+      "sum": "Des représentants fédéraux, provinciaux et municipaux tiendront une conférence de presse à Victoria pour annoncer une initiative d'infrastructure. L'événement réunira le député fédéral Will Greaves, la députée provinciale Darlene Rotchford, et des dirigeants municipaux de la région.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "15c25cf25424e6e4",
@@ -4138,9 +4183,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Plusieurs accusations portées dans le cadre d’une escroquerie liée à un service de passeports en ligne trompeur",
-      "sum": "Plusieurs accusations portées dans le cadre d’une escroquerie liée à un service de passeports en ligne trompeur Le 28 juillet 2026, GATINEAU (Québec), Bureau de la concurrence",
-      "cat": "Economy"
+      "title": "Accusations portées dans une escroquerie de service de passeport en ligne",
+      "sum": "Le Bureau de la concurrence a porté plusieurs accusations le 28 juillet 2026 concernant une escroquerie impliquant un service frauduleux de demande de passeport en ligne.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "2c497457471edb74",
@@ -4150,9 +4196,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Renforcement des mesures visant à protéger les pêcheurs indépendants canadiens et leurs communautés côtières",
-      "sum": "Aujourd’hui, l’honorable Joanne Thompson, ministre des Pêches, a annoncé deux mesures visant à garantir que les retombées économiques de la pêche continuent de profiter aux pêcheurs indépendants et à leurs communautés.",
-      "cat": "Economy"
+      "title": "Deux mesures pour protéger pêcheurs indépendants canadiens",
+      "sum": "La ministre des Pêches annonce deux mesures visant à assurer que les avantages économiques de la pêche continuent de bénéficier aux pêcheurs indépendants et à leurs communautés côtières.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "9c8487fa5ff64135",
@@ -4162,21 +4209,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Renforcer l’accès à de nouveaux marchés : possibilités d’exportation des bleuets canadiens vers les Philippines",
-      "sum": "Le gouvernement du Canada prend des mesures pour élargir et diversifier les marchés du secteur canadien des bleuets, en aidant les producteurs à exporter leurs produits de grande qualité vers les marchés internationaux.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada facilite l'exportation de bleuets vers les Philippines",
+      "sum": "Le gouvernement du Canada prend des mesures pour aider les producteurs de bleuets à accéder au marché des Philippines et à diversifier leurs débouchés internationaux.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "070dac6a7bc2010f",
       "date": "2026-07-28",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/07/un-investissement-federal-aide-un-fabricant-de-dartmouth-a-produire-plus-rapidement-des-pieces-essentielles.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Un investissement fédéral aide un fabricant de Dartmouth à produire plus rapidement des pièces essentielles",
-      "sum": "Les fabricants canadiens robustes sont essentiels pour bâtir une économie plus productive et résiliente. Ils créent de bons emplois, renforcent les chaînes d’approvisionnement et aident les entreprises à être concurrentielles et à se développer.",
-      "cat": "Innovation, science & industry"
+      "title": "Investissement fédéral pour accélérer la production de pièces essentielles",
+      "sum": "Le gouvernement fédéral investit pour aider un fabricant de Dartmouth à augmenter sa vitesse de production de pièces essentielles. Cet appui vise à renforcer les capacités de fabrication canadienne et les chaînes d'approvisionnement.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "a7a520632badf79a",
@@ -4186,9 +4235,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada appuiera le développement économique à Markham",
-      "sum": "L’honorable Evan Solomon, ministre de l’Intelligence artificielle et de l’Innovation numérique et ministre responsable de l’Agence fédérale de développement économique pour le Sud de l’Ontario (FedDev Ontario), fera une annonce importante à l’appui du développement économique à Markham.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada soutient développement économique à Markham",
+      "sum": "Le ministre de l'Intelligence artificielle et de l'Innovation numérique annoncera des mesures de soutien pour le développement économique à Markham, en Ontario.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "2892498f7f7527b7",
@@ -4198,21 +4248,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada appuie le soccer à Calgary et partout au pays",
-      "sum": "Le secrétaire d’État van Koeverden annonce un engagement en faveur d’un nouveau terrain de soccer communautaire à Calgary. Un financement fédéral soutient le projet de la Fondation Bon départ de Canadian Tire, qui vise à construire jusqu’à 25 terrains du genre à travers le Canada pour permettre à plus d’enfants de pratiquer un sport, du terrain de jeu jusqu’au podium.",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada finance des terrains de soccer communautaires à Calgary",
+      "sum": "Le gouvernement du Canada annonce un financement fédéral pour soutenir la construction d'un nouveau terrain de soccer communautaire à Calgary. Ce projet, mené par la Fondation Bon départ de Canadian Tire, vise à construire jusqu'à 25 terrains similaires au pays pour permettre aux enfants d'accéder à la pratique du soccer.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "a5bd16b82e7bd4df",
       "date": "2026-07-28",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/developpement-economique-sud-ontario/nouvelles/2026/07/les-investissements-du-gouvernement-du-canada-aideront-les-entreprises-de-la-region-de-niagara-a-sadapter-et-a-stimuler-linnovation.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Les investissements du gouvernement du Canada aideront les entreprises de la région de Niagara à s’adapter et à stimuler l’innovation",
-      "sum": "FedDev Ontario investit plus de 11,3 millions de dollars pour permettre à 13 entreprises de renforcer leurs opérations et de saisir de nouvelles possibilités dans la région de Niagara",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 11,3 millions dans entreprises région Niagara",
+      "sum": "Le gouvernement du Canada fournit plus de 11,3 millions de dollars à 13 entreprises de la région de Niagara pour renforcer leurs opérations et stimuler l'innovation. Cet investissement vise à aider ces entreprises à s'adapter et à saisir de nouvelles opportunités commerciales.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "4d0ca7877819c3ab",
@@ -4222,9 +4274,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Treize entreprises de la région de Niagara reçoivent du soutien pour renforcer leur résilience et se développer",
-      "sum": "Aujourd’hui, Chris Bittle, député de St. Catharines, au nom de l’honorable Evan Solomon, ministre de l’Intelligence artificielle et de l’Innovation numérique et ministre responsable de l’Agence fédérale de développement économique pour le Sud de l’Ontario (FedDev Ontario), a annoncé un investissement combiné de plus de 11,3 millions de dollars pour aider 13 entreprises de la région de Niagara à renforcer leur…",
-      "cat": "Innovation, science & industry"
+      "title": "Treize entreprises de Niagara reçoivent 11,3 millions de dollars",
+      "sum": "Le gouvernement fédéral investit plus de 11,3 millions de dollars pour soutenir 13 entreprises de la région de Niagara. Cet investissement vise à renforcer la résilience et le développement de ces entreprises.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "90e3b572c9becdaf",
@@ -4234,9 +4287,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Sidhu annoncera les prochaines étapes de l’approche du Canada en matière de diversification du commerce",
-      "sum": "Le 28 juillet 2026 – Le ministre du Commerce international, l’honorable Maninder Sidhu, fera une annonce importante concernant la stratégie de diversification du commerce du Canada. Une conférence de presse suivra.",
-      "cat": "Foreign affairs"
+      "title": "Canada annonce prochaines étapes diversification commerciale",
+      "sum": "Le ministre du Commerce international fera une annonce importante le 28 juillet 2026 concernant la stratégie de diversification du commerce du Canada. Une conférence de presse suivra cette annonce.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "d05bec3b0ef623bc",
@@ -4246,9 +4300,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada prend des mesures pour protéger les emplois dans le secteur canadien du bois d’œuvre résineux et annonce son appui à une entreprise de bois d’œuvre",
-      "sum": "Aujourd’hui, l’honorable François-Philippe Champagne, ministre des Finances et du Revenu national, a annoncé que le gouvernement fédéral accordera un prêt de 60 millions de dollars à Arbec Bois d’œuvre Inc. dans le cadre du Crédit pour les grandes entreprises touchées par les droits de douane. Le financement aidera l’entreprise à poursuivre ses activités, à adopter un modèle d’affaires moins tributaire des…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada accorde un prêt de 60 millions à une entreprise de bois d'œuvre",
+      "sum": "Le gouvernement fédéral annonce un prêt de 60 millions de dollars à Arbec Bois d'œuvre Inc. pour soutenir l'entreprise touchée par les droits de douane. Ce financement vise à aider l'entreprise à poursuivre ses activités et à adapter son modèle d'affaires.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "4109660a6fcff816",
@@ -4258,9 +4313,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Le gouvernement du Canada soutient le renforcement et la promotion du français en Saskatchewan",
-      "sum": "Le gouvernement du Canada soutient la vitalité du français en Saskatchewan.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada soutient le renforcement du français en Saskatchewan",
+      "sum": "Le gouvernement du Canada appuie les initiatives visant à renforcer et promouvoir la langue française en Saskatchewan. Cette mesure s'inscrit dans le soutien à la vitalité du français dans la province.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "4d6ee256e08ad470",
@@ -4270,9 +4326,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada soutient le renforcement et la promotion du français en Saskatchewan",
-      "sum": "Le gouvernement du Canada soutient la vitalité du français en Saskatchewan.",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada soutient le renforcement du français en Saskatchewan",
+      "sum": "Le gouvernement du Canada appuie les efforts visant à renforcer et promouvoir la langue française en Saskatchewan. Cette mesure vise à soutenir la vitalité du français dans la province.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "baa02e71994799cc",
@@ -4282,9 +4339,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Saint John",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de l’honorable Wayne Long, secrétaire d’État de l’Agence du revenu du Canada et des Institutions financières et député de Saint John—Kennebecasis, ainsi que de Donna Noade Reardon, mairesse de la Ville de Saint John.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Saint John avec Wayne Long",
+      "sum": "Une annonce concernant des projets d'infrastructure à Saint John sera faite en présence du secrétaire d'État Wayne Long et de la mairesse Donna Noade Reardon.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "774a7a8df605d9f7",
@@ -4294,9 +4352,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annoncera un investissement majeur dans la flotte de locomotives de voyageurs pour renforcer les connexions à travers le pays",
-      "sum": "Le ministre des Transports et leader du gouvernement à la Chambre des communes, l’honorable Steven MacKinnon, va annoncer un investissement majeur pour renouveler la flotte de locomotives de voyageurs afin de renforcer les connexions à travers le Canada.",
-      "cat": "Transportation"
+      "title": "Canada annonce investissement majeur pour renouveler flotte locomotives voyageurs",
+      "sum": "Le gouvernement du Canada annoncera un investissement majeur pour renouveler la flotte de locomotives de passagers. Cet investissement vise à renforcer les connexions ferroviaires à travers le pays.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "ceedff7a8eaacc96",
@@ -4306,9 +4365,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Antigonish",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Jaime Battiste, secrétaire parlementaire de la ministre des Relations Couronne-Autochtones et député de Cape Breton—Canso—Antigonish, et de Sean Cameron, maire d’Antigonish.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Antigonish en Nouvelle-Écosse",
+      "sum": "Le gouvernement fédéral tiendra une annonce concernant des projets d'infrastructure à Antigonish. L'événement réunira Jaime Battiste, secrétaire parlementaire, et le maire local Sean Cameron.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "ab4bf6d035435258",
@@ -4318,9 +4378,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre McGuinty réunit des responsables de l’industrie et des investisseurs pour accélérer la mise en œuvre de la Stratégie industrielle de Défense du Canada",
-      "sum": "Dans un monde de plus en plus incertain, le Canada se concentre sur ce qu’il peut contrôler : rebâtir et réarmer les Forces armées canadiennes (FAC), ainsi que réinvestir dans celles-ci, dans le but de garantir qu’elles ont les capacités nécessaires pour préserver sa souveraineté.",
-      "cat": "Innovation, science & industry"
+      "title": "McGuinty réunit l'industrie et investisseurs pour la stratégie défense",
+      "sum": "Le ministre McGuinty organise une rencontre avec des représentants de l'industrie et des investisseurs pour accélérer la mise en œuvre de la Stratégie industrielle de Défense du Canada. L'objectif est de renforcer et réarmer les Forces armées canadiennes afin de préserver la souveraineté nationale.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "a87ed43e2686b4e3",
@@ -4330,9 +4391,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "En ligne dès le 17 août sur la plateforme de l'ONF. Trois nouveaux courts métrages documentaires animés sur la maternité, l’adoption et l’humanité des soins de santé .",
-      "sum": "L’Office national du film du Canada (ONF) lance gratuitement en ligne, le 17 août, trois nouveaux courts métrages documentaires animés réalisés au terme d’Alambic, un parcours de création de six mois : Hôpital, mon amour de Carine Khalifé, Matrescence d’Elizabeth Laferrière et Pertes ambiguës de Fanny Lord-Bourcier.",
-      "cat": "Justice"
+      "title": "L'ONF lance trois nouveaux courts métrages documentaires animés",
+      "sum": "L'Office national du film du Canada publie gratuitement en ligne trois nouveaux courts métrages documentaires animés le 17 août. Ces films, réalisés par trois cinéastes, explorent des thèmes liés à la maternité, l'adoption et les soins de santé.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "c2805b39b3ebc4c5",
@@ -4342,9 +4404,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Deux documentaires de cinéastes autochtones présentés en première le mois prochain. Nirilaurta : souveraineté alimentaire, de Malaya Qaunirq Chapman, et Moon Noonk Edouard, de Jessie Ray Short, à l’affiche le 6 août au Festival international Présence autochtone.",
-      "sum": "Deux nouveaux documentaires de l’Office national du film du Canada réalisés par des cinéastes autochtones seront l’un et l’autre présentés en première le 6 août à 19 h à la salle Alanis-Obomsawin de l’ONF, à l’occasion du Festival international Présence autochtone de Montréal.",
-      "cat": "Foreign affairs"
+      "title": "Deux documentaires autochtones en première au festival montréalais",
+      "sum": "L'Office national du film du Canada présente deux nouveaux documentaires réalisés par des cinéastes autochtones le 6 août à Montréal. Les films « Nirilaurta : souveraineté alimentaire » et « Moon Noonk Edouard » seront présentés en première au Festival international Présence autochtone.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "64d09c3b29108b14",
@@ -4778,9 +4841,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada fera une annonce concernant un nouveau laboratoire de contre-mesures médicales à Winnipeg",
-      "sum": "Terry Duguid, député de Winnipeg-Sud, au nom de l’honorable Marjorie Michel, ministre de la Santé, et Joël Lightbound, ministre de la Transformation du gouvernement, des Travaux publics et de l’Approvisionnement et lieutenant du Québec, tiendraune conférence de presse pour annoncer la création d’un nouveau laboratoire de contre-mesures médicales à Winnipeg.",
-      "cat": "Housing"
+      "title": "Canada annonce nouveau laboratoire contre-mesures médicales Winnipeg",
+      "sum": "Le gouvernement du Canada créera un nouveau laboratoire de contre-mesures médicales à Winnipeg. Cette annonce sera faite lors d'une conférence de presse par des représentants du gouvernement fédéral.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "c886a2d9071d631c",
@@ -4790,9 +4854,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada stimule la croissance du secteur manufacturier à Dartmouth",
-      "sum": "Le soutien à la modernisation et à l’innovation augmentera la productivité, renforcera les chaînes d’approvisionnement et ouvrira de nouveaux marchés",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada soutient la modernisation manufacturière à Dartmouth",
+      "sum": "Le gouvernement du Canada fournit un soutien pour moderniser et innover dans le secteur manufacturier à Dartmouth. Cette aide vise à augmenter la productivité, renforcer les chaînes d'approvisionnement et créer de nouvelles opportunités commerciales.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "bbb20adaff34fde9",
@@ -4802,9 +4867,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire parlementaire Oliphant représentera le Canada lors de la cérémonie d’investiture présidentielle au Pérou",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui que le secrétaire parlementaire de la ministre des Affaires étrangères, Robert Oliphant, se rendra à Lima, au Pérou, du 27 au 28 juillet 2026, afin de représenter le gouvernement du Canada lors de l’investiture de la présidente désignée, Keiko Fujimori, et d’ouvrir de nouvelles possibilités avec l’un des partenaires les plus…",
-      "cat": "Innovation, science & industry"
+      "title": "Représentant canadien à l'investiture présidentielle péruvienne",
+      "sum": "Le secrétaire parlementaire Robert Oliphant représentera le Canada à la cérémonie d'investiture de la présidente péruvienne Keiko Fujimori à Lima, les 27 et 28 juillet 2026. Cette visite vise à renforcer les relations entre le Canada et le Pérou.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "5aad80fffc4b170a",
@@ -4814,33 +4880,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les ministres des Anciens Combattants et de la Défense nationale rendent hommage aux vétérans de la guerre de Corée à l’occasion de la Journée des anciens combattants de la guerre de Corée",
-      "sum": "Aujourd’hui, l’honorable Jill McKnight, ministre des Anciens Combattants et ministre associée de la Défense nationale, et l’honorable David J. McGuinty, ministre de la Défense nationale, ont publié la déclaration suivante :",
-      "cat": "Economy"
+      "title": "Ministres rendent hommage aux vétérans de la guerre de Corée",
+      "sum": "Les ministres des Anciens Combattants et de la Défense nationale ont publié une déclaration à l'occasion de la Journée des anciens combattants de la guerre de Corée.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "c127ceb0e69ed857",
       "date": "2026-07-27",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/07/notice-biographique--nomination-diplomatique.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Notice biographique – Nomination diplomatique",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui la nomination diplomatique suivante",
-      "cat": "Foreign affairs"
+      "title": "Nomination d'un diplomate annoncée par la ministre",
+      "sum": "La ministre des Affaires étrangères a annoncé une nomination diplomatique. Les détails spécifiques du poste et du candidat ne sont pas fournis dans cet avis.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "9df0b95639ebd392",
       "date": "2026-07-27",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/07/annonce-dune-nouvelle-nomination-diplomatique0.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce d’une nouvelle nomination diplomatique",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui la nomination diplomatique suivante",
-      "cat": "Foreign affairs"
+      "title": "Nouvelle nomination diplomatique annoncée par Affaires étrangères",
+      "sum": "La ministre des Affaires étrangères a annoncé une nouvelle nomination diplomatique. Les détails spécifiques de cette nomination ne sont pas fournis dans cette annonce préliminaire.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "f9a11648a55fd697",
@@ -4850,9 +4919,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annoncera du soutien aux entreprises de la région de Niagara",
-      "sum": "Chris Bittle, député de St. Catharines, au nom de l’honorable Evan Solomon, ministre de l’Intelligence artificielle et de l’Innovation numérique et ministre responsable de l’Agence fédérale de développement économique pour le Sud de l’Ontario (FedDev Ontario), fera une annonce importante à l’appui de la croissance, de l’innovation et de la compétitivité du secteur de la fabrication dans la région de Niagara.",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada annonce un soutien aux entreprises de Niagara",
+      "sum": "Le gouvernement du Canada annoncera du soutien destiné aux entreprises de la région de Niagara pour favoriser la croissance, l'innovation et la compétitivité du secteur manufacturier. Cette annonce sera faite par le député Chris Bittle au nom du ministre de l'Intelligence artificielle et de l'Innovation numérique.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "883e93449cfff38d",
@@ -4862,9 +4932,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce un soutien sous forme de prêt à Millar Western Forest Products Ltd.",
-      "sum": "Le secteur forestier canadien subit les effets des différends commerciaux en cours, tout particulièrement ceux entre les États-Unis et la Chine, qui ont entraîné des conditions de marché défavorables pour le bois d’œuvre résineux, la pâte de bois et d’autres produits forestiers, ce qui suscite de l’incertitude économique persistante pour les travailleurs et leurs familles.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada annonce un prêt à Millar Western Forest Products",
+      "sum": "Le gouvernement du Canada accorde un soutien financier sous forme de prêt à Millar Western Forest Products Ltd. Cette aide fait suite aux difficultés du secteur forestier canadien causées par les différends commerciaux entre les États-Unis et la Chine, qui ont créé des conditions de marché difficiles.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "68b6f0f500dc6412",
@@ -4874,9 +4945,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce un soutien pour Ocean Steel & Construction Ltd.",
-      "sum": "Le gouvernement du Canada annonce un soutien pour Ocean Steel & Construction Ltd.",
-      "cat": "Infrastructure"
+      "title": "Canada annonce soutien à Ocean Steel & Construction Ltd",
+      "sum": "Le gouvernement du Canada a annoncé une aide financière ou un soutien destiné à l'entreprise Ocean Steel & Construction Ltd. Les détails spécifiques du soutien n'ont pas été précisés dans cette annonce.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "8cf345914a03a308",
@@ -4886,9 +4958,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La Garde côtière canadienne impose une amende de 75 000 $ pour un navire dangereux",
-      "sum": "En avril 2026, la Garde côtière canadienne, en vertu de la Loi sur les épaves et les bâtiments abandonnés ou dangereux, a imposé une sanction administrative pécuniaire de 75 000 $ au propriétaire du NM Breeze, remorqueur en bois de 27 mètres en cours de détérioration sur le fleuve Fraser à Richmond, en Colombie-Britannique.",
-      "cat": "Foreign affairs"
+      "title": "Garde côtière impose amende de 75 000 $ pour navire dangereux",
+      "sum": "La Garde côtière canadienne a imposé une amende de 75 000 $ au propriétaire d'un remorqueur en détérioration sur le fleuve Fraser en Colombie-Britannique. Cette sanction a été donnée en vertu de la Loi sur les épaves et les bâtiments abandonnés ou dangereux.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "4c73b4bec7ba0474",
@@ -4898,9 +4971,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Fermeture complète du pont Alexandra",
-      "sum": "Services publics et Approvisionnement Canada souhaite informer le public que le pont Alexandra sera fermé le 29 juillet et les 1er, 5, 8, 12 et 15 août prochains. Durant ces périodes, le pont sera fermé et patrouillé, par mesure de sécurité, à l’occasion de l’événement Les Grands Feux du Casino Lac-Leamy.",
-      "cat": "Innovation, science & industry"
+      "title": "Fermetures du pont Alexandra pour événement pyrotechnique",
+      "sum": "Le pont Alexandra sera fermé à plusieurs dates en juillet et août pour des raisons de sécurité lors de l'événement Les Grands Feux du Casino Lac-Leamy. Le pont sera patrouillé durant ces périodes de fermeture.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "846019a32daa74e9",
@@ -4910,9 +4984,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État van Koeverden annonce un soutien accru pour les athlètes canadiens",
-      "sum": "Le gouvernement du Canada améliore le Programme d’aide aux athlètes afin qu’il soit plus facile pour les athlètes canadiens de se concentrer sur leur entraînement, leurs compétitions et leur réussite sur la scène internationale",
-      "cat": "Foreign affairs"
+      "title": "Gouvernement augmente soutien aux athlètes canadiens",
+      "sum": "Le secrétaire d'État van Koeverden annonce une amélioration du Programme d'aide aux athlètes. Cette mesure vise à faciliter la concentration des athlètes canadiens sur l'entraînement et les compétitions internationales.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "6563eb5189df1c61",
@@ -4922,21 +4997,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Bâtir un Canada fort du terrain de jeu au podium — Le gouvernement du Canada fait des investissements importants en Alberta",
-      "sum": "Le gouvernement du Canada renforce le pays par l’entremise du sport. Du terrain de jeux au podium, nous investissons dans les collectivités, soutenons les athlètes et rassemblons les Canadiens, car le sport est le meilleur moyen de forger une nation.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit dans le sport et les athlètes en Alberta",
+      "sum": "Le gouvernement du Canada annonce des investissements importants dans le sport en Alberta, visant à soutenir les collectivités, les athlètes et à promouvoir l'unité nationale par le sport.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "fb060146dbc00ecf",
       "date": "2026-07-27",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/developpement-economique-sud-ontario/nouvelles/2026/07/le-gouvernement-du-canada-soutient-la-croissance-et-la-competitivite-de-trois-entreprises-de-burlington.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada soutient la croissance et la compétitivité de trois entreprises de Burlington",
-      "sum": "FedDev Ontario investit 7,5 millions de dollars pour aider les entreprises à intensifier leurs activités et à créer de nouvelles perspectives de croissance",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada investit 7,5 millions pour trois entreprises de Burlington",
+      "sum": "FedDev Ontario accorde 7,5 millions de dollars à trois entreprises de Burlington pour soutenir leur croissance et leurs activités. Cet investissement vise à créer de nouvelles perspectives économiques pour ces entreprises.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "290fe1d50ed6b596",
@@ -4946,21 +5023,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada soutient le renforcement et la promotion du français en Saskatchewan",
-      "sum": "Le gouvernement du Canada soutient la vitalité du français en Saskatchewan",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada soutient le renforcement du français en Saskatchewan",
+      "sum": "Le gouvernement du Canada appuie les efforts visant à renforcer et promouvoir la langue française en Saskatchewan. Cette mesure vise à soutenir la vitalité du français dans la province.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "620b47281631e3ba",
       "date": "2026-07-27",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/le-gouvernement-du-canada-et-le-conseil-ismaelien-du-canada-signent-un-protocole-dentente-pour-favoriser-la-construction-de-logements-abordables-da.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada et le Conseil ismaélien du Canada signent un protocole d’entente pour favoriser la construction de logements abordables dans tout le Canada",
-      "sum": "Le gouvernement du Canada, par l’entremise de Maisons Canada (MC), et le Conseil ismaélien du Canada ont annoncé la signature d’un protocole d’entente qui établira un cadre de collaboration pour cibler, évaluer et faire avancer des initiatives en matière de logement qui contribueront à construire davantage de logements abordables pour les Canadiens.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Conseil ismaélien signent accord logements abordables",
+      "sum": "Le gouvernement du Canada et le Conseil ismaélien du Canada ont signé un protocole d'entente pour collaborer à la construction de logements abordables. Cet accord établit un cadre pour identifier et développer des initiatives de logement partout au Canada.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "660f481bbe7edd7f",
@@ -4970,21 +5049,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisie d’objets interdits et non autorisés à l’Établissement de Cowansville",
-      "sum": "Le 20 et 22 juillet 2026, grâce à la vigilance du personnel, des objets interdits et non autorisés ont été saisis à l’Établissement de Cowansville, un établissement fédéral à sécurité moyenne.",
-      "cat": "Innovation, science & industry"
+      "title": "Saisie d'objets interdits à l'Établissement de Cowansville",
+      "sum": "Le 20 et 22 juillet 2026, du personnel de l'Établissement de Cowansville a saisi des objets interdits et non autorisés dans cet établissement fédéral à sécurité moyenne.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "7f186c20db17f63e",
       "date": "2026-07-27",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/07/le-gouvernement-du-canada-appuie-les-championnats-du-monde-de-basketball-en-fauteuil-roulant-de-liwbf-2026-poursuivant-ainsi-la-tradition-canadienn.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada appuie les Championnats du monde de basketball en fauteuil roulant de l’IWBF 2026, poursuivant ainsi la tradition canadienne en matière d’accueil de rencontres sportives",
-      "sum": "L’Année du sport au Canada se poursuit alors que le gouvernement fédéral finance les Championnats du monde de basketball en fauteuil roulant de l’IWBF 2026 à Ottawa.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada finance les Championnats du monde de basketball en fauteuil roulant 2026",
+      "sum": "Le gouvernement fédéral finance les Championnats du monde de basketball en fauteuil roulant de l'IWBF 2026, qui se tiendront à Ottawa. Cette initiative s'inscrit dans l'Année du sport au Canada.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "0028950808fe7656",
@@ -4994,9 +5075,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et les Territoires du Nord-Ouest s’associent pour bâtir davantage de logements et d’infrastructures essentielles",
-      "sum": "Pour bâtir un Canada fort, il faut d’abord augmenter l’offre de logements, renforcer les infrastructures et soutenir les collectivités qui s’agrandissent.",
-      "cat": "Infrastructure"
+      "title": "Canada et Territoires du Nord-Ouest collaborent pour logements et infrastructures",
+      "sum": "Le Canada et les Territoires du Nord-Ouest travaillent ensemble pour augmenter l'offre de logements et renforcer les infrastructures essentielles dans les collectivités en croissance.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "f887956bb0f14063",
@@ -5433,9 +5515,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Bâtir un Canada fort en investissant dans un espace culturel et historique acadien",
-      "sum": "L’honorable Dominic LeBlanc, président du Conseil privé du Roi pour le Canada et ministre responsable du Commerce Canada–États-Unis, des Affaires intergouvernementales, du Commerce intérieur et de l’Unité de l’économie canadienne et député de Beauséjour, l’honorable Pat Finnigan, ministre de l’Agricutlture, de l’Aquaculture et des Pêches et député de Kent-Nord, et Danielle Dugas, mairesse de la Ville de Beaurivage,…",
-      "cat": "Natural resources"
+      "title": "Investissement dans un espace culturel acadien",
+      "sum": "Le gouvernement fédéral annonce un investissement dans un espace culturel et historique acadien. Cette initiative implique des ministres fédéraux et des représentants locaux de la région.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "19161977c7580c9b",
@@ -5482,9 +5565,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Anand rencontre Son Altesse le prince Rahim Aga Khan V",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a rencontré aujourd’hui à Vancouver Son Altesse le prince Rahim Aga Khan V afin de discuter de priorités communes liées au développement international, aux partenariats économiques, au logement abordable et à la sécurité régionale.",
-      "cat": "Foreign affairs"
+      "title": "Ministre Anand rencontre le prince Rahim Aga Khan V à Vancouver",
+      "sum": "La ministre des Affaires étrangères Anita Anand a rencontré le prince Rahim Aga Khan V à Vancouver pour discuter de développement international, partenariats économiques, logement abordable et sécurité régionale.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "f2daae6afc36b171",
@@ -5620,6 +5704,18 @@
       "lang": "en"
     },
     {
+      "id": "52e9c653761040ce",
+      "date": "2026-07-24",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRUlEMkhKclgxSWNXTDhzaW9LV1FwWVhvSDRoWXRZVl94TGdZcmhDcF9vczVzTjNDdVZhRF9xaWpoLXdJNDVqWGtiTFUtWVNlQWFFbVRxRzhoQk1xVlk3cDR1Ui1iNjNqMXBnU2FXY083T3NlVFF5VVpwdGFCRHVFVC1Cekl2MUo5b1pfZW1lZVg0R0laSk5pZE5aVXVKZGFXd3hJSmVkOXp1WU9s?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Mark Carney: «oui, il y a des possibilités de représailles» - Le Canada Français",
+      "excerpt": "Mark Carney: «oui, il y a des possibilités de représailles» Le Canada Français",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "4f20bd0c7b52acde",
       "date": "2026-07-24",
       "src": "Gouvernement du Canada",
@@ -5627,9 +5723,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada fera une importante mise à jour concernant le partenariat économique entre le Canada et les Émirats arabes unis",
-      "sum": "Le 23 juillet 2026 – L’honorable Maninder Sidhu, ministre du Commerce international du Canada, tiendra une conférence de presse conjointe avec Son Excellence le Dr Thani bin Ahmed Al Zeyoudi, ministre du Commerce extérieur des Émirats arabes unis (EAU), pour faire une mise à jour concernant les négociations commerciales entre le Canada et les EAU.",
-      "cat": "Foreign affairs"
+      "title": "Canada et Émirats arabes unis annoncent mise à jour commerciale",
+      "sum": "Le ministre canadien du Commerce international et son homologue des Émirats arabes unis tiendront une conférence de presse conjointe le 23 juillet 2026 pour annoncer une mise à jour concernant les négociations commerciales entre les deux pays.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "751a928f35babb0c",
@@ -5639,21 +5736,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annoncera un soutien à la croissance et à la compétitivité d’entreprises de Burlington",
-      "sum": "L’honorable Karina Gould, député de Burlington au nom de l’honorable Evan Solomon, ministre de l’Intelligence artificielle et de l’Innovation numérique et ministre responsable de l’Agence fédérale de développement économique pour le Sud de l’Ontario (FedDev Ontario), fera une annonce importante à l’appui de la croissance, de l’innovation et de la compétitivité des entreprises de Burlington.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada annonce soutien à la croissance des entreprises de Burlington",
+      "sum": "Le gouvernement du Canada annoncera une aide destinée à soutenir la croissance, l'innovation et la compétitivité des entreprises de Burlington. L'annonce sera faite par la députée Karina Gould au nom du ministre de l'Intelligence artificielle et de l'Innovation numérique.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "fcfb3eea780bfd90",
       "date": "2026-07-24",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/un-investissement-federal-et-provincial-permettra-de-rendre-une-salle-communautaire-plus-accessible-a-marystown-t-n-l.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Un investissement fédéral et provincial permettra de rendre une salle communautaire plus accessible à Marystown, T.-N.-L.",
-      "sum": "On procédera à la rénovation de la salle St. Gabriel’s afin d’en améliorer l’accessibilité et l’efficacité énergétique grâce à un investissement totalisant plus de 1,3 million de dollars des gouvernements du Canada et de Terre-Neuve-et-Labrador.",
-      "cat": "Innovation, science & industry"
+      "title": "Rénovation d'une salle communautaire à Marystown",
+      "sum": "Les gouvernements du Canada et de Terre-Neuve-et-Labrador investissent plus de 1,3 million de dollars pour rénover la salle St. Gabriel's. Les travaux amélioreront l'accessibilité et l'efficacité énergétique du bâtiment.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "3fa38a42c8fc00a7",
@@ -5663,9 +5762,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration des ministres de la Santé et de l'Industrie sur le développement du secteur pharmaceutique et des sciences de la vie au Canada",
-      "sum": "Le Groupe de travail a réuni de hauts dirigeants et des experts du secteur pharmaceutique afin d’explorer des solutions innovantes et « faites au Canada ». Ces discussions et ces échanges fructueux ont permis d’approfondir notre compréhension collective des liens qui unissent la santé, l’innovation et la réglementation, et de la manière dont ces éléments interagissent pour favoriser à la fois de meilleurs résultats…",
-      "cat": "Innovation, science & industry"
+      "title": "Ministres annoncent stratégie développement secteur pharmaceutique canadien",
+      "sum": "Les ministres de la Santé et de l'Industrie ont créé un groupe de travail réunissant des dirigeants et experts du secteur pharmaceutique pour explorer des solutions innovantes développées au Canada. Ces discussions visent à améliorer la compréhension des liens entre la santé, l'innovation et la réglementation.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "87db07243c7565fd",
@@ -5675,9 +5775,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Agence des services frontaliers du Canada : Point d'entrée du pont international Gordie-Howe",
-      "sum": "Agence des services frontaliers du Canada : Point d'entrée du pont international Gordie-Howe",
-      "cat": "Foreign affairs"
+      "title": "Pont international Gordie-Howe désigné point d'entrée frontalier",
+      "sum": "Le pont international Gordie-Howe est établi comme point d'entrée officiel de l'Agence des services frontaliers du Canada. Ce pont relie le Canada et les États-Unis et sera utilisé pour le traitement des voyageurs et des marchandises.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "0248e4faba731b54",
@@ -5687,21 +5788,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Table ronde au sujet de la nouvelle Loi sur les médias sociaux sécuritaires",
-      "sum": "Le ministre Miller tiendra une table ronde pour discuter d’une nouvelle mesure législative visant à rendre les réseaux sociaux et les agents conversationnels plus sécuritaires pour les enfants",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Miller organise table ronde sur loi médias sociaux sécuritaires",
+      "sum": "Le ministre Miller tiendra une table ronde pour discuter d'une nouvelle mesure législative visant à rendre les réseaux sociaux et les agents conversationnels plus sécuritaires pour les enfants.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "7704c8f347acd5b6",
       "date": "2026-07-24",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/le-gouvernement-federal-et-dix-communautes-des-premieres-nations-investissent-dans-les-energies-renouvelables-en-nouvelle-ecosse.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral et dix communautés des Premières Nations investissent dans les énergies renouvelables en Nouvelle-Écosse",
-      "sum": "Dix communautés mi’kmaq de la Nouvelle-Écosse produisent leur propre énergie renouvelable grâce à un investissement de plus de 4,8 millions de dollars du gouvernement fédéral et des communautés.",
-      "cat": "Economy"
+      "title": "Gouvernement fédéral investit dans énergies renouvelables Mi'kmaq",
+      "sum": "Le gouvernement fédéral et dix communautés mi'kmaq de la Nouvelle-Écosse reçoivent plus de 4,8 millions de dollars pour développer leurs propres projets d'énergie renouvelable.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "6a24f1700d0f1e9c",
@@ -5711,21 +5814,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Beaurivage",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de l’honorable Dominic LeBlanc, président du Conseil privé du Roi pour le Canada et ministre responsable du Commerce Canada–États-Unis, des Affaires intergouvernementales, du Commerce intérieur et de l’Unité de l’économie canadienne, de l’honorable Pat Finnigan, ministre de l’Agriculture, de l’Aquaculture et des Pêches,…",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Beaurivage avec ministres fédéraux",
+      "sum": "Le gouvernement du Canada tiendra une annonce concernant l'infrastructure à Beaurivage. Des représentants des ministères fédéraux y participeront, notamment le ministre responsable des affaires intergouvernementales et le ministre de l'Agriculture.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "ec076b51bcc2dc6a",
       "date": "2026-07-24",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/07/le-canada-et-lequateur-signent-un-accord-de-libre-echange.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et l’Équateur signent un accord de libre-échange",
-      "sum": "Le ministre du Commerce international, l’honorable Maninder Sidhu, et le ministre de la Production, du Commerce extérieur et des Investissements de l’Équateur, Luis Jaramillo, ont signé l’Accord de libre-échange Canada-Équateur.",
-      "cat": "Foreign affairs"
+      "title": "Canada et l'Équateur signent un accord de libre-échange",
+      "sum": "Le Canada et l'Équateur ont signé un accord de libre-échange. Cet accord a été signé par le ministre canadien du Commerce international et son homologue équatorien.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ba24eedbd28d8a82",
@@ -5735,9 +5840,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisies d’objets interdits et non autorisés à l’Établissement de Collins Bay",
-      "sum": "Entre le 17 et le 21 juillet 2026, grâce à la vigilance du personnel, plusieurs colis contenant des objets interdits et non autorisés ont été saisis à l'Établissement de Collins Bay, un établissement fédéral à niveaux multiples de sécurité.",
-      "cat": "Housing"
+      "title": "Objets interdits saisis à l'Établissement de Collins Bay",
+      "sum": "Entre le 17 et le 21 juillet 2026, le personnel de l'Établissement de Collins Bay a saisi plusieurs colis contenant des objets interdits et non autorisés. Cet établissement fédéral offre plusieurs niveaux de sécurité.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "2bf282edfc112732",
@@ -5747,9 +5853,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et les Émirats arabes unis concluent les négociations en vue d’un accord de partenariat économique global",
-      "sum": "Aujourd’hui, le ministre du Commerce international, l’honorable Maninder Sidhu, et le ministre du Commerce extérieur des Émirats arabes unis, Son Excellence Dr Thani bin Ahmed Al Zeyoudi, se trouvaient à Toronto, en Ontario, pour saluer la conclusion fructueuse des négociations en vue de l’Accord de partenariat économique global (APEG) entre le Canada et les Émirats arabes unis.",
-      "cat": "Foreign affairs"
+      "title": "Canada et Émirats arabes unis concluent négociations d'accord économique",
+      "sum": "Le Canada et les Émirats arabes unis ont terminé les négociations d'un accord de partenariat économique global. Les ministres du Commerce international des deux pays se sont réunis à Toronto pour marquer cette conclusion.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "512479ebfede9111",
@@ -5759,9 +5866,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Yellowknife",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de l’honorable Rebecca Alty, ministre des Relations Couronne-Autochtones, et de l’honorable Lucy Kuptana, ministre responsable d’Habitation Territoires du Nord-Ouest.",
-      "cat": "Infrastructure"
+      "title": "Annonce infrastructure à Yellowknife avec ministres fédéral et territorial",
+      "sum": "Le gouvernement fédéral annonce une initiative d'infrastructure à Yellowknife en collaboration avec le gouvernement des Territoires du Nord-Ouest. La ministre des Relations Couronne-Autochtones et la ministre responsable de l'habitation territoriale participeront à l'annonce.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "f65c807af4b1e062",
@@ -6378,21 +6486,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce d’une nouvelle nomination diplomatique",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui la nomination diplomatique suivante :",
-      "cat": "Foreign affairs"
+      "title": "Ministre des Affaires étrangères annonce nouvelle nomination diplomatique",
+      "sum": "La ministre des Affaires étrangères a annoncé une nouvelle nomination diplomatique. Les détails spécifiques de cette nomination ne sont pas fournis dans cette annonce.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "4b36351688e29e90",
       "date": "2026-07-23",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/07/notes-biographiques--nominations-diplomatiques3.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Notes biographiques – Nominations diplomatiques",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui la nomination diplomatique suivante :",
-      "cat": "Foreign affairs"
+      "title": "Nomination diplomatique annoncée par la ministre des Affaires étrangères",
+      "sum": "La ministre des Affaires étrangères a annoncé une nouvelle nomination diplomatique. Les détails spécifiques du poste et du candidat sont fournis dans les notes biographiques.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "1d69100a63333b9f",
@@ -6402,9 +6512,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les Forces armées canadiennes mènent l’opération LATITUDE pour renforcer les opérations multi-domaines alliées dans les eaux nordiques",
-      "sum": "Les Forces armées canadiennes (FAC) mènent l’opération LATITUDE, une opération récurrente qui démontre la capacité du Canada à conduire régulièrement et efficacement des opérations aux côtés de forces alliées dans les eaux nordiques, y compris la mer de Béring.",
-      "cat": "Innovation, science & industry"
+      "title": "Forces armées canadiennes lancent opération LATITUDE dans eaux nordiques",
+      "sum": "Les Forces armées canadiennes mènent l'opération LATITUDE, une opération régulière visant à démontrer la capacité du Canada à conduire des opérations coordonnées avec les forces alliées dans les eaux nordiques, notamment la mer de Béring.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "d2df7a3873847a6d",
@@ -6414,9 +6525,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et l’Ontario soulignent une autre étape importante du prolongement vers le nord de la ligne de métro Yonge",
-      "sum": "Aujourd’hui, le gouvernement du Canada et la province de l’Ontario ont franchi une autre étape majeure dans la mise en place d’un réseau de transport en commun abordable et fiable dans la région du Grand Toronto (RGT). Les travaux d’excavation du puits de lancement des tunnels pour le prolongement vers le nord de la ligne de métro Yonge sont officiellement terminés. C’est à partir de ce puits que deux tunneliers…",
-      "cat": "Transportation"
+      "title": "Canada et Ontario progressent sur extension métro Yonge nord",
+      "sum": "Le Canada et l'Ontario ont complété les travaux d'excavation du puits de lancement pour le prolongement vers le nord de la ligne de métro Yonge dans la région du Grand Toronto. Cette étape fait partie du développement d'un réseau de transport en commun abordable et fiable.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "ce173464e662017c",
@@ -6426,9 +6538,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et le Nunavut font équipe pour bâtir des infrastructures essentielles et davantage de logements",
-      "sum": "Pour bâtir un Canada fort, il faut d’abord investir dans les infrastructures dont dépendent les gens et les collectivités au quotidien.",
-      "cat": "Infrastructure"
+      "title": "Canada et Nunavut s'associent pour infrastructures et logements",
+      "sum": "Le Canada et le Nunavut collaborent pour développer des infrastructures essentielles et augmenter l'offre de logements. Cette initiative vise à soutenir les collectivités et les résidents du territoire.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "91116096783938d6",
@@ -6438,21 +6551,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Près de 1,7 tonnes de drogues illégales saisies lors du plus important coup de filet en terme de poids réalisé en ontario",
-      "sum": "Une enquête transfrontalière multi juridictionnelle a abouti à la saisie de près de 1,7 tonne de drogues illégales, dont de la cocaïne et la méthamphétamine présumées ainsi que de l'opium présumé, faisant de cette saisie de drogues l'une des plus importantes jamais réalisées dans le cadre d'une seule enquête en Ontario. Appelée Projet Bay, l'enquête policière conjuguée et fondée sur le renseignement visait à déjouer…",
-      "cat": "Innovation, science & industry"
+      "title": "Saisie de 1,7 tonne de drogues illégales en Ontario",
+      "sum": "Une enquête transfrontalière multi-juridictionnelle appelée Projet Bay a abouti à la saisie de près de 1,7 tonne de drogues illégales, incluant de la cocaïne, de la méthamphétamine et de l'opium présumés. Il s'agit de l'une des plus importantes saisies jamais réalisées dans le cadre d'une seule enquête en Ontario.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "c1c56c264cdbf8a1",
       "date": "2026-07-23",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/developpement-economique-sud-ontario/nouvelles/2026/07/le-gouvernement-du-canada-investit-pres-de-405-millions-de-dollars-dans-des-entreprises-et-organisations-des-regions-de-waterloo-et-de-brant-pour-l.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit près de 40,5 millions de dollars dans des entreprises et organisations des régions de Waterloo et de Brant pour leur permettre d’accroître leur capacité et d’être compétitives pour un avenir plus résilient",
-      "sum": "Le financement de FedDev Ontario soutient 23 entreprises et organisations pour leur permettre de croître, de renforcer les chaînes d’approvisionnement nationales et de faire progresser les technologies de prochaine génération dans les domaines de la défense, de la sécurité et de l’intelligence artificielle",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 40,5 millions dans entreprises Waterloo-Brant",
+      "sum": "Le gouvernement du Canada octroie 40,5 millions de dollars à 23 entreprises et organisations des régions de Waterloo et de Brant par l'intermédiaire de FedDev Ontario. Ce financement vise à accroître leur capacité, renforcer les chaînes d'approvisionnement nationales et favoriser les technologies en défense, sécurité et intelligence artificielle.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "280c9b79678bea26",
@@ -6462,21 +6577,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada appuie 23 entreprises et organisations des régions de Waterloo et de Brant pour leur permettre de se mettre à l’échelle, d’accélérer l’innovation et de renforcer la résilience économique",
-      "sum": "Aujourd’hui, l’honorable Evan Solomon, ministre de l’Intelligence artificielle et de l’Innovation numérique et ministre responsable de FedDev Ontario, a annoncé un investissement combiné de près de 40,5 millions de dollars pour permettre à 23 entreprises et organisations des régions de Waterloo et de Brant de soutenir la croissance, l’innovation et la compétitivité dans des secteurs clés, notamment la fabrication de…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 40,5 millions dans 23 entreprises de Waterloo et Brant",
+      "sum": "Le gouvernement du Canada annonce un investissement de 40,5 millions de dollars pour soutenir 23 entreprises et organisations dans les régions de Waterloo et de Brant. Ces fonds visent à stimuler la croissance, l'innovation et la compétitivité dans des secteurs clés.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "82a7b28a5302a622",
       "date": "2026-07-23",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/07/un-investissement-federal-de-37-millions-de-dollars-aidera-gros-morne-a-attirer-plus-de-visiteurs-et-a-prolonger-la-saison-touristique.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Un investissement fédéral de 3,7 millions de dollars aidera Gros-Morne à attirer plus de visiteurs et à prolonger la saison touristique",
-      "sum": "Des organismes communautaires locaux bénéficient d’un soutien fédéral",
-      "cat": "Innovation, science & industry"
+      "title": "Investissement fédéral de 3,7 millions pour le tourisme à Gros-Morne",
+      "sum": "Le gouvernement fédéral investit 3,7 millions de dollars pour soutenir le tourisme à Gros-Morne. Les organismes communautaires locaux recevront ce financement pour attirer davantage de visiteurs et prolonger la saison touristique.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "5cd0ac121a8b99d8",
@@ -6486,9 +6603,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Miller et le secrétaire d’État van Koeverden soulignent le début des Jeux du Commonwealth de Glasgow 2026 et annoncent un soutien financier à Équipe Canada",
-      "sum": "Du 23 juillet au 2 août, Équipe Canada représentera fièrement notre pays aux Jeux du Commonwealth de Glasgow 2026. Par l’entremise du financement de Sport Canada, le gouvernement fédéral appuie les athlètes canadiens qui s’illustrent sur la scène internationale.",
-      "cat": "Foreign affairs"
+      "title": "Canada annonce soutien financier pour Jeux du Commonwealth 2026",
+      "sum": "Le gouvernement fédéral appuie les athlètes canadiens qui participeront aux Jeux du Commonwealth de Glasgow 2026, qui se tiendront du 23 juillet au 2 août. Ce soutien est fourni par l'intermédiaire du financement de Sport Canada.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "07972a2eec149520",
@@ -6498,9 +6616,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement lance des consultations sur des projets de propositions législatives concernant diverses mesures fiscales",
-      "sum": "Aujourd’hui, le ministère des Finances Canada publie, aux fins de consultations, des projets de propositions législatives visant à mettre en œuvre un éventail de mesures fiscales déjà annoncées ainsi que d’autres modifications techniques au régime fiscal canadien.",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement lance consultations sur mesures fiscales législatives",
+      "sum": "Le ministère des Finances Canada publie des projets de propositions législatives pour consultation afin de mettre en œuvre diverses mesures fiscales annoncées précédemment et d'apporter des modifications techniques au régime fiscal canadien.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "ee2d956e7fe3ff5a",
@@ -6510,21 +6629,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Fermetures de ponts aux automobilistes dans la région de la capitale nationale",
-      "sum": "Services publics et Approvisionnement Canada souhaite informer le public que les ponts suivants seront fermés dans la région de la capitale nationale pour permettre le déroulement de la course IRONMAN.",
-      "cat": "Innovation, science & industry"
+      "title": "Fermetures de ponts dans la région de la capitale nationale",
+      "sum": "Services publics et Approvisionnement Canada annonce la fermeture de ponts dans la région de la capitale nationale. Ces fermetures permettront le déroulement de l'événement sportif IRONMAN.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "9fb9bee45220e327",
       "date": "2026-07-23",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/transports-canada/nouvelles/2026/07/le-ministre-des-transports-et-leader-du-gouvernement-a-la-chambre-des-communes-officialise-la-signature-dun-protocole-dentente-avec-lespagne-concer.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre des Transports et leader du gouvernement à la Chambre des communes officialise la signature d’un protocole d’entente avec l’Espagne concernant un corridor maritime vert",
-      "sum": "Le Canada continue de travailler avec ses partenaires internationaux pour favoriser la décarbonisation du secteur maritime et renforcer ses chaînes d’approvisionnement durables.",
-      "cat": "Transportation"
+      "title": "Canada signe protocole maritime vert avec l'Espagne",
+      "sum": "Le ministre des Transports a officialisé la signature d'un protocole d'entente avec l'Espagne concernant un corridor maritime vert. Le Canada poursuit ses efforts avec ses partenaires internationaux pour réduire les émissions du secteur maritime et renforcer ses chaînes d'approvisionnement durables.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "135a24df7d55e4f2",
@@ -6534,9 +6655,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Anand rencontre la secrétaire aux Affaires étrangères des Philippines, Theresa Lazaro",
-      "sum": "Aujourd’hui, la ministre des Affaires étrangères, l’honorable Anita Anand, a rencontré la secrétaire aux Affaires étrangères des Philippines, Son Excellence Ma. Theresa P. Lazaro, à l’occasion de la conférence postministérielle de l’Association des nations de l’Asie du Sud-Est (ANASE) qui se tient à Manille, aux Philippines.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Anand rencontre secrétaire aux Affaires étrangères philippines",
+      "sum": "La ministre canadienne des Affaires étrangères Anita Anand a rencontré son homologue philippine Theresa Lazaro lors d'une conférence de l'ANASE à Manille.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "01744809aceaefa0",
@@ -6546,9 +6668,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada lance des consultations publiques sur l’administration des contingents tarifaires applicables à certaines importations d’acier",
-      "sum": "Aujourd’hui, la ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé le lancement de consultations publiques sur l’administration des contingents tarifaires applicables à certaines importations d’acier figurant à l’article 82 de la Liste des marchandises d’importation contrôlée.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada lance consultations sur les contingents tarifaires d'acier",
+      "sum": "Le Canada ouvre des consultations publiques sur la gestion des contingents tarifaires applicables à certaines importations d'acier. Ces consultations portent sur les mesures tarifaires énumérées à l'article 82 de la Liste des marchandises d'importation contrôlée.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "38f15f7855f8f8fb",
@@ -6558,9 +6681,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Sidhu souligne le rôle de la Saskatchewan dans le renforcement du commerce, de l’innovation et du succès des exportations au Canada",
-      "sum": "Cette semaine, le ministre du Commerce international, l’honorable Maninder Sidhu, s’est rendu à Saskatoon pour rencontrer des partenaires de l’industrie, des communautés autochtones et de la province, et pour constater de lui-même le rôle important que joue la Saskatchewan dans le commerce et la croissance économique du Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Le ministre Sidhu visite la Saskatchewan pour discuter du commerce",
+      "sum": "Le ministre du Commerce international a visité Saskatoon cette semaine pour rencontrer des partenaires industriels, des communautés autochtones et des représentants provinciaux. La visite visait à examiner le rôle de la Saskatchewan dans le commerce et la croissance économique du Canada.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "e657b51214690fd7",
@@ -6570,9 +6694,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit pour aider à produire de l’énergie propre et à stimuler la croissance économique le long du corridor de la route 11",
-      "sum": "Pauline Rochefort, secrétaire parlementaire du secrétaire d’État (Développement rural) et députée de Nipissing—Timiskaming, a annoncé un investissement de 90 360 $ de FedNor visant à aider la Communities of the Montreal River Power Corp. à installer une turbine et à produire de l’hydroélectricité (environ un mégawatt) au barrage Latchford. L’annonce a été faite au nom de l’honorable Patty Hajdu, ministre de l’Emploi…",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada investit dans l'hydroélectricité le long de la route 11",
+      "sum": "Le gouvernement du Canada annonce un investissement de 90 360 $ pour aider une collectivité à installer une turbine hydroélectrique au barrage Latchford, en Ontario. Ce projet doit produire environ un mégawatt d'énergie propre et contribuer à la croissance économique régionale.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "1e78733df5e660ec",
@@ -6582,9 +6707,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada lance l’Initiative liée aux drones de la Défense pour renforcer les capacités de défense souveraine du Canada",
-      "sum": "Le gouvernement du Canada a lancé aujourd’hui l’Initiative liée aux drones de la Défense (IDD), une nouvelle initiative qui accélérera l’élaboration, la mise à l’essai et la production de systèmes autonomes et sans équipage canadiens, afin d’aider à fournir aux Forces armées canadiennes (FAC) et à la Garde côtière canadienne (GCC) l’accès aux capacités souveraines dont elles ont besoin dans un environnement de…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada lance l'Initiative liée aux drones de la Défense",
+      "sum": "Le gouvernement du Canada a lancé l'Initiative liée aux drones de la Défense pour accélérer le développement et la production de systèmes autonomes sans équipage canadiens. Cette initiative vise à fournir aux Forces armées canadiennes et à la Garde côtière canadienne des capacités de défense souveraines.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "380cc11630f34950",
@@ -72404,6 +72530,18 @@
       "cat": "Intergovernmental affairs",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "6398907040dd49f8",
+      "date": "2026-03-12",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUHVuYW12LUc3SVpCMVdPcGZEUE9ISGR2NW9KMDZDakFsMVdKMEltRHNzcks1QzJIRUNtT1NudlNWRUx1QnBtQ3lpWktJcGtqNV9XVFpEajJzREk3R255bklMckRUNDR0RjhWWV9MdU56T1c1UnZqdlBNNFUwR0NrUWVqNGxLOUxqQjVtcnFqZjJZM0FWQ1NJ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Intentions de vote au fédéral : pas besoin de photo d’arrivée - L’actualité",
+      "excerpt": "Intentions de vote au fédéral : pas besoin de photo d’arrivée L’actualité",
+      "cat": "Economy"
     },
     {
       "id": "6bf51ebce1a7ab83",
