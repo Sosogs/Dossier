@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T12:55:52.830Z",
-  "count": 14027,
+  "generatedAt": "2026-08-09T18:45:02.481Z",
+  "count": 14033,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,70 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "914464315aa50601",
+      "date": "2026-08-09",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/08/inmates-temporarily-relocated-from-matsqui-institution-due-to-water-damage.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Inmates relocated from Matsqui Institution due to water damage",
+      "sum": "The Correctional Service of Canada temporarily moved 218 inmates from Matsqui Institution in British Columbia after a burst water pipe caused flooding on August 8, 2026. The medium-security facility sustained significant damage requiring the relocation.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "17a6035fb6232f0b",
+      "date": "2026-08-09",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/veterans-affairs-canada/news/2026/08/ministers-of-veterans-affairs-national-defence-foreign-affairs-and-public-safety-mark-national-peacekeepers-day.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Ministers mark National Peacekeepers' Day with joint statement",
+      "sum": "Four federal ministers issued a statement to commemorate National Peacekeepers' Day. The ministers represent Veterans Affairs, National Defence, Foreign Affairs, and Public Safety.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "9a61d20b2fe5f81c",
+      "date": "2026-08-09",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/08/des-detenus-de-letablissement-de-matsqui-sont-temporairement-relocalises-en-raison-de-degats-deau.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Relocalisation temporaire de détenus suite à dégâts d'eau",
+      "sum": "Le Service correctionnel du Canada a relocalisé temporairement 218 détenus de l'Établissement de Matsqui en Colombie-Britannique après une inondation causée par une rupture de conduite d'eau survenue le 8 août 2026.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "6bad5fe6cb0ddf28",
+      "date": "2026-08-09",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/anciens-combattants-canada/nouvelles/2026/08/les-ministres-des-anciens-combattants-de-la-defense-nationale-des-affaires-etrangeres-et-de-la-securite-publique-soulignent-la-journee-nationale-de.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministres soulignent la Journée nationale des Gardiens de la paix",
+      "sum": "Les ministres des Anciens Combattants, de la Défense nationale, des Affaires étrangères et de la Sécurité publique ont publié une déclaration commune à l'occasion de la Journée nationale des Gardiens de la paix.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "9155eef87e624e27",
+      "date": "2026-08-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUTZoU3FwLTVvZE5fc1A4WGFwRjQ3Rm5qVHliN2dvdG5WLUpfYmdHck1wRVY3MWNXUFNQclA5WEVHTjJRV0xpZUg5enNGaU5SS29YSmJGM05KV3YzNjRiYVJXd3l1TlU5cmo0bw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Poilievre says Carney must answer for spy arrested by NATO - Juno News",
+      "excerpt": "Poilievre says Carney must answer for spy arrested by NATO Juno News",
+      "cat": "National defence"
+    },
     {
       "id": "61a311883c7dadee",
       "date": "2026-08-08",
@@ -13153,9 +13217,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada va diversifier le commerce et doubler ses exportations grâce à la Stratégie sur la porte d’entrée du port de Vancouver",
-      "sum": "Le Canada est une nation commerçante qui entretient depuis longtemps des partenariats stratégiques avec des pays dont les clients estiment la qualité et la régularité des produits que nous exportons. Des marchandises provenant de différents secteurs, notamment l’agriculture, la pêche, l’industrie manufacturière et l’exploitation minière, issues de toutes les régions du pays. Le Canada dispose de ce que le monde…",
-      "cat": "Culture & heritage"
+      "title": "Canada diversifie commerce et double exportations par port Vancouver",
+      "sum": "Le Canada met en place une stratégie pour augmenter ses exportations en diversifiant ses marchés commerciaux. Cette approche vise à doubler les exportations de produits agricoles, halieutiques, manufacturiers et miniers provenant de toutes les régions du pays.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "5364cef251a84775",
@@ -13165,9 +13230,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "ANNULÉE - Annonce en matière d’infrastructure à Prince Albert",
-      "sum": "ANNULÉE- Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de l’honorable Buckley Belanger, secrétaire d’État au Développement rurale.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce infrastructure à Prince Albert annulée",
+      "sum": "Une annonce concernant un projet d'infrastructure à Prince Albert, qui devait se tenir en présence du secrétaire d'État au Développement rural, a été annulée.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "60f3f2a1a5abfa1c",
@@ -13177,9 +13243,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État Fuhr soulignera le soutien plus généreux apporté aux familles au moyen de l’allocation canadienne pour enfants",
-      "sum": "L’honorable Stephen Fuhr, secrétaire d’État (Approvisionnement en matière de défense), sera dans l’Okanagan pour souligner l’augmentation de l’allocation canadienne pour enfants, qui réduira les coûts pour les familles partout au Canada. L’annonce est faite au nom de l’honorable Anna Gainey, secrétaire d’État (Enfance et Jeunesse).",
-      "cat": "Innovation, science & industry"
+      "title": "Augmentation de l'allocation canadienne pour enfants annoncée",
+      "sum": "Le secrétaire d'État Fuhr souligne une augmentation de l'allocation canadienne pour enfants destinée à réduire les coûts pour les familles au Canada. Cette mesure est annoncée au nom de la secrétaire d'État responsable de l'enfance et la jeunesse.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "33f498c9902fb45d",
@@ -13189,9 +13256,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce un soutien afin d’aider des entreprises de la région métropolitaine de St. John’s à se moderniser, à livrer concurrence et à atteindre de nouveaux marchés",
-      "sum": "Le gouvernement du Canada annonce un soutien afin d’aider des entreprises de la région métropolitaine de St. John’s à se moderniser, à livrer concurrence et à atteindre de nouveaux marchés",
-      "cat": "Innovation, science & industry"
+      "title": "Canada annonce soutien pour moderniser entreprises à St. John's",
+      "sum": "Le gouvernement du Canada annonce une aide pour les entreprises de la région métropolitaine de St. John's afin qu'elles se modernisent, deviennent plus compétitives et accèdent à de nouveaux marchés.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "d5099df53354b728",
@@ -13201,9 +13269,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce un soutien afin d’aider des entreprises de la région métropolitaine de St. John’s à se moderniser, à livrer concurrence et à atteindre de nouveaux marchés",
-      "sum": "Renforcer la productivité du Canada et ses chaînes d’approvisionnement dans un contexte de marchés internationaux en évolution",
-      "cat": "Innovation, science & industry"
+      "title": "Canada annonce soutien aux entreprises de St. John's",
+      "sum": "Le gouvernement du Canada offre une aide financière aux entreprises de la région métropolitaine de St. John's pour améliorer leur modernisation et leur compétitivité. Cette mesure vise à renforcer la productivité canadienne et les chaînes d'approvisionnement face aux marchés internationaux changeants.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "20da0bf84cb6bb4a",
@@ -13213,9 +13282,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Anand et le secrétaire Roberto Velasco Álvarez tiendront une conférence de presse conjointe",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, et le secrétaire des Affaires étrangères du Mexique, Roberto Velasco Álvarez, participeront à une conférence de presse conjointe à l’issue de leur rencontre bilatérale.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Mexique tiennent conférence de presse conjointe",
+      "sum": "La ministre canadienne des Affaires étrangères Anita Anand et le secrétaire mexicain des Affaires étrangères Roberto Velasco Álvarez participeront à une conférence de presse conjointe après leur rencontre bilatérale.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "b0fd244bab4a04ca",
@@ -13225,9 +13295,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Julie Dabrusin se joint aux ministres de l’environnement provinciaux et territoriaux pour accroître la collaboration entourant la protection de l’environnement",
-      "sum": "L’honorable Julie Dabrusin, ministre de l’Environnement, du Changement climatique et de la Nature, s’est jointe aux ministres provinciaux et territoriaux à l’occasion de la réunion annuelle du Conseil canadien des ministres de l’environnement (CCME) qui s’est tenue les 14 et 15 juillet à Calgary, en Alberta.",
-      "cat": "Economy"
+      "title": "Ministre Dabrusin collabore avec provinces et territoires sur environnement",
+      "sum": "La ministre fédérale de l'Environnement a participé à la réunion annuelle du Conseil canadien des ministres de l'environnement à Calgary, les 14 et 15 juillet, afin d'améliorer la collaboration entre les gouvernements sur la protection de l'environnement.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "06f21cecaf376d79",
@@ -13237,9 +13308,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Étape clé franchie : La décision de l’OTC marque une étape importante pour le projet de la voie de contournement ferroviaire de Lac-Mégantic",
-      "sum": "Le gouvernement du Canada accueille favorablement la décision rendue aujourd’hui par l’Office des transports du Canada (OTC) d’approuver le projet de la voie de contournement ferroviaire de Lac-Mégantic. Cette décision est le fruit de plusieurs années de travail et marque la réalisation d’un jalon clé vers le début de la construction de la voie de contournement.",
-      "cat": "Transportation"
+      "title": "OTC approuve le projet de voie ferroviaire contournant Lac-Mégantic",
+      "sum": "L'Office des transports du Canada a approuvé le projet de construction d'une voie de contournement ferroviaire à Lac-Mégantic. Cette approbation représente une étape importante après plusieurs années de travail en vue du début de la construction.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "e0a191d754896b7d",
@@ -13249,9 +13321,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Olszewski soulignera le soutien plus généreux de l’Allocation canadienne pour enfants qui rend la vie plus abordable pour les familles albertaines",
-      "sum": "L’honorable Eleanor Olszewski, ministre de la Gestion des urgences et de la Résilience des communautés et ministre responsable de Développement économique Canada pour les Prairies (PrairiesCan), sera accompagnée de M. PJ Stasko, maire de la Ville de Camrose, pour souligner l’augmentation de l’Allocation canadienne pour enfants, ce qui contribue à réduire les coûts pour les familles de l’Alberta et du reste du Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Augmentation de l'Allocation canadienne pour enfants annoncée",
+      "sum": "La ministre Olszewski annonce une augmentation de l'Allocation canadienne pour enfants pour aider les familles albertaines à réduire leurs coûts de vie. Cette mesure s'applique aux familles de l'Alberta et du reste du Canada.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "9cf8a05fb8fda617",
@@ -13261,9 +13334,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Bâtir un Canada fort en investissant dans les infrastructures d’approvisionnement en eau et de traitement des eaux usées afin de soutenir la construction de logements",
-      "sum": "Le Fonds pour bâtir des collectivités fortes vise à investir 51 milliards de dollars dans un large éventail de projets d’infrastructure qui soutiennent la prospérité économique, le logement, le sport, l’éducation, la santé, le transport en commun et l’adaptation aux changements climatiques dans tout le pays.",
-      "cat": "Infrastructure"
+      "title": "Investissement de 51 milliards dans les infrastructures nationales",
+      "sum": "Le gouvernement fédéral lance le Fonds pour bâtir des collectivités fortes, qui investira 51 milliards de dollars dans des projets d'infrastructure à travers le Canada. Ces projets couvrent l'approvisionnement en eau, le traitement des eaux usées, le logement, le transport, l'éducation, la santé et l'adaptation aux changements climatiques.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "23328bf2deeae5fa",
@@ -13273,9 +13347,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce un nouveau financement de 2 milliards de dollars destiné aux provinces et aux territoires dans le cadre de l’initiative Une Équipe Canada forte",
-      "sum": "Le gouvernement du Canada annonce un nouveau financement de 2 milliards de dollars destiné aux provinces et aux territoires dans le cadre de l’initiative Une Équipe Canada forte",
-      "cat": "Intergovernmental affairs"
+      "title": "Canada annonce 2 milliards en financement aux provinces et territoires",
+      "sum": "Le gouvernement du Canada accorde 2 milliards de dollars aux provinces et aux territoires par le biais de l'initiative Une Équipe Canada forte.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "1a682591f7f0fa49",
@@ -13285,21 +13360,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre McGuinty fera une annonce importante portant sur l’efficacité énergétique au CHEO",
-      "sum": "L’honorable David J. McGuinty, ministre de la Défense nationale, au nom de l’honorable Julie Dabrusin, ministre de l’Environnement, du Changement climatique et de la Nature, fera une annonce importante portant sur l’efficacité énergétique au CHEO, un établissement de santé de renommée mondiale situé à Ottawa. Il sera aux côtés de Dre Vera Etches, présidente-directrice générale du CHEO.",
-      "cat": "Economy"
+      "title": "Annonce sur l'efficacité énergétique à l'établissement CHEO",
+      "sum": "Le ministre de la Défense nationale fera une annonce importante concernant l'efficacité énergétique au CHEO, un établissement de santé situé à Ottawa. L'annonce sera faite en compagnie de la présidente-directrice générale du CHEO.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "0283ba1c4bdf5af1",
       "date": "2026-07-16",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/tribunal-commerce-exterieur/nouvelles/2026/07/le-tribunal-proroge-ses-conclusions--feuilles-dacier-resistant-a-la-corrosion-provenant-de-la-turkiye-et-du-vietnam.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Tribunal proroge ses conclusions — Feuilles d’acier résistant à la corrosion provenant de la Türkiye et du Vietnam",
-      "sum": "À la suite du réexamen relatif à l’expiration du Tribunal canadien du commerce extérieur (RR-2025-004), le Tribunal a aujourd’hui prorogé ses conclusions rendues le 16 novembre 2020, dans le cadre de l’enquête NQ-2019-002, concernant le dumping de feuilles d’acier résistant à la corrosion en provenance de la Türkiye et du Vietnam et le subventionnement de la Türkiye.",
-      "cat": "Economy"
+      "title": "Tribunal prolonge conclusions sur acier résistant à corrosion",
+      "sum": "Le Tribunal canadien du commerce extérieur a prolongé ses conclusions antérieures concernant le dumping et le subventionnement de feuilles d'acier résistant à la corrosion provenant de la Türkiye et du Vietnam. Cette décision fait suite à un réexamen de l'expiration des mesures initiales adoptées en 2020.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "cde14e195702d5de",
@@ -13309,9 +13386,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral fera une annonce concernant à l’égard du parc urbain national proposé dans la région de Windsor, en Ontario",
-      "sum": "Le gouvernement fédéral fera une annonce concernant à l’égard du parc urbain national proposé dans la région de Windsor, en Ontario.",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement fédéral annonce décision sur parc urbain national à Windsor",
+      "sum": "Le gouvernement fédéral fera une annonce concernant le parc urbain national proposé dans la région de Windsor, en Ontario.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "40014a0556fc7df6",
@@ -13321,9 +13399,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce concernant le logement à Saguenay",
-      "sum": "Les représentants des médias sont invités à une annonce concernant le logement en présence de l’honorable Gregor Robertson, ministre du Logement et de l’Infrastructure et ministre responsable de Développement économique Canada pour le Pacifique, Karine Boivin-Roy, ministre responsable de l'Habitation, Caroline Desrochers, secrétaire parlementaire du ministre du Logement et de l’Infrastructure, Yannick Gagnon, député…",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce fédérale sur le logement à Saguenay",
+      "sum": "Le gouvernement fédéral tiendra une annonce concernant le logement à Saguenay avec la participation du ministre du Logement et de l'Infrastructure et d'autres représentants gouvernementaux.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "03ceb89e1c699449",
@@ -13333,9 +13412,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les versements au titre de l’Allocation canadienne pour enfants augmentent en 2026-2027: les prestations de près de 81 000 familles du Nouveau-Brunswick seront plus généreuses à compter de ce mois-ci",
-      "sum": "Le gouvernement du Canada allège la charge financière des familles en augmentant l’Allocation canadienne pour enfants (ACE).",
-      "cat": "Economy"
+      "title": "Augmentation de l'Allocation canadienne pour enfants en 2026-2027",
+      "sum": "Le gouvernement du Canada augmente les versements de l'Allocation canadienne pour enfants à partir de ce mois-ci. Près de 81 000 familles du Nouveau-Brunswick recevront des prestations plus généreuses.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "172ddfb311d3fc17",
@@ -13345,9 +13425,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Forum des ministres du marché du Travail se sont réunis à Halifax afin de discuter de priorités communes",
-      "sum": "Le Forum des ministres responsables du marché du travail (FMMT) s’est réuni à Halifax pour discuter des possibilités et des défis communs touchant le marché du travail au Canada. La rencontre était coprésidée par la ministre fédérale de l’Emploi et des Familles, l’honorable Patty Hajdu, et le ministre du Travail, des Compétences et de l’Immigration de la Nouvelle Écosse, l’honorable Nolan Young.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministres du travail se réunissent à Halifax pour discuter priorités communes",
+      "sum": "Les ministres responsables du marché du travail de l'ensemble du Canada se sont réunis à Halifax pour discuter des enjeux et des possibilités touchant l'emploi. La rencontre était coprésidée par la ministre fédérale de l'Emploi et des Familles et le ministre du Travail de la Nouvelle-Écosse.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "e89e69ff11093fea",
@@ -13357,9 +13438,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Un projet pilote pour améliorer l’accès aux services d’abattage des bovins en Abitibi-Témiscamingue",
-      "sum": "Le ministre de l’Agriculture, des Pêcheries et de l’Alimentation du Québec, M. Donald Martel, ainsi que l’honorable Trevor Jones, ministre de l’Agriculture, de l’Alimentation et de l’Agroentreprise de l’Ontario, annoncent, avec l’Agence canadienne d’inspection des aliments (ACIA), le lancement imminent d’un projet pilote visant à améliorer l’accès aux services d’abattage pour les producteurs de bovins de…",
-      "cat": "Innovation, science & industry"
+      "title": "Projet pilote pour améliorer accès services abattage bovins Abitibi-Témiscamingue",
+      "sum": "Le Québec et l'Ontario lancent un projet pilote avec l'Agence canadienne d'inspection des aliments pour améliorer l'accès aux services d'abattage des bovins dans la région d'Abitibi-Témiscamingue.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "bb6528abf4531435",
@@ -13950,12 +14032,13 @@
       "date": "2026-07-15",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/intergovernmental-affairs/news/2026/07/government-of-canada-receives-top-mark-from-canadian-federation-of-independent-business-on-internal-trade.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada receives top mark from Canadian Federation of Independent Business on internal trade",
-      "sum": "Canada receives top mark from Canadian Federation of Independent Business on internal trade",
-      "cat": "Economy"
+      "title": "Canada receives top rating on internal trade from business federation",
+      "sum": "The Canadian Federation of Independent Business has given Canada a top mark for its performance on internal trade. This assessment evaluates how well interprovincial trade barriers and regulations are managed.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "4837d926f84c38cf",
@@ -13965,9 +14048,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Federal government to announce investments to prevent human trafficking and support victims and survivors",
-      "sum": "The Honourable Rechie Valdez, Minister of Women and Gender Equality and Secretary of State (Small Business and Tourism), will announce federal support to help prevent human trafficking and support victims and survivors.",
-      "cat": "Economy"
+      "title": "Federal government announces anti-trafficking investments and victim support",
+      "sum": "The federal government will announce investments to prevent human trafficking and provide support to trafficking victims and survivors. Minister Rechie Valdez will make the announcement.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "e49f5df02baed4b6",
@@ -13977,9 +14061,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Competition Bureau seeks feedback on new enforcement guidelines about illegal business agreements",
-      "sum": "Competition Bureau seeks feedback on new enforcement guidelines about illegal business agreements July 15, 2026 – GATINEAU (Québec), Competition Bureau",
-      "cat": "Economy"
+      "title": "Competition Bureau requests feedback on illegal business agreement guidelines",
+      "sum": "The Competition Bureau is seeking public input on new enforcement guidelines related to illegal business agreements. The feedback period was announced on July 15, 2026.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "f3b71e640036c9e5",
@@ -13989,9 +14074,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The project to expand and renovate the Charles-Le Moyne Hospital is moving forward",
-      "sum": "Quebec Premier Christine Fréchette confirmed today that the expansion and renovation project at Charles-Le Moyne Hospital has reached a crucial milestone and can now move forward.",
-      "cat": "Healthcare"
+      "title": "Charles-Le Moyne Hospital expansion and renovation project advances",
+      "sum": "Quebec Premier Christine Fréchette confirmed that the expansion and renovation project at Charles-Le Moyne Hospital has reached a milestone and will proceed. The project involves expanding and renovating the hospital facility.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "1395a1da7b249e88",
@@ -14001,9 +14087,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Overnight alternating lane closures on J.C. Van Horne Bridge",
-      "sum": "Public Services and Procurement Canada (PSPC) wishes to advise motorists of overnight intermittent alternating lane closures on the J.C. Van Horne Bridge to undergo a bridge cleaning.",
-      "cat": "Infrastructure"
+      "title": "Overnight lane closures scheduled for J.C. Van Horne Bridge cleaning",
+      "sum": "Public Services and Procurement Canada will close alternating lanes overnight on the J.C. Van Horne Bridge for cleaning work. Motorists should expect intermittent disruptions during these maintenance periods.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "ab5901f12c7d62db",
@@ -14013,9 +14100,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Statement from Minister Hajdu and Secretary of State Gainey on World Youth Skills Day 2026",
-      "sum": "Statement from Minister Hajdu and Secretary of State Gainey on World Youth Skills Day 2026",
-      "cat": "Innovation, science & industry"
+      "title": "Ministers mark World Youth Skills Day 2026",
+      "sum": "Minister Hajdu and Secretary of State Gainey issued a statement marking World Youth Skills Day 2026. The statement highlights the observance of this international day focused on youth skills development.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "77c86d662b3f1d71",
@@ -14025,9 +14113,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada announces new members to be appointed to the Independent Advisory Board for Senate Appointments",
-      "sum": "The Honourable Steven MacKinnon, Minister of Transport and Leader of the Government in the House of Commons, announced today the Government’s intention to appoint members to the Independent Advisory Board for Senate Appointments.",
-      "cat": "Transportation"
+      "title": "Government appoints new members to Senate Advisory Board",
+      "sum": "The Government of Canada announced its intention to appoint new members to the Independent Advisory Board for Senate Appointments. This board provides recommendations for Senate appointees.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "8d62c07f7a1b5002",
@@ -14037,9 +14126,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "EMILI marks 10 years of agriculture innovation with new support from the Government of Canada",
-      "sum": "Federal investment announced at EMILI Field Day will help more digital agriculture companies test, grow and bring new technologies to market",
-      "cat": "Innovation, science & industry"
+      "title": "Government announces funding for digital agriculture innovation support",
+      "sum": "The Government of Canada is providing investment to support digital agriculture companies through EMILI, marking the program's 10-year milestone. The funding will help these companies test and commercialize new agricultural technologies.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "5fbb05322c01c33a",
@@ -14049,9 +14139,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "HMCS Ville de Québec deploys for Operation REASSURANCE",
-      "sum": "Today, His Majesty’s Canadian Ship (HMCS) Ville de Québec departed its homeport of Halifax, Nova Scotia, to deploy on Operation REASSURANCE, joining Standing NATO Maritime Group One (SNMG1) as part of Canada’s continued contribution to NATO collective defence efforts in European waters.",
-      "cat": "National defence"
+      "title": "HMCS Ville de Québec deploys to NATO operation in European waters",
+      "sum": "HMCS Ville de Québec has departed Halifax to join a NATO maritime group as part of Canada's ongoing contribution to NATO defence efforts in Europe.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "4e859516101ed5e6",
@@ -14061,21 +14152,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: Government of Canada supports Quebec organizations leveraging artificial intelligence",
-      "sum": "The following information is in addition to the news release issued on July 15, 2026, on CED’s financial assistance and the recipient organizations.",
-      "cat": "Economy"
+      "title": "Canada provides funding to Quebec AI organizations",
+      "sum": "The Government of Canada is providing financial assistance to Quebec organizations that are using artificial intelligence. This follows a news release issued on July 15, 2026, regarding the funding and the organizations receiving it.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "9dafa2cad651984e",
       "date": "2026-07-15",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/07/artificial-intelligence-government-of-canada-investments-to-propel-quebec-businesses-forward.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Artificial intelligence: The Honourable Evan Solomon announces close to $14M in Government of Canada investments to propel Quebec businesses forward",
-      "sum": "CED supports 63 projects leveraging artificial intelligence (AI) for innovation and development.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada invests $14 million in Quebec artificial intelligence projects",
+      "sum": "The Government of Canada is providing approximately $14 million in funding to support 63 Quebec-based projects that use artificial intelligence for business innovation and development. The investment is being delivered through Community Economic Development programming.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "32e381ac13dd5de0",
@@ -14085,9 +14178,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Lockdown and search at Mountain Institution",
-      "sum": "On July 13, 2026, a lockdown was put in place at Mountain Institution, a medium-security federal institution, to enable staff members to conduct an exceptional search.",
-      "cat": "Public safety"
+      "title": "Lockdown and search conducted at Mountain Institution",
+      "sum": "Mountain Institution, a medium-security federal facility, was placed under lockdown on July 13, 2026, to allow staff to perform an exceptional search of the premises.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "3e8daefa96bc0571",
@@ -14097,33 +14191,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "NFB joins global industry leaders at SIGGRAPH 2026 to explore the boundaries of animation storytelling",
-      "sum": "A leading creative innovator in animation and digital creation, the National Film Board of Canada (NFB) will be at SIGGRAPH 2026 to explore new approaches in visual storytelling and production technologies.",
-      "cat": "Innovation, science & industry"
+      "title": "NFB participates in SIGGRAPH 2026 animation and digital conference",
+      "sum": "The National Film Board of Canada will participate in SIGGRAPH 2026, a global conference on computer graphics and animation. The NFB plans to explore new approaches in visual storytelling and production technologies at the event.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "cbf611fb16dd7fca",
       "date": "2026-07-15",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/federal-and-provincial-governments-invest-in-water-stormwater-and-wastewater-infrastructure-to-support-more-housing-across-four-communities-in-new-.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: Federal and provincial governments invest in water, stormwater and wastewater infrastructure to support more housing across four communities in New Brunswick",
-      "sum": "The federal government is investing $4.36 million through the Canada Housing Infrastructure Fund (CHIF) to support four housing enabling water, wastewater and stormwater projects across four municipalities in New Brunswick.",
-      "cat": "Housing"
+      "title": "Federal government invests in water infrastructure for housing in New Brunswick",
+      "sum": "The federal government is providing $4.36 million through the Canada Housing Infrastructure Fund to support water, wastewater, and stormwater projects in four New Brunswick municipalities. These investments aim to enable more housing development in these communities.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "cd632655bd99a245",
       "date": "2026-07-15",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/federal-and-provincial-governments-invest-in-water-stormwater-and-wastewater-infrastructure-to-support-more-housing-across-four-communities-in-new-0.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Federal and provincial governments invest in water, stormwater and wastewater infrastructure to support more housing across four communities in New Brunswick",
-      "sum": "Four municipalities in New Brunswick will upgrade water, stormwater and wastewater infrastructure after a joint investment of more than $8.84 million from the federal, provincial and municipal governments through the Canada Housing Infrastructure Fund (CHIF).",
-      "cat": "Housing"
+      "title": "Federal and provincial governments invest in New Brunswick water infrastructure",
+      "sum": "Four municipalities in New Brunswick will receive more than $8.84 million in joint federal, provincial and municipal funding to upgrade water, stormwater and wastewater infrastructure. The investment is intended to support additional housing development in these communities.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "fc4beac31079b074",
@@ -14133,9 +14230,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Infrastructure Announcement in Surrey",
-      "sum": "Members of the media are invited to an infrastructure announcement with the Honourable Randeep Sarai, Secretary of State for International Development and Member of Parliament for Surrey Centre, and Her Worship Brenda Locke, Mayor of the City of Surrey.",
-      "cat": "Foreign affairs"
+      "title": "Infrastructure announcement planned in Surrey with federal and local officials",
+      "sum": "The federal government, represented by the Secretary of State for International Development, will make an infrastructure announcement in Surrey alongside the city's mayor. Details of the specific infrastructure project have not been disclosed.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "4f41529e11025977",
@@ -14145,9 +14243,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Champagne meets with Provincial and Territorial Finance Ministers in Charlottetown, advances internal trade through key harmonization milestone",
-      "sum": "Today, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, met with provincial and territorial finance ministers in Charlottetown to discuss shared priorities, including improving affordability, removing outstanding internal trade barriers between provinces, increasing housing supply and advancing measures to strengthen Canada's long-term economic growth and competitiveness in an…",
-      "cat": "Housing"
+      "title": "Federal and provincial finance ministers meet on trade harmonization",
+      "sum": "Minister Champagne met with provincial and territorial finance ministers in Charlottetown to discuss priorities including affordability, internal trade barriers, housing supply, and economic growth. The meeting advanced harmonization efforts to remove trade obstacles between provinces.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "ebfd39fd47e59ebd",
@@ -14157,9 +14256,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada to make a significant announcement regarding the Port of Vancouver",
-      "sum": "Delta, British Columbia – The Minister of Transport and Leader of the Government in the House of Commons, the Honourable Steven MacKinnon will make an announcement regarding the Port of Vancouver.",
-      "cat": "Transportation"
+      "title": "Government announces Port of Vancouver initiative",
+      "sum": "The Minister of Transport will make an announcement regarding the Port of Vancouver in Delta, British Columbia. Details of the announcement were not disclosed in advance.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "a450589bdae634d6",
@@ -14169,21 +14269,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Helping Canadians access safe, effective treatments and medicines faster",
-      "sum": "Canadians expect timely access to safe and effective drugs and medical devices. Health Canada is taking practical steps to modernize and improve the efficiency of its regulatory processes, while maintaining its high standards for safety, efficacy, and quality.",
-      "cat": "Healthcare"
+      "title": "Health Canada modernizes drug and device approval processes",
+      "sum": "Health Canada is updating its regulatory processes to help Canadians access medicines and medical devices more quickly. The department says it will maintain safety and quality standards while improving efficiency.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "32153fb934516c0f",
       "date": "2026-07-15",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/health-canada/news/2026/07/drugs-and-medical-devices-authorized-april-1-to-june-30-2026.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Drugs and medical devices authorized, April 1 to June 30, 2026",
-      "sum": "From April 1 to June 30, 2026, Health Canada approved 15 new drug submissions (8 pharmaceuticals, 7 biologics) and 481 new medical devices, including 22 Class IV medical devices, which present the greatest potential risk. During this period, Health Canada also approved 31 generic drugs and 10 biosimilar drugs.",
-      "cat": "Healthcare"
+      "title": "Health Canada approves drugs and medical devices in Q2 2026",
+      "sum": "Health Canada authorized 15 new drugs and 481 new medical devices between April and June 2026. This includes 22 high-risk Class IV devices, plus 31 generic drugs and 10 biosimilar drugs.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "f389666d9e6f5834",
@@ -14193,9 +14295,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Hajdu and Minister Young to meet with provincial and territorial labour market ministers in Halifax. Minister Hajdu to also make a significant national announcement.",
-      "sum": "The Minister of Jobs and Families and Minister responsible for the Federal Economic Development Agency for Northern Ontario, the Honourable Patty Hajdu, along with Nova Scotia’s Minister of Labour, Skills and Immigration, the Honourable Nolan Young, will meet with provincial and territorial ministers in Halifax to discuss Canada’s labour market outlook and collaborative approaches to workforce development in Canada.",
-      "cat": "Economy"
+      "title": "Federal and provincial labour ministers meet in Halifax",
+      "sum": "The federal Minister of Jobs and Families will meet with provincial and territorial labour ministers in Halifax to discuss Canada's labour market outlook and workforce development approaches. The federal minister is also expected to make a significant national announcement.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "7e51128b6b1bcc70",
@@ -14205,9 +14308,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Advisory Committee on Canada–U.S. Economic Relations meets following CUSMA Joint Review Trilateral Meeting",
-      "sum": "Members of the Advisory Committee on Canada–U.S. Economic Relations met today to discuss the latest developments in the Canada-U.S. trade relationship, Canada’s recent engagements with the U.S. and Mexico, and updates on defence and the fight against the fentanyl trade.",
-      "cat": "National defence"
+      "title": "Advisory Committee on Canada-U.S. Economic Relations meets",
+      "sum": "The Advisory Committee on Canada–U.S. Economic Relations met to discuss trade developments between Canada and the U.S., recent engagements involving Canada, the U.S., and Mexico, and updates on defence and fentanyl enforcement efforts.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "0c2ffcfb02af2b4c",
@@ -14217,9 +14321,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada reçoit la meilleure note de la Fédération canadienne de l’entreprise indépendante en matière de commerce intérieur",
-      "sum": "Canada reçoit la meilleure note de la Fédération canadienne de l’entreprise indépendante en matière de commerce intérieur",
-      "cat": "Economy"
+      "title": "Le Canada reçoit une note élevée pour le commerce intérieur",
+      "sum": "La Fédération canadienne de l'entreprise indépendante a attribué au gouvernement du Canada la meilleure note concernant le commerce intérieur.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "5662a2d75e6497d7",
@@ -14229,9 +14334,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annoncera des investissements pour prévenir la traite des personnes et soutenir les victimes et les personnes survivantes",
-      "sum": "L’honorable Rechie Valdez, ministre des Femmes et de l’Égalité des genres et secrétaire d’État (Petites Entreprises et Tourisme), annoncera un soutien fédéral destiné à prévenir la traite des personnes et à appuyer les victimes et les personnes survivantes.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada annonce des investissements contre la traite des personnes",
+      "sum": "Le gouvernement du Canada annoncera un soutien fédéral pour prévenir la traite des personnes et aider les victimes et les survivants. L'annonce sera faite par la ministre des Femmes et de l'Égalité des genres.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "c87a104d66bc5c54",
@@ -14241,9 +14347,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Bureau de la concurrence souhaite obtenir des commentaires au sujet de ses nouvelles lignes directrices sur les accords commerciaux illégaux",
-      "sum": "Le Bureau de la concurrence souhaite obtenir des commentaires au sujet de ses nouvelles lignes directrices sur les accords commerciaux illégaux Le 15 juillet 2026, GATINEAU (Québec), Bureau de la concurrence",
-      "cat": "Innovation, science & industry"
+      "title": "Bureau de la concurrence sollicite commentaires sur lignes directrices",
+      "sum": "Le Bureau de la concurrence demande au public de soumettre des commentaires sur ses nouvelles lignes directrices concernant les accords commerciaux illégaux.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "8643177b83eaaa37",
@@ -14253,9 +14360,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le projet d’agrandissement et de réaménagement de l’Hôpital Charles-Le Moyne va de l’avant",
-      "sum": "La première ministre du Québec, Christine Fréchette, confirme aujourd’hui que le projet d’agrandissement et de réaménagement à l’Hôpital Charles-Le Moyne franchit une étape déterminante et peut désormais aller de l’avant.",
-      "cat": "Innovation, science & industry"
+      "title": "Expansion project for Charles-Le Moyne Hospital moves forward",
+      "sum": "Quebec's Premier Christine Fréchette announced that the expansion and renovation project for Charles-Le Moyne Hospital has reached a key milestone and can now proceed. The project involves enlarging and renovating the hospital facility.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "d848e595a241bb97",
@@ -14265,9 +14373,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Fermetures de voies en alternance de nuit sur le pont J.C. Van Horne",
-      "sum": "Services publics et Approvisionnement Canada (SPAC) souhaite aviser les automobilistes qu’il y aura des fermetures intermittentes de voies en alternance durant la nuit sur le pont J.C. Van Horne afin de réaliser le nettoyage.",
-      "cat": "Innovation, science & industry"
+      "title": "Fermetures nocturnes alternées sur le pont J.C. Van Horne",
+      "sum": "Services publics et Approvisionnement Canada annonce des fermetures intermittentes de voies en alternance pendant la nuit sur le pont J.C. Van Horne pour effectuer des travaux de nettoyage.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "8d9dce15ac4023d7",
@@ -14277,9 +14386,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration de la ministre Hajdu et de la secrétaire d’État Gainey à l’occasion de la Journée mondiale des compétences des jeunes 2026",
-      "sum": "Déclaration de la ministre Hajdu et de la secrétaire d’État Gainey à l’occasion de la Journée mondiale des compétences des jeunes 2026",
-      "cat": "Innovation, science & industry"
+      "title": "Déclaration ministérielle pour la Journée mondiale des compétences des jeunes",
+      "sum": "La ministre Hajdu et la secrétaire d'État Gainey ont émis une déclaration à l'occasion de la Journée mondiale des compétences des jeunes 2026. Cette déclaration souligne l'importance du développement des compétences chez les jeunes.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "4df95e99679f3ef0",
@@ -14289,9 +14399,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce l’intention de nommer de nouveaux membres au Comité consultatif indépendant sur les nominations au Sénat",
-      "sum": "L’honorable Steven MacKinnon, ministre des Transports et leader du gouvernement à la Chambre des communes, a annoncé aujourd’hui l’intention du gouvernement de nommer des membres au Comité consultatif indépendant sur les nominations au Sénat.",
-      "cat": "Transportation"
+      "title": "Canada annonce nominations au Comité consultatif du Sénat",
+      "sum": "Le gouvernement du Canada a annoncé son intention de nommer de nouveaux membres au Comité consultatif indépendant sur les nominations au Sénat. Cette annonce a été faite par le ministre des Transports.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "85782341dd95c16d",
@@ -14301,9 +14412,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ Enterprise Machine Intelligence and Learning Initiative souligne ses 10 ans d’innovation agricole avec un nouveau soutien du gouvernement du Canada",
-      "sum": "L’investissement fédéral annoncé à l’occasion de la fête champêtre de l’Enterprise Machine Intelligence and Learning Initiative aidera davantage d’entreprises agricoles numériques à croître ainsi qu’à mettre à l’essai et à commercialiser de nouvelles technologies",
-      "cat": "Innovation, science & industry"
+      "title": "Canada augmente son soutien à l'innovation agricole numérique",
+      "sum": "Le gouvernement fédéral annonce un nouvel investissement pour soutenir l'Enterprise Machine Intelligence and Learning Initiative, qui célèbre dix ans d'innovation dans le secteur agricole. Cet investissement aidera les entreprises agricoles numériques à se développer et à commercialiser de nouvelles technologies.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "dc6721bc6011d3ee",
@@ -14313,9 +14425,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le NCSM Ville de Québec déployé pour l’Opération REASSURANCE",
-      "sum": "Aujourd’hui, le Navire canadien de Sa Majesté (NCSM) Ville de Québec a quitté son port d’attache de Halifax, en Nouvelle-Écosse, pour prendre part à l’Opération REASSURANCE. Il y rejoint le 1er Groupe maritime permanent de l’OTAN (SNMG1) dans le cadre de la contribution continue du Canada aux efforts de défense collective de l’OTAN dans les eaux européennes.",
-      "cat": "Economy"
+      "title": "NCSM Ville de Québec déployé pour l'Opération REASSURANCE",
+      "sum": "Le navire canadien NCSM Ville de Québec a quitté Halifax pour rejoindre le 1er Groupe maritime permanent de l'OTAN. Le déploiement fait partie de la contribution du Canada aux efforts de défense collective de l'OTAN en eaux européennes.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "95941ff9a422ff0a",
@@ -14325,9 +14438,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : le gouvernement du Canada soutient des organisations du Québec qui misent sur l’intelligence artificielle",
-      "sum": "Les informations qui suivent sont complémentaires au communiqué de presse diffusé le 15 juillet 2026 portant sur l’aide financière de DEC et les organisations bénéficiaires.",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada soutient les organisations québécoises en intelligence artificielle",
+      "sum": "Le gouvernement du Canada fournit une aide financière par l'entremise de Développement économique Canada à des organisations du Québec qui travaillent dans le domaine de l'intelligence artificielle.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "45d8970e0f85fe4f",
@@ -14337,9 +14451,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Intelligence artificielle : l’honorable Evan Solomon annonce des investissements de près de 14 M$ du gouvernement du Canada pour propulser des entreprises du Québec",
-      "sum": "DEC soutient 63 projets d’entreprises qui misent sur l’intelligence artificielle (IA) pour innover et se développer.",
-      "cat": "Economy"
+      "title": "Canada investit 14 M$ en intelligence artificielle au Québec",
+      "sum": "Le gouvernement du Canada annonce des investissements de près de 14 millions de dollars pour soutenir 63 projets d'entreprises québécoises qui développent des solutions en intelligence artificielle.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "f29e030273431f5c",
@@ -14349,9 +14464,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Isolement cellulaire et fouille à l’Établissement Mountain",
-      "sum": "Un isolement cellulaire a été imposé le 13 juillet 2026, à l’Établissement Mountain, un établissement à sécurité moyenne, afin de permettre au personnel de procéder à une fouille exceptionnelle.",
-      "cat": "Innovation, science & industry"
+      "title": "Isolement cellulaire et fouille à l'Établissement Mountain",
+      "sum": "Un isolement cellulaire a été imposé le 13 juillet 2026 à l'Établissement Mountain pour permettre une fouille exceptionnelle des installations.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "45c0b1017f8fe3c3",
@@ -14361,9 +14477,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ONF se joint aux chefs de file de l’industrie mondiale pour explorer les frontières du récit d’animation à SIGGRAPH 2026",
-      "sum": "Au chapitre de l’animation et de la création numérique, l’Office national du film du Canada figure parmi les meneurs. Curieux de découvrir de nouvelles approches en matière de mise en récit visuelle et de technologies de production, il sera présent à SIGGRAPH 2026.",
-      "cat": "Innovation, science & industry"
+      "title": "L'ONF participera à SIGGRAPH 2026 pour explorer l'animation numérique",
+      "sum": "L'Office national du film du Canada participera à la conférence SIGGRAPH 2026 pour explorer de nouvelles approches en animation et création numérique. L'ONF rejoindra d'autres leaders de l'industrie mondiale pour discuter des technologies et techniques de narration visuelle.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "611bc7b27df17e35",
@@ -14373,21 +14490,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Les gouvernements fédéral et provincial investissent dans les infrastructures d’aqueduc, d’égout et de gestion des eaux pluviales afin de soutenir la construction de logements dans quatre collectivités du Nouveau‑Brunswick",
-      "sum": "Le gouvernement fédéral investit 4,36 millions de dollars dans quatre projets d’infrastructures d’aqueduc, d’égout et de gestion des eaux pluviales qui soutiendront la construction de logements dans quatre municipalités du Nouveau-Brunswick dans le cadre du Fonds canadien pour les infrastructures liées au logement (FCIL).",
-      "cat": "Infrastructure"
+      "title": "Canada et Nouveau-Brunswick financent les infrastructures d'eau pour le logement",
+      "sum": "Le gouvernement fédéral investit 4,36 millions de dollars dans quatre projets d'infrastructures d'aqueduc, d'égout et de gestion des eaux pluviales au Nouveau-Brunswick. Ces investissements visent à soutenir la construction de logements dans quatre municipalités par le biais du Fonds canadien pour les infrastructures liées au logement.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "78b2037c78cd95b8",
       "date": "2026-07-15",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/les-gouvernements-federal-et-provincial-investissent-dans-les-infrastructures-daqueduc-degout-et-de-gestion-des-eaux-pluviales-afin-de-soutenir-la-0.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Les gouvernements fédéral et provincial investissent dans les infrastructures d’aqueduc, d’égout et de gestion des eaux pluviales afin de soutenir la construction de logements dans quatre collectivités du Nouveau‑Brunswick",
-      "sum": "Quatre municipalités du Nouveau-Brunswick vont moderniser leurs infrastructures d’aqueduc, d’égout et de gestion des eaux pluviales grâce à un investissement conjoint de plus de 8,85 millions de dollars des administrations fédérale, provinciale et municipales dans le cadre du Fonds canadien pour les infrastructures liées au logement du Canada (FCIL).",
-      "cat": "Infrastructure"
+      "title": "Investissements fédéraux-provinciaux dans les infrastructures d'eau du Nouveau-Brunswick",
+      "sum": "Les gouvernements fédéral et provincial investissent plus de 8,85 millions de dollars pour moderniser les infrastructures d'aqueduc, d'égout et de gestion des eaux pluviales dans quatre municipalités du Nouveau-Brunswick. Ces investissements visent à soutenir la construction de nouveaux logements dans ces collectivités.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "1bc4e2bf737ffdc5",
@@ -14397,9 +14516,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Surrey",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de l’honorable Randeep Sarai, secrétaire d’État au Développement international et député de Surrey-Centre, et de Brenda Locke, mairesse de la Ville de Surrey.",
-      "cat": "Foreign affairs"
+      "title": "Annonce d'infrastructure à Surrey avec représentants fédéraux",
+      "sum": "Une annonce concernant un projet d'infrastructure à Surrey aura lieu en présence du secrétaire d'État au Développement international et de la mairesse de Surrey. Les représentants des médias sont invités à cet événement.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "ab1e00a2c3a0afe9",
@@ -14409,9 +14529,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Champagne rencontre les ministres des Finances provinciaux et territoriaux à Charlottetown et favorise le commerce intérieur grâce à une étape décisive en matière d’harmonisation",
-      "sum": "L’honorable François-Philippe Champagne, ministre des Finances et du Revenu national, a rencontré aujourd’hui à Charlottetown les ministres des Finances provinciaux et territoriaux, pour s’entretenir des priorités communes. Celles-ci portent notamment sur l’amélioration de l’abordabilité, l’élimination des obstacles au commerce intérieur qui subsistent entre les provinces, l’augmentation de l’offre de logements et…",
-      "cat": "Intergovernmental affairs"
+      "title": "Ministre Champagne rencontre les ministres provinciaux des Finances",
+      "sum": "Le ministre fédéral des Finances a rencontré les ministres des Finances provinciaux et territoriaux à Charlottetown pour discuter de priorités communes. La réunion a porté sur l'amélioration de l'abordabilité, l'élimination des obstacles au commerce intérieur et l'augmentation de l'offre de logements.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "e692fc28e7a54fdb",
@@ -14421,9 +14542,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada fera une annonce importante concernant le port de Vancouver",
-      "sum": "Delta (Colombie-Britannique) – Le ministre des Transports et leader du gouvernement à la Chambre des communes, l’honorable Steven MacKinnon, fera une annonce concernant le port de Vancouver.",
-      "cat": "Transportation"
+      "title": "Gouvernement annonce mesure concernant le port de Vancouver",
+      "sum": "Le ministre des Transports fera une annonce importante au sujet du port de Vancouver à Delta, en Colombie-Britannique.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "e0d890801d046ee2",
@@ -14433,21 +14555,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Aider les Canadiennes et les Canadiens à accéder plus rapidement à des traitements et à des médicaments sûrs et efficaces",
-      "sum": "Les Canadiennes et les Canadiens s’attendent à avoir accès en temps opportun à des médicaments et à des instruments médicaux sûrs et efficaces. Santé Canada prend des mesures concrètes pour moderniser et améliorer l’efficacité de ses processus réglementaires, tout en maintenant ses normes élevées en matière d’innocuité, d’efficacité et de qualité.",
-      "cat": "Housing"
+      "title": "Santé Canada accélère l'accès aux médicaments et traitements",
+      "sum": "Santé Canada modernise ses processus réglementaires pour permettre aux Canadiens d'accéder plus rapidement à des médicaments et des instruments médicaux sûrs et efficaces. L'agence maintient ses normes élevées en matière d'innocuité, d'efficacité et de qualité.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "7a3ab1b3d300a7c4",
       "date": "2026-07-15",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/sante-canada/nouvelles/2026/07/medicaments-et-dispositifs-medicaux-homologues-entre-le-1er-avril-et-le-30-juin-2026.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Médicaments et dispositifs médicaux homologués entre le 1er avril et le 30 juin 2026",
-      "sum": "Du 1er avril au 30 juin 2026, Santé Canada a homologué 15 nouveaux médicaments (8 médicaments pharmaceutiques et 7 produits biologiques) ainsi que 481 nouveaux dispositifs médicaux, dont 22 dispositifs médicaux de classe IV, qui présentent le risque le plus élevé. Santé Canada a également homologué, au cours de cette période, 31 médicaments génériques et 10 médicaments biosimilaires.",
-      "cat": "Innovation, science & industry"
+      "title": "Santé Canada homologue 15 médicaments et 481 dispositifs médicaux",
+      "sum": "Entre avril et juin 2026, Santé Canada a approuvé 15 nouveaux médicaments (incluant des produits biologiques) ainsi que 481 dispositifs médicaux, dont 22 de la classe IV présentant le risque le plus élevé. Cette période a également vu l'homologation de 31 médicaments génériques et 10 médicaments biosimilaires.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "5dcfe86b41e29f63",
@@ -14457,9 +14581,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Hajdu et le ministre Young rencontreront les ministres provinciaux et territoriaux responsables du marché du travail à Halifax. La ministre Hajdu fera également une annonce nationale importante.",
-      "sum": "La ministre de l’Emploi et des Familles et ministre responsable de l’Agence fédérale de développement économique pour le Nord de l’Ontario, l’honorable Patty Hajdu, ainsi que le ministre du Travail, des Compétences et de l’Immigration de la Nouvelle-Écosse, l’honorable Nolan Young, rencontreront les autres ministres provinciaux et territoriaux à Halifax pour discuter des perspectives du marché du travail au Canada…",
-      "cat": "Innovation, science & industry"
+      "title": "Rencontre fédérale-provinciale sur le marché du travail à Halifax",
+      "sum": "La ministre Hajdu et le ministre Young rencontreront les ministres provinciaux et territoriaux responsables du marché du travail à Halifax pour discuter des perspectives d'emploi au Canada. La ministre Hajdu fera également une annonce nationale importante.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "2f7a19cd9dcfec2f",
@@ -14469,9 +14594,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Comité consultatif sur les relations économiques entre le Canada et les États-Unis se réunit à la suite de la rencontre trilatérale concernant l’examen conjoint de l’ACEUM",
-      "sum": "Les membres du Comité consultatif sur les relations économiques entre le Canada et les États-Unis se sont réunis aujourd’hui pour discuter de l’évolution des relations commerciales entre le Canada et les États-Unis, des récents échanges entre le Canada, les États-Unis et le Mexique, ainsi que des développements en matière de défense et de lutte contre le commerce du fentanyl.",
-      "cat": "Innovation, science & industry"
+      "title": "Comité consultatif se réunit sur relations commerciales Canada-États-Unis",
+      "sum": "Un comité consultatif s'est réuni pour discuter des relations commerciales entre le Canada et les États-Unis, ainsi que des récents échanges trilatéraux avec le Mexique. La réunion a également porté sur des enjeux de défense et de lutte contre le trafic de fentanyl.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "9d1d5933327b156d",
@@ -14927,9 +15053,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Federal government to announce renewed support to address gender-based violence",
-      "sum": "The Honourable Rechie Valdez, Minister of Women and Gender Equality and Secretary of State (Small Business and Tourism), will announce renewed support to address gender-based violence in Canada.",
-      "cat": "Economy"
+      "title": "Government announces renewed support for gender-based violence",
+      "sum": "The Minister of Women and Gender Equality will announce continued federal support to address gender-based violence in Canada.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "b132bfc152d35ed5",
@@ -14939,21 +15066,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Announcement of new diplomatic appointments",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced the following diplomatic appointments",
-      "cat": "Foreign affairs"
+      "title": "Foreign Affairs Minister announces new diplomatic appointments",
+      "sum": "The Minister of Foreign Affairs announced new diplomatic appointments. The specific positions and appointees were identified in the announcement.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "4dc65d49b44883b7",
       "date": "2026-07-14",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/global-affairs/news/2026/07/biographical-notes--diplomatic-appointments1.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Biographical notes – Diplomatic appointments",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced the following diplomatic appointments",
-      "cat": "Foreign affairs"
+      "title": "Canada announces new diplomatic appointments",
+      "sum": "The Minister of Foreign Affairs announced new diplomatic appointments. The specific appointments are not detailed in this excerpt.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "662ecec81a37f5ee",
@@ -14963,9 +15092,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canadian Coast Guard provides crucial Arctic icebreaking services",
-      "sum": "The Canadian Coast Guard (CCG) has been providing crucial icebreaking support for commercial vessels in the eastern Arctic, since the beginning of its annual Arctic summer operations in mid-June.",
-      "cat": "Economy"
+      "title": "Canadian Coast Guard begins Arctic icebreaking summer operations",
+      "sum": "The Canadian Coast Guard has started its annual summer icebreaking operations in the eastern Arctic in mid-June to support commercial vessels. The service provides essential ice management support in Arctic waters during the operational season.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "e2a392c1cf7c8043",
@@ -14975,9 +15105,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Uncrewed Systems Defence Innovation Secure Hub",
-      "sum": "The Bureau of Research, Engineering and Advanced Leadership in Innovation and Science (BOREALIS) serves as Canada’s innovation accelerator. Aligned with Canada’s Defence Industrial Strategy and federal budget commitments, BOREALIS is accelerating innovation, strengthening Canada’s defence industrial base, and helping deliver operational capabilities to the Canadian Armed Forces (CAF).",
-      "cat": "Innovation, science & industry"
+      "title": "BOREALIS innovation hub established to advance defence capabilities",
+      "sum": "Canada has established BOREALIS, an innovation accelerator designed to support defence technology development. The hub aims to strengthen Canada's defence industry and provide new operational capabilities to the Canadian Armed Forces.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "ab93c3f685f5c963",
@@ -14987,9 +15118,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister McGuinty announces new drone production in Quebec",
-      "sum": "As one of Canada’s ten identified sovereign capability priorities under the DIS, uncrewed and autonomous systems are central to ensuring the Canadian Armed Forces (CAF) can operate effectively and independently in a rapidly evolving threat environment.",
-      "cat": "National defence"
+      "title": "Canada announces new drone production facility in Quebec",
+      "sum": "The Minister announced a new drone production initiative in Quebec as part of Canada's defence capability priorities. Uncrewed and autonomous systems are identified as important for the Canadian Armed Forces to operate independently in changing security conditions.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "93aa17809edd49fd",
@@ -14999,9 +15131,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "G7 Foreign Ministers’ Statement on El-Obeid, Sudan",
-      "sum": "We, the G7 Foreign Ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States of America, and the High Representative of the European Union urge the Rapid Support Forces and allied armed groups to immediately cease any action likely to lead to further atrocities or endanger civilians in El-Obeid, including drone strikes and impediments to humanitarian access. Following the…",
-      "cat": "Foreign affairs"
+      "title": "G7 calls for immediate ceasefire in El-Obeid, Sudan",
+      "sum": "G7 Foreign Ministers and the European Union High Representative issued a statement urging the Rapid Support Forces and allied armed groups to stop military actions in El-Obeid, Sudan that risk civilian harm or block humanitarian aid delivery.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "9b6c62985bfeec6b",
@@ -15011,33 +15144,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada unveils first net-zero-emissions-ready apartments for Canadian Armed Forces members at CFB Edmonton",
-      "sum": "Today, the Honourable Eleanor Olszewski, Minister of Emergency Management and Community Resilience and Minister responsible for Prairies Economic Development, visited Canadian Forces Base Edmonton on behalf of the Honourable David J. McGuinty, Minister of National Defence, to unveil the Government of Canada’s first net-zero-emissions-ready apartments for Canadian Armed Forces (CAF) members and their families.",
-      "cat": "National defence"
+      "title": "Government unveils net-zero apartments for Armed Forces members",
+      "sum": "The Government of Canada unveiled its first net-zero-emissions-ready apartment complex for Canadian Armed Forces members and their families at Canadian Forces Base Edmonton. The facility was unveiled by the Minister of Emergency Management and Community Resilience on behalf of the Minister of National Defence.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "e325a7eb17a5c50b",
       "date": "2026-07-14",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/federal-government-invests-in-student-housing-project-in-montreal.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "en",
-      "title": "Federal Government invests in student housing project in Montréal",
-      "sum": "Driven by a shared desire to increase housing supply, the governments of Canada and Quebec strengthened their collaboration in January to accelerate residential construction and support community development. Through a memorandum of understanding designed to guide the harmonized deployment of Build Canada Homes in Quebec, in line with provincial priorities and jurisdictions, both governments are now delivering…",
-      "cat": "Housing"
+      "title": "Federal government invests in student housing project in Montreal",
+      "sum": "The governments of Canada and Quebec signed a memorandum of understanding in January to increase housing supply and accelerate residential construction. The agreement aims to coordinate the deployment of Build Canada Homes in Quebec according to provincial priorities.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "eb0b9f05666371dd",
       "date": "2026-07-14",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2026/07/assault-of-staff-member-at-warkworth-institution.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Assault of staff member at Warkworth Institution",
-      "sum": "On July 11, 2026, a staff member was assaulted at Warkworth Institution, a medium-security federal institution. The injured staff member was evaluated and treated at an outside hospital.",
-      "cat": "Healthcare"
+      "title": "Staff member assaulted at Warkworth Institution",
+      "sum": "On July 11, 2026, a staff member at Warkworth Institution, a medium-security federal prison, was assaulted. The staff member received medical evaluation and treatment at an outside hospital.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "df6cef412a47be74",
@@ -15047,9 +15183,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: Minister Anand announces investments and renewed commitments for cooperation",
-      "sum": "FinDev Canada is providing a US$50-million financing package with Sumitomo Mitsui Banking Corporation (SMBC) to Equatorial Maranhão Distribuidora de Energia S.A., an electricity distribution company serving nearly three million customers in Maranhão, Brazil.",
-      "cat": "Economy"
+      "title": "Canada provides $50M financing for Brazilian electricity distributor",
+      "sum": "FinDev Canada has arranged a US$50-million financing package with Sumitomo Mitsui Banking Corporation to support Equatorial Maranhão Distribuidora de Energia, an electricity distribution company serving nearly three million customers in Brazil's Maranhão state.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "d7b2b0f0f037fd6c",
@@ -15059,9 +15196,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Anand concludes trip to Brazil, announces investments and renewed commitments for cooperation",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, today concluded her trip to Brazil, where she announced investments in infrastructure and reaffirmed Canada’s commitment to continued bilateral cooperation.",
-      "cat": "Foreign affairs"
+      "title": "Minister Anand concludes Brazil trip, announces infrastructure investments",
+      "sum": "Minister of Foreign Affairs Anita Anand concluded a trip to Brazil where she announced investments in infrastructure and reaffirmed Canada's commitment to bilateral cooperation with the country.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "78218498da63ddf8",
@@ -15071,9 +15209,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada-Brazil Joint Statement",
-      "sum": "The fifth iteration of the Brazil-Canada Strategic Partnership Dialogue was held today in São Paulo, Brazil. The meeting was co-chaired by the respective Foreign Ministers.",
-      "cat": "Foreign affairs"
+      "title": "Canada and Brazil hold fifth strategic partnership dialogue",
+      "sum": "Canada and Brazil held their fifth Strategic Partnership Dialogue in São Paulo, with both countries' Foreign Ministers serving as co-chairs. The meeting was part of ongoing bilateral discussions between the two nations.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "d1989a6ac75d566e",
@@ -15083,21 +15222,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral annoncera le renouvellement de son soutien pour contrer la violence fondée sur le sexe",
-      "sum": "L’honorable Rechie Valdez, ministre des Femmes et de l’Égalité des genres et secrétaire d’État (Petites Entreprises et Tourisme), annoncera le renouvellement de son soutien pour contrer la violence fondée sur le sexe au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement renouvelle soutien contre violence fondée sur sexe",
+      "sum": "La ministre des Femmes et de l'Égalité des genres annoncera le renouvellement du soutien fédéral pour lutter contre la violence fondée sur le sexe au Canada.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "040129eb35cf6fe9",
       "date": "2026-07-14",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/07/notes-biographiques--nominations-diplomatiques1.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Notes biographiques – Nominations diplomatiques",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui les nominations diplomatiques suivantes",
-      "cat": "Foreign affairs"
+      "title": "Ministre Anand annonce nominations diplomatiques",
+      "sum": "La ministre des Affaires étrangères a annoncé de nouvelles nominations pour des postes diplomatiques.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "9143a4c82ab6978b",
@@ -15107,9 +15248,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce de nouvelles nominations diplomatiques",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui les nominations diplomatiques suivantes",
-      "cat": "Foreign affairs"
+      "title": "Ministre des Affaires étrangères annonce nominations diplomatiques",
+      "sum": "La ministre des Affaires étrangères a annoncé de nouvelles nominations à des postes diplomatiques. Les détails spécifiques des postes et des candidats sont présentés dans cette annonce officielle.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "9c9df234402bbe7f",
@@ -15119,9 +15261,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La Garde côtière canadienne assure des services essentiels de déglaçage dans l’Arctique",
-      "sum": "La Garde côtière canadienne (GCC) apporte un soutien essentiel en matière de déglaçage aux navires commerciaux dans l’Arctique de l’Est depuis le début de ses opérations estivales annuelles dans la région, à la mi‑juin.",
-      "cat": "Economy"
+      "title": "Garde côtière canadienne offre services de déglaçage en Arctique",
+      "sum": "La Garde côtière canadienne a commencé ses opérations estivales annuelles en Arctique à la mi-juin pour aider les navires commerciaux à naviguer dans les eaux glacées.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "ee81be05ca649310",
@@ -15131,9 +15274,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Carrefour sécurisé de l’innovation pour la défense consacré aux systèmes sans pilote",
-      "sum": "Le Bureau de recherche, d’ingénierie et de leadership avancés en matière d’innovation et de science (BOREALIS) est l’accélérateur d’innovation du Canada Conformément à la Stratégie industrielle de défense du Canada et aux engagements du budget fédéral, BOREALIS accélère l’innovation, renforce la base industrielle de défense du Canada et aide à fournir des capacités opérationnelles aux Forces armées canadiennes (FAC).",
-      "cat": "Innovation, science & industry"
+      "title": "BOREALIS établi comme carrefour d'innovation pour systèmes sans pilote",
+      "sum": "Le Canada crée BOREALIS, un accélérateur d'innovation en défense destiné à développer des technologies de systèmes sans pilote. Cette initiative soutient la stratégie industrielle de défense du Canada et renforce les capacités des Forces armées canadiennes.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "c83aa30c4b14fc3b",
@@ -15143,9 +15287,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre McGuinty fait une annonce sur la production de drones au Québec",
-      "sum": "En tant que l’une des dix capacités souveraines priorisées dans le cadre de la stratégie industrielle de défense (SID), les systèmes sans équipage et autonomes sont essentiels pour faire en sorte que les Forces armées canadiennes (FAC) puissent opérer efficacement et de manière indépendante dans un environnement de menace en évolution rapide.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre annonce production de drones sans équipage au Québec",
+      "sum": "Le ministre McGuinty a annoncé des initiatives concernant la production de systèmes de drones sans équipage au Québec. Ces systèmes sont identifiés comme l'une des dix capacités prioritaires dans la stratégie industrielle de défense du Canada pour permettre aux Forces armées canadiennes d'opérer de façon efficace et indépendante.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "fff32957e52e9218",
@@ -15155,9 +15300,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration des ministres des Affaires étrangères du G7 sur El-Obeid, au Soudan",
-      "sum": "Nous, ministres des Affaires étrangères du G7 de l’Allemagne, du Canada, des États-Unis, de la France, de l’Italie, du Japon et du Royaume-Uni, et Haute Représentante de l’Union européenne, exhortons les Forces de soutien rapide et les groupes armés alliés à mettre immédiatement un terme à toute action qui risquerait d’entraîner de nouvelles atrocités ou de mettre les civils en danger à El-Obeid, notamment les…",
-      "cat": "Innovation, science & industry"
+      "title": "Ministres G7 appellent à cesser les violences au Soudan",
+      "sum": "Les ministres des Affaires étrangères du G7 et de l'Union européenne demandent aux Forces de soutien rapide et aux groupes armés alliés d'arrêter immédiatement les actions qui menacent les civils à El-Obeid, au Soudan.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "d9d9b151dde048b2",
@@ -15167,21 +15313,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada dévoile ses premiers appartements prêts pour la carboneutralité destinés aux membres des Forces armées canadiennes à la BFC Edmonton",
-      "sum": "Aujourd’hui, l’honorable Eleanor Olszewski, ministre de la Gestion des urgences et de la Résilience des communautés et ministre responsable de Développement économique Canada pour les Prairies, s’est rendue à la Base des Forces canadiennes Edmonton, au nom de l’honorable David J. McGuinty, ministre de la Défense nationale, pour dévoiler les premiers appartements prêts pour la carboneutralité du gouvernement du…",
-      "cat": "Sustainable development"
+      "title": "Canada dévoile premiers appartements carboneutres pour militaires à Edmonton",
+      "sum": "Le gouvernement du Canada a présenté ses premiers appartements conçus pour atteindre la carboneutralité, destinés aux membres des Forces armées canadiennes à la Base des Forces canadiennes Edmonton. Cette initiative fait partie des efforts du gouvernement pour réduire les émissions de carbone dans les installations militaires.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "1746de46c44678f3",
       "date": "2026-07-14",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/le-gouvernement-federal-investit-dans-un-projet-de-logements-etudiants-a-montreal.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral investit dans un projet de logements étudiants à Montréal",
-      "sum": "Animés par une volonté commune d’accroître l’offre de logements, les gouvernements du Canada et du Québec ont renforcé leur collaboration en janvier afin d’accélérer la construction résidentielle et de soutenir le développement des collectivités. Grâce à un protocole d’entente visant à guider le déploiement harmonisé de Maisons Canada au Québec, dans le respect des priorités et des compétences provinciales, les deux…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Québec renforcent collaboration sur logements étudiants",
+      "sum": "Le gouvernement fédéral et le gouvernement du Québec ont signé un protocole d'entente en janvier pour accélérer la construction de logements résidentiels. Cette collaboration vise à augmenter l'offre de logements et soutenir le développement des collectivités, notamment par le déploiement du programme Maisons Canada au Québec.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "82177340f5100866",
@@ -15191,9 +15339,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Agression d’une employée à l’Établissement de Warkworth",
-      "sum": "Le 11 juillet 2026, une employée a été agressée à l’Établissement de Warkworth, un établissement fédéral à sécurité moyenne. Le membre du personnel blessé a été évalué et traité dans un hôpital externe.",
-      "cat": "Innovation, science & industry"
+      "title": "Agression d'une employée à l'Établissement de Warkworth",
+      "sum": "Une employée a été agressée le 11 juillet 2026 à l'Établissement de Warkworth, un établissement fédéral à sécurité moyenne. La personne blessée a reçu une évaluation et un traitement à l'hôpital.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "ec82c996500fe7cf",
@@ -15203,9 +15352,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : La ministre Anand annonce des investissements et des engagements renouvelés en faveur de la coopération",
-      "sum": "FinDev Canada accorde, en partenariat avec Sumitomo Mitsui Banking Corporation (SMBC), un financement de 50 millions de dollars américains à Equatorial Maranhão Distribuidora de Energia S.A., une société de distribution d’électricité desservant près de trois millions de clients dans l’État du Maranhão, au Brésil.",
-      "cat": "Innovation, science & industry"
+      "title": "FinDev Canada finance un distributeur d'électricité brésilien",
+      "sum": "FinDev Canada et Sumitomo Mitsui Banking Corporation accordent un financement de 50 millions de dollars américains à une société brésilienne de distribution d'électricité. Cette société dessert près de trois millions de clients dans l'État du Maranhão.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "1e5d60141240b334",
@@ -80622,6 +80772,18 @@
       "title": "Ottawa investit dans des publicités à saveur patriotiques - Radio-Canada",
       "excerpt": "Ottawa investit dans des publicités à saveur patriotiques Radio-Canada",
       "cat": "Economy"
+    },
+    {
+      "id": "4577639777030fe1",
+      "date": "2026-02-19",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNGJnQl9DV2RZMzF2S1lET1FiYS1tb3BhalNrc1E4d21wMlpIWWtYcnMwbnNNR2owRWFaRlRXMmFYTzJGLWE2bEh5VE1VeHM5LU9OUUVOTWNuYkZ4TGVMdHk4eEhNMWo5RzNfcXpFSFppOUxmMkYzYUNkekdIUFdGaEFReTFRc2hzMGRzaHl6MXBNQ3JK?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Bonne nouvelle, on devrait éviter une élection! - Le Journal de Montréal",
+      "excerpt": "Bonne nouvelle, on devrait éviter une élection! Le Journal de Montréal",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "1ea4814fe6cddc95",
