@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T01:58:29.737Z",
-  "count": 14046,
+  "generatedAt": "2026-08-10T07:46:59.255Z",
+  "count": 14048,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c7445f35c38588b1",
+      "date": "2026-08-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd251Y0hkcFFTSU5LY2lqZHpYdWk2ZmRyUFRwV2o4V0hsdWxSQWJSZWc1dWVOTGlBbVkwUjU1cURkbERCc0RTLUF1ODQxNnMxQUVZZDBNRnpsZ055elBWeVpSTklZSWxsZTJzSzlNZFVvWEdySXNLTXZGYjduNzJ2VmdMLXEwMTQ1a0hFZWV1ZXlpTDJW?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "In Canada, Big Oil held 1,318 lobbying meetings during Mark Carney's first year - The Cool Down",
+      "excerpt": "In Canada, Big Oil held 1,318 lobbying meetings during Mark Carney's first year The Cool Down",
+      "cat": "Natural resources"
+    },
     {
       "id": "914464315aa50601",
       "date": "2026-08-09",
@@ -905,6 +917,18 @@
       "cat": "Sustainable development",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "026cae4f11fcdf2f",
+      "date": "2026-08-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkdzVGVnBERFVCYXJ2RnBoNGpjMlVnelhESmxHWTFEcXMyOS0zM1ZmTEhBR1BVU194WmJBakFNMDd5YXVWUjRfTENlSmdmM2JqR2JyTnJpQTZiQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney Thinks Canada Has Bigger Problems than Climate Change - The Walrus",
+      "excerpt": "Mark Carney Thinks Canada Has Bigger Problems than Climate Change The Walrus",
+      "cat": "Sustainable development"
     },
     {
       "id": "67017b370e18847c",
@@ -17229,9 +17253,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada invests in artificial intelligence and remote sensing for climate-smart agriculture",
-      "sum": "Canadian farmers need innovative solutions to stay competitive, boost productivity, and address the challenges of climate change.",
-      "cat": "Sustainable development"
+      "title": "Canada invests in AI and remote sensing for climate agriculture",
+      "sum": "The Government of Canada is providing funding for artificial intelligence and remote sensing technologies to support agricultural practices that respond to climate change. The initiative aims to help Canadian farmers improve productivity and competitiveness.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "becf14d4521a12a3",
@@ -17241,21 +17266,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Ministers Chartrand, Alty, and Gull-Masty issue statement on Nunavut Day",
-      "sum": "The Honourable Rebecca Chartrand, Minister of Northern and Arctic Affairs and Minister responsible for the Canadian Northern Economic Development Agency, the Honourable Rebecca Alty, Minister of Crown-Indigenous Relations, and the Honourable Mandy Gull-Masty, Minister of Indigenous Services, issued the following statement today",
-      "cat": "Indigenous services"
+      "title": "Ministers issue statement on Nunavut Day",
+      "sum": "Three federal ministers released a joint statement marking Nunavut Day. The statement was issued by the Ministers of Northern and Arctic Affairs, Crown-Indigenous Relations, and Indigenous Services.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "f1ebc287dd289c56",
       "date": "2026-07-09",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/backgrounder-the-project-to-expand-and-renovate-the-psychiatric-services-centre-and-emergency-department-at-the-saint-francois-dassise-hospital-wil.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: The project to expand and renovate the psychiatric services centre and emergency department at the Saint-François-d’Assise Hospital will be able to move forward",
-      "sum": "The federal government is investing $167.9 million under the Canada–Québec Agreement through the Building Communities Strong Fund to support four hospital projects in the greater Québec City area.",
-      "cat": "Healthcare"
+      "title": "Federal government funds four hospital projects in Quebec City area",
+      "sum": "The federal government is investing $167.9 million in hospital infrastructure projects in the greater Quebec City area through the Building Communities Strong Fund. This includes funding for an expansion and renovation of psychiatric services and emergency department facilities at Saint-François-d'Assise Hospital.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "18a97fc2c92ec338",
@@ -17265,9 +17292,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The project to expand and renovate the psychiatric services centre and emergency department at the Saint-François-d’Assise Hospital will be able to move forward",
-      "sum": "The Government of Quebec, in collaboration with the Government of Canada, announces that the project to expand and renovate the psychiatric services centre and the emergency department at the Saint-François-d’Assise Hospital has reached a new milestone. Planning work can now proceed under new parameters to better meet the needs of patients and staff.",
-      "cat": "Healthcare"
+      "title": "Saint-François-d'Assise Hospital psychiatric and emergency expansion approved",
+      "sum": "The federal and Quebec governments have approved a project to expand and renovate the psychiatric services centre and emergency department at Saint-François-d'Assise Hospital. Planning work can now proceed with new parameters to meet patient and staff needs.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "2f73f7543a7265eb",
@@ -17277,9 +17305,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Invitation to media – The Honourable Mélanie Joly to announce conclusion of agreement between governments of Canada and Quebec on modernisation of local infrastructure",
-      "sum": "The Honourable Mélanie Joly, Minister of Industry and Minister responsible for CED, will announce the conclusion of an agreement between the governments of Canada and Quebec in the presence of Eric Girard, Minister of Finance and Minister Responsible for Infrastructure; Jean Boulet, Minister of Labour and Minister Responsible for Canadian Relations; Caroline Desrochers, Parliamentary Secretary to the Minister of…",
-      "cat": "Infrastructure"
+      "title": "Canada and Quebec conclude local infrastructure modernization agreement",
+      "sum": "Canada and Quebec have reached an agreement on modernizing local infrastructure. The announcement will be made by federal and provincial government officials.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "76fbd3c95f99b9e7",
@@ -17289,9 +17318,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The NFB at the Locarno Film Festival | Piluk, by Elisapie Isaac and Marc Séguin, is a competition selection and will screen as a world premiere in the Pardi di Domani section",
-      "sum": "Piluk, the first collaboration between Inuk author, singer, songwriter and film director Elisapie Isaac and multidisciplinary artist Marc Séguin, has been selected in competition at Switzerland’s prestigious Locarno Film Festival, where it will receive its world premiere screening.",
-      "cat": "Intergovernmental affairs"
+      "title": "NFB film Piluk selected for Locarno Film Festival competition",
+      "sum": "Piluk, a collaboration between Inuk filmmaker Elisapie Isaac and artist Marc Séguin, has been selected to compete at the Locarno Film Festival in Switzerland and will have its world premiere screening there.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "56dc25a0f6d9f211",
@@ -17301,9 +17331,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Témisko continues to grow with help from Governments of Quebec and Canada",
-      "sum": "The Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions (CED), the Honorable Mélanie Joly; the Member for Rouyn-Noranda–Témiscamingue and Minister for the Economy and Small and Medium Enterprises, Daniel Bernard; the Member for Abitibi-Ouest and Parliamentary Assistant to the Minister for the Regions of Abitibi-Témiscamingue, Suzanne Blais; and Investissement Québec are…",
-      "cat": "Economy"
+      "title": "Federal and Quebec governments support Témisko economic development",
+      "sum": "The federal and Quebec governments are providing support to help Témisko continue growing. Multiple ministers and government officials are involved in the initiative.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "781bc0871c08e071",
@@ -17313,9 +17344,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Family of Edouard Beaupré—the “Willow Bunch Giant”—seeks to restore his identity and reclaim his Michif heritage. Hometown premiere for Jessie Ray Short’s NFB documentary Moon Noonk Edouard at the Regina International Film Festival and Awards.",
-      "sum": "Regina director Jessie Ray Short will be in attendance for her hometown premiere at the 2026 Regina International Film Festival and Awards (August 12–22), where the National Film Board of Canada production Moon Noonk Edouard (My Uncle Edouard) will be screening in-person in the Documentary Shorts competition.",
-      "cat": "Foreign affairs"
+      "title": "NFB documentary on Édouard Beaupré premieres at Regina film festival",
+      "sum": "A National Film Board of Canada documentary about Édouard Beaupré, known as the \"Willow Bunch Giant,\" will premiere at the 2026 Regina International Film Festival. The film explores efforts by Beaupré's family to restore his identity and reclaim his Michif heritage.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "62729d34d7691d7b",
@@ -17325,9 +17357,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce de nouvelles nominations diplomatiques",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui les nominations diplomatiques suivantes :",
-      "cat": "Foreign affairs"
+      "title": "Ministre annonce nouvelles nominations diplomatiques",
+      "sum": "La ministre des Affaires étrangères a annoncé des nominations à des postes diplomatiques. Les détails spécifiques des postes et des personnes nommées ne sont pas fournis dans cette annonce.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "daa058253607d7a7",
@@ -17337,21 +17370,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Notes biographiques – Nominations diplomatiques",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui les nominations diplomatiques suivantes",
-      "cat": "Foreign affairs"
+      "title": "Ministre annonce nouvelles nominations diplomatiques",
+      "sum": "La ministre des Affaires étrangères a annoncé des changements de personnel aux postes diplomatiques du Canada.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "ceaf4e7ade9c2503",
       "date": "2026-07-09",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/les-gouvernements-du-canada-et-du-quebec-et-la-ville-de-montreal-investissent-dans-la-rehabilitation-dun-batiment-pour-creer-le-complexe-communauta.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Les gouvernements du Canada et du Québec et la Ville de Montréal investissent dans la réhabilitation d’un bâtiment pour créer le complexe communautaire Espace+Village à Montréal",
-      "sum": "Le Complexe communautaire Espace+Village à Montréal deviendra le premier complexe communautaire LGBTQIA2S+ francophone en Amérique du Nord, avec des espaces modernes, inclusifs et polyvalents grâce à un investissement conjoint de près de 12 millions de dollars du gouvernement fédéral dans le cadre du programme Bâtiments communautaires verts et inclusifs (BCVI), du gouvernement du Québec via la mesure d’aide…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada, Québec et Montréal financent un complexe communautaire LGBTQIA2S+",
+      "sum": "Les gouvernements du Canada et du Québec ainsi que la Ville de Montréal investissent environ 12 millions de dollars pour réhabiliter un bâtiment destiné à devenir un complexe communautaire inclusif pour la communauté LGBTQIA2S+. Ce complexe sera le premier du genre francophone en Amérique du Nord.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "2a33fc848cfabb92",
@@ -17361,21 +17396,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada souligne le doublement des sanctions pécuniaires en cas de non-conformité dans le cadre du Programme des travailleurs étrangers temporaires",
-      "sum": "La priorité du gouvernement fédéral consiste à renforcer l’économie de façon durable. Et cela commence ici même, chez nous.",
-      "cat": "Foreign affairs"
+      "title": "Sanctions augmentées pour non-conformité au programme des travailleurs étrangers temporaires",
+      "sum": "Le gouvernement du Canada a doublé les amendes imposées aux employeurs qui ne respectent pas les règles du Programme des travailleurs étrangers temporaires. Cette mesure vise à renforcer l'économie canadienne de manière durable.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "f38de86a2e039b3b",
       "date": "2026-07-09",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/developpement-economique-sud-ontario/nouvelles/2026/07/le-gouvernement-du-canada-aide-une-entreprise-manufacturiere-detobicoke-a-adopter-lintelligence-artificielle.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada aide une entreprise manufacturière d’Etobicoke à adopter l’intelligence artificielle",
-      "sum": "Un investissement de FedDev Ontario aidera Huys Industries Ltd. à développer et à commercialiser une technologie basée sur l’intelligence artificielle",
-      "cat": "Innovation, science & industry"
+      "title": "Canada aide fabricant ontarien à adopter l'intelligence artificielle",
+      "sum": "Le gouvernement du Canada investit par l'intermédiaire de FedDev Ontario pour soutenir Huys Industries Ltd. dans le développement et la commercialisation d'une technologie basée sur l'intelligence artificielle.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "8cf9d43bae3da749",
@@ -17385,9 +17422,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Inhumation en France d’un soldat canadien de la Première Guerre mondiale",
-      "sum": "Un soldat canadien de la Première Guerre mondiale, le soldat Albert (Bert) Henry Detmold, a été inhumé aujourd’hui avec honneurs militaires au cimetière britannique de Loos, à Loos-en-Gohelle, en France.",
-      "cat": "Innovation, science & industry"
+      "title": "Inhumation militaire d'un soldat canadien de la Première Guerre mondiale",
+      "sum": "Le soldat Albert Henry Detmold, un militaire canadien de la Première Guerre mondiale, a été inhumé avec honneurs militaires au cimetière britannique de Loos en France.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "35cc713d0c4ab9a0",
@@ -17397,9 +17435,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral fera une annonce au sujet d’un accord historique avec le Centre Manitou Asinîy-Iniskim-Tsa Xani au parc national Elk Island",
-      "sum": "Le gouvernement fédéral fera une annonce au sujet d’un accord historique avec le Centre Manitou Asinîy-Iniskim-Tsa Xani au parc national Elk Island.",
-      "cat": "Economy"
+      "title": "Accord historique annoncé au parc national Elk Island",
+      "sum": "Le gouvernement fédéral annonce un accord avec le Centre Manitou Asinîy-Iniskim-Tsa Xani concernant le parc national Elk Island.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "17a86a7fdda3588f",
@@ -17409,9 +17448,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada appuie la radiodiffusion autochtone dans le nord de la Saskatchewan",
-      "sum": "L’honorable Buckley Belanger, secrétaire d’État pour le Développement rural, annonce un appui financier à la production de contenu audio et vidéo autochtone dans le nord de la Saskatchewan",
-      "cat": "Innovation, science & industry"
+      "title": "Canada soutient la radiodiffusion autochtone en Saskatchewan du Nord",
+      "sum": "Le gouvernement du Canada fournit un soutien financier pour la production de contenu audio et vidéo autochtone dans le nord de la Saskatchewan. Cette aide est annoncée par le secrétaire d'État pour le Développement rural.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "7230f7672a17d714",
@@ -17421,9 +17461,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à La Ronge",
-      "sum": "Les représentants des médias sont invités à une importante annonce concernant des infrastructures communautaires en Saskatchewan, en présence de l’honorable Buckley Belanger, secrétaire d’État (Développement rural), député de Denesthé–Missinippi–Rivière Churchill, et de Cheffe Tammy Cook-Searson.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure communautaire en Saskatchewan",
+      "sum": "Le gouvernement fédéral annonce un projet d'infrastructure communautaire à La Ronge, en Saskatchewan. L'annonce sera faite par le secrétaire d'État chargé du développement rural et la chef locale.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "e6dd21abd0cd18f2",
@@ -17433,9 +17474,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit dans l'intelligence artificielle et la télédétection pour l'agriculture adaptée au climat",
-      "sum": "Les agriculteurs canadiens ont besoin de solutions novatrices pour rester compétitifs, accroître leur productivité et relever les défis liés aux changements climatiques.",
-      "cat": "Culture & heritage"
+      "title": "Canada investit en intelligence artificielle pour agriculture climatique",
+      "sum": "Le gouvernement du Canada finance des solutions d'intelligence artificielle et de télédétection pour aider les agriculteurs à améliorer leur productivité et à s'adapter aux changements climatiques.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "908a64d63b93fa9a",
@@ -17445,21 +17487,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les ministres Chartrand, Alty et Gull-Masty publient une déclaration à l'occasion de la Journée du Nunavut",
-      "sum": "L'honorable Rebecca Chartrand, ministre des Affaires du Nord et de l'Arctique et ministre responsable de l'Agence canadienne de développement économique du Nord, l'honorable Rebecca Alty, ministre des Relations Couronne-Autochtones, et l'honorable Mandy Gull-Masty, ministre des Services aux Autochtones, ont publié la déclaration suivante aujourd’hui",
-      "cat": "Innovation, science & industry"
+      "title": "Trois ministres publient déclaration pour la Journée du Nunavut",
+      "sum": "Les ministres des Affaires du Nord, des Relations Couronne-Autochtones et des Services aux Autochtones ont publié une déclaration commune à l'occasion de la Journée du Nunavut.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "8a64d1b067fc463f",
       "date": "2026-07-09",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/document-dinformation--le-projet-dagrandissement-et-de-reamenagement-du-centre-de-services-en-psychiatrie-et-de-lurgence-de-lhopital-saint-francois.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d'information : Le projet d'agrandissement et de réaménagement du centre de services en psychiatrie et de l'urgence de l'Hôpital Saint-François-d'Assise pourra aller de l'avant",
-      "sum": "Le gouvernement fédéral investit 167,9 millions $ dans le cadre de l'Entente Canada–Québec par l'entremise du Fonds pour bâtir des collectivités fortes afin de soutenir quatre projets hospitaliers dans la grande région de Québec.",
-      "cat": "Healthcare"
+      "title": "Canada investit 167,9 millions pour agrandissement hôpital Québec",
+      "sum": "Le gouvernement fédéral alloue 167,9 millions de dollars au Québec par l'entente Canada-Québec pour soutenir quatre projets hospitaliers dans la région de Québec, notamment l'agrandissement du centre de psychiatrie et d'urgence de l'Hôpital Saint-François-d'Assise.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "e3084495a7e2cd7e",
@@ -17469,9 +17513,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le projet d’agrandissement et de réaménagement du centre de services en psychiatrie et de l’urgence de l’Hôpital Saint-François-d’Assise pourra aller de l’avant",
-      "sum": "Le gouvernement du Québec, en collaboration avec le gouvernement du Canada, annonce que le projet visant à agrandir et à réaménager le centre de services en psychiatrie ainsi que l’urgence de l’Hôpital Saint-François-d’Assise franchit une nouvelle étape. Les travaux de planification pourront se poursuivre selon de nouveaux paramètres afin de mieux répondre aux besoins des patients et du personnel.",
-      "cat": "Healthcare"
+      "title": "Expansion du centre de psychiatrie de l'Hôpital Saint-François-d'Assise autorisée",
+      "sum": "Le gouvernement du Québec et le gouvernement du Canada annoncent que le projet d'agrandissement et de réaménagement du centre de services en psychiatrie et du service d'urgence de l'Hôpital Saint-François-d'Assise peut progresser. Les travaux de planification continueront selon de nouveaux paramètres pour mieux répondre aux besoins des patients et du personnel.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "363cf28a7be7608c",
@@ -17481,9 +17526,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Invitation aux médias – L’honorable Mélanie Joly annoncera la conclusion d’une entente entre les gouvernements du Canada et du Québec pour la modernisation des infrastructures locales",
-      "sum": "L’honorable Mélanie Joly, ministre de l’Industrie et ministre responsable de DEC, annoncera la conclusion d’une entente entre les gouvernements du Canada et du Québec en présence d’Eric Girard, ministre des Finances et ministre responsable des Infrastructures, de Jean Boulet, ministre du Travail et ministre responsable des Relations canadiennes, de Caroline Desrochers, secrétaire parlementaire du ministre du…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Québec concluent une entente de modernisation des infrastructures",
+      "sum": "Le gouvernement du Canada et le gouvernement du Québec ont conclu une entente pour moderniser les infrastructures locales. L'annonce officielle sera faite par la ministre fédérale de l'Industrie en présence de représentants du gouvernement québécois.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "ef528dba1d539d3e",
@@ -17493,9 +17539,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ONF au Festival du film de Locarno | Piluk, d’Elisapie Isaac et Marc Séguin, sélectionné en première mondiale et en compétition dans la section Pardi di Domani",
-      "sum": "Piluk, toute première collaboration entre l’autrice-compositrice-interprète et réalisatrice inuk Elisapie Isaac et l’artiste multidisciplinaire Marc Séguin, est sélectionné en première mondiale et en compétition au prestigieux Festival international du film de Locarno, en Suisse.",
-      "cat": "Foreign affairs"
+      "title": "Film Piluk sélectionné en première mondiale à Locarno",
+      "sum": "Le film Piluk, une collaboration entre l'artiste inuk Elisapie Isaac et Marc Séguin, a été sélectionné pour sa première mondiale en compétition au Festival international du film de Locarno en Suisse.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "596462effeaa861a",
@@ -17505,9 +17552,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Témisko poursuit sa croissance grâce à l’aide des gouvernements du Québec et du Canada",
-      "sum": "La ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec (DEC), l’honorable Mélanie Joly, le député de Rouyn-Noranda–Témiscamingue et ministre délégué à l’Économie et aux Petites et Moyennes Entreprises, Daniel Bernard, la députée d’Abitibi-Ouest et adjointe gouvernementale du ministre délégué aux Régions pour l’Abitibi-Témiscamingue, Suzanne Blais, et…",
-      "cat": "Innovation, science & industry"
+      "title": "Témisko reçoit du soutien fédéral et québécois",
+      "sum": "Témisko bénéficie d'une aide financière des gouvernements du Canada et du Québec pour soutenir sa croissance économique. Des ministres fédéraux et des représentants québécois ont annoncé ce soutien à l'entreprise.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "a8c218f8d2c19c2b",
@@ -17517,9 +17565,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La famille d’Edouard (le Géant) Beaupré souhaite lui rendre son identité et son patrimoine michifs. Le Festival international du film de Regina présente le court métrage documentaire de l’ONF Moon Noonk Edouard, une première dans sa ville natale pour Jessie Ray Short, qui a signé la réalisation du film.",
-      "sum": "Jessie Ray Short assistera à la première dans sa ville natale à l’occasion du Festival international du film de Regina 2026 (12 au 22 août), où la production de l’Office national du film du Canada Moon Noonk Edouard (Mon oncle Edouard) sera projetée en salle, dans le cadre de la compétition de courts métrages documentaires.",
-      "cat": "Foreign affairs"
+      "title": "Film documentaire sur Édouard Beaupré présenté à Regina",
+      "sum": "Un court métrage documentaire de l'Office national du film intitulé Moon Noonk Edouard sera projeté au Festival international du film de Regina en août 2026. Le film porte sur Édouard Beaupré et la volonté de sa famille de préserver son identité et son patrimoine michif.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "6d03625c3632d850",
@@ -17671,9 +17720,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Secretary of State van Koeverden celebrates defining moments in Canada’s FIFA World Cup 2026™ hosting",
-      "sum": "Secretary of State Adam van Koeverden attended a knockout-stage match in Vancouver and highlighted Canada’s successful hosting of the FIFA World Cup 2026™, the historic achievements of Canada Soccer’s Men’s National Team and the tournament’s reach across the country",
-      "cat": "Economy"
+      "title": "Canada hosts FIFA World Cup 2026 knockout-stage match",
+      "sum": "Secretary of State Adam van Koeverden attended a knockout-stage match in Vancouver during Canada's hosting of the FIFA World Cup 2026. The event showcased Canada's role as a tournament host and highlighted achievements of Canada Soccer's Men's National Team.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "1cf8f5a18253084e",
@@ -17683,21 +17733,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Federal government launches call for proposals to increase women’s economic and leadership opportunities",
-      "sum": "Today, the Honourable Rechie Valdez, Minister of Women and Gender Equality and Secretary of State (Small Business and Tourism) announced a call for proposals to support projects that remove barriers and increase access to women's economic and leadership opportunities across Canada.",
-      "cat": "Economy"
+      "title": "Federal government seeks proposals to advance women's economic leadership",
+      "sum": "The government has opened a call for proposals to fund projects that address barriers and expand women's economic and leadership opportunities across Canada. The announcement was made by the Minister of Women and Gender Equality and Secretary of State for Small Business and Tourism.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ac6e621635864707",
       "date": "2026-07-08",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/department-national-defence/news/2026/07/joint-statement-on-canadas-status-as-co-framework-nation-for-multinational-division-north.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "en",
-      "title": "Joint Statement on Canada’s Status as Co-Framework Nation for Multinational Division-North",
-      "sum": "We, the Minister of National Defence of Canada, the Minister of Defence of Denmark, and the Minister of Defence of the Republic of Latvia, recognize our common interest in maintaining credible deterrence along NATO’s Eastern Flank and our shared resolve to defend every inch of Allied territory.",
-      "cat": "National defence"
+      "title": "Canada becomes co-framework nation for NATO multinational division",
+      "sum": "Canada, Denmark, and Latvia have jointly announced Canada's status as a co-framework nation for a multinational military division on NATO's Eastern Flank. The arrangement aims to maintain deterrence and collective defence capabilities in the region.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "103f40c94009e7ef",
@@ -17707,9 +17759,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Infrastructure Announcement in Montreal",
-      "sum": "Members of the media are invited to an infrastructure announcement with the Honourable Steven Guilbeault, Member of Parliament for Laurier—Sainte-Marie, Mrs. Marie-Gabrielle Ménard, Member of Parliament for Hochelaga—Rosemont-Est, Parliamentary Secretary to the Minister of Women and Gender Equality and Secretary of State, Mrs. Chantal Rouleau, Minister Responsible for Social Solidarity and Community Action and…",
-      "cat": "Innovation, science & industry"
+      "title": "Federal government announces infrastructure investment in Montreal",
+      "sum": "The federal government is making an infrastructure announcement in Montreal with participation from several Members of Parliament and officials. The announcement will be made by the Honourable Steven Guilbeault and other government representatives.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "3890232e0814a2cc",
@@ -17719,9 +17772,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada advances Canadian Patrol Submarine Project",
-      "sum": "Canada is a maritime nation with the longest coastline in the world, three oceans to protect, and growing responsibilities in the Arctic, North America, and around the world.",
-      "cat": "Economy"
+      "title": "Canada advances Canadian Patrol Submarine Project",
+      "sum": "The Government of Canada is moving forward with the Canadian Patrol Submarine Project. The government states that Canada's geography and international responsibilities require submarine capabilities.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "b016bd4b67f211bd",
@@ -17731,9 +17785,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Full list of 2026-2027 crop year changes",
-      "sum": "Full list of 2026-2027 crop year changes",
-      "cat": "Economy"
+      "title": "Changes announced for 2026-2027 crop year",
+      "sum": "The government has issued a list of changes that will apply during the 2026-2027 crop year. The specific details of these changes are not provided in the available text.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "6406b6127829c6c7",
@@ -17743,9 +17798,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canadian grain grading changes for the 2026-2027 crop year",
-      "sum": "The Canadian Grain Commission is updating grain grading procedures for amber durum, wheat and lentils for the 2026-27 crop year. These changes are being made following consultation with grain sector stakeholders and recommendations from our standards committees. They will allow Canada’s quality assurance system to better meet the needs of the sector and grain buyers around the world.",
-      "cat": "Innovation, science & industry"
+      "title": "Canadian Grain Commission updates grading procedures for 2026-2027",
+      "sum": "The Canadian Grain Commission is changing how it grades amber durum, wheat, and lentils starting with the 2026-2027 crop year. The updates follow consultations with grain industry stakeholders and are intended to improve Canada's quality assurance system.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "3e64ab41405659b5",
@@ -17755,21 +17811,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Improvements to Kangiqsukutaaq Quarry on South Baffin Island to support Nunavut carvers",
-      "sum": "Today the Honourable Rebecca Chartrand, Minister of Northern and Arctic Affairs and Minister responsible for CanNor, announced a $586,500 contribution to the Qikiqtani Inuit Association to improve the safety and usability of the Kangiqsukutaaq Quarry.",
-      "cat": "Indigenous services"
+      "title": "Federal funding granted for South Baffin Island quarry improvements",
+      "sum": "The federal government is providing $586,500 to the Qikiqtani Inuit Association to improve safety and usability at the Kangiqsukutaaq Quarry on South Baffin Island, which supports Nunavut carvers.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "b3407a387496cde4",
       "date": "2026-07-08",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2026/07/death-of-an-inmate-from-donnacona-institution.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Death of an inmate from Donnacona Institution",
-      "sum": "On July 8, 2026, Allan Winfield Potter, an inmate from Donnacona Institution, died while in our custody.",
-      "cat": "Economy"
+      "title": "Inmate death at Donnacona Institution reported",
+      "sum": "Allan Winfield Potter, an inmate at Donnacona Institution, died on July 8, 2026 while in custody. The federal government has issued a public record of this death.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "98446344a200fbfa",
@@ -17779,9 +17837,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Secretary of State van Koeverden announces support for a series of international sport events in Canada",
-      "sum": "The Government of Canada is supporting a series of international sport events across the country this summer, bringing Canadians together and showcasing the strength and diversity of our communities.",
-      "cat": "Foreign affairs"
+      "title": "Canada to support international sport events across country",
+      "sum": "The Secretary of State announced government support for multiple international sport events taking place in Canada during summer. The events are intended to bring Canadians together and highlight community strengths and diversity.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "69775536008aa09d",
@@ -17791,9 +17850,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Reminder: flying a drone near wildfires is illegal and dangerous",
-      "sum": "Transport Canada reminds the public that flying a drone within 9.3 km (5 nautical miles) of wildfires is illegal and dangerous.",
-      "cat": "Transportation"
+      "title": "Transport Canada reminds public drones prohibited near wildfires",
+      "sum": "Transport Canada issued a reminder that flying drones within 9.3 kilometres of wildfires is illegal and dangerous. The restriction applies to all drone operations in wildfire zones.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "2918e8ac0ba62168",
@@ -17803,21 +17863,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The Government of Canada will help fund the Vaudreuil-Soulanges Hospital Project",
-      "sum": "On behalf of the Minister of Health and Minister Responsible for Seniors and Caregivers, Sonia Bélanger, the Minister of Finance and Minister Responsible for Infrastructure, Éric Girard and the Member of the National Assembly for Châteauguay, Marie-Belle Gendron, today highlighted the Government of Canada's contribution to the Vaudreuil-Soulanges Hospital project.",
-      "cat": "Healthcare"
+      "title": "Canada funds Vaudreuil-Soulanges Hospital Project",
+      "sum": "The Government of Canada is providing financial support for the Vaudreuil-Soulanges Hospital Project. The contribution was announced by federal and provincial officials.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "28f100bf219fd73a",
       "date": "2026-07-08",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/agriculture-agri-food/news/2026/07/government-of-canada-makes-investment-under-the-agrimarketing-program-to-help-grow-the-canadian-beef-sector.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada makes investment under the AgriMarketing Program to help grow the Canadian beef sector",
-      "sum": "Today, the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, announced an investment of over $4 million for two beef and cattle organizations through the AgriMarketing Program, an initiative under the Sustainable Canadian Agricultural Partnership (Sustainable CAP).",
-      "cat": "Innovation, science & industry"
+      "title": "Canada invests $4 million in beef sector marketing",
+      "sum": "The Government of Canada announced an investment of over $4 million for two beef and cattle organizations through the AgriMarketing Program. The funding is part of the Sustainable Canadian Agricultural Partnership.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "7e30f6a892d2f890",
@@ -17827,9 +17889,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister McGuinty attends the NATO Leaders Summit in Türkiye, advancing key defence partnerships",
-      "sum": "The Honourable David J. McGuinty, Minister of National Defence, concluded a successful visit to Türkiye, where he accompanied Prime Minister Mark Carney to the North Atlantic Treaty Organization (NATO) Leaders Summit.",
-      "cat": "National defence"
+      "title": "Defence Minister attends NATO Leaders Summit in Türkiye",
+      "sum": "Minister of National Defence David McGuinty attended the NATO Leaders Summit in Türkiye alongside Prime Minister Mark Carney. The visit focused on advancing defence partnerships through the NATO alliance.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "8407035576688376",
@@ -17839,9 +17902,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État van Koeverden célèbre les moments marquants de l’accueil de la Coupe du Monde de la FIFA 2026™ par le Canada",
-      "sum": "Le secrétaire d’État van Koeverden a assisté à un match éliminatoire à Vancouver et a souligné le succès de l’accueil de la Coupe du Monde de la FIFA 2026™ par le Canada, les exploits historiques de l’équipe nationale masculine de Canada Soccer ainsi que la portée du tournoi à travers le pays",
-      "cat": "National defence"
+      "title": "Canada accueille la Coupe du Monde de la FIFA 2026",
+      "sum": "Le secrétaire d'État van Koeverden a assisté à un match éliminatoire à Vancouver pour souligner le succès de l'accueil de la Coupe du Monde de la FIFA 2026 par le Canada. Le tournoi met en évidence les accomplissements de l'équipe nationale masculine de Canada Soccer et son impact à travers le pays.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "85d4ae5378ed5fe7",
@@ -17851,21 +17915,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral lance un appel de propositions pour favoriser les possibilités économiques et de leadership des femmes",
-      "sum": "Aujourd’hui, l’honorable Rechie Valdez, ministre des Femmes et de l’Égalité des genres et secrétaire d’État (Petites Entreprises et Tourisme), a annoncé un appel de propositions visant à soutenir des projets qui éliminent les obstacles et améliorent l’accès des femmes aux possibilités économiques et de leadership partout au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Appel de propositions pour les opportunités économiques des femmes",
+      "sum": "Le gouvernement fédéral lance un appel de propositions pour soutenir des projets qui éliminent les obstacles à l'accès des femmes aux opportunités économiques et de leadership au Canada.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "3cc5936be898ec2c",
       "date": "2026-07-08",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/07/declaration-conjointe-sur-le-statut-du-canada-a-titre-de-co-pays-cadre-de-la-division-multinationale-nord.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration conjointe sur le statut du Canada à titre de co-pays-cadre de la Division multinationale Nord",
-      "sum": "Nous, le ministre de la Défense nationale du Canada, le ministre de la Défense du Danemark et le ministre de la Défense de la République de Lettonie, reconnaissons notre intérêt commun à l’égard du maintien d’une dissuasion crédible le long du flanc est de l’OTAN, de même que notre détermination commune à défendre chaque pouce de territoire allié.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada devient co-pays-cadre de la Division multinationale Nord",
+      "sum": "Le Canada, le Danemark et la Lettonie ont signé une déclaration conjointe reconnaissant le statut du Canada comme co-pays-cadre de la Division multinationale Nord de l'OTAN. Les trois nations affirment leur engagement commun à maintenir une dissuasion crédible sur le flanc est de l'OTAN.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "b41ca470471dba0f",
@@ -17875,9 +17941,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Montréal",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de l’honorable Steven Guilbeault, député de Laurier—Sainte-Marie, de Mme Marie-Gabrielle Ménard, députée de Hochelaga—Rosemont-Est, secrétaire parlementaire de la ministre des Femmes et de l’Égalité des genres et secrétaire d’État, de Mme Chantal Rouleau, ministre responsable de la Solidarité sociale et de l’Action…",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Montréal avec ministres fédéraux",
+      "sum": "Le gouvernement fédéral tiendra une conférence de presse à Montréal pour annoncer une initiative d'infrastructure. Des représentants gouvernementaux, dont le député Steven Guilbeault et des ministres provinciaux, y prendront part.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "cb7c00ec6e6428d1",
@@ -17887,9 +17954,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada fait progresser le Programme de sous-marins canadiens de patrouille",
-      "sum": "Le Canada est un pays maritime qui possède le plus long littoral au monde, qui doit protéger trois océans et dont les responsabilités ne cessent de croître dans l’Arctique, en Amérique du Nord et ailleurs dans le monde.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada avance programme sous-marins patrouille",
+      "sum": "Le gouvernement du Canada progresse dans son Programme de sous-marins canadiens de patrouille. Le Canada, ayant le plus long littoral au monde, doit protéger trois océans et renforcer sa présence dans l'Arctique et en Amérique du Nord.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "77c8bf451af35090",
@@ -17899,21 +17967,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Liste complète des modifications en vue de la campagne agricole 2026-2027",
-      "sum": "Liste complète des modifications en vue de la campagne agricole 2026-2027",
-      "cat": "Economy"
+      "title": "Modifications annoncées pour campagne agricole 2026-2027",
+      "sum": "Le gouvernement fédéral a publié une liste complète des modifications qui s'appliqueront à la campagne agricole pour les années 2026-2027.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "d62aa10945829b2f",
       "date": "2026-07-08",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/commission-grains/nouvelles/2026/07/modifications-au-classement-des-grains-canadiens-pour-la-campagne-agricole-2026-2027.html",
-      "type": "Announcement",
+      "type": "Regulation",
       "kind": "official",
       "lang": "fr",
-      "title": "Modifications au classement des grains canadiens pour la campagne agricole 2026-2027",
-      "sum": "La Commission canadienne des grains met à jour les procédures de classement du blé dur ambré, du blé et des lentilles en vue de la campagne agricole 2026-2027. Ces modifications font suite à une consultation des intervenants du secteur des grains et aux recommandations de nos comités de normalisation. Elles permettront au système canadien d’assurance de la qualité de mieux répondre aux besoins du secteur et des…",
-      "cat": "Innovation, science & industry"
+      "title": "Modifications au classement des grains pour 2026-2027",
+      "sum": "La Commission canadienne des grains met à jour les procédures de classement du blé dur ambré, du blé et des lentilles pour la prochaine campagne agricole. Ces changements résultent de consultations avec l'industrie et des recommandations de comités de normalisation.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "270f05fa3f18d1af",
@@ -17923,9 +17993,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des améliorations à la carrière Kangiqsukutaaq, sur la partie sud de l’île de Baffin, pour soutenir les sculpteurs et sculptrices du Nunavut",
-      "sum": "Aujourd’hui, l’honorable Rebecca Chartrand, ministre des Affaires du Nord et de l’Arctique et ministre responsable de CanNor, a annoncé l’octroi d’une contribution de 586 500 $ à la Qikiqtani Inuit Association pour améliorer la sécurité et l’accessibilité de la carrière Kangiqsukutaaq.",
-      "cat": "Indigenous services"
+      "title": "Investissement pour améliorer la carrière Kangiqsukutaaq au Nunavut",
+      "sum": "Le gouvernement fédéral accorde 586 500 $ à la Qikiqtani Inuit Association pour améliorer la sécurité et l'accessibilité de la carrière Kangiqsukutaaq sur l'île de Baffin. Ces améliorations visent à soutenir les sculpteurs et sculptrices du Nunavut.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "b42182f6800b5fd6",
@@ -17935,9 +18006,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Décès d’un détenu de l’Établissement de Donnacona",
-      "sum": "Le 8 juillet 2026, Allan Winfield Potter, un détenu de l’Établissement de Donnacona, est décédé sous notre garde.",
-      "cat": "Economy"
+      "title": "Décès d'un détenu à l'Établissement de Donnacona",
+      "sum": "Un détenu nommé Allan Winfield Potter est décédé à l'Établissement de Donnacona le 8 juillet 2026 alors qu'il était sous la garde du Service correctionnel canadien.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "8f50c30a00f47b51",
@@ -17947,9 +18019,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État van Koeverden annonce le financement d’une série de rencontres sportives internationales présentées au Canada",
-      "sum": "Cet été, le gouvernement du Canada appuie une série de rencontres sportives internationales à travers le pays, ce qui unira la population canadienne et mettra en valeur la force et la diversité de nos communautés.",
-      "cat": "Foreign affairs"
+      "title": "Canada finance une série de rencontres sportives internationales",
+      "sum": "Le gouvernement du Canada finance une série de rencontres sportives internationales qui se dérouleront au pays cet été. Ces événements visent à rassembler la population canadienne et à mettre en évidence la force et la diversité des communautés.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "10114d03f9c0e73b",
@@ -17959,9 +18032,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Rappel : faire voler un drone à proximité de feux de forêt est illégal et dangereux",
-      "sum": "Transports Canada rappelle au public qu’il est illégal et dangereux de faire voler un drone à moins de 9,3 km (5 milles marins) des feux de forêt.",
-      "cat": "Transportation"
+      "title": "Transports Canada rappelle l'interdiction de drones près des feux",
+      "sum": "Transports Canada informe le public qu'il est illégal de faire voler un drone à moins de 9,3 kilomètres des feux de forêt. Cette restriction vise à assurer la sécurité des opérations de lutte contre les incendies.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "43939bcac641f11c",
@@ -17971,9 +18045,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada contribuera au financement du projet de l'Hôpital Vaudreuil-Soulanges",
-      "sum": "Au nom de la ministre de la Santé et ministre responsable des Aînés et des Proches aidants, Sonia Bélanger, et du ministre des Finances et ministre responsable des Infrastructures, Éric Girard, la députée de Châteauguay, Marie-Belle Gendron, souligne aujourd’hui la contribution du gouvernement du Canada au projet de l’Hôpital Vaudreuil-Soulanges.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada finance le projet d'Hôpital Vaudreuil-Soulanges",
+      "sum": "Le gouvernement du Canada contribue au financement du projet de construction de l'Hôpital Vaudreuil-Soulanges. Cette contribution a été annoncée par la députée de Châteauguay au nom des ministres fédéraux de la Santé et des Finances.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "250f39ff8e5ba305",
@@ -17983,9 +18058,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit dans la croissance du secteur bovin canadien au titre du programme Agri-marketing",
-      "sum": "Aujourd’hui, l’honorable Heath MacDonald, ministre de l’Agriculture et de l’Agroalimentaire, a annoncé un investissement de plus de quatre millions de dollars dans deux organisations du secteur du bœuf et des bovins au titre du programme Agri-marketing, une initiative du Partenariat canadien pour une agriculture durable (PCA durable).",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit quatre millions dans secteur bovin canadien",
+      "sum": "Le gouvernement du Canada annonce un investissement de plus de quatre millions de dollars pour soutenir deux organisations du secteur du bœuf et des bovins par le biais du programme Agri-marketing. Ce programme fait partie du Partenariat canadien pour une agriculture durable.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "63c831c5e416d39b",
@@ -17995,9 +18071,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre McGuinty assiste au Sommet des dirigeants de l’OTAN en Türkiye et fait progresser des partenariats de défense clés",
-      "sum": "L’honorable David J. McGuinty, ministre de la Défense nationale, a conclu une visite fructueuse en Türkiye, où il a accompagné le premier ministre Mark Carney au Sommet des dirigeants de l’Organisation du Traité de l’Atlantique Nord (OTAN).",
-      "cat": "Innovation, science & industry"
+      "title": "Minister McGuinty attends NATO summit in Türkiye",
+      "sum": "The Minister of National Defence participated in the NATO Leaders Summit in Türkiye alongside the Prime Minister. The visit aimed to advance key defence partnerships.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "438ae5e1ed3028a7",
@@ -18175,9 +18252,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Ministers of Veterans Affairs and National Defence mark 15 years since the end of Canada’s combat mission in Afghanistan",
-      "sum": "Fifteen years after the end of Canada’s combat mission in Afghanistan, we honour the more than 40,000 Canadians who served in the longest combat operation in Canada’s history.",
-      "cat": "National defence"
+      "title": "Canada marks 15 years since end of Afghanistan combat mission",
+      "sum": "Government ministers marked the 15th anniversary of the conclusion of Canada's combat operations in Afghanistan. More than 40,000 Canadians participated in the mission, which was Canada's longest combat operation.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "302d6f46ad818390",
@@ -18187,9 +18265,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "CBSA lays 12 criminal charges in immigration fraud case",
-      "sum": "The Canada Border Services Agency (CBSA) has laid multiple criminal charges after investigating an immigration scheme that defrauded international students of an estimated $126,000.",
-      "cat": "Public safety"
+      "title": "CBSA lays criminal charges in student immigration fraud case",
+      "sum": "The Canada Border Services Agency has laid 12 criminal charges related to an investigation into an immigration scheme that defrauded international students of approximately $126,000.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "8e11fced2fee6c3d",
@@ -18199,9 +18278,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "A Force of Nature: Canada’s Strategy to Protect Nature",
-      "sum": "Today, the Honourable Nathalie Provost, Secretary of State (Nature), highlighted eight tree-planting projects across Saskatchewan.",
-      "cat": "Economy"
+      "title": "Canada announces eight tree-planting projects in Saskatchewan",
+      "sum": "The Secretary of State for Nature announced eight tree-planting projects across Saskatchewan as part of Canada's nature protection strategy. These projects are part of a broader federal initiative to protect natural areas.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "70380fd5676dfcdd",
@@ -18211,9 +18291,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Royal Canadian Navy deploys ships to NATO Mine Countermeasures Mission in Europe",
-      "sum": "Today, His Majesty’s Canadian Ships (HMCS) Moncton and Edmonton departed their homeport of Halifax, Nova Scotia, to deploy on Operation REASSURANCE, where they will join Standing NATO Mine Countermeasures Group One (SNMCMG1).",
-      "cat": "National defence"
+      "title": "Canadian Navy ships deploy to NATO mine countermeasures mission",
+      "sum": "Two Royal Canadian Navy ships, HMCS Moncton and HMCS Edmonton, departed Halifax to join a NATO mine countermeasures operation in Europe. They will participate in Standing NATO Mine Countermeasures Group One as part of Operation REASSURANCE.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "9f66294150e63cc0",
@@ -18223,9 +18304,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizure of contraband and unauthorized items at Drummond institution",
-      "sum": "On June 29, 2026, as a result of the vigilance of staff members, contraband and unauthorized items were seized at Drummond Institution, a medium security federal institution.",
-      "cat": "Public safety"
+      "title": "Contraband seized at Drummond federal institution",
+      "sum": "Staff at Drummond Institution, a medium-security federal facility, seized contraband and unauthorized items on June 29, 2026.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "f43b422fa94371b4",
@@ -18235,21 +18317,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: Government of Canada backs Manitoba companies using AI to scale, compete and lead",
-      "sum": "The projects announced today are helping Manitoba businesses adopt new technology, create jobs and compete in new markets, while keeping Canadian innovation and economic value here at home.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada supports Manitoba companies adopting artificial intelligence technology",
+      "sum": "The Government of Canada is backing projects that help Manitoba businesses adopt artificial intelligence technology. These initiatives aim to support job creation and help companies compete in new markets.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "0c064fe231b74e2b",
       "date": "2026-07-07",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/prairies-economic-development/news/2026/07/government-of-canada-backs-manitoba-companies-using-ai-to-scale-compete-and-lead.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada backs Manitoba companies using AI to scale, compete and lead",
-      "sum": "PrairiesCan announces more than $10.2 million in federal funding to support six innovative Manitoba businesses expanding their use of AI and digital technology",
-      "cat": "Innovation, science & industry"
+      "title": "Canada funds Manitoba companies expanding artificial intelligence use",
+      "sum": "The federal government is providing over $10.2 million in funding through PrairiesCan to support six Manitoba businesses that are scaling up their use of artificial intelligence and digital technology.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "bbefddaf1ac4c664",
@@ -18259,9 +18343,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister of Agriculture and Agri-Food announcing investment to boost beef exports",
-      "sum": "The Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, will announce a significant investment in Canada’s beef industry, helping to boost export opportunities, increase competitiveness and ensure Canadian beef continues to be renowned and even more highly sought across the globe.",
-      "cat": "Culture & heritage"
+      "title": "Government announces investment to boost Canadian beef exports",
+      "sum": "The Minister of Agriculture and Agri-Food is announcing a significant investment in Canada's beef industry to increase export opportunities and competitiveness in global markets.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "7cb5763521e3a8f2",
@@ -18271,33 +18356,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Governments of Canada and Newfoundland and Labrador partner to support tariff-impacted workers and employers to strengthen the workforce",
-      "sum": "Governments of Canada and Newfoundland and Labrador partner to support tariff-impacted workers and employers to strengthen the workforce",
-      "cat": "Economy"
+      "title": "Canada and Newfoundland Labrador partner on tariff support program",
+      "sum": "The federal and provincial governments are collaborating to provide support to workers and employers affected by tariffs. The initiative aims to strengthen the regional workforce.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "d3a0318b1dff317e",
       "date": "2026-07-07",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/department-justice/news/2026/07/major-criminal-code-reforms-to-protect-canadians-are-now-law.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "en",
-      "title": "Major Criminal Code reforms to protect Canadians are now law",
-      "sum": "“The Government of Canada is delivering on its promise to protect Canadians from violent crime, intimate-partner violence, femicide, and hate crimes. This is one of the most consequential reforms of the Criminal Code in a generation, and we advanced it with the urgency needed to keep our communities safe” said the Honourable Sean Fraser, Minister of Justice and Attorney General of Canada.",
-      "cat": "Justice"
+      "title": "Criminal Code reforms enacted to address violent and hate crimes",
+      "sum": "The Government of Canada has passed major Criminal Code reforms intended to address violent crime, intimate-partner violence, femicide, and hate crimes. The Justice Minister characterizes this as one of the most significant Criminal Code reforms in recent generations.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "a3f02647e687f3eb",
       "date": "2026-07-07",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/global-affairs/news/2026/07/call-of-martinique-countering-narcotrafficking-and-illicit-trafficking-in-the-caribbean-and-across-the-americas.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "en",
-      "title": "Call of Martinique \"Countering narcotrafficking and illicit trafficking in the Caribbean and across the Americas\"",
-      "sum": "The list of countries that have endorsed the declaration as of July 3 is as follows: Bahamas, Barbados, Brazil, Canada, Costa Rica, Dominica, Dominican Republic, France, Germany, Guatemala, Guyana, Honduras, Italy, Jamaica, Japan, Netherlands, Panama, Peru, Saint Kitts and Nevis, Saint Lucia, Spain, Suriname, Trinidad and Tobago, United Kingdom, CARICOM IMPACS, UNODC.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada endorses declaration on countering drug trafficking in Americas",
+      "sum": "Canada joined 24 other countries and international organizations in endorsing a declaration focused on combating narcotrafficking and illicit trafficking in the Caribbean and across the Americas. The declaration was issued from Martinique as of July 3.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "fe86ede79a44abda",
@@ -18307,9 +18395,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada seeks input on redesigned Additions to Reserve Policy",
-      "sum": "The Government of Canada is seeking feedback on a draft of the redesigned Additions to Reserve (ATR) Policy.",
-      "cat": "Economy"
+      "title": "Government seeks public input on redesigned Additions to Reserve Policy",
+      "sum": "The Government of Canada is requesting feedback on a draft revised version of the Additions to Reserve Policy. This policy concerns the process for adding land to Indigenous reserves.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "8ea0790349ce6b3b",
@@ -18319,9 +18408,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les ministres des Anciens Combattants et de la Défense nationale soulignent les 15 ans de la fin de la mission de combat du Canada en Afghanistan",
-      "sum": "Quinze ans après la fin de la mission de combat du Canada en Afghanistan, nous rendons hommage aux plus de 40 000 Canadiens et Canadiennes qui ont servi dans la plus longue opération de combat de l’histoire du Canada.",
-      "cat": "Economy"
+      "title": "Canada marque 15 ans depuis fin mission combat Afghanistan",
+      "sum": "Les ministres des Anciens Combattants et de la Défense nationale soulignent le 15e anniversaire de la fin de la mission de combat du Canada en Afghanistan. Plus de 40 000 Canadiens et Canadiennes ont participé à cette opération de combat, la plus longue de l'histoire du Canada.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "3d2efb3a05c7c7c0",
@@ -18331,9 +18421,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L'ASFC dépose 12 accusation criminelles dans une affaire de fraude en matière d'immigration",
-      "sum": "L'Agence des services frontaliers du Canada (ASFC) a déposé plusieurs accusations criminelles après avoir enquêté sur un stratagème d'immigration qui a escroqué des étudiants étrangers pour environ 126 000 $.",
-      "cat": "Public safety"
+      "title": "L'ASFC dépose accusations criminelles dans affaire fraude immigration",
+      "sum": "L'Agence des services frontaliers du Canada a porté 12 accusations criminelles suite à une enquête sur un stratagème frauduleux visant des étudiants étrangers, ayant généré environ 126 000 $ en gains illicites.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "a61beaff4487d284",
@@ -18343,9 +18434,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Une force de la nature : la stratégie du Canada pour protéger la nature",
-      "sum": "Aujourd’hui, l’honorable Nathalie Provost, secrétaire d’État (Nature), a mis en lumière huit projets visant à planter des arbres partout en Saskatchewan.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada dévoile stratégie protection nature avec huit projets Saskatchewan",
+      "sum": "Le gouvernement canadien a annoncé une stratégie de protection de la nature incluant huit projets de plantation d'arbres en Saskatchewan. Cette initiative vise à renforcer la conservation des espaces naturels à travers le pays.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "30f88b84440deac1",
@@ -18355,9 +18447,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La Marine royale canadienne déploie des navires dans le cadre de la mission de lutte contre les mines marines de l’OTAN en Europe",
-      "sum": "Aujourd’hui, les navires canadiens de Sa Majesté (NCSM) Moncton et Edmonton ont quitté leur port d’attache de Halifax, en Nouvelle-Écosse, pour participer à l’Opération REASSURANCE. Ils rejoignent le 1er Groupe maritime permanent OTAN de lutte contre les",
-      "cat": "Economy"
+      "title": "Marine royale canadienne déploie navires pour mission OTAN",
+      "sum": "Les navires canadiens NCSM Moncton et Edmonton quittent Halifax pour participer à l'Opération REASSURANCE, une mission de l'OTAN de lutte contre les mines marines en Europe.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "3b976b27bbe9f7db",
@@ -18367,9 +18460,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisie d’objets interdits et non autorisés à Établissement Drummond",
-      "sum": "Le 29 juin 2026, grâce à la vigilance du personnel, des objets interdits et non autorisés ont été saisis à l’Établissement Drummond, un établissement fédéral à sécurité moyenne.",
-      "cat": "Innovation, science & industry"
+      "title": "Objets interdits saisis à l'Établissement Drummond",
+      "sum": "Le 29 juin 2026, du personnel de l'Établissement Drummond, un établissement fédéral de sécurité moyenne, a saisi des objets interdits et non autorisés.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "e3c6bb65743f373c",
@@ -18379,9 +18473,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Le gouvernement du Canada soutient des entreprises du Manitoba qui utilisent l’ IA pour croître, être concurrentielles et jouer un rôle de premier plan",
-      "sum": "Les projets annoncés aujourd’hui aident les entreprises du Manitoba à adopter de nouvelles technologies, à créer des emplois et à se positionner sur de nouveaux marchés, tout en conservant l’innovation et la valeur économique canadiennes ici au pays.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada soutient entreprises manitobaines utilisant l'intelligence artificielle",
+      "sum": "Le gouvernement du Canada annonce des projets pour aider les entreprises du Manitoba à adopter l'intelligence artificielle, créer des emplois et accéder à de nouveaux marchés. Ces initiatives visent à maintenir l'innovation et la valeur économique au Canada.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "1f601541fc419d57",
@@ -18391,9 +18486,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada soutient des entreprises du Manitoba qui utilisent l’IA pour croître, être concurrentielles et jouer un rôle de premier plan",
-      "sum": "PrairiesCan annonce un financement fédéral de plus de 10,2 millions de dollars pour soutenir six entreprises innovantes du Manitoba qui accroissent leur utilisation de l’IA et des technologies numériques",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada finance six entreprises manitobaines utilisant l'intelligence artificielle",
+      "sum": "Le gouvernement fédéral annonce un financement de plus de 10,2 millions de dollars pour soutenir six entreprises innovantes du Manitoba qui augmentent leur utilisation de l'intelligence artificielle et des technologies numériques.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "af6571eb1c7b9b49",
@@ -18403,9 +18499,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre de l'Agriculture et de l'Agroalimentaire annonce un investissement pour stimuler les exportations de bœuf",
-      "sum": "L’honorable Heath MacDonald, ministre de l’Agriculture et de l’Agroalimentaire, annoncera un investissement important dans l’industrie canadienne du bœuf, qui contribuera à stimuler les débouchés à l’exportation, à renforcer notre compétitivité et à faire en sorte que le bœuf canadien continue d’être reconnu et encore plus recherché dans le monde entier.",
-      "cat": "Innovation, science & industry"
+      "title": "Investissement annoncé pour les exportations canadiennes de bœuf",
+      "sum": "Le ministre de l'Agriculture et de l'Agroalimentaire annonce un investissement dans l'industrie canadienne du bœuf pour augmenter les exportations et renforcer la compétitivité internationale du secteur.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "9b013fc6e589bc9f",
@@ -18415,33 +18512,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Renforcer la main-d’œuvre : Les gouvernements du Canada et de Terre-Neuve-et-Labrador s’associent pour aider les travailleurs et les employeurs touchés par les droits de douane",
-      "sum": "Renforcer la main-d’œuvre : Les gouvernements du Canada et de Terre-Neuve-et-Labrador s’associent pour aider les travailleurs et les employeurs touchés par les droits de douane",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Terre-Neuve-et-Labrador s'associent pour soutenir travailleurs et employeurs",
+      "sum": "Les gouvernements du Canada et de Terre-Neuve-et-Labrador annoncent un partenariat pour aider les travailleurs et les employeurs affectés par les droits de douane. Cette collaboration vise à renforcer la main-d'œuvre face aux impacts tarifaires.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "d6339d340df44745",
       "date": "2026-07-07",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/07/les-grandes-reformes-du-code-criminel-visant-a-proteger-la-population-canadienne-ont-desormais-force-de-loi.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Les grandes réformes du Code criminel visant à protéger la population canadienne ont désormais force de loi",
-      "sum": "« Le gouvernement du Canada tient sa promesse de protéger la population canadienne contre les actes criminels violents, la violence entre partenaires intimes, les féminicides et les crimes haineux. Il s’agit de l’une des réformes les plus importantes du Code criminel depuis des générations, et nous l’avons menée à bien avec l’urgence nécessaire pour assurer la sécurité de nos collectivités », a déclaré l’honorable…",
-      "cat": "Public safety"
+      "title": "Réformes majeures du Code criminel reçoivent la sanction royale",
+      "sum": "Le gouvernement du Canada a obtenu la sanction royale pour des modifications importantes au Code criminel visant à traiter la violence criminelle, la violence conjugale, les féminicides et les crimes haineux. Ces changements représentent une réforme significative du Code criminel.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "00e40e27c41d05f5",
       "date": "2026-07-07",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/07/appel-de-la-martinique---lutter-contre-le-trafic-de-drogues-et-le-trafic-illicite-en-caraibes-et-dans-les-ameriques.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Appel de la Martinique : « Lutter contre le trafic de drogues et le trafic illicite en Caraïbes et dans les Amériques »",
-      "sum": "La liste des pays ayant endossé la déclaration au 3 juillet est la suivante : Allemagne, Bahamas, Barbade, Brésil, Canada, Costa Rica, Dominique, Espagne, France, Guatemala, Guyana, Honduras, Italie, Jamaïque, Japon, Panama, Pays-Bas, Pérou, Saint-Christophe-et-Niévès, Sainte-Lucie, Suriname, Royaume-Uni, Trinité et Tobago, République dominicaine, CARICOM IMPACS et ONUDC.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada soutient déclaration contre trafic drogue Caraïbes",
+      "sum": "Le Canada a endossé une déclaration conjointe appelée « Appel de la Martinique » visant à lutter contre le trafic de drogues et le trafic illicite dans les Caraïbes et les Amériques. Vingt-quatre pays et organisations internationales ont signé cette déclaration au 3 juillet.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "c2228a9af756172c",
@@ -18451,9 +18551,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada sollicite des commentaires sur la nouvelle Politique sur les ajouts aux réserves",
-      "sum": "Le gouvernement du Canada sollicite des commentaires sur une nouvelle ébauche de la Politique sur les ajouts aux réserves.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada demande commentaires sur politique ajouts réserves",
+      "sum": "Le gouvernement du Canada invite le public à soumettre des commentaires sur un projet de nouvelle politique concernant les ajouts aux réserves autochtones.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "f443cc93e5d9b559",
@@ -18579,9 +18680,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Simplifying federal procurement for Canadian small businesses",
-      "sum": "Public Services and Procurement Canada is advancing the Small Business Procurement Program, while Innovation, Science and Economic Development will leverage the Innovative Solutions Canada program to support innovation-focused procurement opportunities.",
-      "cat": "Innovation, science & industry"
+      "title": "Federal government simplifies procurement for small businesses",
+      "sum": "Public Services and Procurement Canada is expanding the Small Business Procurement Program to make it easier for small businesses to sell to the federal government. Innovation, Science and Economic Development Canada will also use the Innovative Solutions Canada program to create more procurement opportunities focused on innovation.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ba8de9dc89ac9d17",
@@ -18591,9 +18693,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Public Services and Procurement Canada launches new Small Business Procurement Program measures to modernize federal contracting and boost access for Canadian businesses",
-      "sum": "Reducing barriers, simplifying processes and increasing access to opportunities under the Buy Canadian Policy",
-      "cat": "Economy"
+      "title": "Federal government launches new small business procurement program measures",
+      "sum": "Public Services and Procurement Canada introduced new measures to modernize federal contracting processes and improve access for Canadian small businesses. The changes aim to reduce barriers and simplify procurement under the Buy Canadian Policy.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "4719d9fb7408a3f0",
@@ -18603,9 +18706,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Secretary of State (Nature) Nathalie Provost will highlight Canada’s new nature strategy in Regina",
-      "sum": "The Honourable Nathalie Provost, Secretary of State (Nature), will highlight the new nature strategy to protect Canada’s natural environment.",
-      "cat": "Sustainable development"
+      "title": "Canada launches new nature strategy to protect environment",
+      "sum": "Secretary of State Nathalie Provost will present Canada's new nature strategy in Regina. The strategy outlines measures to protect Canada's natural environment.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "9b89b3c30b902f8c",
@@ -18615,45 +18719,49 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canadian students’ CubeSat launching to space",
-      "sum": "Tomorrow at 12:10 am PT, MARMOTSat, a CubeSat designed and built by students at the University of Victoria, will launch into space aboard SpaceX's Transporter-17 rideshare mission. The satellite will then be deployed into a special orbit for consistent Earth observations.",
-      "cat": "Education"
+      "title": "Canadian university student-built satellite launches to orbit",
+      "sum": "A CubeSat named MARMOTSat, designed and built by University of Victoria students, will launch into space on a SpaceX mission. The satellite will be deployed into orbit to conduct Earth observations.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "bf2055fe330d1bab",
       "date": "2026-07-06",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/department-justice/news/2026/07/minister-of-justice-and-attorney-general-of-canada-announces-a-judicial-appointment-in-the-province-of-nova-scotia.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Minister of Justice and Attorney General of Canada announces a judicial appointment in the province of Nova Scotia",
-      "sum": "The Honourable Sean Fraser, Minister of Justice and Attorney General of Canada and Minister responsible for the Atlantic Canada Opportunities Agency, today announced the following appointment under the judicial application process established in 2016. This process emphasizes transparency, merit, and the diversity of the Canadian population, and will continue to ensure the appointment of jurists who meet the highest…",
-      "cat": "Justice"
+      "title": "Justice Minister announces judicial appointment in Nova Scotia",
+      "sum": "The Minister of Justice announced a judicial appointment in Nova Scotia through the transparent merit-based judicial application process established in 2016. The process prioritizes merit, transparency, and representation of Canada's diverse population.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "5fdf58b74470a4a9",
       "date": "2026-07-06",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/department-justice/news/2026/07/minister-of-justice-and-attorney-general-of-canada-announces-judicial-appointments-in-the-province-of-ontario.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Minister of Justice and Attorney General of Canada announces judicial appointments in the province of Ontario",
-      "sum": "The Honourable Sean Fraser, Minister of Justice and Attorney General of Canada and Minister responsible for the Atlantic Canada Opportunities Agency, today announced the following appointments under the judicial application process established in 2016. This process emphasizes transparency, merit, and the diversity of the Canadian population, and will continue to ensure the appointment of jurists who meet the highest…",
-      "cat": "Justice"
+      "title": "Minister announces judicial appointments in Ontario",
+      "sum": "The Minister of Justice announced judicial appointments in Ontario through the judicial application process established in 2016. The process emphasizes transparency, merit, and diversity in selecting qualified judges.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "ce511015d2d5e360",
       "date": "2026-07-06",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/employment-social-development/news/2026/07/government-of-canada-reappoints-commissioner-for-employers-to-the-canada-employment-insurance-commission-ceic.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada reappoints Commissioner for Employers to the Canada Employment Insurance Commission (CEIC)",
-      "sum": "Government of Canada reappoints Commissioner for Employers to the Canada Employment Insurance Commission (CEIC)",
-      "cat": "Economy"
+      "title": "Government reappoints Commissioner for Employers to CEIC",
+      "sum": "The Government of Canada has reappointed a Commissioner for Employers to serve on the Canada Employment Insurance Commission. This role involves representing employer interests in employment insurance matters.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "80cd61eeac815ebb",
@@ -18663,9 +18771,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Secretary of State Zerucelli highlights launch of National Food Security Strategy",
-      "sum": "Secretary of State Zerucelli highlights launch of National Food Security Strategy",
-      "cat": "Public safety"
+      "title": "National Food Security Strategy launched by government",
+      "sum": "The Secretary of State announced the launch of a National Food Security Strategy. The strategy is intended to address food security issues in Canada.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "b27710c746df51de",
@@ -18675,9 +18784,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Statement by the Minister of Transport on the commemorations marking the thirteenth anniversary of the Lac-Mégantic tragedy",
-      "sum": "The Minister of Transport and Leader of the Government in the House of Commons, the Honourable Steven MacKinnon, issued the following statement today to commemorate the thirteenth anniversary of the Lac-Mégantic tragedy:",
-      "cat": "Transportation"
+      "title": "Transport Minister marks Lac-Mégantic tragedy thirteenth anniversary",
+      "sum": "The Minister of Transport issued a statement commemorating the thirteenth anniversary of the Lac-Mégantic tragedy. The statement recognized the event on its designated anniversary date.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "e051cbf2747eab2f",
@@ -18687,9 +18797,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Secretary of State van Koeverden to attend historic match in Vancouver",
-      "sum": "The Secretary of State will attend the Switzerland vs. Colombia match to highlight Canada’s role as a host country for the FIFA World Cup 2026™ and the importance of the tournament for Canadians",
-      "cat": "Economy"
+      "title": "Secretary of State attends FIFA World Cup 2026 match in Vancouver",
+      "sum": "The Secretary of State will attend a Switzerland vs. Colombia match in Vancouver to promote Canada's role as a host country for the FIFA World Cup 2026. The attendance highlights the tournament's significance for Canadians.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "1d4fd1425b90603b",
@@ -18699,21 +18810,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The Honourable Minister Solomon to announce funding to strengthen AI in Manitoba",
-      "sum": "The Honourable Minister Solomon to announce funding to strengthen AI in Manitoba",
-      "cat": "Innovation, science & industry"
+      "title": "Minister announces funding to strengthen AI in Manitoba",
+      "sum": "The Minister of Innovation, Science and Industry is announcing federal funding to support artificial intelligence development and research in Manitoba. The funding aims to strengthen the province's AI capabilities and sector.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "0dca8b25627ba12e",
       "date": "2026-07-06",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/07/governments-of-canada-and-quebec-invest-in-relocation-and-expansion-of-maison-theatre-to-help-revitalize-montreals-east-end.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Governments of Canada and Quebec invest in relocation and expansion of Maison Théâtre to help revitalize Montréal’s East End",
-      "sum": "The Maison Théâtre will move into a new, modern, accessible, inclusive building to better serve young audiences, artists, and the community, thanks to a $43.5 million investment from the Government of Quebec, the Government of Canada, and the City of Montreal.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada and Quebec fund Maison Théâtre relocation and expansion in Montreal",
+      "sum": "The Government of Canada and Government of Quebec are investing $43.5 million to help relocate and expand the Maison Théâtre to a new accessible building in Montreal's East End. The project aims to better serve young audiences, artists, and the local community.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "b2834fce45763b0d",
@@ -18723,9 +18836,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Secretary of State Long highlights investment in Indigenous sport programs to empower First Nations, Inuit and Métis communities",
-      "sum": "Today, the Honourable Wayne Long, Secretary of State (Canada Revenue Agency and Financial Institutions), highlighted the program’s $227,071 investment in the Nistawoyou Association Friendship Centre to help it deliver Indigenous-led sport and recreation projects that will support the community’s health and well-being. The announcement was made on behalf of the Honourable Adam van Koeverden, Secretary of State…",
-      "cat": "Indigenous services"
+      "title": "Government invests in Indigenous sport programs for community health",
+      "sum": "The federal government announced a $227,071 investment in the Nistawoyou Association Friendship Centre to support Indigenous-led sport and recreation projects. The funding aims to improve health and well-being in First Nations, Inuit, and Métis communities.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "800d62fae63fec42",
