@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T19:01:42.272Z",
-  "count": 14088,
+  "generatedAt": "2026-08-11T01:53:48.575Z",
+  "count": 14107,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,238 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "f546ba801684b145",
+      "date": "2026-08-10",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-services-procurement/news/2026/08/government-of-canada-awards-construction-contract-for-a-new-canada-revenue-agency-facility-in-st-johns.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada awards construction contract for new CRA facility",
+      "sum": "The Government of Canada has awarded a construction contract for a new Canada Revenue Agency facility in St. John's, Newfoundland and Labrador. The facility is intended to provide modern and efficient infrastructure for delivering public services.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "db4f85c642329876",
+      "date": "2026-08-10",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/transport-canada/news/2026/08/government-of-canada-announces-modernization-of-the-inuvik-mike-zubko-airport-to-begin-this-fall.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada funds modernization of Inuvik Airport in Arctic",
+      "sum": "The Government of Canada is investing in upgrades to Inuvik (Mike Zubko) Airport in the Northwest Territories through the Arctic Infrastructure Fund. The airport serves as a transportation hub for the northern community and the local economy.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "0aa7ad21c9315539",
+      "date": "2026-08-10",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/northern-economic-development/news/2026/08/indigenous-led-projects-in-the-nwt-to-expand-businesses-and-empower-youth.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal funding supports Indigenous-led business and youth projects in NWT",
+      "sum": "The federal government announced up to $1,982,199 in funding for four Indigenous-led projects in the Northwest Territories. The funding, delivered through CanNor, supports business expansion and youth initiatives.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "2c0bbd0ba2f30225",
+      "date": "2026-08-10",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/northern-economic-development/news/2026/08/backgrounder-the-government-of-canada-invests-over-19m-to-support-indigenous-economic-participation-in-the-northwest-territories.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada funds four Indigenous-led business projects in Northwest Territories",
+      "sum": "The Government of Canada is providing $1.98 million through CanNor to support four Indigenous-led projects in the Northwest Territories. The funding aims to help expand business operations and empower Indigenous youth.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "858783c1ec542ef0",
+      "date": "2026-08-10",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/government-of-canada-announces-build-canada-homes-inaugural-chair.html",
+      "type": "Appointment",
+      "kind": "official",
+      "lang": "en",
+      "title": "Evan Siddall appointed inaugural chair of Build Canada Homes",
+      "sum": "The Minister of Housing and Infrastructure announced the appointment of Evan Siddall as the first Chair of the Board of Directors for Build Canada Homes. This establishes leadership for the newly created organization.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "5e16b367cbda1b35",
+      "date": "2026-08-10",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/border-services-agency/news/2026/08/update-permits-extended-until-november-30-2026-cbsa-to-enhance-border-integrity-and-expand-telephone-reporting-in-remote-border-areas.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "CBSA extends permits and expands remote border reporting",
+      "sum": "The Canada Border Services Agency is extending permits until November 30, 2026, and expanding telephone reporting options in remote border areas to enhance border integrity.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "5a848bf32135dab1",
+      "date": "2026-08-10",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-supports-two-popular-fall-events-at-the-new-brunswick-botanical-garden.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government of Canada funds fall events at New Brunswick Botanical Garden",
+      "sum": "The Government of Canada is providing financial support for two fall events taking place at the New Brunswick Botanical Garden in Edmundston.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "109b25bf10955192",
+      "date": "2026-08-10",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/08/protecting-wild-oyster-populations-and-supporting-harvesters-through-the-voluntary-oyster-licence-retirement-grant-program.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada launches voluntary oyster licence retirement grant program",
+      "sum": "The Government of Canada is establishing a voluntary grant program to support wild oyster harvesters in Atlantic Canada who are experiencing significant losses from disease outbreaks (MSX and Dermo). The program aims to help harvesters affected by the spread of these diseases that are impacting wild oyster populations.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "6ce4f65658cb3a42",
+      "date": "2026-08-10",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2026/08/le-gouvernement-du-canada-attribue-un-contrat-pour-la-construction-dun-nouvel-immeuble-de-lagence-du-revenu-du-canada-a-st-johns.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada attribue contrat construction immeuble Revenu Canada",
+      "sum": "Le gouvernement du Canada a accordé un contrat pour construire un nouvel édifice de l'Agence du revenu du Canada à St. John's. Ce projet s'inscrit dans l'engagement du gouvernement à développer des infrastructures modernes et durables.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "8ff63cb03cbc9a1b",
+      "date": "2026-08-10",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/transports-canada/nouvelles/2026/08/le-gouvernement-du-canada-annonce-que-les-travaux-de-modernisation-de-laeroport-dinuvik-mike-zubko-debuteront-cet-automne.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Modernisation de l'aéroport d'Inuvik débutera cet automne",
+      "sum": "Le gouvernement du Canada annonce le début des travaux de modernisation de l'aéroport d'Inuvik à l'automne. Ce projet constitue le premier investissement du Fonds d'infrastructure pour l'Arctique et vise à améliorer cette infrastructure essentielle pour les communautés du Nord et autochtones.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "6f6bcd204a3d0995",
+      "date": "2026-08-10",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-nord/nouvelles/2026/08/des-projets-diriges-par-des-autochtones-dans-les-tn-o-pour-developper-les-entreprises-et-autonomiser-les-jeunes.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Financement de projets autochtones aux Territoires du Nord-Ouest",
+      "sum": "Le gouvernement fédéral annonce une contribution pouvant atteindre 1,98 millions de dollars pour soutenir quatre projets dirigés par des Autochtones dans les Territoires du Nord-Ouest. Ces projets visent à développer les entreprises et autonomiser les jeunes.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "5a7c8f913d0497d5",
+      "date": "2026-08-10",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-nord/nouvelles/2026/08/document-dinformation--le-gouvernement-du-canada-investit-plus-de-19-million-de-dollars-pour-soutenir-la-participation-economique-des-autochtones-d.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada investit 1,9 million dollars pour participation économique autochtone",
+      "sum": "Le gouvernement du Canada accorde près de 2 millions de dollars à quatre projets dirigés par des Autochtones dans les Territoires du Nord-Ouest. Ces projets visent à développer les activités commerciales et à soutenir l'autonomisation des jeunes Autochtones.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "aa882d3f7e7e5441",
+      "date": "2026-08-10",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/le-gouvernement-du-canada-annonce-le-premier-president-du-conseil-dadministration-de-maisons-canada.html",
+      "type": "Appointment",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Evan Siddall nommé président de Maisons Canada",
+      "sum": "Le ministre du Logement et de l'Infrastructure annonce la nomination d'Evan Siddall comme premier président du conseil d'administration de Maisons Canada, une nouvelle organisation gouvernementale.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "c1395bacd7b299ef",
+      "date": "2026-08-10",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2026/08/mise-a-jour--permis-prolonges-jusquau-30-novembre-2026-lasfc-renforce-lintegrite-des-frontieres-et-etend-le-systeme-de-declaration-par-telephone-da.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "ASFC prolonge permis et étend déclaration téléphonique frontières",
+      "sum": "L'Agence des services frontaliers du Canada prolonge certains permis jusqu'au 30 novembre 2026 et élargit l'accès au système de déclaration par téléphone dans les régions frontalières éloignées.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "8c1aad0ce6b3645c",
+      "date": "2026-08-10",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-gouvernement-du-canada-appuie-deux-activites-populaires-dautomne-au-jardin-botanique-du-nouveaubrunswick.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada soutient deux activités d'automne au Jardin botanique",
+      "sum": "Le gouvernement du Canada investit dans deux activités populaires d'automne organisées au Jardin botanique du Nouveau-Brunswick situé à Edmundston.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "9305cd521eabaf2e",
+      "date": "2026-08-10",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/peches-oceans/nouvelles/2026/08/proteger-les-populations-dhuitres-sauvages-et-soutenir-les-pecheurs-au-moyen-du-programme-de-subventions-pour-le-retrait-volontaire-de-permis-de-pe.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Programme de subventions pour retrait volontaire de permis de pêche aux huîtres",
+      "sum": "Le gouvernement du Canada offre des subventions aux pêcheurs d'huîtres sauvages de l'Atlantique affectés par deux maladies qui déciment les populations d'huîtres. Ce programme vise à soutenir les pêcheurs confrontés à d'importantes pertes économiques.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "12119d1c1f308634",
+      "date": "2026-08-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb0ZiYUlJaHNxNmFyWkJ2VkdLYXRYZVp0Y3RYQXFQblFmQ2phOXQtbE5HT1RKRHQzNVZxNHNqMUswUTRqWTlkeXUzaEh5WUhYYnAyYTZEUnl3bS1OMm9EM1NzVWZpWXMwV09BQ2dtZ1MzX1hoR0VsZjVWZHVEdmJEM1dQdnMxVEN5dGRFVUlHWTBlaHBLSDJ4LTYwWHNiUTVubXUtZ3Rlak9oa0RqeC1RTXlqMDl5WnFEb0g1NWNOVVN4OVRfYms1bHk5TFlwdG5yQ2kwb3ZHdUZLRE9j?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Government says it told India it has 'zero tolerance' for foreign interference and transnational repression - National Post",
+      "excerpt": "Government says it told India it has 'zero tolerance' for foreign interference and transnational repression National Post",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "af5dda74d44a1170",
+      "date": "2026-08-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcVpfWUlUZElLSEN6NlRBNUtyY2RobTNJSjM2eGJ0Ymx1YUQ3ejNCbktJdy1GODNRMkJlYjVuV19MYzNJcl8xdjFpNlBUWS1JdkU1TVdhQ0VVMzJyQ3lHYmxDQ2t1UENXZ3dOUF9VZUtXTE5CLTZXSVg5YUlEdksyZ2lR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "TERRAZZANO: Canadians won’t tolerate Carney hiking gas taxes - Yahoo News Canada",
+      "excerpt": "TERRAZZANO: Canadians won’t tolerate Carney hiking gas taxes Yahoo News Canada",
+      "cat": "Finance"
+    },
     {
       "id": "38aa4616d4f00e61",
       "date": "2026-08-10",
@@ -625,6 +857,18 @@
       "cat": "Culture & heritage",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "97db1513f11192cd",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRkpfTzAtV2RFLVFqNmowS3VPYlRfRGdpSlYyenM0ZEFObGNtWW5mdHlFc0dhX09SSDZDOXpkdFBITS1DYW9aWGlreldRWk5jSEtiT0NRc3cyTXRpa2MzY0hnWGlfaERhem10eWVlN245bjlrQzZ3aVpJMHVZcDdSdTBZT0RTOFQzbWktN1lrRkY2cnh1VHNWVTk0VXdySWZTT3RXdHdHWkxqMkJ0ekk1Z0VTQ2JYTmlKWUpR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ford asks Carney to make federal gas tax suspension permanent - BNN Bloomberg",
+      "excerpt": "Ford asks Carney to make federal gas tax suspension permanent BNN Bloomberg",
+      "cat": "Finance"
     },
     {
       "id": "6fcac22afa095c70",
@@ -21673,21 +21917,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "NFB and Festival International de Jazz de Montréal present CINÉJAZZ: a series of free screenings at the Alanis Obomsawin Theatre",
-      "sum": "During the Festival International de Jazz de Montréal, the National Film Board of Canada (NFB) invites audiences to the Alanis Obomsawin Theatre to experience CINÉJAZZ—a free program of cinema with music at its heart, from June 26 through July 4 at 3 p.m.",
-      "cat": "Foreign affairs"
+      "title": "NFB and Montreal Jazz Festival present free film screening series",
+      "sum": "The National Film Board of Canada is presenting CINÉJAZZ, a series of free film screenings featuring cinema with music at its core, in partnership with the Festival International de Jazz de Montréal. The screenings will take place daily from June 26 through July 4 at 3 p.m. at the Alanis Obomsawin Theatre.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "a30ce76d5692d639",
       "date": "2026-06-30",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/space-agency/news/2026/06/minister-joly-announces-688m-to-strengthen-canadas-sovereign-satellite-capacity-with-radarsat-constellation-mission-replenishment-satellite.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Joly announces $688M to strengthen Canada’s sovereign satellite capacity with RADARSAT Constellation Mission replenishment satellite",
-      "sum": "Today, the Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions, announced a $688 million contract to MDA Space Ltd. to build, test, and launch a replenishment satellite for the RADARSAT Constellation Mission (RCM).",
-      "cat": "Economy"
+      "title": "Canada invests $688M in RADARSAT satellite replenishment",
+      "sum": "The government awarded a $688 million contract to MDA Space Ltd. to build and launch a replacement satellite for Canada's RADARSAT Constellation Mission. The satellite will strengthen Canada's ability to independently monitor and observe Earth from space.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "e6844f044d9131a9",
@@ -21697,33 +21943,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Infrastructure announcement in Morell",
-      "sum": "Members of the media are invited to an infrastructure announcement with Kent MacDonald, Member of Parliament for Cardigan; the Honourable Rob Lantz, Premier of Prince Edward Island; the Honourable Kent Dollar, Minister of Housing and Communities; and His Worship Danny Kelly, Mayor of Morell.",
-      "cat": "Housing"
+      "title": "Infrastructure announcement scheduled in Morell",
+      "sum": "Federal, provincial, and municipal officials will make an infrastructure announcement in Morell, Prince Edward Island. The event will include the Member of Parliament for Cardigan, the provincial Premier, the Minister of Housing and Communities, and the Mayor of Morell.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "06469b3872998242",
       "date": "2026-06-30",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/public-health/news/2026/06/council-of-chief-medical-officers-of-health-ccmoh-position-paper-on-digital-culture-and-child-and-youth-well-being.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Council of Chief Medical Officers of Health (CCMOH) Position Paper on Digital Culture and Child and Youth Well-Being",
-      "sum": "The Council of Chief Medical Officers of Health released a position paper highlighting the impacts that digital culture can have on the health and well-being of children and youth.",
-      "cat": "Healthcare"
+      "title": "Health officials release position paper on digital culture and youth well-being",
+      "sum": "The Council of Chief Medical Officers of Health published a position paper examining how digital culture affects the health and well-being of children and youth.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "85ca30298462f17a",
       "date": "2026-06-30",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/06/building-canada-strong-by-investing-in-regional-wastewater-infrastructure-in-the-rm-of-st-clements.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Building Canada Strong by Investing in Regional Wastewater Infrastructure in the RM of St. Clements",
-      "sum": "Building a strong Canada starts with investing in the modern and reliable infrastructure that makes it possible to increase housing supply and create resilient communities.",
-      "cat": "Housing"
+      "title": "Federal funding allocated for wastewater infrastructure in St. Clements",
+      "sum": "The federal government is investing in wastewater infrastructure in the RM of St. Clements. The investment is intended to support housing development and community resilience.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "f3bb7db16c396c2a",
@@ -21733,9 +21982,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The Honourable Stephen Fuhr highlights launch of National Food Security Strategy",
-      "sum": "The Government of Canada is focused on building a stronger economy and making life more affordable for Canadians. Today, the Honourable Stephen Fuhr, Secretary of State (Defence Procurement) and Member of Parliament for Kelowna, on behalf of the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, highlighted the launch of the National Food Security Strategy.",
-      "cat": "National defence"
+      "title": "Canada launches National Food Security Strategy",
+      "sum": "The Government of Canada announced the launch of the National Food Security Strategy. The announcement was made by Stephen Fuhr, Secretary of State for Defence Procurement, on behalf of the Minister of Agriculture and Agri-Food.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "9652ce3705ea9483",
@@ -21745,9 +21995,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada approves new technology to support farmers and a more sustainable use of pest management products",
-      "sum": "On June 30, 2026, Health Canada introduced a new policy allowing drone technology to be used to apply pesticides that are already approved for conventional aerial application.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada approves drone technology for pesticide application",
+      "sum": "Health Canada introduced a new policy on June 30, 2026, that permits the use of drone technology to apply pesticides that have already been approved for conventional aerial spraying. This policy aims to support farmers and promote more sustainable pest management practices.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "4ddaa825aa9df6fe",
@@ -21757,9 +22008,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Lane closures on Burlington Canal Lift Bridge",
-      "sum": "Public Services and Procurement Canada wishes to advise the public of upcoming lane closures on the Burlington Canal Lift Bridge to accommodate improvements to the bridge railings.",
-      "cat": "Transportation"
+      "title": "Lane closures planned for Burlington Canal Lift Bridge repairs",
+      "sum": "Public Services and Procurement Canada is closing lanes on the Burlington Canal Lift Bridge to complete improvements to the bridge railings. The public is being advised of these upcoming closures.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "f17b9107386562db",
@@ -21769,9 +22021,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "IN PRODUCTION | COMING SOON. The Anta Claus of the South Pole: a new, timeless holiday tale from Tonic DNA and the National Film Board of Canada, directed by Cordell Barker.",
-      "sum": "Tonic DNA is partnering with the National Film Board of Canada (NFB) on a new co-production directed by two-time Oscar-nominated animator Cordell Barker (The Cat Came Back, Strange Invaders): The Anta Claus of the South Pole, an animated holiday special with a planned 2026 release.",
-      "cat": "Economy"
+      "title": "NFB and Tonic DNA produce animated holiday film",
+      "sum": "The National Film Board of Canada is partnering with Tonic DNA to produce an animated holiday special called The Anta Claus of the South Pole, directed by animator Cordell Barker. The film is scheduled for release in 2026.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "924b3433704acc4c",
@@ -21781,9 +22034,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "NFB films and artefacts on display in Annecy’s new Musée du cinéma d’animation. NFB will have a permanent presence as part of the new Cité internationale du cinéma d’animation, which celebrates over 80 years of innovation and imagination in animated film.",
-      "sum": "NFB films and artefacts on display in Annecy’s new Musée du cinéma d’animation",
-      "cat": "Foreign affairs"
+      "title": "NFB films displayed in new French animation museum",
+      "sum": "The National Film Board of Canada will have a permanent presence in Annecy's new animation cinema museum, showcasing NFB films and artifacts alongside over 80 years of animated film innovation.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "053d361106ad1e99",
@@ -21793,9 +22047,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Parliamentary Secretary Church highlights launch of National Food Security Strategy",
-      "sum": "The Government of Canada is focused on building a stronger economy and making life more affordable for Canadians. Today, Parliamentary Secretary Leslie Church, on behalf of the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, highlighted the launch of the National Food Security Strategy.",
-      "cat": "Economy"
+      "title": "Government launches National Food Security Strategy",
+      "sum": "Parliamentary Secretary Leslie Church announced the launch of the National Food Security Strategy on behalf of the Minister of Agriculture and Agri-Food. The strategy is part of the government's efforts to strengthen the economy and improve affordability for Canadians.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "5abca9c25bdf9842",
@@ -21805,9 +22060,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Stream Canadian all summer long. Relive the spirit of Montreal 1976 and enjoy a classic Canadian summer on NFB.",
-      "sum": "This summer, celebrate the 50th anniversary of the Montreal Olympic Games and enjoy classic films from the National Film Board of Canada on NFB.",
-      "cat": "Economy"
+      "title": "National Film Board releases Montreal Olympics anniversary programming",
+      "sum": "The National Film Board of Canada is making classic films available during summer programming to commemorate the 50th anniversary of the 1976 Montreal Olympic Games.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "afb84cb6411ab538",
@@ -21817,9 +22073,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada: Springpole Gold Project not likely to cause significant adverse environmental effects",
-      "sum": "Today, the Government of Canada determined that the Springpole Gold Project in Ontario is not likely to cause significant adverse environmental effects under the Canadian Environmental Assessment Act, 2012 (CEAA 2012). The Minister's decision was informed by the project's Environmental Assessment Report.",
-      "cat": "Sustainable development"
+      "title": "Canada approves Springpole Gold Project environmental assessment",
+      "sum": "The Government of Canada determined that the Springpole Gold Project in Ontario is unlikely to cause significant adverse environmental effects. The Minister's decision was based on the project's Environmental Assessment Report.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "972448ddad9c7b55",
@@ -21829,21 +22086,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Samuel De Champlain Bridge: Special Illumination for Canada Day",
-      "sum": "On July 1, the Samuel De Champlain Bridge will be lit up in red and white from sunset to 1 a.m. to celebrate Canada Day.",
-      "cat": "Innovation, science & industry"
+      "title": "Samuel De Champlain Bridge illuminated red and white for Canada Day",
+      "sum": "The Samuel De Champlain Bridge will be specially lit in red and white colours on July 1 from sunset to 1 a.m. to mark Canada Day.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "a09eb48652516b5e",
       "date": "2026-06-30",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/06/federal-government-invests-in-public-transit-in-sipeknekatik-first-nation.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Federal government invests in public transit in Sipekne’katik First Nation",
-      "sum": "Sipekne’katik First Nation now has a rural transportation solution for their members following an investment of more than $450,000 from the federal government.",
-      "cat": "Transportation"
+      "title": "Federal government funds rural transit in Sipekne'katik First Nation",
+      "sum": "The federal government invested over $450,000 to establish a public transit solution for members of Sipekne'katik First Nation. The funding addresses transportation needs in the rural community.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "a9cee899c1b26146",
@@ -21853,9 +22112,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada announces additional $520 million to help Jasper rebuild",
-      "sum": "In the summer of 2024, Jasper National Park and the town of Jasper were hit with a devastating wildfire that burned approximately 32,700 hectares and destroyed 30 percent of structures in the town. A significant portion of the park’s infrastructure was also damaged or destroyed. Since then, in partnership with the Government of Alberta, the Municipality of Jasper and local stakeholders, the federal government has…",
-      "cat": "Infrastructure"
+      "title": "Canada announces $520 million for Jasper wildfire recovery",
+      "sum": "The federal government is providing $520 million to help rebuild Jasper, Alberta following a major wildfire in summer 2024 that destroyed approximately 30 percent of the town and burned over 32,700 hectares of the national park. The funding is being delivered in partnership with the Government of Alberta, the Municipality of Jasper, and local stakeholders.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "46a82785e3d5d45d",
@@ -21865,9 +22125,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada and Quebec reach an agreement for the recovery and protection of caribou",
-      "sum": "Today, the Honourable Julie Dabrusin, Minister of the Environment, Climate Change and Nature; and Pascale Déry, Minister of the Environment, the Fight Against Climate Change, Wildlife and Parks, announced they have reached an agreement for the recovery and protection of caribou in Quebec.",
-      "cat": "Sustainable development"
+      "title": "Canada and Quebec agree on caribou recovery and protection plan",
+      "sum": "Canada's federal government and the Province of Quebec announced a joint agreement to support the recovery and protection of caribou populations in Quebec. The agreement was announced by federal Environment Minister Julie Dabrusin and Quebec's Environment Minister Pascale Déry.",
+      "cat": "Wildlife",
+      "ai": true
     },
     {
       "id": "bf906c3ef69c427e",
@@ -21877,9 +22138,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "New $10.7 million research and monitoring Field Station opens in Wood Buffalo National Park",
-      "sum": "New $10.7 million research and monitoring Field Station opens in Wood Buffalo National Park",
-      "cat": "Innovation, science & industry"
+      "title": "New research and monitoring field station opens in Wood Buffalo",
+      "sum": "A new field station funded at $10.7 million has opened in Wood Buffalo National Park to support research and monitoring activities. The facility will conduct environmental research and data collection in the national park.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "701ddc13ce95eea6",
@@ -21889,9 +22151,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Infrastructure Announcement in White Rock",
-      "sum": "Members of the media are invited to an infrastructure announcement with Ernie Klassen, Member of Parliament for South Surrey – White Rock and Megan Knight, Mayor of White Rock.",
-      "cat": "Infrastructure"
+      "title": "Infrastructure announcement scheduled in White Rock",
+      "sum": "An infrastructure announcement will be made in White Rock by the Member of Parliament for South Surrey – White Rock and the Mayor of White Rock. Media attendance is invited.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "9625faaf03194aa7",
@@ -21901,9 +22164,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Souris",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Kent MacDonald, député de Cardigan, de l’honorable Rob Lantz, premier ministre de l’Île-du-Prince-Édouard, de l’honorable Robin Croucher, ministre de l’Éducation et de la Petite enfance et député provincial de Souris-Elmira, et JoAnne Dunphy, mairesse de Souris.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Souris avec partenaires provinciaux",
+      "sum": "Le gouvernement fédéral, en partenariat avec les autorités provinciales et municipales de l'Île-du-Prince-Édouard, annonce un projet d'infrastructure à Souris. Cette annonce réunit des représentants élus fédéraux, provinciaux et municipaux.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "f7f40cdfea206959",
@@ -21913,9 +22177,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Inauguration officielle de la station de terrain du parc national Wood Buffalo",
-      "sum": "Inauguration officielle de la station de terrain du parc national Wood Buffalo",
-      "cat": "Innovation, science & industry"
+      "title": "Station de terrain du parc national Wood Buffalo officiellement inaugurée",
+      "sum": "Le gouvernement du Canada a procédé à l'inauguration officielle d'une nouvelle station de terrain au parc national Wood Buffalo. Cette installation permettra d'améliorer les opérations et la recherche dans le parc.",
+      "cat": "Wildlife",
+      "ai": true
     },
     {
       "id": "9ac3406d91138d37",
@@ -21925,21 +22190,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada lance un fonds de contrepartie pour soutenir les interventions humanitaires au Venezuela",
-      "sum": "À mesure que l’ampleur des dégâts causés par les tremblements de terre au Venezuela se précise, les besoins humanitaires ne cessent de croître, et les Canadiens et Canadiennes se mobilisent pour aider les personnes dans le besoin.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada crée un fonds de contrepartie pour aide humanitaire au Venezuela",
+      "sum": "Le Canada met en place un fonds de contrepartie pour soutenir les interventions humanitaires au Venezuela suite aux tremblements de terre. Ce fonds vise à mobiliser les contributions canadiennes pour répondre aux besoins humanitaires croissants.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "ea145392f879f474",
       "date": "2026-06-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/06/notice-biographique---joanne-minns.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Notice biographique - Joanne Minns",
-      "sum": "Joanne Minns (B.A. avec spécialisation [psychologie], Université d’Ottawa, 1994; M.A. [psychologie], Université Carleton, 2001) s’est jointe au ministère des Affaires étrangères et du Commerce international en 2008, après avoir travaillé au Bureau du Conseil privé. À l’administration centrale, elle a travaillé comme directrice adjointe de la Direction des politiques et des relations nord-américaines, coordonnant les…",
-      "cat": "Foreign affairs"
+      "title": "Joanne Minns nommée à un poste au ministère des Affaires étrangères",
+      "sum": "Joanne Minns, titulaire d'un baccalauréat en psychologie et d'une maîtrise, a rejoint le ministère des Affaires étrangères et du Commerce international en 2008. Elle a précédemment travaillé au Bureau du Conseil privé et à l'administration centrale.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "d56bd7d59dacfd34",
@@ -21949,33 +22216,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce d’une nouvelle nomination diplomatique",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui la nomination diplomatique suivante :",
-      "cat": "Foreign affairs"
+      "title": "Ministre Anand annonce nouvelle nomination diplomatique",
+      "sum": "La ministre des Affaires étrangères a annoncé une nouvelle nomination au sein du service diplomatique canadien.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "3590ffa963db27d8",
       "date": "2026-06-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/06/un-investissement-federal-de-plus-de-3-millions-de-dollars-stimule-le-secteur-du-tourisme-et-de-la-culture-de-saint-john.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Un investissement fédéral de plus de 3 millions de dollars stimule le secteur du tourisme et de la culture de Saint John",
-      "sum": "Un investissement fédéral de plus de 3 millions de dollars stimule le secteur du tourisme et de la culture de Saint John",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 3 millions pour le tourisme et la culture à Saint John",
+      "sum": "Le gouvernement fédéral investit plus de 3 millions de dollars pour soutenir le secteur du tourisme et de la culture à Saint John. Cet investissement vise à stimuler l'économie locale dans ces domaines.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "93a8a5f76b03ba0d",
       "date": "2026-06-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/06/un-investissement-federal-de-plus-de-3-millions-de-dollars-stimule-le-secteur-du-tourisme-et-de-la-culture-de-saint-john0.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Un investissement fédéral de plus de 3 millions de dollars stimule le secteur du tourisme et de la culture de Saint John",
-      "sum": "Les projets dirigés par quatre organismes clés renforceront les espaces communautaires, attireront des visiteurs et soutiendront la croissance économique",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 3 millions pour tourisme et culture à Saint John",
+      "sum": "Le gouvernement fédéral investit plus de 3 millions de dollars dans des projets touristiques et culturels à Saint John. Ces projets visent à améliorer les espaces communautaires, attirer des visiteurs et stimuler la croissance économique locale.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "273d837ee9b855ac",
@@ -21985,9 +22255,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les collectivités du Nord de l’Ontario bénéficieront de 39 millions de dollars en infrastructures fédérales",
-      "sum": "Aujourd’hui, l’honorable Patty Hajdu, ministre de l’Emploi et des Familles et ministre responsable de FedNor, a annoncé l’octroi d’un milliard de dollars du Fonds pour bâtir des collectivités fortes, qui sera administré par les agences de développement régional du Canada.",
-      "cat": "Infrastructure"
+      "title": "Ontario du Nord reçoit 39 millions dollars infrastructures fédérales",
+      "sum": "Le gouvernement fédéral octroie un milliard de dollars du Fonds pour bâtir des collectivités fortes, administré par les agences de développement régional, dont une partie bénéficiera aux collectivités du Nord de l'Ontario.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "c3f7d38712068fab",
@@ -21997,9 +22268,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Olszewski annoncera un soutien fédéral destiné aux entreprises du sud de l’Alberta",
-      "sum": "La ministre Olszewski annoncera un soutien fédéral destiné aux entreprises du sud de l’Alberta",
-      "cat": "Economy"
+      "title": "Soutien fédéral annoncé pour entreprises sud-Alberta",
+      "sum": "La ministre Olszewski annoncera un programme de soutien fédéral destiné aux entreprises situées dans le sud de l'Alberta.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "14b748926342f2fd",
@@ -22009,9 +22281,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Lancement de sept courts hommages de l’ONF aux lauréates et lauréats des PGGAS le 6 juin à 21 h (HE) sur les plateformes de l’ONF et sur Apple TV, ICI TOU.TV et CBC Gem. La collection des films de l’ONF pour les PGGAS atteint maintenant 133 films.",
-      "sum": "Sept courts métrages de l’Office national du film du Canada qui célèbrent l’excellence dans les arts du spectacle au Canada seront présentés en première en ligne le samedi 6 juin, le jour même où les Prix du Gouverneur général pour les arts du spectacle (PGGAS) rendront hommage aux lauréates et lauréats à Ottawa.",
-      "cat": "Housing"
+      "title": "L'ONF lance sept courts métrages célébrant les lauréats des PGGAS",
+      "sum": "L'Office national du film du Canada présentera sept nouveaux courts métrages en ligne le 6 juin à 21 h pour célébrer les lauréats des Prix du Gouverneur général pour les arts du spectacle. Ces films seront diffusés sur les plateformes de l'ONF et sur Apple TV, ICI TOU.TV et CBC Gem.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "34d2ee9c9e04f620",
@@ -22021,21 +22294,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ONF et le Festival international de jazz de Montréal présentent CINÉJAZZ : une série de projections gratuites à la salle Alanis-Obomsawin",
-      "sum": "Durant le Festival international de jazz de Montréal, l’Office national du film du Canada invite le public à la salle Alanis-Obomsawin : du 26 juin jusqu’au 4 juillet à 15 h, l’ONF y présentera CINÉJAZZ, une programmation gratuite composée de films centrés sur la musique.",
-      "cat": "Foreign affairs"
+      "title": "ONF et Festival jazz Montréal présentent série films gratuits",
+      "sum": "L'Office national du film du Canada présente CINÉJAZZ, une série de projections gratuites de films sur la musique jazz à la salle Alanis-Obomsawin du 26 juin au 4 juillet pendant le Festival international de jazz de Montréal.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "eb827020ef5c3b1a",
       "date": "2026-06-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/agence-spatiale/nouvelles/2026/06/la-ministre-joly-annonce-688-m-pour-renforcer-la-souverainete-satellitaire-du-canada-par-lajout-dun-satellite-a-la-mission-de-la-constellation-rada.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly annonce 688 M$ pour renforcer la souveraineté satellitaire du Canada par l’ajout d’un satellite à la mission de la Constellation RADARSAT",
-      "sum": "L’honorable Mélanie Joly, ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, a annoncé aujourd’hui l’attribution d’un contrat de 688 millions de dollars à MDA Space Ltée pour construire, mettre à l’essai et lancer un satellite supplémentaire pour la mission de la Constellation RADARSAT (MCR).",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 688 M$ pour renforcer sa capacité satellitaire",
+      "sum": "Le gouvernement fédéral attribue un contrat de 688 millions de dollars à MDA Space pour construire et lancer un satellite supplémentaire dans le cadre de la mission de la Constellation RADARSAT. Ce projet vise à renforcer la souveraineté spatiale du Canada.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "e1ccdaf663252878",
@@ -22045,21 +22320,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Morell",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Kent MacDonald, député de Cardigan, de l’honorable Rob Lantz, premier ministre de l’Île-du-Prince-Édouard, de l’honorable Kent Dollar, ministre du Logement et des Communautés, et de Danny Kelly, maire de Morell.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Morell en présence de représentants gouvernementaux",
+      "sum": "Une annonce concernant un projet d'infrastructure aura lieu à Morell. Des représentants fédéraux, provinciaux et municipaux y participeront.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "12c4372abe678797",
       "date": "2026-06-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/sante-publique/nouvelles/2026/06/prise-de-position-du-conseil-des-medecins-hygienistes-en-chef-cmhc-de-la-sante-publique-sur-la-culture-numerique-et-le-bien-etre-des-enfants-et-des.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Prise de position du Conseil des médecins hygiénistes en chef (CMHC) de la santé publique sur la culture numérique et le bien-être des enfants et des jeunes",
-      "sum": "Le Conseil des médecins hygiénistes en chef de la santé publique a publié un document de prise de position dans lequel il souligne les incidences que la culture numérique peut avoir sur la santé et le bien-être des enfants et des jeunes.",
-      "cat": "Culture & heritage"
+      "title": "Médecins hygiénistes prennent position sur culture numérique jeunesse",
+      "sum": "Le Conseil des médecins hygiénistes en chef de la santé publique a publié un document décrivant les effets de la culture numérique sur la santé et le bien-être des enfants et des jeunes.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "2675143d1cd4a521",
@@ -22069,9 +22346,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Bâtir un Canada fort en investissant dans les infrastructures régionales de gestion des eaux usées de la MR de St. Clements",
-      "sum": "Pour bâtir un Canada fort, il faut d’abord investir dans des infrastructures modernes et fiables qui permettent d’augmenter l’offre de logements et de bâtir des collectivités résilientes.",
-      "cat": "Infrastructure"
+      "title": "Investissement dans les infrastructures de gestion des eaux usées régionales",
+      "sum": "Le gouvernement investit dans les infrastructures de gestion des eaux usées de la municipalité régionale de St. Clements. Cet investissement vise à soutenir l'augmentation de l'offre de logements et à renforcer la résilience des collectivités.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "192bd3a0fbbba754",
@@ -22081,9 +22359,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’honorable Stephen Fuhr souligne le lancement de la Stratégie nationale de sécurité alimentaire",
-      "sum": "Le gouvernement du Canada s’efforce de renforcer l’économie et de rendre la vie plus abordable pour la population canadienne. Aujourd’hui, l’honorable Stephen Fuhr, secrétaire d’État (Approvisionnement en matière de défense) et député de Kelowna, au nom de l’honorable Heath MacDonald, ministre de l’Agriculture et de l’Agroalimentaire, a souligné le lancement de la Stratégie nationale de sécurité alimentaire.",
-      "cat": "Innovation, science & industry"
+      "title": "Lancement de la Stratégie nationale de sécurité alimentaire",
+      "sum": "Le gouvernement du Canada a annoncé le lancement de la Stratégie nationale de sécurité alimentaire. Cette stratégie vise à renforcer l'économie et à rendre la vie plus abordable pour les Canadiens.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "268239ac930a1d44",
@@ -22093,9 +22372,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada approuve une nouvelle technologie conçue pour soutenir les agriculteurs et favoriser une gestion plus durable des parasites",
-      "sum": "Le 30 juin 2026, Santé Canada a présenté une nouvelle politique autorisant l’utilisation de la technologie des drones pour l’épandage de pesticides qui sont déjà homologués pour l’épandage aérien conventionnel.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada autorise les drones pour l'épandage de pesticides agricoles",
+      "sum": "Le 30 juin 2026, Santé Canada a approuvé l'utilisation de drones pour l'épandage de pesticides déjà approuvés pour l'épandage aérien conventionnel. Cette technologie vise à soutenir les agriculteurs et à favoriser une gestion plus durable des parasites.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "0ff4e3eb92b9b618",
@@ -22106,8 +22386,9 @@
       "kind": "official",
       "lang": "fr",
       "title": "Fermetures de voies sur le pont levant du canal de Burlington",
-      "sum": "Services publics et Approvisionnement Canada souhaite informer le public qu’il y aura des fermetures de voies sur le pont levant du canal de Burlington afin de permettre des travaux d’amélioration des glissières de sécurité.",
-      "cat": "Innovation, science & industry"
+      "sum": "Services publics et Approvisionnement Canada annonce des fermetures de voies sur le pont levant du canal de Burlington pour permettre des travaux d'amélioration des glissières de sécurité.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "2265aa9cf7860af7",
@@ -22117,9 +22398,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "EN PRODUCTION | BIENTÔT SUR VOS ÉCRANS. L’autre père Noël : un récit du temps des fêtes intemporel coproduit par Tonic DNA et l’Office national du film du Canada, réalisé par Cordell Barker.",
-      "sum": "Tonic DNA et l’Office national du film du Canada ont fait équipe pour produire le tout nouveau film d’animation du cinéaste Cordell Barker (Le chat colla, Tombé du ciel), nommé à deux reprises aux Oscars : le spécial de Noël, L’autre père Noël, dont la sortie est prévue pour la période des fêtes 2026.",
-      "cat": "Innovation, science & industry"
+      "title": "L'Office national du film coproduit un film d'animation de Noël",
+      "sum": "L'Office national du film du Canada et Tonic DNA produisent ensemble un nouveau film d'animation intitulé « L'autre père Noël », réalisé par Cordell Barker. Le film sortira pendant la période des fêtes en 2026.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "d792ff7b6df06ce9",
@@ -22129,9 +22411,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des œuvres de l’ONF entrent au nouveau Musée du cinéma d’animation d’Annecy. Une présence permanente au sein de la nouvelle Cité internationale du cinéma d’animation célèbre plus de huit décennies d’innovation et de création en animation.",
-      "sum": "Des œuvres de l’ONF entrent au nouveau Musée du cinéma d’animation d’Annecy",
-      "cat": "Foreign affairs"
+      "title": "Œuvres de l'ONF intégrées au Musée du cinéma d'animation d'Annecy",
+      "sum": "Des créations de l'Office national du film du Canada sont devenues partie de la collection permanente du nouveau Musée du cinéma d'animation à Annecy, en France. Cette présence reconnaît plus de quatre-vingts ans d'innovation canadienne dans le domaine de l'animation.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "0b486f919269c701",
@@ -22141,9 +22424,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La secrétaire parlementaire Church souligne le lancement de la Stratégie nationale de sécurité alimentaire",
-      "sum": "Le gouvernement du Canada s’efforce de renforcer l’économie et de rendre la vie plus abordable pour la population canadienne. Aujourd’hui, la secrétaire parlementaire Leslie Church, au nom du ministre de l’Agriculture et de l’Agroalimentaire, l’honorable Heath MacDonald, a souligné le lancement de la Stratégie nationale de sécurité alimentaire.",
-      "cat": "Innovation, science & industry"
+      "title": "Lancement de la Stratégie nationale de sécurité alimentaire",
+      "sum": "Le gouvernement du Canada a annoncé le lancement de la Stratégie nationale de sécurité alimentaire. Cette stratégie vise à renforcer l'économie et à rendre la vie plus abordable pour les Canadiens.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "0698bff292076c17",
@@ -22153,9 +22437,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Visionnez canadien tout l’été. Revivez l’effervescence des Jeux de 1976 à Montréal, puis surfez sur la vague des classiques canadiens grâce aux plateformes de l’ONF.",
-      "sum": "En juin, continuez de visionner canadien sur les plateformes de l’ONF : nous vous proposons des premières, des chaînes spécialement conçues en vue du Mois national de l’histoire autochtone et du Mois de la Fierté, et une mine de nouveaux courts métrages.",
-      "cat": "Justice"
+      "title": "L'ONF offre du contenu canadien tout l'été sur ses plateformes",
+      "sum": "L'Office national du film (ONF) propose du contenu vidéo canadien pendant l'été, incluant des archives des Jeux de 1976 à Montréal et des classiques. En juin, l'ONF lancera de nouveaux contenus, des chaînes thématiques pour le Mois national de l'histoire autochtone et le Mois de la Fierté, ainsi que de nouveaux courts métrages.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "2146ba64aaec7c34",
@@ -22165,9 +22450,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Gouvernement du Canada : Le projet aurifère Springpole n'est pas susceptible d'entraîner des effets environnementaux négatifs importants",
-      "sum": "Aujourd'hui, le Gouvernement du Canada a déterminé que le projet aurifère Springpole, en Ontario, n'est pas susceptible d'entraîner des effets environnementaux négatifs importants aux termes de la Loi canadienne sur l'évaluation environnementale (2012) (LCEE 2012). La décision de la ministre a été éclairée par le rapport d'évaluation environnementale du projet.",
-      "cat": "Innovation, science & industry"
+      "title": "Projet minier Springpole approuvé sans effets environnementaux majeurs",
+      "sum": "Le gouvernement du Canada a déterminé que le projet aurifère Springpole en Ontario n'entraînera pas d'effets environnementaux négatifs importants selon la Loi canadienne sur l'évaluation environnementale. Cette décision s'appuie sur le rapport d'évaluation environnementale du projet.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "2a7e3ad24086d5ff",
@@ -22177,21 +22463,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Pont Samuel-De Champlain : Illumination spéciale pour la fête du Canada",
-      "sum": "Le 1er juillet, le pont Samuel-De Champlain sera illuminé en rouge et blanc, du coucher du soleil jusqu’à 1 h, pour célébrer la fête du Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Pont Samuel-De Champlain illuminé pour la fête du Canada",
+      "sum": "Le pont Samuel-De Champlain sera illuminé aux couleurs du Canada (rouge et blanc) le 1er juillet, du coucher du soleil jusqu'à 1 h du matin, pour célébrer la fête du Canada.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "0158961348e0e249",
       "date": "2026-06-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/06/le-gouvernement-federal-investit-dans-le-transport-en-commun-dans-la-premiere-nation-de-sipeknekatik.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral investit dans le transport en commun dans la Première Nation de Sipekne’katik",
-      "sum": "La Première Nation de Sipekne’katik offre maintenant une option de transport rural à ses membres grâce à un investissement de plus de 450 000 $ du gouvernement fédéral.",
-      "cat": "Housing"
+      "title": "Gouvernement fédéral investit dans le transport rural à Sipekne'katik",
+      "sum": "Le gouvernement fédéral a investi plus de 450 000 $ pour soutenir les services de transport en commun dans la Première Nation de Sipekne'katik. Ce financement permet aux membres de la communauté d'accéder à une option de transport rural.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "299195c0f1bfbc2c",
@@ -22201,21 +22489,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce un financement supplémentaire de 520 millions de dollars pour aider Jasper à se reconstruire",
-      "sum": "Au cours de l’été 2024, le parc national Jasper et la ville de Jasper ont été frappés par un violent feu de forêt qui a ravagé environ 32 700 hectares et détruit 30 % des bâtiments dans la ville. De nombreuses infrastructures du parc ont aussi été endommagées ou détruites. Depuis, en partenariat avec le gouvernement de l’Alberta, la municipalité de Jasper et des intervenants locaux, le gouvernement fédéral soutient…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada annonce 520 millions pour la reconstruction de Jasper",
+      "sum": "Le gouvernement fédéral alloue 520 millions de dollars supplémentaires pour aider la ville de Jasper et le parc national Jasper à se reconstruire après les incendies de forêt de l'été 2024 qui ont endommagé des milliers d'hectares et détruit un tiers des bâtiments.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "462dd8a02fb5c6c1",
       "date": "2026-06-30",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/06/le-canada-et-le-quebec-concluent-un-accord-visant-le-retablissement-et-la-protection-du-caribou.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et le Québec concluent un accord visant le rétablissement et la protection du caribou",
-      "sum": "Aujourd’hui, la ministre de l’Environnement, du Changement climatique et de la Nature, l’honorable Julie Dabrusin, et la ministre de l’Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs, madame Pascale Déry, ont annoncé la conclusion d’un accord visant le rétablissement et la protection du caribou au Québec.",
-      "cat": "Economy"
+      "title": "Canada et Québec signent accord protection caribou",
+      "sum": "Le Canada et le Québec ont conclu un accord visant le rétablissement et la protection du caribou au Québec. Cet accord a été annoncé par la ministre fédérale de l'Environnement et la ministre québécoise responsable de la Faune.",
+      "cat": "Wildlife",
+      "ai": true
     },
     {
       "id": "f8ab17d02fdd5aa6",
@@ -22225,9 +22515,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Une nouvelle station de terrain dédiée à la recherche et à la surveillance, d’un coût de 10,7 millions de dollars, ouvre ses portes dans le parc national Wood Buffalo",
-      "sum": "Une nouvelle station de terrain dédiée à la recherche et à la surveillance, d’un coût de 10,7 millions de dollars, ouvre ses portes dans le parc national Wood Buffalo",
-      "cat": "Innovation, science & industry"
+      "title": "Nouvelle station de recherche ouvre au parc Wood Buffalo",
+      "sum": "Une station de terrain coûtant 10,7 millions de dollars a ouvert dans le parc national Wood Buffalo. Cette installation est destinée à la recherche et à la surveillance.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "4e8d0bb1827def5e",
@@ -22237,9 +22528,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à White Rock",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Ernie Klassen, député de South- Surrey – White Rock et Megan Knight, mairesse de White Rock.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à White Rock avec le député et la mairesse",
+      "sum": "Le député Ernie Klassen et la mairesse Megan Knight feront une annonce concernant un projet d'infrastructure à White Rock. Les médias sont invités à cet événement.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "d80119a1f45ecf38",
@@ -22262,9 +22554,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Diab participera à une cérémonie de citoyenneté spéciale pour la fête du Canada (après-midi)",
-      "sum": "L’honorable Lena Metlege Diab, ministre de l'Immigration, des Réfugiés et de la Citoyenneté, accueillera 50 nouvelles citoyennes canadiennes et nouveaux citoyens canadiens, originaires de 21 pays différents, lors d’une cérémonie spéciale organisée à l’occasion de la fête du Canada. La juge de la citoyenneté Rania Sfeir présidera la cérémonie.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Diab préside cérémonie de citoyenneté pour la fête du Canada",
+      "sum": "La ministre de l'Immigration accueillera 50 nouvelles citoyennes et citoyens canadiens originaires de 21 pays lors d'une cérémonie spéciale organisée pour la fête du Canada. La juge de la citoyenneté Rania Sfeir présidera l'événement.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "07a7032b5d571121",
@@ -22274,9 +22567,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Hodgson rencontre le ministre de l’Énergie de la Pologne, Miłosz Motyka",
-      "sum": "Le 29 juin 2026, le ministre canadien de l’Énergie et des Ressources naturelles, Tim Hodgson, et le ministre polonais de l’Énergie, Miłosz Motyka, se sont rencontrés en marge de la Conférence mondiale de l’Agence internationale de l’énergie sur l’efficacité énergétique. Ils ont réaffirmé la solidité et le dynamisme des relations bilatérales entre le Canada et la Pologne et une coopération approfondie en faveur d'un…",
-      "cat": "Foreign affairs"
+      "title": "Le Canada et la Pologne renforcent leur coopération énergétique",
+      "sum": "Le ministre canadien de l'Énergie Tim Hodgson a rencontré son homologue polonais Miłosz Motyka le 29 juin 2026 lors d'une conférence internationale. Les deux pays ont réaffirmé leur engagement à approfondir leur coopération dans le domaine de l'énergie.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "3d784e67ac06b286",
@@ -22286,9 +22580,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Compte rendu Canada–Commission européenne : Rencontre entre le ministre de l’Énergie et des Ressources naturelles et le commissaire Dan Jørgensen",
-      "sum": "Le 29 juin 2026, Tim Hodgson, ministre de l’Énergie et des Ressources naturelles du Canada, a rencontré Dan Jørgensen, commissaire européen à l’énergie et au logement, à Montréal, en marge de la Conférence mondiale de l’Agence internationale de l’énergie sur l’efficacité énergétique.",
-      "cat": "Foreign affairs"
+      "title": "Ministre canadien rencontre commissaire européen à l'énergie",
+      "sum": "Le ministre canadien de l'Énergie et des Ressources naturelles a rencontré le commissaire européen à l'énergie et au logement à Montréal le 29 juin 2026, en marge d'une conférence internationale sur l'efficacité énergétique.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "f5731084af0ae348",
@@ -22298,45 +22593,49 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des dirigeants internationaux font avancer l’action en faveur de l’efficacité, de l’accessibilité et de la sécurité énergétiques lors de la Conférence mondiale de l’AIE à Montréal",
-      "sum": "Aujourd’hui s’est conclue à Montréal la 11e Conférence mondiale annuelle sur l’efficacité énergétique, qui a rassemblé des ministres, des chefs de l’industrie et des experts internationaux en vue d’accélérer les progrès accomplis en matière d’efficacité, d’accessibilité et de sécurité énergétiques.",
-      "cat": "Innovation, science & industry"
+      "title": "Conférence mondiale sur l'efficacité énergétique conclue à Montréal",
+      "sum": "La 11e Conférence mondiale annuelle sur l'efficacité énergétique s'est déroulée à Montréal, réunissant des ministres, des chefs d'industrie et des experts internationaux. Les participants ont travaillé à l'avancement de l'efficacité, l'accessibilité et la sécurité énergétiques.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "25e2c893d9a19fe4",
       "date": "2026-06-30",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/06/le-secretaire-detat-belanger-souligne-le-lancement-de-la-strategie-nationale-de-securite-alimentaire.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État Belanger souligne le lancement de la Stratégie nationale de sécurité alimentaire",
-      "sum": "Le gouvernement du Canada s’efforce de renforcer l’économie et de rendre la vie abordable pour la population canadienne.",
-      "cat": "Innovation, science & industry"
+      "title": "Lancement de la Stratégie nationale de sécurité alimentaire",
+      "sum": "Le secrétaire d'État Belanger annonce le lancement d'une stratégie nationale de sécurité alimentaire. Cette initiative s'inscrit dans les efforts du gouvernement canadien pour renforcer l'économie et améliorer l'accessibilité financière pour les Canadiens.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "0f23a4b1a230bcc1",
       "date": "2026-06-30",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/06/la-ministre-joly-annoncera-un-investissement-dans-groupe-adf.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly annoncera un investissement dans Groupe ADF",
-      "sum": "La ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, l’honorable Mélanie Joly, annoncera un investissement du Fonds de réponse stratégique dans Groupe ADF inc. Le ministre de l’Économie, de l’Innovation et de l’Énergie du Québec, Bernard Drainville, participera également à l’annonce.",
-      "cat": "Innovation, science & industry"
+      "title": "Investissement annoncé dans Groupe ADF par le gouvernement fédéral",
+      "sum": "La ministre fédérale de l'Industrie annoncera un investissement du Fonds de réponse stratégique destiné à Groupe ADF inc. Le ministre québécois de l'Économie participera également à cette annonce.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "2d347d4a9fce993f",
       "date": "2026-06-30",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/06/le-canada-et-lallemagne-renforcent-leur-partenariat-industriel-afin-detablir-des-chaines-dapprovisionnement-en-semi-conducteurs-resilientes.html",
-      "type": "Spending",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et l’Allemagne renforcent leur partenariat industriel afin d’établir des chaînes d’approvisionnement en semi-conducteurs résilientes",
-      "sum": "Une collaboration accrue viendra soutenir l’établissement de chaînes d’approvisionnement résilientes et les technologies qui alimentent l’innovation, la croissance économique et l’intelligence artificielle",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Allemagne renforcent partenariat semi-conducteurs",
+      "sum": "Le Canada et l'Allemagne travaillent ensemble pour développer des chaînes d'approvisionnement en semi-conducteurs plus résilientes. Cette collaboration vise à soutenir l'innovation, la croissance économique et le développement de technologies liées à l'intelligence artificielle.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "c5042d64154e5688",
@@ -22498,9 +22797,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Invitation to media – Greg Fergus to highlight Government of Canada support for Gatineau business to boost Quebec’s industrial capacity in the biofood sector",
-      "sum": "The media are invited to a press activity on Government of Canada investments aimed at boosting industrial capacity and innovation in the biofood sector, which play a key role in the country’s economy and food sovereignty.",
-      "cat": "Economy"
+      "title": "Canada announces biofood sector support for Gatineau business",
+      "sum": "The Government of Canada is highlighting investments to boost industrial capacity and innovation in the biofood sector in Gatineau, Quebec. These investments are intended to strengthen the country's economy and food sovereignty.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ea672b55ec754d4b",
@@ -22510,9 +22810,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Invitation to media – Marie-Gabrielle Ménard to highlight Government of Canada support for a business in Montréal’s East End to boost Quebec’s industrial capacity in the biofood sector",
-      "sum": "The media are invited to a press activity on Government of Canada investments aimed at boosting industrial capacity and innovation in the biofood sector, which play a key role in the country’s economy and food sovereignty.",
-      "cat": "Economy"
+      "title": "Canada announces biofood sector investment in Montreal",
+      "sum": "The Government of Canada is investing in a Montreal-area business to increase industrial capacity and innovation in the biofood sector. The investment aims to strengthen Quebec's biofood industry and support Canada's food sovereignty.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "d3beaf505b6f8dbe",
@@ -22522,9 +22823,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Ottawa–Gatineau street closures during Canada Day celebrations",
-      "sum": "Access to streets in the downtown cores of Ottawa and Gatineau will be restricted on Canada Day",
-      "cat": "Economy"
+      "title": "Ottawa-Gatineau streets closed for Canada Day celebrations",
+      "sum": "Streets in downtown Ottawa and Gatineau will have restricted access on Canada Day to accommodate celebrations. The closures are temporary measures for the holiday festivities.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "1550d8ee3ac86d82",
@@ -22534,9 +22836,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The Honourable Stephen Fuhr to announce support for food security in Kelowna",
-      "sum": "The Honourable Stephen Fuhr to announce support for food security in Kelowna",
-      "cat": "Public safety"
+      "title": "Federal minister announces food security support for Kelowna",
+      "sum": "The Honourable Stephen Fuhr is announcing federal support for food security initiatives in Kelowna, British Columbia.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "6d615996183eebd3",
@@ -22546,9 +22849,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Member of Parliament Darren Fisher to highlight Government of Canada support to Canoe Kayak Canada for the 2026 ICF Junior & U23 Canoe Sprint World Championships in Halifax",
-      "sum": "The Government of Canada is supporting a series of international sport events across the country this summer, bringing Canadians together and showcasing the strength and diversity of our communities",
-      "cat": "Foreign affairs"
+      "title": "Canada supports canoe kayak world championships in Halifax",
+      "sum": "The Government of Canada is providing support for the 2026 ICF Junior & U23 Canoe Sprint World Championships, which will be held in Halifax. Member of Parliament Darren Fisher will announce this support as part of broader government funding for international sporting events across Canada.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "fb928d6eb74e67b3",
@@ -22558,21 +22862,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Joly to announce investments to ensure continuity and access to critical satellite data",
-      "sum": "On June 30, the Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions, will announce funding for space technology. The announcement will be made alongside industry representatives.",
-      "cat": "Indigenous services"
+      "title": "Government announces funding for space technology sector",
+      "sum": "Minister Joly will announce government investments in space technology on June 30 to support access to critical satellite data. The announcement will be made with industry representatives present.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "15d4731c44fbca88",
       "date": "2026-06-29",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/fednor/news/2026/06/government-of-canada-invests-close-to-42-million-to-support-jobs-growth-and-strong-economy-in-timmins-and-surrounding-areas.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada invests close to $4.2 million to support jobs, growth and strong economy in Timmins and surrounding areas",
-      "sum": "Today, the Honourable Patty Hajdu, Minister of Jobs and Families and Minister responsible for FedNor, announced Government of Canada investments totalling $4,185,028 for nine initiatives that will accelerate economic, business and tourism growth in Timmins and surrounding areas.",
-      "cat": "Economy"
+      "title": "Canada invests $4.2 million in Timmins economic growth initiatives",
+      "sum": "The Government of Canada is providing $4.2 million in funding for nine initiatives aimed at supporting economic, business, and tourism growth in Timmins and surrounding areas. The investment was announced by the Minister of Jobs and Families.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "cb907191239f17d4",
@@ -22582,9 +22888,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "FedNor invests $4,185,028 to accelerate economic, business and tourism growth in Timmins and surrounding areas",
-      "sum": "Today, the Honourable Patty Hajdu, Minister of Jobs and Families and Minister responsible for FedNor, announced Government of Canada investments totalling $4,185,028 for nine projects in the Timmins area that will create jobs and opportunities, while helping local business scale up, modernize operations, commercialize new products and expand into new markets.",
-      "cat": "Economy"
+      "title": "Canada invests $4.2 million in Timmins economic and tourism projects",
+      "sum": "The federal government announced $4,185,028 in funding for nine projects in the Timmins area to support local business growth, job creation, and tourism development. The investment will help businesses expand operations and enter new markets.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "d59588efd0e93bdd",
@@ -22594,33 +22901,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Infrastructure Announcement in the Rural Municipality of St. Clements",
-      "sum": "Members of the media are invited to an infrastructure announcement with Ginette Lavack, Member of Parliament for Saint-Boniface—Saint-Vital and Parliamentary Secretary to the Minister of Indigenous Services, and Debbie Fiebelkorn, Mayor of the Rural Municipality of St. Clements.",
-      "cat": "Indigenous services"
+      "title": "Infrastructure announcement planned for Rural Municipality of St. Clements",
+      "sum": "A media event will be held in the Rural Municipality of St. Clements to announce infrastructure initiatives. The event will feature Ginette Lavack, Member of Parliament for Saint-Boniface—Saint-Vital, and Debbie Fiebelkorn, Mayor of the Rural Municipality of St. Clements.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "8755381ef927230a",
       "date": "2026-06-29",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/communications-security/news/2026/06/communications-security-establishment-canada-releases-its-2025-2026-annual-report.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Communications Security Establishment Canada releases its 2025-2026 Annual Report",
-      "sum": "Today, the Communications Security Establishment Canada (CSE) released its unclassified Annual Report for 2025 to 2026.",
-      "cat": "Public safety"
+      "title": "Communications Security Establishment Canada releases 2025-2026 annual report",
+      "sum": "The Communications Security Establishment Canada (CSE) has released its unclassified annual report covering the 2025 to 2026 period. The report provides information about CSE's activities and operations during this timeframe.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "87924a2ce7e1d66b",
       "date": "2026-06-29",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2026/06/assault-of-an-inmate-at-mission-institution-medium-security-unit.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Assault of an inmate at Mission Institution, medium security unit",
-      "sum": "On June 20, 2026, an inmate was the victim of an assault in the medium-security unit at Mission Institution.",
-      "cat": "Public safety"
+      "title": "Inmate assaulted at Mission Institution medium-security unit",
+      "sum": "An inmate was assaulted in the medium-security unit at Mission Institution on June 20, 2026. The incident is being documented as part of the federal correctional system record.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "efee62189790ee5f",
@@ -22630,9 +22940,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Northern businesses expand to attract tourism in Nunavut, the Northwest Territories and the Yukon",
-      "sum": "Today, the Honourable Rebecca Chartrand, Minister of Northern and Arctic Affairs and Minister responsible for CanNor, announced a contribution of $2,209,505 to support eight tourism projects across Nunavut, the Northwest Territories, and the Yukon. Delivered through CanNor, this funding will support tourism infrastructure, promote the North, and establish new tourism destinations while helping businesses expand and…",
-      "cat": "Economy"
+      "title": "Federal government funds tourism projects in three northern territories",
+      "sum": "The federal government is providing $2.2 million to support eight tourism projects across Nunavut, the Northwest Territories, and the Yukon. The funding will support tourism infrastructure, promote the regions, and help establish new tourism destinations.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "30524532cf9335cb",
@@ -22642,33 +22953,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Secretary of State Sarai highlights launch of National Food Security Strategy",
-      "sum": "The Government of Canada is focused on building a stronger economy and making life more affordable for Canadians. Today, the Honourable Randeep Sarai, Secretary of State (International Development), on behalf of the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, highlighted the launch of the National Food Security Strategy.",
-      "cat": "Foreign affairs"
+      "title": "Canada launches National Food Security Strategy",
+      "sum": "The Government of Canada announced the launch of a National Food Security Strategy. The Secretary of State for International Development made the announcement on behalf of the Minister of Agriculture and Agri-Food.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "804afeb642a3ab33",
       "date": "2026-06-29",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/06/natural-infrastructure-restoration-includes-tree-planting-for-river-valley-area-in-devon.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Natural infrastructure restoration includes tree planting for river valley area in Devon",
-      "sum": "A section of the ravine along the river in the Town of Devon will undergo restoration after an investment of $163,912 from the federal government.",
-      "cat": "Infrastructure"
+      "title": "Federal government funds river valley restoration project in Devon",
+      "sum": "The federal government is investing $163,912 in a natural infrastructure restoration project in Devon that will include tree planting in a ravine area along the river.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "9469a06a753742d9",
       "date": "2026-06-29",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/northern-economic-development/news/2026/06/backgrounder-the-government-of-canada-invests-over-22-m-to-grow-tourism-in-the-territories.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: The Government of Canada invests over $2.2M to grow tourism in the territories",
-      "sum": "The Government of Canada, through CanNor, is providing $2,209,505 to eight projects that will support tourism infrastructure, attract visitors, and enhance local tourism offerings across the North.",
-      "cat": "Infrastructure"
+      "title": "Canada invests $2.2 million in northern tourism projects",
+      "sum": "The Government of Canada is providing $2.2 million through CanNor to eight projects across the territories. These projects aim to develop tourism infrastructure, attract visitors, and improve local tourism offerings in the North.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "12a30af6c782897b",
@@ -22678,9 +22992,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canadian Armed Forces conduct Operation NANOOK-TAKUNIQ to strengthen Arctic awareness",
-      "sum": "The Canadian Armed Forces (CAF) will conduct Operation NANOOK-TAKUNIQ throughout the summer, fall, and winter across the Canadian North and Arctic.",
-      "cat": "National defence"
+      "title": "Canadian Armed Forces conduct Arctic awareness operation",
+      "sum": "The Canadian Armed Forces will conduct Operation NANOOK-TAKUNIQ across the Canadian North and Arctic during summer, fall, and winter to strengthen awareness in the region.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "4f220f91a2d87ef6",
@@ -22690,9 +23005,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada strengthens Dartmouth sport infrastructure",
-      "sum": "Strong community infrastructure helps attract visitors, grow local businesses and create new opportunities for Canadians.",
-      "cat": "Economy"
+      "title": "Government invests in Dartmouth sport infrastructure improvements",
+      "sum": "The Government of Canada is strengthening sports infrastructure in Dartmouth. The investment is intended to support community development, attract visitors, and support local economic activity.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "eaf97ebbf864eac2",
@@ -22702,9 +23018,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Infrastructure Announcement in Calgary",
-      "sum": "Members of the media are invited to an infrastructure announcement with the Honourable Marc Miller, Minister of Canadian Identity and Culture and Minister responsible for Official Languages, Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources and Member of Parliament for Calgary Confederation, and David Leinster, Chief Executive Officer for Contemporary Calgary.",
-      "cat": "Culture & heritage"
+      "title": "Infrastructure announcement scheduled in Calgary with federal ministers",
+      "sum": "Federal government officials, including the Minister of Canadian Identity and Culture and a Parliamentary Secretary, will make an infrastructure announcement in Calgary. The event will also include the CEO of Contemporary Calgary.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "2093b03cfa1de38e",
@@ -22714,9 +23031,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Parliamentary Secretary Church to announce support for food security in Toronto",
-      "sum": "Leslie Church, Parliamentary Secretary to the Secretaries of State for Labour, for Seniors, and for Children and Youth, and to the Minister of Jobs and Families, on behalf of the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, will highlight the launch of the National Food Security Strategy to strengthen food systems in Toronto.",
-      "cat": "Public safety"
+      "title": "Government announces National Food Security Strategy in Toronto",
+      "sum": "Leslie Church, Parliamentary Secretary, will announce the launch of the National Food Security Strategy on behalf of the Minister of Agriculture and Agri-Food. The strategy aims to strengthen food systems in Toronto.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "264ee41dfa36a357",
