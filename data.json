@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T01:53:48.575Z",
-  "count": 14107,
+  "generatedAt": "2026-08-11T07:12:35.321Z",
+  "count": 14111,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "047442b2f58a8492",
+      "date": "2026-08-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWDVpTUNWRTZQaGJNbG0yck5NTkNXT3hIZDRISlFLMXVtaGNJREtnNlVYRGhCeWxRZG45ZzREeEI1U00xMS1HSUJhb3lkMmV6ckxIbzFKTkxtVjB3ZnhsLTd0NmRPLTd6eU9jSTdxclJBOHBnbzJUc3ByN2RqYVM1cmNRa0ROUDNkRTctRF95UUhLNjQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "TERRAZZANO: Canadians won’t tolerate Carney hiking gas taxes - Toronto Sun",
+      "excerpt": "TERRAZZANO: Canadians won’t tolerate Carney hiking gas taxes Toronto Sun",
+      "cat": "Finance"
+    },
     {
       "id": "f546ba801684b145",
       "date": "2026-08-10",
@@ -731,6 +743,18 @@
       "title": "Federal Polling: Carney Leads Poilievre on Trust Across Key Issues - leger360.com",
       "excerpt": "Federal Polling: Carney Leads Poilievre on Trust Across Key Issues leger360.com",
       "cat": "Natural resources"
+    },
+    {
+      "id": "9be0477ca1f1e705",
+      "date": "2026-08-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRERicHdya0hRc0lKbU9yQ3RwbHljeU1PZU9KczR2bGZ1U3NYNVpmTDNwank1TFBWNW5BSkZsaWY5REhPdEozdVpXcGRUSVd2QkdGaDZLZllaUHFIWklMdGxMdlFndGdNRElmZEN1ekV4MnlHMU1GUzZBTDhNZ0pDY2tzZS1ZcWt6ZFM5dEdNOF9Gb0pIRU9FVDJoSmdUWE1iUUVNcEZrMmNxcTN1TlAxV1lUa1N3YTVHV3BF?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Poilievre tells Carney in letter to not concede to U.S. demands in tariff talks - National Newswatch",
+      "excerpt": "Poilievre tells Carney in letter to not concede to U.S. demands in tariff talks National Newswatch",
+      "cat": "Economy"
     },
     {
       "id": "c27c091d0502ede6",
@@ -2227,6 +2251,19 @@
       "cat": "Foreign affairs",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "efc932b125cb59dc",
+      "date": "2026-08-05",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/annonce-en-matiere-dinfrastructure-a-lunenburg.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Annonce d'infrastructure à Lunenburg en présence de députés",
+      "sum": "Une annonce concernant un projet d'infrastructure aura lieu à Lunenburg avec la participation de Jessica Fancy, députée, de Karina Gould et de représentants d'organisations locales. Les médias sont invités à cet événement.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "cd819fb6cf15a855",
@@ -23044,9 +23081,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Statement from Minister LeBlanc highlighting need for ambition following meeting of Committee on Internal Trade",
-      "sum": "Following the Committee on Internal Trade (CIT) meeting, Minister LeBlanc issued a statement highlighting the need for ambition on internal trade.",
-      "cat": "Economy"
+      "title": "Minister LeBlanc calls for ambition on internal trade",
+      "sum": "Following a meeting of the Committee on Internal Trade, Minister LeBlanc issued a statement emphasizing the need for greater ambition in internal trade matters.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "816590c79e92512f",
@@ -23056,9 +23094,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Hajdu to make a historic infrastructure announcement to build Northern Ontario Strong",
-      "sum": "The Honourable Patty Hajdu, Minister of Jobs and Families and Minister responsible for FedNor, and Member of Parliament for Thunder Bay—Superior North, will make a FedNor announcement to revitalize local infrastructure, empower communities, and unlock economic prosperity across Northern Ontario.",
-      "cat": "Infrastructure"
+      "title": "Minister announces federal infrastructure funding for Northern Ontario",
+      "sum": "Minister Patty Hajdu will announce federal funding through FedNor to support infrastructure projects in Northern Ontario. The initiative aims to revitalize local infrastructure and support economic development in the region.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "9980a1f90cdfdd7b",
@@ -23068,21 +23107,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Lockdown and search at Mountain Institution",
-      "sum": "On June 26, 2026, a lockdown was put in place at Mountain Institution, a medium-security federal institution, to enable staff members to conduct an exceptional search.",
-      "cat": "Public safety"
+      "title": "Lockdown and search conducted at Mountain Institution",
+      "sum": "On June 26, 2026, Mountain Institution, a medium-security federal facility, was locked down to allow staff to conduct a comprehensive search of the premises.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "2c1d685eb3963c6c",
       "date": "2026-06-29",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2026/06/death-of-an-inmate-from-sprinhill-institution.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Death of an inmate from Springhill Institution",
-      "sum": "On June 26, 2026, Dominique Tremblay, an inmate from Springhill Institution, died while in our custody.",
-      "cat": "Economy"
+      "title": "Inmate death at Springhill Institution reported",
+      "sum": "An inmate at Springhill Institution died on June 26, 2026, while in federal custody. The federal government has documented this incident.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "880f433f010fbf8e",
@@ -23092,9 +23133,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "End of lockdown and search at Matsqui Institution",
-      "sum": "The lockdown put in place at Matsqui Institution on June 19, 2026, has ended and the exceptional search has been completed. The institution has resumed its normal operations and visits have resumed.",
-      "cat": "Economy"
+      "title": "Lockdown ends at Matsqui Institution after search completed",
+      "sum": "A lockdown at Matsqui Institution that began on June 19, 2026, has ended following the completion of an exceptional search. The institution has returned to normal operations and resumed visits.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "c8bc34a976fab03f",
@@ -23104,9 +23146,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Champagne in Alberta to make an important announcement at Jasper National Park",
-      "sum": "On June 30, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will be in Alberta making an important announcement in support of the Jasper National Park rebuild.",
-      "cat": "Finance"
+      "title": "Minister Champagne announces support for Jasper National Park rebuild",
+      "sum": "Minister of Finance François-Philippe Champagne will make an announcement in Alberta on June 30 regarding support for rebuilding Jasper National Park.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "943f11e57f894b13",
@@ -23116,9 +23159,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Death of an inmate from Bath Institution - Regional Treatment Centre",
-      "sum": "On June 28, 2026, Marcelo Aravena, an inmate from Bath Institution’s Regional Treatment Centre, died while in our custody of apparent natural causes.",
-      "cat": "Economy"
+      "title": "Inmate dies at Bath Institution Regional Treatment Centre",
+      "sum": "Marcelo Aravena, an inmate at Bath Institution's Regional Treatment Centre, died on June 28, 2026, while in custody from apparent natural causes.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "21be493fec15c78d",
@@ -23128,9 +23172,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Kahnawà:ke and Canada Meet to Advance on Return of Land",
-      "sum": "Crown-Indigenous Relations and Northern Affairs Canada (CIRNAC) and Ratitsénhaienhs from the Mohawks of Kahnawà:ke (MCK) have met to discuss progress and developments regarding the return of land to the community. During this visit, the Honourable Minister Rebecca Alty announced $1.2 million in funding to the MCK to support clean-up work at the St. Rémi federal surplus property, also known as the Old Radar Site.…",
-      "cat": "Indigenous services"
+      "title": "Canada provides funding for Kahnawà:ke land cleanup project",
+      "sum": "Crown-Indigenous Relations and Northern Affairs Canada met with Mohawks of Kahnawà:ke leadership to discuss returning land to the community. The federal government announced $1.2 million in funding to support cleanup work at the St. Rémi federal surplus property.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "81a34166ebf7a75a",
@@ -23140,9 +23185,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada approves first generic semaglutide for weight loss",
-      "sum": "Today, Health Canada authorized a first generic semaglutide injection for weight loss.",
-      "cat": "Healthcare"
+      "title": "Canada approves first generic semaglutide weight loss medication",
+      "sum": "Health Canada has authorized the first generic version of semaglutide injection for weight loss treatment. This makes the medication available in a lower-cost generic form.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "a423fa44ab7d8eb6",
@@ -23152,9 +23198,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Death of an inmate from William Head Institution",
-      "sum": "The Correctional Service of Canada (CSC) confirms that as a result of vigilant and coordinated efforts of law enforcement partners and CSC staff, supported by an extensive search operation in the surrounding area, the body of inmate Ernest Egon Jensen was found in the ocean off the coast of Metchosin, Vancouver Island, near William Head Institution.",
-      "cat": "Justice"
+      "title": "Inmate found deceased off Vancouver Island coast",
+      "sum": "The Correctional Service of Canada confirms that the body of Ernest Egon Jensen, an inmate from William Head Institution, was found in the ocean near Metchosin, Vancouver Island, following a search operation involving law enforcement and CSC staff.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "df3abbad2bdb2718",
@@ -23164,9 +23211,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Invitation aux médias – Greg Fergus soulignera l’appui du gouvernement du Canada à une entreprise de Gatineau pour soutenir la capacité industrielle du Québec dans le secteur bioalimentaire",
-      "sum": "Les médias sont invités à une activité de presse portant sur des investissements du gouvernement du Canada visant à soutenir la capacité industrielle et l’innovation du secteur bioalimentaire, qui jouent un rôle central dans l’économie et la souveraineté alimentaire canadienne.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada soutient capacité bioalimentaire québécoise via investissement",
+      "sum": "Le gouvernement du Canada annonce un investissement dans une entreprise de Gatineau pour renforcer la capacité industrielle et l'innovation du secteur bioalimentaire au Québec. Cette mesure vise à soutenir l'économie et la souveraineté alimentaire canadienne.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "801062008a68fc91",
@@ -23176,9 +23224,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Invitation aux médias – Marie-Gabrielle Ménard soulignera l’appui du gouvernement du Canada à une entreprise de l’Est de Montréal pour soutenir la capacité industrielle du Québec dans le secteur bioalimentaire",
-      "sum": "Les médias sont invités à une activité de presse portant sur des investissements du gouvernement du Canada visant à soutenir la capacité industrielle et l’innovation du secteur bioalimentaire, qui jouent un rôle central dans l’économie et la souveraineté alimentaire canadienne.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada soutient entreprise bioalimentaire montréalaise",
+      "sum": "Le gouvernement du Canada annoncera un investissement pour soutenir une entreprise de l'Est de Montréal dans le secteur bioalimentaire. Cet appui vise à renforcer la capacité industrielle et l'innovation du Québec dans ce domaine.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "48fe0282a10c3866",
@@ -23188,9 +23237,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Fermetures de rues à Ottawa et Gatineau à l’occasion des célébrations de la fête du Canada",
-      "sum": "L’accès aux rues des centres-villes d’Ottawa et de Gatineau sera restreint dans le cadre de la fête du Canada",
-      "cat": "Economy"
+      "title": "Fermetures de rues à Ottawa et Gatineau pour la fête du Canada",
+      "sum": "L'accès à certaines rues des centres-villes d'Ottawa et de Gatineau sera restreint lors des célébrations de la fête du Canada.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "4029b0644d4f20b0",
@@ -23200,9 +23250,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’honorable Stephen Fuhr annoncera un soutien à la sécurité alimentaire à Kelowna",
-      "sum": "L’honorable Stephen Fuhr annoncera un soutien à la sécurité alimentaire à Kelowna",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'un soutien à la sécurité alimentaire à Kelowna",
+      "sum": "L'honorable Stephen Fuhr fera une annonce concernant un soutien destiné à améliorer la sécurité alimentaire à Kelowna, en Colombie-Britannique.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "378970ce9d7ad657",
@@ -23212,9 +23263,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le député Darren Fisher soulignera l’appui du gouvernement du Canada à Canoe Kayak Canada en vue des Championnats du monde de vitesse FIC juniors et moins de 23 ans 2026 à Halifax",
-      "sum": "Le gouvernement du Canada appuie une série de rencontres sportives internationales à travers le pays, afin d’unir la population canadienne et de mettre en valeur la force et la diversité de nos communautés",
-      "cat": "Foreign affairs"
+      "title": "Canada soutient les Championnats mondiaux de kayak à Halifax",
+      "sum": "Le gouvernement du Canada appuiera Canoe Kayak Canada pour accueillir les Championnats du monde de vitesse FIC juniors et moins de 23 ans en 2026 à Halifax. Le gouvernement finance des compétitions sportives internationales pour rassembler les Canadiens et promouvoir les communautés.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "689f0c8443d6dcc6",
@@ -23224,9 +23276,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce d’un investissement par la ministre Joly pour assurer un accès continu à des données satellitaires cruciales",
-      "sum": "Le 30 juin, l’honorable Mélanie Joly, ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, annoncera le financement d’une technologie spatiale. L’annonce sera faite en présence de représentants du secteur spatial.",
-      "cat": "Innovation, science & industry"
+      "title": "Financement annoncé pour la technologie satellitaire canadienne",
+      "sum": "La ministre Joly annoncera un investissement pour assurer l'accès continu à des données satellitaires. L'annonce sera faite le 30 juin en présence de représentants du secteur spatial.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "e43db2e3cad4c299",
@@ -23236,9 +23289,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit près de 4,2 millions de dollars pour soutenir l’emploi, la croissance et une économie forte à Timmins et dans les environs",
-      "sum": "Aujourd’hui, l’honorable Patty Hajdu, ministre de l’Emploi et des Familles et ministre responsable de FedNor, a annoncé des investissements du gouvernement du Canada totalisant 4 185 028 $ pour neuf initiatives qui accéléreront la croissance de l’économie, des entreprises et du tourisme à Timmins et dans les environs.",
-      "cat": "Economy"
+      "title": "Le Canada investit 4,2 millions pour l'emploi à Timmins",
+      "sum": "Le gouvernement du Canada investit 4,2 millions de dollars dans neuf initiatives pour soutenir la croissance économique, les entreprises et le tourisme à Timmins et dans les régions environnantes.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "11f97df2d4b626e6",
@@ -23248,9 +23302,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "FedNor investit plus de 4 185 028 $ pour accélérer la croissance de l’économie, des entreprises et du tourisme à Timmins et dans les environs",
-      "sum": "Aujourd’hui, l’honorable Patty Hajdu, ministre de l’Emploi et des Familles et ministre responsable de FedNor, a annoncé des investissements du gouvernement du Canada totalisant 4 185 028 $ pour neuf projets dans la région de Timmins. Ces projets créeront des emplois et des débouchés, tout en aidant les entreprises locales à prendre de l’expansion, à moderniser leurs opérations, à commercialiser de nouveaux produits…",
-      "cat": "Innovation, science & industry"
+      "title": "FedNor investit 4,2 millions à Timmins pour l'économie",
+      "sum": "Le gouvernement du Canada annonce un investissement de plus de 4,1 millions de dollars pour neuf projets dans la région de Timmins. Ces projets visent à créer des emplois et à soutenir la croissance des entreprises locales et du tourisme.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "4aecb586673eb333",
@@ -23260,33 +23315,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure dans la Municipalité rurale de St. Clements",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Ginette Lavack, députée de Saint-Boniface—Saint-Vital et secrétaire parlementaire de la ministre des Services aux Autochtones, et de Debbie Fiebelkorn, mairesse de la Municipalité rurale de St. Clements.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à la Municipalité rurale de St. Clements",
+      "sum": "Une annonce concernant l'infrastructure sera faite à la Municipalité rurale de St. Clements. L'événement réunira la députée Ginette Lavack et la mairesse Debbie Fiebelkorn.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "01281f41d4e5caa3",
       "date": "2026-06-29",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/securite-telecommunications/nouvelles/2026/06/le-centre-de-la-securite-des-telecommunications-canada-publie-son-rapport-annuel-2025-2026.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Centre de la sécurité des télécommunications Canada publie son rapport annuel 2025-2026",
-      "sum": "Le Centre de la sécurité des télécommunications Canada (CST) a publié aujourd’hui son rapport annuel non classifié pour l’année 2025 à 2026.",
-      "cat": "Economy"
+      "title": "Centre de la sécurité des télécommunications publie rapport annuel",
+      "sum": "Le Centre de la sécurité des télécommunications Canada a publié son rapport annuel non classifié pour l'année 2025-2026.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "ceebe94e533a7bac",
       "date": "2026-06-29",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/06/agression-contre-un-detenu-a-letablissement-de-mission---unite-a-securite-moyenne.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Agression contre un détenu à l’Établissement de Mission - unité à sécurité moyenne",
-      "sum": "Le 20 juin 2026, un détenu a été victime d’agression dans l’unité à sécurité moyenne de l’Établissement de Mission.",
-      "cat": "Economy"
+      "title": "Agression contre un détenu à l'Établissement de Mission",
+      "sum": "Le 20 juin 2026, un détenu a été victime d'une agression dans l'unité à sécurité moyenne de l'Établissement de Mission.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "a45b6aaec8fde16e",
@@ -23296,9 +23354,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les entreprises du Nord élargissent leurs activités pour stimuler le tourisme au Nunavut, dans les Territoires du Nord-Ouest et au Yukon",
-      "sum": "Aujourd’hui, l’honorable Rebecca Chartrand, ministre des Affaires du Nord et de l’Arctique et ministre responsable de CanNor, a annoncé une contribution de 2 209 505 $ pour appuyer huit projets touristiques au Nunavut, dans les Territoires du Nord-Ouest et au Yukon. Versé par l’intermédiaire de CanNor, ce financement servira à soutenir les infrastructures touristiques, à promouvoir le Nord et à créer de nouvelles…",
-      "cat": "Innovation, science & industry"
+      "title": "Financement pour développer le tourisme dans trois territoires du Nord",
+      "sum": "Le gouvernement fédéral investit plus de 2,2 millions de dollars pour soutenir huit projets touristiques au Nunavut, aux Territoires du Nord-Ouest et au Yukon. Cet investissement vise à améliorer les infrastructures touristiques et à promouvoir le développement économique régional.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "e500a0eecef7e580",
@@ -23308,33 +23367,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État Sarai souligne le lancement de la Stratégie nationale de sécurité alimentaire",
-      "sum": "Le gouvernement du Canada s’efforce de renforcer l’économie et de rendre la vie plus abordable pour la population canadienne. Aujourd’hui, le secrétaire d’État (Développement international), l’honorable Randeep Sarai, au nom du ministre de l’Agriculture et de l’Agroalimentaire, l’honorable Heath MacDonald, a souligné le lancement de la Stratégie nationale de sécurité alimentaire.",
-      "cat": "Foreign affairs"
+      "title": "Canada lance sa Stratégie nationale de sécurité alimentaire",
+      "sum": "Le gouvernement du Canada a annoncé le lancement de la Stratégie nationale de sécurité alimentaire. Cette stratégie vise à renforcer l'économie et à rendre la vie plus abordable pour les Canadiens.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "b26155fb790856ae",
       "date": "2026-06-29",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/06/restauration-dinfrastructures-naturelles-comprenant-la-plantation-darbres-dans-la-region-de-la-vallee-fluviale-de-devon.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Restauration d’infrastructures naturelles comprenant la plantation d’arbres dans la région de la vallée fluviale de Devon",
-      "sum": "Une partie du ravin longeant la rivière dans la municipalité de Devon fera l’objet de travaux de restauration grâce à un investissement fédéral de 163 912 $.",
-      "cat": "Infrastructure"
+      "title": "Investissement fédéral pour restaurer les infrastructures naturelles de la vallée Devon",
+      "sum": "Le gouvernement fédéral investit 163 912 $ dans la restauration d'infrastructures naturelles, incluant la plantation d'arbres, dans la région de la vallée fluviale de Devon. Les travaux porteront sur un ravin longeant la rivière dans cette municipalité.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "c91913421ab79190",
       "date": "2026-06-29",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/developpement-economique-nord/nouvelles/2026/06/document-dinformation-le-gouvernement-du-canada-investit-plus-de-22m-pour-accroitre-le-tourisme-dans-les-territoires.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Le gouvernement du Canada investit plus de 2,2 M$ pour accroître le tourisme dans les territoires",
-      "sum": "Le gouvernement du Canada, par l’entremise de CanNor, verse 2 209 505 $ à huit projets qui appuieront les infrastructures touristiques, attireront des touristes et amélioreront l’offre touristique locale dans tout le Nord.",
-      "cat": "Infrastructure"
+      "title": "Canada investit 2,2 millions pour développer le tourisme dans les territoires",
+      "sum": "Le gouvernement du Canada accorde 2,2 millions de dollars à huit projets dans les territoires pour améliorer les infrastructures touristiques et attirer des visiteurs. Ces investissements visent à renforcer l'offre touristique locale dans le Nord canadien.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "2d9f911f60702708",
@@ -23344,9 +23406,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les Forces armées canadiennes mènent l’opération NANOOK-TAKUNIQ pour renforcer la connaissance de la situation dans l’Arctique",
-      "sum": "Les Forces armées canadiennes (FAC) mèneront l’opération NANOOK-TAKUNIQ tout au long de l’été, de l’automne et de l’hiver dans l’Arctique et le Nord canadiens.",
-      "cat": "Innovation, science & industry"
+      "title": "Forces armées canadiennes lancent opération Arctique NANOOK-TAKUNIQ",
+      "sum": "Les Forces armées canadiennes mènent l'opération NANOOK-TAKUNIQ dans l'Arctique et le Nord canadiens pendant l'été, l'automne et l'hiver pour améliorer la connaissance de la situation dans cette région.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "fde19ecca3b2142f",
@@ -23356,9 +23419,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada renforce l’infrastructure sportive de Dartmouth",
-      "sum": "De solides infrastructures communautaires permettent d’attirer des visiteurs, de développer les entreprises locales et de créer de nouveaux débouchés pour la population canadienne.",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada renforce l'infrastructure sportive de Dartmouth",
+      "sum": "Le gouvernement du Canada investit dans l'amélioration des infrastructures sportives à Dartmouth. Cet investissement vise à attirer des visiteurs, soutenir les entreprises locales et créer des opportunités économiques.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "7c4200a376a3159d",
@@ -23368,9 +23432,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Calgary",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de l’honorable Marc Miller, ministre de l’Identité et de la Culture canadiennes et ministre responsable des Langues officielles, de Corey Hogan, secrétaire parlementaire du ministre de l’Énergie et des Ressources naturelles et député de Calgary Confederation, et de David Leinster, président-directeur général de…",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Calgary avec participation ministérielle",
+      "sum": "Le gouvernement du Canada tiendra une conférence de presse à Calgary pour annoncer une initiative d'infrastructure. L'événement réunira le ministre de l'Identité et de la Culture canadiennes et d'autres représentants gouvernementaux.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "d1649463bd6ea54a",
@@ -23380,9 +23445,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La secrétaire parlementaire Church annonce de l’aide pour accroître la sécurité alimentaire à Toronto",
-      "sum": "La secrétaire parlementaire des secrétaires d'État pour le Travail, pour l’Enfance et la Jeunesse, et pour les Aînés, et pour la ministre de l’Emploi et des Familles, Leslie Church, au nom du ministre de l’Agriculture et de l’Agroalimentaire, l’honorable Heath MacDonald, soulignera le lancement de la Stratégie nationale de sécurité alimentaire pour renforcer l’organisation alimentaire à Toronto.",
-      "cat": "Innovation, science & industry"
+      "title": "Lancement de la Stratégie nationale de sécurité alimentaire à Toronto",
+      "sum": "La secrétaire parlementaire Leslie Church annonce le lancement de la Stratégie nationale de sécurité alimentaire, destinée à renforcer l'organisation alimentaire à Toronto. Cette initiative vise à accroître la sécurité alimentaire dans la région.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "525e774ee7a23a8f",
@@ -23392,9 +23458,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration du ministre LeBlanc soulignant la nécessité de faire preuve d’ambition à l’issue de la réunion du Comité du commerce intérieur",
-      "sum": "Suivant la réunion du Comité du commerce intérieur, le ministre LeBlanc a émis une déclaration soulignant la nécessité de faire preuve d’ambition sur le commerce intérieur.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre LeBlanc appelle à l'ambition en commerce intérieur",
+      "sum": "À la suite d'une réunion du Comité du commerce intérieur, le ministre LeBlanc a déclaré qu'il est nécessaire de faire preuve d'ambition dans ce domaine.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "b24739c1c5e8f766",
@@ -23404,9 +23471,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Hajdu fera une annonce historique en matière d’infrastructure pour renforcer le Nord de l’Ontario",
-      "sum": "L’honorable Patty Hajdu, ministre de l’Emploi et des Familles et ministre responsable de FedNor, et députée de Thunder Bay—Supérieur-Nord, fera une annonce de FedNor visant à revitaliser l’infrastructure locale, à habiliter les collectivités et à favoriser la prospérité économique dans tout le Nord de l’Ontario.",
-      "cat": "Infrastructure"
+      "title": "Annonce d'investissement en infrastructure pour le Nord-Ontario",
+      "sum": "La ministre Hajdu annoncera un investissement de FedNor destiné à revitaliser l'infrastructure locale et soutenir le développement économique du Nord de l'Ontario. Cette annonce vise à renforcer les collectivités régionales.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "ee2691a3f5bc8b46",
@@ -23416,9 +23484,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Isolement cellulaire et fouille à l’Établissement Mountain",
-      "sum": "Un isolement cellulaire a été imposé le 26 juin 2026, à l’Établissement Mountain, un établissement à sécurité moyenne, afin de permettre au personnel de procéder à une fouille exceptionnelle.",
-      "cat": "Innovation, science & industry"
+      "title": "Isolement cellulaire à l'Établissement Mountain pour fouille",
+      "sum": "Un isolement cellulaire a été imposé le 26 juin 2026 à l'Établissement Mountain, établissement à sécurité moyenne, pour permettre une fouille exceptionnelle des lieux.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "13d359650a4bb3e8",
@@ -23428,9 +23497,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Décès d’un détenu de l’Établissement de Springhill",
-      "sum": "Le 26 juin 2026, Dominique Tremblay, un détenu de l’Établissement de Springhill, est décédé sous notre garde.",
-      "cat": "Economy"
+      "title": "Décès d'un détenu à l'Établissement de Springhill",
+      "sum": "Un détenu de l'Établissement de Springhill est décédé le 26 juin 2026 pendant son incarcération.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "f5d58ef7ea04f376",
@@ -23440,9 +23510,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Fin de l’isolement cellulaire et de la fouille à l’Établissement de Matsqui",
-      "sum": "L’isolement cellulaire et la fouille exceptionnelle imposés à l’Établissement de Matsqui le 19 juin 2026 sont terminés. L’établissement a repris ses opérations normales et les visites sont rétablies.",
-      "cat": "Innovation, science & industry"
+      "title": "Fin de l'isolement cellulaire à l'Établissement de Matsqui",
+      "sum": "L'isolement cellulaire et la fouille exceptionnelle imposés à l'Établissement de Matsqui le 19 juin 2026 ont été levés. L'établissement a repris ses opérations normales et les visites ont été rétablies.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "da1460003a4d2cfd",
@@ -23452,9 +23523,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Champagne fera une annonce importante au parc national Jasper, en Alberta",
-      "sum": "Le 30 juin, l’honorable François-Philippe Champagne, ministre des Finances et du Revenu national, sera en Alberta où il fera une annonce importante sur du soutien pour reconstruire le parc national Jasper.",
-      "cat": "Economy"
+      "title": "Annonce de soutien pour la reconstruction du parc Jasper",
+      "sum": "Le ministre des Finances annoncera une aide pour la reconstruction du parc national Jasper en Alberta le 30 juin. Les détails du soutien seront dévoilés lors de cette visite.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "cb9643a141169f3e",
@@ -23464,9 +23536,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Décès d’un détenu de l’Établissement de Bath – Centre régional de traitement",
-      "sum": "Le 28 juin 2026, Marcelo Aravena, un détenu du Centre régional de traitement de l’Établissement de Bath, est décédé sous notre garde de causes apparemment naturelles.",
-      "cat": "Innovation, science & industry"
+      "title": "Décès d'un détenu à l'Établissement de Bath",
+      "sum": "Un détenu de l'Établissement de Bath est décédé le 28 juin 2026 de causes apparemment naturelles. L'incident s'est produit au Centre régional de traitement de l'établissement.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "2b8e10c194829e63",
@@ -23476,9 +23549,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Kahnawà:ke et le Canada se rencontrent pour faire avancer la restitution des terres",
-      "sum": "Relations Couronne-Autochtones et Affaires du Nord Canada (RCAANC) et Ratitsénhaienhs du Conseil mohawk de Kahnawà:ke (CMK) se sont rencontrés pour discuter des progrès et des développements concernant la restitution des terres à la communauté. Au cours de cette visite, l’honorable ministre Rebecca Alty a annoncé un financement de 1,2 million de dollars au CMK pour soutenir les travaux de nettoyage de la propriété…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Kahnawà:ke discutent de la restitution des terres",
+      "sum": "Le gouvernement fédéral et le Conseil mohawk de Kahnawà:ke se sont rencontrés pour discuter des progrès concernant la restitution des terres. Le Canada a annoncé un financement de 1,2 million de dollars pour soutenir les travaux de nettoyage de propriétés.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "6e894df95e1ac02f",
@@ -23488,9 +23562,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada autorise une première version générique du sémaglutide destiné à la perte de poids",
-      "sum": "Aujourd’hui, Santé Canada a homologué une première injection de sémaglutide générique pour la perte de poids.",
-      "cat": "Economy"
+      "title": "Canada approuve premier générique de sémaglutide pour perte de poids",
+      "sum": "Santé Canada a autorisé un médicament générique injectable à base de sémaglutide pour aider à la perte de poids. C'est la première approbation de ce type de médicament générique au Canada.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "8c675a535bd49a26",
@@ -23500,9 +23575,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Décès d’un détenu de l’Établissement William Head",
-      "sum": "Le Service correctionnel du Canada (SCC) confirme qu’à la suite des efforts vigilants et coordonnés des partenaires de l’application de la loi et du personnel du SCC, appuyés par une vaste opération de recherche dans la région environnante, le corps du détenu Ernest Egon Jensen a été retrouvé dans l’océan au large de Metchosin, sur l’île de Vancouver, près de l’Établissement William Head.",
-      "cat": "Innovation, science & industry"
+      "title": "Décès d'un détenu de l'Établissement William Head",
+      "sum": "Le Service correctionnel du Canada annonce que le corps d'un détenu, Ernest Egon Jensen, a été retrouvé dans l'océan près de l'Établissement William Head en Colombie-Britannique. La découverte survient après une opération de recherche coordonnée par les autorités et le personnel correctionnel.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "c07583f8b4891fa8",
@@ -23512,21 +23588,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La secrétaire d’État Sahota souligne le lancement de la Stratégie nationale de sécurité alimentaire",
-      "sum": "S’appuyant sur plus de 3 milliards de dollars d’investissements sur 10 ans, cette stratégie stimulera la productivité et l’innovation, soutiendra les épiciers indépendants et créera une plus grande concurrence dans l’ensemble du système alimentaire canadien afin de contribuer à réduire les prix pour les Canadiens et les Canadiennes.",
-      "cat": "Innovation, science & industry"
+      "title": "Lancement de la Stratégie nationale de sécurité alimentaire",
+      "sum": "Le gouvernement fédéral lance une stratégie nationale de sécurité alimentaire appuyée par 3 milliards de dollars sur 10 ans. Cette stratégie vise à stimuler la productivité, soutenir les épiciers indépendants et accroître la concurrence dans le système alimentaire canadien.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "bbbea52b2cdddc49",
       "date": "2026-06-29",
       "src": "Ressources naturelles Canada (RNCan)",
       "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/06/declaration-conjointe-canadaitalie-a-lissue-de-la-reunion-du-dialogue-ministeriel-sur-lenergie.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration conjointe Canada–Italie à l’issue de la réunion du Dialogue ministériel sur l’énergie",
-      "sum": "Déclaration conjointe Canada–Italie à l’issue de la réunion du Dialogue ministériel sur l’énergie",
-      "cat": "Economy"
+      "title": "Canada et l'Italie établissent un dialogue ministériel sur l'énergie",
+      "sum": "Le Canada et l'Italie ont tenu une réunion de dialogue ministériel sur l'énergie et ont publié une déclaration conjointe à l'issue de cette rencontre. Cette déclaration formelle marque une collaboration bilatérale dans le secteur énergétique entre les deux pays.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "dc41db4f31711f8a",
@@ -23536,9 +23614,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada réduit les factures des consommateurs et favorise l’énergie propre au Québec, en Colombie-Britannique, en Nouvelle-Écosse et à l’Île‑du-Prince-Édouard",
-      "sum": "Le Canada réduit les factures des consommateurs et favorise l’énergie propre au Québec, en Colombie-Britannique, en Nouvelle-Écosse et à l’Île du-Prince-Édouard",
-      "cat": "Economy"
+      "title": "Le Canada réduit les factures d'énergie et favorise l'énergie propre",
+      "sum": "Le gouvernement du Canada met en place des mesures pour réduire les coûts d'électricité des consommateurs dans quatre provinces et promouvoir l'utilisation d'énergie propre au Québec, en Colombie-Britannique, en Nouvelle-Écosse et à l'Île-du-Prince-Édouard.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "1b024c389dc9682f",
@@ -23548,9 +23627,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Le Canada réduit les factures des consommateurs et favorise l’énergie propre au Québec, en Colombie-Britannique, en Nouvelle-Écosse et à l’Île-du-Prince-Édouard",
-      "sum": "Document d’information : Le Canada réduit les factures des consommateurs et favorise l’énergie propre au Québec, en Colombie-Britannique, en Nouvelle-Écosse et à l’Île-du-Prince-Édouard",
-      "cat": "Economy"
+      "title": "Le Canada réduit les factures énergétiques dans quatre provinces",
+      "sum": "Le gouvernement du Canada met en place des mesures pour réduire les coûts énergétiques des consommateurs et promouvoir l'énergie propre au Québec, en Colombie-Britannique, en Nouvelle-Écosse et à l'Île-du-Prince-Édouard.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "d455f50e6cc691ad",
@@ -23624,9 +23704,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Death of an inmate from Archambault Institution",
-      "sum": "On June 27, 2026, Valery Fabrikant, an inmate from Archambault Institution, died while in our custody of apparent natural causes.",
-      "cat": "Economy"
+      "title": "Inmate death at Archambault Institution reported",
+      "sum": "An inmate at Archambault Institution died on June 27, 2026, while in custody. The death is reported as apparent natural causes.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "a484c000f545ad12",
@@ -23636,21 +23717,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Secretary of State Sarai to highlight important efforts in support of food security",
-      "sum": "The Honourable Randeep Sarai, Secretary of State (International Development), on behalf of the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, will highlight the launch of the National Food Security Strategy, which will strengthen food systems in Surrey, British Columbia.",
-      "cat": "Foreign affairs"
+      "title": "Canada launches National Food Security Strategy in British Columbia",
+      "sum": "Secretary of State Randeep Sarai announced the launch of the National Food Security Strategy on behalf of the Minister of Agriculture and Agri-Food. The strategy is intended to strengthen food systems in Surrey, British Columbia.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "9980f0487af0b764",
       "date": "2026-06-28",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2026/06/escape-from-william-head-institution.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Escape from William Head institution",
-      "sum": "On June 28, 2026, during the noon count, staff members at William Head Institution, a minimum security federal institution, discovered that Ernest Egon Jensen was not accounted for.",
-      "cat": "Public safety"
+      "title": "Inmate escapes from William Head minimum security institution",
+      "sum": "Ernest Egon Jensen was discovered missing from William Head Institution, a minimum security federal facility, during a staff count on June 28, 2026. The institution is a federal correctional facility.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "5f47e4151216cc68",
@@ -23660,9 +23743,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Décès d’un détenu de l’Établissement Archambault",
-      "sum": "Le 27 juin 2026, Valery Fabrikant, un détenu de l’Établissement Archambault, est décédé sous notre garde de causes naturelles apparentes.",
-      "cat": "Economy"
+      "title": "Décès d'un détenu à l'Établissement Archambault",
+      "sum": "Un détenu de l'Établissement Archambault est décédé le 27 juin 2026 de causes naturelles apparentes alors qu'il était sous la garde du service correctionnel.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "93620e947764f68b",
@@ -23672,21 +23756,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État Sarai soulignera les efforts importants déployés pour contrer la sécurité alimentaire",
-      "sum": "Le secrétaire d’État (Développement international), l’honorable Randeep Sarai, au nom de la ministre de l’Agriculture et de l’Agroalimentaire, l’honorable Heath MacDonald, soulignera le lancement de la Stratégie nationale de sécurité alimentaire qui vise à renforcer les systèmes alimentaires à Surrey, en Colombie-Britannique.",
-      "cat": "Foreign affairs"
+      "title": "Lancement de la Stratégie nationale de sécurité alimentaire",
+      "sum": "Le secrétaire d'État au Développement international souligne le lancement de la Stratégie nationale de sécurité alimentaire, qui vise à renforcer les systèmes alimentaires au Canada. Cette annonce est faite à Surrey, en Colombie-Britannique, au nom de la ministre de l'Agriculture et de l'Agroalimentaire.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "62c0e0ec010b06f6",
       "date": "2026-06-28",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/06/evasion-de-letablissement-william-head.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Évasion de l’Établissement William Head",
-      "sum": "Le 28 juin 2026, lors du dénombrement de midi, le personnel de l’établissement William Head, un établissement fédéral à sécurité minimale, a découvert que Ernest Egon Jensen manquait à l’appel.",
-      "cat": "Innovation, science & industry"
+      "title": "Évasion d'un détenu à l'établissement William Head",
+      "sum": "Le 28 juin 2026, un détenu nommé Ernest Egon Jensen s'est échappé de l'établissement William Head, un établissement carcéral fédéral à sécurité minimale. Le personnel a découvert son absence lors du dénombrement de midi.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "cb52bc2268d50cc7",
@@ -23696,9 +23782,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Statement by Minister Miller on Canadian Multiculturalism Day",
-      "sum": "The Government of Canada issues a statement to mark Canadian Multiculturalism Day",
-      "cat": "Economy"
+      "title": "Government issues statement on Canadian Multiculturalism Day",
+      "sum": "The Government of Canada released a statement to mark Canadian Multiculturalism Day. The statement was issued by Minister Miller.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "a0d0fb777179733b",
@@ -23708,9 +23795,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration du ministre Miller à l’occasion de la Journée canadienne du multiculturalisme",
-      "sum": "Déclaration du gouvernement du Canada pour souligner la Journée canadienne du multiculturalisme",
-      "cat": "Economy"
+      "title": "Ministre Miller souligne la Journée canadienne du multiculturalisme",
+      "sum": "Le ministre Miller a publié une déclaration du gouvernement du Canada pour marquer la Journée canadienne du multiculturalisme.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "72f8cafc9d3ade4c",
@@ -23729,12 +23817,13 @@
       "date": "2026-06-26",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-supports-the-46th-festival-international-de-jazz-de-montreal.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada supports the 46th Festival International de Jazz de Montréal",
-      "sum": "The Festival International de Jazz de Montréal received funding from the Government of Canada.",
-      "cat": "Foreign affairs"
+      "title": "Government of Canada funds Montreal International Jazz Festival",
+      "sum": "The Government of Canada provided financial support to the 46th Festival International de Jazz de Montréal. The festival received funding through this government contribution.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "b0b6c7509d3afb39",
@@ -23744,45 +23833,49 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The Government of Canada celebrates Canada Day at annual sunrise event",
-      "sum": "The Government of Canada celebrates Canada Day at annual sunrise event",
-      "cat": "Economy"
+      "title": "Government of Canada celebrates Canada Day at sunrise event",
+      "sum": "The Government of Canada held an annual sunrise event to celebrate Canada Day. The event marks the national holiday commemorating Canadian Confederation.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "47b4b4e78ac81833",
       "date": "2026-06-26",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2026/06/death-of-an-inmate-from-mission-institution--medium-security-unit.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Death of an inmate from Mission Institution – medium security unit",
-      "sum": "On June 22, 2026, Daniel Robert Dow, an inmate from Mission Institution, died while in our custody.",
-      "cat": "Public safety"
+      "title": "Inmate death at Mission Institution reported",
+      "sum": "Daniel Robert Dow, an inmate at Mission Institution's medium security unit, died on June 22, 2026 while in custody.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "b44ca71b63d51c53",
       "date": "2026-06-26",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2026/06/death-of-an-inmate-from-pacific-institution-and-regional-treatment-centre.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Death of an inmate from Pacific Institution and Regional Treatment Centre",
-      "sum": "On June 24, 2026, Ralph Bernard Shaw, an inmate from Pacific Institution and Regional Treatment Centre, died while in our custody.",
-      "cat": "Economy"
+      "title": "Inmate death at Pacific Institution reported",
+      "sum": "Ralph Bernard Shaw, an inmate at Pacific Institution and Regional Treatment Centre, died on June 24, 2026 while in custody. The Canadian federal government is documenting this death.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "b71572d9a1a0ce6b",
       "date": "2026-06-26",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/border-services-agency/news/2026/06/canada-and-uruguay-sign-customs-mutual-assistance-agreement-to-strengthen-trade-security.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada and Uruguay Sign Customs Mutual Assistance Agreement to Strengthen Trade Security",
-      "sum": "Canada and Uruguay Sign Customs Mutual Assistance Agreement to Strengthen Trade Security",
-      "cat": "Economy"
+      "title": "Canada and Uruguay sign customs mutual assistance agreement",
+      "sum": "Canada and Uruguay have signed a mutual assistance agreement on customs matters to strengthen trade security between the two countries. The agreement establishes a framework for the two nations to cooperate on customs enforcement and trade-related issues.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "84687eed4b2a1693",
@@ -23792,9 +23885,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "CBSA lays criminal charges after seizing prohibited firearms in Lansdowne",
-      "sum": "The Canada Border Services Agency has laid multiple charges against two individuals after seizing several firearms, ammunition, magazines and suspected narcotics at the Lansdowne (Thousand Islands Bridge) port of entry.",
-      "cat": "Justice"
+      "title": "CBSA lays charges after seizing firearms at border",
+      "sum": "The Canada Border Services Agency charged two individuals after seizing firearms, ammunition, magazines and suspected narcotics at the Lansdowne port of entry on the Thousand Islands Bridge.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "e94ec1092f977beb",
@@ -23804,9 +23898,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The CBSA is making it quicker and easier for international travellers to catch connecting flights at Canadian airports",
-      "sum": "The CBSA is making it quicker and easier for international travellers to catch connecting flights at Canadian airports",
-      "cat": "Foreign affairs"
+      "title": "CBSA improves connection process for international airport travellers",
+      "sum": "The Canada Border Services Agency is implementing changes to streamline procedures for international passengers making connecting flights at Canadian airports. These changes aim to reduce processing times and simplify the connection experience.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "e8e3e74194125a92",
@@ -23816,9 +23911,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizure of contraband and unauthorized items at Atlantic Institution",
-      "sum": "On June 24, 2026, as a result of the vigilance of staff members, a package containing contraband and unauthorized items was seized at Atlantic Institution, a maximum security federal institution.",
-      "cat": "Public safety"
+      "title": "Contraband package seized at Atlantic Institution prison",
+      "sum": "On June 24, 2026, staff at Atlantic Institution, a maximum security federal prison, seized a package containing contraband and unauthorized items.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "dd8e67eebee30da2",
@@ -23828,33 +23924,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: Members of the Advisory Council on Rights, Equality and Inclusion",
-      "sum": "The Honourable Marc Miller, Minister of Canadian Identity and Culture and Minister responsible for Official Languages, announces two new members of the Advisory Council on Rights, Equality and Inclusion.",
-      "cat": "Culture & heritage"
+      "title": "Two new members appointed to Advisory Council on Rights, Equality and Inclusion",
+      "sum": "The Minister of Canadian Identity and Culture announces the appointment of two new members to the Advisory Council on Rights, Equality and Inclusion. The council provides advice on matters related to rights, equality and inclusion in Canada.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "b476dd952d9d6420",
       "date": "2026-06-26",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/canadian-heritage/news/2026/06/two-new-members-of-the-advisory-council-on-rights-equality-and-inclusion-announced.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Two new members of the Advisory Council on Rights, Equality and Inclusion announced",
-      "sum": "The Honourable Marc Miller, Minister of Canadian Identity and Culture and Minister responsible for Official Languages, announces two new members of the Advisory Council on Rights, Equality and Inclusion.",
-      "cat": "Culture & heritage"
+      "title": "Two new members appointed to Advisory Council on Rights, Equality and Inclusion",
+      "sum": "The Minister of Canadian Identity and Culture has announced two new members to the Advisory Council on Rights, Equality and Inclusion. This council advises the government on matters related to rights, equality, and inclusion.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "4e1c4d30d56f043b",
       "date": "2026-06-26",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/prairies-economic-development/news/2026/06/communities-across-the-prairies-to-benefit-from-build-communities-strong-fund-local-impact-stream.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Communities across the Prairies to benefit from Build Communities Strong Fund Local Impact Stream",
-      "sum": "Communities across the Prairies to benefit from Build Communities Strong Fund Local Impact Stream",
-      "cat": "Innovation, science & industry"
+      "title": "Prairie communities receive funding through Build Communities Strong Fund",
+      "sum": "The federal government is providing funding to communities in the Prairie provinces through the Local Impact Stream of the Build Communities Strong Fund. This program distributes money to support community projects and initiatives across the region.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "3102e1896c09b749",
@@ -23864,9 +23963,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister McGuinty to visit Amherstburg Search and Rescue Station",
-      "sum": "The Honourable David J. McGuinty, Minister of National Defence will visit the Canadian Coast Guard’s search and rescue station in Amherstburg, Ontario.",
-      "cat": "National defence"
+      "title": "Defence Minister visits Canadian Coast Guard search and rescue station",
+      "sum": "Minister of National Defence David McGuinty will visit the Canadian Coast Guard's search and rescue station located in Amherstburg, Ontario.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "d25176a46c991093",
@@ -23876,9 +23976,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Champagne in Montréal to participate in an armchair discussion at the International Energy Agency Conference",
-      "sum": "On June 29, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will participate in an armchair discussion with Dr. Fatih Birol, Executive Director of the International Energy Agency (IEA), at the IEA’s 11th Annual Global Conference on Energy Efficiency.",
-      "cat": "Foreign affairs"
+      "title": "Minister Champagne participates in energy efficiency discussion at IEA conference",
+      "sum": "Minister of Finance François-Philippe Champagne will participate in a discussion with the International Energy Agency's Executive Director at the IEA's Global Conference on Energy Efficiency in Montréal on June 29.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "bda1770e2c1da4e9",
@@ -23888,9 +23989,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada reaffirms Alberta partnership on energy, investment and a stronger Canadian economy",
-      "sum": "Today, the Honourable Dominic LeBlanc, President of the King’s Privy Council for Canada and Minister responsible for Canada-U.S. Trade, Intergovernmental Affairs, Internal Trade and One Canadian Economy, completed a productive three-day tour in Alberta, where he met with trade, industry and business leaders in Fort McMurray, Red Deer and Edmonton, as well as the with the Mayor of Red Deer.",
-      "cat": "Economy"
+      "title": "Federal minister completes Alberta tour on energy and economy",
+      "sum": "A federal minister visited Alberta over three days to meet with business and industry leaders in Fort McMurray, Red Deer, and Edmonton. The visit focused on energy, investment, and strengthening Canada's economy.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "66ac232cbb7d138a",
@@ -23900,9 +24002,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Sidhu drives new commercial partnerships and promotes trade diversification during significant Team Canada Trade Mission to Japan",
-      "sum": "This week, the Honourable Maninder Sidhu, Minister of International Trade, and close to 300 delegates from approximately 175 business organizations from across Canada, travelled to Tokyo as part of the largest Team Canada Trade Mission (TCTM) to Japan, one of Canada’s most significant trade missions to the Indo-Pacific.",
-      "cat": "Economy"
+      "title": "Canada leads largest trade mission to Japan with 300 delegates",
+      "sum": "Minister of International Trade Maninder Sidhu led a Team Canada Trade Mission to Tokyo with approximately 300 delegates from 175 Canadian business organizations. The mission aimed to develop commercial partnerships and expand trade with Japan.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "707e2f526bf0207a",
@@ -23912,33 +24015,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Factsheet on deliverables announced during the Team Canada Trade Mission to Japan",
-      "sum": "As part of the Team Canada Trade Mission, Minister Sidhu celebrated the announcement of 14 commercial agreements – see list below. The total estimated value of the agreements is over $1.7B.",
-      "cat": "Economy"
+      "title": "Canada announces 14 commercial agreements with Japan worth $1.7B",
+      "sum": "During a Team Canada Trade Mission to Japan, Minister Sidhu announced 14 commercial agreements between Canadian and Japanese businesses. The agreements have an estimated combined value of over $1.7 billion.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "1175fca723936c94",
       "date": "2026-06-26",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/polar-knowledge/news/2026/06/polar-knowledge-canada-awards-180000-in-scholarships-awards-and-fellowships-to-support-early-career-northern-and-polar-researchers.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Polar Knowledge Canada awards $180,000 in scholarships, awards and fellowships to support early-career Northern and polar researchers",
-      "sum": "Polar Knowledge Canada (POLAR) is proud to announce support for 10 exceptional students and early-career researchers through its annual scholarship, award and fellowship programs, totaling $180,000 in funding.",
-      "cat": "Education"
+      "title": "Polar Knowledge Canada awards $180,000 to northern researchers",
+      "sum": "Polar Knowledge Canada is providing $180,000 in scholarships, awards, and fellowships to 10 students and early-career researchers working in northern and polar fields. The funding supports individuals at the beginning of their research careers.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "37086a9419df5a7e",
       "date": "2026-06-26",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/department-finance/news/2026/06/government-pre-publishes-regulations-to-prevent-fraud-and-facilitate-the-next-phase-of-consumer-driven-banking.html",
-      "type": "Announcement",
+      "type": "Regulation",
       "kind": "official",
       "lang": "en",
-      "title": "Government pre-publishes regulations to prevent fraud and facilitate the next phase of consumer-driven banking",
-      "sum": "The Government of Canada is strengthening Canada’s financial sector and making it work better for Canadians, including by combatting fraud and increasing competition. Today, proposed regulatory measures to support this plan were included in the Canada Gazette, Part I.",
-      "cat": "Public safety"
+      "title": "Government publishes proposed banking fraud prevention regulations",
+      "sum": "The Government of Canada has published proposed regulations in the Canada Gazette aimed at preventing fraud and increasing competition in Canada's financial sector. These regulatory measures are part of broader efforts to strengthen banking and make it work better for consumers.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "dd0c150008f5a232",
@@ -23948,21 +24054,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizures of contraband and unauthorized items at Collins Bay Institution",
-      "sum": "Between June 17 and 21, 2026, as a result of the vigilance of staff members, multiple packages containing contraband and unauthorized items were seized at Collins Bay Institution, a multi-level security federal institution.",
-      "cat": "Public safety"
+      "title": "Contraband seized at Collins Bay Institution",
+      "sum": "Staff at Collins Bay Institution, a federal prison, seized multiple packages containing contraband and unauthorized items during June 17-21, 2026.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "777964ee652fcf81",
       "date": "2026-06-26",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/international-trade-tribunal/news/2026/06/tribunal-finds-injurythermoformed-molded-fibre-tableware-from-china.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Tribunal Finds Injury—Thermoformed Molded Fibre Tableware From China",
-      "sum": "Further to the Canadian International Trade Tribunal’s inquiry (NQ-2025-008), the Tribunal today found that the dumping and subsidizing of thermoformed molded fibre tableware, originating in or exported from China, have caused injury to the domestic industry. Anti-dumping and countervailing duties will therefore be collected by the Canada Border Services Agency. The complainant in this case was CKF Inc. of…",
-      "cat": "Foreign affairs"
+      "title": "Canada imposes duties on Chinese molded fibre tableware",
+      "sum": "The Canadian International Trade Tribunal determined that dumped and subsidized Chinese thermoformed molded fibre tableware has injured Canadian producers. Canada Border Services Agency will now collect anti-dumping and countervailing duties on these imports.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ce96fd9e018e1a82",
@@ -23972,21 +24080,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Anand meets with Turkish counterpart",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, concluded a productive meeting today in Ottawa with Hakan Fidan, Minister of Foreign Affairs of the Republic of Türkiye.",
-      "cat": "Foreign affairs"
+      "title": "Canada's Foreign Affairs Minister meets Turkish counterpart",
+      "sum": "Canada's Minister of Foreign Affairs met with Turkey's Foreign Affairs Minister in Ottawa. The two officials discussed matters of mutual interest between the countries.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "631a4b6a87ac1457",
       "date": "2026-06-26",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/06/le-gouvernement-du-canada-appuie-le-46e-festival-international-de-jazz-de-montreal.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada appuie le 46e Festival International de Jazz de Montréal",
-      "sum": "Le Festival International de Jazz de Montréal reçoit un financement du gouvernement du Canada.",
-      "cat": "Foreign affairs"
+      "title": "Le Canada finance le 46e Festival International de Jazz de Montréal",
+      "sum": "Le gouvernement du Canada accorde un financement au Festival International de Jazz de Montréal pour soutenir cet événement culturel.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "e86885965b080dad",
@@ -23996,9 +24106,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada célèbre la fête du Canada lors de l’événement annuel au lever du soleil",
-      "sum": "Le gouvernement du Canada célèbre la fête du Canada lors de l’événement annuel au lever du soleil",
-      "cat": "Economy"
+      "title": "Le gouvernement célèbre la fête du Canada lors d'un événement annuel",
+      "sum": "Le gouvernement du Canada organise un événement annuel au lever du soleil pour célébrer la fête du Canada.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "01d8db99197b1ffd",
@@ -24008,9 +24119,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Décès d’un détenu de l’Établissement de Mission - unité à sécurité moyenne",
-      "sum": "Le 22 juin, Daniel Robert Dow, un détenu de l’Établissement de Mission, est décédé sous notre garde.",
-      "cat": "Economy"
+      "title": "Décès d'un détenu à l'Établissement de Mission",
+      "sum": "Daniel Robert Dow, détenu à l'Établissement de Mission, est décédé le 22 juin sous la garde de l'établissement. Cet établissement est une unité à sécurité moyenne.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "6dc2b0f2eb6c34fd",
@@ -24020,21 +24132,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Décès d’un détenu de l’Établissement du Pacifique et Centre régional de traitement",
-      "sum": "Le 24 juin 2026, Ralph Bernard Shaw, un détenu de l’Établissement du Pacifique et Centre régional de traitement, est décédé sous notre garde.",
-      "cat": "Innovation, science & industry"
+      "title": "Décès d'un détenu à l'Établissement du Pacifique",
+      "sum": "Ralph Bernard Shaw, un détenu de l'Établissement du Pacifique et Centre régional de traitement, est décédé le 24 juin 2026 alors qu'il était sous la garde de l'établissement.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "13ef3791e166b249",
       "date": "2026-06-26",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2026/06/le-canada-et-luruguay-signent-un-accord-dassistance-mutuelle-en-matiere-douaniere-pour-renforcer-la-securite-commerciale.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et l’Uruguay signent un Accord d’assistance mutuelle en matière douanière pour renforcer la sécurité commerciale",
-      "sum": "Le Canada et l’Uruguay signent un Accord d’assistance mutuelle en matière douanière pour renforcer la sécurité commerciale",
-      "cat": "Economy"
+      "title": "Canada et Uruguay signent accord d'assistance douanière mutuelle",
+      "sum": "Le Canada et l'Uruguay ont signé un accord d'assistance mutuelle en matière douanière. Cet accord vise à renforcer la sécurité des échanges commerciaux entre les deux pays.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "44376b6bb91a973f",
@@ -24044,9 +24158,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L'ASFC porte des accusations criminelles après avoir saisi des armes à feu interdites à Lansdowne",
-      "sum": "L’Agence des services frontaliers du Canada a porté plusieurs chefs d’accusation contre deux personnes après avoir saisi plusieurs armes à feu, des munitions, des chargeurs et des substances présumées être des stupéfiants au poste frontalier de Lansdowne (Pont des Mille-Îles).",
-      "cat": "Innovation, science & industry"
+      "title": "ASFC porte accusations criminelles après saisie armes à Lansdowne",
+      "sum": "L'Agence des services frontaliers du Canada a porté plusieurs accusations contre deux personnes suite à la saisie d'armes à feu interdites, de munitions, de chargeurs et de substances présumées être des stupéfiants au poste frontalier de Lansdowne.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "ae274c867bc4722c",
@@ -24056,9 +24171,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L'ASFC facilite et accélère la correspondance des vols pour les voyageurs internationaux dans les aéroports canadiens",
-      "sum": "L'ASFC facilite et accélère la correspondance des vols pour les voyageurs internationaux dans les aéroports canadiens",
-      "cat": "Economy"
+      "title": "ASFC accélère correspondances vols voyageurs internationaux",
+      "sum": "L'Agence des services frontaliers du Canada améliore et accélère le processus de correspondance des vols pour les passagers en transit international dans les aéroports canadiens.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "1feb62153d2f559e",
@@ -24068,9 +24184,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisie d’objets interdits et objets non autorisés à l’Établissement de l’Atlantique",
-      "sum": "Le 24 juin 2026, grâce à la vigilance du personnel, un colis contenant des objets interdits et des objets non autorisés a été saisis à l’Établissement de l’Atlantique, un établissement fédéral à sécurité maximale.",
-      "cat": "Housing"
+      "title": "Saisie d'objets interdits à l'Établissement de l'Atlantique",
+      "sum": "Le 24 juin 2026, du personnel de l'Établissement de l'Atlantique, un pénitencier fédéral à sécurité maximale, a saisi un colis contenant des objets interdits et non autorisés.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "85a3a5adcd8d598a",
@@ -24080,21 +24197,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Membres du Conseil consultatif sur les droits, l’égalité et l’inclusion",
-      "sum": "L’honorable Marc Miller, ministre de l’Identité et de la Culture canadiennes et ministre responsable des Langues officielles, annonce deux nouveaux membres au Conseil consultatif sur les droits, l’égalité et l’inclusion.",
-      "cat": "Culture & heritage"
+      "title": "Deux nouveaux membres nommés au Conseil consultatif sur les droits",
+      "sum": "Le ministre de l'Identité et de la Culture canadiennes annonce la nomination de deux nouveaux membres au Conseil consultatif sur les droits, l'égalité et l'inclusion.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "c0cd2869526cd921",
       "date": "2026-06-26",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/06/nomination-de-deux-nouveaux-membres-au-conseil-consultatif-sur-les-droits-legalite-et-linclusion.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Nomination de deux nouveaux membres au Conseil consultatif sur les droits, l’égalité et l’inclusion",
-      "sum": "L’honorable Marc Miller, ministre de l’Identité et de la Culture canadiennes et ministre responsable des Langues officielles, annonce deux nouveaux membres au Conseil consultatif sur les droits, l’égalité et l’inclusion.",
-      "cat": "Culture & heritage"
+      "title": "Deux nouveaux membres nommés au Conseil consultatif sur les droits",
+      "sum": "Le ministre de l'Identité et de la Culture canadiennes annonce la nomination de deux nouveaux membres au Conseil consultatif sur les droits, l'égalité et l'inclusion.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "eda6adae06d7efd5",
@@ -24104,9 +24223,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les collectivités des Prairies tireront profit du Fonds pour bâtir des collectivités fortes — volet des impacts locaux",
-      "sum": "Les collectivités des Prairies tireront profit du Fonds pour bâtir des collectivités fortes — volet des impacts locaux",
-      "cat": "Innovation, science & industry"
+      "title": "Prairie communities receive funding for local impact projects",
+      "sum": "Prairie communities are receiving funding through the Strong Communities Fund's local impacts component. This funding supports community development initiatives in Prairie regions.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "6810eadeb919d7f9",
@@ -24116,9 +24236,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre McGuinty visitera la station de recherche et sauvetage d’Amherstburg",
-      "sum": "L’honorable David J. McGuinty, ministre de la Défense nationale, visitera la station de recherche et sauvetage de la Garde côtière canadienne à Amherstburg, en Ontario.",
-      "cat": "Economy"
+      "title": "Ministre de la Défense visite station recherche sauvetage Amherstburg",
+      "sum": "Le ministre David J. McGuinty se rendra à la station de recherche et sauvetage de la Garde côtière canadienne située à Amherstburg, en Ontario.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "a204259947652405",
@@ -24128,9 +24249,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Champagne participera à une discussion informelle lors de la Conférence de l’Agence internationale de l’énergie à Montréal",
-      "sum": "Le 29 juin, l’honorable François-Philippe Champagne, ministre des Finances et du Revenu national, participera à une discussion informelle avec Fatih Birol (Ph. D.), directeur exécutif de l’Agence internationale de l’énergie (AIE), lors de la 11e Conférence mondiale annuelle sur l’efficacité énergétique de l’AIE.",
-      "cat": "Foreign affairs"
+      "title": "Ministre Champagne participe à discussion sur l'efficacité énergétique",
+      "sum": "Le ministre des Finances François-Philippe Champagne participera à une discussion informelle avec le directeur de l'Agence internationale de l'énergie le 29 juin lors de la conférence mondiale annuelle sur l'efficacité énergétique à Montréal.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "ac27c050c597357b",
@@ -24140,9 +24262,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada réaffirme son partenariat avec l’Alberta dans les secteurs de l’énergie et de l’investissement et pour le renforcement de l’économie canadienne",
-      "sum": "Aujourd’hui, l’honorable Dominic LeBlanc, président du Conseil privé du Roi pour le Canada et ministre responsable du Commerce Canada–États-Unis, des Affaires intergouvernementales, du Commerce intérieur et de l’Unité de l’économie canadienne, a effectué une visite productive de trois jours en Alberta, où il a rencontré des dirigeants du commerce, de l’industrie et d’entreprises à Fort McMurray, à Red Deer et à…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada réaffirme son partenariat énergétique et économique avec l'Alberta",
+      "sum": "Le ministre Dominic LeBlanc a effectué une visite de trois jours en Alberta pour rencontrer des dirigeants commerciaux et industriels. Le gouvernement du Canada confirme son engagement dans les secteurs de l'énergie et de l'investissement avec la province.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "10cbec0d21db907a",
@@ -24152,9 +24275,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Sidhu favorise de nouveaux partenariats commerciaux et fait la promotion de la diversification des échanges lors d’une importante mission commerciale d’Équipe Canada au Japon",
-      "sum": "Cette semaine, le ministre du Commerce international, l’honorable Maninder Sidhu, ainsi que près de 300 déléguées et délégués issus d’environ 175 organisations d’affaires de tout le Canada, se sont rendus à Tokyo dans le cadre de la plus grande mission commerciale d’Équipe Canada (MCEC) au Japon, l’une des missions commerciales les plus importantes du Canada dans la région indo-pacifique.",
-      "cat": "Foreign affairs"
+      "title": "Mission commerciale canadienne au Japon pour diversifier les échanges",
+      "sum": "Le ministre du Commerce international et environ 300 représentants de 175 organisations canadiennes se sont rendus à Tokyo pour la plus grande mission commerciale d'Équipe Canada au Japon. Cette mission vise à développer de nouveaux partenariats commerciaux et à diversifier les échanges économiques.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "6a75de2f2b200cf4",
@@ -24164,21 +24288,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Fiche d’information sur les livrables annoncés lors de la Mission commerciale Équipe Canada au Japon",
-      "sum": "Dans le cadre de la Mission commerciale Équipe Canada, le ministre Sidhu a souligné l’annonce de 14 accords commerciaux – voir la liste ci-dessous. La valeur totale estimée de ces accords dépasse 1,7 milliard de dollars.",
-      "cat": "Economy"
+      "title": "Quatorze accords commerciaux annoncés lors de mission au Japon",
+      "sum": "Le ministre Sidhu a annoncé 14 nouveaux accords commerciaux lors d'une mission commerciale Équipe Canada au Japon. La valeur totale estimée de ces accords dépasse 1,7 milliard de dollars.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "e1675fe98d7f1891",
       "date": "2026-06-26",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/savoir-polaire/nouvelles/2026/06/savoir-polaire-canada-accorde-180-000--en-bourses-detudes-et-en-bourses-de-recherche-pour-soutenir-les-chercheurs-nordiques-et-polaires-en-debut-de.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Savoir polaire Canada accorde 180 000 $ en bourses d'études et en bourses de recherche pour soutenir les chercheurs nordiques et polaires en début de carrière",
-      "sum": "Savoir polaire Canada (POLAIRE) est fier d'annoncer un soutien à 10 étudiants exceptionnels et chercheurs en début de carrière dans le cadre de ses programmes annuels de bourses d'études, de prix et de recherches, totalisant 180 000 $.",
-      "cat": "Innovation, science & industry"
+      "title": "Savoir polaire Canada accorde 180 000 $ en bourses aux chercheurs nordiques",
+      "sum": "Savoir polaire Canada annonce l'attribution de 180 000 $ en bourses d'études et de recherche à 10 étudiants et chercheurs en début de carrière dans les domaines polaires et nordiques.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "4427169ec1bf849a",
@@ -55299,6 +55425,18 @@
       "excerpt": "Carney government to open its books next week with mini-budget Canada's National Observer",
       "cat": "Finance",
       "lang": "en"
+    },
+    {
+      "id": "27fa2d2c983694e4",
+      "date": "2026-04-23",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHo0SjhDa2dORjJ5cUdhRnZtcU1KX0NrcWVwZUN1UmluUndNWlpnQ2dUZVVneXk0MVdmbUtCRVhUNGE0ZWdPclJrWXgzS1RMWWFlTFdjdi02V2daclMxQ21iT1BoTXVpU2xBZ014bDVZN0NiMHUtOUlua1VfWGNPRTBoeldEeUg5S1c4ckxB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney veut accorder une valeur pécuniaire à la nature - Radio-Canada",
+      "excerpt": "Le gouvernement Carney veut accorder une valeur pécuniaire à la nature Radio-Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "61576219c0146d23",
