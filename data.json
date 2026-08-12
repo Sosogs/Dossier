@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T07:28:59.708Z",
-  "count": 14173,
+  "generatedAt": "2026-08-12T13:14:39.047Z",
+  "count": 14183,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,110 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d57db4514ccb7174",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/institutes-health-research/news/2026/08/government-of-canada-investing-24-million-to-establish-canadas-first-national-cannabis-and-brain-health-research-consortium.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada establishes cannabis and brain health research consortium",
+      "sum": "The Government of Canada is investing $24 million to create a new national research consortium focused on studying how cannabis affects brain health. The consortium will bring together researchers to conduct this investigation.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "239925bf68faa4cc",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/institutes-health-research/news/2026/08/backgrounder-canadian-cannabis-and-brain-health-consortium.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canadian Cannabis and Brain Health Consortium established",
+      "sum": "The Canadian Cannabis and Brain Health Consortium brings together researchers to study how cannabis affects brain health across different life stages and populations. The research will examine cannabis use in pregnancy, youth, aging, and various health conditions including mental health, psychosis, epilepsy, PTSD, and sleep disorders.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "6f1460db09b38418",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/08/minister-dabrusin-announces-141-new-projects-to-help-protect-128-communities-from-climate-risks.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces 141 climate resilience projects across 128 communities",
+      "sum": "The Minister of Environment announced 141 climate resilience projects being developed in 128 communities across Canada to help protect them from climate-related risks. Thirteen of these projects are located in Nova Scotia.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "6621f1b662b83ed1",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/08/the-government-of-canada-invests-342-million-to-support-climate-resilience.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada invests $34.2 million in municipal climate adaptation projects",
+      "sum": "Environment and Climate Change Canada and the Federation of Canadian Municipalities announced funding of $34.2 million for 141 municipal adaptation projects on August 12, 2026. The funding supports local climate resilience efforts through the Green Municipal Fund's Local Leadership for Climate Adaptation initiative.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "a6825c182451ab18",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/instituts-recherche-sante/nouvelles/2026/08/un-investissement-de-28-millions-de-dollars-pour-creer-le-tout-premier-consortium-canadien-de-recherche-sur-le-cannabis-et-la-sante-cerebrale.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada investit 24 millions pour recherche cannabis et santé cérébrale",
+      "sum": "Le gouvernement du Canada finance la création d'un nouveau consortium de recherche doté de 24 millions de dollars. Ce consortium regroupera des chercheurs qui étudieront les effets du cannabis sur la santé du cerveau.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "8b9e52939e98bbaa",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/instituts-recherche-sante/nouvelles/2026/08/a-propos-du-consortium-canadien-sur-le-cannabis-et-la-sante-cerebrale.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Création du Consortium canadien cannabis et santé cérébrale",
+      "sum": "Le gouvernement fédéral établit un consortium regroupant des chercheurs canadiens pour étudier les effets du cannabis sur la santé cérébrale à différents stades de la vie. Les recherches porteront sur la consommation chez diverses populations et contextes de santé.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "da2f023508b9aad4",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/08/la-ministre-julie-dabrusin-annonce-141-nouveaux-projets-pour-aider-a-proteger-128-collectivites-contre-les-risques-climatiques.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "141 projets de résilience climatique financés dans 128 collectivités",
+      "sum": "Le gouvernement fédéral finance 141 projets visant à aider 128 collectivités canadiennes à se protéger contre les risques liés aux changements climatiques. Cette annonce a été faite par la ministre de l'Environnement et des partenaires municipaux.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "3da90178eca44c85",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/08/le-gouvernement-du-canada-investit-342-millions-de-dollars-pour-favoriser-la-resilience-face-au-climat.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada investit 34,2 millions pour l'adaptation climatique municipale",
+      "sum": "Le gouvernement du Canada et la Fédération canadienne des municipalités ont annoncé un financement de 34,2 millions de dollars pour 141 projets municipaux visant à renforcer la résilience face aux changements climatiques.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
     {
       "id": "fe30c42bacbc6033",
       "date": "2026-08-11",
@@ -8083,6 +8187,18 @@
       "excerpt": "WestJet is giving passengers with bookings from July 30 to Aug. 4 the opportunity to cancel or change their flights for free in light of the ongoing labour dispute with flight attendants.",
       "cat": "Transportation",
       "lang": "en"
+    },
+    {
+      "id": "7e8632514443fa95",
+      "date": "2026-07-23",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdnJTYXZIUG40QURtSk9IMUhPTENzbTN4T2FkdFoyTktULTAyQVFrMzcxWkd5aFVUS2pSeTF3ai1keGJ4b1FQT2lvRVJjRHk0eERDZ3g0cElySmxxcUJDR0E2ZjRTTjllUFMwcEhUMDNveTZjcVF0ZFZGN19jUEpfTHZfZTE3TjBZVGVTcXNZUWNBd242dV93RWdydjdmY0xfZVc5eXRZTkJFY01mczctUEs2dlJub3ZfOURTN1NJXzVZSmVOZ2hTZ01KSDhDd184TXE3SXZIQmc5Tl9vVnUydkZyZTlSNE5lS0lv?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "«Toutes les options sont sur la table» dans les négociations commerciales avec les États-Unis, dit Carney - Noovo Info",
+      "excerpt": "«Toutes les options sont sur la table» dans les négociations commerciales avec les États-Unis, dit Carney Noovo Info",
+      "cat": "Economy"
     },
     {
       "id": "d498eb4c63deebfc",
@@ -22370,6 +22486,18 @@
       "lang": "en"
     },
     {
+      "id": "827f4b768c4e4aa1",
+      "date": "2026-07-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMTJvMVRfbVJHbG1HVlpNUVltT2pGSGI3RlJCNTlZUEpFRGRucG9ZX0ZHOXdRUkpKOVp2R1RYV0w4MnVGN1ppdU01UVJYU0tKVldDQThwSGY1SnRZYmV4N3Z0UTcxejY5SFFneFExejZEYTNJLUlLdkNjdE9RRXZJc011NnRkZzZ2LUtWQ3ljVU91ZV9FekdaQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney emphasizes country’s unity in Canada Day address - CTV News",
+      "excerpt": "Carney emphasizes country’s unity in Canada Day address CTV News",
+      "cat": "Economy"
+    },
+    {
       "id": "940379fa3e9f8ee8",
       "date": "2026-07-01",
       "src": "Government of Canada",
@@ -29816,9 +29944,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Séance d’information technique au sujet de la fête du Canada 2026 et renseignements sur l’accréditation",
-      "sum": "Patrimoine canadien organise une séance d’information technique pour les médias et lance le processus d’accréditation des journalistes dans la région d’Ottawa–Gatineau en vue de la fête du Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Patrimoine canadien organise séance information Fête Canada 2026",
+      "sum": "Patrimoine canadien tient une séance d'information technique pour les médias et ouvre le processus d'accréditation des journalistes dans la région d'Ottawa–Gatineau pour couvrir la Fête du Canada 2026.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "d6b6aa5e700b3c4d",
@@ -29828,9 +29957,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La députée Idlout fera une annonce concernant l’énergie propre au Nunavut",
-      "sum": "La députée du Nunavut, Lori Idlout, fera une annonce de financement au nom du ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson.",
-      "cat": "Economy"
+      "title": "Annonce de financement pour l'énergie propre au Nunavut",
+      "sum": "La députée Lori Idlout fera une annonce de financement pour l'énergie propre au Nunavut au nom du ministre de l'Énergie et des Ressources naturelles.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "abc019ae6c2fa5d3",
@@ -29840,9 +29970,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre MacDonald annonce le lancement du nouveau volet de soutien communautaire du Fonds des infrastructures alimentaires locales à l’appui de la sécurité alimentaire au Canada",
-      "sum": "La sécurité alimentaire signifie avoir un accès fiable à des aliments salubres, nutritifs et abordables. C’est pourquoi, conformément à la Stratégie nationale de sécurité alimentaire récemment annoncée, le gouvernement du Canada prend des mesures immédiates pour que la population canadienne, en particulier les personnes les plus vulnérables, sache que son prochain repas restera facilement accessible.",
-      "cat": "Innovation, science & industry"
+      "title": "Lancement du volet communautaire du Fonds des infrastructures alimentaires locales",
+      "sum": "Le ministre MacDonald annonce le lancement d'un nouveau volet de soutien communautaire du Fonds des infrastructures alimentaires locales. Cette initiative s'inscrit dans la Stratégie nationale de sécurité alimentaire et vise à assurer l'accès à des aliments salubres, nutritifs et abordables pour les Canadiens.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "4f0144b0b99816d9",
@@ -29852,9 +29983,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Chartrand fera une annonce sur l’énergie propre",
-      "sum": "La ministre des Affaires du Nord et de l’Arctique et ministre responsable de l’Agence canadienne de développement économique du Nord, l’honorable Rebecca Chartrand, au nom du ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, annoncera un investissement.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre annonce investissement en énergie propre",
+      "sum": "La ministre Chartrand fera une annonce concernant un investissement en énergie propre, au nom du ministre de l'Énergie et des Ressources naturelles.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "46ce2a60086f0a3a",
@@ -29864,9 +29996,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce d’un important financement visant à faire de Saint John une destination de premier plan",
-      "sum": "Annonce d’un important financement visant à faire de Saint John une destination de premier plan",
-      "cat": "Innovation, science & industry"
+      "title": "Important financement annoncé pour développer Saint John",
+      "sum": "Le gouvernement fédéral annonce un financement important pour Saint John. Ce financement vise à développer la ville en tant que destination de premier plan.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "fe77093dacf8b1fd",
@@ -29876,9 +30009,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Pêches et Océans Canada collabore avec le gouvernement du Manitoba pour effectuer la première inspection éclair de détection des espèces aquatiques envahissantes sur l’autoroute 1",
-      "sum": "Pêches et Océans Canada (POC), en partenariat avec le gouvernement du Manitoba, a terminé la première campagne éclair d’inspection sur la route de la saison estivale 2026 en vue de détecter les espèces aquatiques envahissantes (EAE). L’opération s’est déroulée sur l’autoroute 1 (autoroute transcanadienne), près de la frontière entre le Manitoba et l’Ontario, du 29 au 31 mai 2026. Cette initiative soutient les…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Manitoba inspectent espèces aquatiques envahissantes autoroute 1",
+      "sum": "Pêches et Océans Canada et le gouvernement du Manitoba ont mené une première inspection éclair du 29 au 31 mai 2026 sur l'autoroute 1 pour détecter les espèces aquatiques envahissantes près de la frontière Manitoba-Ontario. Cette opération fait partie des efforts de surveillance saisonnière.",
+      "cat": "Wildlife",
+      "ai": true
     },
     {
       "id": "46eb5a9da5359493",
@@ -29888,9 +30022,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déglaçage à Iqaluit, au Nunavut",
-      "sum": "La Garde côtière canadienne avise que le NGCC Jean Goodwill effectuera des opérations de déglaçage dans la baie Frobisher, près d’Iqaluit, au Nunavut, le ou vers le 23 juin 2026. Cette opération vise à briser la glace afin que les navires commerciaux puissent naviguer en toute sécurité dans la zone et hors de la zone. La date peut changer sans préavis selon les exigences opérationnelles ou les conditions…",
-      "cat": "Innovation, science & industry"
+      "title": "Opération de déglaçage à Iqaluit au Nunavut en juin",
+      "sum": "La Garde côtière canadienne annonce que le navire NGCC Jean Goodwill effectuera des opérations de déglaçage dans la baie Frobisher près d'Iqaluit, au Nunavut, vers le 23 juin 2026. Cette opération vise à dégager les passages pour permettre la navigation commerciale sécuritaire dans cette région.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "ccfe5b85021d767c",
@@ -29900,9 +30035,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada annonce des droits de sauvegarde provisoires sur les importations de légumes en conserve pour protéger les producteurs canadiens",
-      "sum": "Le gouvernement du Canada prend des mesures pour protéger les industries canadiennes et renforcer l’économie dans un contexte commercial mondial qui évolue rapidement. Alors que la sécurité économique, la politique industrielle et la concurrence économique mondiale façonnent de plus en plus les décisions en matière d’investissement, de commerce et de finances, le gouvernement du Canada bâtit l’économie la plus forte…",
-      "cat": "Economy"
+      "title": "Canada impose droits provisoires sur légumes en conserve importés",
+      "sum": "Le gouvernement du Canada a annoncé l'imposition de droits de sauvegarde temporaires sur les importations de légumes en conserve. Cette mesure vise à protéger les producteurs canadiens de ce secteur face à la concurrence internationale.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "5440a4a585bf81b0",
@@ -29912,33 +30048,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Fermeture du pont Alexandra aux automobilistes durant la fin de semaine",
-      "sum": "Services publics et Approvisionnement Canada souhaite informer les usagers que le pont Alexandra sera fermé aux automobilistes aux fins de travaux d’entretien",
-      "cat": "Innovation, science & industry"
+      "title": "Fermeture du pont Alexandra aux automobilistes pour entretien",
+      "sum": "Le pont Alexandra sera fermé aux automobilistes durant la fin de semaine pour des travaux d'entretien. Services publics et Approvisionnement Canada informe les usagers de cette fermeture.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "c3c5f1c5928fdb84",
       "date": "2026-06-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/06/le-gouvernement-du-canada-renforce-le-systeme-de-justice-militaire-grace-a-la-sanction-royale-du-projet-de-loi-c-11.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada renforce le système de justice militaire grâce à la sanction royale du projet de loi C-11",
-      "sum": "Le 18 juin 2026, le projet de loi C-11, Loi modifiant la Loi sur la défense nationale et d’autres lois (Loi sur la modernisation du système de justice militaire), a reçu la sanction royale.",
-      "cat": "Foreign affairs"
+      "title": "Loi C-11 modernise le système de justice militaire canadien",
+      "sum": "Le projet de loi C-11 a reçu la sanction royale le 18 juin 2026. Cette loi modifie la Loi sur la défense nationale et d'autres lois pour moderniser le système de justice militaire du Canada.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "397db188c30db813",
       "date": "2026-06-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/06/le-projet-de-loi-c-11-recoit-la-sanction-royale-entrainant-la-mise-en-uvre-de-nouvelles-reformes-visant-le-systeme-de-justice-militaire.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Le projet de loi C-11 reçoit la sanction royale, entraînant la mise en œuvre de nouvelles réformes visant le système de justice militaire",
-      "sum": "Le 18 juin 2026, le projet de loi C-11, Loi modifiant la Loi sur la défense nationale et d’autres lois (Loi sur la modernisation du système de justice militaire) a reçu la sanction royale et est entré en vigueur, modernisant le système de justice militaire dans les quatre domaines clés suivants :",
-      "cat": "Foreign affairs"
+      "title": "Loi C-11 modernise le système de justice militaire canadien",
+      "sum": "Le projet de loi C-11 a reçu la sanction royale le 18 juin 2026 et est entré en vigueur. Cette loi modernise le système de justice militaire dans quatre domaines clés en modifiant la Loi sur la défense nationale.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "a0e1a2817f12874d",
@@ -29948,21 +30087,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L'été s'installe sur les plaines d'Abraham : le kiosque Edwin-Bélanger lance sa saison 2026",
-      "sum": "Québec, le 19 juin 2026 – Les longues soirées d'été sont de retour et avec elles, l'un des rendez-vous culturels gratuits les plus appréciés de Québec. Dès aujourd’hui et jusqu’au 14 août 2026, les mercredis et les vendredis, le kiosque Edwin-Bélanger invite le public à découvrir une série de spectacles gratuits mettant en lumière des artistes d’ici et d’ailleurs. Musique, découvertes et moments de partage seront au…",
-      "cat": "Innovation, science & industry"
+      "title": "Kiosque Edwin-Bélanger débute sa saison estivale 2026",
+      "sum": "Le kiosque Edwin-Bélanger sur les plaines d'Abraham propose une série de spectacles gratuits de juin à août 2026, les mercredis et vendredis. La programmation met en vedette des artistes locaux et internationaux dans diverses disciplines artistiques.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "70f9a411adb4d9b6",
       "date": "2026-06-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/06/les-mesures-de-protection-renforcees-contre-les-crimes-haineux-au-canada-deviennent-loi.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Les mesures de protection renforcées contre les crimes haineux au Canada deviennent loi",
-      "sum": "« Alors que la haine continue de gagner du terrain au Canada, les collectivités réclamaient des mesures de protection accrues contre les crimes haineux. Aujourd’hui, ces mesures de protection ont force de loi », a déclaré l’honorable Sean Fraser, ministre de la Justice et procureur général du Canada.",
-      "cat": "Justice"
+      "title": "Mesures de protection contre les crimes haineux adoptées",
+      "sum": "Le Canada a adopté des mesures législatives renforcées pour lutter contre les crimes haineux. Ces nouvelles protections répondent aux demandes des collectivités pour une sécurité accrue face à la haine.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "319aee2c8e58b5ac",
@@ -29972,9 +30113,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ASFC ouvre une enquête sur le dumping présumé du gluten de blé en provenance d’Italie, de Pologne, et du Royaume-Uni",
-      "sum": "L’ASFC ouvre une enquête sur le dumping présumé du gluten de blé en provenance d’Italie, de Pologne, et du Royaume-Uni",
-      "cat": "Economy"
+      "title": "L'ASFC enquête sur le dumping présumé de gluten de blé importé",
+      "sum": "L'Agence des services frontaliers du Canada ouvre une enquête sur les pratiques de dumping concernant le gluten de blé en provenance d'Italie, de Pologne et du Royaume-Uni. Cette enquête examine si ces produits sont vendus à des prix anormalement bas sur le marché canadien.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "d9ebba53b60d7cda",
@@ -29984,9 +30126,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Hodgson fera des annonces sur l’énergie et l’exploitation minière à Yellowknife",
-      "sum": "Le ministre Hodgson fera des annonces sur l’énergie et l’exploitation minière à Yellowknife",
-      "cat": "Economy"
+      "title": "Le ministre Hodgson annonce des mesures sur l'énergie et l'exploitation minière",
+      "sum": "Le ministre Hodgson fera des annonces concernant l'énergie et l'exploitation minière à Yellowknife.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "d907294f70605d48",
@@ -29996,9 +30139,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre MacKinnon sera à Kingston pour faire une annonce concernant les transports",
-      "sum": "Le ministre des Transports et leader du gouvernement à la Chambre des communes, l’honorable Steven MacKinnon, fera une annonce concernant les transports.",
-      "cat": "Transportation"
+      "title": "Ministre MacKinnon annonce mesure transports à Kingston",
+      "sum": "Le ministre des Transports, Steven MacKinnon, fera une annonce concernant les transports à Kingston.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "c36e37baa4d2254c",
@@ -30008,9 +30152,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Décès d’un détenu de l’Établissement de l’Atlantique",
-      "sum": "Le 17 juin 2026, Ryan Richard, un détenu de l’Établissement de l’Atlantique, est décédé sous notre garde.",
-      "cat": "Economy"
+      "title": "Décès d'un détenu à l'Établissement de l'Atlantique",
+      "sum": "Un détenu nommé Ryan Richard est décédé le 17 juin 2026 alors qu'il était incarcéré à l'Établissement de l'Atlantique.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "16e214bdef584e3e",
@@ -30020,9 +30165,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre de l’Emploi et des Familles annonce un nouveau financement pour assurer des services abordables d’apprentissage et de garde des jeunes enfants au Canada",
-      "sum": "Aujourd’hui, la ministre de l’Emploi et des Familles et ministre responsable de l’Agence de développement économique pour le Nord de l’Ontario, l’honorable Patty Hajdu, a rencontré les ministres provinciaux et territoriaux responsables de l’apprentissage et de la garde des jeunes enfants pour transmettre de l’information sur le nouveau financement du système d’apprentissage et de garde des jeunes enfants à l’échelle…",
-      "cat": "Economy"
+      "title": "Nouveau financement fédéral pour services de garde d'enfants abordables",
+      "sum": "Le gouvernement fédéral annonce un nouveau financement destiné à rendre les services de garde et d'apprentissage des jeunes enfants plus abordables au Canada. La ministre de l'Emploi et des Familles a rencontré les ministres provinciaux et territoriaux pour discuter de cette initiative.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "b96e7b0c92023e88",
@@ -30032,9 +30178,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Chartrand visitera la Première Nation de Long Plain pour souligner les avancées réalisées en matière d'eau potable",
-      "sum": "Veuillez prendre note que l'honorable Rebecca Chartrand, ministre des Affaires du Nord et de l’Arctique et ministre responsable de l’Agence canadienne de développement économique du Nord, au nom de l’honorable Mandy Gull-Masty, ministre des Services aux Autochtones, soulignera les avancées importantes en matière d’amélioration à l’accès à l’eau potable pour cinq Premières Nations au Manitoba. Un point de presse…",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre visite Long Plain pour progrès eau potable",
+      "sum": "La ministre Chartrand visitera la Première Nation de Long Plain pour mettre en évidence les améliorations apportées à l'accès à l'eau potable dans cinq Premières Nations au Manitoba.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "49632aec83b2edce",
@@ -30044,9 +30191,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Hodgson fera une annonce sur l’énergie nucléaire",
-      "sum": "Le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, fera une annonce importante concernant la politique du Canada sur l’énergie nucléaire. Un point de presse suivra.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Hodgson annonce une politique sur l'énergie nucléaire",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles fera une annonce sur la politique du Canada concernant l'énergie nucléaire. Un point de presse suivra cette annonce.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "2e293b8a416a0efa",
@@ -30056,9 +30204,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisies d’objets interdits et non autorisés à l’Établissement de Collins Bay",
-      "sum": "Entre le 12 et 15 juin 2026, grâce à la vigilance du personnel, plusieurs colis contenant des objets interdits et non autorisés ont été saisis à l'Établissement de Collins Bay, un établissement fédéral à niveaux multiples de sécurité.",
-      "cat": "Housing"
+      "title": "Objets interdits saisis à l'Établissement de Collins Bay",
+      "sum": "Entre le 12 et 15 juin 2026, le personnel de l'Établissement de Collins Bay a saisi plusieurs colis contenant des objets interdits et non autorisés. Cet établissement fédéral offre plusieurs niveaux de sécurité.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "1726706fca2e043a",
@@ -30068,9 +30217,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Isolement cellulaire à l’Établissement de Beaver Creek",
-      "sum": "Un isolement cellulaire a été imposé le 18 juin 2026 à l’Établissement de Beaver Creek, un établissement à niveaux multiples de sécurité, afin d’assurer la sécurité de l’établissement, du personnel et des détenues.",
-      "cat": "Innovation, science & industry"
+      "title": "Isolement cellulaire imposé à l'Établissement de Beaver Creek",
+      "sum": "Un isolement cellulaire a été mis en place le 18 juin 2026 à l'Établissement de Beaver Creek pour assurer la sécurité de l'établissement, du personnel et des détenues.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "62265ef280125b3e",
@@ -30080,9 +30230,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Pont Samuel-De Champlain : Illumination spéciale pour la Journée nationale des peuples autochtones",
-      "sum": "Le 21 juin, le pont Samuel-De Champlain sera illuminé en jaune, bleu, vert, orange et rose, du coucher du soleil jusqu’à 1 h, pour célébrer la Journée nationale des peuples autochtones.",
-      "cat": "Innovation, science & industry"
+      "title": "Pont Samuel-De Champlain illuminé pour la Journée autochtone",
+      "sum": "Le pont Samuel-De Champlain sera illuminé en couleurs spéciales le 21 juin pour marquer la Journée nationale des peuples autochtones. L'illumination durera du coucher du soleil jusqu'à 1 h du matin.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "605f71e438f2f4a3",
@@ -30092,57 +30243,62 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre McGuinty fait progresser les priorités de l’OTAN et la coopération en matière de défense lors d’un séjour en Europe",
-      "sum": "Le ministre de la Défense nationale, l’honorable David J. McGuinty, a conclu cette semaine un fructueux séjour en Europe, durant lequel il a pris part à des activités à Bruxelles, en Belgique, où il a participé à la réunion des ministres de la Défense des pays de l’Organisation du Traité de l’Atlantique Nord (OTAN) et à la réunion du 35e Groupe de contact pour la défense de l’Ukraine, ainsi qu’au Luxembourg, où il a…",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre de la Défense avance priorités de l'OTAN en Europe",
+      "sum": "Le ministre de la Défense nationale David McGuinty a participé à des réunions de l'OTAN en Belgique et au Luxembourg pour discuter de coopération en matière de défense. Il a notamment assisté à une réunion des ministres de la Défense de l'OTAN et à une rencontre du Groupe de contact pour la défense de l'Ukraine.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "35cf88dee4b6f444",
       "date": "2026-06-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/06/le-gouvernement-du-canada-souligne-la-sanction-royale-de-la-loi-sur-maisons-canada.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada souligne la sanction royale de la Loi sur Maisons Canada",
-      "sum": "Le gouvernement du Canada a annoncé aujourd’hui que le projet de loi C-20, la Loi sur Maisons Canada, a reçu la sanction royale, marquant une étape importante dans le plan du gouvernement visant à bâtir davantage de logements, plus rapidement, et à rendre le logement plus abordable pour les Canadiens.",
-      "cat": "Foreign affairs"
+      "title": "Loi sur Maisons Canada reçoit la sanction royale",
+      "sum": "Le projet de loi C-20, la Loi sur Maisons Canada, a reçu la sanction royale. Cette loi fait partie du plan du gouvernement pour augmenter la construction de logements et améliorer l'accessibilité au logement.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "55b96bbab5401178",
       "date": "2026-06-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/06/une-loi-est-adoptee-afin-daccroitre-loffre-de-logements-et-de-faciliter-lacces-au-logement-pour-tous-les-canadiens.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Une loi est adoptée afin d’accroître l’offre de logements et de faciliter l’accès au logement pour tous les Canadiens",
-      "sum": "La population canadienne évolue dans un monde de plus en plus fragmenté, qui a été marqué par des changements rapides au cours de la dernière année. Dans ce contexte, le gouvernement du Canada continue de se concentrer sur ce qu’il peut contrôler : bâtir une économie forte au pays, assurer une gestion budgétaire responsable et soutenir les Canadiens et les Canadiennes qui subissent la pression du coût de la vie au…",
-      "cat": "Innovation, science & industry"
+      "title": "Nouvelle loi adoptée pour augmenter l'offre de logements",
+      "sum": "Le gouvernement du Canada a adopté une loi visant à accroître l'offre de logements et à faciliter l'accès au logement pour tous les Canadiens. Cette mesure s'inscrit dans les efforts du gouvernement pour soutenir les Canadiens face aux pressions du coût de la vie.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "6efe202649bc7ba7",
       "date": "2026-06-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/06/le-canada-retablit-les-peines-minimales-obligatoires-afin-de-garder-les-enfants-a-labri-des-personnes-predatrices.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada rétablit les peines minimales obligatoires afin de garder les enfants à l’abri des personnes prédatrices",
-      "sum": "« Les personnes prédatrices s’attaquent aux plus vulnérables d’entre nous, en commettant certains des crimes les plus horribles que l’on puisse imaginer contre des enfants. Aujourd’hui, les peines minimales obligatoires ont été rétablies afin de garder les personnes criminelles derrière les barreaux et d’assurer la sécurité de nos enfants. Ces mesures de protection ont désormais force de loi », a déclaré l’honorable…",
-      "cat": "Public safety"
+      "title": "Canada rétablit les peines minimales obligatoires pour crimes contre enfants",
+      "sum": "Le Canada a rétabli les peines minimales obligatoires pour certains crimes contre les enfants. Cette mesure vise à assurer que les contrevenants restent emprisonnés et à protéger les enfants.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "99b9a797eeb69034",
       "date": "2026-06-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/06/le-canada-erige-le-feminicide-en-infraction-de-meurtre-au-premier-degre-alors-que-les-trois-principales-reformes-du-code-criminel-deviennent-loi.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada érige le féminicide en infraction de meurtre au premier degré alors que les trois principales réformes du Code criminel deviennent loi",
-      "sum": "« Les victimes et les personnes survivantes ont réclamé des mesures de protection plus solides contre la violence entre partenaires intimes et la violence fondée sur le sexe. Ces mesures de protection ont désormais force de loi », a déclaré l’honorable Sean Fraser, ministre de la Justice et procureur général du Canada.",
-      "cat": "Justice"
+      "title": "Canada établit le féminicide comme meurtre au premier degré",
+      "sum": "Le Canada a adopté trois réformes majeures du Code criminel qui érigent le féminicide en infraction de meurtre au premier degré. Ces modifications renforcent les protections contre la violence entre partenaires intimes et la violence fondée sur le sexe.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "998d28767f1ac8c0",
@@ -30152,57 +30308,62 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État Fuhr conclut ses visites à Berlin et à Paris pour soutenir et promouvoir l’industrie de la défense du Canada et renforcer la collaboration avec les alliés de l’UE",
-      "sum": "L’honorable Stephen Fuhr, secrétaire d’État (Approvisionnement en matière de défense), a représenté le gouvernement du Canada à deux grands salons commerciaux internationaux la semaine dernière, à Berlin et à Paris, pour discuter des priorités communes en matière de défense et promouvoir les entreprises canadiennes à l’échelle internationale.",
-      "cat": "Foreign affairs"
+      "title": "Secrétaire d'État Fuhr promeut l'industrie défense canadienne en Europe",
+      "sum": "Le secrétaire d'État Stephen Fuhr a représenté le Canada à des salons commerciaux internationaux à Berlin et à Paris pour discuter des priorités en matière de défense et promouvoir les entreprises canadiennes auprès des alliés européens.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "13e5eae01f62052e",
       "date": "2026-06-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/06/adoption-dun-projet-de-loi-visant-a-mettre-en-uvre-des-mesures-de-la-mise-a-jour-economique-du-printemps-de-2026.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Adoption d’un projet de loi visant à mettre en œuvre des mesures de la Mise à jour économique du printemps de 2026",
-      "sum": "Cette importante loi comprend des mesures ciblées visant à soutenir les Canadiens et les Canadiennes, à bâtir une économie solide et à permettre au Canada d’être bien placé pour relever les défis mondiaux actuels et assurer sa prospérité à long terme.",
-      "cat": "Economy"
+      "title": "Adoption d'un projet de loi sur la mise à jour économique printemps 2026",
+      "sum": "Le gouvernement a adopté une loi mettant en œuvre les mesures de la mise à jour économique du printemps 2026. Cette loi comprend des mesures destinées à soutenir les Canadiens, renforcer l'économie et positionner le Canada face aux défis mondiaux.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "37736abf4d295914",
       "date": "2026-06-19",
       "src": "Immigration, Réfugiés et Citoyenneté Canada (IRCC)",
       "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2026/06/le-canada-propose-un-nouveau-reglement-pour-moderniser-le-processus-doctroi-de-lasile-et-appuyer-la-prise-de-decisions-en-temps-opportun.html",
-      "type": "Announcement",
+      "type": "Regulation",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada propose un nouveau règlement pour moderniser le processus d’octroi de l’asile et appuyer la prise de décisions en temps opportun",
-      "sum": "Le Canada continue d’améliorer son système d’asile afin qu’il soit équitable, transparent et viable à long terme.",
-      "cat": "Economy"
+      "title": "Canada modernise le processus d'octroi de l'asile",
+      "sum": "Le Canada propose un nouveau règlement pour moderniser son système d'asile et accélérer la prise de décisions. Cette mesure vise à rendre le processus plus équitable, transparent et durable.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "d10059ea5348c29c",
       "date": "2026-06-19",
       "src": "Immigration, Réfugiés et Citoyenneté Canada (IRCC)",
       "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2026/06/le-canada-propose-un-nouveau-reglement-pour-moderniser-le-processus-doctroi-de-lasile-et-appuyer-la-prise-de-decisions-en-temps-opportun0.html",
-      "type": "Announcement",
+      "type": "Regulation",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada propose un nouveau règlement pour moderniser le processus d’octroi de l’asile et appuyer la prise de décisions en temps opportun",
-      "sum": "En s’appuyant sur les récentes mesures visant à renforcer les systèmes d’immigration et d’octroi de l’asile du Canada, ainsi que sur la diminution récente du volume des demandes d’asile, le gouvernement du Canada prend d’autres mesures pour maintenir un système d’octroi de l’asile équitable, ordonné et bien géré.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada propose nouveau règlement pour moderniser octroi asile",
+      "sum": "Le gouvernement du Canada propose un nouveau règlement visant à moderniser le processus d'octroi de l'asile et à accélérer les décisions. Cette mesure s'ajoute aux efforts récents de renforcement des systèmes d'immigration et d'asile.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "ff2fca5d59f96db9",
       "date": "2026-06-19",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/06/la-ministre-valdez-annoncera-dimportants-investissements-federaux-a-lappui-des-femmes-entrepreneures-en-alberta-et-ailleurs-au-canada.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Valdez annoncera d’importants investissements fédéraux à l’appui des femmes entrepreneures en Alberta et ailleurs au Canada",
-      "sum": "La ministre des Femmes et de l’Égalité des genres et secrétaire d’État (Petites Entreprises et Tourisme), l’honorable Rechie Valdez, annoncera d’importantes subventions fédérales pour soutenir les femmes entrepreneures en Alberta et ailleurs au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Investissements fédéraux annoncés pour les femmes entrepreneures",
+      "sum": "La ministre Rechie Valdez annoncera des subventions fédérales destinées à soutenir les femmes entrepreneures en Alberta et dans le reste du Canada.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "29442efbd892c630",
@@ -30212,9 +30373,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La Première Nation Zagimē Anishinabēk célèbre la pose de la première pierre d’une nouvelle école accueillant des élèves de la maternelle à la 8e année",
-      "sum": "Les écoles constituent souvent la pierre angulaire des communautés des Premières Nations; elles offrent aux élèves un lieu sûr où apprendre et s’épanouir, et servent de lieu de rassemblement pour les événements communautaires et les activités culturelles. Le fait d’investir dans les infrastructures éducatives contribue à créer des possibilités pour les générations futures, renforce l’identité culturelle et favorise…",
-      "cat": "Innovation, science & industry"
+      "title": "Zagimē Anishinabēk pose la première pierre d'une nouvelle école",
+      "sum": "La Première Nation Zagimē Anishinabēk a marqué le début de la construction d'une nouvelle école accueillant les élèves de la maternelle à la 8e année. Le gouvernement fédéral investit dans cette infrastructure éducative pour soutenir la communauté.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "68f1b0b1cc32ab64",
@@ -30373,12 +30535,13 @@
       "date": "2026-06-18",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/public-health/news/2026/06/government-of-canada-supports-five-projects-that-helps-address-health-impacts-of-climate-sensitive-diseases.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada supports five projects that helps address health impacts of climate-sensitive diseases",
-      "sum": "Over the next three years, PHAC is providing over $3.3 million to five organizations, led by or in collaboration with First Nation, Inuit, and Métis communities, to develop and promote programs and resources that address the growing health impacts of climate-sensitive infectious diseases.",
-      "cat": "Indigenous services"
+      "title": "Canada funds five Indigenous-led climate health disease projects",
+      "sum": "The Public Health Agency of Canada is providing over $3.3 million over three years to five organizations led by or working with First Nation, Inuit, and Métis communities. The funding supports programs and resources addressing health impacts of infectious diseases affected by climate change.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "21811e980b7f4980",
@@ -30388,21 +30551,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizure of contraband and unauthorized items at Mountain Institution",
-      "sum": "On June 12, 2026, as a result of the vigilance of staff members, a package containing contraband and unauthorized items was seized at Mountain Institution, a medium-security federal institution.",
-      "cat": "Public safety"
+      "title": "Contraband seized at Mountain Institution federal prison",
+      "sum": "Staff at Mountain Institution, a medium-security federal prison, seized a package containing contraband and unauthorized items on June 12, 2026.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "3feeeffb92009323",
       "date": "2026-06-18",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/parks-canada/news/2026/06/obadjiwanfort-temiscamingue-national-historic-site-management-plan-tabled-in-parliament.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Obadjiwan–Fort Témiscamingue National Historic Site Management Plan tabled in Parliament",
-      "sum": "Obadjiwan–Fort Témiscamingue National Historic Site is the first national historic site in Canada to be co-owned with an Indigenous nation.",
-      "cat": "Indigenous services"
+      "title": "Management plan tabled for Obadjiwan–Fort Témiscamingue National Historic Site",
+      "sum": "A management plan for Obadjiwan–Fort Témiscamingue National Historic Site has been tabled in Parliament. This is the first national historic site in Canada to be jointly owned with an Indigenous nation.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "583f33e752f06a07",
@@ -30412,21 +30577,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister of Foreign Affairs Anita Anand in Conversation with the Munk School of Global Affairs & Public Policy",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, will join the Munk School of Global Affairs & Public Policy to discuss Pragmatic Diplomacy Abroad: Delivering for Canadians at Home with the Munk School's founding director, Janice Gross Stein.",
-      "cat": "Foreign affairs"
+      "title": "Foreign Affairs Minister discusses pragmatic diplomacy at Munk School",
+      "sum": "Minister of Foreign Affairs Anita Anand will speak at the Munk School of Global Affairs & Public Policy about pragmatic diplomacy and delivering results for Canadians. The discussion will be led by the Munk School's founding director, Janice Gross Stein.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "8fe7ba93c8e35375",
       "date": "2026-06-18",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/agriculture-agri-food/news/2026/06/agrirecovery-initiative-to-support-farms-affected-by-drought.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "AgriRecovery Initiative to support farms affected by drought",
-      "sum": "The federal and provincial governments are together committing up to $25 million to help Nova Scotia livestock and wild blueberry producers recover from the impacts of the severe drought last year.",
-      "cat": "Animal welfare"
+      "title": "Federal and provincial governments commit $25 million for drought-affected Nova Scotia farms",
+      "sum": "The federal and provincial governments are providing up to $25 million in support for Nova Scotia livestock and wild blueberry producers affected by last year's severe drought. The funding is part of the AgriRecovery Initiative.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "7f367c3856eb9946",
@@ -30436,9 +30603,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister McGuinty to travel to Luxembourg",
-      "sum": "The Honourable David J. McGuinty, Minister of National Defence, will travel to Luxembourg on June 19th to deepen defence cooperation between Canada and Luxembourg.",
-      "cat": "National defence"
+      "title": "Defence Minister travels to Luxembourg for cooperation talks",
+      "sum": "Minister of National Defence David McGuinty will travel to Luxembourg on June 19th to discuss and strengthen defence cooperation between Canada and Luxembourg.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "7185219d42824da6",
@@ -30448,9 +30616,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister MacDonald will announce support for local food infrastructure to strengthen food security in Canada",
-      "sum": "The Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, will announce a new program under the Local Food Infrastructure Fund to support food security in Canada.",
-      "cat": "Public safety"
+      "title": "Government announces local food infrastructure support program",
+      "sum": "Minister of Agriculture and Agri-Food Heath MacDonald will announce a new program under the Local Food Infrastructure Fund. The program is designed to support food security across Canada.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "8d12b0d3e92c4a6f",
@@ -30460,9 +30629,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Public hearing on Pickering Nuclear Generating Station and Waste Management Facility",
-      "sum": "On June 23, the Canadian Nuclear Safety Commission (CNSC) will hold the first part of a 2-part public hearing to consider the application from Ontario Power Generation to refurbish Pickering Nuclear Generating Station and to renew licences for the Pickering Nuclear Generating Station and Waste Management Facility.",
-      "cat": "Economy"
+      "title": "CNSC holds public hearing on Pickering Nuclear Station refurbishment",
+      "sum": "The Canadian Nuclear Safety Commission will conduct a public hearing starting June 23 to review Ontario Power Generation's application to refurbish Pickering Nuclear Generating Station and renew licences for the station and its waste management facility. This is the first part of a two-part hearing process.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "50a7e254b7102b62",
@@ -30472,9 +30642,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "GCtranslate deployed government-wide to support official languages in the federal public service",
-      "sum": "Artificial intelligence is helping transform how the Government of Canada delivers services and supports public servants. As part of its broader digital transformation agenda, the government is leveraging secure, Canadian-made solutions to improve efficiency, strengthen productivity and deliver better results for Canadians.",
-      "cat": "Transportation"
+      "title": "Government deploys AI translation tool across federal public service",
+      "sum": "The Government of Canada has implemented GCtranslate, an artificial intelligence tool designed to support official languages in the federal public service. The deployment is part of the government's digital transformation efforts to improve service delivery and efficiency.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "ca874020f22f9011",
@@ -30484,21 +30655,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada partners with Indigenous communities to address the growing health impacts of climate-sensitive diseases",
-      "sum": "Today, the Honourable Rebecca Alty, Minister of Crown-Indigenous Relations, on behalf of the Honourable Marjorie Michel, Minister of Health, announced $3.3 million over three years for five projects in collaboration with First Nation, Inuit and Métis communities.",
-      "cat": "Indigenous services"
+      "title": "Canada funds Indigenous health projects addressing climate-sensitive diseases",
+      "sum": "The federal government announced $3.3 million over three years for five projects developed with First Nation, Inuit, and Métis communities to address health impacts of climate-sensitive diseases.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "0ddf67070d7abf12",
       "date": "2026-06-18",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/department-justice/news/2026/06/minister-fraser-to-hold-press-conference-as-significant-bail-and-sentencing-reforms-become-law.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Fraser to hold press conference as Canada’s sweeping bail and sentencing reforms become law",
-      "sum": "The Honourable Sean Fraser, Minister of Justice and Attorney General of Canada, will hold a press conference on the passing of the Bail and Sentencing Act (Bill C-14), enacting some of the most significant reforms to strengthen bail and sentencing laws.",
-      "cat": "Justice"
+      "title": "Bail and sentencing reforms become law in Canada",
+      "sum": "Bill C-14, which makes significant changes to Canada's bail and sentencing laws, has passed and become law. Justice Minister Sean Fraser will hold a press conference to discuss the reforms.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "c25788023487cefe",
@@ -30508,45 +30681,49 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Commission renews Hydro-Québec’s power reactor decommissioning licence for the Gentilly-2 Facilities",
-      "sum": "Today, the Canadian Nuclear Safety Commission announced the Commission’s decision to renew Hydro-Québec’s power reactor decommissioning licence for its Gentilly-2 Facilities for a period of 20 years.",
-      "cat": "Economy"
+      "title": "Nuclear Safety Commission renews Hydro-Québec decommissioning licence",
+      "sum": "The Canadian Nuclear Safety Commission has renewed Hydro-Québec's licence to decommission the Gentilly-2 nuclear power reactor for a 20-year period. The licence allows the company to continue managing the shutdown facility.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "add288c4a2f5cd9f",
       "date": "2026-06-18",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/northern-economic-development/news/2026/06/two-nunavut-communities-strengthen-access-to-traditional-foods-with-new-processing-facilities.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Two Nunavut communities strengthen access to traditional foods with new processing facilities",
-      "sum": "The Government of Canada is investing over $4.7 million on two community-led traditional food processing facilities that will help Gjoa Haven and Taloyoak residents access more local foods and strengthen food sovereignty in the region.",
-      "cat": "Economy"
+      "title": "Canada funds traditional food processing facilities in Nunavut",
+      "sum": "The Government of Canada is investing over $4.7 million in two community-led traditional food processing facilities in Gjoa Haven and Taloyoak. These facilities will increase local food access and strengthen food sovereignty in the region.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "312b2161248b30b7",
       "date": "2026-06-18",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/northern-economic-development/news/2026/06/backgrounder-the-government-of-canada-is-investing-over-47m-to-support-traditional-food-production-in-nunavut.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: The Government of Canada is investing over $4.7M to support traditional food production in Nunavut",
-      "sum": "The federal government is providing up to $4,787,324 in targeted funding for two community food processing plants in Nunavut. These projects will create jobs and improve access to local food for community members.",
-      "cat": "Economy"
+      "title": "Canada invests $4.7M in Nunavut food processing plants",
+      "sum": "The federal government is providing $4.7 million in funding for two community food processing plants in Nunavut. The projects are intended to create jobs and improve local food access.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "a40bc23d50e90b64",
       "date": "2026-06-18",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/international-trade-tribunal/news/2026/06/tribunal-issues-determination-of-reasonable-indication-of-injurycertain-steel-racks-from-china.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Tribunal Issues Determination of Reasonable Indication of Injury—Certain Steel Racks from China",
-      "sum": "Further to the Canadian International Trade Tribunal’s preliminary injury inquiry (PI-2026-002), the Tribunal today determined that there is a reasonable indication that the dumping and subsidizing of certain steel racks from China have caused injury to the domestic industry.",
-      "cat": "Foreign affairs"
+      "title": "Trade tribunal finds dumping of Chinese steel racks may injure domestic industry",
+      "sum": "The Canadian International Trade Tribunal determined there is reasonable indication that dumped and subsidized steel racks from China have caused injury to Canadian producers. This determination follows a preliminary inquiry into the matter.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "a78d1d1a7902d0c6",
@@ -30556,33 +30733,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Procurement Ombud Hosts Third Procurement Solutions Forum on the Development of One Harmonized Set of Federal Procurement Rules",
-      "sum": "The Office of the Procurement Ombud (OPO) hosted its third Procurement Solutions Forum, bringing together senior procurement leaders and stakeholders from across the federal government to discuss the development of a harmonized set of federal procurement rules – one of the Procurement Ombud’s 5 key recommendations to address long-standing federal procurement issues, as outlined in his report Time for Solutions: Top…",
-      "cat": "Economy"
+      "title": "Procurement Ombud convenes forum on unified federal procurement rules",
+      "sum": "The Office of the Procurement Ombud held its third Procurement Solutions Forum to bring together federal procurement leaders and stakeholders to discuss developing a single harmonized set of federal procurement rules. This initiative is one of the Ombud's key recommendations to address long-standing issues in federal procurement.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "954f976f0ecc9d1e",
       "date": "2026-06-18",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-supports-the-project-the-portrait-of-vitality-a-foundational-model-for-evidence-based-community-development-in-the-field-of-of.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada supports the project The Portrait of Vitality: A Foundational Model for Evidence-Based Community Development in the Field of Official Languages",
-      "sum": "Townshippers’ Association receives Government of Canada funding.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada funds Official Languages community development research project",
+      "sum": "The Government of Canada is providing funding to the Townshippers' Association for a project called The Portrait of Vitality, which aims to develop evidence-based approaches to community development in the field of Official Languages.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "36961a56a7b9b809",
       "date": "2026-06-18",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/sante-publique/nouvelles/2026/06/le-gouvernement-du-canada-soutient-cinq-projets-visant-a-contrer-les-repercussions-sur-la-sante-des-maladies-influencees-par-le-climat.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada soutient cinq projets visant à contrer les répercussions sur la santé des maladies influencées par le climat",
-      "sum": "Au cours des trois prochaines années, l’ASPC versera plus de 3,3 millions de dollars à cinq organisations, dirigées par des communautés des Premières Nations, inuites et métisses ou en collaboration avec celles-ci, afin d’élaborer et de promouvoir des programmes et des ressources destinés à faire face aux répercussions croissantes sur la santé des maladies infectieuses influencées par le climat.",
-      "cat": "Indigenous services"
+      "title": "Canada finance cinq projets santé face aux maladies liées au climat",
+      "sum": "Le gouvernement du Canada investit plus de 3,3 millions de dollars sur trois ans dans cinq projets menés par ou en collaboration avec des communautés des Premières Nations, inuites et métisses. Ces projets viseront à développer des programmes et des ressources pour répondre aux impacts croissants des maladies infectieuses influencées par le climat.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "461d0749854b6d08",
@@ -30592,9 +30772,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisie d’objets interdits et non autorisés à l’Établissement de Mountain",
-      "sum": "Le 12 juin 2026, grâce à la vigilance du personnel, un colis contenant des objets interdits et non autorisés a été saisi à l’Établissement de Mountain, un établissement fédéral à sécurité moyenne.",
-      "cat": "Housing"
+      "title": "Objets interdits saisis à l'Établissement de Mountain",
+      "sum": "Le 12 juin 2026, le personnel de l'Établissement de Mountain, un établissement fédéral à sécurité moyenne, a découvert et saisi un colis contenant des objets interdits et non autorisés.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "3129b476e51a6672",
@@ -30604,21 +30785,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre des Affaires étrangères, Anita Anand, s’entretient avec la Munk School of Global Affairs and Public Policy",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, se rendra à la Munk School of Global Affairs and Public Policy pour discuter du thème Diplomatie pragmatique à l’étranger : Agir pour les Canadiens et Canadiennes au pays [VF2.1]en compagnie de la directrice fondatrice de la Munk School, Janice Gross Stein.",
-      "cat": "Foreign affairs"
+      "title": "Ministre des Affaires étrangères intervient à l'école Munk",
+      "sum": "La ministre Anita Anand se rendra à la Munk School of Global Affairs and Public Policy pour discuter de diplomatie pragmatique et de ses actions en faveur des Canadiens. Elle participera à un événement avec la directrice fondatrice de l'école, Janice Gross Stein.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "9788856691acae1a",
       "date": "2026-06-18",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2026/06/le-plan-directeur-du-lieu-historique-national-dobadjiwanfort-temiscamingue-est-depose-au-parlement.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Le plan directeur du lieu historique national d’Obadjiwan–Fort-Témiscamingue est déposé au Parlement",
-      "sum": "Le lieu historique national d’Obadjiwan–Fort-Témiscamingue est le premier lieu historique national au Canada détenu en copropriété avec une Nation autochtone.",
-      "cat": "Intergovernmental affairs"
+      "title": "Plan directeur du lieu historique Obadjiwan–Fort-Témiscamingue déposé",
+      "sum": "Le plan directeur du lieu historique national d'Obadjiwan–Fort-Témiscamingue a été déposé au Parlement. Ce site est le premier lieu historique national au Canada détenu en copropriété avec une Nation autochtone.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "c32c19021913653a",
@@ -30628,9 +30811,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Initiative d’Agri-relance visant à soutenir les exploitations agricoles touchées par la sécheresse",
-      "sum": "Les gouvernements fédéral et provincial s’engagent conjointement à fournir jusqu’à 25 millions de dollars pour aider les éleveurs de bétail et les producteurs de bleuets sauvages de la Nouvelle-Écosse à se remettre des répercussions de la grave sécheresse de l’année dernière.",
-      "cat": "Innovation, science & industry"
+      "title": "Initiative fédérale-provinciale d'aide agricole pour sécheresse",
+      "sum": "Le gouvernement fédéral et la Nouvelle-Écosse offrent jusqu'à 25 millions de dollars pour aider les éleveurs de bétail et les producteurs de bleuets sauvages à se rétablir après la sécheresse de l'année précédente.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "374da5760b7004e1",
@@ -30640,9 +30824,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre McGuinty se rendra au Luxembourg",
-      "sum": "L’honorable David J. McGuinty, ministre de la Défense nationale, se rendra au Luxembourg le 19 juin pour approfondir la coopération en matière de défense entre le Canada et le Luxembourg.",
-      "cat": "Economy"
+      "title": "Ministre de la Défense nationale en visite au Luxembourg",
+      "sum": "Le ministre David J. McGuinty se rendra au Luxembourg le 19 juin pour discuter de coopération en matière de défense entre le Canada et le Luxembourg.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "7b50b4c5114ffb5d",
@@ -30652,9 +30837,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre MacDonald annoncera un soutien aux infrastructures alimentaires locales pour renforcer la sécurité alimentaire au Canada",
-      "sum": "L’honorable Heath MacDonald, ministre de l’Agriculture et de l’Agroalimentaire, annoncera un nouveau programme dans le cadre du Fonds des infrastructures alimentaires locales à l’appui de la sécurité alimentaire au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Programme de soutien aux infrastructures alimentaires locales annoncé",
+      "sum": "Le ministre de l'Agriculture annonce un nouveau programme pour soutenir les infrastructures alimentaires locales. Cette initiative vise à renforcer la sécurité alimentaire au Canada.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "a9ac0e02ce409ca8",
@@ -30664,9 +30850,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Audience publique sur la centrale nucléaire et l’installation de gestion des déchets de Pickering",
-      "sum": "Le 23 juin prochain, la Commission canadienne de sûreté nucléaire (CCSN) tiendra la première partie d’une audience publique en 2 parties sur la demande d’Ontario Power Generation concernant la réfection de la centrale nucléaire de Pickering et le renouvellement des permis de la centrale et de l’installation de gestion des déchets de Pickering.",
-      "cat": "Innovation, science & industry"
+      "title": "Audience publique sur la centrale nucléaire de Pickering",
+      "sum": "La Commission canadienne de sûreté nucléaire tiendra une audience publique le 23 juin sur la demande d'Ontario Power Generation pour la réfection de la centrale nucléaire de Pickering et le renouvellement de ses permis d'exploitation et de gestion des déchets.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "2794eb0efe1a1431",
@@ -30676,9 +30863,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déploiement de GCtraduction à l’échelle du gouvernement pour soutenir les langues officielles dans la fonction publique fédérale",
-      "sum": "L’intelligence artificielle contribue à transformer la manière dont le gouvernement du Canada fournit ses services et soutient les fonctionnaires. Dans le cadre de son vaste programme de transformation numérique, le gouvernement tire parti de solutions sécurisées conçues au Canada afin d’améliorer l’efficacité, de renforcer la productivité et d’obtenir de meilleurs résultats pour les Canadiens.",
-      "cat": "Innovation, science & industry"
+      "title": "Déploiement de GCtraduction pour soutenir les langues officielles fédérales",
+      "sum": "Le gouvernement du Canada déploie à grande échelle GCtraduction, un outil d'intelligence artificielle conçu au Canada, pour améliorer le soutien des deux langues officielles dans la fonction publique fédérale. Cette mesure s'inscrit dans le programme de transformation numérique du gouvernement visant à augmenter l'efficacité et la productivité.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "7e3bc418533db431",
@@ -30688,9 +30876,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada collabore avec les communautés autochtones pour lutter contre les répercussions croissantes sur la santé des maladies liées au climat",
-      "sum": "Aujourd’hui, l’honorable Rebecca Alty, ministre des Relations Couronne-Autochtones, au nom de l’honorable Marjorie Michel, ministre de la Santé, a annoncé un financement de 3,3 millions de dollars sur trois ans pour cinq projets menés en collaboration avec des communautés des Premières Nations, inuites et métisses.",
-      "cat": "Indigenous services"
+      "title": "Canada finance projets santé autochtones liés changements climatiques",
+      "sum": "Le gouvernement du Canada accorde 3,3 millions de dollars sur trois ans pour soutenir cinq projets de santé élaborés en collaboration avec des communautés des Premières Nations, inuites et métisses afin de répondre aux impacts croissants des changements climatiques.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "53fa277a25b5f63d",
@@ -30700,9 +30889,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Fraser tiendra une conférence de presse alors que de grandes réformes en matière de mise en liberté sous caution et de détermination de la peine prennent force de loi",
-      "sum": "L’honorable Sean Fraser, ministre de la Justice et procureur général du Canada, tiendra une conférence de presse sur l’adoption de la Loi sur des mesures de réforme concernant la mise en liberté sous caution et la détermination de la peine (projet de loi C-14), qui prévoit certaines des réformes les plus importantes visant à renforcer les lois sur la mise en liberté sous caution et la détermination de la peine.",
-      "cat": "Justice"
+      "title": "Réformes sur la mise en liberté sous caution et la détermination de la peine adoptées",
+      "sum": "Le ministre de la Justice Sean Fraser annonce l'adoption du projet de loi C-14, qui introduit des réformes majeures aux lois canadiennes sur la mise en liberté sous caution et la détermination de la peine. Le ministre tiendra une conférence de presse à ce sujet.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "7f323e7f064c4e90",
@@ -30712,21 +30902,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La Commission renouvelle le permis de déclassement d’un réacteur de puissance d’Hydro-Québec pour les installations de Gentilly-2",
-      "sum": "Aujourd’hui, la Commission canadienne de sûreté nucléaire a annoncé la décision de la Commission de renouveler le permis de déclassement d’un réacteur de puissance d’Hydro-Québec concernant les installations de Gentilly-2 pour une période de 20 ans.",
-      "cat": "Innovation, science & industry"
+      "title": "Permis de déclassement du réacteur Gentilly-2 renouvelé pour 20 ans",
+      "sum": "La Commission canadienne de sûreté nucléaire a renouvelé le permis de déclassement du réacteur de puissance de Gentilly-2 appartenant à Hydro-Québec. Ce permis demeure valide pour une période de 20 ans.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "d03d5f826ea8f7dd",
       "date": "2026-06-18",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/developpement-economique-nord/nouvelles/2026/06/deux-communautes-du-nunavut-ameliorent-lacces-aux-aliments-traditionnels-grace-a-de-nouvelles-installations-de-transformation.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Deux communautés du Nunavut améliorent l’accès aux aliments traditionnels grâce à de nouvelles installations de transformation",
-      "sum": "Le gouvernement du Canada investit plus de 4,7 millions de dollars dans deux installations communautaires de transformation des aliments traditionnels qui permettront aux populations de Gjoa Haven et de Taloyoak d’avoir accès à davantage d’aliments locaux et de renforcer la souveraineté alimentaire dans la région.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 4,7 millions pour installations alimentaires au Nunavut",
+      "sum": "Le gouvernement du Canada finance deux installations de transformation d'aliments traditionnels dans les communautés de Gjoa Haven et de Taloyoak au Nunavut. Ces installations permettront aux résidents d'accéder à plus d'aliments locaux et de renforcer leur souveraineté alimentaire.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "e044612b1101561f",
@@ -30736,21 +30928,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Le gouvernement du Canada investit plus de 4,7 millions de dollars pour soutenir la production alimentaire traditionnelle au Nunavut",
-      "sum": "Le gouvernement fédéral fournit jusqu’à 4 787 324 $ en financement ciblé pour deux installations communautaires de transformation des aliments au Nunavut. Ces projets créeront des emplois et amélioreront l’accès des membres de la collectivité aux aliments locaux.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 4,7 millions pour la production alimentaire au Nunavut",
+      "sum": "Le gouvernement fédéral finance deux installations communautaires de transformation des aliments au Nunavut avec 4,7 millions de dollars. Ces projets visent à créer des emplois et à améliorer l'accès aux aliments locaux pour les résidents.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "f5cb0169e1abd516",
       "date": "2026-06-18",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/tribunal-commerce-exterieur/nouvelles/2026/06/le-tribunal-rend-une-decision-dindication-raisonnable-de-dommage--certains-rayonnages-en-acier-provenant-de-la-chine.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Tribunal rend une décision d’indication raisonnable de dommage — Certains rayonnages en acier provenant de la Chine",
-      "sum": "À la suite de l’enquête préliminaire de dommage (PI-2026-002) du Tribunal canadien du commerce extérieur, le Tribunal a décidé aujourd’hui que les éléments de preuve indiquent, de façon raisonnable, que le dumping et le subventionnement de certains rayonnages en acier provenant de la Chine ont causé un dommage à la branche de production nationale.",
-      "cat": "Innovation, science & industry"
+      "title": "Tribunal détermine dommage raisonnable pour rayonnages acier chinois",
+      "sum": "Le Tribunal canadien du commerce extérieur a conclu que des éléments de preuve indiquent raisonnablement que le dumping et le subventionnement de certains rayonnages en acier en provenance de la Chine ont causé du dommage aux producteurs nationaux.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "0c0587adc8a808db",
@@ -30760,45 +30954,49 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ombud de l’approvisionnement organise le troisième forum sur les solutions d’approvisionnement sur l’élaboration d’un ensemble harmonisé de règles sur l’approvisionnement fédéral",
-      "sum": "Le Bureau de l’ombud de l’approvisionnement (BOA) a organisé son troisième forum sur les solutions d’approvisionnement, rassemblant des dirigeants de l’approvisionnement, des cadres supérieurs et des intervenants afin de discuter de l’élaboration d’un ensemble harmonisé de règles pour l’approvisionnement fédéral. Il s’agit là d’une des 5 recommandations clés de l’ombud de l’approvisionnement pour régler les enjeux…",
-      "cat": "Economy"
+      "title": "L'ombud de l'approvisionnement organise un forum sur l'harmonisation des règles",
+      "sum": "Le Bureau de l'ombud de l'approvisionnement a tenu son troisième forum réunissant des dirigeants et intervenants pour discuter de l'élaboration d'un ensemble harmonisé de règles pour l'approvisionnement fédéral. Cette initiative fait partie des recommandations clés de l'ombud pour améliorer les processus d'approvisionnement gouvernementaux.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "206d07d31e7fc20c",
       "date": "2026-06-18",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/06/le-gouvernement-du-canada-appuie-le-projet--le-portrait-de-la-vitalite--un-modele-fondamental-pour-le-developpement-communautaire-fonde-sur-des-don.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada appuie le projet « Le portrait de la vitalité : un modèle fondamental pour le développement communautaire fondé sur des données probantes dans le domaine des langues officielles »",
-      "sum": "L’Association des Townshippers reçoit un financement du gouvernement du Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada finances official languages community vitality project",
+      "sum": "Le gouvernement du Canada finance un projet de l'Association des Townshippers visant à développer un modèle communautaire fondé sur des données probantes dans le domaine des langues officielles.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "a65861f2b3d4b445",
       "date": "2026-06-18",
       "src": "Sécurité publique Canada (SP)",
       "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/06/le-gouvernement-du-canada-nomme-un-nouvel-enqueteur-correctionnel-par-interim.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada nomme un nouvel enquêteur correctionnel par intérim",
-      "sum": "Aujourd'hui, l'honorable Gary Anandasangaree, ministre de la Sécurité publique, a annoncé la nomination de Valerie Phillips au poste d'enquêteuse correctionnelle par intérim du Canada.",
-      "cat": "Economy"
+      "title": "Canada nomme une enquêteuse correctionnelle par intérim",
+      "sum": "Le ministre de la Sécurité publique a annoncé la nomination de Valerie Phillips au poste d'enquêteuse correctionnelle par intérim du Canada.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "61b84386cfb40eef",
       "date": "2026-06-18",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/06/la-ministre-joly-tiendra-une-teleconference-pendant-sa-visite-au-japon-a-la-suite-de-ses-rencontres-en-chine.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly tiendra une téléconférence pendant sa visite au Japon, à la suite de ses rencontres en Chine",
-      "sum": "La ministre Joly tiendra une téléconférence pendant sa visite au Japon, à la suite de ses rencontres en Chine",
-      "cat": "Economy"
+      "title": "Ministre Joly tient téléconférence au Japon après visite en Chine",
+      "sum": "La ministre Joly participe à une téléconférence lors de sa visite au Japon, suivant ses rencontres en Chine.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "6cad1c5e148834b1",
@@ -30846,9 +31044,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "CCOHS Forum 2026 Explores New and Emerging Risks Affecting Workplaces",
-      "sum": "The Canadian Centre for Occupational Health and Safety (CCOHS) is bringing people together from across the country for Forum 2026: The Changing World of Work. This two-day national event will take place on October 28 and 29 in St. John’s, Newfoundland and Labrador.",
-      "cat": "Healthcare"
+      "title": "CCOHS hosting national workplace safety forum in St. John's",
+      "sum": "The Canadian Centre for Occupational Health and Safety is organizing a two-day national forum on October 28-29 in St. John's, Newfoundland and Labrador. The event will bring together participants from across Canada to discuss emerging workplace risks and changes in the world of work.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "d547a2de811c318e",
@@ -30858,33 +31057,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizure of contraband and unauthorized items at Collins Bay Institution",
-      "sum": "On June 7, 2026, as a result of the vigilance of staff members, contraband and unauthorized items were seized at Collins Bay Institution, a multi-level security federal institution.",
-      "cat": "Public safety"
+      "title": "Contraband seized at Collins Bay Institution",
+      "sum": "On June 7, 2026, staff at Collins Bay Institution, a federal multi-level security prison, seized contraband and unauthorized items during routine vigilance activities.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "11ff5438c4f46398",
       "date": "2026-06-17",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/employment-social-development/news/2026/06/national-seniors-council--new-appointments.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "National Seniors Council – New Appointments",
-      "sum": "National Seniors Council – New Appointments",
-      "cat": "Economy"
+      "title": "Government appoints new members to National Seniors Council",
+      "sum": "The Government of Canada has announced new appointments to the National Seniors Council, which advises on policies affecting older Canadians. The council provides recommendations on seniors-related issues to federal decision-makers.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "e9b5505fe9ec820f",
       "date": "2026-06-17",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/employment-social-development/news/2026/06/government-of-canada-appoints-new-members-to-national-seniors-council.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada appoints new members to National Seniors Council",
-      "sum": "Older Canadians are vital and valued members of communities across the country. As Canada’s population ages, ensuring that seniors can live with dignity, safety, and comfort remains a key priority. That is why the Government of Canada draws on diverse perspectives and expertise to inform this ongoing work.",
-      "cat": "Innovation, science & industry"
+      "title": "Government appoints new members to National Seniors Council",
+      "sum": "The Government of Canada has appointed new members to the National Seniors Council. The council provides perspectives on issues affecting older Canadians.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "f1bbc5957a9cc134",
@@ -30894,9 +31096,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Arctic Marine Response Station in Rankin Inlet open for the season",
-      "sum": "The Canadian Coast Guard’s Arctic Marine Response Station in Rankin Inlet, Nunavut is now operational for the season. The Arctic Marine Response Station, formerly known as the Inshore Rescue Boat North station, first opened in 2018, establishing it as the first Canadian Coast Guard search and rescue facility in the Arctic.",
-      "cat": "Economy"
+      "title": "Arctic Marine Response Station in Rankin Inlet opens for season",
+      "sum": "The Canadian Coast Guard's Arctic Marine Response Station in Rankin Inlet, Nunavut has resumed operations for the season. The facility, which first opened in 2018 as Canada's first Coast Guard search and rescue facility in the Arctic, provides maritime response services in the region.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "0b5478e4756779bc",
@@ -30906,9 +31109,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Preserving the memory of Forillon: Working together to protect and share a unique heritage",
-      "sum": "Preserving the memory of Forillon: Working together to protect and share a unique heritage",
-      "cat": "Culture & heritage"
+      "title": "Government commits to preserving Forillon heritage memory",
+      "sum": "The federal government is undertaking efforts to protect and share the heritage of Forillon, a location with cultural significance. The initiative involves collaborative work to ensure this unique heritage is preserved for future generations.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "0521aca5aafc65a5",
@@ -30918,9 +31122,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The Canadian Food Inspection Agency identifies case of golden nematode on Manitoba potato farm, measures already in place",
-      "sum": "The Canadian Food Inspection Agency (CFIA) has detected golden nematode on a potato farm in Manitoba.",
-      "cat": "Economy"
+      "title": "Golden nematode detected on Manitoba potato farm",
+      "sum": "The Canadian Food Inspection Agency identified golden nematode, a plant pest, on a potato farm in Manitoba. Measures are already in place to address the situation.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "1fceb08a7536729a",
@@ -30930,9 +31135,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Forum 2026 du CCHST explore les risques nouveaux et émergents qui touchent les milieux de travail",
-      "sum": "Le Centre canadien d’hygiène et de sécurité au travail (CCHST) réunit des gens de partout au pays dans le cadre du Forum 2026 : Le monde du travail en constante évolution. Cet événement national de deux jours aura lieu les 28 et 29 octobre à St. John’s (Terre-Neuve-et-Labrador).",
-      "cat": "Innovation, science & industry"
+      "title": "Forum national explore risques émergents en milieux de travail",
+      "sum": "Le Centre canadien d'hygiène et de sécurité au travail organise un forum national les 28 et 29 octobre à St. John's pour examiner les risques nouveaux et émergents affectant les milieux de travail canadiens.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "bfbdaf8a05bb8bca",
@@ -30942,21 +31148,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisie d’objets interdits et non autorisés à l’Établissement de Collins Bay",
-      "sum": "Le 7 juin 2026, grâce à la vigilance du personnel, des objets interdits et non autorisés ont été saisis à l'Établissement de Collins Bay, un établissement fédéral à niveaux multiples de sécurité.",
-      "cat": "Innovation, science & industry"
+      "title": "Saisie d'objets interdits à l'Établissement de Collins Bay",
+      "sum": "Le 7 juin 2026, le personnel de l'Établissement de Collins Bay a saisi des objets interdits et non autorisés. Cette saisie s'inscrit dans les opérations de sécurité régulières de cet établissement fédéral.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "be969602b81a1477",
       "date": "2026-06-17",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/06/conseil-national-des-aines--nouvelles-nominations.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Conseil national des aînés – Nouvelles nominations",
-      "sum": "Conseil national des aînés – Nouvelles nominations",
-      "cat": "Economy"
+      "title": "Nouvelles nominations au Conseil national des aînés",
+      "sum": "Le gouvernement fédéral annonce de nouvelles nominations de membres au Conseil national des aînés. Ce conseil conseille le gouvernement sur les enjeux affectant les personnes âgées au Canada.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "d219283bc30ff95e",
@@ -30966,9 +31174,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Gouvernement du Canada nomme de nouveaux membres au Conseil national des aînés",
-      "sum": "Les Canadiens âgés sont des membres importants et estimés des collectivités d’un bout à l’autre du pays. À mesure que la population canadienne vieillit, veiller à ce que les aînés puissent vivre dans la dignité, la sécurité et le confort doit demeurer une priorité. C’est pourquoi le gouvernement du Canada tire profit de divers points de vue et expertises pour orienter ses efforts continus.",
-      "cat": "Economy"
+      "title": "Le Canada nomme nouveaux membres au Conseil national des aînés",
+      "sum": "Le gouvernement du Canada a nommé de nouveaux membres au Conseil national des aînés. Le gouvernement indique que ces nominations visent à intégrer diverses perspectives pour orienter ses politiques envers les aînés.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "8f7ccce9d3f3f8be",
@@ -30978,9 +31187,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Ouverture de la station d’intervention maritime en Arctique à Rankin Inlet pour la saison",
-      "sum": "La station d’intervention maritime en Arctique de la Garde côtière canadienne à Rankin Inlet, au Nunavut, est maintenant ouverte pour la saison. La station d’intervention maritime en Arctique, anciennement connue comme la station d’embarcations de sauvetage côtier du Nord, a été inaugurée en 2018. Il s’agissait de la première installation de recherche et sauvetage de la Garde côtière canadienne dans l’Arctique.",
-      "cat": "Housing"
+      "title": "Station d'intervention maritime arctique ouvre à Rankin Inlet",
+      "sum": "La station d'intervention maritime en Arctique de la Garde côtière canadienne à Rankin Inlet, au Nunavut, commence sa saison d'exploitation. Cette installation de recherche et sauvetage a été inaugurée en 2018 comme première base de ce type dans l'Arctique canadien.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "96350baa06e8ae8f",
