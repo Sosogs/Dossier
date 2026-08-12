@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T13:14:39.047Z",
-  "count": 14183,
+  "generatedAt": "2026-08-12T19:05:01.450Z",
+  "count": 14218,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,434 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "925a919ddd741898",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/invitation-to-media--carlos-leitao-to-announce-government-of-canada-support-for-quebec-business.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces funding to support Quebec technology business",
+      "sum": "Carlos Leitão and Jean-Yves Duclos will announce Government of Canada funding intended to support the growth of a Quebec technology business.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "e1fcb4e8311b09d9",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/invitation-to-media--carlos-leitao-to-announce-government-of-canada-support-for-saintapollinaire-sme.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces funding for Saint-Apollinaire manufacturing business",
+      "sum": "Carlos Leitão and Jean-Yves Duclos will announce Government of Canada funding to support growth at a manufacturing business in Saint-Apollinaire. The announcement will be made by the Parliamentary Secretary to the Minister of Industry.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "bfdaa65d63a6136b",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/government-of-canada-invests-in-osm-atlantics-growth.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada provides $700,000 to industrial machining business",
+      "sum": "The Government of Canada has provided $700,000 in financial assistance to OSM Atlantic, a company specializing in industrial machining. The funding was delivered through the Community Economic Development program.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "91c59b53026c1689",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/employment-social-development/news/2026/08/secretary-of-state-zerucelli-highlights-additional-funding-to-support-albertas-skilled-trades-workforce.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces additional skilled trades funding for Alberta",
+      "sum": "The Secretary of State highlighted new funding to support Alberta's skilled trades workforce. The announcement emphasizes the role of skilled trades workers in economic growth and key industries.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "e1e92d96ed8dd668",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/08/minister-champagne-to-make-an-announcement-on-a-search-and-rescue-boating-safety-initiative-in-the-mrc-des-chenaux-quebec.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Search and rescue boating safety initiative announced in Quebec",
+      "sum": "Minister Champagne will announce a search and rescue and boating safety initiative in the MRC des Chenaux region of Quebec on behalf of Minister Olszewski. Media are invited to attend the announcement.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "0ffe6e518133134e",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/08/new-targeted-warnings-for-severe-thunderstorms-and-tornadoes.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Environment Canada updates severe storm warning procedures",
+      "sum": "Environment and Climate Change Canada is modifying its process for issuing warnings about severe thunderstorms and tornadoes. The changes are described as targeted improvements to how these warnings are communicated.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "f489554991542243",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/08/government-of-canada-launches-improvements-to-tornado-and-thunderstorm-warnings-to-help-keep-people-in-canada-safe.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada improves tornado and thunderstorm warning system",
+      "sum": "Environment and Climate Change Canada has launched enhancements to its severe thunderstorm and tornado warning system. The improvements aim to provide clearer and more timely information to help people stay safe during severe weather events.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "14231e0993a833ad",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/08/minister-olszewski-to-make-an-announcement-supporting-volunteer-search-and-rescue-across-canada.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces support for volunteer search and rescue organizations",
+      "sum": "Ministers Eleanor Olszewski and Rebecca Alty will announce initiatives to support volunteer search and rescue organizations across Canada and strengthen search and rescue capacity.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "08b4092fbfb6520c",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/08/assault-of-an-inmate-at-atlantic-institution.html",
+      "type": "Report",
+      "kind": "official",
+      "lang": "en",
+      "title": "Inmate assaulted at Atlantic Institution",
+      "sum": "An inmate was assaulted on August 4, 2026, at Atlantic Institution, a maximum security federal prison facility.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "484a063de5ff5c40",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-justice/news/2026/08/minister-of-justice-and-attorney-general-of-canada-announces-a-judicial-appointment-in-the-province-of-quebec.html",
+      "type": "Appointment",
+      "kind": "official",
+      "lang": "en",
+      "title": "Justice Minister announces Quebec judicial appointment",
+      "sum": "The Minister of Justice announced a judicial appointment in Quebec under a process established in 2016 that emphasizes transparency, merit, and diversity.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "765e1ba24ca41a95",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-justice/news/2026/08/minister-of-justice-and-attorney-general-of-canada-announces-a-judicial-appointment-in-the-province-of-alberta.html",
+      "type": "Appointment",
+      "kind": "official",
+      "lang": "en",
+      "title": "Justice Minister announces judicial appointment in Alberta",
+      "sum": "The Minister of Justice announced a judicial appointment in Alberta through the federal judicial appointment process. This process prioritizes transparency, merit, and diversity in selecting judges.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "0f32274015b8a658",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/federal-government-invests-in-new-multi-use-trail-to-expand-active-transportation-in-grand-falls.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal government funds multi-use trail in Grand Falls",
+      "sum": "The federal government is investing more than $5.2 million in a new multi-use trail in Grand Falls to improve active transportation options. The trail will provide cyclists and pedestrians with better regional connectivity in the area.",
+      "cat": "Transportation",
+      "ai": true
+    },
+    {
+      "id": "cdda1031f19c9605",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/federal-government-invests-11-million-in-new-inkerman-recreational-trail-bridge.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal government invests $11 million in Inkerman trail bridge",
+      "sum": "The Government of Canada is investing $11 million, alongside $1 million from the Acadian Peninsula Regional Service Commission, to rebuild the Inkerman recreational trail bridge that was destroyed by fire nearly nine years ago. The bridge will reconnect communities on the Acadian Peninsula.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "1b70b130edf532c9",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/employment-social-development/news/2026/08/statement-from-minister-hajdu-and-secretary-of-state-gainey-on-international-youth-day-2026.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Ministers issue statement marking International Youth Day 2026",
+      "sum": "Minister Hajdu and Secretary of State Gainey released a joint statement on International Youth Day 2026. The statement marks the annual observance of this international day.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "8fc8669dc7e18188",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/joint-statement-on-executions-in-iran.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Multiple countries condemn executions in Iran",
+      "sum": "Canada joined 31 other countries and the European Union in issuing a joint statement condemning executions carried out in Iran. The countries expressed their strongest condemnation of these actions.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "f9da9621f4d3cb98",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/infrastructure-announcement-in-new-minas.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Infrastructure announcement scheduled in New Minas, Nova Scotia",
+      "sum": "Federal and provincial officials will hold a media event in New Minas to announce an infrastructure project. The announcement will include the Parliamentary Secretary to the Prime Minister, a Nova Scotia provincial minister, and the local mayor.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "d6a23f8862aef20f",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-regions-quebec/nouvelles/2026/08/invitation-aux-medias--carlos-leitao-annoncera-un-appui-du-gouvernement-du-canada-a-une-entreprise-de-quebec.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada annonce soutien financier pour entreprise technologique québécoise",
+      "sum": "Le gouvernement du Canada annoncera un appui financier pour soutenir la croissance d'une entreprise technologique basée à Québec. L'annonce sera faite par Carlos Leitão, secrétaire parlementaire de la ministre de l'Industrie, et Jean-Yves Duclos, député de Québec-Centre.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "0f71a947b04b6015",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-regions-quebec/nouvelles/2026/08/invitation-aux-medias--carlos-leitao-annoncera-un-appui-du-gouvernement-du-canada-a-une-pme-de-saint-apollinaire.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada appuie la croissance d'une PME manufacturière québécoise",
+      "sum": "Carlos Leitão annoncera un soutien financier du gouvernement du Canada destiné à une petite et moyenne entreprise manufacturière située à Saint-Apollinaire, au Québec.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "6509078df1e4d59a",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-regions-quebec/nouvelles/2026/08/le-gouvernement-du-canada-investit-dans-la-croissance-dosm-atlantique.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada investit 700 000 $ dans OSM Atlantique",
+      "sum": "Le gouvernement du Canada accorde une aide financière de 700 000 $ à OSM Atlantique, une entreprise spécialisée en usinage industriel. Ce financement vise à soutenir la croissance de l'entreprise.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "a6e736621e68b9fb",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/08/le-secretaire-detat-zerucelli-annonce-du-financement-supplementaire-pour-appuyer-la-main-duvre-des-metiers-specialises-de-lalberta.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Financement supplémentaire pour métiers spécialisés en Alberta",
+      "sum": "Le secrétaire d'État Zerucelli annonce du financement additionnel pour soutenir la main-d'œuvre des métiers spécialisés en Alberta. Cette mesure vise à répondre à la demande croissante de travailleurs qualifiés dans la province.",
+      "cat": "Education",
+      "ai": true
+    },
+    {
+      "id": "a606f0b64c8f6df6",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/08/le-ministre-champagne-fera-une-annonce-concernant-une-initiative-de-recherche-et-sauvetage-et-de-securite-nautique-dans-la-mrc-des-chenaux-au-quebec.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Initiative de recherche et sauvetage nautique annoncée aux Chenaux",
+      "sum": "Le ministre des Finances annoncera une nouvelle initiative de recherche et sauvetage et de sécurité nautique dans la MRC des Chenaux au Québec. Cette annonce sera faite au nom de la ministre de la Gestion des urgences et de la Résilience des communautés.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "da797553e679ade8",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/08/de-nouvelles-alertes-ciblees-pour-les-orages-violents-et-les-tornades.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Nouvelles alertes ciblées pour orages violents et tornades",
+      "sum": "Environnement et Changement climatique Canada met en place une nouvelle approche pour diffuser les alertes concernant les orages violents et les tornades.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "aa309e9c647f559f",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/08/le-gouvernement-du-canada-apporte-des-ameliorations-aux-alertes-de-tornades-et-dorages-pour-aider-a-assurer-la-securite-au-canada.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada améliore les alertes tornades et orages",
+      "sum": "Environnement et Changement climatique Canada a lancé des améliorations à ses systèmes d'alertes pour tornades et orages violents. Ces changements visent à fournir des informations plus claires et opportunes aux Canadiens pour se protéger en cas de conditions météorologiques dangereuses.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "c6499da75e494c92",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/08/la-ministre-olszewski-fera-une-annonce-visant-a-soutenir-le-benevolat-en-recherche-et-sauvetage-partout-au-canada.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Annonce de soutien au bénévolat en recherche et sauvetage",
+      "sum": "La ministre Olszewski fera une annonce concernant des initiatives pour soutenir les organismes bénévoles de recherche et sauvetage partout au Canada. Cette annonce sera faite en collaboration avec la ministre des Relations Couronne-Autochtones.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "0ceb72cc010707cf",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/08/agression-contre-un-detenu-a-letablissement-de-latlantique.html",
+      "type": "Report",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Agression signalée à l'Établissement de l'Atlantique",
+      "sum": "Un détenu a été victime d'agression le 4 août 2026 à l'Établissement de l'Atlantique, un établissement fédéral à sécurité maximale.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "2d6ae11c2b512bb3",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/08/le-ministre-de-la-justice-et-procureur-general-du-canada-annonce-une-nomination-a-la-magistrature-du-quebec.html",
+      "type": "Appointment",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada nomme un nouveau juge à la magistrature du Québec",
+      "sum": "Le ministre de la Justice annonce la nomination d'une personne à un poste de juge au Québec selon le processus de sélection judiciaire établi en 2016. Ce processus met l'accent sur la transparence, le mérite et la diversité.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "8726afb9abd6c198",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/08/le-ministre-de-la-justice-et-procureur-general-du-canada-annonce-une-nomination-a-la-magistrature-de-lalberta.html",
+      "type": "Appointment",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada nomme un nouveau juge en Alberta",
+      "sum": "Le ministre de la Justice annonce la nomination d'une personne à la magistrature de l'Alberta. Cette nomination suit un processus établi en 2016 qui privilégie la transparence, le mérite et la diversité.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "3cd98afdede12992",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/le-gouvernement-federal-investit-dans-un-nouveau-sentier-polyvalent-en-vue-de-developper-le-transport-actif-a-grand-sault.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Gouvernement fédéral investit dans un sentier polyvalent à Grand-Sault",
+      "sum": "Le gouvernement fédéral investit plus de 5,2 millions de dollars pour créer un nouveau sentier polyvalent à Grand-Sault. Ce projet améliorera les connexions régionales pour les cyclistes et les piétons des communautés environnantes.",
+      "cat": "Transportation",
+      "ai": true
+    },
+    {
+      "id": "18fb372ca8532134",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/le-gouvernement-federal-investit-11-millions-de-dollars-dans-le-nouveau-pont-du-sentier-recreatif-dinkerman.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le gouvernement fédéral investit 11 millions pour reconstruire le pont Inkerman",
+      "sum": "Le gouvernement fédéral investit 11 millions de dollars pour reconstruire le pont du sentier récréatif d'Inkerman, détruit par un incendie il y a neuf ans. Ce projet vise à rétablir la connexion entre les collectivités de la Péninsule acadienne.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "b6667543ec749b3c",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/08/declaration-de-la-ministre-hajdu-et-de-la-secretaire-detat-gainey-a-loccasion-de-la-journee-internationale-de-la-jeunesse-de-2026.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Déclaration pour la Journée internationale de la jeunesse 2026",
+      "sum": "La ministre Hajdu et la secrétaire d'État Gainey ont publié une déclaration à l'occasion de la Journée internationale de la jeunesse 2026.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "1efe06388fcb840d",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/08/declaration-commune-concernant-les-executions-en-liran.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et alliés déclarent position commune sur exécutions en Iran",
+      "sum": "Le Canada et plusieurs pays alliés ont publié une déclaration commune concernant les exécutions en Iran. Cette déclaration réunit les positions de plus de trente pays sur cette question.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "f7aa242c3aa30dd5",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/annonce-en-matiere-dinfrastructure-a-new-minas.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Annonce d'infrastructure à New Minas avec représentants fédéraux et provinciaux",
+      "sum": "Une annonce concernant un projet d'infrastructure aura lieu à New Minas avec la participation de représentants fédéraux et provinciaux, dont le secrétaire parlementaire du premier ministre et le ministre des Finances de la Nouvelle-Écosse.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "644b423f609c0377",
+      "date": "2026-08-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2xhVWtTb1hrM3Nob2NhMmkzZl93M2VGNkdJdk92Q18zTWV0dmZxMGNnSFMwSjd5WlBrQkpTam5LSGxDMGZsVllGWU9sYlRsZTQ1VWJfMzZQeHozRFl4RmxoRndTSFQ0NTZKNTdLRVhWX18xRGk0RUxFN2VjUEZSblhhWkhvQjd4Q0x0RkRmc2R1ZWhlbnRlWlh6ZVRrRHBJMVNJZkFPWU13UQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why Canada’s deeper linkage of foreign aid with trade outcomes is raising concerns - INsauga",
+      "excerpt": "Why Canada’s deeper linkage of foreign aid with trade outcomes is raising concerns INsauga",
+      "cat": "Foreign affairs"
+    },
     {
       "id": "d57db4514ccb7174",
       "date": "2026-08-12",
@@ -137,6 +565,18 @@
       "sum": "Le gouvernement du Canada et la Fédération canadienne des municipalités ont annoncé un financement de 34,2 millions de dollars pour 141 projets municipaux visant à renforcer la résilience face aux changements climatiques.",
       "cat": "Sustainable development",
       "ai": true
+    },
+    {
+      "id": "bf1e72051a8f54fd",
+      "date": "2026-08-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2tGTkl1Tk4xa19zT1BwWkFWb09yVlRuSlhhUDZPWVd4UWNzWno0d0pWbk5tQi1Ia0dZTDN1c0U1SGlhbzBsVldWa1lHRmVEVjJHQmczb21PZkg5eEtManViOVphdVpQWlJxLVNUNFJCcWVhZTlCOVhUOE5yQzcwMXV6SVUzUU9Ma2tiUjFOQXB2Zk9WeEE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Tens of thousands of Canadians call for U.S. Ambassador Hoekstra to be expelled - CBC",
+      "excerpt": "Tens of thousands of Canadians call for U.S. Ambassador Hoekstra to be expelled CBC",
+      "cat": "Economy"
     },
     {
       "id": "fe30c42bacbc6033",
@@ -12313,6 +12753,18 @@
       "excerpt": "The city of Kimberley has been placed under an evacuation alert as an out-of-control wildfire burns west of the East Kootenay community. The regional district has also issued a separate evacuation alert for 66…",
       "cat": "Economy",
       "lang": "en"
+    },
+    {
+      "id": "1351761d056aba9a",
+      "date": "2026-07-19",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMW1nR29EbmF6RTg2ZUJ5WXRKa2pwVzdNVG4zMGgtYUpOS0hCZGMzQ1R5b0VmT3FvZG1GSGphaXIySHVJTTBCcUdBZWYzamRTQkl1eUlSM3o5YzRYbVAtYk1NR1VNVWhKQ0xaM3NGUzZzMHpKTHZYa2JmY2d6OExmaXQ4UEp0VkJHRGtnNWJxMjNWaG5GQmExLTlVQkxfdVYtaEJ4ckc4cDZudEhMdGZlbTVGZTlUZXI2czNQSg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney dépense 4 M$ pour des publicités patriotiques pendant la Coupe du monde - Journal de Québec",
+      "excerpt": "Le gouvernement Carney dépense 4 M$ pour des publicités patriotiques pendant la Coupe du monde Journal de Québec",
+      "cat": "Economy"
     },
     {
       "id": "146793db4feeed2e",
@@ -31200,9 +31652,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Préserver la mémoire de Forillon : une collaboration pour protéger et partager un patrimoine unique.",
-      "sum": "Préserver la mémoire de Forillon : une collaboration pour protéger et partager un patrimoine unique",
-      "cat": "Economy"
+      "title": "Collaboration pour préserver la mémoire du patrimoine Forillon",
+      "sum": "Le gouvernement fédéral met en place une collaboration visant à protéger et à partager le patrimoine unique de Forillon. Cette initiative cherche à préserver la mémoire historique et culturelle de ce lieu.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "f2e8b35f0279ac9c",
@@ -31212,9 +31665,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’Agence canadienne d’inspection des aliments détecte la présence du nématode doré dans une ferme de pommes de terre du Manitoba : des mesures sont déjà en place",
-      "sum": "L’Agence canadienne d’inspection des aliments (ACIA) a détecté la présence du nématode doré dans une ferme de pommes de terre du Manitoba.",
-      "cat": "Economy"
+      "title": "Nématode doré détecté dans une ferme de pommes de terre du Manitoba",
+      "sum": "L'Agence canadienne d'inspection des aliments a détecté la présence du nématode doré dans une ferme de pommes de terre au Manitoba. Des mesures de contrôle ont déjà été mises en place.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "583da989f1f4d062",
@@ -31269,12 +31723,13 @@
       "date": "2026-06-16",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/department-justice/news/2026/06/minister-fraser-to-hold-media-availability-following-royal-assent-of-the-bail-and-sentencing-reform-act-bill-c-14.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Fraser to hold media availability following Royal Assent of the Bail and Sentencing Reform Act (Bill C-14)",
-      "sum": "Members of the media are invited to join the Honourable Sean Fraser, Minister of Justice and Attorney General of Canada, for a media availability following Royal Assent of the Bail and Sentencing Reform Act (Bill C-14), as 80 targeted changes to the Criminal Code on bail and sentencing are now law.",
-      "cat": "Justice"
+      "title": "Bail and Sentencing Reform Act receives Royal Assent",
+      "sum": "Bill C-14, which makes 80 changes to Criminal Code provisions on bail and sentencing, has received Royal Assent and is now law. Minister of Justice Sean Fraser will hold a media availability to discuss the changes.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "99bbffff68addde8",
@@ -31284,9 +31739,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: Federal vision for a National School Food Program",
-      "sum": "Federal vision for a National School Food Program",
-      "cat": "Education"
+      "title": "Federal government outlines vision for national school food program",
+      "sum": "The federal government has released a backgrounder document describing its vision for a National School Food Program. The document outlines the federal approach to providing food support to students in schools across Canada.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "14420e1443a649ff",
@@ -31296,21 +31752,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "National School Food Program takes shape across Canada",
-      "sum": "National School Food Program takes shape across Canada",
-      "cat": "Education"
+      "title": "National School Food Program implemented across Canadian schools",
+      "sum": "The federal government is establishing a national school food program to provide meals to students in schools across Canada. The program aims to ensure consistent food access for school-age children nationwide.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "8888451f62b9fe7b",
       "date": "2026-06-16",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/taxpayers-ombudsperson/news/2026/06/taxpayers-ombudspersons-20252026-annual-report-highlights-surge-in-complaints-and-seven-recommendations-to-the-canada-revenue-agency-for-service-im.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Taxpayers’ Ombudsperson’s 2025–2026 annual report highlights surge in complaints and seven recommendations to the Canada Revenue Agency for service improvement",
-      "sum": "OTTAWA, June 16, 2026 - Canada’s Taxpayers’ Ombudsperson, Mr. François Boileau, has released his annual report, In Pursuit of Better Service: Taxpayers Deserve More, which was tabled Friday in the House of Commons by Mr. Ryan Turnbull, Parliamentary Secretary to the Minister of Finance and National Revenue and to the Secretary of State (Canada Revenue Agency and Financial Institutions).",
-      "cat": "Finance"
+      "title": "Taxpayers' Ombudsperson releases 2025-2026 annual report with CRA recommendations",
+      "sum": "Canada's Taxpayers' Ombudsperson released an annual report documenting an increase in complaints and providing seven recommendations to the Canada Revenue Agency for improving service. The report was tabled in the House of Commons on June 16, 2026.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "ef3822ea1217703e",
@@ -31320,9 +31778,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Competition Bureau’s work in the food sector",
-      "sum": "The food sector is a top priority for the Bureau. In the last decade, the Bureau worked on several public cases in the food sector, from investigations to protect against anti-competitive behaviour and mergers to promoting the role of competition to policymakers.",
-      "cat": "Innovation, science & industry"
+      "title": "Competition Bureau prioritizes food sector investigations and enforcement",
+      "sum": "The Competition Bureau has made the food sector a priority over the past decade, conducting investigations into anti-competitive behaviour and mergers while advising policymakers on competition's role in the sector.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "dce7bc83a1357c14",
@@ -31332,9 +31791,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Competition Bureau to examine competition across Canada’s food supply chain",
-      "sum": "Today, the Competition Bureau announced an examination of competition across Canada’s food supply chain.",
-      "cat": "Innovation, science & industry"
+      "title": "Competition Bureau examines food supply chain competition",
+      "sum": "The Competition Bureau announced it will examine how competition functions across Canada's food supply chain. This examination will review competitive conditions in the sector.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "eee7616b584a0f30",
@@ -31344,33 +31804,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada advances African swine fever preparedness with new zoning arrangement with Japan",
-      "sum": "The Honourable Heath MacDonald, Minister of Agriculture and Agri-Food is pleased to announce the Government of Canada has successfully established an African swine fever (ASF) zoning arrangement with Japan.",
-      "cat": "Culture & heritage"
+      "title": "Canada establishes African swine fever zoning arrangement with Japan",
+      "sum": "Canada and Japan have agreed to a zoning arrangement to manage African swine fever preparedness. The arrangement was announced by the Minister of Agriculture and Agri-Food.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "300fd4dec3f0752c",
       "date": "2026-06-16",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/department-justice/news/2026/06/minister-of-justice-and-attorney-general-of-canada-announces-a-judicial-appointment-in-the-province-of-saskatchewan.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Minister of Justice and Attorney General of Canada announces a judicial appointment in the province of Saskatchewan",
-      "sum": "The Honourable Sean Fraser, Minister of Justice and Attorney General of Canada and Minister responsible for the Atlantic Canada Opportunities Agency, today announced the following appointment under the judicial application process established in 2016.",
-      "cat": "Justice"
+      "title": "Federal government appoints judge in Saskatchewan",
+      "sum": "The Minister of Justice and Attorney General of Canada announced a judicial appointment in Saskatchewan. The appointment was made through the judicial application process established in 2016.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "fff8d6efc737ddc8",
       "date": "2026-06-16",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/department-national-defence/news/2026/06/royal-canadian-navy-welcomes-new-commander.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Royal Canadian Navy welcomes new Commander",
-      "sum": "Vice-Admiral Dan Charlebois assumed command of the Royal Canadian Navy (RCN) from Vice-Admiral Angus Topshee this morning during a formal change of command ceremony, presided over by General Jennie Carignan, Chief of the Defence Staff, at His Majesty’s Canadian Ship Star in Hamilton, Ontario.",
-      "cat": "National defence"
+      "title": "Vice-Admiral Dan Charlebois becomes new Royal Canadian Navy Commander",
+      "sum": "Vice-Admiral Dan Charlebois took command of the Royal Canadian Navy on June 14, 2024, replacing Vice-Admiral Angus Topshee. The change of command ceremony took place at HMCS Star in Hamilton, Ontario.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "5d44844f2ebae250",
@@ -31380,9 +31843,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Atlantic Canadian companies dive into new markets at Aquaculture UK",
-      "sum": "Businesses will travel to Glasgow, Scotland, to take part in Aquaculture UK, where they will promote their products and services, connect with potential buyers and partners, and pursue new opportunities in the European aquaculture market. Firms will also be part of a coordinated Atlantic Canadian pavilion, and take advantage of targeted marketing and networking activities.",
-      "cat": "Economy"
+      "title": "Atlantic Canadian aquaculture companies promote products at UK trade show",
+      "sum": "Atlantic Canadian aquaculture businesses will participate in Aquaculture UK in Glasgow, Scotland to market their products and services to European buyers and partners. Companies will exhibit together in a coordinated Atlantic Canadian pavilion with support for marketing and networking activities.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "aabb60b64825bdbd",
@@ -31392,33 +31856,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Atlantic Canadian companies and organizations participating in Aquaculture UK 2026",
-      "sum": "Atlantic Canadian companies and organizations participating in Aquaculture UK 2026",
-      "cat": "Culture & heritage"
+      "title": "Atlantic Canadian aquaculture companies to participate in UK event",
+      "sum": "Atlantic Canadian companies and organizations will participate in Aquaculture UK 2026. The event provides an opportunity for Canadian aquaculture sector representatives to engage internationally.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "8fe153a64d9edf13",
       "date": "2026-06-16",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/06/building-canada-strong-by-investing-in-sewer-infrastructure-in-the-district-of-saanich.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Building Canada strong by investing in sewer infrastructure in the District of Saanich",
-      "sum": "Building a strong Canada starts with investing in the infrastructure that support more housing and create stronger communities.",
-      "cat": "Housing"
+      "title": "Federal investment in sewer infrastructure for Saanich District",
+      "sum": "The federal government is investing in sewer infrastructure in the District of Saanich. This funding is intended to support housing development and strengthen communities.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "1b9e2ac4c6f2fce8",
       "date": "2026-06-16",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/department-justice/news/2026/06/canadas-sweeping-bail-and-sentencing-reforms-become-law.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "en",
-      "title": "Canada’s sweeping bail and sentencing reforms become law",
-      "sum": "“Canada’s new government promised stricter bail laws and tougher sentencing laws. Today, that promise is now law,” said the Honourable Sean Fraser, Minister of Justice and Attorney General of Canada.",
-      "cat": "Justice"
+      "title": "Canada enacts bail and sentencing law reforms",
+      "sum": "Canada has passed legislation implementing stricter bail requirements and tougher sentencing provisions. The Justice Minister confirmed these reforms are now in effect.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "50bad49dfd04ed2c",
@@ -31428,9 +31895,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "CBSA investigation results in the seizure of 22 illegal firearms, 8 suppressors, and illegal drugs in Sooke, B.C.",
-      "sum": "CBSA investigation results in the seizure of 22 illegal firearms, 8 suppressors, and illegal drugs in Sooke, B.C.",
-      "cat": "Healthcare"
+      "title": "CBSA seizes 22 illegal firearms and drugs in British Columbia",
+      "sum": "The Canada Border Services Agency conducted an investigation that resulted in the seizure of 22 illegal firearms, 8 suppressors, and illegal drugs in Sooke, British Columbia.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "1eeb9412c433627f",
@@ -31440,21 +31908,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Top research communicators named at 2026 SSHRC Storytellers Challenge",
-      "sum": "The Social Sciences and Humanities Research Council of Canada (SSHRC) today announced the winners of the 2026 Storytellers Challenge, during a special showcase at the Science Writers and Communicators of Canada (SWCC) conference.",
-      "cat": "Innovation, science & industry"
+      "title": "SSHRC announces 2026 Storytellers Challenge winners",
+      "sum": "The Social Sciences and Humanities Research Council of Canada announced winners of its 2026 Storytellers Challenge at a conference hosted by Science Writers and Communicators of Canada. The challenge recognizes researchers for communicating their work to the public.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "688cfd4fcc2f2784",
       "date": "2026-06-16",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/health-canada/news/2026/06/government-of-canada-announces-new-appointments-to-the-patented-medicine-prices-review-board.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada announces new appointments to the Patented Medicine Prices Review Board",
-      "sum": "Today, the Honourable Marjorie Michel, Minister of Health, announced the appointment of Peter Moreland-Giraldeau as the new Vice-Chairperson and Conor McCourt as a member of the Board to the Patented Medicine Prices Review Board (PMPRB).",
-      "cat": "Healthcare"
+      "title": "New appointments made to Patented Medicine Prices Review Board",
+      "sum": "The Minister of Health announced two new appointments to the Patented Medicine Prices Review Board: Peter Moreland-Giraldeau as Vice-Chairperson and Conor McCourt as a member. The PMPRB reviews the prices of patented medicines in Canada.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "56555994024a64ca",
@@ -31464,9 +31934,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Steven Harroun to the Standing Committee on Industry and Technology",
-      "sum": "CRTC Vice President of Compliance and Enforcement Steven Harroun speaks to the Standing Committee on Industry and Technology concerning its study of financial fraud and scams in Canada.",
-      "cat": "Public safety"
+      "title": "CRTC official addresses parliament on financial fraud and scams",
+      "sum": "Steven Harroun, Vice President of Compliance and Enforcement at the Canadian Radio-television and Telecommunications Commission, provided testimony to a parliamentary committee studying financial fraud and scams affecting Canadians.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "925743331760f703",
@@ -31476,9 +31947,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Expansion of the Dutch elm disease regulated areas into British Columbia and Saskatchewan",
-      "sum": "The Canadian Food Inspection Agency (CFIA) has updated its regulated areas for Dutch elm disease (DED) to include an area in south-central British Columbia (BC) and the entire Province of Saskatchewan (SK).",
-      "cat": "Economy"
+      "title": "Dutch elm disease regulated areas expanded in BC and Saskatchewan",
+      "sum": "The Canadian Food Inspection Agency has expanded the areas where Dutch elm disease is regulated to include part of south-central British Columbia and all of Saskatchewan. This affects how elm trees and related materials are managed in these regions.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "bf79c2baab0e39d9",
@@ -31488,9 +31960,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizures of contraband and unauthorized items at Saskatchewan Penitentiary",
-      "sum": "On June 5, 9 and 11, 2026, as a result of the vigilance of staff members, packages containing contraband and unauthorized items were seized at Saskatchewan Penitentiary.",
-      "cat": "Innovation, science & industry"
+      "title": "Contraband seized at Saskatchewan Penitentiary",
+      "sum": "Staff at Saskatchewan Penitentiary seized packages containing contraband and unauthorized items on three dates in June 2026. The seizures occurred as a result of staff vigilance.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "0369f1a34bd140eb",
@@ -31500,9 +31973,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Fraser sera disponible pour répondre aux questions des médias après la sanction royale de la Loi sur des mesures de réforme concernant la mise en liberté sous caution et la détermination de la peine (projet de loi C-14)",
-      "sum": "Nous invitons les membres des médias à se joindre à l’honorable Sean Fraser, ministre de la Justice et procureur général du Canada, qui s’adressera aux médias après la sanction royale de la Loi sur des mesures de réforme concernant la mise en liberté sous caution et la détermination de la peine (projet de loi C-14), dont les 80 modifications ciblées apportées au Code criminel concernant la mise en liberté sous…",
-      "cat": "Foreign affairs"
+      "title": "Ministre Fraser commente la loi sur la mise en liberté sous caution",
+      "sum": "Le ministre de la Justice Sean Fraser répondra aux questions des médias suite à la sanction royale du projet de loi C-14, qui apporte 80 modifications au Code criminel concernant la mise en liberté sous caution et la détermination de la peine.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "830ca9a484170f1d",
@@ -31512,9 +31986,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information: Vision fédérale du Programme national d’alimentation scolaire",
-      "sum": "Vision fédérale du Programme national d’alimentation scolaire",
-      "cat": "Innovation, science & industry"
+      "title": "Government outlines national school food program vision",
+      "sum": "Le gouvernement fédéral a présenté sa vision pour un programme national d'alimentation scolaire. Ce document décrit les orientations et objectifs du gouvernement concernant l'alimentation dans les écoles.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "820c9761c2ea472e",
@@ -31524,21 +31999,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Programme national d’alimentation scolaire prend forme partout au Canada",
-      "sum": "Le Programme national d’alimentation scolaire prend forme partout au Canada",
-      "cat": "Innovation, science & industry"
+      "title": "Programme national d'alimentation scolaire mis en place au Canada",
+      "sum": "Le gouvernement fédéral met en œuvre un programme national d'alimentation scolaire dans les écoles canadiennes. Ce programme vise à fournir des repas aux élèves à l'échelle du pays.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "abb8f039cc8e2015",
       "date": "2026-06-16",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ombudsman-contribuables/nouvelles/2026/06/le-rapport-annuel-2025-2026-de-lombudsman-des-contribuables-fait-etat-dune-hausse-du-nombre-de-plaintes-et-propose-sept-recommandations-a-lagence-d.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Le rapport annuel 2025-2026 de l’ombudsman des contribuables fait état d’une hausse du nombre de plaintes et propose sept recommandations à l’Agence du revenu du Canada pour l’amélioration des services",
-      "sum": "OTTAWA, le 16 juin 2026 – L’ombudsman des contribuables du Canada, Me François Boileau, a publié son rapport annuel intitulé En quête d’un meilleur service : les contribuables s’attendent à plus, qui a été déposé vendredi à la Chambre des communes par M. Ryan Turnbull, secrétaire parlementaire du ministre des Finances et du Revenu national ainsi que du secrétaire d’État (Agence du revenu du Canada et institutions…",
-      "cat": "Natural resources"
+      "title": "Ombudsman des contribuables publie rapport annuel avec recommandations",
+      "sum": "L'ombudsman des contribuables a publié son rapport annuel 2025-2026, signalant une augmentation des plaintes reçues. Le rapport contient sept recommandations adressées à l'Agence du revenu du Canada pour améliorer ses services aux contribuables.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "7424c8eee9aa1bea",
@@ -31548,9 +32025,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le travail du Bureau de la concurrence dans le secteur alimentaire",
-      "sum": "Le secteur alimentaire est une priorité absolue pour le Bureau. Au cours de la dernière décennie, le Bureau a travaillé sur plusieurs dossiers publics dans le secteur alimentaire, allant des enquêtes pour empêcher les fusions et les comportements anticoncurrentiels à la promotion du rôle de la concurrence auprès des décideurs politiques.",
-      "cat": "Innovation, science & industry"
+      "title": "Bureau de la concurrence prioritise le secteur alimentaire",
+      "sum": "Le Bureau de la concurrence a mené plusieurs enquêtes et actions dans le secteur alimentaire au cours de la dernière décennie. Ces efforts visent à prévenir les fusions problématiques et les comportements anticoncurrentiels, tout en promouvant la concurrence auprès des décideurs.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ccbf9d0b266fea32",
@@ -31560,45 +32038,49 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Bureau de la concurrence examinera la concurrence dans toute la chaîne d’approvisionnement alimentaire au Canada",
-      "sum": "Aujourd’hui, le Bureau de la concurrence a annoncé le lancement d’un examen de la concurrence dans l’ensemble de la chaîne d’approvisionnement alimentaire au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Bureau de la concurrence examine la chaîne alimentaire",
+      "sum": "Le Bureau de la concurrence lance un examen de la concurrence dans l'ensemble de la chaîne d'approvisionnement alimentaire canadienne. Cet examen couvrira tous les secteurs impliqués dans la production et la distribution des aliments au Canada.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "96a1292af0b416ed",
       "date": "2026-06-16",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/agence-inspection-aliments/nouvelles/2026/06/le-canada-renforce-sa-preparation-a-la-peste-porcine-africaine-grace-a-une-entente-de-zonage-avec-le-japon.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada renforce sa préparation à la peste porcine africaine grâce à une entente de zonage avec le Japon",
-      "sum": "L’honorable Heat MacDonald, ministre de l’Agriculture et de l’Agroalimentaire, est heureux d’annoncer que le gouvernement du Canada a conclu une entente de zonage avec le Japon concernant la peste porcine africaine (PPA).",
-      "cat": "Innovation, science & industry"
+      "title": "Canada conclut entente de zonage avec le Japon sur la peste porcine africaine",
+      "sum": "Le Canada a signé une entente de zonage avec le Japon concernant la peste porcine africaine. Cette entente vise à renforcer la préparation du Canada face à cette maladie.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "350e6caa94a33975",
       "date": "2026-06-16",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/06/le-ministre-de-la-justice-et-procureur-general-du-canada-annonce-une-nomination-a-la-magistrature-de-la-saskatchewan.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre de la Justice et procureur général du Canada annonce une nomination à la magistrature de la Saskatchewan",
-      "sum": "L’honorable Sean Fraser, ministre de la Justice et procureur général du Canada et ministre responsable de l’Agence de promotion économique du Canada atlantique, a annoncé aujourd’hui la nomination suivante dans le cadre du processus de nomination à la magistrature mis en place en 2016.",
-      "cat": "Justice"
+      "title": "Nomination à la magistrature annoncée pour la Saskatchewan",
+      "sum": "Le ministre de la Justice annonce une nouvelle nomination judiciaire en Saskatchewan. Cette nomination s'inscrit dans le processus de sélection des juges établi en 2016.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "c30bb5921b0e5def",
       "date": "2026-06-16",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/06/la-marine-royale-canadienne-accueille-un-nouveau-commandant0.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "La Marine royale canadienne accueille un nouveau commandant",
-      "sum": "Le Vice-amiral Dan Charlebois a assumé le commandement de la Marine royale canadienne (MRC) après le Vice-amiral Angus Topshee ce matin, lors d’une cérémonie officielle de passation de commandement présidée par la Générale Jennie Carignan, chef d’état-major de la défense, au Navire canadien de Sa Majesté Star, à Hamilton, en Ontario.",
-      "cat": "Economy"
+      "title": "Nouveau commandant nommé à la Marine royale canadienne",
+      "sum": "Le Vice-amiral Dan Charlebois a pris le commandement de la Marine royale canadienne, succédant au Vice-amiral Angus Topshee. La cérémonie officielle de passation de commandement s'est déroulée à bord du NCSM Star à Hamilton, en Ontario.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "04c601b4f47cfe90",
@@ -31608,9 +32090,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des entreprises du Canada atlantique s’aventurent sur de nouveaux marchés au congrès d’Aquaculture UK",
-      "sum": "Les entreprises se rendront à Glasgow, en Écosse, pour participer à Aquaculture UK, où elles feront la promotion de leurs produits et services, échangeront avec des acheteurs et partenaires potentiels, et saisiront de nouvelles occasions sur le marché européen de l’aquaculture. Les entreprises feront également partie d’un pavillon coordonné du Canada atlantique et profiteront d’activités ciblées de marketing et de…",
-      "cat": "Innovation, science & industry"
+      "title": "Entreprises canadiennes atlantiques explorent marchés européens aquacoles",
+      "sum": "Des entreprises du Canada atlantique participent au congrès Aquaculture UK à Glasgow pour promouvoir leurs produits et services auprès d'acheteurs européens. Elles bénéficient d'un pavillon coordonné et d'activités de marketing pour développer leurs opportunités commerciales.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "8e55e0d225b7313b",
@@ -31620,9 +32103,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Entreprises et organismes du Canada atlantique participant à Aquaculture UK 2026",
-      "sum": "Entreprises et organismes du Canada atlantique participant à Aquaculture UK 2026",
-      "cat": "Culture & heritage"
+      "title": "Entreprises canadiennes de l'Atlantique participent à Aquaculture UK 2026",
+      "sum": "Des entreprises et organismes du Canada atlantique participeront à la conférence Aquaculture UK 2026. Cet événement international permet aux acteurs de l'aquaculture canadienne de présenter leurs activités et d'établir des contacts.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "e4d7edf2957b78d4",
@@ -31632,21 +32116,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Bâtir un Canada fort en investissant dans les infrastructures d’assainissement du district de Saanich",
-      "sum": "Pour bâtir un Canada fort, il faut d’abord investir dans des infrastructures qui permettent de bâtir des logements et de renforcer les collectivités.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit dans les infrastructures d'assainissement de Saanich",
+      "sum": "Le gouvernement fédéral annonce un investissement dans les infrastructures d'assainissement du district de Saanich pour soutenir la construction de logements et le renforcement des collectivités.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "98502754885e1a1c",
       "date": "2026-06-16",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/06/les-grandes-reformes-canadiennes-en-matiere-de-mise-en-liberte-sous-caution-et-de-determination-de-la-peine-ont-force-de-loi.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Les grandes réformes canadiennes en matière de mise en liberté sous caution et de détermination de la peine ont force de loi",
-      "sum": "« Le nouveau gouvernement du Canada avait promis de renforcer les lois sur la mise en liberté sous caution et sur la détermination de la peine. Aujourd’hui, cette promesse devient loi », a déclaré l’honorable Sean Fraser, ministre de la Justice et procureur général du Canada.",
-      "cat": "Justice"
+      "title": "Réformes canadiennes sur la mise en liberté sous caution adoptées",
+      "sum": "Le Canada a adopté de nouvelles lois renforçant les règles de mise en liberté sous caution et de détermination de la peine. Le ministre de la Justice a confirmé que cette réforme promise par le gouvernement est maintenant en vigueur.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "6938e3df23e1373a",
@@ -31656,9 +32142,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L'ASFC mène une enquête qui conduit à la saisie de 22 armes à feu illégales, 8 silencieux et de drogues illégales à Sooke, en Colombie-Britannique.",
-      "sum": "L'ASFC mène une enquête qui conduit à la saisie de 22 armes à feu illégales, 8 silencieux et de drogues illégales à Sooke, en Colombie-Britannique.",
-      "cat": "Innovation, science & industry"
+      "title": "L'ASFC saisit des armes illégales et drogues en Colombie-Britannique",
+      "sum": "L'Agence des services frontaliers du Canada a mené une enquête qui a résulté à la saisie de 22 armes à feu illégales, 8 silencieux et de drogues illégales à Sooke, en Colombie-Britannique.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "e523ca83cc0687aa",
@@ -31668,21 +32155,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Concours J’ai une histoire à raconter 2026 du CRSH : l’élite de la communication scientifique à l’honneur",
-      "sum": "Le Conseil de recherches en sciences humaines (CRSH) a dévoilé aujourd’hui les gagnantes du concours J’ai une histoire à raconter 2026, à l’occasion d’un événement spécial organisé lors de la conférence de Science Writers and Communicators of Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "CRSH annonce gagnantes du concours J'ai une histoire à raconter 2026",
+      "sum": "Le Conseil de recherches en sciences humaines a dévoilé les gagnantes de son concours 2026 de communication scientifique lors d'un événement spécial. Ce concours reconnaît l'excellence dans la communication des recherches en sciences humaines.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "345b7d1e792bdefb",
       "date": "2026-06-16",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/sante-canada/nouvelles/2026/06/le-gouvernement-du-canada-annonce-de-nouvelles-nominations-au-conseil-dexamen-du-prix-des-medicaments-brevetes.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce de nouvelles nominations au Conseil d’examen du prix des médicaments brevetés",
-      "sum": "Aujourd’hui, l’honorable Marjorie Michel, ministre de la Santé, a annoncé la nomination de Peter Moreland-Giraldeau au poste de vice-président et de Conor McCourt à celui de membre du Conseil d’examen du prix des médicaments brevetés (CEPMB).",
-      "cat": "Justice"
+      "title": "Nominations au Conseil d'examen du prix des médicaments brevetés",
+      "sum": "Le gouvernement du Canada a annoncé la nomination de Peter Moreland-Giraldeau comme vice-président et de Conor McCourt comme membre du Conseil d'examen du prix des médicaments brevetés.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "5b8caf51b4efebb4",
@@ -31692,21 +32181,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Steven Harroun au Comité permanent de l’industrie et de la technologie",
-      "sum": "Steven Harroun, Dirigeant principal de la conformité et enquêtes au CRTC, s'adresse au Comité permanent de l'industrie et de la technologie dans le cadre de son étude sur les fraudes financières et les escroqueries au Canada.",
-      "cat": "Public safety"
+      "title": "Steven Harroun témoigne au Comité sur les fraudes financières",
+      "sum": "Steven Harroun, dirigeant principal de la conformité et enquêtes au CRTC, a comparu devant le Comité permanent de l'industrie et de la technologie. Son témoignage s'inscrit dans l'étude du comité sur les fraudes financières et les escroqueries au Canada.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "3a06a2c6cf6285a8",
       "date": "2026-06-16",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/agence-inspection-aliments/nouvelles/2026/06/elargissement-des-zones-reglementees-pour-la-maladie-hollandaise-de-lorme-en-colombie-britannique-et-en-saskatchewan.html",
-      "type": "Announcement",
+      "type": "Regulation",
       "kind": "official",
       "lang": "fr",
-      "title": "Élargissement des zones réglementées pour la maladie hollandaise de l’orme en Colombie-Britannique et en Saskatchewan",
-      "sum": "L’Agence canadienne d’inspection des aliments (ACIA) a mis à jour les zones réglementées à l’égard de la maladie hollandaise de l’orme afin d’y inclure une zone du centre-sud de la Colombie-Britannique et l’ensemble de la province de la Saskatchewan.",
-      "cat": "Innovation, science & industry"
+      "title": "Élargissement des zones réglementées pour la maladie hollandaise de l'orme",
+      "sum": "L'Agence canadienne d'inspection des aliments a étendu les zones réglementées concernant la maladie hollandaise de l'orme en Colombie-Britannique et en Saskatchewan. Cette mise à jour inclut une nouvelle zone au centre-sud de la Colombie-Britannique et toute la province de la Saskatchewan.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "1b692818215d31b7",
@@ -31716,45 +32207,49 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisies d’objets interdits et non autorisés au Pénitencier de la Saskatchewan",
-      "sum": "Le 5, 9 et 11 juin 2026, grâce à la vigilance du personnel, des colis contenant des objets interdits et non autorisés ont été saisis au Pénitencier de la Saskatchewan.",
-      "cat": "Housing"
+      "title": "Saisie d'objets interdits au Pénitencier de la Saskatchewan",
+      "sum": "Du personnel du Pénitencier de la Saskatchewan a saisi des colis contenant des objets interdits et non autorisés les 5, 9 et 11 juin 2026.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "fe1d17c020cced11",
       "date": "2026-06-16",
       "src": "Sécurité publique Canada (SP)",
       "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/06/le-gouvernement-du-canada-renforce-la-cybersecurite-et-les-infrastructures-essentielles-grace-a-la-sanction-royale-du-projet-de-loi-c-8.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada renforce la cybersécurité et les infrastructures essentielles grâce à la sanction royale du projet de loi C-8",
-      "sum": "Le gouvernement du Canada est déterminé à protéger l’infrastructure essentielle et les systèmes numériques sur lesquels comptent les Canadiens et les Canadiennes.",
-      "cat": "Foreign affairs"
+      "title": "Loi C-8 sanctionnée pour renforcer la cybersécurité canadienne",
+      "sum": "Le projet de loi C-8 a reçu la sanction royale et vise à protéger les infrastructures essentielles et les systèmes numériques du Canada. Cette mesure s'inscrit dans les efforts du gouvernement pour améliorer la cybersécurité du pays.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "5e2ed76102c0204d",
       "date": "2026-06-16",
       "src": "Services aux Autochtones Canada (SAC)",
       "url": "https://www.canada.ca/fr/services-autochtones-canada/nouvelles/2026/06/la-ministre-gull-masty-presente-un-projet-de-loi-visant-a-soutenir-lacces-a-leau-potable-propre-dans-les-communautes-des-premieres-nations-et-annon.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Gull-Masty présente un projet de loi visant à soutenir l'accès à l'eau potable propre dans les communautés des Premières Nations et annonce un engagement en matière de financement sans précédent",
-      "sum": "Tout le monde au Canada devrait avoir accès à une eau potable propre et salubre. Les Premières Nations réclament depuis longtemps une loi qui affirme leurs droits inhérents, établit des normes minimales pour les services d’approvisionnement en eau, reconnaît leur rôle de gardiens dans la préservation de la salubrité de l’eau et répond à leurs besoins. Une législation efficace, un cadre réglementaire national et des…",
-      "cat": "Innovation, science & industry"
+      "title": "Projet de loi sur l'eau potable dans les communautés des Premières Nations",
+      "sum": "La ministre Gull-Masty présente un projet de loi pour améliorer l'accès à l'eau potable propre dans les communautés des Premières Nations. Le gouvernement annonce également un nouveau financement pour soutenir cette initiative.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "7c04bd55c6fb64c0",
       "date": "2026-06-16",
       "src": "Services aux Autochtones Canada (SAC)",
       "url": "https://www.canada.ca/fr/services-autochtones-canada/nouvelles/2026/06/projet-de-loi-c-37--loi-sur-leau-propre-des-premieres-nations.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Projet de loi C-37 : Loi sur l'eau potable des Premières Nations",
-      "sum": "Le projet de loi C-37, la proposition de Loi sur l'eau potable des Premières Nations, témoigne de l'engagement du gouvernement du Canada à répondre aux priorités et aux préoccupations soulevées par les Premières Nations, aujourd'hui comme à l'avenir.",
-      "cat": "Economy"
+      "title": "Projet de loi sur l'eau potable des Premières Nations présenté",
+      "sum": "Le gouvernement du Canada propose le projet de loi C-37, qui vise à légiférer sur l'accès à l'eau potable pour les Premières Nations. Ce projet répond aux priorités et préoccupations identifiées par les communautés autochtones.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "e1da010f0bc24c23",
@@ -31944,12 +32439,13 @@
       "date": "2026-06-15",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/public-health/news/2026/06/statement-from-the-council-of-chief-medical-officers-of-health-latest-national-data-on-substance-related-harms.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Statement from the Council of Chief Medical Officers of Health – Latest National Data on Substance-Related Harms",
-      "sum": "Across Canada, deaths and harms from the illegal drug crisis continue to remain higher than pre-COVID-19 pandemic levels and today’s data release provides the most recent picture of substance-related deaths and harms in 2025.",
-      "cat": "Healthcare"
+      "title": "Council of Chief Medical Officers releases 2025 substance-related harms data",
+      "sum": "Canada's chief medical officers released updated national data on deaths and harms from illegal drugs in 2025. The data shows that substance-related deaths and harms remain elevated compared to pre-pandemic levels.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "d576271d3d3b2846",
@@ -31959,21 +32455,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Hajdu, Minister Michel and Secretary of State McLean mark World Elder Abuse Awareness Day",
-      "sum": "The Honourable Patty Hajdu, Minister of Jobs and Families and Minister responsible for the Federal Economic Development Agency for Northern Ontario, the Honourable Marjorie Michel, Minister of Health, and the Honourable Stephanie McLean, Secretary of State (Seniors), issued the following statement on World Elder Abuse Awareness Day.",
-      "cat": "Healthcare"
+      "title": "Government marks World Elder Abuse Awareness Day",
+      "sum": "Three federal ministers issued a statement on World Elder Abuse Awareness Day. The statement was released by the Minister of Jobs and Families, Minister of Health, and Secretary of State for Seniors.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "37dba72dc105f150",
       "date": "2026-06-15",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/06/government-of-canada-supports-sport-tech-innovation-and-entrepreneurship-in-southern-ontario.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada supports sport-tech innovation and entrepreneurship in southern Ontario",
-      "sum": "FedDev Ontario invests $1.3 million to help scale Canadian startups and leverage economic opportunities.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada invests $1.3 million in Ontario sport-tech startups",
+      "sum": "FedDev Ontario is providing $1.3 million in funding to support sport-technology startups in southern Ontario. The investment aims to help these companies grow and create economic opportunities in the region.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "8e4d09ba99c0ee72",
@@ -31983,9 +32481,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Speech at the Canadian Institute's 25th Annual Canadian Forum on Anti-Money Laundering and Financial Crime by Deputy Commissioner of Supervision and Enforcement Frank Lofranco",
-      "sum": "Speech at the Canadian Institute's 25th Annual Canadian Forum on Anti-Money Laundering and Financial Crime by Deputy Commissioner of Supervision and Enforcement Frank Lofranco, on June 10, 2026, in Toronto, Ontario.",
-      "cat": "Public safety"
+      "title": "Deputy Commissioner addresses anti-money laundering forum",
+      "sum": "The Deputy Commissioner of Supervision and Enforcement delivered remarks at the Canadian Institute's annual forum on anti-money laundering and financial crime on June 10, 2026, in Toronto.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "2863983eea070d03",
@@ -31995,9 +32494,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Targeted initiatives to respond to the illegal drug crisis",
-      "sum": "Throughout 2025-26, the federal government took targeted action and continued to support individuals, families and communities. Alongside, the federal government works with all levels of government and key partners to respond to the illegal drug crisis through targeted measures in prevention, harm reduction, treatment, recovery initiatives, and combatting organized drug crime.",
-      "cat": "Healthcare"
+      "title": "Federal government launches targeted drug crisis response initiatives",
+      "sum": "The federal government is implementing targeted measures throughout 2025-26 to address the illegal drug crisis, including prevention, harm reduction, treatment, and recovery programs. These efforts involve coordination with provincial and territorial governments and key partners to combat organized drug crime.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "025584ca7e6a7254",
@@ -32007,9 +32507,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "National overdose deaths decline and federal response expands",
-      "sum": "The toxic drug crisis continues to have devastating impacts on individuals, families, and communities across the country. While decreases in deaths and harms are encouraging, as highlighted in the latest national data on substance-related harms released earlier today, deaths remain higher than a decade ago and regional trends remain different across the country.",
-      "cat": "Healthcare"
+      "title": "Federal government reports decline in national overdose deaths",
+      "sum": "National data shows overdose deaths have decreased, though they remain higher than ten years ago and vary by region. The federal government continues responding to the ongoing toxic drug crisis affecting communities across Canada.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "60e4fee1924ddce3",
@@ -32019,9 +32520,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Secretary of State Gainey to make an announcement on the National School Food Program",
-      "sum": "The Honourable Anna Gainey, Secretary of State (Children and Youth), will be in Ottawa to highlight federal support for provinces and territories as they work to enhance and expand school food programs across Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Secretary of State announces federal support for school food programs",
+      "sum": "Secretary of State Anna Gainey will announce federal support to help provinces and territories expand school food programs across Canada.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "20ee6195bd5092fc",
@@ -32031,9 +32533,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Atlantic Canadian companies to explore new markets through June trade missions",
-      "sum": "Canadian businesses are navigating a rapidly changing global economy, and expanding into new markets is becoming more important than ever.",
-      "cat": "Economy"
+      "title": "Atlantic Canadian companies participate in June trade missions",
+      "sum": "The federal government is organizing trade missions in June for Atlantic Canadian companies to explore and access new international markets. This initiative aims to support businesses in expanding their operations globally.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ee042c5285261144",
@@ -32043,21 +32546,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Vicky Eatrides to the Banff World Media Festival",
-      "sum": "Vicky Eatrides speaks to the Banff World Media Festival to provide an update on ongoing work to modernize Canada’s broadcasting frameworks.",
-      "cat": "Transportation"
+      "title": "Official addresses Banff World Media Festival on broadcasting modernization",
+      "sum": "Vicky Eatrides spoke at the Banff World Media Festival to provide an update on efforts to modernize Canada's broadcasting frameworks.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "2394774953537d43",
       "date": "2026-06-15",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/06/federal-and-provincial-government-investment-of-more-than-200-million-for-phase-ii-of-the-university-of-montreal-science-complex-canada-and-quebec-.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Federal and provincial government investment of more than $200 million for Phase II of the University of Montreal Science Complex: Canada and Quebec at the forefront of advanced materials, computing and artificial intelligence",
-      "sum": "The Honourable Rachel Bendayan, Parliamentary Secretary to the Prime Minister and Member of Parliament for Outremont, Caroline Desrochers, Parliamentary Secretary to the Minister of Housing and Infrastructure, as well as Martine Biron, Minister of Higher Education and Minister responsible for the Status of Women and Eric Girard, Minister of Government Digital Transformation, Public Works and Procurement, Minister of…",
-      "cat": "Education"
+      "title": "Federal and provincial investment in Montreal university science complex",
+      "sum": "The federal and Quebec governments are investing over $200 million in Phase II of the University of Montreal Science Complex to support research in advanced materials, computing, and artificial intelligence.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "fc0fdbaf08881913",
@@ -32067,9 +32572,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister McGuinty to participate in NATO Defence Ministers’ Meeting",
-      "sum": "The Honourable David J. McGuinty, Minister of National Defence, will travel to Brussels on June 18 to participate in the 35th meeting of the Ukraine Defense Contact Group, hosted by Germany and the United Kingdom, and the North Atlantic Treaty Organization (NATO) Defence Ministers’ Meeting at NATO Headquarters.",
-      "cat": "National defence"
+      "title": "Defence Minister attends NATO and Ukraine Defence Contact Group meetings",
+      "sum": "Minister of National Defence David McGuinty will travel to Brussels on June 18 to participate in the 35th Ukraine Defense Contact Group meeting and a NATO Defence Ministers' Meeting at NATO Headquarters.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "02a0f98ea6dda3c9",
@@ -32079,9 +32585,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizure of contraband and unauthorized items at Stony Mountain Institution",
-      "sum": "On June 10 and 11, 2026, as a result of the vigilance of staff members, packages containing contraband and unauthorized items were seized at Stony Mountain Institution.",
-      "cat": "Innovation, science & industry"
+      "title": "Contraband seized at Stony Mountain Institution",
+      "sum": "Staff at Stony Mountain Institution seized packages containing contraband and unauthorized items on June 10 and 11, 2026.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "2abf6c4cde4cd708",
@@ -32091,21 +32598,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada rassemble les Canadiens et Canadiennes grâce à de grandes rencontres sportives d’envergure internationale",
-      "sum": "The Government of Canada is supporting a series of international sport events across the country this summer, bringing Canadians together and showcasing the strength and diversity of our communities.",
-      "cat": "Foreign affairs"
+      "title": "Canada soutient des événements sportifs internationaux cet été",
+      "sum": "Le gouvernement du Canada appuie une série d'événements sportifs internationaux se déroulant au pays cet été. Ces événements visent à rassembler les Canadiens et à mettre en avant la force et la diversité des communautés canadiennes.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "98e57121c5b3b7b1",
       "date": "2026-06-15",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/sante-publique/nouvelles/2026/06/declaration-du-conseil-des-medecins-hygienistes-en-chef-dernieres-donnees-nationales-sur-les-mefaits-lies-a-la-consommation-de-substances.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration du Conseil des médecins hygiénistes en chef – Dernières données nationales sur les méfaits liés à la consommation de substances",
-      "sum": "Partout au Canada, le nombre de décès et de méfaits liés à la crise des drogues illégales reste supérieur aux niveaux enregistrés avant la pandémie de COVID-19, et la publication des données d’aujourd’hui dresse un tableau actualisé des décès et des méfaits liés à la consommation de substances en 2025.",
-      "cat": "Innovation, science & industry"
+      "title": "Publication de données nationales sur les méfaits liés aux substances",
+      "sum": "Le Conseil des médecins hygiénistes en chef publie les dernières données nationales montrant que les décès et méfaits liés à la consommation de drogues illégales restent supérieurs aux niveaux d'avant la pandémie de COVID-19. Ces données actualisées couvrent l'année 2025.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "de12833b1304ac4e",
@@ -32115,9 +32624,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Hajdu, la ministre Michel et la secrétaire d’État McLean soulignent la Journée mondiale de sensibilisation à la maltraitance des personnes âgées",
-      "sum": "La ministre de l’Emploi et des Familles et ministre responsable de l’Agence fédérale de développement économique pour le Nord de l’Ontario, l’honorable Patty Hajdu, la ministre de la Santé, l’honorable Marjorie Michel, et la secrétaire d’État aux Aînés, l’honorable Stephanie McLean, ont publié la déclaration suivante à l’occasion de la Journée mondiale de sensibilisation à la maltraitance des personnes âgées.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministres soulignent la Journée mondiale de sensibilisation à la maltraitance des aînés",
+      "sum": "Les ministres de l'Emploi et des Familles, de la Santé et la secrétaire d'État aux Aînés ont publié une déclaration à l'occasion de la Journée mondiale de sensibilisation à la maltraitance des personnes âgées.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "af37d90a8e94eef8",
