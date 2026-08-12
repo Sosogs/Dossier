@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T19:05:39.533Z",
-  "count": 14166,
+  "generatedAt": "2026-08-12T02:06:03.260Z",
+  "count": 14172,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "fe30c42bacbc6033",
+      "date": "2026-08-11",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-coast-guard/news/2026/08/canadian-coast-guard-to-host-dedication-ceremony-for-new-search-and-rescue-lifeboat-the-ccgs-mira-bay.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canadian Coast Guard commissions new search and rescue lifeboat",
+      "sum": "The Canadian Coast Guard is holding a dedication ceremony at its academy in Sydney, Nova Scotia to officially bring a new Search and Rescue Lifeboat named CCGS Mira Bay into service. A Member of Parliament will participate in the official welcome ceremony.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "87e38661868d2798",
+      "date": "2026-08-11",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/garde-cotiere-canadienne/nouvelles/2026/08/la-garde-cotiere-canadienne-organise-une-ceremonie-dinauguration-pour-son-nouveau-bateau-de-recherche-et-sauvetage-le-ngcc-mira-bay.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Mise en service du nouveau bateau de sauvetage NGCC Mira Bay",
+      "sum": "La Garde côtière canadienne organise une cérémonie d'inauguration à Sydney, en Nouvelle-Écosse, pour mettre en service officiellement son nouveau bateau de recherche et sauvetage, le NGCC Mira Bay. Le secrétaire parlementaire du ministre des Transports présidera la cérémonie.",
+      "cat": "Transportation",
+      "ai": true
+    },
     {
       "id": "d260e8fd0127dfd2",
       "date": "2026-08-11",
@@ -1417,6 +1443,18 @@
       "cat": "Natural resources"
     },
     {
+      "id": "f9baa0114cfe3fcc",
+      "date": "2026-08-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGFYSTZ2eS10ZlNSb2dZcFBTMU5lUURCM3RDMHVra0ltdzRGUmVVLTkyLWlsXzRlS3lRMVMyS0pRT2l4SGxWNWY0RmNpNlpoMW40V3U3aHpXRkg1eTNqRmlnOEFWUnc4VzB2cmoxYzJvU3dJVndWaUVEZDBxTll0UXd6d2xfZ0lIV0lINHNQdUZpclNUTmotY2o2cnlva2I5MVlweWp2WkFCNXhVR1l3REV4d3VPMWw1?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Tenant advocates push back on Carney’s plan for thousands of Toronto rentals - CTV News",
+      "excerpt": "Tenant advocates push back on Carney’s plan for thousands of Toronto rentals CTV News",
+      "cat": "Housing"
+    },
+    {
       "id": "9be0477ca1f1e705",
       "date": "2026-08-09",
       "src": "Canadian politics (via Google News)",
@@ -1553,6 +1591,18 @@
       "cat": "Culture & heritage",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "12477a17971de086",
+      "date": "2026-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGF0TzY4ZWZKdzQ2NjFNRTJSZTAyUW1nbU0zMU9vdm5qNTB3NHNVUXpaNTlybi1qMEFuRk1lV0JJU1lmNXRMWDFXNmlMZWdkck5oTDVubTBtTlpWVlBobEJjYmJLTXVIZ2xsSTVYODNFNURvM3RWRWQ0YzVLVXkyajBRTnV4aVUyZ0xQTDlKaVFKdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ford writes Carney asking to extend gas and diesel excise tax holiday to Jan. 1 - Radio-Canada",
+      "excerpt": "Ford writes Carney asking to extend gas and diesel excise tax holiday to Jan. 1 Radio-Canada",
+      "cat": "Finance"
     },
     {
       "id": "97db1513f11192cd",
@@ -10257,6 +10307,18 @@
       "excerpt": "The Fraser Valley Regional District has ordered anyone remaining in Boston Bar, B.C., to leave immediately due to a new fire south of the community.",
       "cat": "Innovation, science & industry",
       "lang": "en"
+    },
+    {
+      "id": "e678f06588924926",
+      "date": "2026-07-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeXc3VWVZRXRuU0RRRXhQYmN3RUNsQW9UOW02aU43cVJwLUY5X25UZ1NkVGFUUGdrdHFTWk83REtDOU5SSkp3bDEzVURyeTJ4NjVyYnFxRGg5YlRKNUlvTWdqVURaTTQxc0FtZEdDLWo4UUhIMW1BV3QybG9PRmFFUWlJNWRyUUxadHI4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Mark Carney to make largest-ever investment in Canadian sports - Daily Hive",
+      "excerpt": "PM Mark Carney to make largest-ever investment in Canadian sports Daily Hive",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "aa496f47fb778554",
@@ -27118,12 +27180,13 @@
       "date": "2026-06-23",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/06/government-of-canada-supports-brampton-businesses-in-strengthening-resilience-adopting-ai-and-expanding-into-new-markets.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada supports Brampton businesses in strengthening resilience, adopting AI, and expanding into new markets",
-      "sum": "FedDev Ontario investment helps companies unlock new opportunities for growth.",
-      "cat": "Economy"
+      "title": "Government provides funding to Brampton businesses for growth and innovation",
+      "sum": "FedDev Ontario is providing investment support to businesses in Brampton to help them build resilience, adopt artificial intelligence technology, and expand into new markets. The funding is intended to create opportunities for business growth in the region.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "269b27c20640db83",
@@ -27133,21 +27196,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada to make an announcement on climate action related to health",
-      "sum": "Wade Grant, Parliamentary Secretary to the Minister of Environment and Climate Change, and Member of Parliament for Vancouver Quadra, on behalf of the Honourable Marjorie Michel, Minister of Health, will make an announcement related to climate action in Canada’s health sector.",
-      "cat": "Sustainable development"
+      "title": "Government announces climate action in health sector",
+      "sum": "Wade Grant, Parliamentary Secretary to the Minister of Environment and Climate Change, will make an announcement on behalf of the Minister of Health regarding climate action initiatives in Canada's health sector.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "75fef7173c127d01",
       "date": "2026-06-23",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-invests-in-cultural-infrastructure-to-enhance-immersive-learning-experiences-in-calgary.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada invests in cultural infrastructure to enhance immersive learning experiences in Calgary",
-      "sum": "Federal investment is powering the next generation of learning and discovery at TELUS Spark.",
-      "cat": "Infrastructure"
+      "title": "Canada invests in cultural infrastructure for Calgary learning",
+      "sum": "The federal government is providing funding to support cultural infrastructure at TELUS Spark in Calgary. The investment is intended to enhance immersive learning experiences and educational opportunities.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "4da51d60468b2134",
@@ -27157,9 +27222,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Electric buses entering service soon in Kelowna",
-      "sum": "People in the Kelowna Regional Transit System will soon be able to get to their destinations aboard an electric bus.",
-      "cat": "Transportation"
+      "title": "Electric buses to begin service in Kelowna transit system",
+      "sum": "Kelowna Regional Transit System will introduce electric buses to its fleet. The buses will provide transit service to residents in the Kelowna area.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "59034c33cc8e58fd",
@@ -27169,9 +27235,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada marks launch of modernized National Capital Region District Energy System",
-      "sum": "The Government of Canada is committed to reducing greenhouse gas emissions, leading by example to green its own operations.",
-      "cat": "Sustainable development"
+      "title": "Canada launches modernized National Capital Region District Energy System",
+      "sum": "The Government of Canada has launched an updated District Energy System in the National Capital Region. The system is designed to reduce greenhouse gas emissions from government operations.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "7a03eed3678c3621",
@@ -27181,9 +27248,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "CBSA seizes more than half a tonne of opium concealed in paper shipment",
-      "sum": "CBSA seizes more than half a tonne of opium concealed in paper",
-      "cat": "Economy"
+      "title": "CBSA seizes over 500 kilograms of opium in paper shipment",
+      "sum": "The Canada Border Services Agency intercepted more than half a tonne of opium that was concealed within a shipment of paper. The drugs were seized at the border.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "bcea58cbca39a834",
@@ -27193,21 +27261,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Joint Statement—Methane abatement in the energy sector as a pillar of energy security",
-      "sum": "Today, we are joining forces to restate our unwavering commitment to accelerating the abatement of methane emissions in the energy",
-      "cat": "Public safety"
+      "title": "Government commits to reducing methane emissions in energy sector",
+      "sum": "The government has issued a joint statement reaffirming its commitment to reducing methane emissions from energy production. The statement identifies methane abatement as part of a broader energy security strategy.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "2f631e1545095bf0",
       "date": "2026-06-23",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/global-affairs/news/2026/06/canada-ratifies-inter-american-convention-on-the-prevention-punishment-and-eradication-of-violence-against-women.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada ratifies Inter-American Convention on the Prevention, Punishment and Eradication of Violence against Women",
-      "sum": "Today at the General Assembly of the Organization of American States (OAS), the Honourable Anita Anand, Minister of Foreign Affairs, announced Canada’s ratification of the Inter-American Convention on the Prevention, Punishment, and Eradication of Violence against Women (the Belém do Pará Convention).",
-      "cat": "Foreign affairs"
+      "title": "Canada ratifies Inter-American Convention on Violence against Women",
+      "sum": "Canada has ratified the Inter-American Convention on the Prevention, Punishment, and Eradication of Violence against Women, also known as the Belém do Pará Convention. The ratification was announced by the Minister of Foreign Affairs at the Organization of American States General Assembly.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "3fd3cfb0fe7c2a02",
@@ -27217,9 +27287,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Federal government to make a significant announcement to advance nation-building infrastructure in Canada",
-      "sum": "The Minister of Transport and Leader of the Government in the House of Commons, the Honourable Steven MacKinnon, the Minister of Energy and Natural Resources of Canada, the Honourable Tim Hodgson, the Minister of Crown-Indigenous Relations, the Honourable Rebecca Alty, the Premier of the Northwest Territories, and the Honourable R.J. Simpson, will make a significant announcement to advance nation-building…",
-      "cat": "Transportation"
+      "title": "Federal government announces infrastructure advancement initiative",
+      "sum": "Federal ministers and territorial leadership will announce a significant infrastructure initiative. The announcement involves the Ministers of Transport, Energy and Natural Resources, and Crown-Indigenous Relations alongside Northwest Territories leadership.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "f670c135ffc829bd",
@@ -27229,9 +27300,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada officials to hold a technical briefing on the Building Canada Act",
-      "sum": "Government of Canada officials will hold an embargoed background media technical briefing on the Building Canada Act.",
-      "cat": "Innovation, science & industry"
+      "title": "Government officials to brief media on Building Canada Act",
+      "sum": "Canadian government officials will conduct a technical media briefing on the Building Canada Act. The briefing will be held under embargo, meaning media cannot report on the information until a specified time.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "3e3b3ceca7dd6c33",
@@ -27241,9 +27313,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Invitation to media – Marianne Dandurand and Élisabeth Brière to highlight Government of Canada support for two Sherbrooke businesses to boost Quebec’s industrial capacity in the biofood sector",
-      "sum": "The media are invited to a press activity on Government of Canada investments aimed at boosting industrial capacity and innovation in the biofood sector, which play a key role in the country’s economy and food sovereignty.",
-      "cat": "Economy"
+      "title": "Canada announces support for biofood businesses in Sherbrooke Quebec",
+      "sum": "The Government of Canada is providing investments to two Sherbrooke businesses to strengthen industrial capacity and innovation in the biofood sector. The announcement will be made by Marianne Dandurand and Élisabeth Brière.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ba74eaa974631fe8",
@@ -27253,9 +27326,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister of Transport MacKinnon to make an announcement regarding safety investments at the Yellowknife Airport",
-      "sum": "The Minister of Transport and Leader of the Government in the House of Commons, the Honourable Steven MacKinnon, will make an announcement regarding safety investments at the Yellowknife Airport.",
-      "cat": "Transportation"
+      "title": "Minister announces safety investments at Yellowknife Airport",
+      "sum": "The Minister of Transport will announce new safety investments for Yellowknife Airport. Details of the specific investments will be provided at the announcement.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "b08c48b7521d9d73",
@@ -27265,9 +27339,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizure of contraband and unauthorized items at Cowansville Institution",
-      "sum": "On June 14, 2026, as a result of the vigilance of staff members, contraband and unauthorized items were seized at Cowansville Institution, a medium-security federal institution.",
-      "cat": "Public safety"
+      "title": "Contraband seized at Cowansville Institution",
+      "sum": "On June 14, 2026, staff at Cowansville Institution, a medium-security federal prison, seized contraband and unauthorized items during an operation.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "0694a3bf1f4bda57",
@@ -27277,9 +27352,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Full overnight closure of Chaudière Crossing to motorists",
-      "sum": "Public Services and Procurement Canada wishes to advise motorists that there will be a full closure of the Chaudière Crossing to accommodate urgent rehabilitation work related to the Southern Structures Renewal Project.",
-      "cat": "Economy"
+      "title": "Chaudière Crossing closed overnight for structural rehabilitation work",
+      "sum": "Public Services and Procurement Canada is closing the Chaudière Crossing to all motorists overnight to perform urgent rehabilitation work as part of the Southern Structures Renewal Project.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "650fd009b669df02",
@@ -27289,9 +27365,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada and Ontario Making Homes More Affordable in Toronto",
-      "sum": "Today, the Honourable Gregor Robertson, Minister of Housing and Infrastructure, the Honourable Doug Ford, Premier of Ontario, along with Her Worship Olivia Chow, Mayor of Toronto, announced that Toronto is receiving $1.5 billion through the Development Charge Reduction Program (DCRP) in recognition of their commitment to reducing residential development charges by 40 to 60 percent. The funding will help build more…",
-      "cat": "Housing"
+      "title": "Canada and Ontario provide $1.5 billion to Toronto for housing affordability",
+      "sum": "The federal and Ontario governments are providing $1.5 billion to Toronto through the Development Charge Reduction Program. This funding recognizes Toronto's commitment to reducing residential development charges by 40 to 60 percent to help make homes more affordable.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "4c9997fce805c8f8",
@@ -27301,9 +27378,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: Minister Anand announces funding for security, stability and disaster relief in the Americas",
-      "sum": "Backgrounder: Minister Anand announces funding for security, stability and disaster relief in the Americas",
-      "cat": "Public safety"
+      "title": "Minister Anand announces funding for Americas security and disaster relief",
+      "sum": "The Minister announced funding directed toward security, stability, and disaster relief initiatives across the Americas region. The funding supports various programs in these three priority areas.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "830dc5ed1a08ffdd",
@@ -27313,9 +27391,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Anand concludes participation in the General Assembly of the Organization of American States, announces $35.3 million to support security and stability in the Americas",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, concluded her participation in the General Assembly of the Organization of American States (OAS) in Panama.",
-      "cat": "Foreign affairs"
+      "title": "Canada commits $35.3 million to security in the Americas",
+      "sum": "Foreign Affairs Minister Anita Anand attended the Organization of American States General Assembly in Panama and announced $35.3 million in Canadian funding to support security and stability initiatives across the Americas region.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "b626ec123a3068a6",
@@ -27325,9 +27404,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister of Justice and Attorney General Fraser meets with Halton Regional Police Service and Halton Region Paramedic Services",
-      "sum": "Today, the Honourable Sean Fraser, Minister of Justice and Attorney General of Canada and Minister responsible for the Atlantic Canada Opportunities Agency, met with Halton Regional Police Service Chief Stephen J. Tanner and Halton Region Paramedic Services Chief Greg Sage to discuss the passage of the Bail and Sentencing Reform Act (Bill C-14) and the federal government’s recent criminal justice reforms to help…",
-      "cat": "Justice"
+      "title": "Minister of Justice meets with Halton police and paramedic leaders",
+      "sum": "Minister of Justice Sean Fraser met with leaders from Halton Regional Police Service and Halton Region Paramedic Services to discuss the Bail and Sentencing Reform Act and federal criminal justice reforms.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "0aaf5c02c085e220",
@@ -27337,9 +27417,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister LeBlanc meets with business leaders in Fort McMurray",
-      "sum": "Today, the Honourable Dominic LeBlanc, President of the King’s Privy Council for Canada and Minister responsible for Canada-U.S. Trade, Intergovernmental Affairs, Internal Trade and One Canadian Economy, began his visit to Alberta in Fort McMurray, where he met with senior executives from Suncor Energy and with trade and industry leaders at the Fort McMurray Chamber of Commerce.",
-      "cat": "Economy"
+      "title": "Minister LeBlanc meets with Alberta business leaders",
+      "sum": "Minister Dominic LeBlanc visited Fort McMurray, Alberta to meet with executives from Suncor Energy and members of the Fort McMurray Chamber of Commerce. The meetings focused on trade and industry matters.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "31dbd01e757006d3",
@@ -27349,9 +27430,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre de la Justice et procureur général du Canada Fraser rencontre le maire de Vaughan et la police régionale de York",
-      "sum": "Aujourd’hui, l’honorable Sean Fraser, ministre de la Justice et procureur général du Canada et ministre responsable de l’Agence de promotion économique du Canada atlantique, a rencontré Steven Del Duca, maire de Vaughan, et Ryan Hogan, chef adjoint de la police régionale de York, pour discuter des récentes réformes du gouvernement fédéral en matière de justice pénale et de la manière dont celles-ci contribueront à…",
-      "cat": "Justice"
+      "title": "Le ministre Fraser rencontre les autorités de Vaughan sur la justice pénale",
+      "sum": "Le ministre fédéral de la Justice a rencontré le maire de Vaughan et un chef adjoint de la police régionale de York pour discuter des réformes fédérales en matière de justice pénale. Cette rencontre visait à explorer comment ces réformes s'appliqueraient à la région.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "714f342b477f83f2",
@@ -27361,9 +27443,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Isolement cellulaire et fouille à l’Établissement de Matsqui",
-      "sum": "Un isolement cellulaire a été imposé le 19 juin 2026, à l’Établissement de Matsqui, un établissement à sécurité moyenne, afin de permettre au personnel de procéder à une fouille exceptionnelle.",
-      "cat": "Innovation, science & industry"
+      "title": "Isolement cellulaire et fouille à l'Établissement de Matsqui",
+      "sum": "Un isolement cellulaire a été imposé le 19 juin 2026 à l'Établissement de Matsqui pour permettre une fouille exceptionnelle des lieux.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "fc8862237e30fd63",
@@ -27373,9 +27456,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement annonce la plus importante garantie de prêts pour les Autochtones de l’histoire canadienne pour soutenir le projet de nouvelle centrale nucléaire de Darlington",
-      "sum": "Le gouvernement annonce la plus importante garantie de prêts pour les Autochtones de l’histoire canadienne pour soutenir le projet de nouvelle centrale nucléaire de Darlington",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement annonce garantie de prêts pour centrale nucléaire Darlington",
+      "sum": "Le gouvernement fédéral annonce une garantie de prêts destinée à soutenir le projet de construction d'une nouvelle centrale nucléaire à Darlington. Cette garantie est présentée comme la plus importante jamais accordée aux Autochtones dans l'histoire canadienne.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "fcb24b674495ab12",
@@ -27385,9 +27469,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annoncera du financement dans le cadre du Fonds pour la santé des Canadiens et des communautés",
-      "sum": "L’honorable Joanne Thompson, ministre des Pêches, au nom de l’honorable Marjorie Michel, ministre de la Santé, annoncera l’octroi d’un financement au titre du Fonds pour la santé des Canadiens et des communautés.",
-      "cat": "Economy"
+      "title": "Canada annonce financement pour santé des Canadiens et communautés",
+      "sum": "Le gouvernement du Canada accordera du financement par le biais du Fonds pour la santé des Canadiens et des communautés. L'annonce sera faite par la ministre des Pêches au nom de la ministre de la Santé.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "49002ce03f881ca2",
@@ -27397,9 +27482,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Thompson annonce le financement de projets à St. John’s dans le cadre du programme Nouveaux Horizons pour les aînés",
-      "sum": "Alors que le coût de la vie ne cesse d’augmenter, le gouvernement du Canada prend des mesures afin de rendre la vie plus abordable pour les aînés et de les aider à rester actifs et à maintenir des liens au sein de leur communauté. Outre l’aide directe destinée à alléger les dépenses quotidiennes, le programme Nouveaux Horizons pour les aînés (PNHA) finance des projets qui permettent à des milliers d’aînés de rester…",
-      "cat": "Innovation, science & industry"
+      "title": "Financement de projets pour aînés à St. John's annoncé",
+      "sum": "La ministre Thompson annonce un financement pour des projets destinés aux aînés à St. John's dans le cadre du programme Nouveaux Horizons pour les aînés. Ce programme finance des projets permettant aux aînés de rester actifs et de maintenir des liens communautaires.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "179916ecc799e1e7",
@@ -27409,21 +27495,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le programme Nouveaux Horizons pour les aînés",
-      "sum": "Le programme Nouveaux Horizons pour les aînés (PNHA) est un programme fédéral de subventions et de contributions. Son objectif est de renforcer l’inclusion sociale des aînés pour qu’ils puissent bénéficier de la qualité de vie dans leur communauté et y contribuer.",
-      "cat": "Economy"
+      "title": "Nouveau programme fédéral de subventions pour l'inclusion sociale des aînés",
+      "sum": "Le gouvernement fédéral lance le programme Nouveaux Horizons pour les aînés, qui offre des subventions et contributions. Ce programme vise à renforcer l'inclusion sociale des personnes âgées dans leurs communautés.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "fa1ef1bfd69cef22",
       "date": "2026-06-23",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/06/notice-biographique--mazen-mahfouz.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Notice biographique – Mazen Mahfouz",
-      "sum": "Mazen Mahfouz (B.Sc. [économie], Université d’Ottawa, 2000; M.B.A, Université du Québec à Montréal, 2005) a commencé sa carrière à Exportation et développement Canada (de 1999 à 2004), avant de travailler à l’Agence canadienne de développement international (de 2004 à 2006). Il s’est joint à Affaires étrangères et Commerce international Canada en 2006. À l’administration centrale, il a travaillé comme gestionnaire…",
-      "cat": "Foreign affairs"
+      "title": "Mazen Mahfouz nommé à un poste au gouvernement fédéral",
+      "sum": "Mazen Mahfouz, titulaire d'un baccalauréat en économie et d'une maîtrise en administration des affaires, a occupé divers postes au sein d'organismes fédéraux canadiens depuis 1999, notamment à Exportation et développement Canada, à l'Agence canadienne de développement international et à Affaires étrangères et Commerce international Canada.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "9aa155b49a9ae465",
@@ -27433,9 +27521,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Investir dans le transport en commun à Hamilton",
-      "sum": "Le réseau de transport en commun de la Ville de Hamilton a vu sa capacité augmenter grâce à l’achèvement et à l’ouverture du nouveau centre de transport en commun Birch, un centre d’entretien et d’entreposage de la Hamilton Street Railway (HSR), d’une valeur de 390,4 millions de dollars.",
-      "cat": "Transportation"
+      "title": "Hamilton reçoit un nouveau centre de transport en commun de 390 millions",
+      "sum": "La Ville de Hamilton a ouvert un nouveau centre d'entretien et d'entreposage pour son réseau de transport en commun, appelé centre de transport en commun Birch. Ce projet, d'une valeur de 390,4 millions de dollars, augmente la capacité du réseau de la Hamilton Street Railway.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "cc77e7d7326cf41b",
@@ -27445,9 +27534,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce son soutien pour stimuler le tourisme dans l’Est de l’Île-du-Prince-Édouard",
-      "sum": "Les exploitants touristiques ruraux reçoivent des fonds pour agrandir leurs hébergements, améliorer leurs services et moderniser leurs installations",
-      "cat": "Economy"
+      "title": "Canada soutient le tourisme rural à l'Île-du-Prince-Édouard",
+      "sum": "Le gouvernement du Canada annonce un financement destiné aux exploitants touristiques ruraux de l'Est de l'Île-du-Prince-Édouard. Ces fonds permettront d'agrandir les hébergements, d'améliorer les services et de moderniser les installations.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "45d9756db89bfe3b",
@@ -27457,9 +27547,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Toronto",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de l'honorable Gregor Robertson, ministre du Logement et des Infrastructures et ministre responsable de Développement économique du Pacifique Canada, et l'honorable Doug Ford, premier ministre de l’Ontario.",
-      "cat": "Infrastructure"
+      "title": "Annonce sur les infrastructures à Toronto avec représentants fédéraux et provinciaux",
+      "sum": "Le ministre fédéral du Logement et des Infrastructures et le premier ministre de l'Ontario tiendront une conférence de presse à Toronto pour annoncer une initiative en matière d'infrastructure.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "a212169861fa2a95",
@@ -27469,9 +27560,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Entreprises et organisations du Canada atlantique participant à BIO 2026",
-      "sum": "Entreprises et organisations du Canada atlantique participant à BIO 2026",
-      "cat": "Economy"
+      "title": "Entreprises du Canada atlantique participent à BIO 2026",
+      "sum": "Des entreprises et organisations du Canada atlantique participeront à la conférence BIO 2026. BIO est un événement international majeur dans le secteur des sciences de la vie et de la biotechnologie.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "912bf9d40cc33759",
@@ -27481,9 +27573,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des entreprises du domaine des biosciences du Canada atlantique cherchent à établir des partenariats mondiaux à BIO 2026",
-      "sum": "Une mission commerciale à San Diego aidera les entreprises du secteur des sciences de la vie à tisser des liens, attirer des investissements et faire croître les exportations",
-      "cat": "Innovation, science & industry"
+      "title": "Mission commerciale canadienne aux États-Unis pour les biosciences",
+      "sum": "Des entreprises de biosciences du Canada atlantique participent à une mission commerciale à San Diego en 2026 pour établir des partenariats internationaux. Cette initiative vise à créer des liens d'affaires, attirer des investissements et augmenter les exportations du secteur.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "8a82f39625068167",
@@ -27493,9 +27586,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La Garde côtière canadienne commence sa saison estivale de 2026 dans l’Arctique",
-      "sum": "La saison annuelle de la Garde côtière canadienne (GCC) dans l’Arctique est maintenant amorcée. Par sa présence et ses opérations, la GCC continue de démontrer et de renforcer la souveraineté bien établie et la sécurité du Canada dans le Nord.",
-      "cat": "Housing"
+      "title": "Garde côtière canadienne débute sa saison estivale 2026 arctique",
+      "sum": "La Garde côtière canadienne commence sa saison estivale annuelle dans l'Arctique. Par ses opérations et sa présence, elle contribue à démontrer la souveraineté et la sécurité du Canada dans le Nord.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "fe250e324ee05947",
@@ -27505,9 +27599,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Campbellton",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Guillaume Deschênes-Thériault, député de Madawaska—Restigouche, de l’honorable Gilles LePage, ministre provincial de l’Environnement et du Changement climatique et ministre responsable de la Société de développement régional, et de Michel Soucy, maire de la Communauté régionale de Campbellton.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Campbellton avec autorités fédérales et provinciales",
+      "sum": "Une annonce concernant des projets d'infrastructure aura lieu à Campbellton en présence du député fédéral Guillaume Deschênes-Thériault, du ministre provincial Gilles LePage et du maire Michel Soucy.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "9c56093c6e13642e",
@@ -27517,9 +27612,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et le Nouveau-Brunswick investissent dans des infrastructures essentielles pour soutenir la construction de logements à Grand-Sault",
-      "sum": "Le gouvernement du Canada utilise tous les outils à sa disposition, en tirant parti de la technologie, de l’innovation et des partenariats, pour construire des logements à grande échelle.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Nouveau-Brunswick investissent dans infrastructures de logement à Grand-Sault",
+      "sum": "Le gouvernement du Canada et la province du Nouveau-Brunswick investissent dans des infrastructures essentielles pour soutenir la construction de logements à Grand-Sault. Cet investissement utilise la technologie, l'innovation et des partenariats pour augmenter la construction résidentielle.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "4ab3be737f3c446c",
@@ -27529,33 +27625,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’Agence de la consommation en matière financière du Canada publie une version révisée de la Ligne directrice sur les procédures d’examen des plaintes pour les banques et les banques étrangères autorisées",
-      "sum": "L’Agence de la consommation en matière financière du Canada publie une version révisée de la Ligne directrice sur les procédures d’examen des plaintes pour les banques et les banques étrangères autorisées",
-      "cat": "Innovation, science & industry"
+      "title": "Agence financière publie directive révisée sur examen plaintes bancaires",
+      "sum": "L'Agence de la consommation en matière financière du Canada a publié une version mise à jour de ses lignes directrices concernant la façon dont les banques et les banques étrangères autorisées doivent examiner et traiter les plaintes des consommateurs.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "7841bc170b2ee571",
       "date": "2026-06-23",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/06/le-gouvernement-federal-investit-dans-la-restauration-du-ruisseau-albemarle-a-south-bruce-peninsula.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral investit dans la restauration du ruisseau Albemarle à South Bruce Peninsula",
-      "sum": "Des cours d’eau et des habitats naturels locaux seront mieux protégés et restaurés grâce à un investissement de plus de 45 840 $ du gouvernement du Canada dans le cadre du Fonds pour les infrastructures naturelles (FIN).",
-      "cat": "Infrastructure"
+      "title": "Canada investit dans la restauration du ruisseau Albemarle",
+      "sum": "Le gouvernement fédéral accorde plus de 45 840 $ pour restaurer le ruisseau Albemarle à South Bruce Peninsula. Cet investissement vise à mieux protéger et restaurer les cours d'eau et habitats naturels locaux.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "9439529b36c051bb",
       "date": "2026-06-23",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/06/declaration-conjointe-du-canada-et-de-lunion-europeenne-sur-lappel-a-laction-lance-par-le-secretaire-general-des-nations-unies-a-legard-du-methane.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration conjointe du Canada et de l’Union européenne sur l’appel à l’action lancé par le secrétaire général des Nations Unies à l’égard du méthane",
-      "sum": "En tant que coorganisateurs de l’Engagement mondial sur le méthane, le Canada et l’Union européenne (UE) accueillent l’appel à l’action à l’égard du méthane lancé par le secrétaire général des Nations Unies en juin 2026",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Union européenne s'engagent sur réduction du méthane",
+      "sum": "Le Canada et l'Union européenne ont publié une déclaration conjointe soutenant l'appel à l'action du secrétaire général des Nations Unies concernant la réduction des émissions de méthane. Les deux partenaires coorganisent l'Engagement mondial sur le méthane.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "1889bd91268ff1ec",
@@ -27565,9 +27664,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Un investissement de 3 millions de dollars pour prévenir et lutter contre la maltraitance envers les enfants",
-      "sum": "Aujourd’hui, Aslam Rana, député de Hamilton-Centre, au nom de l’honorable Marjorie Michel, ministre de la Santé, a annoncé un investissement de 3 millions de dollars dans deux projets visant à prévenir et à lutter contre la maltraitance envers les enfants.",
-      "cat": "Innovation, science & industry"
+      "title": "Investissement de 3 millions pour prévenir la maltraitance envers les enfants",
+      "sum": "Le gouvernement fédéral annonce un investissement de 3 millions de dollars dans deux projets destinés à prévenir et combattre la maltraitance envers les enfants.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "5dc7632d88cb7c9f",
@@ -27577,9 +27677,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada aide les entreprises de Brampton à renforcer leur résilience, à adopter l’intelligence artificielle et à conquérir de nouveaux marchés",
-      "sum": "Les investissements de FedDev Ontario aident les entreprises à exploiter de nouvelles possibilités de croissance.",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada investit dans les entreprises de Brampton pour l'IA et la croissance",
+      "sum": "Le gouvernement du Canada, par l'intermédiaire de FedDev Ontario, fournit des investissements aux entreprises de Brampton pour les aider à adopter l'intelligence artificielle, renforcer leur résilience et accéder à de nouveaux marchés.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "f4ee529bb6c89885",
@@ -27589,21 +27690,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annoncera des mesures prévues en matière d'action climatique dans le secteur de la santé",
-      "sum": "Wade Grant, secrétaire parlementaire de la ministre de l’Environnement et du Changement climatique et député de Vancouver Quadra, au nom de l’honorable Marjorie Michel, ministre de la Santé, annoncera les mesures prévues en matière d’action climatique dans le secteur de la santé au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada annonce mesures climatiques secteur santé",
+      "sum": "Le gouvernement du Canada annoncera des mesures d'action climatique spécifiques au secteur de la santé. Cette annonce sera faite par le secrétaire parlementaire de la ministre de l'Environnement au nom de la ministre de la Santé.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "c219a94b1f8ce9f6",
       "date": "2026-06-23",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/06/le-gouvernement-du-canada-investit-dans-les-infrastructures-culturelles-pour-ameliorer-les-experiences-dapprentissage-immersif-a-calgary.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit dans les infrastructures culturelles pour améliorer les expériences d’apprentissage immersif à Calgary",
-      "sum": "L’investissement fédéral stimule l’apprentissage et les découvertes de demain au TELUS Spark.",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada investit dans les infrastructures culturelles à Calgary",
+      "sum": "Le gouvernement fédéral investit dans les infrastructures culturelles pour améliorer l'apprentissage immersif. Cet investissement soutient le TELUS Spark et ses programmes d'apprentissage et de découverte.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "ce69a27b8aecda88",
@@ -27613,9 +27716,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des autobus électriques bientôt en service à Kelowna",
-      "sum": "Les usagers du réseau de transport en commun régional de Kelowna pourront bientôt se déplacer à bord d’un autobus électrique.",
-      "cat": "Transportation"
+      "title": "Autobus électriques déployés à Kelowna",
+      "sum": "Le gouvernement fédéral soutient l'introduction d'autobus électriques dans le réseau de transport en commun régional de Kelowna. Les usagers du service pourront bientôt utiliser ces véhicules.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "f837224aa59bd73d",
@@ -27625,9 +27729,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada souligne le lancement du réseau énergétique de quartier modernisé de la région de la capitale nationale",
-      "sum": "Le gouvernement du Canada s'est engagé à réduire les émissions de gaz à effet de serre en écologisant ses propres activités, afin de montrer l'exemple.",
-      "cat": "Economy"
+      "title": "Canada lance réseau énergétique modernisé dans la capitale nationale",
+      "sum": "Le gouvernement du Canada a lancé un réseau énergétique de quartier modernisé dans la région de la capitale nationale. Cette initiative s'inscrit dans l'engagement du gouvernement à réduire ses émissions de gaz à effet de serre.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "b0b7dc0dd1c0a641",
@@ -27637,9 +27742,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L'ASFC saisit plus d'une demi-tonne d'opium dissimulé dans un chargement de papier",
-      "sum": "L'ASFC saisit plus d'une demi-tonne d'opium dissimulé dans un chargement de papier",
-      "cat": "Innovation, science & industry"
+      "title": "ASFC saisit plus d'une demi-tonne d'opium dans un chargement",
+      "sum": "L'Agence des services frontaliers du Canada a intercepté plus de 500 kilogrammes d'opium qui étaient dissimulés dans une livraison de papier à la frontière.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "8b44d5934a0b84ce",
@@ -27649,21 +27755,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration conjointe—La réduction du méthane dans le secteur de l’énergie en tant que pilier de la sécurité énergétique",
-      "sum": "Aujourd’hui, nous unissons nos forces pour affirmer que nous sommes résolument engagés à accélérer la réduction des émissions de méthane dans le secteur de l’énergie",
-      "cat": "Economy"
+      "title": "Canada s'engage à réduire les émissions de méthane énergétique",
+      "sum": "Le Canada a publié une déclaration conjointe confirmant son engagement à accélérer la réduction des émissions de méthane dans le secteur de l'énergie. Cette action vise à renforcer la sécurité énergétique.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "a64fbe356c3bdb30",
       "date": "2026-06-23",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/06/le-canada-ratifie-la-convention-interamericaine-sur-la-prevention-la-sanction-et-lelimination-de-la-violence-faite-aux-femmes.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada ratifie la Convention interaméricaine sur la prévention, la sanction et l’élimination de la violence faite aux femmes",
-      "sum": "Aujourd’hui, lors de l’Assemblée générale de l’Organisation des États américains (OEA), la ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé la ratification par le Canada de la Convention interaméricaine sur la prévention, la sanction et l’élimination de la violence faite aux femmes (la Convention de Belém do Pará).",
-      "cat": "Foreign affairs"
+      "title": "Le Canada ratifie la Convention interaméricaine contre la violence envers les femmes",
+      "sum": "Le Canada a ratifié la Convention interaméricaine sur la prévention, la sanction et l'élimination de la violence faite aux femmes, annoncée par la ministre des Affaires étrangères lors de l'Assemblée générale de l'Organisation des États américains.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "bfa3b8a2150fb0b2",
@@ -27673,9 +27781,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral fera une annonce importante visant à faire progresser les infrastructures d’intérêt national au Canada",
-      "sum": "Le ministre des Transports et leader du gouvernement à la Chambre des communes, l’honorable Steven MacKinnon, le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, la ministre des Relations Couronne-Autochtones, l’honorable Rebecca Alty, et le premier ministre des Territoires du Nord-Ouest, l’honorable R. J. Simpson, feront une annonce importante visant à faire progresser les…",
-      "cat": "Transportation"
+      "title": "Annonce sur les infrastructures d'intérêt national au Canada",
+      "sum": "Le gouvernement fédéral, en collaboration avec les gouvernements territoriaux et autochtones, fera une annonce concernant le progrès des infrastructures nationales. Plusieurs ministres fédéraux et le premier ministre des Territoires du Nord-Ouest participeront à cette annonce.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "65ddc512f78e5f28",
@@ -27685,9 +27794,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des représentants du gouvernement du Canada tiendront une séance d’information technique sur la Loi visant à bâtir le Canada",
-      "sum": "Des représentants du gouvernement du Canada tiendront une séance d’information technique à l’intention des médias, sous embargo, concernant la Loi visant à bâtir le Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Séance d'information technique sur la Loi visant à bâtir le Canada",
+      "sum": "Des représentants du gouvernement du Canada tiendront une séance d'information technique à l'intention des médias concernant la Loi visant à bâtir le Canada. Cette séance se déroule sous embargo.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "724d68938e56bc5d",
@@ -27697,9 +27807,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Invitation aux médias – Marianne Dandurand et Élisabeth Brière souligneront l’appui du gouvernement du Canada à deux entreprises de Sherbrooke pour soutenir la capacité industrielle du Québec dans le secteur bioalimentaire",
-      "sum": "Les médias sont invités à une activité de presse portant sur des investissements du gouvernement du Canada visant à soutenir la capacité industrielle et l’innovation du secteur bioalimentaire, qui jouent un rôle central dans l’économie et la souveraineté alimentaire canadienne.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada soutient deux entreprises bioalimentaires à Sherbrooke",
+      "sum": "Le gouvernement du Canada annonce des investissements pour soutenir deux entreprises de Sherbrooke dans le secteur bioalimentaire. Ces investissements visent à renforcer la capacité industrielle et l'innovation du Québec dans ce domaine.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "cb40dfa6d8f3ffd0",
@@ -27709,9 +27820,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre des Transports, M. MacKinnon, fera une annonce concernant des investissements en matière de sécurité à l’aéroport de Yellowknife",
-      "sum": "Le ministre des Transports et leader du gouvernement à la Chambre des communes, l’honorable Steven MacKinnon, fera une annonce concernant des investissements en matière de sécurité à l’aéroport de Yellowknife.",
-      "cat": "Transportation"
+      "title": "Ministre annonce investissements sécurité aéroport Yellowknife",
+      "sum": "Le ministre des Transports Steven MacKinnon fera une annonce concernant des investissements en matière de sécurité à l'aéroport de Yellowknife.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "efcb219eb64f0f9d",
@@ -27721,9 +27833,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisie d’objets interdits et non autorisés à l’Établissement de Cowansville",
-      "sum": "Le 14 juin 2026, grâce à la vigilance du personnel, des objets interdits et non autorisés ont été saisis à l’Établissement de Cowansville, un établissement fédéral à sécurité moyenne.",
-      "cat": "Innovation, science & industry"
+      "title": "Saisie d'objets interdits à l'Établissement de Cowansville",
+      "sum": "Le 14 juin 2026, le personnel de l'Établissement de Cowansville a saisi des objets interdits et non autorisés dans cet établissement fédéral à sécurité moyenne. Cette saisie a été rendue possible grâce à la vigilance du personnel.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "be1a2623a7e5ada1",
@@ -27733,9 +27846,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Fermeture complète de la traverse des Chaudières aux automobilistes durant la nuit",
-      "sum": "Services publics et Approvisionnement Canada souhaite aviser les automobilistes qu’il y aura une fermeture complète de la traverse des Chaudières pour permettre des travaux urgents liés au projet de renouvellement des structures sud.",
-      "cat": "Innovation, science & industry"
+      "title": "Fermeture nocturne complète de la traverse des Chaudières",
+      "sum": "Services publics et Approvisionnement Canada ferme complètement la traverse des Chaudières la nuit pour effectuer des travaux urgents de renouvellement des structures sud.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "23a266f4174f90c9",
@@ -27745,9 +27859,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et l’Ontario rendent les logements plus abordables à Toronto",
-      "sum": "Aujourd’hui, l’honorable Gregor Robertson, ministre du Logement et de l’Infrastructure, l’honorable Doug Ford, premier ministre de l’Ontario, et Olivia Chow, mairesse de Toronto, ont annoncé que Toronto recevrait 1,5 milliard de dollars dans le cadre du Programme de réduction des redevances d’aménagement (PRRA), puisqu’elle s’est engagée à réduire de 40 à 60 % ses redevances d’aménagement résidentiel. Ce financement…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Ontario financent réduction des redevances à Toronto",
+      "sum": "Le Canada et l'Ontario accordent 1,5 milliard de dollars à Toronto par le biais du Programme de réduction des redevances d'aménagement. Toronto s'engage à réduire ses redevances d'aménagement résidentiel de 40 à 60 pour cent.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "393c9cd1762e8f17",
@@ -27757,9 +27872,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Fiche d’information : La ministre Anand annonce un financement pour soutenir la sécurité, la stabilité et l’aide en cas de catastrophe dans les Amériques",
-      "sum": "Fiche d’information : La ministre Anand annonce un financement pour soutenir la sécurité, la stabilité et l’aide en cas de catastrophe dans les Amériques",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Anand annonce financement sécurité Amériques",
+      "sum": "La ministre Anand annonce un financement destiné à soutenir la sécurité, la stabilité et l'aide en cas de catastrophe dans les pays des Amériques.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "2bfb55b51fb4e512",
@@ -27769,9 +27885,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Anand conclut sa participation à l’Assemblée générale de l’Organisation des États américains et annonce une aide de 35,3 millions de dollars pour soutenir la sécurité et la stabilité dans les Amériques",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a conclu sa participation à l’Assemblée générale de l’Organisation des États américains (OEA) au Panama.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada annonce 35,3 millions pour la sécurité dans les Amériques",
+      "sum": "La ministre des Affaires étrangères Anita Anand a participé à l'Assemblée générale de l'Organisation des États américains au Panama. Le Canada annonce une aide de 35,3 millions de dollars destinée à soutenir la sécurité et la stabilité dans la région.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "9a61b5fbeca1d6f2",
@@ -27781,9 +27898,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre de la Justice et procureur général du Canada Fraser rencontre le service de police régional de Halton et les services ambulanciers de la région de Halton",
-      "sum": "Aujourd’hui, l’honorable Sean Fraser, ministre de la Justice et procureur général du Canada et ministre responsable de l’Agence de promotion économique du Canada atlantique, a rencontré Stephen J. Tanner, chef du service de police régional de Halton, et Greg Sage, chef des services ambulanciers de la région de Halton, pour discuter de l’adoption de la Loi sur des mesures de réforme concernant la mise en liberté sous…",
-      "cat": "Justice"
+      "title": "Ministre de la Justice rencontre services policiers et ambulanciers de Halton",
+      "sum": "Le ministre fédéral de la Justice Sean Fraser s'est réuni avec les responsables du service de police régional de Halton et des services ambulanciers de la région pour discuter de la mise en œuvre d'une loi sur les mesures de réforme concernant la mise en liberté.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "c6c9bc0727105aef",
@@ -27793,9 +27911,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre LeBlanc rencontre des chefs d’entreprise à Fort McMurray",
-      "sum": "Aujourd’hui, le président du Conseil privé du Roi pour le Canada et ministre responsable du Commerce Canada–États-Unis, des Affaires intergouvernementales, du Commerce intérieur et de l’Unité de l’économie canadienne, l’honorable Dominic LeBlanc, a entamé sa visite en Alberta à Fort McMurray, où il a rencontré des cadres supérieurs de Suncor Energy et des chefs de file du milieu des affaires à la Chambre de commerce…",
-      "cat": "Natural resources"
+      "title": "Le ministre LeBlanc rencontre des chefs d'entreprise à Fort McMurray",
+      "sum": "Le ministre Dominic LeBlanc a visité Fort McMurray en Alberta pour rencontrer des dirigeants de Suncor Energy et d'autres chefs d'entreprise à la Chambre de commerce locale.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "d9a229a9863c6ded",
@@ -27805,9 +27924,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les ministres fédéraux, provinciaux et territoriaux de l'Immigration se réunissent pour discuter d'une immigration durable",
-      "sum": "Le Forum des ministres responsables de l’immigration (FMRI) s’est réuni aujourd’hui afin de renforcer la collaboration autour du Plan des niveaux d’immigration 2027-2029 et de discuter des priorités fédérales, provinciales et territoriales. Les ministres ont discuté du retour à des niveaux d’immigration viables tout en tenant compte des contextes régionaux, ruraux et du Nord, de la manière de remédier aux pénuries…",
-      "cat": "Housing"
+      "title": "Ministres fédéraux, provinciaux et territoriaux discutent immigration durable",
+      "sum": "Le Forum des ministres responsables de l'immigration s'est réuni pour renforcer la collaboration sur le Plan des niveaux d'immigration 2027-2029. Les ministres ont discuté de retour à des niveaux d'immigration viables tenant compte des contextes régionaux, ruraux et du Nord.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "02c89b84ab390a22",
@@ -27817,9 +27937,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Olszewski souligne le lancement de la Stratégie nationale de sécurité alimentaire à Edmonton",
-      "sum": "Les membres des médias sont invités à se joindre à l’honorable Eleanor Olszewski, ministre de la Gestion des urgences et de la Résilience des communautés et ministre responsable de Développement économique Canada pour les Prairies, au nom de l’honorable Heath MacDonald, ministre de l’Agriculture et de l’Agroalimentaire, pour souligner le lancement de la Stratégie nationale de sécurité alimentaire à Edmonton et les…",
-      "cat": "Innovation, science & industry"
+      "title": "Lancement de la Stratégie nationale de sécurité alimentaire à Edmonton",
+      "sum": "La ministre Olszewski souligne le lancement de la Stratégie nationale de sécurité alimentaire à Edmonton, en représentation du ministre de l'Agriculture et de l'Agroalimentaire. Cet événement marque la mise en œuvre d'une stratégie fédérale visant à renforcer la sécurité alimentaire au Canada.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "dc0615512523299f",
@@ -27829,9 +27950,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Le gouvernement du Canada investit dans l’électricité propre en Colombie-Britannique, au Yukon et dans les Territoires du Nord-Ouest",
-      "sum": "Le 23 juin 2026, le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, a annoncé plus de 16 millions de dollars pour cinq projets d’infrastructures d’énergie propre en Colombie-Britannique, au Yukon et dans les Territoires du Nord-Ouest.",
-      "cat": "Infrastructure"
+      "title": "Canada investit 16 millions dans l'énergie propre à l'ouest",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles a annoncé un investissement de plus de 16 millions de dollars pour cinq projets d'infrastructures d'énergie propre en Colombie-Britannique, au Yukon et dans les Territoires du Nord-Ouest.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "8d5049ef39405e87",
@@ -27841,9 +27963,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit dans l’électricité propre en Colombie-Britannique, au Yukon et dans les Territoires du Nord-Ouest",
-      "sum": "D’ailleurs, une énergie fiable, abordable et peu émettrice ne peut que gagner en importance, puisque la demande d’électricité au Canada devrait doubler d’ici 2050. C’est pourquoi le Canada a annoncé le 14 mai 2026 la prochaine stratégie nationale d’électrification. Avec ce plan de type « Équipe Canada », nous comptons saisir l’occasion de bâtir un avenir durable, abordable, prospère et sûr. Dans le Nord canadien,…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit dans l'électricité propre dans trois provinces et territoires",
+      "sum": "Le gouvernement du Canada annonce des investissements en électricité propre en Colombie-Britannique, au Yukon et dans les Territoires du Nord-Ouest. Cette initiative s'inscrit dans une stratégie nationale d'électricité présentée le 14 mai 2026 pour répondre à une demande d'électricité attendue en hausse jusqu'en 2050.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "1a6202bcedbf1cd2",
@@ -27853,9 +27976,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et les Territoires du Nord-Ouest tiendront un point de presse",
-      "sum": "Le Canada et les Territoires du Nord-Ouest tiendront un point de presse",
-      "cat": "Economy"
+      "title": "Canada et Territoires du Nord-Ouest annoncent conférence de presse",
+      "sum": "Le gouvernement du Canada et le gouvernement des Territoires du Nord-Ouest tiendront une conférence de presse conjointe. Les détails spécifiques du sujet abordé ne sont pas précisés dans cette annonce.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "310d7c6923fc70e9",
@@ -27865,9 +27989,10 @@
       "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit 100 millions de dollars dans la plateforme de données de santé VITAL",
-      "sum": "VITAL reliera en toute sécurité les données d’hôpitaux pour améliorer les services, accélérer la recherche et soutenir l’innovation canadienne",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 100 millions dans plateforme de données VITAL",
+      "sum": "Le gouvernement du Canada alloue 100 millions de dollars à la plateforme de données de santé VITAL. Cette plateforme connectera de manière sécurisée les données hospitalières pour améliorer les services de santé, accélérer la recherche et soutenir l'innovation.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "30ddde2bd3a643ae",
@@ -27877,9 +28002,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Cinq premières nations du Manitoba franchissent des étapes importantes pour améliorer l’accès à l’eau potable",
-      "sum": "Aujourd’hui, l’honorable Rebecca Chartrand, au nom de l’honorable Mandy Gull-Masty, ministre des Services aux Autochtones, s’est jointe à la Première Nation de Long Plain pour célébrer l’achèvement des travaux de modernisation et d’agrandissement de son usine de traitement de l’eau.",
-      "cat": "Innovation, science & industry"
+      "title": "Cinq Premières Nations du Manitoba améliorent l'accès à l'eau potable",
+      "sum": "Cinq Premières Nations du Manitoba ont franchi des étapes importantes pour améliorer l'accès à l'eau potable. La Première Nation de Long Plain a notamment achevé les travaux de modernisation et d'agrandissement de son usine de traitement de l'eau.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "447004872c89939f",
@@ -27889,9 +28015,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Cinq premières nations du Manitoba franchissent des étapes importantes pour améliorer l’accès à l’eau potable",
-      "sum": "Cinq Premières Nations au Manitoba franchissent des étapes décisives dans l’amélioration de l’accès à une eau potable salubre et fiable pour près de 10 000 membres de leurs communautés.",
-      "cat": "Economy"
+      "title": "Cinq Premières Nations du Manitoba améliorent l'accès à l'eau potable",
+      "sum": "Cinq Premières Nations au Manitoba progressent dans leurs efforts pour fournir une eau potable salubre et fiable à environ 10 000 membres de leurs communautés.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "cbc7b7ca3b4b0e55",
@@ -28029,9 +28156,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Dabrusin joins global partners at the 10th Ministerial on Climate Action and London Climate Action Week",
-      "sum": "This week, the Honourable Julie Dabrusin, Minister of the Environment, Climate Change and Nature, will co-convene the 10th Ministerial on Climate Action (MoCA10) in Brussels, Belgium, alongside the European Union and China on June 22 and 23, 2026. Minister Dabrusin will then participate in London Climate Action Week, Europe’s largest independent climate event, in London, England, on June 23 and 24, 2026.",
-      "cat": "Sustainable development"
+      "title": "Canada participates in international climate action meetings",
+      "sum": "Minister Julie Dabrusin will co-host the 10th Ministerial on Climate Action in Brussels with the European Union and China on June 22-23, 2026, then attend London Climate Action Week on June 23-24, 2026.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "963bca19222796aa",
@@ -28041,9 +28169,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizure of contraband and unauthorized items at Mission Institution’s medium security unit",
-      "sum": "On June 15, 2026, as a result of the vigilance of staff members, a package containing contraband and unauthorized items was seized in the medium-security unit at Mission Institution.",
-      "cat": "Public safety"
+      "title": "Contraband seized at Mission Institution medium security unit",
+      "sum": "On June 15, 2026, staff at Mission Institution's medium security unit discovered and seized a package containing contraband and unauthorized items. The discovery was made through routine vigilance by correctional staff.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "3c563c2cf9ae4c5a",
@@ -28053,9 +28182,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canadian Armed Forces participates in Exercise VALIANT SHIELD 2026",
-      "sum": "The Canadian Armed Forces (CAF) will participate in Exercise VALIANT SHIELD 2026, a United States-led biennial field exercise taking place in and around Hawaii and Guam from June 22 to July 5, 2026.",
-      "cat": "National defence"
+      "title": "Canadian Armed Forces joins US-led Pacific military exercise",
+      "sum": "The Canadian Armed Forces will participate in Exercise VALIANT SHIELD 2026, a United States-led military exercise scheduled for June 22 to July 5, 2026, in Hawaii and Guam.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "fc851670b13857eb",
@@ -28065,9 +28195,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Competition Bureau advances investigation into Sobeys’ use of property controls across Canada",
-      "sum": "The Competition Bureau has obtained court orders to advance its investigation into Empire Company Limited’s use of property controls in Canada. Empire is the parent company of Sobeys, Farm Boy, Safeway, IGA, Foodland and FreshCo, among others.",
-      "cat": "Justice"
+      "title": "Competition Bureau advances investigation into Sobeys property controls",
+      "sum": "The Competition Bureau obtained court orders to continue investigating how Empire Company Limited, which owns Sobeys and other grocery chains, uses property controls in Canada.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "311a928419ce462c",
@@ -28077,9 +28208,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Release of Alto’s What We Heard Report and announcement of Kingston as a potential stop along the High-Speed Rail network",
-      "sum": "The Alto high-speed rail project is a strategic step toward delivering sustainable, faster, and more connected transportation for Canadians. It will provide more frequent and reliable passenger rail service, bring communities closer together, foster economic growth across the country, and help reduce greenhouse gas emissions.",
-      "cat": "Transportation"
+      "title": "Alto high-speed rail project identifies Kingston as potential stop",
+      "sum": "The government released Alto's What We Heard Report and announced Kingston as a potential station on a planned high-speed rail network. The project aims to provide faster passenger rail service between Canadian communities.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "ebf574823df7d12b",
@@ -28089,9 +28221,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada to announce support for cultural infrastructure in Calgary",
-      "sum": "The Government of Canada invests in Calgary’s cultural infrastructure to support community connection and innovation",
-      "cat": "Innovation, science & industry"
+      "title": "Canada announces cultural infrastructure support for Calgary",
+      "sum": "The Government of Canada is providing support for cultural infrastructure projects in Calgary. The investment aims to support community connection and innovation in the city.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "e23e6b1643d1baa2",
@@ -28101,9 +28234,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Planning summer travels? The CBSA gives tips to plan your trip into Canada",
-      "sum": "Planning summer travels? The CBSA gives tips to plan your trip into Canada",
-      "cat": "Economy"
+      "title": "CBSA releases travel planning tips for summer trips to Canada",
+      "sum": "The Canada Border Services Agency has published guidance to help travellers plan their trips entering Canada during the summer season. The tips are intended to assist people with preparing for border procedures and entry requirements.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "5939185bca08ecbf",
@@ -28113,9 +28247,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada to support economic growth and businesses in Brampton",
-      "sum": "Amandeep Sodhi, Member of Parliament for Brampton Centre, on behalf of the Honourable Evan Solomon, Minister of Artificial Intelligence and Digital Innovation and Minister responsible for the Federal Economic Development Agency for Southern Ontario (FedDev Ontario), will make an important announcement in support of the City of Brampton.",
-      "cat": "Economy"
+      "title": "Canada announces economic growth support for Brampton businesses",
+      "sum": "The Government of Canada will announce support measures for economic growth and businesses in Brampton. The announcement will be made by the Member of Parliament for Brampton Centre on behalf of the Minister of Artificial Intelligence and Digital Innovation.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "837220a6ca9344fb",
@@ -28125,9 +28260,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada to announce funding to make life better for seniors in St. John’s, Newfoundland and Labrador",
-      "sum": "The Honourable Joanne Thompson, Minister of Fisheries, will be in St. John’s to announce an investment to help seniors be connected and active members of their communities.",
-      "cat": "Wildlife"
+      "title": "Government announces funding for seniors in St. John's",
+      "sum": "The Minister of Fisheries will announce a federal investment in St. John's, Newfoundland and Labrador to help seniors remain connected and active in their communities.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "a736ee28048d5528",
@@ -28137,9 +28273,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Cancelled - Minister Anand to hold virtual press conference from the General Assembly of Organization of American States in Panama",
-      "sum": "Cancelled - The Honourable Anita Anand, Minister of Foreign Affairs, will hold a virtual press conference from Panama City, Panama where she is leading Canada’s official delegation to the 56th regular session of the General Assembly of the Organization of American States (OAS).",
-      "cat": "Foreign affairs"
+      "title": "Foreign Affairs Minister's OAS press conference cancelled",
+      "sum": "A scheduled virtual press conference by the Minister of Foreign Affairs from Panama, where she was leading Canada's delegation to the Organization of American States General Assembly, has been cancelled.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "bacbec48aaa2c2d2",
@@ -28149,21 +28286,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Infrastructure Announcement in Grand Falls",
-      "sum": "Members of the media are invited to an infrastructure announcement with Guillaume Deschênes-Thériault, Member of Parliament for Madawaska—Restigouche, the Honourable Gilles LePage, Minister of Environment and Climate Change and Minister responsible for the Regional Development Corporation, and His Worship Bertrand Beaulieu, Mayor of the Regional Municipality of Grand Falls.",
-      "cat": "Sustainable development"
+      "title": "Infrastructure announcement planned for Grand Falls region",
+      "sum": "Federal and local officials will make an infrastructure announcement in Grand Falls. The event will include the Member of Parliament for Madawaska—Restigouche, the Minister of Environment and Climate Change, and the Mayor of the Regional Municipality of Grand Falls.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "b05347c8a286a531",
       "date": "2026-06-22",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/department-justice/news/2026/06/canadas-sweeping-bail-and-sentencing-reforms-targeting-extortion-auto-theft-and-organized-crime-become-law.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "en",
-      "title": "Canada’s sweeping bail and sentencing reforms targeting extortion, auto theft and organized crime become law",
-      "sum": "The Government of Canada has heard from communities across the country that public safety is an issue of grave concern, and we have taken action to help keep everyone in Canada safe.",
-      "cat": "Justice"
+      "title": "Bail and sentencing reforms targeting organized crime become law",
+      "sum": "Canada has implemented new bail and sentencing reforms focused on extortion, auto theft, and organized crime. The government stated these changes were made in response to public safety concerns raised by communities.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "3293f8438adb4eea",
@@ -28173,9 +28312,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Miller launches the 2026 Cross-Canada Consultations on Official Languages",
-      "sum": "The Government of Canada wants to hear from Canadians on its vision for the future of official languages and the next Action Plan.",
-      "cat": "Culture & heritage"
+      "title": "Government launches cross-Canada consultations on official languages",
+      "sum": "Minister Miller has launched nationwide consultations to gather public input on the government's vision for official languages policy. The consultations will inform development of the next official languages action plan.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "b414a0739ef9f151",
@@ -28185,9 +28325,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada to make an announcement about addressing child maltreatment",
-      "sum": "Aslam Rana, Member of Parliament for Hamilton Centre, will make an announcement on funding to address child maltreatment.",
-      "cat": "Economy"
+      "title": "Government announces funding to address child maltreatment",
+      "sum": "The Government of Canada will announce funding measures aimed at addressing child maltreatment. The announcement will be made by Aslam Rana, Member of Parliament for Hamilton Centre.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "ecf4aa96d9c80f71",
@@ -28197,9 +28338,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Champagne in Courtice to make an important joint announcement",
-      "sum": "The Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will make a joint announcement with the Williams Treaties First Nations and the Government of Ontario, related to Ontario Power Generation’s Darlington New Nuclear Project.",
-      "cat": "Finance"
+      "title": "Federal Minister announces nuclear project partnership with First Nations",
+      "sum": "Minister of Finance François-Philippe Champagne will make a joint announcement with Williams Treaties First Nations and the Ontario government regarding Ontario Power Generation's Darlington New Nuclear Project.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "b15ef544b70d2188",
@@ -28209,21 +28351,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Thompson announces the reopening of commercial Northern shrimp fishery near eastern Newfoundland and Labrador",
-      "sum": "The Northern shrimp fishery has long been an important source of income for coastal communities in eastern Canada. The Government of Canada is continuing to support Canada’s fishing industries and those whose livelihoods depend on it.",
-      "cat": "Economy"
+      "title": "Northern shrimp fishery reopens near eastern Newfoundland",
+      "sum": "The Government of Canada is reopening the commercial Northern shrimp fishery near eastern Newfoundland and Labrador. This fishery is an important source of income for coastal communities in the region.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "f7e52e30c0d1bdd9",
       "date": "2026-06-22",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/global-affairs/news/2026/06/announcement-of-new-diplomatic-appointment.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Announcement of new diplomatic appointment",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced the following diplomatic appointment:",
-      "cat": "Foreign affairs"
+      "title": "New diplomatic appointment announced by Foreign Affairs Minister",
+      "sum": "The Minister of Foreign Affairs has announced a new diplomatic appointment. The specific details of the appointment are not provided in this announcement.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "a48dcf1d44625b29",
@@ -28233,33 +28377,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Serving up fresh, value-added investment in Alberta",
-      "sum": "Federal and provincial funding is helping to attract major economic investment, create jobs and boost growth in the value-added agri-food sector.",
-      "cat": "Economy"
+      "title": "Federal and provincial funding supports Alberta agri-food investment",
+      "sum": "The federal and provincial governments are providing funding to attract economic investment and job creation in Alberta's value-added food sector.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "f613f05f6b449647",
       "date": "2026-06-22",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2026/06/assault-of-an-inmate-at-matsqui-institution.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Assault of an inmate at Matsqui Institution",
-      "sum": "On June 18, 2026, an inmate was victim of an assault at Matsqui Institution, a medium-security federal institution.",
-      "cat": "Public safety"
+      "title": "Inmate assaulted at Matsqui Institution federal prison",
+      "sum": "An inmate at Matsqui Institution, a medium-security federal prison, was assaulted on June 18, 2026. The incident was documented in federal records.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "d13c54fb404cf7de",
       "date": "2026-06-22",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2026/06/assault-of-an-inmate-at-atlantic-institution.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Assault of an inmate at Atlantic Institution",
-      "sum": "On June 11, 2026, an inmate was the victim of an assault at Atlantic Institution, a maximum-security federal institution.",
-      "cat": "Public safety"
+      "title": "Inmate assaulted at Atlantic Institution maximum-security facility",
+      "sum": "An inmate at Atlantic Institution, a maximum-security federal prison, was assaulted on June 11, 2026. The incident was reported by federal authorities.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "1e16990bf95ee5e7",
@@ -28269,9 +28416,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "NASA technical briefing: on-orbit repairs to Canadarm2",
-      "sum": "On June 25 at 2:00 pm ET, NASA will hold a technical briefing about an upcoming spacewalk to replace a wrist joint on Canadarm2. The spacewalk is scheduled for Tuesday, June 30, at 8:00 am ET.",
-      "cat": "Innovation, science & industry"
+      "title": "NASA schedules spacewalk to repair Canadarm2 wrist joint",
+      "sum": "NASA will conduct a technical briefing on June 25 about an upcoming spacewalk to replace a wrist joint on Canadarm2. The spacewalk is scheduled for June 30.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "6071c2a87d264d53",
@@ -28281,9 +28429,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Secretary of State van Koeverden meets with his counterparts, Minister of Sport Adjé Silas Metch of Côte d’Ivoire and State Minister for Sport and Volunteering Dr. Christiane Schenderlein of Germany",
-      "sum": "The Honourable Adam van Koeverden, Secretary of State (Sport), and Canada’s FIFA Sherpa, met with Minister of Sport Adjé Silas Metch of Côte d’Ivoire and State Minister for Sport and Volunteering Dr. Christiane Schenderlein of Germany. They discussed Canada’s FIFA World Cup 2026™ hosting efforts, as well as shared priorities and opportunities for collaboration to advance sport.",
-      "cat": "Culture & heritage"
+      "title": "Canadian official meets with sport ministers from Côte d'Ivoire and Germany",
+      "sum": "Canada's Secretary of State for Sport met with sport officials from Côte d'Ivoire and Germany to discuss Canada's hosting efforts for the 2026 FIFA World Cup and explore opportunities for collaboration on sport.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "6330db6d8429dd52",
@@ -28293,9 +28442,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Public Transit Infrastructure Announcement in Hamilton",
-      "sum": "Members of the media are invited to an infrastructure announcement with Aslam Rana, Member of Parliament for Hamilton Centre, Prabmeet Sarkaria, Ontario’s Minister of Transportation, and Andrea Horwath, Mayor of the City of Hamilton.",
-      "cat": "Transportation"
+      "title": "Federal government announces public transit infrastructure investment in Hamilton",
+      "sum": "The federal Member of Parliament for Hamilton Centre, Ontario's Minister of Transportation, and Hamilton's Mayor will make a joint announcement regarding public transit infrastructure in the city.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "9c368aa7efa91d3c",
@@ -44437,6 +44587,18 @@
       "title": "Communiqué de presse sur la situation relative au hantavirus Andes",
       "sum": "Le 16 mai 2026, la responsable provinciale de la santé de la Colombie-Britannique a indiqué qu’une des quatre personnes à risque élevé qui s’étaient mises en quarantaine et faisaient l’objet d’une surveillance des symptômes a été testée présumée positive au hantavirus Andes.",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "b631d76e05bce41f",
+      "date": "2026-05-15",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdHNxQmlPOW95eGxqNFExZDRVS253MmZKZWUxSExKVFNNbTNoclVIOWtPVW44OUVVamJGa2FEUFhEa2J1T2ZvSmRLUk1OV1Q2SGhVemE3NEdNNjNYRldYNTdDajdZa19LaW5VTHFkRFZYZTg0WjBDU0xCTEtSQVBSejR2LVhHLW1KWGdaelZiR0dpb2Q0b0V5MDhxdnRZbU5hekdpWEhZSjdKMmJvMVNpZUZmTGduSm4yVnpfNkJtMlM4WGtieDFXZlN2cHJhTnRiN3hSLXg3UUVscTQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Accord Ottawa-Alberta | La construction d’un nouvel oléoduc vers l’Ouest prévue en septembre 2027 - La Presse",
+      "excerpt": "Accord Ottawa-Alberta | La construction d’un nouvel oléoduc vers l’Ouest prévue en septembre 2027 La Presse",
+      "cat": "Infrastructure"
     },
     {
       "id": "bc247383c61e7db5",
