@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T07:38:35.517Z",
-  "count": 14225,
+  "generatedAt": "2026-08-13T13:16:43.186Z",
+  "count": 14234,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,108 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ea4d2cfce92d418e",
+      "date": "2026-08-13",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/biographical-notes--diplomatic-appointments0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces diplomatic appointments",
+      "sum": "The Minister of Foreign Affairs announced new diplomatic appointments. The specific names and positions are not detailed in this text.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "d941368cb6f50100",
+      "date": "2026-08-13",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/announcement-of-new-diplomatic-appointments0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces new diplomatic appointments",
+      "sum": "The Minister of Foreign Affairs announced new diplomatic appointments. The specific appointments were not detailed in this announcement.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "9742004675d24661",
+      "date": "2026-08-13",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-coast-guard/news/2026/08/canadian-coast-guard-officially-welcomes-ccgs-mira-bay-into-service-in-sydney.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canadian Coast Guard adds new search and rescue vessel to fleet",
+      "sum": "The Canadian Coast Guard has put a new Canadian-built search and rescue lifeboat called CCGS Mira Bay into service in Sydney. The addition is intended to improve the Coast Guard's ability to respond to emergencies at sea.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "47a2c5b61d0f7869",
+      "date": "2026-08-13",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/08/notes-biographiques--nominations-diplomatiques0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre annonce nominations diplomatiques",
+      "sum": "La ministre des Affaires étrangères a annoncé des nominations à des postes diplomatiques.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "5eb2c65f2111f020",
+      "date": "2026-08-13",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/08/annonce-de-nouvelles-nominations-diplomatiques0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre nomme nouveaux diplomates à l'étranger",
+      "sum": "La ministre des Affaires étrangères annonce de nouvelles nominations diplomatiques. Les détails spécifiques des postes et des candidats ne sont pas fournis dans cette annonce.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "8162a2fc9b244faa",
+      "date": "2026-08-13",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/garde-cotiere-canadienne/nouvelles/2026/08/la-garde-cotiere-canadienne-accueille-officiellement-le-ngcc-mira-bay-au-sein-de-sa-flotte-a-sydney.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Garde côtière canadienne ajoute navire recherche sauvetage",
+      "sum": "La Garde côtière canadienne a officiellement intégré le NGCC Mira Bay, un navire moderne de recherche et sauvetage construit au Canada, à sa flotte à Sydney. Ce navire renforce la capacité d'intervention rapide auprès des personnes en détresse en mer.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "ce87702d9c13bad1",
+      "date": "2026-08-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVN3WUtWOS05VU5wQmZvVjJxbm5PSEdnY2NyRm9tMVhsV1d4ZDA5b0oyaktpTVlzRzVQRFctMjIxeG5jWHVwdVR2OGpWMjAxcV9ha3AtR0dLSmlBRW5saVhhMEl6RE50bF9NR2xRWS0yR0ltZ0NCcG1ZOE92MEpWelI5U29aVTRFMUkxVExsbXlsRkNPWlo1NHJ0M3AwYTJ0bFRfUg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "'Mark Carney manipulated you': Équiterre launches campaign targeting prime minister - Canada's National Observer",
+      "excerpt": "'Mark Carney manipulated you': Équiterre launches campaign targeting prime minister Canada's National Observer",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "9df5f74dac01255f",
+      "date": "2026-08-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXdFZ3BvTHd4R0E0Z2dQN2FOODZrNV95dDl5WU1uNTNyUjhEblhMb1gzWnZrUXhKN2dEMk4xeGJPSnR5cGo2blBwWHZ0VS1hSVVsRnJra3pFdVZFcDBrQUJreEg5ZjVhQzJKZ2l3by1vcTlBeURwRUw5ZTNZUTRWNXZHNDdGbjFyUlI3XzI5YkZNYXAtNERhLXZNMHlzVzZWNVVsMWVDYkx4REMzNXJmY05vYXp5VjZyZUpJ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney's 'Canada Strong Fund' likely to follow path of failing U.K. fund he helped create, think tank says - unpublished.ca",
+      "excerpt": "Carney's 'Canada Strong Fund' likely to follow path of failing U.K. fund he helped create, think tank says unpublished.ca",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "c8d69104e28056a6",
       "date": "2026-08-12",
@@ -35378,21 +35480,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada introduces targeted support to help Canada’s airline sector weather global fuel market volatility",
-      "sum": "Today, the Government is taking further targeted action to support stability in Canada's airline sector during this period of elevated fuel prices. The Minister of Finance and National Revenue, the Honourable François-Philippe Champagne, announced the launch of the Liquidity for Airline Sector Resilience facility, a new loan program through the Canada Enterprise Emergency Funding Corporation (CEEFC). The facility…",
-      "cat": "Finance"
+      "title": "Government launches loan program for Canadian airlines amid fuel price volatility",
+      "sum": "The Government of Canada is introducing a new loan facility through the Canada Enterprise Emergency Funding Corporation to provide financial support to Canadian airlines facing elevated global fuel prices. The program aims to help stabilize the airline sector during this period of market uncertainty.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "5ab6dbf3dbbf74ed",
       "date": "2026-06-08",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/prairies-economic-development/news/2026/06/nuclear-leadership-in-canada-grows-with-federal-investment.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Nuclear leadership in Canada grows with federal investment",
-      "sum": "PrairiesCan funding supports first Canadian Executive Nuclear Energy Management School",
-      "cat": "Natural resources"
+      "title": "Federal funding supports Canadian nuclear energy management school",
+      "sum": "The federal government is providing funding through PrairiesCan to establish Canada's first Executive Nuclear Energy Management School. The school will offer training and education in nuclear energy management.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "efc157b75859e5ad",
@@ -35402,9 +35506,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada-Türkiye Joint Statement on Economic Partnership",
-      "sum": "The Minister of International Trade of Canada, Maninder Sidhu, and the Minister of Trade of the Republic of Türkiye met to advance the strong and growing economic partnership between our two countries.",
-      "cat": "Foreign affairs"
+      "title": "Canada and Türkiye commit to strengthening economic partnership",
+      "sum": "Canada's Minister of International Trade and Türkiye's Minister of Trade met to discuss advancing economic relations between the two countries. The meeting reflects the existing economic partnership and commitment to its continued development.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "102b3f83411dc9e1",
@@ -35414,9 +35519,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada secures new and expanded market access for Canadian fish, seafood and aquatic products",
-      "sum": "The Government of Canada is expanding opportunities for Canada’s fish, seafood and aquatic products sector with four new and renewed market access gains in Vietnam, Oman, Brazil, Armenia and Costa Rica.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada secures expanded market access for fish and seafood products",
+      "sum": "The Government of Canada has obtained new or renewed market access agreements for Canadian fish, seafood, and aquatic products in Vietnam, Oman, Brazil, Armenia, and Costa Rica. These agreements are intended to create additional export opportunities for Canada's fishing and aquaculture sector.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "3fef3760c7530c71",
@@ -35426,9 +35532,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada recognizes five new designations of national historic significance",
-      "sum": "Government of Canada recognizes five new designations of national historic significance",
-      "cat": "Economy"
+      "title": "Government recognizes five new national historic designations",
+      "sum": "The Government of Canada has designated five additional sites, events, or persons as having national historic significance. These designations are part of Canada's official recognition of historically important places and contributions.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "f31887c9df01f76e",
@@ -35438,9 +35545,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada to host the 12th Our Ocean Conference in spring 2027",
-      "sum": "With the world’s longest coastline, and three oceans—the Atlantic, Pacific, and Arctic—Canada understands the complexity and urgency of ocean stewardship. Canadian communities—coastal, northern, Indigenous, rural, and urban—are deeply connected to our oceans. The oceans define the culture and identity of our coastal communities and drive economic prosperity for our people.",
-      "cat": "Indigenous services"
+      "title": "Canada to host Our Ocean Conference in spring 2027",
+      "sum": "Canada will host the 12th Our Ocean Conference in spring 2027. The conference will bring together participants to discuss ocean stewardship and management.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "429c361fa0c874d8",
@@ -35450,21 +35558,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizure of contraband and unauthorized items at Drummond Institution",
-      "sum": "On May 30, 2026, as a result of the vigilance of staff members, contraband and unauthorized items were seized at Drummond Institution, a medium-security federal institution.",
-      "cat": "Public safety"
+      "title": "Contraband seized at Drummond Institution federal prison",
+      "sum": "On May 30, 2026, staff at Drummond Institution, a medium-security federal prison, seized contraband and unauthorized items. The seizure resulted from staff vigilance.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "98863e80389e3666",
       "date": "2026-06-08",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/health-canada/news/2026/06/government-of-canada-announces-appointment-to-the-canadian-centre-on-substance-use-and-addiction.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada announces appointment to the Canadian Centre on Substance Use and Addiction",
-      "sum": "The Honourable Marjorie Michel, Minister of Health, announced the appointment of Isabelle Fortier as a Director of the Board of Directors to the Canadian Centre on Substance Use and Addiction for a term of three years.",
-      "cat": "Healthcare"
+      "title": "Isabelle Fortier appointed to substance use centre board",
+      "sum": "Isabelle Fortier has been appointed as a Director to the Board of Directors of the Canadian Centre on Substance Use and Addiction. The appointment is for a three-year term.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "fb3ca72748cdcc37",
@@ -35474,9 +35584,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The Government of Canada launches public consultations on the future of Billy Bishop Toronto City Airport",
-      "sum": "Billy Bishop Toronto City Airport is an important part of Canada’s air transportation network. It supports jobs, tourism, business travel, emergency services and greater connectivity to Canada’s regions and transborder economic hubs. It is located in the heart of Toronto’s waterfront community, where residents, businesses, and visitors work, live, and enjoy everything the area has to offer.",
-      "cat": "Public safety"
+      "title": "Canada launches public consultations on Billy Bishop Toronto City Airport future",
+      "sum": "The Government of Canada is beginning public consultations about the future of Billy Bishop Toronto City Airport, which serves jobs, tourism, business travel, and emergency services in Toronto.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "551faab87af15100",
@@ -35486,9 +35597,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Chartrand launches the Build Communities Strong Fund Local Impact Stream in the North",
-      "sum": "Strong communities depend on strong infrastructure. By supporting high-impact community projects that reflect local priorities, the Government of Canada is taking action to strengthen the local facilities and public spaces that bring people together, while driving regional economic growth and long-term prosperity.",
-      "cat": "Infrastructure"
+      "title": "Build Communities Strong Fund Local Impact Stream launched in North",
+      "sum": "Minister Chartrand has launched a funding stream to support community infrastructure projects in Northern Canada. The program aims to strengthen local facilities and public spaces while supporting regional economic growth.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "047ad788f34eec55",
@@ -35498,9 +35610,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Sidhu advances Canada’s trade and economic priorities at Organisation for Economic Co-operation and Development meeting",
-      "sum": "June 8, 2026 - Paris, France - Global Affairs Canada Last week, the Honourable Maninder Sidhu, Minister of International Trade, concluded a successful visit to Paris, France, where he participated in the 2026 Organisation for Economic Co-operation and Development (OECD) Ministerial Council Meeting (MCM) and the Informal Gathering of WTO Ministers.",
-      "cat": "Foreign affairs"
+      "title": "Minister Sidhu participates in OECD and WTO ministerial meetings",
+      "sum": "Minister of International Trade Maninder Sidhu attended the 2026 OECD Ministerial Council Meeting and an informal gathering of WTO Ministers in Paris to advance Canada's trade and economic priorities.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "1c49adcb164e8296",
@@ -35510,33 +35623,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister MacDonald concludes G7 Agriculture Ministers’ Meeting",
-      "sum": "The Honourable Heath MacDonald, Canada’s Minister of Agriculture and Agri-Food, concluded a productive meeting with his Group of Seven (G7) counterparts today, where he promoted Canada, its agriculture and agri-food sector, the efficient use of fertilizer, open agri-food trade, and Canada’s interests abroad, while underscoring ongoing efforts to actively monitor emerging risks.",
-      "cat": "Culture & heritage"
+      "title": "Canada's Agriculture Minister concludes G7 meeting",
+      "sum": "Canada's Minister of Agriculture and Agri-Food met with G7 counterparts to discuss agriculture, trade, and fertilizer use. The Minister promoted Canadian interests and discussed monitoring emerging risks in the sector.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "aef2a9cf5d625944",
       "date": "2026-06-08",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/06/agression-contre-un-detenu-au-penitencier-de-dorchester--unite-a-securite-moyenne.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Agression contre un détenu au Pénitencier de Dorchester – unité à sécurité moyenne",
-      "sum": "Le 29 mai 2026, un détenu a été victime d’agression dans l’unité à sécurité moyenne du Pénitencier de Dorchester",
-      "cat": "Innovation, science & industry"
+      "title": "Agression contre un détenu au Pénitencier de Dorchester",
+      "sum": "Un détenu a été victime d'agression le 29 mai 2026 dans l'unité à sécurité moyenne du Pénitencier de Dorchester.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "e1df2f0337dc76dd",
       "date": "2026-06-08",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/06/les-collectivites-du-canada-atlantique-beneficieront-dune-aide-federale-de-76millions-de-dollars-pour-les-infrastructures.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Les collectivités du Canada atlantique bénéficieront d’une aide fédérale de 76 millions de dollars pour les infrastructures",
-      "sum": "Le volet des impacts locaux du Fonds pour bâtir des collectivités fortes aidera les collectivités à construire, à réparer et à moderniser les infrastructures locales.",
-      "cat": "Innovation, science & industry"
+      "title": "76 millions dollars pour infrastructures atlantiques",
+      "sum": "Les collectivités du Canada atlantique reçoivent 76 millions de dollars du gouvernement fédéral pour construire, réparer et moderniser leurs infrastructures locales par le biais du Fonds pour bâtir des collectivités fortes.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "046f4f9790c4aed0",
@@ -35546,9 +35662,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration de l’honorable David McGuinty, ministre de la Défense nationale",
-      "sum": "Cette fin de semaine, les Forces armées canadiennes ont travaillé de concert avec nos alliés belges pour livrer de l’équipement militaire en Ukraine. La Belgique a appuyé cet effort en facilitant le transport de matériel des stocks canadiens à destination de l’Ukraine. Le Canada effectue régulièrement ce type de livraisons, en coordination avec ses alliés, dans le cadre de ses engagements de soutien en cours.",
-      "cat": "Transportation"
+      "title": "Canada livre équipement militaire en Ukraine avec aide belge",
+      "sum": "Les Forces armées canadiennes ont livré de l'équipement militaire en Ukraine ce week-end, avec le soutien de la Belgique pour faciliter le transport du matériel. Le Canada poursuit ainsi ses livraisons régulières coordonnées avec ses alliés dans le cadre de son soutien continu.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "8381f6d19d3cf2ae",
@@ -35558,9 +35675,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le SP Hogan discutera de l’avantage énergétique de l’Amérique du Nord",
-      "sum": "Le SP Hogan discutera de l’avantage énergétique de l’Amérique du Nord",
-      "cat": "Economy"
+      "title": "Secrétaire parlementaire Hogan discutera avantage énergétique Nord-Américain",
+      "sum": "Le secrétaire parlementaire Hogan aura des discussions sur les avantages énergétiques de l'Amérique du Nord.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "88ca94260bfcff89",
@@ -35570,21 +35688,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La Garde côtière canadienne célèbre les diplômés de 2026 de l'Académie en présence de son tout nouveau navire scientifique",
-      "sum": "En fin de semaine dernière,, l’Académie de la Garde côtière canadienne a souligné la remise des diplômes de sa 57e promotion, accueillant l’une de ses plus importantes cohortes depuis des décennies, avec 58 nouveaux officiers se joignant à la Garde côtière canadienne.",
-      "cat": "Innovation, science & industry"
+      "title": "Garde côtière célèbre 58 nouveaux officiers diplômés",
+      "sum": "L'Académie de la Garde côtière canadienne a remis ses diplômes à sa 57e promotion, comptant 58 nouveaux officiers. Cette cohorte représente l'une des plus importantes accueillies par l'Académie depuis plusieurs décennies.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "4ff23da2a6f384d5",
       "date": "2026-06-08",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2026/06/le-gouvernement-du-canada-investit-71-millions-de-dollars-dans-la-refection-de-la-route-431-a-la-colline-barters-dans-le-parc-national-du-gros-morne.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit 7,1 millions de dollars dans la réfection de la route 431 à la colline Barter’s, dans le parc national du Gros-Morne",
-      "sum": "Ce projet améliorera la sécurité publique à long terme, la résilience de l’infrastructure et l’expérience du visiteur.",
-      "cat": "Infrastructure"
+      "title": "Canada investit 7,1 millions pour la route 431 du Gros-Morne",
+      "sum": "Le gouvernement du Canada consacre 7,1 millions de dollars à la réfection de la route 431 à la colline Barter's dans le parc national du Gros-Morne. Ce projet vise à améliorer la sécurité publique, la résilience de l'infrastructure et l'expérience des visiteurs.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "6e0b0edc319d204a",
@@ -35594,21 +35714,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada met en place de nouvelles mesures de soutien ciblées pour aider le secteur de l’aviation canadien à résister à la volatilité du marché mondial du carburant",
-      "sum": "Aujourd’hui, le gouvernement prend d’autres mesures ciblées pour soutenir la stabilité du secteur canadien du transport aérien face aux prix élevés du carburant. Le ministre des Finances et du Revenu national, l’honorable François-Philippe Champagne, a annoncé le lancement du Mécanisme de liquidités pour la résilience du secteur de l’aviation, un nouveau programme de prêts de la Corporation de financement d’urgence…",
-      "cat": "Transportation"
+      "title": "Canada établit un programme de prêts pour l'aviation",
+      "sum": "Le gouvernement du Canada crée un nouveau mécanisme de liquidités pour aider le secteur de l'aviation à faire face aux prix élevés du carburant. Ce programme de prêts vise à soutenir la stabilité de l'industrie du transport aérien canadien.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "6f7cc9be481e8867",
       "date": "2026-06-08",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/developpement-economique-prairies/nouvelles/2026/06/le-leadership-nucleaire-au-canada-saccroit-grace-a-un-investissement-federal.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le leadership nucléaire au Canada s’accroît grâce à un investissement fédéral",
-      "sum": "Le financement de PrairiesCan appuie la première Canadian Executive Nuclear Energy Management School (école de gestion de l’énergie nucléaire du Canada destinée aux cadres)",
-      "cat": "Natural resources"
+      "title": "Le Canada investit dans une école de gestion nucléaire",
+      "sum": "Le gouvernement fédéral finance par PrairiesCan la première école canadienne de gestion de l'énergie nucléaire destinée aux cadres. Cet investissement vise à renforcer le leadership du Canada dans le secteur nucléaire.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "d06b613028a6fa78",
@@ -35618,9 +35740,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Hodgson prononcera un discours d’ouverture lors du Global Energy Show de 2026",
-      "sum": "Le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, prononcera un discours d’ouverture lors du Global Energy Show de 2026.",
-      "cat": "Natural resources"
+      "title": "Ministre Hodgson ouvrira le Global Energy Show 2026",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles, Tim Hodgson, prononcera le discours d'ouverture du Global Energy Show en 2026.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "3fc3b221d123f164",
@@ -35630,9 +35753,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration conjointe sur le partenariat économique entre le Canada et la Türkiye",
-      "sum": "Le ministre du Commerce international du Canada, Maninder Sidhu, et le ministre du Commerce de la Türkiye se sont rencontrés afin de consolider le partenariat économique solide et croissant entre nos deux pays.",
-      "cat": "Foreign affairs"
+      "title": "Canada et Türkiye renforcent leur partenariat économique",
+      "sum": "Le ministre canadien du Commerce international et son homologue turc se sont rencontrés pour consolider leur partenariat économique bilatéral. Cette rencontre vise à approfondir les relations commerciales entre les deux pays.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "409e55d393745905",
@@ -35642,9 +35766,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada élargit l’accès aux marchés pour le poisson, les fruits de mer et les produits aquatiques canadiens",
-      "sum": "Le gouvernement du Canada élargit les débouchés pour le secteur canadien du poisson, des fruits de mer et des produits aquatiques grâce à cinq accès nouveaux ou renouvelés aux marchés du Vietnam, d’Oman, du Brésil, d’Arménie et du Costa Rica.",
-      "cat": "Economy"
+      "title": "Canada élargit l'accès aux marchés pour produits aquatiques",
+      "sum": "Le gouvernement du Canada a obtenu un accès nouveau ou renouvelé à cinq marchés internationaux pour les produits de la pêche et l'aquaculture canadiens. Ces marchés se trouvent au Vietnam, en Oman, au Brésil, en Arménie et au Costa Rica.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "66a535ec62159319",
@@ -35654,9 +35779,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce cinq nouvelles désignations d’importance historique nationale",
-      "sum": "Le gouvernement du Canada annonce cinq nouvelles désignations d’importance historique nationale",
-      "cat": "Economy"
+      "title": "Canada désigne cinq nouveaux sites d'importance historique nationale",
+      "sum": "Le gouvernement du Canada a annoncé la reconnaissance officielle de cinq nouveaux lieux ou événements comme ayant une importance historique nationale. Ces désignations reconnaissent leur signification pour l'histoire du Canada.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "7129edc742f2f1d8",
@@ -35666,9 +35792,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada sera l’hôte de la 12e conférence Our Ocean au printemps 2027",
-      "sum": "Le Canada, qui possède le plus long littoral au monde et qui est bordé par trois océans – l’Atlantique, le Pacifique et l’Arctique –, est pleinement conscient de la complexité et de l’urgence que revêt l’intendance des océans. Les communautés canadiennes, qu’elles soient côtières, nordiques, autochtones, rurales ou urbaines, sont profondément attachées à nos océans. En effet, les océans définissent la culture et…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada accueillera la conférence Our Ocean en 2027",
+      "sum": "Le Canada organisera la 12e conférence Our Ocean au printemps 2027. Cette conférence porte sur la gestion et la protection des océans.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "55d44bb4c817cc3d",
@@ -35678,9 +35805,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisie d’objets interdits et non autorisés à Établissement Drummond",
-      "sum": "Le 30 mai 2026, grâce à la vigilance du personnel, des objets interdits et non autorisés ont été saisis à l’Établissement Drummond, un établissement fédéral à sécurité moyenne.",
-      "cat": "Innovation, science & industry"
+      "title": "Objets interdits saisis à l'Établissement Drummond",
+      "sum": "Le 30 mai 2026, du personnel de l'Établissement Drummond, un établissement fédéral à sécurité moyenne, a saisi des objets interdits et non autorisés. Cette action s'inscrit dans les mesures de sécurité régulières de l'établissement.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "f2d0ff128b2de270",
@@ -35690,9 +35818,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce une nomination au Centre canadien sur les dépendances et l’usage de substance",
-      "sum": "L’honorable Marjorie Michel, ministre de la Santé, a annoncé la nomination d’Isabelle Fortier à titre de membre du conseil d’administration du Centre canadien sur les dépendances et l’usage de substance (CCDUS) pour un mandat de trois ans.",
-      "cat": "Economy"
+      "title": "Nomination au conseil d'administration du Centre canadien sur les dépendances",
+      "sum": "Le gouvernement du Canada a nommé Isabelle Fortier au conseil d'administration du Centre canadien sur les dépendances et l'usage de substance pour un mandat de trois ans. Cette nomination a été annoncée par la ministre de la Santé.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "b61f313a421748ce",
@@ -35702,9 +35831,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada lance des consultations publiques sur l’avenir de l’aéroport Billy Bishop de Toronto",
-      "sum": "L’aéroport Billy Bishop de Toronto occupe une place importante dans le réseau de transport aérien du Canada. Il contribue à l’emploi, au tourisme, aux déplacements professionnels, aux services d’urgence et à une meilleure connectivité entre les régions du Canada et les carrefours économiques transfrontaliers. L’aéroport est situé au cœur de la communauté riveraine de Toronto, où les personnes qui y habitent et…",
-      "cat": "Transportation"
+      "title": "Consultations publiques lancées sur l'avenir de l'aéroport Billy Bishop",
+      "sum": "Le gouvernement du Canada entame des consultations publiques concernant l'aéroport Billy Bishop de Toronto. Cet aéroport joue un rôle important dans le transport aérien canadien, l'emploi, le tourisme et la connectivité régionale.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "a6f0fcdc7cc77138",
@@ -35714,9 +35844,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Chartrand lance le Fonds pour bâtir des collectivités fortes – Volet des impacts locaux dans le Nord",
-      "sum": "Des collectivités fortes dépendent d'infrastructures solides. En appuyant des projets communautaires à impact élevé qui reflètent les priorités locales, le gouvernement du Canada prend des mesures pour renforcer les installations locales et les espaces publics qui rassemblent les gens, tout en stimulant la croissance économique régionale et la prospérité à long terme.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Chartrand lance fonds pour collectivités fortes dans le Nord",
+      "sum": "Le gouvernement du Canada lance un nouveau fonds destiné à soutenir des projets communautaires dans le Nord qui visent à renforcer les infrastructures locales et les espaces publics. Cette initiative vise à stimuler la croissance économique régionale et la prospérité à long terme.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "94130ef81a4a7294",
@@ -35726,9 +35857,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Sidhu fait progresser les priorités commerciales et économiques du Canada à l’occasion de la Réunion de l’Organisation de coopération et de développement économiques",
-      "sum": "Le 8 juin 2026 – Paris, France – Affaires mondiales Canada La semaine dernière, le ministre du Commerce international, l’honorable Maninder Sidhu, a conclu une visite fructueuse à Paris, en France, où il a participé à la Réunion du Conseil de l’Organisation de coopération et de développement économiques (OCDE) au niveau des ministres (RCM) de 2026 et à la Réunion informelle des ministres de l’OMC.",
-      "cat": "Foreign affairs"
+      "title": "Le ministre Sidhu participe à des réunions commerciales internationales à Paris",
+      "sum": "Le ministre canadien du Commerce international a participé à la Réunion du Conseil de l'OCDE et à une réunion informelle des ministres de l'OMC à Paris en juin 2026. Ces rencontres visaient à discuter des priorités commerciales et économiques du Canada.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "e393424d6eee815b",
@@ -35738,9 +35870,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre MacDonald conclut sa participation à la réunion des ministres de l’Agriculture du G7",
-      "sum": "L’honorable Heath MacDonald, ministre de l’Agriculture et de l’Agroalimentaire du Canada, a conclu aujourd’hui une réunion productive avec ses homologues du Groupe des Sept (G7), au cours de laquelle il a fait la promotion du Canada, du secteur agricole et agroalimentaire canadien, de l’utilisation efficace des engrais, du commerce agroalimentaire ouvert et des intérêts du Canada à l’étranger, tout en soulignant les…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada participe à la réunion des ministres de l'Agriculture du G7",
+      "sum": "Le ministre canadien de l'Agriculture a participé à une réunion avec ses homologues du G7 pour discuter de l'agriculture, de l'agroalimentaire, des engrais et du commerce agricole international.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "ec2e934388bcedca",
@@ -35788,9 +35921,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Statement from Minister McGuinty on Canadian Armed Forces Day",
-      "sum": "The Honourable David J. McGuinty, Minister of National Defence, issued the following statement today in recognition of Canadian Armed Forces Day",
-      "cat": "National defence"
+      "title": "Minister McGuinty issues statement on Canadian Armed Forces Day",
+      "sum": "The Minister of National Defence released a statement to mark Canadian Armed Forces Day. The statement recognized the occasion and the role of the Canadian Armed Forces.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "d37142534fd57c74",
@@ -35800,9 +35934,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration du ministre McGuinty à l’occasion de la journée des Forces armées canadiennes",
-      "sum": "Aujourd’hui, l’honorable David J. McGuinty, ministre de la Défense nationale, a fait la déclaration suivante pour souligner la Journée des Forces armées canadiennes",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre McGuinty souligne la Journée des Forces armées canadiennes",
+      "sum": "Le ministre de la Défense nationale a publié une déclaration à l'occasion de la Journée des Forces armées canadiennes.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "6b36c87488dcff32",
@@ -35837,20 +35972,22 @@
       "kind": "official",
       "lang": "en",
       "title": "Canada launches Forest Sector Action Plan",
-      "sum": "Canada launches Forest Sector Action Plan",
-      "cat": "Economy"
+      "sum": "Canada has launched an action plan focused on the forest sector. The plan outlines initiatives related to forestry management and development.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "4b5f580250cfb7a3",
       "date": "2026-06-05",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/national-film-board/news/2026/06/melanie-boudreau-blanchard-appointed-producer-with-the-nfbs-french-animation-unit.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Mélanie Boudreau Blanchard appointed Producer with the NFB’s French Animation Unit",
-      "sum": "Christine Noël, the Executive Producer of the NFB’s English and French Animation Units, has announced the appointment of Mélanie Boudreau Blanchard as Producer in the French Animation Unit.",
-      "cat": "Economy"
+      "title": "Mélanie Boudreau Blanchard appointed NFB French Animation Unit Producer",
+      "sum": "Mélanie Boudreau Blanchard has been appointed as a Producer with the National Film Board's French Animation Unit. The appointment was announced by Christine Noël, who leads both the English and French Animation Units.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "3f7e4a0a736b2970",
@@ -35860,9 +35997,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Stream Canadian on NFB this June. Celebrating National Indigenous History Month, Pride Month and Canadian performing arts excellence.",
-      "sum": "This June, keep streaming Canadian on NFB, with premieres, curated channels for National Indigenous History Month and Pride Month, and a wealth of new short films.",
-      "cat": "Indigenous services"
+      "title": "NFB announces streaming content for June celebrations",
+      "sum": "The National Film Board is offering streaming programming in June featuring new content and curated channels to mark National Indigenous History Month, Pride Month, and Canadian performing arts.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "0e7ba52c2eabf3d6",
@@ -35872,9 +36010,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "ON FILME, the NFB’s YouTube-based documentary initiative, launches its second project. With Féminisites, journalist Anne-Lovely Etienne explores the darker side of dating apps.",
-      "sum": "Making its streaming debut tomorrow on YouTube, Anne-Lovely Etienne’s Féminisites delves into a topical issue: how to ensure the safety of women who use dating apps?",
-      "cat": "Economy"
+      "title": "NFB launches documentary on dating app safety",
+      "sum": "The National Film Board is releasing a documentary called Féminisites as part of its ON FILME YouTube initiative. The film by journalist Anne-Lovely Etienne examines safety concerns for women using dating apps.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "cb1a29e20cd068c6",
@@ -35884,9 +36023,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Joly to deliver remarks and hold discussions with her European counterparts at Conference of Montreal",
-      "sum": "The Honourable Mélanie Joly, Minister of Industry and Minister responsible for Canada Economic Development for Quebec Regions, will deliver remarks at the Conference of Montreal and participate in various discussions throughout the conference.",
-      "cat": "Culture & heritage"
+      "title": "Minister Joly to speak at Conference of Montreal",
+      "sum": "Minister of Industry Mélanie Joly will deliver remarks and participate in discussions with European counterparts at the Conference of Montreal.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "6b73c145e8093b47",
@@ -35896,9 +36036,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Every Thursday at 7 p.m. Hello Film! Free screenings at the NFB in March",
-      "sum": "This March, the NFB continues its series of free public screenings every Thursday at the Alanis Obomsawin Theatre in the Quartier des Spectacles.",
-      "cat": "Economy"
+      "title": "NFB offers free film screenings every Thursday in March",
+      "sum": "The National Film Board is providing free public film screenings every Thursday at 7 p.m. during March at the Alanis Obomsawin Theatre in Montreal's Quartier des Spectacles.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "76b9a432bd5bfbcb",
@@ -35908,9 +36049,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Joint statement on situation between Hezbollah and Israel",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs; Penny Wong, Australia’s Minister for Foreign Affairs; Lars Løkke Rasmussen, Denmark’s Minister for Foreign Affairs; Margus Tsahkna, Estonia’s Minister of Foreign Affairs; Kaja Kallas, High Representative of the European Union for Foreign Affairs and Security Policy; Elina Valtonen, Finland’s Minister for Foreign Affairs; Jean-Noël Barrot, France’s Minister for…",
-      "cat": "Foreign affairs"
+      "title": "Canada and allies issue joint statement on Hezbollah-Israel situation",
+      "sum": "Canada's Minister of Foreign Affairs Anita Anand joined ministers and officials from Australia, Denmark, Estonia, the European Union, Finland, France and other countries in releasing a coordinated statement regarding the situation between Hezbollah and Israel.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "faa4a86a230619ef",
@@ -35920,9 +36062,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canadians to Begin Receiving Enhanced Canada Groceries and Essentials Benefit Starting Today",
-      "sum": "Today, the Honourable Wayne Long, Secretary of State responsible for the Canada Revenue Agency and Financial Institutions, highlighted that the Canada Revenue Agency (CRA) has begun issuing a one-time top-up payment under the new Canada Groceries and Essentials Benefit, equal to a 50% increase in the annual 2025-26 value of the Goods and Services Tax (GST) Credit.",
-      "cat": "Finance"
+      "title": "Canada begins issuing enhanced grocery and essentials benefit payments",
+      "sum": "The Canada Revenue Agency has started distributing a one-time top-up payment to eligible Canadians under the Canada Groceries and Essentials Benefit. The payment equals 50% of the annual 2025-26 value of the GST Credit.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "729e36c42c9d6d3d",
@@ -35932,9 +36075,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Federal government and Guelph announce fleet electrification upgrades for local public transit",
-      "sum": "Today, Dominique O’Rourke, Member of Parliament for Guelph, and Tara Baker, Chief Administrative Officer for the City of Guelph, announced an important milestone in advancing local public transit in the City of Guelph by allocating part of its 10-year allocation through the Canada Public Transit Fund (CPTF) toward the purchase of two on-route electric bus charging systems. This project is part of the already…",
-      "cat": "Transportation"
+      "title": "Federal and local government fund electric bus charging systems in Guelph",
+      "sum": "The federal government and City of Guelph announced funding for two electric bus charging systems as part of the Canada Public Transit Fund's 10-year allocation to the city. The project supports the transition of local public transit to electric vehicles.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "a2e3003edf43a139",
@@ -35944,9 +36088,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canadians to Begin Receiving Enhanced Canada Groceries and Essentials Benefit Starting Today",
-      "sum": "The world’s economic and trade landscape is undergoing a rapid transformation, thrusting countries, businesses, and workers into a period of uncertainty. Canada’s new government is responding accordingly, with a focus on what we can control: building a stronger economy at home, protecting Canadian jobs and sectors, and making life more affordable.",
-      "cat": "Economy"
+      "title": "Enhanced Canada Groceries and Essentials Benefit payments begin",
+      "sum": "The government is starting to distribute increased payments through the Canada Groceries and Essentials Benefit program to help Canadians with food and essential costs. The benefit is part of the government's response to economic challenges and affordability concerns.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "bf3453f9cd4ea268",
@@ -35956,9 +36101,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Olszewski and Minister Robertson Highlight that Canadians Will Begin Receiving Enhanced Canada Groceries and Essentials Benefit Starting Today",
-      "sum": "Minister Olszewski and Minister Robertson Highlight that Canadians Will Begin Receiving Enhanced Canada Groceries and Essentials Benefit Starting Today",
-      "cat": "Economy"
+      "title": "Enhanced Canada Groceries and Essentials Benefit payments begin",
+      "sum": "The Canada Groceries and Essentials Benefit has been enhanced and payments to eligible Canadians are beginning. This benefit provides financial support for purchasing groceries and essential items.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "a191d427a160ee11",
@@ -35968,21 +36114,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Environment and Climate Change Canada presents summer seasonal outlook",
-      "sum": "Today, Environment and Climate Change Canada presented a seasonal outlook for the summer. Experts predicted warmer-than-normal temperatures across most of Canada.",
-      "cat": "Sustainable development"
+      "title": "Environment Canada releases summer seasonal temperature outlook",
+      "sum": "Environment and Climate Change Canada released a seasonal outlook for summer, predicting warmer-than-normal temperatures across most of Canada.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "d96cfe785c01a4d1",
       "date": "2026-06-05",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/food-inspection-agency/news/2026/06/canadian-food-inspection-agency-testing-shows-strong-food-safety-in-canada.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Canadian Food Inspection Agency testing shows strong food safety in Canada",
-      "sum": "The Canadian Food Inspection Agency (CFIA), Canada’s largest science-based regulator, has published annual national testing and monitoring program results, confirming very high rates of compliance with Canadian food safety standards.",
-      "cat": "Innovation, science & industry"
+      "title": "CFIA releases annual food safety testing results",
+      "sum": "The Canadian Food Inspection Agency published results from its annual national testing and monitoring program. The results show high rates of compliance with Canadian food safety standards.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "7c127f92ea70a9b0",
@@ -35992,9 +36140,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada renews support to the International Sustainability Standards Board office in Montréal",
-      "sum": "In an increasingly divided and uncertain world, the Government of Canada is focused on what it can control—building a stronger, more independent, and more sustainable economy—and is committed to mobilizing public and private capital to support investment in the transition to net-zero.",
-      "cat": "Foreign affairs"
+      "title": "Canada renews support for International Sustainability Standards Board",
+      "sum": "The Government of Canada is continuing its support for the International Sustainability Standards Board office located in Montréal. The government stated this aligns with its commitment to building a sustainable economy and mobilizing capital for net-zero transition investments.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "823e1f96e64a699a",
@@ -36004,9 +36153,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Solomon highlights Canada’s National Artificial Intelligence Strategy",
-      "sum": "Countries around the world are adapting to a new era of innovation as emerging technologies reshape economies, industries and labour markets. Artificial intelligence is a key driver of this transformation, opening new opportunities to boost productivity, strengthen competitiveness and improve how people work and access services.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada's National Artificial Intelligence Strategy highlighted by Minister",
+      "sum": "A government minister discussed Canada's National Artificial Intelligence Strategy and described how artificial intelligence is transforming economies and industries globally. The strategy aims to improve productivity, competitiveness, and how people work and access services.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "cfccc6036520dd1f",
@@ -36016,9 +36166,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "World Environment Day: Statement from the Honourable Julie Dabrusin, Minister of the Environment, Climate Change and Nature",
-      "sum": "Today we celebrate World Environment Day, a day that reminds us that the choices we make now shape the planet we leave to future generations",
-      "cat": "Sustainable development"
+      "title": "Environment Minister marks World Environment Day",
+      "sum": "The Minister of Environment, Climate Change and Nature issued a statement on World Environment Day, noting that current choices affect future environmental conditions.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "c1b0ae073c799b25",
@@ -36028,9 +36179,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Secretary of State Sarai highlights that Canadians will begin receiving enhanced Canada Groceries and Essentials Benefit starting today",
-      "sum": "June 5, 2026 Surrey, British Columbia Global Affairs Canada The world’s economic and trade landscape is undergoing a rapid transformation, thrusting countries, businesses, and workers into a period of uncertainty. Canada’s new government is responding accordingly, with a focus on what we can control: building a stronger economy at home, protecting Canadian jobs and sectors, and making life more affordable.",
-      "cat": "Economy"
+      "title": "Enhanced Canada Groceries and Essentials Benefit payments begin",
+      "sum": "The federal government has started distributing increased payments through the Canada Groceries and Essentials Benefit program. The enhancement is part of the government's efforts to make life more affordable for Canadians.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "8f7112b4663d200c",
@@ -36040,9 +36192,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister LeBlanc discusses shared priorities with Canadian Municipal Leaders at the Federation of Canadian Municipalities’ Annual Conference",
-      "sum": "Today, the Honourable Dominic LeBlanc, President of the King’s Privy Council for Canada and Minister responsible for Canada-U.S. Trade, Intergovernmental Affairs, Internal Trade and One Canadian Economy, met with municipal leaders and Rebecca Bligh, President of the Federation of Canadian Municipalities (FCM), during FCM’s Annual Conference.",
-      "cat": "Economy"
+      "title": "Minister LeBlanc meets municipal leaders at annual conference",
+      "sum": "The Minister responsible for intergovernmental affairs met with municipal leaders and the president of the Federation of Canadian Municipalities at their annual conference to discuss shared priorities.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "77220504660efc6d",
@@ -36052,9 +36205,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "CBSA investigation results in charges for significant firearms and drug offences",
-      "sum": "B.C. resident charged with 21 counts for significant firearm and drug offences, following CBSA investigation",
-      "cat": "Healthcare"
+      "title": "B.C. resident charged with firearms and drug offences",
+      "sum": "A British Columbia resident has been charged with 21 counts related to significant firearm and drug offences following an investigation by the Canada Border Services Agency.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "7b3bf86089380025",
@@ -36064,9 +36218,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Message from the Minister of Health on World Food Safety Day 2026",
-      "sum": "Food safety matters to every Canadian — from our farms to our grocery stores to our kitchen tables. This World Food Safety Day, under the theme “From burden to solutions – safe food everywhere,” we recognize how data about the impact of foodborne illness on health, livelihoods, education and economies can help drive cost-effective and science-based solutions that help keep people safe.",
-      "cat": "Healthcare"
+      "title": "Minister of Health marks World Food Safety Day 2026",
+      "sum": "The Minister of Health issued a message on World Food Safety Day 2026, emphasizing the importance of food safety across Canada's food supply chain. The message highlights how data on foodborne illness impacts can inform evidence-based solutions to protect public health.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "b034046a305168f7",
@@ -36076,21 +36231,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Champagne at the Conference of Montreal for a fireside chat",
-      "sum": "The Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will participate in a fireside chat at the 32nd edition of the Conference of Montreal, alongside Mathias Cormann, Secretary-General of the Organisation for Economic Co-operation and Development.",
-      "cat": "Finance"
+      "title": "Finance Minister participates in Conference of Montreal fireside chat",
+      "sum": "Minister of Finance François-Philippe Champagne will participate in a fireside chat at the Conference of Montreal alongside the Secretary-General of the OECD. The event is part of the 32nd edition of the conference.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "5fa72d9e8f5daa47",
       "date": "2026-06-05",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/06/building-local-infrastructure-projects-through-canadas-regional-development-agencies.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Building local infrastructure projects through Canada’s Regional Development Agencies",
-      "sum": "Building a strong Canada starts with building strong communities. In April, the Government of Canada launched the Build Communities Strong Fund, a $51 billion investment to build the infrastructure that Canadians rely on every day.",
-      "cat": "Infrastructure"
+      "title": "Government launches $51 billion infrastructure investment fund",
+      "sum": "The Government of Canada established the Build Communities Strong Fund in April with $51 billion in funding to support local infrastructure projects across the country. The fund aims to build infrastructure that communities depend on daily.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "44ba8bc1176cb5c4",
@@ -36100,9 +36257,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Governments of Canada and Manitoba partner to support tariff-impacted workers and strengthen the workforce",
-      "sum": "The global trade landscape is shifting rapidly, creating uncertainty and challenges for workers, industries and communities across Canada. In a rapidly changing world, the Government of Canada is focusing on what it can control: building a stronger more resilient Canada. This calls for decisive action from governments at all levels to protect jobs, strengthen local economies and ensure workers can adapt to changing…",
-      "cat": "Economy"
+      "title": "Canada and Manitoba partner on support for tariff-affected workers",
+      "sum": "The federal and Manitoba governments announced a partnership to support workers affected by changing trade conditions and help strengthen the workforce. The initiative aims to protect jobs and help workers adapt to economic shifts.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "aea2f99553ae76c8",
@@ -36112,21 +36270,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Alty Highlights that Canadians Will Begin Receiving Enhanced Canada Groceries and Essentials Benefit Starting Today",
-      "sum": "The world’s economic and trade landscape is undergoing a rapid transformation, thrusting countries, businesses, and workers into a period of uncertainty. Canada’s new government is responding accordingly, with a focus on what we can control: building a stronger economy at home, protecting Canadian jobs and sectors, and making life more affordable.",
-      "cat": "Economy"
+      "title": "Enhanced Canada Groceries and Essentials Benefit payments begin",
+      "sum": "The government is starting payments under an enhanced Canada Groceries and Essentials Benefit for Canadian residents. The benefit is part of the government's response to economic uncertainty and rising costs of living.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "b21741bfa6528dbb",
       "date": "2026-06-05",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/06/new-trail-network-in-niisaachewan-anishinaabe-first-nation.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "New trail network in Niisaachewan Anishinaabe First Nation",
-      "sum": "A plan has been developed to add new trails, pathways, and sidewalks across the Dalles reserve of Niisaachewan Anishinaabe First Nation, supported by an investment of $50,000 from the Government of Canada.",
-      "cat": "Transportation"
+      "title": "Canada funds new trail network at Niisaachewan Anishinaabe First Nation",
+      "sum": "The Government of Canada is investing $50,000 to develop new trails, pathways, and sidewalks on the Dalles reserve of Niisaachewan Anishinaabe First Nation. A plan has been created to implement this infrastructure improvement.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "256604e2a261aaf9",
@@ -36136,21 +36296,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada supports youth soccer and community celebrations ahead of Canada’s final send-off match",
-      "sum": "The Government of Canada is helping young players, families and communities take part in Canada’s final send-off match before the FIFA World Cup 2026™",
-      "cat": "Economy"
+      "title": "Canada funds youth soccer programs ahead of World Cup",
+      "sum": "The Government of Canada is providing support for youth soccer players, families, and communities to participate in Canada's final preparation match before the FIFA World Cup 2026.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "158c32aca6dbe66a",
       "date": "2026-06-05",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/06/the-government-of-canada-invests-15-million-in-one-of-saskatchewans-largest-solar-projects.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "The Government of Canada invests $15 million in one of Saskatchewan’s largest solar projects",
-      "sum": "The Government of Canada invests $15 million in one of Saskatchewan’s largest solar projects",
-      "cat": "Economy"
+      "title": "Canada invests $15 million in Saskatchewan solar project",
+      "sum": "The Government of Canada is providing $15 million in funding toward a major solar energy project in Saskatchewan. This investment supports renewable energy development in the province.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "83149eac1986a4f4",
@@ -36160,9 +36322,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Samuel De Champlain Bridge: Special Illumination for World Environment Day",
-      "sum": "Tonight, the Samuel De Champlain Bridge will be lit up in green from sunset to 10 p.m. to celebrate World Environment Day.",
-      "cat": "Sustainable development"
+      "title": "Samuel De Champlain Bridge illuminated green for World Environment Day",
+      "sum": "The Samuel De Champlain Bridge will be lit in green from sunset to 10 p.m. tonight to mark World Environment Day.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "ed1c6a3a76cf1b69",
@@ -36172,21 +36335,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizures of contraband and unauthorized items at Stony Mountain Institution",
-      "sum": "On June 2 and 3, 2026, as a result of the vigilance of staff members, packages containing contraband and unauthorized items were seized at Stony Mountain Institution.",
-      "cat": "Innovation, science & industry"
+      "title": "Contraband seized at Stony Mountain Institution",
+      "sum": "Staff at Stony Mountain Institution seized packages containing contraband and unauthorized items on June 2 and 3, 2026. The seizures resulted from monitoring efforts by institution staff.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "4df136da6270a95f",
       "date": "2026-06-05",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/border-services-agency/news/2026/06/canada-the-netherlands-belgium-and-france-strengthen-their-partnership-to-combat-international-drug-trafficking.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada, the Netherlands, Belgium and France strengthen their partnership to combat international drug trafficking",
-      "sum": "Canada, the Netherlands, Belgium and France strengthen their partnership to combat international drug trafficking",
-      "cat": "Healthcare"
+      "title": "Canada partners with Netherlands, Belgium, France on drug trafficking",
+      "sum": "Canada has strengthened its partnership with the Netherlands, Belgium, and France to address international drug trafficking. The four countries are working together to combat this issue.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "9892eca7354262e0",
@@ -36196,9 +36361,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The Canadian Food Inspection Agency implements disease control measures to prevent spread of New World screwworm",
-      "sum": "Following a confirmed finding of New World screwworm in a calf in Texas, the Canadian Food Inspection Agency (CFIA) announced today that it will implement temporary import restrictions on livestock, including horses, from entering Canada from affected areas.",
-      "cat": "Animal welfare"
+      "title": "Canada restricts livestock imports from areas with screwworm disease",
+      "sum": "The Canadian Food Inspection Agency announced temporary import restrictions on livestock from affected areas in the United States following a confirmed case of New World screwworm in Texas. The restrictions aim to prevent the disease from spreading into Canada.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "4954c04aaff8a7c9",
@@ -36208,9 +36374,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Federal government to mark Pride Season with flag raising and funding to support safer 2SLGBTQI+ communities",
-      "sum": "The Honourable Rechie Valdez, Minister of Women and Gender Equality and Secretary of State (Small Business and Tourism), will mark Pride Season by participating in a flag raising ceremony and highlighting federal funding to address safety and security needs at upcoming Pride festivals.",
-      "cat": "Economy"
+      "title": "Federal government marks Pride Season with flag raising and funding",
+      "sum": "The Minister of Women and Gender Equality will participate in a flag raising ceremony to mark Pride Season and highlight federal funding directed at addressing safety and security needs at Pride festivals across the country.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "36f7f5ab6fb109bb",
@@ -36220,21 +36387,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada lance un plan d’action pour le secteur forestier",
-      "sum": "Le Canada lance un plan d’action pour le secteur forestier",
-      "cat": "Economy"
+      "title": "Canada lance un plan d'action pour le secteur forestier",
+      "sum": "Le gouvernement du Canada a annoncé un plan d'action destiné à soutenir et orienter le développement du secteur forestier canadien.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "67c168cfbe2912ba",
       "date": "2026-06-05",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/office-national-film/nouvelles/2026/06/melanie-boudreau-blanchard-nommee-productrice-a-lunite-danimation-francophone-de-lonf.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Mélanie Boudreau Blanchard nommée productrice à l’Unité d’animation francophone de l’ONF",
-      "sum": "Christine Noël, productrice exécutive des Unités d’animation francophone et anglophone de l’ONF, annonce la nomination de Mélanie Boudreau Blanchard au poste de productrice à l’animation francophone.",
-      "cat": "Economy"
+      "title": "Mélanie Boudreau Blanchard nommée productrice à l'ONF",
+      "sum": "Mélanie Boudreau Blanchard a été nommée productrice à l'Unité d'animation francophone de l'Office national du film. Cette nomination a été annoncée par Christine Noël, productrice exécutive des unités d'animation francophone et anglophone de l'ONF.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "4f3bcb1d8c245af7",
@@ -36244,9 +36413,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "En juin, visionnez canadien sur les plateformes de l’ONF. On lance les célébrations : place au Mois national de l’histoire autochtone, au Mois de la Fierté et à l’excellence dans les arts du spectacle !",
-      "sum": "En juin, continuez de visionner canadien sur les plateformes de l’ONF : nous vous proposons des premières, des chaînes spécialement conçues en vue du Mois national de l’histoire autochtone et du Mois de la Fierté, et une mine de nouveaux courts métrages.",
-      "cat": "Justice"
+      "title": "ONF propose programmation spéciale pour juin",
+      "sum": "L'Office national du film présente une programmation spéciale en juin incluant des contenus pour le Mois national de l'histoire autochtone et le Mois de la Fierté. La plateforme offrira des premières et de nouveaux courts métrages.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "fa87aa6cabb18428",
@@ -36256,9 +36426,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Second projet d’ON FILME, l’initiative de création documentaire de l’ONF pour YouTube. Dans Féminisites, la journaliste Anne-Lovely Etienne s’intéresse à la face cachée des applications de rencontre.",
-      "sum": "Accessible dès demain sur YouTube, Féminisites (de rencontre), d’Anne-Lovely Etienne, explore un sujet brûlant d’actualité : comment assurer la sécurité des femmes sur les plateformes de rencontre?",
-      "cat": "Innovation, science & industry"
+      "title": "L'ONF lance un documentaire sur la sécurité des femmes en ligne",
+      "sum": "L'Office national du film publie un nouveau documentaire intitulé Féminisites sur YouTube. Le film examine les enjeux de sécurité auxquels font face les femmes sur les applications de rencontre.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "6c989f161647830b",
@@ -36268,9 +36439,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly prononcera une allocution et participera à des séances de discussion avec ses homologues européens à la Conférence de Montréal",
-      "sum": "La ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, l’honorable Mélanie Joly, prononcera un discours et participera à des discussions durant la Conférence de Montréal.",
-      "cat": "Economy"
+      "title": "Ministre Joly participe à la Conférence de Montréal",
+      "sum": "La ministre de l'Industrie, Mélanie Joly, prononcera un discours et participera à des discussions avec ses homologues européens lors de la Conférence de Montréal.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "85a9f1444c01dfca",
@@ -36280,9 +36452,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Rendez-vous tous les jeudis à 19 heures. Salut ciné ! Projections gratuites à l’ONF en mars.",
-      "sum": "En mars, l’ONF poursuit son offre de projections publiques gratuites tous les jeudis à la salle Alanis-Obomsawin, au cœur du Quartier des spectacles.",
-      "cat": "Economy"
+      "title": "L'ONF offre des projections gratuites chaque jeudi en mars",
+      "sum": "L'Office national du film propose des séances de cinéma gratuites tous les jeudis à 19 heures en mars à la salle Alanis-Obomsawin du Quartier des spectacles.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "147696149973e4d3",
@@ -36292,9 +36465,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration commune sur la situation entre le Hezbollah et Israël",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand; la ministre australienne des Affaires étrangères, Penny Wong ; le ministre des Affaires étrangères du Danemark, Lars Løkke Rasmussen; le ministre des Affaires étrangères de l’Estonie, Margus Tsahkna; la ministre des Affaires étrangères de la Finlande, Elina Valtonen; le ministre de l’Europe et des Affaires étrangères de la France, Jean Noël Barrot; la…",
-      "cat": "Innovation, science & industry"
+      "title": "Déclaration commune sur la situation Hezbollah-Israël",
+      "sum": "Des ministres des Affaires étrangères de plusieurs pays, dont le Canada, ont publié une déclaration commune concernant la situation entre le Hezbollah et Israël. Cette déclaration coordonnée regroupe les positions de multiples gouvernements sur ce conflit.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "6c3d16a7bfc5e368",
@@ -36304,9 +36478,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les Canadiens commenceront dès aujourd’hui à recevoir l’Allocation canadienne pour l’épicerie et les besoins essentiels bonifiée",
-      "sum": "Aujourd’hui, l’honorable Wayne Long, secrétaire d’État (Agence du revenu du Canada et Institutions financières), a souligné que l’Agence du revenu du Canada a commencé à verser le supplément unique prévu dans le cadre de la nouvelle Allocation canadienne pour l’épicerie et les besoins essentiels. Ce supplément unique correspond à une hausse de 50 % de la valeur annuelle du Crédit pour la taxe sur les produits et…",
-      "cat": "Finance"
+      "title": "Allocation canadienne pour l'épicerie et les besoins essentiels augmentée",
+      "sum": "Le gouvernement du Canada commence à verser un supplément unique aux bénéficiaires de l'Allocation canadienne pour l'épicerie et les besoins essentiels. Ce supplément représente une augmentation de 50 % de la valeur annuelle du crédit existant.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "2825bf4e62640bc2",
@@ -36316,9 +36491,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral et Guelph annoncent l’amélioration de l’électrification du parc de véhicules de transport en commun local",
-      "sum": "Aujourd’hui, Dominique O’Rourke, députée de Guelph, et Tara Baker, directrice municipale de la Ville de Guelph, ont annoncé une étape importante pour améliorer le transport en commun dans la ville de Guelph. La Ville affectera une partie de son allocation sur 10 ans au titre du Fonds pour le transport en commun du Canada (FTCC) à l’acquisition de deux systèmes de recharge pour autobus électriques, qui seront…",
-      "cat": "Transportation"
+      "title": "Guelph reçoit du financement pour électrifier ses autobus de transport en commun",
+      "sum": "Le gouvernement fédéral et la Ville de Guelph annoncent un investissement dans l'électrification des véhicules de transport en commun local. La Ville utilisera une partie de son allocation du Fonds pour le transport en commun du Canada pour l'acquisition de systèmes de recharge pour autobus électriques.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "798be937597d1cc5",
@@ -36328,9 +36504,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les Canadiens commenceront dès aujourd’hui à recevoir l’Allocation canadienne pour l’épicerie et les besoins essentiels bonifiée",
-      "sum": "Le paysage économique et commercial mondial change rapidement, ce qui plonge les pays, les entreprises et les travailleurs dans une période d’incertitude. Le nouveau gouvernement du Canada prend des mesures adéquates et se concentre sur ce qu’il peut contrôler : bâtir une économie plus forte au pays, protéger les emplois et les secteurs canadiens et rendre la vie plus abordable.",
-      "cat": "Innovation, science & industry"
+      "title": "Allocation canadienne pour l'épicerie bonifiée commence aujourd'hui",
+      "sum": "Le gouvernement du Canada augmente l'Allocation canadienne pour l'épicerie et les besoins essentiels à partir d'aujourd'hui. Cette mesure vise à rendre la vie plus abordable pour les Canadiens face aux incertitudes économiques mondiales.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "adbd02217c1e9fde",
@@ -36340,9 +36517,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Olszewski et le ministre Robertson soulignent que les Canadiens commenceront dès aujourd’hui à recevoir l’Allocation canadienne pour l’épicerie et les besoins essentiels bonifiée",
-      "sum": "Minister Olszewski and Minister Robertson Highlight that Canadians Will Begin Receiving Enhanced Canada Groceries and Essentials Benefit Starting Today",
-      "cat": "Economy"
+      "title": "Allocation canadienne pour l'épicerie bonifiée entre en vigueur",
+      "sum": "Le gouvernement fédéral met en place une allocation améliorée pour aider les Canadiens à couvrir les dépenses d'épicerie et d'essentiels. Les paiements commencent immédiatement.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "b6ec4d3b1c233a66",
@@ -36352,21 +36530,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Environnement et Changement climatique Canada fait un survol de la météo attendue cet été",
-      "sum": "Aujourd’hui, Environnement et Changement climatique Canada a fait un survol de la météo attendue cet été. Les experts prévoient des températures plus chaudes que la normale dans la majeure partie du Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Environnement Canada prévoit des températures chaudes cet été",
+      "sum": "Environnement et Changement climatique Canada a présenté ses prévisions météorologiques pour l'été. Les experts prévoient des températures plus chaudes que la normale dans la majeure partie du Canada.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "179900356c8c0763",
       "date": "2026-06-05",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/agence-inspection-aliments/nouvelles/2026/06/les-analyses-menees-par-lagence-canadienne-dinspection-des-aliments-revelent-dexcellents-resultats-en-matiere-de-salubrite-des-aliments-au-canada.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Les analyses menées par l’Agence canadienne d’inspection des aliments révèlent d’excellents résultats en matière de salubrité des aliments au Canada",
-      "sum": "L’Agence canadienne d’inspection des aliments (ACIA), le plus important organisme de réglementation à vocation scientifique du Canada, a publié les résultats annuels des programmes nationaux de dépistage et de surveillance, qui confirment des taux de conformité très élevés aux normes canadiennes en matière de salubrité des aliments.",
-      "cat": "Economy"
+      "title": "L'ACIA publie des résultats positifs de surveillance alimentaire",
+      "sum": "L'Agence canadienne d'inspection des aliments a publié ses résultats annuels de dépistage et de surveillance. Les résultats montrent des taux de conformité élevés aux normes canadiennes en matière de salubrité des aliments.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "3367de508029f2ae",
@@ -36376,9 +36556,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada renouvelle le soutien au bureau de Montréal du Conseil des normes internationales d’information sur la durabilité",
-      "sum": "Dans un monde de plus en plus divisé et incertain, le gouvernement du Canada se concentre sur ce qu’il peut contrôler : bâtir une économie plus forte, plus indépendante et plus durable. Il est déterminé à mobiliser des capitaux publics et privés pour favoriser les investissements dans la transition vers la carboneutralité.",
-      "cat": "Foreign affairs"
+      "title": "Canada renouvelle soutien bureau Montréal normes durabilité",
+      "sum": "Le gouvernement du Canada reconduira son appui au bureau montréalais du Conseil des normes internationales d'information sur la durabilité. Cette mesure s'inscrit dans les efforts du gouvernement pour soutenir une économie plus durable et mobiliser des investissements dans la transition vers la carboneutralité.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "69136ea771306c85",
@@ -36388,9 +36569,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Solomon souligne la Stratégie nationale en matière d’intelligence artificielle du Canada",
-      "sum": "Les pays du monde entier s’adaptent à une nouvelle ère d’innovation à mesure que des technologies émergentes redéfinissent les économies, les industries et les emplois. L’intelligence artificielle est un moteur clé de cette transformation, car elle suscite de nouvelles possibilités pour stimuler la productivité, augmenter la compétitivité et améliorer les méthodes de travail et l’accès aux services.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada adopte une stratégie nationale sur l'intelligence artificielle",
+      "sum": "Le ministre Solomon présente la Stratégie nationale du Canada en matière d'intelligence artificielle, reconnaissant que cette technologie transforme les économies et les industries mondiales. La stratégie vise à stimuler la productivité, améliorer la compétitivité et moderniser les services.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "a39a2dd7339ef373",
@@ -36400,9 +36582,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration de la ministre de l’Environnement, du Changement climatique et de la Nature, l’honorable Julie Dabrusin, à l’occasion de la Journée mondiale de l’environnement",
-      "sum": "Aujourd’hui, nous soulignons la Journée mondiale de l’environnement, une journée qui nous rappelle que les choix que nous faisons maintenant façonnent la planète que nous laisserons aux générations futures",
-      "cat": "Housing"
+      "title": "Déclaration pour la Journée mondiale de l'environnement",
+      "sum": "La ministre de l'Environnement souligne l'importance de la Journée mondiale de l'environnement et rappelle que les choix actuels façonnent la planète pour les générations futures.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "3b9bcb753a224e62",
@@ -36412,9 +36595,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le secrétaire d’État Sarai souligne que les Canadiens commenceront dès aujourd’hui à recevoir l’Allocation canadienne pour l’épicerie et les besoins essentiels bonifiée",
-      "sum": "Le 5 juin 2026 Surrey (Colombie-Britannique) Affaires mondiales Canada Le paysage économique et commercial mondial change rapidement, ce qui plonge les pays, les entreprises et les travailleurs dans une période d’incertitude. Le nouveau gouvernement du Canada prend des mesures adéquates et se concentre sur ce qu’il peut contrôler : bâtir une économie plus forte au pays, protéger les emplois et les secteurs canadiens…",
-      "cat": "Innovation, science & industry"
+      "title": "Allocation canadienne pour l'épicerie bonifiée commence aujourd'hui",
+      "sum": "À partir du 5 juin 2026, les Canadiens commencent à recevoir une version améliorée de l'Allocation canadienne pour l'épicerie et les besoins essentiels. Cette mesure fait partie des efforts du gouvernement pour renforcer l'économie canadienne dans un contexte d'incertitude économique mondiale.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "ad0b3f633f9af864",
@@ -36424,9 +36608,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre LeBlanc discute des priorités communes avec les dirigeants municipaux du Canada lors de la conférence annuelle de la Fédération canadienne des municipalités",
-      "sum": "L’honorable Dominic LeBlanc, président du Conseil privé du Roi pour le Canada et ministre responsable du Commerce Canada–États-Unis, des Affaires intergouvernementales, du Commerce intérieur et de l’Unité de l’économie canadienne, a rencontré aujourd’hui les dirigeants municipaux et Rebecca Bligh, présidente de la Fédération canadienne des municipalités (FCM), lors de la conférence annuelle de la FCM.",
-      "cat": "Innovation, science & industry"
+      "title": "Le ministre LeBlanc rencontre les dirigeants municipaux canadiens",
+      "sum": "Le ministre Dominic LeBlanc a participé à la conférence annuelle de la Fédération canadienne des municipalités pour discuter des priorités communes avec les dirigeants municipaux du Canada.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "15a8487ab4363a9e",
@@ -36436,9 +36621,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Une enquête de l'ASFC mène à des accusations pour des infractions liées aux armes à feu et à la drogue",
-      "sum": "Un resident de la Colombie-Britannique accusé de 21 chefs d'accusation pour des infractions importantes liées aux armes à feu et aux drogues, à la suite d'une enquête de l'ASFC",
-      "cat": "Economy"
+      "title": "Enquête de l'ASFC mène à accusations en armes et drogues",
+      "sum": "Un résident de la Colombie-Britannique fait face à 21 accusations pour des infractions liées aux armes à feu et aux drogues suite à une enquête menée par l'Agence des services frontaliers du Canada.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "83fe19a42b143d01",
@@ -55953,6 +56139,18 @@
       "cat": "Finance",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "8821fc365d1e7980",
+      "date": "2026-04-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRlJQODYtNWJHRFppbnA5U3VzLTRET0xmRWd5VGExTjlZLXczenZzdERCcUpRbE5hQlZxRWd6YTJ4TmdTemZRM1dMZkpJY0VMZzJoc0QxaVhwLXVOelItVTFSVUxMNlkwbTlIOGwzZUJCY1B0OWZaWW9lLVpmekdIZ1J3X2ZWSW4tU0pTSkZUM2JTYTlTRVNRS1JOZ3ljaFZMN1JjMlFfM2dvb2YxY1BkaGZaaWdPZVJNNDd6MV9Mbw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney announces Canada’s first national sovereign wealth fund - BNN Bloomberg",
+      "excerpt": "PM Carney announces Canada’s first national sovereign wealth fund BNN Bloomberg",
+      "cat": "Indigenous services"
     },
     {
       "id": "cfc4b3d97e5b8c70",
