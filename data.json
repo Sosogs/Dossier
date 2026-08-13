@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T02:08:20.669Z",
-  "count": 14222,
+  "generatedAt": "2026-08-13T07:38:35.517Z",
+  "count": 14225,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -11761,6 +11761,18 @@
       "excerpt": "Enbridge is beginning construction on the Sunrise Expansion Program, a $4 billion expansion of its West Coast Natural Gas pipeline running from near Chetywnd, B.C., to the Canada-U.S. border in the Fraser Valley.",
       "cat": "Natural resources",
       "lang": "en"
+    },
+    {
+      "id": "5f3db18adc04e82e",
+      "date": "2026-07-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYW9XbXM5RklKRmI5UG1rTjRSNVc3bUhwLVNvUTBiUlpIMS04TlRpQzNSd3hsM2MxNnA3SmN3Y3hEdG1FWGtpdG9JWU8zSVVfSzVRYllXay1sRW5zdzlVWkItWDNtZnVQd1lZWXRjUDA0d0M5SFdKNkFidG9HUDc4VUJDVFUxNXQ3QTd4Q3BTaGRIZWxQemJCb3ZxejIwS3U3OERndklPZjNfY2xCYm52a0Q3SGFBWEhDRjlhQnAwX1pwbno2dWxmdGhTQzRMU2x3Q1FwWVlRVFozcVF3X2JYZklSdW4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "LETTER: Carney making progress on major projects, defence spending and international relations - PelhamToday.ca",
+      "excerpt": "LETTER: Carney making progress on major projects, defence spending and international relations PelhamToday.ca",
+      "cat": "Foreign affairs"
     },
     {
       "id": "820009e664bede01",
@@ -33969,9 +33981,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Ouverture officielle d’une station de recherche et sauvetage moderne de la Garde côtière canadienne à Port Weller, en Ontario",
-      "sum": "Aujourd’hui, la Garde côtière canadienne a officiellement ouvert sa nouvelle station de recherche et sauvetage à Port Weller, en Ontario. Grâce à son emplacement stratégique sur la rive sud du lac Ontario, cette installation moderne améliorera les opérations de recherche et sauvetage dans la région.",
-      "cat": "Economy"
+      "title": "Ouverture d'une station de recherche et sauvetage à Port Weller",
+      "sum": "La Garde côtière canadienne a officiellement ouvert une nouvelle station de recherche et sauvetage à Port Weller, en Ontario. Cette installation moderne, située sur la rive sud du lac Ontario, renforcera les opérations de recherche et sauvetage dans la région.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "07d9960388ceee98",
@@ -33981,9 +33994,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Un soldat canadien de la Première Guerre mondiale sera inhumé en France",
-      "sum": "On invite les représentants des médias à assister à l’inhumation d’un soldat canadien tué au cours de la Première Guerre mondiale, le soldat Albert (Bert) Henry Detmold, au cimetière britannique...",
-      "cat": "Economy"
+      "title": "Soldat canadien de la Première Guerre mondiale inhumé en France",
+      "sum": "Un soldat canadien tué pendant la Première Guerre mondiale, Albert Henry Detmold, sera inhumé au cimetière britannique en France. Les représentants des médias sont invités à assister à la cérémonie.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "7f1c7d6fe381e20d",
@@ -33993,9 +34007,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration commune sur le lancement du Fonds international pour la paix entre les Israéliens et les Palestiniens",
-      "sum": "Les ministres des Affaires étrangères du Royaume-Uni, de l’Australie et du Canada ont publié la déclaration commune suivante à l’occasion du lancement du Fonds international pour la paix entre les Israéliens et les Palestiniens :",
-      "cat": "Foreign affairs"
+      "title": "Canada lance fonds international pour paix israélo-palestinienne",
+      "sum": "Le Canada, le Royaume-Uni et l'Australie ont annoncé la création d'un fonds international destiné à soutenir la paix entre les Israéliens et les Palestiniens. Cette initiative est présentée par les ministres des Affaires étrangères de ces trois pays.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "156232620c8b69df",
@@ -34005,9 +34020,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ombudsman des contribuables annonce l’examen des retards de l’Agence du revenu du Canada dans le traitement des demandes de redressement T1 complexes",
-      "sum": "OTTAWA, le 11 juin 2026 – L’ombudsman des contribuables, Me François Boileau, a lancé un examen systémique des retards que subissent les contribuables lorsque l’Agence du revenu du Canada (ARC) détermine qu’un redressement T1 est complexe.",
-      "cat": "Natural resources"
+      "title": "L'ombudsman des contribuables examine les retards de l'ARC",
+      "sum": "L'ombudsman des contribuables a lancé un examen des retards que subissent les contribuables lorsque l'Agence du revenu du Canada traite les demandes de redressement T1 complexes. Cet examen systémique évaluera les délais dans le processus de traitement.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "43225cd07abd5002",
@@ -34017,9 +34033,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Alberton",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Bobby Morrissey, député d’Egmont, de l’honorable Ernie Hudson, ministre des Transports, de l’Infrastructure et de l’Énergie, et ministre des Pêches, du Développement rural et du Tourisme, et de Hector MacLeod, maire d’Alberton.",
-      "cat": "Transportation"
+      "title": "Annonce d'infrastructure à Alberton avec ministres et députés",
+      "sum": "Une annonce concernant l'infrastructure aura lieu à Alberton avec la participation du député Bobby Morrissey, du ministre Ernie Hudson et du maire Hector MacLeod.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "a1188667b3abd9cd",
@@ -34029,9 +34046,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada investit dans sa première feuille de route nationale pour l’énergie géothermique",
-      "sum": "Le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson, a annoncé aujourd’hui un financement de 468 000 $ du Programme d’innovation énergétique de Ressources naturelles Canada à l’appui du projet de feuille de route canadienne pour la géothermie profonde, dirigé par la Canadian Deep Geothermal Coalition (CDGC).",
-      "cat": "Innovation, science & industry"
+      "title": "Canada finance sa première feuille de route nationale pour géothermie",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles annonce un financement de 468 000 $ pour soutenir l'élaboration d'une feuille de route canadienne sur la géothermie profonde, dirigée par la Canadian Deep Geothermal Coalition.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "245a47f2909a6143",
@@ -34041,21 +34059,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "FedDev Ontario accepte maintenant les demandes dans le cadre du Volet des impacts locaux du Fonds pour bâtir des collectivités fortes dans le Sud de l’Ontario",
-      "sum": "Un nouveau financement fédéral appuiera des projets locaux d’infrastructure qui renforcent les collectivités et favorisent le développement économique régional",
-      "cat": "Housing"
+      "title": "FedDev Ontario accepte demandes pour financement infrastructure locale",
+      "sum": "FedDev Ontario ouvre les demandes de financement pour des projets d'infrastructure locale dans le sud de l'Ontario. Ce programme fédéral soutient des projets qui renforcent les collectivités et favorisent le développement économique régional.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "4c5f91aab3ef1a98",
       "date": "2026-06-11",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/agence-spatiale/nouvelles/2026/06/le-canada-investit-24-m-pour-renforcer-sa-souverainete-dans-le-domaine-de-lobservation-de-la-terre.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada investit 2,4 M$ pour renforcer sa souveraineté dans le domaine de l’observation de la Terre",
-      "sum": "Depuis plus de 30 ans, les satellites RADARSAT du Canada fournissent des données d’observation de la Terre (OT) d’une valeur inestimable. Ces données permettent d’assurer la prestation de services sur lesquels la population canadienne compte tous les jours, comme pour surveiller les activités de pêche illicites et soutenir les interventions d’urgence lors d’une catastrophe.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 2,4 millions pour renforcer souveraineté observation Terre",
+      "sum": "Le Canada investit 2,4 millions de dollars pour renforcer ses capacités en observation de la Terre. Cet investissement soutient les satellites RADARSAT qui fournissent des données utilisées pour surveiller les pêches illicites et soutenir les interventions d'urgence.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "6394a08698be4207",
@@ -34065,9 +34085,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Cérémonie de pose de la quille du premier destroyer de la classe Fleuves et rivières",
-      "sum": "Au nom de l’honorable David J. McGuinty, ministre de la Défense nationale, l’honorable Lena Metlege Diab, ministre de l’Immigration, des Réfugiés et de la Citoyenneté, soulignera la pose de la quille du futur NCSM Fraser, premier destroyer de la classe Fleuves et rivières, en compagnie de l’honorable Sean Fraser, ministre de la Justice et procureur général du Canada et ministre responsable de l’Agence de promotion…",
-      "cat": "Justice"
+      "title": "Pose de la quille du premier destroyer classe Fleuves et rivières",
+      "sum": "Une cérémonie marque le début officiel de la construction du NCSM Fraser, premier navire de la nouvelle classe de destroyers canadiens. Des ministres fédéraux participent à cet événement de construction navale militaire.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "9b22d6e9d35c8bdc",
@@ -34077,9 +34098,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Pêches et Océans Canada fera le point sur les principales pêches commerciales exploitées à Terre-Neuve-et-Labrador",
-      "sum": "St. John’s, Terre-Neuve-et-Labrador – Pêches et Océans Canada tiendra une séance d’information technique à l’intention des médias afin de faire le point sur l’approche de gestion adoptée pour les principales pêches commerciales exploitées à Terre-Neuve-et-Labrador.",
-      "cat": "Innovation, science & industry"
+      "title": "Pêches et Océans Canada informe sur la gestion des pêches commerciales",
+      "sum": "Pêches et Océans Canada tiendra une séance d'information technique pour les médias à St. John's afin de présenter son approche de gestion des principales pêches commerciales de Terre-Neuve-et-Labrador.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "3e14bd98db4e4334",
@@ -34089,9 +34111,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les demandes d’accréditation des médias sont maintenant acceptées pour la Conférence mondiale de l’AIE sur l’efficacité énergétique à Montréal",
-      "sum": "Les 29 et 30 juin prochains, à Montréal, le ministre de l’Énergie et des Ressources naturelles, l’honorable Tim Hodgson; la ministre de l’Environnement, du Changement climatique et de la Nature, l’honorable Julie Dabrusin; et le directeur exécutif de l’Agence internationale de l’énergie (AIE), Fatih Birol, Ph. D., coprésideront la 11e édition de la Conférence mondiale de l’AIE sur l’efficacité énergétique, de…",
-      "cat": "Housing"
+      "title": "Montréal accueille conférence mondiale sur efficacité énergétique",
+      "sum": "Le Canada accueillera la 11e Conférence mondiale de l'AIE sur l'efficacité énergétique à Montréal les 29 et 30 juin. Des ministres canadiens et le directeur de l'Agence internationale de l'énergie coprésideront l'événement.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "6fcd625794965490",
@@ -34101,9 +34124,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly renforce les liens stratégiques entre le Canada et la France à la Conférence de Montréal",
-      "sum": "Dans un monde de plus en plus dangereux et fragmenté, le gouvernement du Canada se concentre sur ce qu’il peut contrôler.",
-      "cat": "Economy"
+      "title": "Canada et France renforcent leurs liens stratégiques",
+      "sum": "La ministre Joly participe à la Conférence de Montréal pour renforcer les relations stratégiques entre le Canada et la France. Le gouvernement canadien affirme se concentrer sur les enjeux qu'il peut contrôler dans un contexte mondial instable.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "40c0ab898bfde0fa",
@@ -34113,9 +34137,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly renforce les liens stratégiques entre le Canada et la Commission européenne à la Conférence de Montréal",
-      "sum": "Dans un monde de plus en plus dangereux et fragmenté, le gouvernement du Canada se concentre sur ce qu’il peut contrôler.",
-      "cat": "Economy"
+      "title": "Le Canada renforce ses relations avec la Commission européenne",
+      "sum": "La ministre Joly a renforcé les liens stratégiques entre le Canada et la Commission européenne lors de la Conférence de Montréal. Le gouvernement du Canada affirme se concentrer sur les enjeux qu'il peut contrôler dans un contexte international complexe.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "cc87d84ab507035d",
@@ -34125,21 +34150,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Table ronde au sujet de la nouvelle Loi sur les médias sociaux sécuritaires",
-      "sum": "Le ministre Miller tiendra une table ronde réunissant des députés et des parties prenantes afin de discuter d’une nouvelle mesure législative visant à rendre les réseaux sociaux et les agents conversationnels plus sécuritaires pour les enfants.",
-      "cat": "Innovation, science & industry"
+      "title": "Table ronde sur la loi médias sociaux sécuritaires",
+      "sum": "Le ministre Miller organisera une table ronde avec des députés et des parties prenantes pour discuter d'une nouvelle mesure législative visant à rendre les réseaux sociaux et les agents conversationnels plus sécuritaires pour les enfants.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "a0e0b148795a6eaf",
       "date": "2026-06-11",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/06/le-canada-et-lontario-investissent-dans-des-vehicules-de-transport-en-commun-a-cobourg-et-a-port-hope.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et l’Ontario investissent dans des véhicules de transport en commun à Cobourg et à Port Hope",
-      "sum": "Les gouvernements fédéral et provincial, ainsi que les municipalités de Cobourg et de Port Hope investissent dans le transport en commun.",
-      "cat": "Transportation"
+      "title": "Canada et Ontario investissent dans transport commun à Cobourg et Port Hope",
+      "sum": "Les gouvernements fédéral et provincial, ainsi que les municipalités de Cobourg et de Port Hope, investissent ensemble dans des véhicules de transport en commun. Cet investissement vise à améliorer les services de transport public dans ces deux collectivités.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "1b839c159e6fd869",
@@ -34149,9 +34176,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Anand participe à des discussions avec ses homologues de l’Australie et du Royaume-Uni",
-      "sum": "Les ministres ont évoqué la nécessité pour le Canada, l’Australie et le Royaume-Uni de coordonner étroitement leurs réponses aux derniers développements au Moyen-Orient, et elles ont échangé leurs points de vue sur les moyens d’atténuer les répercussions du blocus du détroit d’Ormuz sur l’économie mondiale et les chaînes d’approvisionnement essentielles, notamment en ce qui concerne ces trois pays...",
-      "cat": "Economy"
+      "title": "La ministre Anand discute avec l'Australie et le Royaume-Uni",
+      "sum": "La ministre canadienne des Affaires étrangères a participé à des discussions avec ses homologues australien et britannique. Les trois pays ont échangé sur la coordination de leurs réponses aux développements au Moyen-Orient et sur les effets du blocus du détroit d'Ormuz sur l'économie mondiale et les chaînes d'approvisionnement.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "f2f5b535959f1853",
@@ -34161,9 +34189,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et les Philippines renforcent leur partenariat de défense grâce à de nouvelles ententes",
-      "sum": "Aujourd’hui, l’honorable David J. McGuinty, ministre de la Défense nationale, a rencontré Son Excellence Gilberto Teodoro, secrétaire philippin à la Défense nationale, en vue de renforcer les relations bilatérales en matière de défense et de favoriser la coopération avec l’un des plus importants partenaires du Canada dans le domaine dans la région indo-pacifique.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Philippines renforcent partenariat défense",
+      "sum": "Le ministre canadien de la Défense nationale a rencontré son homologue philippin pour renforcer la coopération bilatérale en défense. Cette rencontre vise à approfondir les relations entre les deux pays dans la région indo-pacifique.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "c27ab90914a2916d",
@@ -34173,9 +34202,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada fait le point sur la saison des feux de forêt de 2026 – Mise à jour de juin",
-      "sum": "La saison des feux de forêt de 2026 a commencé plus lentement qu'en 2023 ou 2025, qui sont respectivement les pires et les deuxièmes pires saisons des feux de forêt de l'histoire du Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada met à jour situation feux forêt saison 2026",
+      "sum": "Le gouvernement du Canada fournit une mise à jour sur la saison des feux de forêt de 2026 en juin. La saison a commencé plus lentement comparée aux années 2023 et 2025, qui ont été parmi les pires saisons de feux de forêt de l'histoire canadienne.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "1622c503ebe19768",
@@ -34299,9 +34329,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The Department of National Defence opens world-class defence research complex in Valcartier",
-      "sum": "On June 8, 2026, the Department of National Defence (DND) hosted the official opening of the Defence Research and Development Canada (DRDC) Valcartier Research Centre (VRC) pavilion complex.",
-      "cat": "National defence"
+      "title": "Defence research facility opens in Valcartier Quebec",
+      "sum": "The Department of National Defence officially opened a new Defence Research and Development Canada facility in Valcartier on June 8, 2026. The complex includes pavilion buildings for research activities.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "b319def65a073b9f",
@@ -34311,9 +34342,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Lanes and pedestrian boardwalk closure on Alexandra Bridge",
-      "sum": "Public Services and Procurement Canada wishes to inform users that the Alexandra Bridge will be closed to vehicles to accommodate a planned protest.",
-      "cat": "Infrastructure"
+      "title": "Alexandra Bridge closed to vehicles for planned protest",
+      "sum": "Public Services and Procurement Canada is closing the Alexandra Bridge to vehicle traffic to accommodate a planned protest. The closure will affect both vehicle lanes and pedestrian access on the bridge.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "292b5e12105bfaf4",
@@ -34323,9 +34355,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Natura & Historia at the Plains of Abraham Museum: A New Exhibition on the Park’s Natural Heritage and its Changes over Time",
-      "sum": "Quebec City, Thursday, June 11, 2026 — Beginning this Saturday, June 13, the Plains of Abraham Museum will be presenting Natura & Historia, a temporary exhibition that celebrates nature and the park’s metamorphosis over time. This is an invitation to discover the history of the Plains from a different angle, through its plants, trees, and flowers.",
-      "cat": "Culture & heritage"
+      "title": "Plains of Abraham Museum opens nature heritage exhibition",
+      "sum": "The Plains of Abraham Museum is launching a temporary exhibition called Natura & Historia beginning June 13, 2026. The exhibition explores the natural history of the Plains and how the park's landscape has changed over time through displays of plants, trees, and flowers.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "0197e6b71a751f9f",
@@ -34335,9 +34368,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "2026 Library and Archives Canada Scholar Awards highlight five remarkable Canadians",
-      "sum": "Library and Archives Canada (LAC) and the LAC Foundation are pleased to announce the 2026 LAC Scholar Award recipients",
-      "cat": "Economy"
+      "title": "Library and Archives Canada announces 2026 Scholar Award recipients",
+      "sum": "Library and Archives Canada and its foundation have selected five Canadians to receive the 2026 LAC Scholar Awards. The awards recognize scholarly contributions related to Canadian history, culture, and archives.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "5d5e25974e19c7e2",
@@ -34347,33 +34381,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "New National Advisory Committee to support preventive health care in Canada",
-      "sum": "The Government of Canada is reinforcing its leadership in preventive health care by advancing national guidelines grounded in the highest standards of scientific rigour, transparency, and equity.",
-      "cat": "Healthcare"
+      "title": "National Advisory Committee established for preventive health care",
+      "sum": "The Government of Canada is creating a new National Advisory Committee to develop national guidelines for preventive health care. The committee will focus on scientific evidence, transparency, and equitable approaches.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "3f7bbf96ff46ebe3",
       "date": "2026-06-10",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/institutes-health-research/news/2026/06/team-grants-strengthening-resilient-and-equitable-public-health-systems-steps.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Team Grants: Strengthening Resilient and Equitable Public Health Systems (STEPS)",
-      "sum": "The Canadian Institutes of Health Research (CIHR), in partnership with the Fonds de la Recherche du Québec (FRQ), the Heart and Stroke Foundation of Canada, and Michael Smith Health Research BC, is investing over $10 million to support 14 research teams across Canada. Through the Strengthening Resilient and Equitable Public Health Systems (STEPS) initiative, these teams will work over the coming years to generate…",
-      "cat": "Healthcare"
+      "title": "CIHR invests $10 million in public health research teams",
+      "sum": "Canadian Institutes of Health Research and partner organizations are providing over $10 million in funding to support 14 research teams across Canada. These teams will conduct research through the STEPS initiative to strengthen public health systems.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "8c4b99f2324c4fa7",
       "date": "2026-06-10",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/institutes-health-research/news/2026/06/government-of-canada-and-partners-invest-over-10m-to-strengthen-public-health-systems-through-research.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada and partners invest over $10M to strengthen public health systems through research",
-      "sum": "Strong public health systems are essential to protecting the health of Canadians by helping prevent disease, promote well-being, and reduce health inequities. By investing in research, the Government of Canada strengthens the capacity of our public health systems to address challenges such as the opioid overdose crisis, climate-related events, infectious disease outbreaks, and persistent social and economic health…",
-      "cat": "Healthcare"
+      "title": "Canada invests over $10M in public health systems research",
+      "sum": "The Government of Canada and partners are providing more than $10 million to fund research that strengthens public health systems. The investment aims to help address challenges including opioid overdoses, infectious diseases, and climate-related health impacts.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "008c561af8ab3e7c",
@@ -34383,9 +34420,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Taxpayers' Ombudsperson to launch systemic examination",
-      "sum": "June 10, 2026, OTTAWA, ON – On June 11, 2026, at 10:00 a.m., Canada’s Taxpayer’s Ombudsperson, Mr. François Boileau, will launch a systemic examination into delays taxpayers are experiencing when the Canada Revenue Agency (CRA) determines that a T1 adjustment is complex. Mr. Boileau will be available to answer questions following the publication of the press release.",
-      "cat": "Finance"
+      "title": "Taxpayers' Ombudsperson launches examination into CRA processing delays",
+      "sum": "Canada's Taxpayers' Ombudsperson will begin a systemic review of delays experienced by taxpayers when the Canada Revenue Agency processes complex T1 adjustments. The examination will be launched on June 11, 2026.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "b031dba9211d71dc",
@@ -34395,9 +34433,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Joint statement on Iranian state threats and HAYI-claimed attacks",
-      "sum": "June 10, 2026 - Ottawa, Ontario - Global Affairs Canada “Albania, Australia, Belgium, Bulgaria, Canada, Czechia, Denmark, Estonia, France, Finland, Germany, Ireland, Latvia, Lithuania, the Netherlands, New Zealand, North Macedonia, Norway, Portugal, Sweden, the United Kingdom and the United States condemn the lethal plotting and other malign actions in Europe, North America and Australia by Iran’s Islamic…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada and 21 allies condemn Iranian threats and attacks",
+      "sum": "Canada joined 21 other countries in a joint statement condemning Iran's lethal plotting and malign actions targeting locations in Europe, North America, and Australia. The statement was issued by Global Affairs Canada on June 10, 2026.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "57bc6c76039335df",
@@ -34407,9 +34446,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Hajdu strengthens Canada’s partnerships with Employment Ministers at the G7",
-      "sum": "In a world where relationships have become frayed, working together as countries is more important than ever. The rules-based order that has underpinned global prosperity for decades is undergoing a profound transformation – driven by geopolitical realignment, economic upheaval, and the accelerating pace of technological change. In a rapidly changing world, the Government of Canada is focusing on what we can…",
-      "cat": "Economy"
+      "title": "Canada strengthens employment partnerships with G7 countries",
+      "sum": "Minister Hajdu met with Employment Ministers from G7 countries to strengthen partnerships. The meeting addressed how countries can work together on employment issues amid global economic and technological changes.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "d150add34114261d",
@@ -34419,9 +34459,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada-led NATO Multinational Brigade – Latvia conducts Transfer of Command Authority",
-      "sum": "The Canadian-led NATO Multinational Brigade – Latvia conducted a Transfer of Command Authority today at Ādaži Military Base, Latvia, as Colonel Kristopher Reeves formally transferred command to Colonel David Brassard.",
-      "cat": "National defence"
+      "title": "Canadian NATO commander transfers authority in Latvia",
+      "sum": "Colonel Kristopher Reeves handed over command of Canada's NATO Multinational Brigade in Latvia to Colonel David Brassard during a ceremony at Ādaži Military Base.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "555121e9cc85d575",
@@ -34431,9 +34472,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister McGuinty to welcome Philippine Secretary of National Defense",
-      "sum": "Members of the media are invited to attend photo opportunities and a joint press conference between the Honourable David J. McGuinty, Minister of National Defence, and Philippine Secretary of National Defense, Gilberto C. Teodoro.",
-      "cat": "National defence"
+      "title": "Canadian Defence Minister to meet Philippine counterpart",
+      "sum": "Minister of National Defence David McGuinty will meet with Philippine Secretary of National Defense Gilberto Teodoro for a joint press conference and photo opportunity.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "638494c6140da67c",
@@ -34443,33 +34485,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Last opportunity for media accreditation for the 110th anniversary of the Battles of the Somme and Beaumont-Hamel: Mandatory Media Accreditation for Signature Commemorative Ceremony in France",
-      "sum": "The Honourable Jill McKnight, Minister of Veterans Affairs and Associate Minister of National Defence, alongside General Jennie Carignan, Chief of the Defence Staff, and a delegation representing the Government of Newfoundland and Labrador, will mark the 110th anniversary of the Battles of the Somme and Beaumont-Hamel with a series of events in Northern France and Belgium, including a Signature Ceremony at the…",
-      "cat": "National defence"
+      "title": "Canada marks 110th anniversary of Somme and Beaumont-Hamel battles",
+      "sum": "Canadian government officials, including the Minister of Veterans Affairs and the Chief of the Defence Staff, will attend commemorative events in France and Belgium marking the 110th anniversary of the Battles of the Somme and Beaumont-Hamel. Media accreditation is required for attendance at the signature ceremony.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "2802d1eec41390ea",
       "date": "2026-06-10",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-make-social-media-services-and-ai-chatbots-safer-for-children.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada introduces legislation to make social media services and AI chatbots safer for children",
-      "sum": "Legislation would make social media services and AI chatbot services accountable for developing services that are safe by design and that put the safety of children first",
-      "cat": "Innovation, science & industry"
+      "title": "Government introduces legislation on social media and AI chatbot safety for children",
+      "sum": "The Government of Canada is introducing legislation that would require social media services and AI chatbot providers to design their platforms with child safety as a priority and be accountable for protecting children using their services.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "ff3e0ed070560e5a",
       "date": "2026-06-10",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: Government of Canada introduces legislation to combat online harms, particularly those impacting children",
-      "sum": "Legislation would make social media services and AI chatbot services accountable for developing services that are safe by design and that put the safety of children first.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada introduces legislation to combat online harms and protect children",
+      "sum": "The Government of Canada is introducing legislation to require social media services and AI chatbot providers to develop safe services with child safety as a priority. The legislation aims to make these companies accountable for implementing safety measures in their design.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "3e23aff113463021",
@@ -34479,9 +34524,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly se joindra à Apotex Health Corp. pour la cérémonie d’ouverture des marchés du Groupe TMX et prononcera une allocution sur le secteur des sciences de la vie",
-      "sum": "La ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, l’honorable Mélanie Joly, participera à la cérémonie d’ouverture des marchés du Groupe TMX. À cette occasion, elle prononcera une allocution sur le secteur des sciences de la vie au Canada et sur le rôle essentiel que joue l’industrie pharmaceutique dans le renforcement de l’économie.",
-      "cat": "Healthcare"
+      "title": "Ministre Joly prononce allocution sur les sciences de la vie",
+      "sum": "La ministre de l'Industrie Mélanie Joly participera à la cérémonie d'ouverture des marchés du Groupe TMX aux côtés d'Apotex Health Corp. Elle y prononcera une allocution sur le secteur des sciences de la vie au Canada et le rôle de l'industrie pharmaceutique dans l'économie.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "3c6bf6dce4e3d348",
@@ -34491,9 +34537,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministère de la Défense nationale inaugure un complexe de recherche pour la défense de classe mondiale à Valcartier",
-      "sum": "Le 8 juin 2026, le ministère de la Défense nationale (MDN) a organisé l’inauguration officielle du complexe pavillonnaire de Recherche et Développement pour la défense Canada (RDCC), à Valcartier.",
-      "cat": "Innovation, science & industry"
+      "title": "Défense nationale inaugure complexe recherche Valcartier",
+      "sum": "Le ministère de la Défense nationale a inauguré officiellement le 8 juin 2026 un complexe de recherche et développement à Valcartier destiné à soutenir la défense canadienne.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "143e83bcc254a791",
@@ -34503,9 +34550,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Fermeture de voies et de la promenade piétonne sur le pont Alexandra",
-      "sum": "Services publics et Approvisionnement Canada souhaite informer les usagers que le pont Alexandra sera fermé aux véhicules en raison d'une manifestation prévue.",
-      "cat": "Innovation, science & industry"
+      "title": "Fermeture du pont Alexandra pour une manifestation prévue",
+      "sum": "Services publics et Approvisionnement Canada annonce la fermeture du pont Alexandra aux véhicules en raison d'une manifestation. La promenade piétonne sera également fermée.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "6491dbb50cd3390e",
@@ -34515,9 +34563,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Natura & Historia au Musée des plaines d’Abraham : Une nouvelle exposition sur la nature et l’évolution du Parc",
-      "sum": "Québec, le jeudi 11 juin 2026 — Le Musée des plaines d’Abraham présentera dès ce samedi 13 juin, Natura & Historia, une exposition pour célébrer la nature et la métamorphose du parc au fil du temps. Une invitation à découvrir l’histoire des Plaines, sous un angle différent, à travers ses plantes, ses arbres et ses fleurs.",
-      "cat": "Innovation, science & industry"
+      "title": "Nouvelle exposition sur la nature au Musée des Plaines d'Abraham",
+      "sum": "Le Musée des plaines d'Abraham présente une nouvelle exposition intitulée Natura & Historia à partir du 13 juin 2026. L'exposition célèbre la nature et l'évolution historique du parc à travers ses plantes, ses arbres et ses fleurs.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "e06fa21573765031",
@@ -34527,9 +34576,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Les prix Bibliothèque et Archives Canada 2026 mettent en lumière cinq Canadiennes et Canadiens remarquables",
-      "sum": "Bibliothèque et Archives Canada et sa Fondation sont fiers d’annoncer les lauréates et les lauréats des prix Bibliothèque et Archives Canada 2026",
-      "cat": "Economy"
+      "title": "Cinq Canadiens reçoivent les prix Bibliothèque et Archives Canada",
+      "sum": "Bibliothèque et Archives Canada et sa Fondation ont annoncé les lauréats des prix Bibliothèque et Archives Canada 2026. Ces prix reconnaissent cinq Canadiennes et Canadiens pour leurs accomplissements remarquables.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "d3ef01aa48475be2",
@@ -34539,33 +34589,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Création d’un nouveau Comité consultatif national visant à soutenir les soins de santé préventifs au Canada",
-      "sum": "Le gouvernement du Canada consolide son rôle de chef de file en matière de soins de santé préventifs en favorisant l’adoption de lignes directrices nationales fondées sur les normes les plus élevées de rigueur scientifique, de transparence et d’équité.",
-      "cat": "Economy"
+      "title": "Création d'un comité consultatif national pour soins préventifs",
+      "sum": "Le gouvernement du Canada met en place un nouveau comité consultatif national pour soutenir les soins de santé préventifs. Ce comité vise à promouvoir l'adoption de lignes directrices nationales basées sur des normes scientifiques rigoureuses, la transparence et l'équité.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "c9bb92a26e60a902",
       "date": "2026-06-10",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/instituts-recherche-sante/nouvelles/2026/06/subventions-dequipe--favoriser-la-resilience-et-lequite-au-sein-des-systemes-de-sante-publique-etape.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Subventions d’équipe : Favoriser la résilience et l’équité au sein des systèmes de santé publique (ÉTAPE)",
-      "sum": "Les Instituts de recherche en santé du Canada (IRSC), en partenariat avec le Fonds de la Recherche du Québec (FRQ), la Fondation des maladies du cœur et de l’AVC du Canada et Michael Smith Health Research BC, investissent plus de 10 millions de dollars pour soutenir 14 équipes de recherche de partout au Canada. Grâce à l’initiative Favoriser la résilience et l’équité au sein des systèmes de santé publique (ÉTAPE),…",
-      "cat": "Healthcare"
+      "title": "Investissement de dix millions pour recherche en résilience sanitaire",
+      "sum": "Les Instituts de recherche en santé du Canada et partenaires investissent plus de 10 millions de dollars pour soutenir 14 équipes de recherche à travers le Canada. Ces équipes étudieront comment renforcer la résilience et l'équité dans les systèmes de santé publique.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "e493bdce3a8fec80",
       "date": "2026-06-10",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/instituts-recherche-sante/nouvelles/2026/06/le-gouvernement-du-canada-et-des-partenaires-investissent-plus-de-10-millions-de-dollars-dans-la-recherche-pour-renforcer-les-systemes-de-sante-pub.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada et des partenaires investissent plus de 10 millions de dollars dans la recherche pour renforcer les systèmes de santé publique",
-      "sum": "Des systèmes de santé publique fiables sont essentiels pour protéger la santé de la population canadienne, prévenir les maladies, promouvoir le bien-être et réduire les iniquités en santé. Par ses investissements dans la recherche, le gouvernement du Canada renforce les capacités de ses systèmes de santé publique pour contrer des défis tels que la crise des surdoses d’opioïdes, les phénomènes météorologiques liés…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 10 millions pour la recherche en santé publique",
+      "sum": "Le gouvernement du Canada et ses partenaires investissent plus de 10 millions de dollars dans la recherche pour renforcer les systèmes de santé publique. Ces investissements visent à améliorer la prévention des maladies, la promotion du bien-être et la réduction des iniquités en santé.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "09e450e07f6439b8",
@@ -34575,9 +34628,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ombudsman des contribuables ouvrira un examen systémique",
-      "sum": "Le 10 juin 2026, OTTAWA, ON – Le 11 juin 2026 à 10 h 00 l’ombudsman des contribuables du Canada, Me François Boileau, lancera un examen systémique des retards que subissent les contribuables lorsque l’Agence du revenu du Canada (ARC) détermine qu’un redressement d’une T1 est complexe. Me Boileau sera disponible pour répondre aux questions après la publication du communiqué de presse.",
-      "cat": "Natural resources"
+      "title": "L'ombudsman des contribuables lance un examen systémique des retards",
+      "sum": "L'ombudsman des contribuables du Canada ouvrira un examen systémique sur les retards que subissent les contribuables lorsque l'Agence du revenu du Canada détermine qu'un redressement de déclaration T1 est complexe. Cet examen sera lancé le 11 juin 2026.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "7a6b566b1b76edfc",
@@ -34587,9 +34641,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration commune sur les menaces d’État iraniennes et les attaques revendiquées par HAYI",
-      "sum": "Le 10 juin 2026 - Ottawa (Ontario) - Affaires mondiales Canada « L’Albanie, l’Allemagne, l’Australie, la Belgique, la Bulgarie, le Canada, le Danemark, l’ Estonie, les États-Unis, la Finlande, la France, l’Irlande, la Lettonie, la Lituanie, les Pays-Bas, la Nouvelle-Zélande, la Macédoine du Nord, la Norvège, le Portugal, le Royaume-Uni, la Suède et la Tchéquie condamnent les complots meurtriers et autres agissements…",
-      "cat": "Innovation, science & industry"
+      "title": "Déclaration commune condamnant les menaces iraniennes et attaques",
+      "sum": "Vingt-deux pays, dont le Canada, publient une déclaration commune condamnant les complots meurtriers et les agissements de l'État iranien et du groupe HAYI. Cette déclaration a été émise le 10 juin 2026 par Affaires mondiales Canada.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "769b26433e4a64d8",
@@ -34599,9 +34654,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Hajdu renforce les partenariats du Canada avec les ministres de l’Emploi au G7",
-      "sum": "Dans un monde où les relations se sont tendues, la coopération entre pays est plus importante que jamais. L’ordre fondé sur les règles qui a constitué la base de la prospérité mondiale pendant des dizaines d’années connaît une profonde transformation. Cette transformation est causée par le réalignement géopolitique, les bouleversements économiques et l’accélération des changements technologiques. Dans un monde en…",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Hajdu renforce partenariats emploi Canada G7",
+      "sum": "La ministre Hajdu a engagé des discussions avec ses homologues des ministères de l'Emploi des pays du G7. Ces échanges visent à renforcer la coopération internationale face aux transformations géopolitiques et économiques mondiales.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "a3a1a2643e15039c",
@@ -34611,9 +34667,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La Brigade multinationale de l’OTAN en Lettonie, dirigée par le Canada, procède au transfert du pouvoir de commandement",
-      "sum": "La Brigade multinationale de l’OTAN - Lettonie, dirigée par le Canada, a procédé aujourd’hui au transfert du pouvoir de commandement à la base militaire d’Ādaži, en Lettonie, alors que le colonel Kristopher Reeves a officiellement cédé le commandement au colonel David Brassard.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada transfère commandement brigade OTAN en Lettonie",
+      "sum": "La Brigade multinationale de l'OTAN en Lettonie, dirigée par le Canada, a effectué un transfert du commandement militaire à la base d'Ādaži. Le colonel Kristopher Reeves a remis le commandement au colonel David Brassard.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "f2dc591bcd6a8feb",
@@ -34623,9 +34680,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre McGuinty accueillera le secrétaire à la Défense nationale des Philippines",
-      "sum": "Les membres des médias sont invités à assister à une séance de photos et à une conférence de presse conjointe entre le ministre de la Défense nationale, l’honorable David J. McGuinty, et le secrétaire philippin à la Défense nationale, Gilberto C. Teodoro.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre McGuinty rencontre le secrétaire à la Défense philippin",
+      "sum": "Le ministre canadien de la Défense nationale David McGuinty accueillera le secrétaire à la Défense nationale des Philippines, Gilberto C. Teodoro. Une séance de photos et une conférence de presse conjointe sont prévues.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "94aa561d336dd90f",
@@ -34635,9 +34693,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Dernière chance d’obtenir l’accréditation des médias pour le 110e anniversaire des batailles de la Somme et de Beaumont-Hamel : Accréditation médiatique obligatoire pour la cérémonie commémorative officielle en France",
-      "sum": "L’honorable Jill McKnight, ministre des Anciens Combattants et ministre associée de la Défense nationale, en compagnie de la générale Jennie Carignan, chef d’état-major de la Défense, ainsi qu’une délégation représentant le gouvernement de Terre-Neuve-et-Labrador, souligneront le 110e anniversaire des batailles de la Somme et de Beaumont-Hamel au moyen d’une série d’événements dans le nord de la France et en…",
-      "cat": "Innovation, science & industry"
+      "title": "Accréditation médias pour commémoration bataille Somme France",
+      "sum": "Le gouvernement canadien organise une série d'événements en France pour marquer le 110e anniversaire des batailles de la Somme et de Beaumont-Hamel. Les médias doivent obtenir une accréditation obligatoire pour couvrir la cérémonie officielle.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "f5f5b83de17d7f7d",
@@ -34647,33 +34706,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly participera à une discussion informelle lors du Sommet Canada–États-Unis de 2026 du Eurasia Group",
-      "sum": "La ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, l’honorable Mélanie Joly, participera à une discussion informelle à l’occasion du Sommet Canada–États-Unis tenu par le Eurasia Group.",
-      "cat": "Economy"
+      "title": "Ministre Joly participe au Sommet Canada-États-Unis 2026",
+      "sum": "La ministre Mélanie Joly participera à une discussion informelle lors du Sommet Canada-États-Unis organisé par le Eurasia Group en 2026.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "ff313adaa7a5f68c",
       "date": "2026-06-10",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/06/le-gouvernement-du-canada-presente-un-projet-de-loi-visant-a-rendre-les-services-de-medias-sociaux-et-les-robots-conversationnels-dotes-dia-plus-se.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada présente un projet de loi visant à rendre les services de médias sociaux et les robots conversationnels dotés d’IA plus sécuritaires pour les enfants",
-      "sum": "Cette mesure législative rendrait les services de médias sociaux et de robots conversationnels dotés d’IA responsables de la mise au point de services qui sont sécuritaires dès leur conception et qui accordent la priorité à la sécurité des enfants",
-      "cat": "Innovation, science & industry"
+      "title": "Projet de loi sur la sécurité des enfants dans les médias sociaux et l'IA",
+      "sum": "Le gouvernement du Canada propose une loi qui obligerait les services de médias sociaux et les robots conversationnels à intégrer la sécurité des enfants dès leur conception. Cette mesure viserait à rendre ces plateformes plus sécuritaires pour les utilisateurs mineurs.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "c476e3f01a18953b",
       "date": "2026-06-10",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/06/le-gouvernement-du-canada-presente-un-projet-de-loi-visant-a-lutter-contre-le-contenu-prejudiciable-en-ligne-en-particulier-celui-qui-touche-les-en.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Le gouvernement du Canada présente un projet de loi visant à lutter contre le contenu préjudiciable en ligne, en particulier celui qui touche les enfants",
-      "sum": "Cette mesure législative rendrait les services de médias sociaux et de robots conversationnels dotés d’IA responsables de la mise au point de services qui sont sécuritaires dès leur conception et qui accordent la priorité à la sécurité des enfants.",
-      "cat": "Innovation, science & industry"
+      "title": "Projet de loi sur la sécurité du contenu en ligne pour enfants",
+      "sum": "Le gouvernement du Canada propose une loi obligeant les services de médias sociaux et les robots conversationnels à concevoir des services sécuritaires dès leur création, en mettant l'accent sur la protection des enfants contre les contenus préjudiciables.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "28ec0a184af17da5",
@@ -34683,9 +34745,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada ouvre une installation de précontrôle à la gare ferroviaire Pacific Central de Vancouver",
-      "sum": "Le ministre de la Sécurité publique, l’honorable Gary Anandasangaree, et le ministre des Transports, l’honorable Steven MacKinnon, ont annoncé aujourd’hui la conversion du premier centre ferroviaire de précontrôle au Canada à la gare ferroviaire Pacific Central de Vancouver, en Colombie-Britannique.",
-      "cat": "Transportation"
+      "title": "Canada ouvre centre de précontrôle à gare Vancouver",
+      "sum": "Le gouvernement du Canada a annoncé l'ouverture d'un centre de précontrôle à la gare ferroviaire Pacific Central de Vancouver. Il s'agit du premier centre de ce type dans une gare ferroviaire canadienne.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "5468f28dfdaf2244",
@@ -34770,21 +34833,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Claire Anderson to FWD – Western Canada Media Conference",
-      "sum": "Claire Anderson speaks to FWD – Western Canada Media Conference to provide an update on recent CRTC work and activities.",
-      "cat": "Innovation, science & industry"
+      "title": "Claire Anderson addresses Western Canada Media Conference on CRTC work",
+      "sum": "Claire Anderson provided an update on recent activities and work of the Canadian Radio-television and Telecommunications Commission (CRTC) to the FWD – Western Canada Media Conference.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "52d9caad95436adc",
       "date": "2026-06-09",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/global-affairs/news/2026/06/backgrounder-canada-imposes-fifth-round-of-sanctions-on-facilitators-of-extremist-settler-violence-against-palestinian-civilians-in-west-bank.html",
-      "type": "Announcement",
+      "type": "Regulation",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: Canada imposes fifth round of sanctions on facilitators of extremist settler violence against Palestinian civilians in West Bank",
-      "sum": "The Regulations Amending the Special Economic Measures (Extremist Settler Violence) Regulations designate two individuals and five entities. There are reasonable grounds to believe that these individuals and entities have engaged in activities that undermine the peace and security of the State of Israel and the occupied Palestinian territories by directly or indirectly facilitating, supporting, providing funding for…",
-      "cat": "Foreign affairs"
+      "title": "Canada imposes fifth round of sanctions on extremist settler violence facilitators",
+      "sum": "Canada has designated two individuals and five entities under sanctions regulations, based on reasonable grounds that they have facilitated, supported, or funded activities undermining peace and security in Israel and the occupied Palestinian territories.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "2e72e0e05599688b",
@@ -34794,9 +34859,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada imposes fifth round of sanctions on facilitators of extremist settler violence against civilians in West Bank",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced that Canada is imposing new sanctions under the Special Economic Measures (Extremist Settler Violence) Regulations.",
-      "cat": "Foreign affairs"
+      "title": "Canada imposes fifth sanctions round on West Bank settler violence facilitators",
+      "sum": "Canada announced new sanctions against individuals and entities facilitating extremist settler violence against civilians in the West Bank. The sanctions are imposed under the Special Economic Measures (Extremist Settler Violence) Regulations.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "dc69832de58dc2af",
@@ -34806,33 +34872,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Joint statement in response to the deteriorating situation in the West Bank",
-      "sum": "“In response to the deteriorating situation in the West Bank, we the Foreign Ministers of Australia, Canada, France, Norway, and the United Kingdom, have taken coordinated action to introduce sanctions and other measures to hold extremist settlers accountable for the horrific levels of settler violence against Palestinian civilians...\"",
-      "cat": "Foreign affairs"
+      "title": "Five countries announce coordinated sanctions on West Bank settlers",
+      "sum": "Foreign Ministers from Australia, Canada, France, Norway, and the United Kingdom issued a joint statement announcing coordinated sanctions and measures targeting extremist settlers in response to what they describe as escalating settler violence against Palestinian civilians in the West Bank.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "51ca70278a9dcdbb",
       "date": "2026-06-09",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/global-affairs/news/2026/06/biographical-note---brendan-sutton.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Biographical note - Brendan Sutton",
-      "sum": "Biographical note Brendan Sutton (BA Hons [Economics and International Development Studies], Trent University, 2002; MA [International Relations], Norman Paterson School of International Affairs, Carleton University, 2003) joined the Department of Foreign Affairs and International Trade in 2004...",
-      "cat": "Foreign affairs"
+      "title": "Brendan Sutton appointed to Foreign Affairs department",
+      "sum": "Brendan Sutton, who holds degrees in economics, international development studies, and international relations, joined the Department of Foreign Affairs and International Trade in 2004.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "ae4fc0da52f62ccb",
       "date": "2026-06-09",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/global-affairs/news/2026/06/announcement-of-new-diplomatic-appointment---brendan-sutton.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Announcement of new diplomatic appointment",
-      "sum": "Brendan Sutton will become Ambassador Extraordinary and Plenipotentiary to the Dominican Republic..",
-      "cat": "Foreign affairs"
+      "title": "New Ambassador appointed to Dominican Republic",
+      "sum": "Brendan Sutton has been appointed as Canada's Ambassador Extraordinary and Plenipotentiary to the Dominican Republic. This diplomatic position represents Canada in the country.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "0a9de627bca05f46",
@@ -34842,9 +34911,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canadian Coast Guard search and rescue station official opening in Port Weller, Ontario",
-      "sum": "Media are invited to the opening of the Canadian Coast Guard’s new search and rescue station in Port Weller, Ontario.",
-      "cat": "Economy"
+      "title": "Canadian Coast Guard opens new search and rescue station in Ontario",
+      "sum": "The Canadian Coast Guard is opening a new search and rescue station in Port Weller, Ontario. The facility will be available for media coverage at its official opening.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "969a07dca51058d6",
@@ -34854,9 +34924,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canadian Space Agency astronaut Jeremy Hansen in Canada",
-      "sum": "From June 10 to 12, Canadian Space Agency (CSA) astronaut and Artemis II crewmember Colonel Jeremy Hansen will be in Canada, participating in a series of events with various audiences.",
-      "cat": "Economy"
+      "title": "Canadian astronaut Jeremy Hansen visits Canada for public events",
+      "sum": "Canadian Space Agency astronaut Colonel Jeremy Hansen will visit Canada from June 10 to 12 to participate in a series of events with various audiences. Hansen is a crew member for the Artemis II mission.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "b2d37dcd37619dae",
@@ -34866,9 +34937,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Federal government and the Government of Quebec invest in the stabilization of Route 138 in Tête-à-la-Baleine and announce that work will begin in June",
-      "sum": "The Government of Canada and the Government of Quebec announce stabilization work on Route 138 in the wharf area of Tête-à-la-Baleine on the Côte-Nord.",
-      "cat": "Economy"
+      "title": "Federal and Quebec governments fund Route 138 stabilization work",
+      "sum": "The Government of Canada and the Government of Quebec are investing in stabilization work on Route 138 in the wharf area of Tête-à-la-Baleine on the Côte-Nord. Work is scheduled to begin in June.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "15f172cd4b1d2ef5",
@@ -34878,9 +34950,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizures of contraband and unauthorized items at Collins Bay Institution",
-      "sum": "Between May 20 and June 5, 2026, as a result of the vigilance of staff members, multiple packages containing contraband and unauthorized items were seized at Collins Bay Institution, a multi-level security federal institution.",
-      "cat": "Public safety"
+      "title": "Contraband seized at Collins Bay Institution prison",
+      "sum": "Between May 20 and June 5, 2026, staff at Collins Bay Institution, a federal prison, seized multiple packages containing contraband and unauthorized items.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "3349507b8e38a494",
@@ -34890,9 +34963,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Exceptional artists and guests at the heart of the 2026 Canada Day National Noon Ceremony",
-      "sum": "The Canada Day noon event promises to be exceptional",
-      "cat": "Economy"
+      "title": "Artists selected for 2026 Canada Day National Noon Ceremony",
+      "sum": "The federal government has announced plans for the 2026 Canada Day National Noon Ceremony, which will feature exceptional artists and guests. Details about the specific performers and programming are being developed.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "53a44401a0190440",
@@ -34902,9 +34976,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Federal government strengthens support to keep 2SLGBTQI+ communities safe this Pride Season",
-      "sum": "Today, as the Pride Flag was raised on Parliament Hill, the Honourable Rechie Valdez, Minister for Women and Gender Equality and Secretary of State (Small Business and Tourism), highlighted an investment of $3 million over two years for Fierté Canada Pride to help Pride festivals strengthen safety and security measures across Canada.",
-      "cat": "Economy"
+      "title": "Federal government invests $3 million in Pride festival safety measures",
+      "sum": "The federal government announced a $3 million investment over two years to Fierté Canada Pride to support safety and security measures at Pride festivals across Canada. The announcement was made during a flag-raising ceremony on Parliament Hill.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "d4f4428dc065da75",
@@ -34914,33 +34989,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Anand to travel to Bahrain, United Kingdom and France",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced that she will travel to Manama, Kingdom of Bahrain (Bahrain), London, United Kingdom, and Paris, France, from June 10 to 12, 2026.",
-      "cat": "Foreign affairs"
+      "title": "Minister of Foreign Affairs travels to Bahrain, UK, and France",
+      "sum": "Minister Anita Anand will travel to Manama, London, and Paris from June 10 to 12, 2026. The trip includes visits to Bahrain, the United Kingdom, and France.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "0391f4c187f2bdd1",
       "date": "2026-06-09",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/international-trade-tribunal/news/2026/06/tribunal-issues-determination-of-reasonable-indication-of-injurydecorative-and-other-non-structural-plywood-from-china.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Tribunal Issues Determination of Reasonable Indication of Injury—Decorative and Other Non-Structural Plywood from China",
-      "sum": "Further to the Canadian International Trade Tribunal’s preliminary injury inquiry (PI-2026-001), the Tribunal today determined that there is a reasonable indication that the dumping and subsidizing of decorative and other non-structural plywood from China have caused injury or are threatening to cause injury to the domestic industry.",
-      "cat": "Foreign affairs"
+      "title": "Trade tribunal finds evidence of injury from Chinese plywood dumping",
+      "sum": "The Canadian International Trade Tribunal determined there is reasonable indication that dumped and subsidized decorative plywood from China has injured or threatens to injure Canada's domestic plywood industry. This determination follows a preliminary inquiry into the matter.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "d92e449fe426f80b",
       "date": "2026-06-09",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/canadian-heritage/news/2026/06/technical-briefing-and-press-conference-on-the-new-bill-entitled-the-safe-social-media-act.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "en",
-      "title": "Technical briefing and press conference on the new bill entitled the Safe Social Media Act",
-      "sum": "The Government of Canada will share information on new legislation to make social media services and AI chatbots safer for children",
-      "cat": "Innovation, science & industry"
+      "title": "Government introduces Safe Social Media Act legislation",
+      "sum": "The Government of Canada is presenting a new bill designed to improve safety on social media platforms and AI chatbots for children. A technical briefing and press conference will provide details on the proposed legislation.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "bd071d3b9cea420a",
@@ -34950,9 +35028,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada launches mission to combat illegal, unreported and unregulated fishing in the North Pacific Ocean",
-      "sum": "Illegal, unreported, and unregulated (IUU) fishing threatens national and international fish stocks and the broader ocean ecosystem.",
-      "cat": "Foreign affairs"
+      "title": "Canada launches North Pacific mission against illegal fishing",
+      "sum": "Canada is launching a mission to address illegal, unreported, and unregulated fishing in the North Pacific Ocean. The government identifies this fishing activity as a threat to fish stocks and ocean ecosystems.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "ce4dc0a47e5a3b85",
@@ -34962,21 +35041,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Claire Anderson à l’événement FWD – Western Canada Media Conference",
-      "sum": "Claire Anderson s'adresse à FWD – Western Canada Media Conference pour faire le point sur les travaux et les activités récents du CRTC.",
-      "cat": "Innovation, science & industry"
+      "title": "Claire Anderson prend la parole à la conférence médias de l'Ouest",
+      "sum": "Claire Anderson s'est adressée à la conférence FWD – Western Canada Media Conference pour faire le point sur les travaux et activités récents du CRTC.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "e03e42e9c6c856a0",
       "date": "2026-06-09",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/06/document-dinformation--le-canada-impose-une-cinquieme-serie-de-sanctions-a-des-personnes-et-entites-qui-ont-facilite-les-actes-de-violence-commis-p.html",
-      "type": "Announcement",
+      "type": "Regulation",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Le Canada impose une cinquième série de sanctions à des personnes et entités qui ont facilité les actes de violence commis par des colons extrémistes à l’encontre de civils palestiniens en Cisjordanie",
-      "sum": "Le Règlement modifiant le Règlement sur les mesures économiques spéciales visant la violence des colons extrémistes désigne deux personnes et cinq entités. Il existe des motifs raisonnables de croire que ces personnes et entités se sont livrées à des activités qui compromettent la paix et la sécurité de l’État d’Israël et des territoires palestiniens occupés, parce qu’elles facilitent, soutiennent ou financent,…",
-      "cat": "Foreign affairs"
+      "title": "Canada impose des sanctions contre des personnes et entités facilitant la violence des colons",
+      "sum": "Le Canada désigne deux personnes et cinq entités dans un cinquième ensemble de sanctions visant ceux qui facilitent la violence des colons extrémistes contre les civils palestiniens en Cisjordanie. Ces individus et organisations sont considérés comme compromettant la paix et la sécurité par leur soutien ou financement de ces activités.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "47c74dab978782ea",
@@ -34986,9 +35067,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada impose une cinquième série de sanctions à des personnes et entités qui ont facilité les actes de violence commis par des colons extrémistes à l’encontre de civils en Cisjordanie",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui que le Canada imposait de nouvelles sanctions en vertu du Règlement sur les mesures économiques spéciales visant la violence des colons extrémistes.",
-      "cat": "Foreign affairs"
+      "title": "Canada impose des sanctions contre des entités facilitant la violence en Cisjordanie",
+      "sum": "Le Canada ajoute de nouvelles sanctions contre des personnes et entités qui ont facilité les actes de violence commis par des colons extrémistes contre des civils en Cisjordanie. Ces sanctions sont imposées en vertu du Règlement sur les mesures économiques spéciales visant la violence des colons extrémistes.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "df1f7433a5609a26",
@@ -34998,33 +35080,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration commune en réponse à la détérioration de la situation en Cisjordanie",
-      "sum": "« En réponse à la détérioration de la situation en Cisjordanie, nous, ministres des Affaires étrangères de l’Australie, du Canada, de la France, de la Norvège et du Royaume-Uni, avons pris des mesures coordonnées visant à instaurer des sanctions et d’autres restrictions afin de tenir les colons extrémistes responsables des actes de violence effroyables commis contre des civils palestiniens...»",
-      "cat": "Foreign affairs"
+      "title": "Canada et alliés annoncent sanctions contre colons en Cisjordanie",
+      "sum": "Le Canada, l'Australie, la France, la Norvège et le Royaume-Uni ont coordonné des mesures incluant des sanctions contre des colons extrémistes en réponse à la violence contre des civils palestiniens en Cisjordanie.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "ed0f1ddfad249089",
       "date": "2026-06-09",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/06/notice-biographique---brendan-sutton.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Notice biographique - Brendan Sutton",
-      "sum": "Notice biographique Brendan Sutton (B.A. avec spécialisation [économie et études en développement international], Université Trent, 2002; M.A. [relations internationales], Norman Paterson School of International Affairs, Université Carleton, 2003) s’est joint au ministère des Affaires étrangères et du Commerce international en 2004. ..",
-      "cat": "Foreign affairs"
+      "title": "Nomination de Brendan Sutton aux Affaires étrangères",
+      "sum": "Brendan Sutton a rejoint le ministère des Affaires étrangères et du Commerce international en 2004. Il détient un baccalauréat en économie et études en développement international de l'Université Trent et une maîtrise en relations internationales de l'Université Carleton.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "de45427786424edd",
       "date": "2026-06-09",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/06/annonce-dune-nouvelle-nomination-diplomatique-.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce d’une nouvelle nomination diplomatique",
-      "sum": "M. Brendan Sutton sera nommé ambassadeur extraordinaire et plénipotentiaire auprès de la République dominicaine.",
-      "cat": "Foreign affairs"
+      "title": "Nomination d'un ambassadeur auprès de la République dominicaine",
+      "sum": "Brendan Sutton est nommé ambassadeur extraordinaire et plénipotentiaire auprès de la République dominicaine. Cette nomination représente une nouvelle affectation diplomatique du gouvernement canadien.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "a2902100aed16dde",
@@ -35034,9 +35119,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Ouverture officielle de la station de recherche et sauvetage de la Garde côtière canadienne à Port Weller, en Ontario",
-      "sum": "Les représentants des médias sont invités à assister à l’ouverture de la nouvelle station de recherche et sauvetage de la Garde côtière canadienne à Port Weller, en Ontario.",
-      "cat": "Economy"
+      "title": "Ouverture station recherche sauvetage Garde côtière Port Weller",
+      "sum": "La Garde côtière canadienne ouvre une nouvelle station de recherche et sauvetage à Port Weller, en Ontario. Les représentants des médias sont invités à assister à cette cérémonie d'ouverture officielle.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "7b1ecf064b4bb852",
@@ -35046,9 +35132,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L'astronaute de l'Agence spatiale canadienne Jeremy Hansen au Canada",
-      "sum": "Du 10 au 12 juin, l'astronaute de l'Agence spatiale canadienne le colonel Jeremy Hansen, membre d'équipage d'Artemis II, sera à Halifax et à Toronto pour participer à quelques activités publiques.",
-      "cat": "Economy"
+      "title": "L'astronaute Jeremy Hansen visite Halifax et Toronto",
+      "sum": "L'astronaute canadien Jeremy Hansen, membre de l'équipage d'Artemis II, effectuera une visite au Canada du 10 au 12 juin pour participer à des activités publiques à Halifax et Toronto.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "c4cca40126b7fa2b",
@@ -35058,9 +35145,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral et le gouvernement du Québec investissent dans la stabilisation de la route 138 à Tête-à-la-Baleine et annoncent le lancement des travaux dès juin",
-      "sum": "Le gouvernement du Canada et le gouvernement du Québec annoncent des travaux de stabilisation de la route 138, dans le secteur du quai, à Tête-à-la-Baleine, sur la Côte-Nord.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Québec investissent dans stabilisation route 138",
+      "sum": "Le gouvernement fédéral et le gouvernement du Québec annoncent des travaux de stabilisation de la route 138 à Tête-à-la-Baleine sur la Côte-Nord. Les travaux doivent débuter en juin.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "d635d2731dbb2691",
@@ -35070,9 +35158,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisies d’objets interdits et non autorisés à l’Établissement de Collins Bay",
-      "sum": "Entre le 20 mai et le 5 juin 2026, grâce à la vigilance du personnel, plusieurs colis contenant des objets interdits et non autorisés ont été saisis à l'Établissement de Collins Bay, un établissement fédéral à niveaux multiples de sécurité.",
-      "cat": "Housing"
+      "title": "Saisie d'objets interdits à l'Établissement Collins Bay",
+      "sum": "Entre mai et juin 2026, le personnel de l'Établissement de Collins Bay a saisi plusieurs colis contenant des objets interdits et non autorisés. Cet établissement fédéral offre différents niveaux de sécurité.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "eb0c2b76f03de2a9",
@@ -35082,9 +35171,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des artistes et invités d’exception au cœur de la cérémonie nationale du midi de la fête du Canada 2026",
-      "sum": "Le rendez-vous du midi de la fête du Canada promet d’être exceptionnel",
-      "cat": "Economy"
+      "title": "Artistes exceptionnels à la cérémonie nationale Canada 2026",
+      "sum": "Une cérémonie nationale est prévue pour la fête du Canada 2026 à midi. Des artistes et invités d'exception participeront à cet événement.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "086dcbba7dd6ec1c",
@@ -35094,9 +35184,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral renforce son soutien afin d’assurer la sécurité des communautés 2ELGBTQI+ pendant la saison de la Fierté",
-      "sum": "Aujourd’hui, à l’occasion du lever du drapeau de la Fierté sur la Colline du Parlement, l’honorable Rechie Valdez, ministre des Femmes et de l’Égalité des genres et secrétaire d’État (Petites entreprises et Tourisme), a souligné l’investissement de 3 millions de dollars sur deux ans accordé à Fierté Canada Pride afin d’aider les festivals de la Fierté partout au pays à renforcer leurs mesures de sûreté et de…",
-      "cat": "Innovation, science & industry"
+      "title": "Le gouvernement fédéral finance la sécurité des festivals de Fierté",
+      "sum": "Le gouvernement fédéral investit 3 millions de dollars sur deux ans auprès de Fierté Canada Pride pour renforcer les mesures de sécurité lors des festivals de Fierté à travers le pays. Cet investissement vise à assurer la sécurité des communautés 2ELGBTQI+ pendant la saison de la Fierté.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "8617a8219e5f4ff0",
@@ -35106,33 +35197,36 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Anand se rendra à Bahreïn, au Royaume-Uni et en France",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui qu’elle se rendra à Manama, au Royaume de Bahreïn (Bahreïn), à Londres, au Royaume-Uni, et à Paris, en France, du 10 au 12 juin 2026.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Anand en visite officielle au Moyen-Orient et en Europe",
+      "sum": "La ministre des Affaires étrangères Anita Anand effectuera une visite diplomatique à Bahreïn, au Royaume-Uni et en France du 10 au 12 juin 2026. Cette tournée comprend des arrêts dans les capitales de Manama, Londres et Paris.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "c5af6346b393cd19",
       "date": "2026-06-09",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/tribunal-commerce-exterieur/nouvelles/2026/06/le-tribunal-rend-une-decision-dindication-raisonnable-de-dommage--contreplaques-decoratifs-et-autres-contreplaques-non-structuraux-provenant-de-la-.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Tribunal rend une décision d’indication raisonnable de dommage — Contreplaqués décoratifs et autres contreplaqués non structuraux provenant de la Chine",
-      "sum": "À la suite de l’enquête préliminaire de dommage (PI-2026-001) du Tribunal canadien du commerce extérieur, le Tribunal a décidé aujourd’hui que les éléments de preuve indiquent, de façon raisonnable, que le dumping et le subventionnement de contreplaqués décoratifs et autres contreplaqués non structuraux provenant de la Chine ont causé un dommage ou menacent de causer un dommage à la branche de production nationale.",
-      "cat": "Innovation, science & industry"
+      "title": "Tribunal détermine dommage probable de contreplaqués chinois",
+      "sum": "Le Tribunal canadien du commerce extérieur a conclu que le dumping et le subventionnement de contreplaqués décorratifs en provenance de la Chine causent ou menacent de causer du dommage aux producteurs canadiens. Cette décision suit une enquête préliminaire sur le commerce déloyale.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "d5fb720b4b804843",
       "date": "2026-06-09",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/06/seance-dinformation-technique-et-conference-de-presse-sur-le-nouveau-projet-de-loi-intitule-loi-sur-les-medias-sociaux-securitaires.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Séance d’information technique et conférence de presse sur le nouveau projet de loi intitulé Loi sur les médias sociaux sécuritaires",
-      "sum": "Le gouvernement du Canada présentera une nouvelle mesure législative visant à rendre les réseaux sociaux et les agents conversationnels plus sécuritaires pour les enfants",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement présente projet de loi sur les médias sociaux sécuritaires",
+      "sum": "Le gouvernement du Canada a présenté une nouvelle mesure législative intitulée Loi sur les médias sociaux sécuritaires. Cette loi vise à rendre les réseaux sociaux et les agents conversationnels plus sécuritaires pour les enfants.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "6fd78f6fe56eeebd",
@@ -35142,9 +35236,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada lance une mission de lutte contre la pêche illicite, non déclarée et non réglementée dans l’océan Pacifique Nord",
-      "sum": "La pêche illicite, non déclarée et non réglementée (INN) menace les stocks de poissons nationaux et internationaux, ainsi que la santé de l’écosystème océanique dans son ensemble.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada lance mission contre pêche illicite Pacifique Nord",
+      "sum": "Le Canada met en place une mission pour combattre la pêche illicite, non déclarée et non réglementée dans le Pacifique Nord. Cette activité menace les stocks de poissons et la santé des écosystèmes océaniques.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "8a3523e084f2b9ca",
@@ -35154,21 +35249,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le programme d’indemnisation pour les armes à feu destiné aux entreprises prend fin — la période d’amnistie est prolongée en raison de la procédure devant la Cour suprême du Canada",
-      "sum": "Le gouvernement du Canada continue d’adopter une approche globale pour renforcer la sécurité communautaire et lutter contre la violence et la criminalité liées aux armes à feu.",
-      "cat": "Justice"
+      "title": "Programme d'indemnisation des armes à feu prolongé en attente de décision judiciaire",
+      "sum": "Le programme fédéral d'indemnisation pour les armes à feu destiné aux entreprises prend fin, mais la période d'amnistie est prolongée en raison d'une procédure en cours à la Cour suprême du Canada. Le gouvernement affirme poursuivre ses efforts pour renforcer la sécurité communautaire.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "0bb98848246ee6bc",
       "date": "2026-06-09",
       "src": "Sécurité publique Canada (SP)",
       "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/06/prolongation-des-decrets-damnistie.html",
-      "type": "Announcement",
+      "type": "Order in council",
       "kind": "official",
       "lang": "fr",
-      "title": "Prolongation des décrets d'amnistie",
-      "sum": "Le gouvernement du Canada est confiant dans sa décision d'interdire les armes à feu de style arme d'assaut en raison du risque qu'elles posent pour la sécurité publique. En prolongeant la période d'amnistie, le gouvernement donne la certitude aux particuliers et aux entreprises d’armes à feu qu'ils continueront d'être protégés contre la responsabilité criminelle pendant que la Cour suprême entend l'appel et rend sa…",
-      "cat": "Innovation, science & industry"
+      "title": "Prolongation de la période d'amnistie pour les armes d'assaut",
+      "sum": "Le gouvernement du Canada prolonge la période d'amnistie pour les propriétaires d'armes à feu de style militaire, les protégeant de poursuites criminelles pendant que la Cour suprême examine un appel concernant l'interdiction de ces armes.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "e23033b80304f735",
@@ -35213,24 +35310,26 @@
       "date": "2026-06-08",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2026/06/assault-of-an-inmate-at-dorchester-penitentiary--medium-security-unit.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Assault of an inmate at Dorchester Penitentiary – medium security unit",
-      "sum": "On May 29, 2026, an inmate was the victim of an assault in the medium security unit at Dorchester Penitentiary.",
-      "cat": "Public safety"
+      "title": "Inmate assaulted at Dorchester Penitentiary medium security unit",
+      "sum": "An inmate was assaulted in the medium security unit at Dorchester Penitentiary on May 29, 2026.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "7eae9a1b43c2a28a",
       "date": "2026-06-08",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/06/atlantic-canadian-communities-to-benefit-from-76-million-in-federal-infrastructure-dollars.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Atlantic Canadian communities to benefit from $76 million in federal infrastructure dollars",
-      "sum": "Build Communities Strong Fund’s Local Impact stream to help communities build, repair and upgrade local infrastructure",
-      "cat": "Innovation, science & industry"
+      "title": "Atlantic Canada receives $76 million for local infrastructure projects",
+      "sum": "The federal government is distributing $76 million through the Build Communities Strong Fund's Local Impact stream to Atlantic Canadian communities. The funding supports construction, repair, and upgrading of local infrastructure.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "f26b9a1e8d7d526f",
@@ -35240,9 +35339,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Statement from the Honourable David McGuinty, Minister of National Defence",
-      "sum": "This weekend, the Canadian Armed Forces worked together with our Belgian allies to deliver military equipment to Ukraine. Belgium supported this effort by facilitating the transport of equipment from Canadian stocks to Ukraine. Canada regularly provides such deliveries, in coordination with our allies, as part of ongoing support commitments.",
-      "cat": "National defence"
+      "title": "Canadian Armed Forces delivers military equipment to Ukraine with Belgian support",
+      "sum": "The Canadian Armed Forces, working with Belgium, transported military equipment from Canadian stocks to Ukraine. Canada states this delivery is part of its ongoing support commitments coordinated with allied nations.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "7af8299a5f838a27",
@@ -35252,21 +35352,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canadian Coast Guard celebrates its 2026 Academy graduates alongside its newest science vessel",
-      "sum": "Over the past weekend, the Canadian Coast Guard Academy celebrated its 57th graduating class, welcoming one of its largest cohorts in decades, with 58 new officers joining the Canadian Coast Guard.",
-      "cat": "Innovation, science & industry"
+      "title": "Canadian Coast Guard Academy graduates 58 new officers",
+      "sum": "The Canadian Coast Guard Academy held its 57th graduation ceremony, welcoming 58 new officers into the service. This graduating class represents one of the largest cohorts the academy has had in recent decades.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "aca283f483856057",
       "date": "2026-06-08",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/parks-canada/news/2026/06/the-government-of-canada-invests-71-million-in-highway-upgrades-along-highway-431-at-barters-hill-in-gros-morne-national-park.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "The Government of Canada invests $7.1 million in highway upgrades along Highway 431 at Barter’s Hill in Gros Morne National Park",
-      "sum": "This project will improve long-term public safety, infrastructure resilience, and visitor experience.",
-      "cat": "Infrastructure"
+      "title": "Canada funds $7.1 million Highway 431 upgrades in Gros Morne",
+      "sum": "The Government of Canada is investing $7.1 million to upgrade Highway 431 at Barter's Hill in Gros Morne National Park. The project aims to improve public safety, infrastructure resilience, and visitor experience.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "2f6be417035a90ec",
@@ -41965,6 +42067,18 @@
       "excerpt": "Unions warn Carney government is considering sweeping changes to labour law — including the right to strike CBC",
       "cat": "Justice",
       "lang": "en"
+    },
+    {
+      "id": "c3313e67ae35132f",
+      "date": "2026-05-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWxqellHVklmRVBaNVdQbFc5SWtRZENja3k2SjZTUm5adkJGZWFPNk5SczJhcDZUSXZEOHZndWNGQnVnMThMRjlYdXNjTXhzVjVUQjhjR216LUtSYXJYQlRMZERRbVozeVF4Q1lxV1pMQ0wweC1sUURray1LZXpTY3VOY0Y0RndFaHZNcnEwa0EwZDNxeVJuaU5ZQ3ZwOWdWYk5B?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The deregulation agenda is putting Canadians at risk - Policy Alternatives",
+      "excerpt": "The deregulation agenda is putting Canadians at risk Policy Alternatives",
+      "cat": "Economy"
     },
     {
       "id": "95c28b94a79642dd",
@@ -55839,6 +55953,18 @@
       "cat": "Finance",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "cfc4b3d97e5b8c70",
+      "date": "2026-04-27",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnNNbVhCM2dJa0MtQWxHRGtJQkFkbHdva181aF9pSEQtS1N2Z0pIbGRoZjNUdkJLLTN5Mmd4UHBKT1N4VTNEamlnTUNRVTNXeXl4YmI5ZG14WWNlWVRMZjRHR05yNHptUzUzOURRbDdqSGU0MkNkaHZGektmMkhyV2g3UEtFcDlfSm5KWno3Um03ek1naEVRYzAyUUliV1JJRmVfNEpYVF9oS05PSXdXcTc5dm1qdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Mark Carney créera un fonds souverain afin de rendre le Canada «plus fort» - TVA Nouvelles",
+      "excerpt": "Mark Carney créera un fonds souverain afin de rendre le Canada «plus fort» TVA Nouvelles",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "b7e8194c879456eb",
