@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T19:05:01.450Z",
-  "count": 14218,
+  "generatedAt": "2026-08-13T02:08:20.669Z",
+  "count": 14222,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c8d69104e28056a6",
+      "date": "2026-08-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/secretary-of-state-van-koeverden-announces-support-for-a-series-of-international-sport-events-in-canada.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces support for international sport events",
+      "sum": "The Secretary of State van Koeverden announced government support for multiple international sports events taking place across Canada during the summer. The government stated these events would bring Canadians together and demonstrate the strength and diversity of Canadian communities.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "2e5c870fa6f255ad",
+      "date": "2026-08-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-secretaire-detat-van-koeverden-annonce-le-financement-dune-serie-de-rencontres-sportives-internationales-presentees-au-canada.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada finances international sporting events this summer",
+      "sum": "Secretary of State van Koeverden announced government funding for a series of international sporting events taking place across Canada this summer. The government states these events will unite Canadians and showcase the strength and diversity of communities.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "ae9c9b748ee8bc16",
+      "date": "2026-08-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYnRhVm9yY1A1b20zazVwekFKV09UOWNFNjVZeFo0enVzblBQOUxwLWo0NEtYOHBFSmJjdzV4RS04NHJzN1FtTjRQNWhWRGxPQ1Q1WkRKeFFseUZ4cDE1Sy1kRFA1eUJDN1lramNQcXRmd3lkTHBtaTdFbzV5S2FBQllQMDJ5NWRCLUs3ZDVSbXVPZ1p1c0h5X1U3RQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Rob Breakenridge: Mark Carney's (foolish) summer vacation in Italy - National Post",
+      "excerpt": "Rob Breakenridge: Mark Carney's (foolish) summer vacation in Italy National Post",
+      "cat": "Economy"
+    },
     {
       "id": "925a919ddd741898",
       "date": "2026-08-12",
@@ -23131,6 +23169,18 @@
       "lang": "en"
     },
     {
+      "id": "b41b0990c9540d18",
+      "date": "2026-06-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWHRaenktYmFvb19OSy02aWFXcWRpUG9jR25uenB2YnU0WmlsX2Zzb0lQcUdONHZsd3l2R296RXcxYkwwTUlTN2ZCWUt6RzdCUmxhQVd6dUt6cWdmY2lKNFRSemFScVZITXRKOHRzMUJMYUlvVUJZZEI5dzlmUFAySldhY3Nra1RQU2s3N1c5cmFfVUNnSnlENFdZWGxQcjg0YXQtTWNWWkxTYXdyYl9OTTE0RmtVYlRUcm1kd2ZwbndPcGFIdGVUYQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Old emission plan would have been ‘opportunity’ to ‘pull Canada apart’: Carney - bnnbloomberg.ca",
+      "excerpt": "Old emission plan would have been ‘opportunity’ to ‘pull Canada apart’: Carney bnnbloomberg.ca",
+      "cat": "Sustainable development"
+    },
+    {
       "id": "4c687e308b3260af",
       "date": "2026-06-30",
       "src": "Canadian politics (via Google News)",
@@ -32634,12 +32684,13 @@
       "date": "2026-06-15",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/developpement-economique-sud-ontario/nouvelles/2026/06/le-gouvernement-du-canada-appuie-linnovation-et-lentrepreneuriat-dans-les-technologies-sportives-dans-le-sud-de-lontario.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada appuie l’innovation et l’entrepreneuriat dans les technologies sportives dans le Sud de l’Ontario",
-      "sum": "FedDev Ontario investit 1,3 million de dollars pour aider les entreprises en démarrage canadiennes à se mettre à l’échelle et à tirer parti des possibilités économiques.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 1,3 million dans les technologies sportives en Ontario",
+      "sum": "Le gouvernement du Canada fournit 1,3 million de dollars par l'intermédiaire de FedDev Ontario pour soutenir les entreprises de démarrage canadiennes dans le secteur des technologies sportives. Cet investissement vise à aider ces entreprises à se développer et à profiter des opportunités économiques.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "013f0ac717c54226",
@@ -32649,9 +32700,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Allocution prononcée à l’occasion du 25e Forum canadien annuel sur la lutte contre le blanchiment d’argent et le crime financier de l’Institut canadien par le commissaire adjoint de la Surveillance et de la Mise en application, Frank Lofranco",
-      "sum": "Allocution prononcée par Frank Lofranco, commissaire adjoint, de l'ACFC Surveillance et de la mise en application, lors du 25e Annual Canadian Forum on Anti-Money Laundering and Financial Crime, à Toronto, Ontario, le 10 juin 2026.",
-      "cat": "Public safety"
+      "title": "Allocution sur la lutte contre le blanchiment d'argent au forum canadien",
+      "sum": "Le commissaire adjoint de la Surveillance et de la Mise en application de l'ACFC a prononcé une allocution lors du 25e Forum canadien annuel sur la lutte contre le blanchiment d'argent et le crime financier, tenu à Toronto le 10 juin 2026.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "a13c6554a3dcb22c",
@@ -32661,9 +32713,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des initiatives ciblées pour contrer la crise des drogues illégales",
-      "sum": "Tout au long de l’année 2025-2026, le gouvernement fédéral a pris des mesures ciblées pour soutenir les particuliers, les familles et les communautés. Par ailleurs, le gouvernement fédéral collabore avec l’ensemble des paliers de gouvernement et ses principaux partenaires afin d’intervenir à la crise des drogues illégales grâce à des mesures ciblées en matière de prévention, de réduction des méfaits, de traitement,…",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement fédéral lance initiatives contre crise drogues illégales",
+      "sum": "Le gouvernement fédéral met en œuvre des mesures ciblées tout au long de 2025-2026 pour intervenir dans la crise des drogues illégales. Ces initiatives portent sur la prévention, la réduction des méfaits et le traitement, en collaboration avec les autres paliers de gouvernement.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "ab84e6d376ece6f8",
@@ -32673,9 +32726,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le nombre de décès par surdose diminue à l'échelle nationale et la réponse fédérale prend de l'ampleur",
-      "sum": "La crise liée aux drogues toxiques continue d’avoir des répercussions dévastatrices sur les personnes, les familles et les communautés partout au pays. Bien que la diminution du nombre de décès et de méfaits soit encourageante, comme le soulignent les dernières données nationales sur les méfaits liés à la consommation de substances publiées plus tôt aujourd’hui, le nombre de décès reste plus élevé qu’il y a dix ans…",
-      "cat": "Innovation, science & industry"
+      "title": "Décès par surdose en baisse, réponse fédérale intensifiée",
+      "sum": "Le nombre de décès par surdose diminue à l'échelle nationale selon les dernières données. Le gouvernement fédéral intensifie sa réponse à la crise des drogues toxiques qui continue d'affecter les personnes, les familles et les communautés.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "cfaa9af798e96501",
@@ -32685,9 +32739,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La secrétaire d’État Gainey fera une annonce concernant le Programme national d’alimentation scolaire",
-      "sum": "La secrétaire d’État (Enfance et Jeunesse), l’honorable Anna Gainey, sera à Ottawa pour souligner le soutien qu’offre le gouvernement fédéral aux provinces et aux territoires dans leurs efforts pour améliorer les programmes d’alimentation en milieu scolaire partout au Canada et en accroître la portée.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce sur le Programme national d'alimentation scolaire",
+      "sum": "La secrétaire d'État Anna Gainey fera une annonce à Ottawa sur le soutien fédéral aux provinces et territoires pour améliorer et élargir les programmes d'alimentation scolaire au Canada.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "e603f05f145508f3",
@@ -32697,9 +32752,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des entreprises du Canada atlantique exploreront de nouveaux marchés dans le cadre de missions commerciales en juin",
-      "sum": "Les entreprises canadiennes évoluent dans une économie mondiale en constante évolution, et l’expansion vers de nouveaux marchés est plus importante que jamais.",
-      "cat": "Innovation, science & industry"
+      "title": "Entreprises de l'Atlantique explorent nouveaux marchés juin",
+      "sum": "Des entreprises de la région de l'Atlantique canadien participeront à des missions commerciales en juin pour explorer de nouveaux marchés internationaux. Ces activités s'inscrivent dans une stratégie d'expansion commerciale dans une économie mondiale en évolution.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "c9a6f21e6ad0390a",
@@ -32709,9 +32765,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Vicky Eatrides au Banff World Media Festival",
-      "sum": "Vicky Eatrides s'adresse au Banff World Media Festival pour faire le point sur les travaux en cours visant à moderniser les cadres réglementaires de radiodiffusion au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Vicky Eatrides présente les réformes réglementaires de radiodiffusion",
+      "sum": "Vicky Eatrides s'exprime au Banff World Media Festival pour discuter des efforts de modernisation des cadres réglementaires de radiodiffusion au Canada.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "93a153d8111d3627",
@@ -32721,9 +32778,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Investissement gouvernemental fédéral et provincial de plus de 200 M$ dans la phase II du Complexe des sciences de l’Université de Montréal : le Canada et le Québec à l’avant-garde pour les matériaux avancés, l’informatique et l’intelligence artificielle",
-      "sum": "La secrétaire parlementaire du premier ministre du Canada et députée d’Outremont, l’honorable Rachel Bendayan, la secrétaire parlementaire du ministre du Logement et de l’Infrastructure, Caroline Desrochers, et la ministre de l’Enseignement supérieur et ministre responsable de la Condition féminine, Martine Biron, en compagnie du ministre des Finances et ministre responsable des Infrastructures, Eric Girard, ont…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Québec investissent 200 M$ dans sciences Université Montréal",
+      "sum": "Les gouvernements fédéral et provincial investissent plus de 200 millions de dollars dans la phase II du Complexe des sciences de l'Université de Montréal. Ce projet vise à soutenir la recherche en matériaux avancés, informatique et intelligence artificielle.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "122ff10939406841",
@@ -32733,9 +32791,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre McGuinty participera à la réunion des ministres de la Défense des pays de l’OTAN",
-      "sum": "L’honorable David J. McGuinty, ministre de la Défense nationale, se rendra à Bruxelles le 18 juin pour participer à la 35e réunion du Groupe de contact pour la défense de l’Ukraine, organisée par l’Allemagne et le Royaume-Uni, ainsi qu’à la réunion des ministres de la Défense des pays de l’Organisation du Traité de l’Atlantique Nord (OTAN) au siège de l’OTAN.",
-      "cat": "Innovation, science & industry"
+      "title": "Le ministre McGuinty participe aux réunions de défense de l'OTAN",
+      "sum": "Le ministre de la Défense nationale David McGuinty se rendra à Bruxelles le 18 juin pour participer à la 35e réunion du Groupe de contact pour la défense de l'Ukraine et à la réunion des ministres de la Défense de l'OTAN.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "5190252f1190e4ae",
@@ -32745,45 +32804,49 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisie d’objets interdits et non autorisés à l’Établissement de Stony Mountain",
-      "sum": "Le 10 et 11 juin 2026, grâce à la vigilance du personnel, des colis contenant des objets interdits et non autorisés ont été saisis à l’Établissement de Stony Mountain.",
-      "cat": "Housing"
+      "title": "Saisie d'objets interdits à l'établissement Stony Mountain",
+      "sum": "Le personnel de l'Établissement de Stony Mountain a saisi des colis contenant des objets interdits et non autorisés les 10 et 11 juin 2026.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "273eb921e18f807b",
       "date": "2026-06-15",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/06/le-gouvernement-du-canada-depose-un-projet-de-loi-visant-a-proteger-les-donnees-des-enfants-a-mieux-proteger-la-vie-privee-et-a-instaurer-la-confia.html",
-      "type": "Spending",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada dépose un projet de loi visant à protéger les données des enfants, à mieux protéger la vie privée et à instaurer la confiance dans l’économie numérique",
-      "sum": "Le gouvernement du Canada dépose un projet de loi visant à renforcer la protection de la vie privée et la confiance du public à l’ère numérique",
-      "cat": "Economy"
+      "title": "Canada dépose projet de loi protection données enfants vie privée",
+      "sum": "Le gouvernement du Canada présente un projet de loi qui vise à renforcer la protection des données des enfants et de la vie privée dans l'économie numérique. Cette mesure cherche à établir une plus grande confiance du public dans l'environnement numérique.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "c42d4f299ac95fd7",
       "date": "2026-06-15",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/06/document-dinformation--le-gouvernement-du-canada-presente-un-projet-de-loi-visant-a-proteger-la-vie-privee-des-canadiens-a-lere-numerique.html",
-      "type": "Spending",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d'information : Le gouvernement du Canada présente un projet de loi visant à protéger la vie privée des Canadiens à l'ère numérique",
-      "sum": "Aujourd’hui, le gouvernement du Canada a présenté le Projet de loi C-36, la Loi édictant la Loi visant à protéger la vie privée et les données des consommateurs (Loi visant à protéger la vie privée et les données des consommateurs (LPVPDC), modifiant la Loi sur la protection des renseignements personnels et les documents électroniques et apportant des modifications corrélatives et connexes à d’autres lois.",
-      "cat": "Economy"
+      "title": "Canada présente un projet de loi sur la protection de la vie privée numérique",
+      "sum": "Le gouvernement du Canada a présenté le projet de loi C-36, qui vise à protéger la vie privée et les données des consommateurs à l'ère numérique. Ce projet de loi modifie la Loi sur la protection des renseignements personnels et les documents électroniques ainsi que d'autres lois connexes.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "37199bf310309d69",
       "date": "2026-06-15",
       "src": "Innovation, Sciences et Développement économique Canada (ISDE)",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/06/la-ministre-joly-se-rendra-en-chine-et-au-japon-pour-promouvoir-les-interets-canadiens-a-letranger.html",
-      "type": "Spending",
+      "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly se rendra en Chine et au Japon pour promouvoir les intérêts canadiens à l’étranger",
-      "sum": "La ministre de l’Industrie et ministre responsable de Développement économique Canada pour les régions du Québec, l’honorable Mélanie Joly se rendra en Chine et au Japon du 14 au 23 juin 2026, accompagnée du Secrétaire parlementaire du premier ministre, l’honorable Kody Blois, pour faire avancer les priorités canadiennes et promouvoir la croissance économique.",
-      "cat": "Innovation, science & industry"
+      "title": "La ministre Joly en visite officielle en Chine et au Japon",
+      "sum": "La ministre de l'Industrie Mélanie Joly se rendra en Chine et au Japon du 14 au 23 juin 2026, accompagnée du Secrétaire parlementaire du premier ministre Kody Blois. Cette visite vise à promouvoir les intérêts canadiens et la croissance économique.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "08163eafade0b709",
@@ -32793,9 +32856,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Gull-Masty fera une annonce historique concernant l’eau potable dans les communautés des Premières Nations",
-      "sum": "L’honorable Mandy Gull Masty, ministre des Services aux Autochtones, tiendra une conférence de presse et une séance avec les médias au sujet d’une Loi concernant l’eau, les sources d’eau, l’eau potable, les eaux usées et les infrastructures connexes sur les terres des Premières Nations.",
-      "cat": "Infrastructure"
+      "title": "Ministre annonce mesures eau potable communautés Premières Nations",
+      "sum": "La ministre des Services aux Autochtones tiendra une conférence de presse pour annoncer une loi concernant l'eau potable, les sources d'eau, les eaux usées et les infrastructures connexes sur les terres des Premières Nations.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "f42207787094ca49",
@@ -32881,9 +32945,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Supporting New Brunswick’s oyster industry",
-      "sum": "Federal support will help restock and strengthen supply for oyster growers",
-      "cat": "Economy"
+      "title": "Federal government supports New Brunswick oyster industry restocking",
+      "sum": "The federal government is providing support to help restock oysters and strengthen the supply for oyster growers in New Brunswick. This assistance aims to support the province's oyster industry.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "56d7b027ec05faf5",
@@ -32893,21 +32958,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Announcement of new diplomatic appointments",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced the following diplomatic appointments:",
-      "cat": "Foreign affairs"
+      "title": "Canada announces new diplomatic appointments",
+      "sum": "The Minister of Foreign Affairs announced the appointment of new diplomatic staff to represent Canada's interests abroad.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "d4e7d10513b7b222",
       "date": "2026-06-12",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/global-affairs/news/2026/06/biographical-notes.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "en",
-      "title": "Biographical notes",
-      "sum": "Alexandre Côté (BA Hons [International Studies], Glendon College, York University, 1995; MA Economics [Development Administration and Management], University of Manchester, 2002) started his career as a junior professional officer with the UN Development Programme.",
-      "cat": "Foreign affairs"
+      "title": "Alexandre Côté appointed to government position",
+      "sum": "Alexandre Côté, who holds degrees in international studies and economics, has been appointed to a role in the Canadian federal government. His background includes work with the UN Development Programme.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "9230594c2862e5b2",
@@ -32917,21 +32984,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada to announce support for sport-tech innovation and entrepreneurship in southern Ontario",
-      "sum": "The Honourable Rechie Valdez, Minister of Women and Gender Equality and Secretary of State (Small Business and Tourism), on behalf of the Honourable Evan Solomon, Minister of Artificial Intelligence and Digital Innovation and Minister responsible for the Federal Economic Development Agency for Southern Ontario (FedDev Ontario), will announce support for sport-tech innovation and entrepreneurship.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada announces sport-tech innovation support in southern Ontario",
+      "sum": "The federal government will announce financial or programmatic support for sports technology innovation and entrepreneurship initiatives in southern Ontario. The announcement will be made by federal ministers responsible for small business, digital innovation, and regional economic development.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "ffca542f4d67c9d3",
       "date": "2026-06-12",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/06/canada-and-prince-edward-island-invest-in-wastewater-infrastructure-to-support-more-housing-in-wellington.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Canada and Prince Edward Island invest in wastewater infrastructure to support more housing in Wellington",
-      "sum": "The Government of Canada is using every tool at its disposal, leveraging technology, innovation and partnerships, to build homes at scale.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada and PEI invest in Wellington wastewater infrastructure for housing",
+      "sum": "The federal government and Prince Edward Island are investing in wastewater infrastructure in Wellington to support increased housing development. The investment is part of efforts to expand housing capacity.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "58dba3bdbd408f3a",
@@ -32941,9 +33010,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Champagne in Toronto to open Toronto Stock Exchange and participate in a fireside chat",
-      "sum": "The Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will join the Toronto Stock Exchange (TSX) and the Canadian ETF Association (CETFA) to open the market in recognition of the continued growth, innovation and impact of Canada's exchange-traded fund (ETF) industry.",
-      "cat": "Finance"
+      "title": "Minister Champagne opens Toronto Stock Exchange to recognize ETF industry",
+      "sum": "The Minister of Finance and National Revenue participated in opening the Toronto Stock Exchange and engaged in a discussion with the Canadian ETF Association to recognize the growth and innovation of Canada's exchange-traded fund industry.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "e96a60210b3e3e6d",
@@ -32953,21 +33023,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Parliamentary Secretary Church shares Canada’s commitment to ensure the full inclusion of persons with disabilities at the United Nations",
-      "sum": "This week, Leslie Church, Parliamentary Secretary to the Minister of Jobs and Families (Persons with Disabilities), led Canada’s delegation to the 19th session of the UN Conference of States Parties to the Convention on the Rights of Persons with Disabilities in New York, where she underscored Canada’s ongoing commitment to advancing the rights, inclusion and full participation of persons with disabilities.",
-      "cat": "Economy"
+      "title": "Canada reaffirms commitment to disability inclusion at UN",
+      "sum": "Parliamentary Secretary Leslie Church led Canada's delegation at the UN Conference of States Parties to the Convention on the Rights of Persons with Disabilities, emphasizing Canada's support for advancing disability rights and inclusion.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "691f37056078f6e6",
       "date": "2026-06-12",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/06/northern-cod-socio-economic-performance.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Northern Cod: Socio-Economic Performance",
-      "sum": "The Northern cod fishery is supporting employment and investment in coastal communities and providing economic benefits to Indigenous partners, harvesters, plant workers and other related industries. Since the commercial fishery reopened, landings have more than doubled reaching 32,700 tonnes in 2025 with an associated landed value of $75 million. In 2025, Northern cod accounted for six per cent of the province’s…",
-      "cat": "Economy"
+      "title": "Northern Cod Fishery Generates Employment and Economic Growth",
+      "sum": "The Northern cod fishery has doubled landings to 32,700 tonnes in 2025, generating $75 million in value and supporting employment across coastal communities, Indigenous partners, and related industries. Northern cod now represents six percent of the province's economic activity.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "98cc1a902dff0b15",
@@ -32977,9 +33049,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Northern cod quota to increase 55 per cent: Minister Thompson announces 2026 management decisions for Northern cod, Northern Gulf cod, and Northeast and south coast capelin for Newfoundland and Labrador",
-      "sum": "Fishing is more than an industry in Newfoundland and Labrador—it is a way of life, deeply rooted in the history, culture, and identity of the province. For generations, Northern cod has been central to our story and the decision for Northern cod (2J3KL) will help support a year-round commercial Northern cod fishery.",
-      "cat": "Culture & heritage"
+      "title": "Northern cod fishing quota to increase 55 percent in 2026",
+      "sum": "The federal government announced it will increase the fishing quota for Northern cod by 55 percent starting in 2026. The decision also includes management plans for Northern Gulf cod and capelin stocks off Newfoundland and Labrador.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "82c5f29dcc31a0ba",
@@ -32989,21 +33062,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Seizure of contraband and unauthorized items at Cowansville Institution",
-      "sum": "On June 4, 2026, as a result of the vigilance of staff members, contraband and unauthorized items were seized at Cowansville Institution, a medium-security federal institution.",
-      "cat": "Public safety"
+      "title": "Contraband seized at Cowansville Institution",
+      "sum": "On June 4, 2026, staff at Cowansville Institution, a medium-security federal prison, seized contraband and unauthorized items during facility operations.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "355751d12642ddeb",
       "date": "2026-06-12",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/06/canada-and-prince-edward-island-invest-in-wastewater-and-stormwater-infrastructure-to-support-more-housing-in-alberton.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Canada and Prince Edward Island invest in wastewater and stormwater infrastructure to support more housing in Alberton",
-      "sum": "The Government of Canada is using every tool at its disposal, leveraging technology, innovation and partnerships, to build homes at scale.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada and PEI fund wastewater infrastructure for housing in Alberton",
+      "sum": "The Government of Canada and Prince Edward Island are investing in wastewater and stormwater infrastructure in Alberton to support increased housing development. The investment is intended to use technology and partnerships to facilitate home construction.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "566139830bbbc805",
@@ -33013,9 +33088,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada hosts first-ever Men’s FIFA World CupTM match on home soil: Statement by Secretary of State van Koeverden",
-      "sum": "Fans from coast to coast to coast are uniting to celebrate another landmark moment for sport in Canada",
-      "cat": "Natural resources"
+      "title": "Canada hosts first Men's FIFA World Cup match",
+      "sum": "Canada hosted its first-ever Men's FIFA World Cup match on home soil. The event brought together fans from across the country to celebrate this sporting milestone.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "e6a318c00af145d3",
@@ -33025,9 +33101,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Anand announces new funding for Palestinians amid crises in Gaza and the West Bank",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, announced an additional $100 million in funding to support UN, Red Cross and Red Crescent and NGO partners in delivering international assistance to Palestinians in the West Bank and Gaza.",
-      "cat": "Foreign affairs"
+      "title": "Canada announces $100 million in Palestinian humanitarian assistance",
+      "sum": "Minister of Foreign Affairs Anita Anand announced $100 million in additional funding to support international humanitarian organizations providing assistance to Palestinians in the West Bank and Gaza. The funding will be delivered through UN agencies, the Red Cross and Red Crescent, and non-governmental organizations.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "28cca51ef38e8fc0",
@@ -33037,9 +33114,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Royal Canadian Navy to Welcome New Commander",
-      "sum": "Media are invited to attend the Change of Command Ceremony on Tuesday, June 16th at His Majesty’s Canadian Ship (HMCS) Star in Hamilton Ontario to mark the turnover of Command of the Royal Canadian Navy (RCN) from Vice-Admiral Angus Topshee to Vice-Admiral Dan Charlebois.",
-      "cat": "National defence"
+      "title": "Royal Canadian Navy announces new commander",
+      "sum": "The Royal Canadian Navy is holding a Change of Command Ceremony on June 16th in Hamilton, Ontario, where Vice-Admiral Dan Charlebois will take command from Vice-Admiral Angus Topshee.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "616329fdede34068",
@@ -33049,57 +33127,62 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada officials to hold a media technical briefing related to forced labour",
-      "sum": "Officials from the Government of Canada will offer a technical briefing on the Ban on Importing Goods Made with Forced Labour Act.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada to brief media on forced labour import ban act",
+      "sum": "Government of Canada officials will hold a technical briefing for media about the Ban on Importing Goods Made with Forced Labour Act. The briefing will provide information on how this legislation operates.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "459fb526cc6998d7",
       "date": "2026-06-12",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/public-services-procurement/news/2026/06/canada-and-france-sign-general-security-of-information-agreement.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "en",
       "title": "Canada and France sign General Security of Information Agreement",
-      "sum": "The Government of Canada is acting to strengthen Canada’s economic and security interests by deepening cooperation with trusted international partners. In a global economy where access, security and innovation drive growth, Canada is ensuring its industries are well-positioned to compete and succeed.",
-      "cat": "Foreign affairs"
+      "sum": "Canada and France have signed a General Security of Information Agreement to strengthen economic and security cooperation between the two countries. The agreement is intended to support Canada's competitive position in the global economy.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "59ffbebc3ebaf226",
       "date": "2026-06-12",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/global-affairs/news/2026/06/canada-introduces-legislation-to-strengthen-the-ban-on-importing-goods-produced-with-forced-labour0.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "en",
-      "title": "Canada introduces legislation to strengthen the ban on importing goods produced with forced labour",
-      "sum": "The Government of Canada has introduced An Act respecting the prohibition of the importation of goods produced by forced labour to strengthen Canada’s existing framework aimed at preventing goods made with forced labour from entering the Canadian market.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada introduces legislation strengthening forced labour import ban",
+      "sum": "The Government of Canada has introduced new legislation to strengthen its existing framework that prevents goods made with forced labour from being imported into Canada.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "d60a5ef04e35e775",
       "date": "2026-06-12",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/global-affairs/news/2026/06/canada-tables-legislation-to-strengthen-prohibition-on-goods-produced-with-forced-labour.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "en",
-      "title": "Canada tables legislation to strengthen prohibition on goods produced with forced labour",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, today announced that the Government of Canada has tabled new legislation, An Act respecting the prohibition of the importation of goods produced by forced labour. If adopted, the Act would reinforce Canada’s existing framework to prevent goods made with forced labour from entering the Canadian market.",
-      "cat": "Foreign affairs"
+      "title": "Canada tables legislation to prohibit forced labour goods imports",
+      "sum": "The Government of Canada has introduced new legislation to strengthen the existing rules preventing goods made with forced labour from being imported into Canada. If passed, the Act would reinforce Canada's framework to keep such goods out of the Canadian market.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "12d403b8b08d0869",
       "date": "2026-06-12",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/agriculture-agri-food/news/2026/06/canada-and-ontario-investing-12-million-to-protect-farmers-and-strengthen-the-agri-food-sector.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Canada and Ontario investing $12 million to protect farmers and strengthen the agri-food sector",
-      "sum": "The governments of Canada and Ontario are investing an additional $12 million through the Agricultural Stewardship Initiative to help farmers adopt practical improvements that increase efficiency, reduce costs and build long-term resilience. This initiative delivers on the government’s plan to protect Ontario’s farmers and agri-food sector by making strategic investments in cutting-edge solutions needed to support…",
-      "cat": "Economy"
+      "title": "Canada and Ontario invest $12 million in agricultural stewardship",
+      "sum": "The federal and Ontario governments are providing $12 million through the Agricultural Stewardship Initiative to help farmers adopt practices that improve efficiency and reduce costs. The funding supports long-term resilience in Ontario's agricultural sector.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ad337579c408c47d",
@@ -33109,9 +33192,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "CRTC consults on making consumer protections clearer for Canadians",
-      "sum": "Today, the CRTC is launching a public consultation to make consumer protections clearer and more consistent for Canadians across their Internet, cellphone, home phone and television services.",
-      "cat": "Economy"
+      "title": "CRTC launches consultation on consumer protection clarity",
+      "sum": "The Canadian Radio-television and Telecommunications Commission is seeking public input on how to make consumer protections clearer and more consistent for internet, cellphone, home phone, and television services.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "ee30fc8bb55d54ba",
@@ -33121,21 +33205,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada celebrates keel laying for the first River-class destroyer",
-      "sum": "Today, the Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, on behalf of the Honourable David J. McGuinty, Minister of National Defence, along with the Honourable Sean Fraser, Minister of Justice and Attorney General of Canada and Minister responsible for the Atlantic Canada Opportunities Agency, attended the ceremonial keel laying for the first River-class destroyer (RCD), the future…",
-      "cat": "National defence"
+      "title": "Canada holds keel laying ceremony for first River-class destroyer",
+      "sum": "Canada held a ceremonial keel laying for the first River-class destroyer, a naval vessel under construction. The event was attended by federal ministers representing defence, justice, and immigration.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "aa082949d4b614cb",
       "date": "2026-06-12",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2026/06/death-of-an-inmate-from-saskatchewan-penitentiary.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Death of an inmate from Saskatchewan Penitentiary",
-      "sum": "On June 11, 2026, an inmate from Saskatchewan Penitentiary died while in our custody. The individual’s name has been anonymized to comply with a court-ordered publication ban to protect the identity of the victim(s).",
-      "cat": "Justice"
+      "title": "Inmate death at Saskatchewan Penitentiary reported",
+      "sum": "An inmate died on June 11, 2026 while in custody at Saskatchewan Penitentiary. The inmate's identity is protected under a court-ordered publication ban.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "b91cd7bb266b7045",
@@ -33145,9 +33231,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Media Availability on Federal Actions in Response to the Illegal Drug Crisis",
-      "sum": "The Honourable Marjorie Michel, Minister of Health, the Honourable Mandy Gull-Masty, Minister of Indigenous Services, Dr. Joss Reimer, Canada’s Chief Public Health Officer, and Kevin Brosseau, Canada’s Fentanyl Czar, will hold a media availability on federal actions in response to the opioid crisis.",
-      "cat": "Healthcare"
+      "title": "Federal ministers announce actions on illegal drug crisis",
+      "sum": "The Minister of Health, Minister of Indigenous Services, Canada's Chief Public Health Officer, and Canada's Fentanyl Czar will hold a media event to discuss federal government actions responding to the opioid crisis.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "0ab93982e63aa41d",
@@ -33157,9 +33244,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada supports the 37th Francos de Montréal",
-      "sum": "Les Francos de Montréal receive support from the Government of Canada.",
-      "cat": "Economy"
+      "title": "Canada provides support to Francos de Montréal festival",
+      "sum": "The Government of Canada is providing support to Les Francos de Montréal, a festival event. The nature and amount of the support is not specified in this announcement.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "d0790457b12b54c1",
@@ -33169,9 +33257,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Soutien à l’industrie ostréicole du Nouveau-Brunswick",
-      "sum": "Le soutien fédéral aidera à reconstituer le stock et à renforcer l’approvisionnement pour les ostréiculteurs",
-      "cat": "Innovation, science & industry"
+      "title": "Soutien fédéral à l'industrie ostréicole du Nouveau-Brunswick",
+      "sum": "Le gouvernement fédéral accorde un soutien à l'industrie ostréicole du Nouveau-Brunswick pour reconstituer les stocks et renforcer l'approvisionnement des producteurs.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "b20249cae173f34f",
@@ -33181,9 +33270,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce de nouvelles nominations diplomatiques",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui les nominations diplomatiques suivantes :",
-      "cat": "Foreign affairs"
+      "title": "Ministre annonce nouvelles nominations diplomatiques",
+      "sum": "La ministre des Affaires étrangères a annoncé de nouvelles nominations à des postes diplomatiques. Les détails spécifiques des postes et des candidats nommés n'ont pas été fournis dans cette annonce.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "6aa4e881038c8ddb",
@@ -33193,9 +33283,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Notices biographiques",
-      "sum": "Alexandre Côté (B.A. avec spécialisation [études internationales], Collège Glendon, Université York, 1995; M.A. en économie [administration et gestion du développement], Université de Manchester, 2002) a commencé sa carrière comme administrateur auxiliaire au Programme des Nations Unies pour le développement.",
-      "cat": "Foreign affairs"
+      "title": "Alexandre Côté nommé à un poste au Programme des Nations Unies",
+      "sum": "Alexandre Côté, titulaire d'un baccalauréat en études internationales et d'une maîtrise en économie, a commencé sa carrière comme administrateur auxiliaire au Programme des Nations Unies pour le développement.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "c2b9066e0040ff83",
@@ -33205,21 +33296,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annoncera un soutien pour l’innovation et l’entrepreneuriat dans les technologies sportives dans le Sud de l’Ontario",
-      "sum": "L’honorable Rechie Valdez, ministre des Femmes et de l’Égalité des genres et secrétaire d’État (Petites Entreprises et Tourisme), au nom de l’honorable Evan Solomon, ministre de l’Intelligence artificielle et de l’Innovation numérique et ministre responsable de l’Agence fédérale de développement économique pour le Sud de l’Ontario (FedDev Ontario), fera une annonce importante à l’appui de l’innovation et de…",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada soutient l'innovation en technologies sportives en Ontario",
+      "sum": "Le gouvernement du Canada annoncera un soutien pour l'innovation et l'entrepreneuriat dans les technologies sportives dans le Sud de l'Ontario. Cette annonce sera faite par la ministre des Femmes et de l'Égalité des genres au nom du ministre de l'Intelligence artificielle et de l'Innovation numérique.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "d7eae661c20d59e9",
       "date": "2026-06-12",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/06/le-canada-et-lile-du-prince-edouard-investissent-dans-des-infrastructures-de-traitement-des-eaux-usees-pour-soutenir-la-construction-dun-plus-grand.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et l’Île-du-Prince-Édouard investissent dans des infrastructures de traitement des eaux usées pour soutenir la construction d’un plus grand nombre de logements à Wellington",
-      "sum": "Le gouvernement du Canada utilise tous les outils à sa disposition, en tirant parti de la technologie, de l’innovation et des partenariats, pour bâtir des logements à grande échelle.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Île-du-Prince-Édouard investissent dans traitement eaux usées",
+      "sum": "Le gouvernement du Canada et la province de l'Île-du-Prince-Édouard investissent dans des infrastructures de traitement des eaux usées à Wellington. Cet investissement vise à soutenir la construction de nouveaux logements dans la région.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "e4cbf9a720f71e08",
@@ -33229,9 +33322,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Champagne sera à Toronto pour l’ouverture de la Bourse de Toronto et une discussion informelle",
-      "sum": "L’honorable François-Philippe Champagne, ministre des Finances et du Revenu national, se joindra à la Bourse de Toronto et à l’Association canadienne des fonds négociés en bourse (ACFNB) pour une cérémonie d’ouverture des marchés afin de souligner la croissance continuelle, l’innovation et les retombées positives de l’industrie des fonds négociés en bourse (FNB) au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Champagne participe à l'ouverture de la Bourse de Toronto",
+      "sum": "Le ministre des Finances François-Philippe Champagne assistera à une cérémonie d'ouverture des marchés à la Bourse de Toronto aux côtés de l'Association canadienne des fonds négociés en bourse pour souligner la croissance de l'industrie des FNB au Canada.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "a5edd9eb9bc84c26",
@@ -33241,21 +33335,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La secrétaire parlementaire Church s’adresse aux Nations Unies et fait part de l’engagement du Canada à garantir la pleine inclusion des personnes en situation de handicap",
-      "sum": "Cette semaine, la secrétaire parlementaire de la ministre de l’Emploi et des Familles (Personnes en situation de handicap), Leslie Church, a dirigé la délégation canadienne à la 19e session de la Conférence des États parties à la Convention relative aux droits des personnes handicapées des Nations Unies à New York. Elle y a souligné l’engagement continu du Canada à promouvoir les droits, l’inclusion et la pleine…",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada réaffirme son engagement envers l'inclusion des personnes handicapées aux Nations Unies",
+      "sum": "La secrétaire parlementaire Leslie Church a dirigé la délégation canadienne à la conférence des Nations Unies sur les droits des personnes handicapées à New York cette semaine. Elle y a réaffirmé l'engagement du Canada à promouvoir les droits et l'inclusion complète des personnes en situation de handicap.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "d730c1ba0b043722",
       "date": "2026-06-12",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/peches-oceans/nouvelles/2026/06/morue-du-nord--rendement-socio-economique.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "Morue du Nord : Rendement socio-économique",
-      "sum": "La pêche à la morue du Nord crée des emplois et favorise les investissements dans les communautés côtières, tout en générant des retombées économiques pour les partenaires autochtones, les pêcheurs, les employés des usines de transformation et d’autres secteurs connexes. Depuis la réouverture de la pêche commerciale, les débarquements ont plus que doublé, atteignant 32 700 tonnes en 2025, pour une valeur au…",
-      "cat": "Innovation, science & industry"
+      "title": "Pêche à la morue du Nord génère emplois et investissements côtiers",
+      "sum": "La pêche commerciale à la morue du Nord crée des emplois et attire des investissements dans les communautés côtières, bénéficiant aux partenaires autochtones, pêcheurs et travailleurs d'usines. Depuis sa réouverture, les débarquements ont plus que doublé, atteignant 32 700 tonnes en 2025.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "34b3ee081bf10ea8",
@@ -33265,9 +33361,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Augmentation de 55 % du quota de morue du Nord : la ministre Thompson annonce les décisions de gestion rendues pour 2026 concernant la morue du Nord, la morue du nord du golfe, ainsi que le capelan de la côte nord-est et de la côte sud de Terre-Neuve-et-Labrador",
-      "sum": "À Terre-Neuve-et-Labrador, la pêche est plus qu’une simple industrie : c’est un mode de vie profondément ancré dans l’histoire, la culture et l’identité de la province. Depuis des générations, la morue du Nord occupe une place centrale dans notre histoire et la décision concernant la morue du Nord (2J3KL) contribuera à soutenir une pêche commerciale de la morue du Nord toute l’année.",
-      "cat": "Innovation, science & industry"
+      "title": "Augmentation de 55 % du quota de morue du Nord pour 2026",
+      "sum": "La ministre Thompson annonce les décisions de gestion des pêches pour 2026, incluant une augmentation de 55 % du quota de morue du Nord. Ces décisions concernent aussi la morue du nord du golfe ainsi que le capelan de la côte nord-est et sud de Terre-Neuve-et-Labrador.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "39e3db871a18a1b9",
@@ -33277,9 +33374,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Saisie d’objets interdits et non autorisés à l’Établissement de Cowansville",
-      "sum": "Le 4 juin 2026, grâce à la vigilance du personnel, des objets interdits et non autorisés ont été saisis à l’Établissement de Cowansville, un établissement fédéral à sécurité moyenne.",
-      "cat": "Innovation, science & industry"
+      "title": "Objets interdits saisis à l'Établissement de Cowansville",
+      "sum": "Le 4 juin 2026, du personnel de l'Établissement de Cowansville, un établissement fédéral à sécurité moyenne, a saisi des objets interdits et non autorisés dans les installations.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "c91788c6661e8dc5",
@@ -33289,9 +33387,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et l’Île-du-Prince-Édouard investissent dans des infrastructures de traitement des eaux usées et de gestion des eaux pluviales pour soutenir la construction d’un plus grand nombre de logements à Alberton",
-      "sum": "Le gouvernement du Canada utilise tous les outils à sa disposition, en tirant parti de la technologie, de l’innovation et des partenariats, pour bâtir des logements à grande échelle.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et l'Île-du-Prince-Édouard financent infrastructure eaux usées Alberton",
+      "sum": "Le Canada et l'Île-du-Prince-Édouard investissent dans des infrastructures de traitement des eaux usées et de gestion des eaux pluviales à Alberton pour soutenir la construction de nouveaux logements.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "632fcbf3786f9a2e",
@@ -33301,9 +33400,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration du secrétaire d’État van Koeverden : le Canada accueille le tout premier match masculin à domicile de la Coupe du Monde de la FIFA™",
-      "sum": "Les partisans et partisanes des quatre coins du pays s’unissent pour célébrer un autre moment historique pour le sport au Canada",
-      "cat": "Innovation, science & industry"
+      "title": "Canada accueille premier match masculin Coupe du Monde FIFA",
+      "sum": "Le Canada organise son premier match à domicile de la Coupe du Monde masculine de la FIFA. Cet événement sportif international représente un moment historique pour le sport canadien.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "43feaa1c0905468c",
@@ -33313,21 +33413,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Anand annonce un nouveau financement pour les Palestiniens dans le contexte des crises qui sévissent à Gaza et en Cisjordanie",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé un financement supplémentaire de 100 millions de dollars pour appuyer les partenaires des Nations Unies, de la Croix-Rouge et du Croissant-Rouge ainsi que des ONG qui fournissent une aide internationale à la population palestinienne en Cisjordanie et à Gaza.",
-      "cat": "Foreign affairs"
+      "title": "Canada annonce 100 millions de dollars d'aide aux Palestiniens",
+      "sum": "La ministre des Affaires étrangères Anita Anand a annoncé un financement supplémentaire de 100 millions de dollars pour soutenir les organismes internationaux fournissant de l'aide humanitaire aux populations palestiniennes en Cisjordanie et à Gaza.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "b436cebbac591c15",
       "date": "2026-06-12",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/06/la-marine-royale-canadienne-accueille-un-nouveau-commandant.html",
-      "type": "Announcement",
+      "type": "Appointment",
       "kind": "official",
       "lang": "fr",
-      "title": "La Marine royale canadienne accueille un nouveau commandant",
-      "sum": "Les médias sont invités à assister à la cérémonie de passation de commandement qui aura lieu le mardi 16 juin au Navire canadien de Sa Majesté (NCSM) Star à Hamilton, en Ontario, pour souligner la passation de commandement de la Marine royale canadienne (MRC) du Vice-amiral Angus Topshee au Vice-amiral Dan Charlebois.",
-      "cat": "Economy"
+      "title": "Nouvelle direction à la tête de la Marine royale canadienne",
+      "sum": "Le Vice-amiral Dan Charlebois prend la direction de la Marine royale canadienne, succédant au Vice-amiral Angus Topshee. La cérémonie officielle de passation de commandement se déroulera le 16 juin au NCSM Star à Hamilton, en Ontario.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "96dbb707e8425f15",
@@ -33337,21 +33439,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des responsables du gouvernement du Canada tiendront une séance d’information technique à l’intention des médias concernant le travail forcé",
-      "sum": "Des responsables du Gouvernement du Canada tiendront une séance d’information technique sur la Loi interdisant l’importation de marchandises issues du travail forcé.",
-      "cat": "Innovation, science & industry"
+      "title": "Séance d'information sur la loi interdisant les marchandises du travail forcé",
+      "sum": "Des responsables du gouvernement du Canada tiendront une séance d'information technique pour les médias concernant la Loi interdisant l'importation de marchandises issues du travail forcé.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "7842249e81a3e259",
       "date": "2026-06-12",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2026/06/le-canada-et-la-france-signent-un-accord-sur-la-securite-generale-de-linformation.html",
-      "type": "Announcement",
+      "type": "International agreement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et la France signent un accord sur la sécurité générale de l’information",
-      "sum": "Le gouvernement du Canada prend des mesures pour renforcer les intérêts du Canada en matière d’économie et de sécurité en resserrant ses liens avec des partenaires internationaux de confiance. Vu l’importance de l’accès, de la sécurité et de l’innovation comme moteurs de la croissance dans une économie mondiale, le Canada s’assure que ses industries sont bien placées pour demeurer compétitives et réussir.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et France signent accord sécurité information générale",
+      "sum": "Le Canada et la France ont signé un accord portant sur la sécurité générale de l'information. Cette entente s'inscrit dans la stratégie du Canada de renforcer ses relations avec des partenaires internationaux de confiance.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "a4e0575af444a7d9",
@@ -33361,45 +33465,49 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration de la ministre Valdez et du secrétaire d’État van Koeverden à l’occasion de la Coupe du Monde de la FIFA 2026™",
-      "sum": "La ministre des Femmes et de l’Égalité des genres et secrétaire d’État (Petites Entreprises et Tourisme), l’honorable Rechie Valdez, et le secrétaire d’État (Sports), l’honorable Adam van Koeverden, ont fait la déclaration suivante à l’occasion de la Coupe du Monde de la FIFA 2026™",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada accueille la Coupe du Monde de la FIFA 2026",
+      "sum": "Les ministres fédérales responsables des femmes, de l'égalité des genres, des petites entreprises, du tourisme et des sports ont fait une déclaration officielle concernant l'accueil de la Coupe du Monde de la FIFA 2026 au Canada.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "759d42ce4a723aaf",
       "date": "2026-06-12",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/06/le-canada-presente-un-projet-de-loi-visant-a-renforcer-linterdiction-dimporter-des-biens-issus-du-travail-force0.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada présente un projet de loi visant à renforcer l’interdiction d’importer des biens issus du travail forcé",
-      "sum": "Le gouvernement du Canada a présenté la Loi concernant l’interdiction d’importer des biens issus du travail forcé afin de renforcer le cadre canadien existant visant à empêcher l’entrée sur le marché canadien de biens issus du travail forcé.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada renforce l'interdiction d'importer des biens du travail forcé",
+      "sum": "Le gouvernement du Canada a présenté un projet de loi visant à renforcer l'interdiction d'importer des biens produits par le travail forcé. Cette mesure vise à empêcher ces biens d'accéder au marché canadien.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "7e00ba42af814f58",
       "date": "2026-06-12",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/06/le-canada-depose-un-projet-de-loi-visant-a-renforcer-linterdiction-des-biens-issus-du-travail-force.html",
-      "type": "Announcement",
+      "type": "Bill",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada dépose un projet de loi visant à renforcer l’interdiction des biens issus du travail forcé",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a annoncé aujourd’hui que le gouvernement du Canada a déposé un nouveau projet de loi, Loi concernant l’interdiction de l’importation de biens issus du travail forcé. Si elle est adoptée, cette loi renforcerait le cadre actuel du Canada visant à empêcher les produits fabriqués par le travail forcé d’entrer sur le marché canadien.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada dépose un projet de loi sur l'interdiction du travail forcé",
+      "sum": "Le gouvernement du Canada a présenté un nouveau projet de loi visant à renforcer l'interdiction des biens fabriqués par le travail forcé. Cette loi renforcerait les règles actuelles pour empêcher ces produits d'entrer au Canada.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "71ebc80cabedb6d3",
       "date": "2026-06-12",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2026/06/le-canada-et-lontario-investissent-12-millions-de-dollars-pour-proteger-les-agriculteurs-et-renforcer-le-secteur-agroalimentaire.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada et l’Ontario investissent 12 millions de dollars pour protéger les agriculteurs et renforcer le secteur agroalimentaire",
-      "sum": "Les gouvernements du Canada et de l’Ontario investissent une somme additionnelle de 12 millions de dollars dans le cadre de l’Initiative de gérance agroenvironnementale afin d’aider les agriculteurs à adopter des améliorations pratiques qui accroissent l’efficacité, réduisent les coûts et bâtissent la résilience à long terme. Cette initiative concrétise le plan du gouvernement pour protéger les agriculteurs et le…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada et Ontario investissent 12 millions pour l'agriculture durable",
+      "sum": "Les gouvernements du Canada et de l'Ontario allouent 12 millions de dollars supplémentaires pour aider les agriculteurs à adopter des pratiques qui améliorent l'efficacité et la résilience du secteur agroalimentaire. Cet investissement s'inscrit dans l'Initiative de gérance agroenvironnementale.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "675f3753b0688227",
@@ -33409,9 +33517,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le CRTC consulte pour clarifier les mesures de protection des consommateurs pour les Canadiens",
-      "sum": "Le CRTC lance aujourd’hui une consultation publique pour rendre plus claires et uniformes les mesures de protection des consommateurs pour les Canadiens, tant pour les services Internet, cellulaires, de téléphonie résidentielle et de télévision.",
-      "cat": "Innovation, science & industry"
+      "title": "CRTC lance consultation sur protection des consommateurs",
+      "sum": "Le CRTC ouvre une consultation publique pour clarifier et uniformiser les mesures de protection des consommateurs canadiens concernant les services Internet, cellulaires, téléphoniques et de télévision.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "07e8c3261998eb0a",
@@ -33421,9 +33530,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada souligne la pose de la quille du premier destroyer de la classe Fleuves et rivières",
-      "sum": "Aujourd’hui, au nom de l’honorable David J. McGuinty, ministre de la Défense nationale, l’honorable Lena Metlege Diab, ministre de l’Immigration, des Réfugiés et de la Citoyenneté, et l’honorable Sean Fraser, ministre de la Justice et procureur général du Canada et ministre responsable de l’Agence de promotion économique du Canada atlantique, ont assisté à la cérémonie de pose de la quille du premier destroyer de la…",
-      "cat": "Justice"
+      "title": "Canada marque la pose de la quille du premier destroyer",
+      "sum": "Le Canada a célébré la pose de la quille du premier destroyer de la classe Fleuves et rivières lors d'une cérémonie officielle. Des ministres fédéraux ont assisté à cet événement marquant la construction navale militaire canadienne.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "332e091c7c5b5f52",
@@ -33433,9 +33543,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Décès d’un détenu du Pénitencier de la Saskatchewan",
-      "sum": "Le 11 juin 2026, un détenu du Pénitencier de la Saskatchewan est décédé sous notre garde. Le nom de la personne a été rendu anonyme pour se conformer à une ordonnance de non-publication de la cour afin de protéger l’identité de la/des victime(s).",
-      "cat": "Economy"
+      "title": "Décès d'un détenu au Pénitencier de la Saskatchewan",
+      "sum": "Un détenu du Pénitencier de la Saskatchewan est décédé le 11 juin 2026 alors qu'il était sous la garde du gouvernement fédéral. L'identité de la personne a été rendue anonyme conformément à une ordonnance judiciaire.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "618081ae3084d4bc",
@@ -33445,9 +33556,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des représentants du gouvernement du Canada tiendront une séance d’information technique à l’intention des médias au sujet d’un nouveau projet de loi intitulé Loi édictant la Loi visant à protéger la vie privée et les données des consommateurs, modifiant la Loi sur la protection des renseignements personnels et les documents électroniques et apportant des modifications à d’autres lois",
-      "sum": "Des représentants d’Innovation, Sciences et Développement économique Canada tiendront une séance d’information technique à l’intention des médias au sujet d’un nouveau projet de loi intitulé Loi édictant la Loi visant à protéger la vie privée et les données des consommateurs, modifiant la Loi sur la protection des renseignements personnels et les documents électroniques et apportant des modifications à d’autres lois.",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement tient séance d'information sur projet de loi protection vie privée",
+      "sum": "Des représentants du gouvernement du Canada tiendront une séance d'information technique pour les médias concernant un nouveau projet de loi visant à protéger la vie privée et les données des consommateurs. Ce projet de loi modifiera la Loi sur la protection des renseignements personnels et les documents électroniques ainsi que d'autres lois connexes.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "ea48f84a1fe889fc",
@@ -33457,9 +33569,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Conférence de presse sur les mesures prises par le gouvernement fédéral en réponse à la crise des drogues illégales",
-      "sum": "L’honorable Marjorie Michel, ministre de la Santé, l’honorable Mandy Gull-Masty, ministre des Services aux Autochtones, Dre Joss Reimer, administratrice en chef de la santé publique du Canada, et Kevin Brosseau, tsar du fentanyl du Canada, animeront une conférence de presse sur les mesures prises par le gouvernement fédéral en réponse à la crise des opioïdes.",
-      "cat": "Economy"
+      "title": "Conférence fédérale sur les mesures contre la crise des opioïdes",
+      "sum": "Le gouvernement fédéral a tenu une conférence de presse pour présenter les mesures prises en réponse à la crise des drogues illégales et des opioïdes. Des ministres fédéraux et des responsables de la santé publique y ont participé.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "f273cb9e78b046b9",
@@ -33469,9 +33582,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada appuie les 37es Francos de Montréal",
-      "sum": "Les Francos de Montréal reçoivent l’appui du gouvernement du Canada",
-      "cat": "Economy"
+      "title": "Le Canada soutient les 37es Francos de Montréal",
+      "sum": "Le gouvernement du Canada apporte son appui aux 37es Francos de Montréal, un événement culturel montréalais.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "f1bc82fd8078c700",
@@ -33543,9 +33657,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada officials to hold a media technical briefing on strengthening Canada’s domestic food system",
-      "sum": "Officials from the Government of Canada, representing several departments, will hold a technical briefing for members of the media to provide information and answer questions related to food security in Canada.",
-      "cat": "Public safety"
+      "title": "Government officials to brief media on domestic food security",
+      "sum": "Government of Canada officials from multiple departments will hold a technical briefing for media representatives to discuss food security in Canada and answer related questions.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "0db0b31f6ed726f9",
@@ -33555,9 +33670,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Anand meets with Minister of Foreign Affairs of the Kingdom of Bahrain",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, today met with His Excellency Dr. Abdullatif bin Rashid Al Zayani, Minister of Foreign Affairs of the Kingdom of Bahrain (Bahrain).",
-      "cat": "Foreign affairs"
+      "title": "Canadian Foreign Affairs Minister meets Bahraini counterpart",
+      "sum": "Canada's Minister of Foreign Affairs met with Bahrain's Minister of Foreign Affairs. The meeting took place between the two government officials.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "5bf6e7edce600a76",
@@ -33567,21 +33683,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Anand meets with Gulf Cooperation Council Foreign Ministers",
-      "sum": "The Honourable Anita Anand, Minister of Foreign Affairs, met with Gulf Cooperation Council (GCC) Foreign Ministers in Manama, Kingdom of Bahrain (Bahrain). Her visit marked the first participation of a G7 Foreign Minister in such a meeting since the recent escalation of conflict involving the United States, Iran and Israel.",
-      "cat": "Foreign affairs"
+      "title": "Canada's Foreign Affairs Minister meets Gulf Cooperation Council",
+      "sum": "Minister Anita Anand met with Gulf Cooperation Council Foreign Ministers in Bahrain. This was the first time a G7 Foreign Minister attended such a meeting following recent regional tensions.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "f6ac0a6adf9f41fe",
       "date": "2026-06-11",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/global-affairs/news/2026/06/canada-announces-funding-to-expand-play-based-education-for-children-in-developing-countries.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Canada announces funding to expand play-based education for children in developing countries",
-      "sum": "The Honourable Randeep Sarai, Secretary of State (International Development), today announced that Canada is committing $5 million in funding over four years to Right To Play International to help improve access to quality basic education for children and youths in vulnerable regions around the world.",
-      "cat": "Foreign affairs"
+      "title": "Canada funds play-based education programs in developing countries",
+      "sum": "Canada is providing $5 million over four years to Right To Play International to expand access to quality basic education for children and youth in vulnerable regions worldwide. The funding aims to improve educational opportunities through play-based learning approaches.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "1411b21cb679c666",
@@ -33591,9 +33709,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Infrastructure Announcement in Wellington",
-      "sum": "Members of the media are invited to an infrastructure announcement with Bobby Morrissey, Member of Parliamentary for Egmont, the Honourable Ernie Hudson, Minister of Transportation, Infrastructure and Energy and Minister of Fisheries, Rural Development and Tourism, and Her Worship Irene MacCaull, Mayor of Wellington.",
-      "cat": "Transportation"
+      "title": "Infrastructure announcement scheduled in Wellington",
+      "sum": "Federal and local officials will hold a media event in Wellington to announce infrastructure plans. The event will include the Member of Parliament for Egmont, the Minister of Transportation, Infrastructure and Energy, and the Mayor of Wellington.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "792902cf1aa77626",
@@ -33603,9 +33722,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Modern search and rescue station for the Canadian Coast Guard officially opened in Port Weller, Ontario",
-      "sum": "Today, the Canadian Coast Guard officially opened its new search and rescue station in Port Weller, Ontario. Strategically located on the south shore of Lake Ontario, this modern facility will enhance search and rescue operations in the region.",
-      "cat": "Economy"
+      "title": "Canadian Coast Guard opens new search and rescue station in Ontario",
+      "sum": "The Canadian Coast Guard officially opened a new search and rescue station in Port Weller, Ontario on Lake Ontario's south shore. The facility is designed to enhance search and rescue operations in the region.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "8e9eefd34587552a",
@@ -33615,9 +33735,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canadian First World War soldier to be buried in France",
-      "sum": "Media are invited to attend the burial of a Canadian soldier killed in the First World War, Private Albert (Bert) Henry Detmold, at the Commonwealth War Graves Commission’s...",
-      "cat": "Economy"
+      "title": "Canadian First World War soldier buried in France",
+      "sum": "A Canadian soldier killed in the First World War, Private Albert Henry Detmold, is being buried at a Commonwealth War Graves Commission cemetery in France. Media are invited to attend the burial ceremony.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "35e38d6399f31d28",
@@ -33627,9 +33748,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Joint Statement on the launch of the International Peace Fund for Israelis and Palestinians",
-      "sum": "The Foreign Ministers of the UK, Australia and Canada issued a joint statement on the launch of the International Peace Fund for Israelis and Palestinians:",
-      "cat": "Foreign affairs"
+      "title": "Canada joins UK and Australia launching international Israeli-Palestinian peace fund",
+      "sum": "The foreign ministers of Canada, the United Kingdom, and Australia announced the creation of an International Peace Fund for Israelis and Palestinians. The fund aims to support peace-related initiatives between the two populations.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "337c3776c97f5431",
@@ -33639,9 +33761,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Taxpayers’ Ombudsperson announces examination into Canada Revenue Agency delays in processing complex T1 adjustment requests",
-      "sum": "OTTAWA, June 11, 2026 – The Taxpayers’ Ombudsperson, Mr. François Boileau, has opened a systemic examination into delays taxpayers are experiencing when the Canada Revenue Agency (CRA) determines that a T1 adjustment is complex.",
-      "cat": "Finance"
+      "title": "Ombudsperson examines CRA delays in processing complex tax adjustments",
+      "sum": "The Taxpayers' Ombudsperson has launched an investigation into delays at the Canada Revenue Agency when processing complex T1 adjustment requests from taxpayers.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "02da09f347f2ab0a",
@@ -33651,9 +33774,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Infrastructure Announcement in Alberton",
-      "sum": "Members of the media are invited to an infrastructure announcement with Bobby Morrissey, Member of Parliamentary for Egmont, the Honourable Ernie Hudson, Minister of Transportation, Infrastructure and Energy and Minister of Fisheries, Rural Development and Tourism, and his Worship Hector MacLeod, Mayor of Alberton.",
-      "cat": "Transportation"
+      "title": "Federal infrastructure announcement scheduled in Alberton",
+      "sum": "Federal and local officials will hold a media event in Alberton to announce infrastructure plans. The event will include the Member of Parliament for Egmont, the Minister of Transportation and Infrastructure, and the Mayor of Alberton.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "7c6e349224f7b11b",
@@ -33663,21 +33787,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "FedDev Ontario is now accepting applications under the Build Communities Strong Fund Local Impact Stream in southern Ontario",
-      "sum": "New federal funding will support local infrastructure projects that strengthen communities and advance regional economic development.",
-      "cat": "Infrastructure"
+      "title": "FedDev Ontario opens applications for community infrastructure funding",
+      "sum": "FedDev Ontario is accepting applications for the Build Communities Strong Fund Local Impact Stream in southern Ontario. The funding supports local infrastructure projects that strengthen communities and advance regional economic development.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "f18d6197e737d1f3",
       "date": "2026-06-11",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/space-agency/news/2026/06/canada-advances-sovereign-earth-observation-capabilities-with-24m-investment-in-next-generation-satellite-technology0.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Canada advances sovereign Earth observation capabilities with $2.4M investment in next-generation satellite technology",
-      "sum": "For over 30 years, Canada’s RADARSAT satellites have been providing invaluable Earth observation data, delivering services Canadians rely on every day – from monitoring illegal fishing activities to assisting disaster relief efforts.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada invests $2.4M in next-generation satellite technology",
+      "sum": "Canada is providing $2.4 million toward developing advanced Earth observation satellite capabilities to replace aging RADARSAT systems. The investment aims to maintain Canada's ability to monitor activities like illegal fishing and support disaster relief operations.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "c6e0b7ff5d5b556f",
@@ -33687,9 +33813,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Celebrating the keel laying for the first River-class destroyer",
-      "sum": "The Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, on behalf of Honourable David J. McGuinty, Minister of National Defence, will commemorate the keel laying for the first River-class destroyer, the future HMCS Fraser, along with the Honourable Sean Fraser, Minister of Justice and Attorney General of Canada and Minister responsible for the Atlantic Canada Opportunities Agency.",
-      "cat": "National defence"
+      "title": "Keel laid for first River-class destroyer HMCS Fraser",
+      "sum": "Federal ministers commemorated the keel laying ceremony for the first River-class destroyer, which will be named HMCS Fraser. The ceremony marks the beginning of construction for this naval vessel.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "12d26cbb7e1cd9d3",
@@ -33699,9 +33826,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Fisheries and Oceans Canada to provide an update on key commercial fisheries in Newfoundland and Labrador",
-      "sum": "St. John’s, Newfoundland and Labrador – Fisheries and Oceans Canada will hold a media technical briefing to provide an update on the management approach for key commercial fisheries in Newfoundland and Labrador.",
-      "cat": "Innovation, science & industry"
+      "title": "Fisheries and Oceans Canada briefs on Newfoundland commercial fisheries",
+      "sum": "Fisheries and Oceans Canada will hold a media briefing to provide updates on how key commercial fisheries in Newfoundland and Labrador are being managed.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "1cb28de064cbd879",
@@ -33711,21 +33839,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Roundtable on the new Safe Social Media Act",
-      "sum": "Minister Miller will hold a roundtable discussion with members of Parliament and stakeholders on new legislation to make social media services and AI chatbots safer for children.",
-      "cat": "Innovation, science & industry"
+      "title": "Minister Miller to discuss Safe Social Media Act with Parliament",
+      "sum": "Minister Miller will hold a roundtable discussion with members of Parliament and stakeholders to discuss new legislation aimed at making social media services and AI chatbots safer for children.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "a5839a950a598614",
       "date": "2026-06-11",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/06/canada-and-ontario-roll-out-investments-in-transit-vehicles-in-cobourg-and-port-hope.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Canada and Ontario roll out investments in transit vehicles in Cobourg and Port Hope",
-      "sum": "The federal and provincial governments, along with the Towns of Cobourg and Port Hope, are investing in public transit.",
-      "cat": "Transportation"
+      "title": "Canada and Ontario invest in transit vehicles for Cobourg and Port Hope",
+      "sum": "The federal and provincial governments, along with the Towns of Cobourg and Port Hope, are making investments in public transit infrastructure in these communities.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "8fa535e72ddcb5b2",
@@ -33735,9 +33865,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Anand participates in discussions with counterparts from Australia and United Kingdom",
-      "sum": "The ministers discussed the need for Canada, Australia and the United Kingdom to closely coordinate responses to the latest developments in the Middle East, and they exchanged views on ways to mitigate the impacts of the blockade of the Strait of Hormuz on the global economy and critical supply chains, including in relation to the three countries...",
-      "cat": "Economy"
+      "title": "Canada coordinates Middle East response with Australia, UK",
+      "sum": "Canadian, Australian, and UK ministers discussed coordinating responses to Middle East developments and addressing economic impacts from the Strait of Hormuz blockade on global supply chains.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "82684ae6b80fa47c",
@@ -33747,9 +33878,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada and the Philippines strengthen defence partnership with new arrangement",
-      "sum": "Today, the Honourable David J. McGuinty, Minister of National Defence, met with His Excellency Gilberto Teodoro, Philippine Secretary of National Defense, to strengthen bilateral defence relations and advance cooperation with one of Canada’s most important defence partners in the Indo-Pacific.",
-      "cat": "National defence"
+      "title": "Canada and Philippines establish new defence partnership arrangement",
+      "sum": "Canada's Defence Minister met with the Philippine Secretary of National Defense to strengthen bilateral defence relations and advance cooperation in the Indo-Pacific region.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "b98f3540d73fd128",
@@ -33759,9 +33891,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Des représentants du gouvernement du Canada tiendront une séance d’information technique sur le renforcement du système alimentaire du Canada",
-      "sum": "Des représentants de différents ministères du gouvernement du Canada tiendront une séance d’information technique destinée aux médias afin de leur présenter de l’information et de répondre à leurs questions en ce qui concerne la sécurité alimentaire au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement du Canada organise séance information système alimentaire",
+      "sum": "Des représentants de plusieurs ministères fédéraux tiendront une séance d'information technique pour les médias sur la sécurité alimentaire au Canada. Ils présenteront de l'information et répondront aux questions concernant le renforcement du système alimentaire canadien.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "0628652e301d2783",
@@ -33771,9 +33904,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Anand rencontre le ministre des Affaires étrangères du Royaume de Bahreïn",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a rencontré aujourd’hui le ministre des Affaires étrangères du Royaume de Bahreïn, Son Excellence Dr Abdullatif bin Rashid Al Zayani.",
-      "cat": "Innovation, science & industry"
+      "title": "Ministre Anand rencontre homologue bahreïnite",
+      "sum": "La ministre canadienne des Affaires étrangères Anita Anand a eu une rencontre avec le ministre des Affaires étrangères du Royaume de Bahreïn, Dr Abdullatif bin Rashid Al Zayani.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "921d7377e36170f1",
@@ -33783,9 +33917,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Anand rencontre les ministres des Affaires étrangères Conseil de coopération du Golfe",
-      "sum": "La ministre des Affaires étrangères, l’honorable Anita Anand, a rencontré les ministres des Affaires étrangères du Conseil de coopération du Golfe (CCG) à Manama, au Royaume de Bahreïn. Sa visite marque la première participation d’un ministre des Affaires étrangères du G7 à une telle réunion depuis la récente escalade impliquant les États-Unis, l’Iran et Israël.",
-      "cat": "Innovation, science & industry"
+      "title": "La ministre Anand rencontre les ministres du Conseil de coopération du Golfe",
+      "sum": "La ministre canadienne des Affaires étrangères Anita Anand a participé à une réunion avec les ministres des Affaires étrangères du Conseil de coopération du Golfe à Bahreïn. Il s'agit de la première participation d'un ministre des Affaires étrangères du G7 à cette réunion depuis les tensions récentes entre les États-Unis, l'Iran et Israël.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "f6371ffdc14afba3",
@@ -33795,9 +33930,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Joly annonce un investissement de 75 millions de dollars dans un partenariat entre la Société canadienne du sang et les Forces armées canadiennes",
-      "sum": "Cet investissement assurera la préparation du Canada aux urgences en matière de santé et de défense et la protection des Canadiens au pays et à l’étranger",
-      "cat": "Economy"
+      "title": "Canada investit 75 millions pour partenariat sang et défense",
+      "sum": "Le Canada investit 75 millions de dollars dans un partenariat entre la Société canadienne du sang et les Forces armées canadiennes. Cet investissement vise à renforcer la préparation du Canada aux urgences sanitaires et de défense.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "280e6405b79539e1",
@@ -33807,9 +33943,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada annonce un financement destiné à développer l’éducation par le jeu pour les enfants des pays en développement",
-      "sum": "Le secrétaire d’État (Développement international), l’honorable Randeep Sarai, a annoncé aujourd’hui que le Canada s’engageait à verser 5 millions de dollars sur quatre ans à l’organisme Right To Play International afin de contribuer à améliorer l’accès à une éducation de base de qualité pour les enfants et les jeunes vivant dans des régions vulnérables du monde entier.",
-      "cat": "Foreign affairs"
+      "title": "Canada finance l'éducation par le jeu dans les pays en développement",
+      "sum": "Le Canada annonce un financement de 5 millions de dollars sur quatre ans destiné à l'organisme Right To Play International pour améliorer l'accès à l'éducation de base pour les enfants dans les régions vulnérables du monde.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "6d4deb87685d2422",
@@ -33819,9 +33956,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Annonce en matière d’infrastructure à Wellington",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Bobby Morrissey, député d’Egmont, de l’honorable Ernie Hudson, ministre des Transports, de l’Infrastructure et de l’Énergie, et ministre des Pêches, du Développement rural et du Tourisme, et d’Irene MacCaull, mairesse de Wellington.",
-      "cat": "Transportation"
+      "title": "Annonce d'infrastructure à Wellington avec ministres fédéraux",
+      "sum": "Le gouvernement fédéral fait une annonce concernant l'infrastructure à Wellington. L'événement réunit des représentants du gouvernement et des collectivités locales.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "b0fb3ce795758b74",
