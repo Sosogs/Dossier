@@ -372,7 +372,7 @@ async function run() {
 
   const fresh = await pullFresh(seen);
 
-  const AI_MAX = 90;                    // cap AI calls per run (cost/time guard)
+  const AI_MAX = 1000;                  // raised so the archive summaries catch up quickly
   let aiCount = 0;
   if (USE_AI) {
     // 1) enrich this run's new official items
