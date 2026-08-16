@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T01:43:06.770Z",
-  "count": 14321,
+  "generatedAt": "2026-08-16T06:43:05.960Z",
+  "count": 14322,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -719,6 +719,18 @@
       "sum": "La ministre des Services aux Autochtones visitera une petite entreprise à Val-d'Or pour annoncer un financement gouvernemental destiné à améliorer et moderniser ses services touristiques.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "e59f6b043d19e765",
+      "date": "2026-08-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbDFmM1FQd0pyY0dXdFpRRzJJSjl5UnllMkUxeTROQjI1N1JQZm56Qkd6aC1yd1lvbkRXLXh6X2UxQmlqblJseE96Y2NwSG1va1l6Yzcteks2OGRHVWtnd2R2STRIYlVVUTE1c0N0Z2VNSEpUTTM1VkJ5MmtwS2tFd1lJVldmOUlOTkRyQy05ZFFVdFFKTlE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why Carney’s pipeline gamble is a bad bet for Canadian taxpayers - Chatham House",
+      "excerpt": "Why Carney’s pipeline gamble is a bad bet for Canadian taxpayers Chatham House",
+      "cat": "Finance"
     },
     {
       "id": "334d7e70634e3c22",
@@ -177201,9 +177213,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Saskatchewan Irrigation Development Program closing",
-      "sum": "The Saskatchewan Ministry of Agriculture will be closing application intake under the Irrigation Development Program as of April 30, 2025.",
-      "cat": "Culture & heritage"
+      "title": "Saskatchewan Irrigation Development Program closing April 2025",
+      "sum": "Saskatchewan's Ministry of Agriculture is ending new applications for its Irrigation Development Program effective April 30, 2025. Applicants will no longer be able to submit new requests for program support after this date.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "28855b28b341b230",
@@ -184493,9 +184506,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ASFC empêche l’entrée de cocaïne d’une valeur de plus de 11 millions de dollars au Canada, et la GRC porte des accusations criminelles",
-      "sum": "Aujourd’hui, l’ASFC et la GRC annoncent la saisie d’environ 419 kg de cocaïne présumée à la suite de deux récentes mesures d’exécution au point d’entrée du pont Blue Water, à Point Edward (Ontario), dont la valeur marchande est estimée à 11 millions de dollars.",
-      "cat": "Innovation, science & industry"
+      "title": "ASFC et GRC saisissent 419 kg de cocaïne au pont Blue Water",
+      "sum": "La Agence des services frontaliers du Canada et la Gendarmerie royale du Canada ont saisi environ 419 kilogrammes de cocaïne au point d'entrée du pont Blue Water à Point Edward, en Ontario. Cette saisie, d'une valeur estimée à 11 millions de dollars, a mené à des accusations criminelles.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "7920d5520efafdfb",
@@ -184505,9 +184519,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Infrastructure pour soutenir la construction d’un plus grand nombre de logements dans la municipalité régionale du Cap-Breton",
-      "sum": "Aujourd’hui, Mike Kelloway, secrétaire parlementaire de la ministre des Pêches, des Océans et de la Garde côtière canadienne, et de la ministre du Développement économique rural et ministre responsable de l’Agence de promotion économique du Canada atlantique, et député de Cap-Breton–Canso; Jaime Battiste, secrétaire parlementaire du ministre des Relations Couronne-Autochtones et des Affaires du Nord et ministre…",
-      "cat": "Infrastructure"
+      "title": "Infrastructure pour construction de logements à Cap-Breton",
+      "sum": "Le gouvernement fédéral annonce un soutien en infrastructure pour augmenter la construction de logements dans la région municipale du Cap-Breton. Des représentants fédéraux et locaux participent à cette annonce.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "a5c989436b81882d",
@@ -184517,21 +184532,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada aidera les nouveaux arrivants qualifiés à combler les pénuries de main-d’œuvre dans des secteurs clés",
-      "sum": "Le secrétaire parlementaire du ministre du Logement, de l'Infrastructures et des Collectivités et secrétaire parlementaire de la ministre de la Famille, des Enfants et du Développement social et député de St. Catharines, Chris Bittle, sera à Toronto pour annoncer du financement visant à améliorer les processus de reconnaissance des titres de compétences étrangers et à aider les professionnels formés à l’étranger à…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada aide les nouveaux arrivants à combler pénuries main-d'œuvre",
+      "sum": "Le gouvernement du Canada annonce du financement pour améliorer la reconnaissance des diplômes étrangers et aider les professionnels formés à l'extérieur du pays à intégrer le marché du travail dans des secteurs clés.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "db693bf63b5888cb",
       "date": "2025-03-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/le-gouvernement-du-canada-continue-de-soutenir-les-mesures-de-soutien-destinees-aux-personnes-en-situation-ditinerance-hors-refuge-a-thunder-bay-et.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada continue de soutenir les mesures de soutien destinées aux personnes en situation d’itinérance hors refuge à Thunder Bay et à Guelph",
-      "sum": "Le gouvernement fédéral alloue un financement additionnel de 1 $ millions de dollars à l’organisme Lakehead Social Planning Council à Thunder Bay et 500 000 $ au comté de Wellington à Guelph par l’intermédiaire du volet Communautés désignées de Vers un chez-soi: la stratégie canadienne de lutte contre l’itinérance. Cela porte l’affectation totale pour la période de 2019-2020 à 2027-2028 à 11,6 millions de dollars…",
-      "cat": "Innovation, science & industry"
+      "title": "Canada finance services d'aide aux sans-abri à Thunder Bay et Guelph",
+      "sum": "Le gouvernement fédéral accorde un financement supplémentaire pour soutenir les personnes sans abri en dehors des refuges à Thunder Bay et à Guelph. Ces allocations s'ajoutent à un engagement total de 11,6 millions de dollars sur la période 2019-2028.",
+      "cat": "Housing",
+      "ai": true
     },
     {
       "id": "ce6e1e98aee31204",
@@ -184541,21 +184558,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Guilbeault annonce la prolongation du mandat de la Commission sur l’avenir du sport au Canada",
-      "sum": "Les travaux de la Commission se poursuivront jusqu’au 31 mars 2026, et les nominations par le gouverneur en conseil de Lise Maisonneuve, à titre de commissaire, et de Noni Classen et du Dr Andrew Pipe, à titre de conseillers spéciaux, ont également été prolongées.",
-      "cat": "Innovation, science & industry"
+      "title": "Prolongation du mandat de la Commission sur l'avenir du sport",
+      "sum": "Le ministre Guilbeault annonce que la Commission sur l'avenir du sport au Canada poursuivra ses travaux jusqu'au 31 mars 2026. Les mandats de la commissaire Lise Maisonneuve et des conseillers spéciaux Noni Classen et Dr Andrew Pipe ont également été prolongés.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "f54b0d553dda9c3c",
       "date": "2025-03-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/le-gouvernement-federal-investit-dans-lamelioration-dinfrastructures-naturelles-en-colombie-britannique.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral investit dans l’amélioration d’infrastructures naturelles en Colombie-Britannique",
-      "sum": "Trois collectivités de la Colombie-Britannique bénéficieront de travaux d’amélioration qui seront effectués à leurs infrastructures naturelles afin d’en accroître la résilience et de protéger leur environnement grâce à un investissement fédéral de plus de 1,6 million de dollars.",
-      "cat": "Infrastructure"
+      "title": "Le gouvernement fédéral investit dans les infrastructures naturelles en Colombie-Britannique",
+      "sum": "Le gouvernement fédéral investit plus de 1,6 million de dollars pour améliorer les infrastructures naturelles de trois collectivités en Colombie-Britannique. Ces travaux visent à renforcer la résilience de ces collectivités et à protéger leur environnement.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "be487beccd0d1d7a",
@@ -184565,9 +184584,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada annonce des aides pour le secteur forestier de la Colombie-Britannique",
-      "sum": "Le ministre de l’Énergie et des Ressources naturelles, l’honorable Jonathan Wilkinson, a annoncé un investissement total de plus de 20 millions de dollars dans 67 projets qui contribueront à renforcer la compétitivité et la résilience du secteur forestier de la Colombie- Britannique tout en augmentant les exportations de produits ligneux.",
-      "cat": "Innovation, science & industry"
+      "title": "Le Canada investit 20 millions dans le secteur forestier britanno-colombien",
+      "sum": "Le gouvernement du Canada annonce un investissement de plus de 20 millions de dollars dans 67 projets forestiers en Colombie-Britannique. Ces projets visent à renforcer la compétitivité et la résilience du secteur forestier provincial et à augmenter les exportations de produits du bois.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "d80d4956f4eaf07f",
@@ -184577,9 +184597,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada annonce un soutien au secteur forestier de la Colombie-Britannique",
-      "sum": "Le 19 mars 2025, l’honorable Jonathan Wilkinson, ministre de l’Énergie et des Ressources naturelles, a annoncé un investissement total de plus de 20 millions de dollars dans 67 projets qui contribueront à renforcer la compétitivité et la résilience du secteur forestier de la Colombie-Britannique.",
-      "cat": "Economy"
+      "title": "Canada annonce 20 millions pour le secteur forestier britanno-colombien",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles a annoncé un investissement de plus de 20 millions de dollars dans 67 projets forestiers en Colombie-Britannique. Cet investissement vise à renforcer la compétitivité et la résilience du secteur forestier provincial.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "c36d91820dca8dff",
@@ -184589,9 +184610,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada souligne l’importance historique nationale du monastère de l’Hôpital général de Québec",
-      "sum": "Le plus ancien établissement conventuel au pays, le monastère revêt une importance capitale pour l’histoire hospitalière, religieuse et sociale du Canada.",
-      "cat": "Healthcare"
+      "title": "Monastère de l'Hôpital général de Québec reconnu important historiquement",
+      "sum": "Le gouvernement du Canada reconnaît l'importance historique nationale du monastère de l'Hôpital général de Québec, le plus ancien établissement conventuel du pays. Le monastère joue un rôle significatif dans l'histoire hospitalière, religieuse et sociale du Canada.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "b16e1d46b4938a46",
@@ -184601,9 +184623,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada s’engage à investir jusqu’à 7 millions de dollars pour soutenir les infrastructures communautaires dans le district régional de Nanaimo",
-      "sum": "Aujourd’hui, l’honorable Nathaniel Erskine-Smith, ministre du Logement, de l’Infrastructure et des Collectivités, a annoncé un investissement fédéral pouvant atteindre 7 millions de dollars pour le projet d’agrandissement du centre aquatique Ravensong en Colombie-Britannique dans le cadre du programme Bâtiments communautaires verts et inclusifs.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit jusqu'à 7 millions pour infrastructure communautaire à Nanaimo",
+      "sum": "Le gouvernement du Canada annonce un investissement pouvant atteindre 7 millions de dollars pour l'agrandissement du centre aquatique Ravensong en Colombie-Britannique. Ce financement est accordé dans le cadre du programme Bâtiments communautaires verts et inclusifs.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "cd9e80a7ea4e8e07",
@@ -184613,9 +184636,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada s’engage à investir jusqu’à 20 millions de dollars pour soutenir les infrastructures communautaires de Thunder Bay",
-      "sum": "Aujourd’hui, la ministre Patty Hajdu, Ashley Larose, directrice générale de Science Nord, et James Lundrigan, président du conseil d’administration de Science Nord, ont annoncé un investissement fédéral maximal de 20 millions de dollars pour un centre des sciences à Thunder Bay, dans le cadre du programme Bâtiments communautaires verts et inclusifs.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit 20 millions pour un centre des sciences à Thunder Bay",
+      "sum": "Le gouvernement fédéral annonce un investissement pouvant atteindre 20 millions de dollars pour construire un centre des sciences à Thunder Bay. Cet projet s'inscrit dans le programme Bâtiments communautaires verts et inclusifs.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "84b42ec01a96c3c7",
@@ -184625,9 +184649,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ASFC ouvre des enquêtes sur les présumés dumping de la résine de polyéthylène téréphtalate (PET) de Chine et du Pakistan et son subventionnement de Chine",
-      "sum": "L’ASFC ouvre des enquêtes sur les présumés dumping de la résine de polyéthylène téréphtalate (PET) de Chine et du Pakistan et son subventionnement de Chine",
-      "cat": "Economy"
+      "title": "ASFC enquête sur le dumping et subventionnement de résine PET",
+      "sum": "L'Agence des services frontaliers du Canada ouvre des enquêtes sur le dumping présumé de résine de polyéthylène téréphtalate en provenance de Chine et du Pakistan, ainsi que sur les subventions gouvernementales accordées à ce produit en Chine.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "4185ce7b81796e01",
@@ -184637,9 +184662,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Investir dans le potentiel du Canada en matière d’hydrogène",
-      "sum": "Le gouvernement appuie la construction d’une installation de liquéfaction d’hydrogène de HTEC en Colombie-Britannique",
-      "cat": "Infrastructure"
+      "title": "Le gouvernement soutient une installation de liquéfaction d'hydrogène",
+      "sum": "Le gouvernement canadien appuie la construction d'une installation de liquéfaction d'hydrogène exploitée par HTEC en Colombie-Britannique. Ce projet vise à développer le secteur de l'hydrogène au Canada.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "08d66b8a87d468f5",
@@ -184649,21 +184675,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information: Initiative canadienne pour le perfectionnement professionnel et les possibilités d’emploi",
-      "sum": "La nouvelle Initiative canadienne pour le perfectionnement professionnel et les possibilités d’emploi offre un soutien supplémentaire aux organismes pour répondre à des situations exceptionnelles de licenciement collectif qui ont un impact significatif sur leurs communautés, afin d'aider les travailleurs à se réorienter vers de nouveaux emplois.",
-      "cat": "Innovation, science & industry"
+      "title": "Initiative canadienne soutient reconversion professionnelle après licenciements",
+      "sum": "Le Canada lance une initiative pour aider les organismes touchés par des licenciements collectifs importants. Ce programme offre un soutien supplémentaire aux travailleurs pour se réorienter vers de nouveaux emplois.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "1a9f690c1b7f9193",
       "date": "2025-03-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/un-nouveau-centre-sportif-pour-montreal-nord.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Un nouveau centre sportif pour Montréal-Nord",
-      "sum": "Un pas de plus vient d’être franchi vers un nouveau complexe sportif aquatique moderne qui verra le jour à Montréal-Nord sur le site de l’ancien aréna Garon grâce à des contributions de 88 millions de dollars de la Ville de Montréal et de 15 millions de dollars du gouvernement fédéral.",
-      "cat": "Economy"
+      "title": "Gouvernement fédéral finance nouveau centre sportif à Montréal-Nord",
+      "sum": "Le gouvernement fédéral contribue 15 millions de dollars à la construction d'un nouveau complexe sportif aquatique à Montréal-Nord. Le projet sera réalisé sur le site de l'ancien aréna Garon avec un financement total de 103 millions de dollars provenant du gouvernement fédéral et de la Ville de Montréal.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "0d2b984ff18af17e",
@@ -184673,9 +184701,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Aider les travailleurs canadiens touchés par des licenciements à améliorer leurs compétences et trouver un emploi",
-      "sum": "Le Canada s’est doté d’un filet de sécurité sociale adaptable et robuste dont il est fier. Le gouvernement fédéral a collaboré avec ses partenaires locaux et sectoriels afin de mettre en œuvre des mesures visant à élargir ce filet de sécurité et à aider encore plus de travailleurs, de maintenir la résilience d’un plus grand nombre de villes et de collectivités, et de permettre à plus de Canadiens touchés et à leurs…",
-      "cat": "Innovation, science & industry"
+      "title": "Programme de soutien aux travailleurs licenciés pour reconversion professionnelle",
+      "sum": "Le gouvernement fédéral met en place des mesures pour aider les travailleurs canadiens affectés par des licenciements à améliorer leurs compétences et trouver un nouvel emploi. Ces initiatives visent à renforcer le filet de sécurité sociale et soutenir la résilience des collectivités.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "ab15bd327164e55f",
@@ -184685,21 +184714,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Cette annonce a été reportée: Le ministre Duguid annoncera un investissement fédéral dans le chemin de fer de la baie d’Hudson",
-      "sum": "Le ministre Duguid annonce des investissements fédéraux pour assurer des transports abordables dans le Nord et renforcer les opportunités commerciales pour le Canada",
-      "cat": "Transportation"
+      "title": "Investissement fédéral annoncé pour le chemin de fer de la baie d'Hudson",
+      "sum": "Le ministre Duguid annonce des investissements fédéraux pour le chemin de fer de la baie d'Hudson. Ces fonds visent à assurer des transports abordables dans le Nord et renforcer les opportunités commerciales canadiennes.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "30e61d56b4ed5f12",
       "date": "2025-03-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2025/03/le-gouvernement-federal-investit-499-millions-de-dollars-dans-stemcell-technologies-canada-inc.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement fédéral investit 49,9 millions de dollars dans STEMCELL Technologies Canada Inc.",
-      "sum": "L’entreprise construira deux nouvelles installations de biofabrication de pointe pour produire des intrants essentiels à la mise au point et à la fabrication de vaccins, de thérapeutiques et de technologies de diagnostic",
-      "cat": "Innovation, science & industry"
+      "title": "Gouvernement investit 49,9 millions dans STEMCELL Technologies Canada",
+      "sum": "Le gouvernement fédéral injecte 49,9 millions de dollars dans STEMCELL Technologies Canada Inc. L'entreprise construira deux nouvelles installations de biofabrication pour produire des intrants utilisés dans le développement de vaccins, de médicaments et de technologies de diagnostic.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "bb5b6d6dbe5d9322",
@@ -184709,21 +184740,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Une nouvelle table sectorielle conseillera le gouvernement afin qu’il soutienne mieux l’économie des soins",
-      "sum": "L’économie des soins, qu’ils soient rémunérés ou non, permet d’offrir des soins essentiels à toutes les générations, y compris aux parents, aux grands-parents, aux enfants et aux nombreux adultes qui en ont besoin en raison d’une incapacité ou d’une maladie chronique.",
-      "cat": "Innovation, science & industry"
+      "title": "Nouvelle table sectorielle créée pour soutenir l'économie des soins",
+      "sum": "Le gouvernement met en place une table sectorielle pour mieux soutenir l'économie des soins, incluant les services rémunérés et non rémunérés. Cette économie fournit des services essentiels aux générations, aux parents, grands-parents, enfants et adultes ayant besoin de soins.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "7cc52ed3a9139d97",
       "date": "2025-03-19",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/tribunal-commerce-exterieur/nouvelles/2025/03/le-tribunal-proroge-son-ordonnance--modules-muraux-unitises-provenant-de-la-chine.html",
-      "type": "Announcement",
+      "type": "Order in council",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Tribunal proroge son ordonnance — Modules muraux unitisés provenant de la Chine",
-      "sum": "Le Tribunal canadien du commerce extérieur a aujourd’hui prorogé son ordonnance du 3 juillet 2019, dans le cadre du réexamen relatif à l’expiration RR-2018-002, prorogeant, sans modification, ses conclusions rendues le 12 novembre 2013, dans le cadre de l’enquête NQ-2013-002, concernant le dumping et le subventionnement de modules muraux unitisés, avec ou sans remplissage, qui comprennent une ossature entièrement…",
-      "cat": "Economy"
+      "title": "Tribunal prolonge ordonnance sur modules muraux chinois",
+      "sum": "Le Tribunal canadien du commerce extérieur a prolongé son ordonnance concernant les modules muraux unitisés en provenance de la Chine. Cette décision maintient les conclusions précédentes sur le dumping et le subventionnement de ces produits.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "59294d6ee8c998e6",
@@ -184733,9 +184766,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La ministre Bendayan participera à une cérémonie de citoyenneté pour marquer la Journée internationale de la Francophonie",
-      "sum": "L’honorable Rachel Bendayan, lors de sa première cérémonie en tant que ministre de l’Immigration, des Réfugiés et de la Citoyenneté, accueillera 64 des nouveaux citoyens du Canada, originaires de 31 pays différents, lors de cette cérémonie spéciale marquant la Journée internationale de la Francophonie. MJ Quraishi présidera la cérémonie.",
-      "cat": "Foreign affairs"
+      "title": "Ministre Bendayan préside cérémonie citoyenneté francophonie",
+      "sum": "La ministre de l'Immigration, des Réfugiés et de la Citoyenneté accueillera 64 nouveaux citoyens canadiens provenant de 31 pays lors d'une cérémonie marquant la Journée internationale de la Francophonie.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
     },
     {
       "id": "7c716f15dc4e9893",
@@ -184745,9 +184779,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada célèbrera des réalisations clés en soutien au secteur maritime canadien",
-      "sum": "L'honorable Ali Ehsassi, ministre de la Transformation du gouvernement, des Services publics et de l’Approvisionnement, se penchera sur les réalisations clés en soutien au secteur maritime canadien et soulignera l’importante contribution économique de l’industrie de la construction navale au Canada.",
-      "cat": "Infrastructure"
+      "title": "Le Canada célèbre les réalisations du secteur maritime",
+      "sum": "Le ministre de la Transformation du gouvernement présentera les accomplissements du gouvernement en soutien au secteur maritime canadien et mettra en évidence la contribution économique de l'industrie de la construction navale.",
+      "cat": "Economy",
+      "ai": true
     },
     {
       "id": "185a6f80122879fb",
@@ -184757,9 +184792,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Début ce printemps de la phase de conception et construction préliminaire des manèges militaires de Sherbrooke",
-      "sum": "Aujourd’hui, l’honorable Élisabeth Brière, ministre des Anciens Combattants, ministre responsable de l’Agence du revenu du Canada et députée de Sherbrooke, au nom de l’honorable Bill Blair, ministre de la Défense nationale, a annoncé le début de la phase de conception du projet de réhabilitation des manèges militaires de Sherbrooke, un jalon important vers la préservation du patrimoine militaire de la ville, tout en…",
-      "cat": "Innovation, science & industry"
+      "title": "Réhabilitation des manèges militaires de Sherbrooke débute",
+      "sum": "Le gouvernement fédéral annonce le début de la phase de conception et construction préliminaire pour la réhabilitation des manèges militaires de Sherbrooke. Ce projet vise à préserver le patrimoine militaire de la ville.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "fc80d8e869f5e43f",
@@ -184769,9 +184805,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Décès d’un détenu de l’Établissement du Pacifique (Centre régional de traitement)",
-      "sum": "Le 15 mars 2025, Garcia Ribeiro Dias, un détenu de l’Établissement du Pacifique (Centre régional de traitement), est décédé sous notre garde de causes naturelles apparentes.",
-      "cat": "Innovation, science & industry"
+      "title": "Décès d'un détenu à l'Établissement du Pacifique",
+      "sum": "Un détenu de l'Établissement du Pacifique est décédé le 15 mars 2025 de causes naturelles apparentes alors qu'il était sous la garde du Service correctionnel canadien.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "08d144b49f414b9d",
@@ -184781,9 +184818,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada restitue trois reliquaires à la République italienne",
-      "sum": "Le gouvernement du Canada restitue trois reliquaires de Saint-Nicolas à la République italienne, dans le cadre de la lutte contre le trafic de biens culturels.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada restitue trois reliquaires à l'Italie",
+      "sum": "Le gouvernement du Canada rend trois reliquaires de Saint-Nicolas à la République italienne. Cette action s'inscrit dans les efforts de lutte contre le trafic de biens culturels.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "c2b2601adb1ec76e",
@@ -184793,9 +184831,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Agression contre un détenu à l’Établissement de Kent",
-      "sum": "Le 18 mars 2025, un détenu a été victime d’agression à l’Établissement de Kent, un établissement fédéral à sécurité maximale.",
-      "cat": "Economy"
+      "title": "Agression contre un détenu à l'Établissement de Kent",
+      "sum": "Un détenu a été victime d'agression le 18 mars 2025 à l'Établissement de Kent, un établissement fédéral à sécurité maximale.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "02ebdbb561a4c4ab",
@@ -184805,9 +184844,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Brière to announce a significant milestone for the Sherbrooke Armouries",
-      "sum": "The Honourable Élisabeth Brière, Minister of Veteran Affairs, Minister responsible for the Canada Revenue Agency and Member of Parliament for Sherbrooke, on behalf of the Honourable Bill Blair, Minister of National Defence, will announce a significant step in the recapitalization project of the Sherbrooke armouries. She will be joined by The Honourable Marie-Claude Bibeau, Member of Parliament for Compton-Stanstead.",
-      "cat": "National defence"
+      "title": "Government announces milestone in Sherbrooke Armouries recapitalization project",
+      "sum": "Minister Élisabeth Brière will announce a significant step forward in the recapitalization project for the Sherbrooke Armouries on behalf of the Minister of National Defence. The announcement will be made in Sherbrooke with the participation of local elected officials.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "793a772488b512c9",
@@ -184817,21 +184857,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Search and Rescue stations across Ontario open for 2025 recreational boating season",
-      "sum": "The Canadian Coast Guard’s seasonal search and rescue stations across the Great Lakes will open on the following dates",
-      "cat": "Economy"
+      "title": "Canadian Coast Guard opens seasonal search and rescue stations Ontario 2025",
+      "sum": "The Canadian Coast Guard is opening its seasonal search and rescue stations across the Great Lakes in Ontario for the 2025 recreational boating season. Specific opening dates for these stations have been announced.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "1f6c9fbf0a0fd782",
       "date": "2025-03-18",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2025/03/government-of-canada-investing-60-million-in-boucherville-biomanufacturing-project.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada investing $60 million in Boucherville biomanufacturing project",
-      "sum": "The Government of Canada is committed to strengthening Canada’s domestic biomanufacturing ecosystem, boosting the economy while creating and maintaining well-paying jobs and better positioning us to respond to future health needs.",
-      "cat": "Healthcare"
+      "title": "Canada invests $60 million in Boucherville biomanufacturing project",
+      "sum": "The Government of Canada is investing $60 million in a biomanufacturing project in Boucherville. The investment aims to strengthen domestic biomanufacturing capacity, support job creation, and improve Canada's ability to respond to future health needs.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "bb78b124b32357f3",
@@ -184841,9 +184883,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: Sustainable Jobs Stream",
-      "sum": "The Canadian Apprenticeship Strategy (CAS) aims to support a trades workforce that is skilled, inclusive, certified and productive.",
-      "cat": "Economy"
+      "title": "Canadian Apprenticeship Strategy launched to support trades workforce",
+      "sum": "The government introduced the Canadian Apprenticeship Strategy to develop a skilled, inclusive, and certified trades workforce. The strategy aims to increase productivity in apprenticeship and trades training.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "c3106eaf3a5ed51c",
@@ -184853,21 +184896,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Helping close to 30,000 Canadian workers pursue the jobs and opportunities of tomorrow",
-      "sum": "The race to decarbonization is a once-in-a-generation opportunity to create good-paying jobs, grow our economy and lower harmful emissions. By investing in union training programs and giving tradespeople the green skills required to meet this moment, we are ensuring that Canadian workers play an active role in that race and assume an outsized position in the jobs and opportunities it promises to bring.",
-      "cat": "Sustainable development"
+      "title": "Canada funds green skills training for 30,000 workers",
+      "sum": "The federal government is investing in union training programs to teach Canadian workers green skills needed for decarbonization efforts. The initiative aims to prepare workers for jobs in the clean economy transition.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "a14a76667da77d7e",
       "date": "2025-03-18",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/taxpayers-ombudsperson/news/2025/03/taxpayers-ombudsperson-makes-11-recommendations-after-reviewing-how-the-canada-revenue-agency-administers-the-canada-child-benefit-for-temporary-re.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Taxpayers’ Ombudsperson makes 11 recommendations after reviewing how the Canada Revenue Agency administers the Canada child benefit for temporary residents",
-      "sum": "Today, the Taxpayers’ Ombudsperson, Mr. François Boileau, released Timing Is Everything, the report on our Office’s examination into issues that could prevent some temporary residents from receiving the Canada child benefit (CCB) in a timely manner.",
-      "cat": "Finance"
+      "title": "Ombudsperson recommends improvements to child benefit for temporary residents",
+      "sum": "The Taxpayers' Ombudsperson released a report with 11 recommendations after reviewing how the Canada Revenue Agency administers the Canada child benefit for temporary residents. The review examined potential delays or barriers that could prevent some temporary residents from receiving the benefit.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "da8d9a9cb66197ca",
@@ -184877,9 +184922,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Media Advisory: Infrastructure Announcement in Thunder Bay",
-      "sum": "Members of the media are invited to an infrastructure announcement with the Honourable Patty Hajdu, Minister of Indigenous Services; Ashley LaRose, Chief Executive Officer of Science North, and James Lundrigan, Chair of the Board of Trustees for Science North.",
-      "cat": "Innovation, science & industry"
+      "title": "Infrastructure announcement planned in Thunder Bay",
+      "sum": "The Minister of Indigenous Services will participate in an infrastructure announcement in Thunder Bay alongside leadership from Science North.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "285b66ae9ea6d9a4",
@@ -184889,9 +184935,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Media Advisory: Infrastructure Announcement in Montréal-Nord",
-      "sum": "Members of the media are invited to an infrastructure announcement with Emmanuel Dubourg, Member of Parliament for Bourassa, Caroline Bourgeois, Mayor of Rivière-des-Prairies–Pointe-aux-Trembles, responsible for Sports and Recreation and for East Montreal on the Executive Committee of the City of Montreal and Christine Black, Mayor of Montréal-Nord.",
-      "cat": "Innovation, science & industry"
+      "title": "Infrastructure announcement planned for Montréal-Nord",
+      "sum": "Federal, provincial, and municipal officials will hold a media event to announce infrastructure initiatives in the Montréal-Nord area. The announcement involves the Member of Parliament for Bourassa and mayors from neighbouring municipalities.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "1a75477b6875ea47",
@@ -184901,9 +184948,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Backgrounder: Canadian Apprenticeship Strategy (Investments in Training Equipment)",
-      "sum": "The Canadian Apprenticeship Strategy (CAS) aims to support a trades workforce that is skilled, inclusive, certified and productive.",
-      "cat": "Economy"
+      "title": "Canadian Apprenticeship Strategy launched to support trades workforce",
+      "sum": "The Canadian Apprenticeship Strategy aims to support trades workers through investments in training equipment. The strategy focuses on building a skilled, inclusive, and certified workforce.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "6db25478b4688af6",
@@ -184913,9 +184961,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "New call for proposals to invest in skilled trades apprenticeships",
-      "sum": "Skilled trades jobs are essential to ensure our homes, businesses and public spaces are safe, functional and well maintained. The Government of Canada is investing in apprenticeship training to grow a larger, certified, diverse and inclusive trades workforce.",
-      "cat": "Economy"
+      "title": "Government opens proposals for skilled trades apprenticeship funding",
+      "sum": "The Government of Canada is calling for proposals to invest in apprenticeship training programs for skilled trades. The initiative aims to develop a larger and more diverse workforce in trades occupations.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "b8b1f31df13f413f",
@@ -184925,9 +184974,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Media Advisory: Infrastructure Announcement in Sydney",
-      "sum": "Members of the media are invited to an infrastructure announcement with Mike Kelloway, Parliamentary Secretary to the Minister of Fisheries, Oceans and the Canadian Coast Guard, Parliamentary Secretary to the Minister of Rural Economic Development and Minister responsible for the Atlantic Canada Opportunities Agency, and Member of Parliament for Cape Breton–Canso; Jaime Battiste, Parliamentary Secretary to the…",
-      "cat": "Innovation, science & industry"
+      "title": "Federal infrastructure announcement scheduled in Sydney",
+      "sum": "Government officials will hold a media event in Sydney to announce infrastructure initiatives. The announcement will be made by parliamentary secretaries and Members of Parliament representing various federal departments.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "4f83f96bf3577b39",
@@ -184937,9 +184987,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Canada Supports Tree-Planting Activities in Gatineau and Across Quebec",
-      "sum": "Today, the Honourable Jonathan Wilkinson, Minister of Energy and Natural Resources, along with the Honourable Steven Guilbeault, Minister of Canadian Culture and Identity, Parks Canada and Quebec Lieutenant, announced more than $16 million in funding for four tree-planting projects that will bring environmental, health and social benefits to both urban and rural communities across the province of Quebec.",
-      "cat": "Healthcare"
+      "title": "Canada funds tree-planting projects across Quebec",
+      "sum": "The federal government announced over $16 million in funding for four tree-planting projects in Quebec. The projects are intended to provide environmental, health, and social benefits to urban and rural communities.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "caa9922b00601e0e",
@@ -184949,9 +185000,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada Announces Funding for Clean and Reliable Energy in First Nations and Inuit Communities",
-      "sum": "Today, the Honourable Jonathan Wilkinson, the Honourable Patty Hajdu and the Honourable Gary Anandasangaree announced over $11 million in funding mainly through the Clean Energy for Rural and Remote Communities (CERRC) program, which will support fifteen clean energy projects in Nunavut, the Northwest Territories, Ontario, British Columbia, Saskatchewan and Quebec.",
-      "cat": "Indigenous services"
+      "title": "Canada announces $11 million for clean energy in remote Indigenous communities",
+      "sum": "The federal government announced over $11 million in funding for fifteen clean energy projects in First Nations and Inuit communities across six provinces and territories. The funding is provided mainly through the Clean Energy for Rural and Remote Communities program.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "7dd4979990bef888",
@@ -184961,9 +185013,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada Announces Funding for Clean and Reliable Energy in First Nations and Inuit Communities",
-      "sum": "On March 18, 2025, the Honourable Jonathan Wilkinson, the Honourable Jonathan Wilkinson, the Honourable Patty Hajdu, and the Honourable Gary Anandasangaree announced over $11 million to support fifteen clean energy projects in Nunavut, Northwest Territories, Ontario, British Columbia, Saskatchewan and Quebec. These initiatives were funded mainly under Natural Resources Canada’s Clean Energy for Rural and Remote…",
-      "cat": "Indigenous services"
+      "title": "Government funds clean energy projects in First Nations and Inuit communities",
+      "sum": "The federal government announced $11 million in funding for fifteen clean energy projects across six provinces and territories to support First Nations and Inuit communities. The funding was distributed through Natural Resources Canada's clean energy program for rural and remote areas.",
+      "cat": "Natural resources",
+      "ai": true
     },
     {
       "id": "22fcd444d0a3690c",
@@ -184973,9 +185026,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Ministre Brière annoncera un jalon important du projet de restauration des manèges militaires de Sherbrooke",
-      "sum": "L’honorable Élisabeth Brière, ministre des Anciens Combattants, ministre responsable de l’Agence du revenu du Canada et députée de Sherbrooke, au nom de l’honorable Bill Blair, ministre de la Défense nationale, annoncera un jalon important dans le projet de restauration des manèges militaires de Sherbrooke. Elle sera accompagnée par l’honorable Marie-Claude Bibeau, députée de Compton-Stanstead.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'étapes du projet de restauration des manèges militaires de Sherbrooke",
+      "sum": "La ministre des Anciens Combattants annoncera une étape importante du projet de restauration des manèges militaires de Sherbrooke, en représentation du ministre de la Défense nationale.",
+      "cat": "National defence",
+      "ai": true
     },
     {
       "id": "a807f5b2446a535a",
@@ -184985,21 +185039,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Ouverture des stations de recherche et sauvetage en Ontario pour la saison de navigation de plaisance 2025",
-      "sum": "Les stations saisonnières de recherche et de sauvetage de la Garde côtière canadienne dans les Grands Lacs ouvriront aux dates suivantes",
-      "cat": "Innovation, science & industry"
+      "title": "Ouverture des stations de recherche et sauvetage Ontario 2025",
+      "sum": "La Garde côtière canadienne ouvre ses stations saisonnières de recherche et de sauvetage dans les Grands Lacs en Ontario pour la saison de navigation de plaisance 2025.",
+      "cat": "Public safety",
+      "ai": true
     },
     {
       "id": "74fba8f948565ac9",
       "date": "2025-03-18",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2025/03/le-gouvernement-du-canada-investit-60-millions-de-dollars-dans-un-projet-de-biofabrication-a-boucherville.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit 60 millions de dollars dans un projet de biofabrication à Boucherville",
-      "sum": "Le gouvernement du Canada s’est engagé à renforcer l’écosystème national de la biofabrication du Canada et à stimuler l’économie tout en créant et en maintenant des emplois bien rémunérés et en préparant mieux le pays à répondre aux besoins futurs en matière de santé.",
-      "cat": "Housing"
+      "title": "Canada investit 60 millions dans biofabrication à Boucherville",
+      "sum": "Le gouvernement du Canada alloue 60 millions de dollars à un projet de biofabrication situé à Boucherville. Cet investissement vise à renforcer le secteur national de la biofabrication, stimuler l'économie et créer des emplois.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "fc899ad35c3cf840",
@@ -185009,9 +185065,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information: Volet Emplois durables",
-      "sum": "La Stratégie canadienne de formation en apprentissage vise à faire en sorte que la main-d’œuvre spécialisée soit compétente, inclusive, certifiée et productive.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada lance stratégie formation apprentissage main-d'œuvre",
+      "sum": "Le Canada met en place une stratégie de formation en apprentissage pour développer une main-d'œuvre compétente, inclusive, certifiée et productive. Cette initiative vise à assurer que les travailleurs spécialisés répondent aux besoins du marché du travail.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "64bb16f6171cc9fa",
@@ -185021,21 +185078,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Aider aujourd’hui près de 30 000 travailleurs canadiens à occuper les emplois de demain et à saisir les possibilités futures",
-      "sum": "La course à la décarbonisation est une occasion exceptionnelle de créer des emplois bien rémunérés, de stimuler notre économie et de réduire les émissions dommageables. En soutenant et en finançant les programmes de formation en milieu syndical et en donnant aux gens de métiers les compétences vertes nécessaires pour répondre aux besoins, nous veillons à ce que les travailleurs canadiens participent activement à…",
-      "cat": "Housing"
+      "title": "Financement de formation verte pour 30 000 travailleurs canadiens",
+      "sum": "Le gouvernement fournit un soutien financier pour des programmes de formation syndiquée afin de donner aux travailleurs canadiens les compétences écologiques nécessaires pour les emplois futurs. Cette initiative vise à créer des emplois bien rémunérés tout en réduisant les émissions de carbone.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "e79fcf2e866bdbac",
       "date": "2025-03-18",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/ombudsman-contribuables/nouvelles/2025/03/lombudsman-des-contribuables-formule-11-recommandations-apres-avoir-examine-la-facon-dont-lagence-du-revenu-du-canada-administre-lallocation-canadi.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ombudsman des contribuables formule 11 recommandations après avoir examiné la façon dont l’Agence du revenu du Canada administre l’allocation canadienne pour enfants pour les résidents temporaires",
-      "sum": "Aujourd’hui, l’ombudsman des contribuables, Me François Boileau, a publié Tout est une question de planification, le rapport de l’examen de notre Bureau sur les enjeux qui pourraient empêcher certains résidents temporaires de recevoir l’allocation canadienne pour enfants (ACE) en temps opportun.",
-      "cat": "Natural resources"
+      "title": "Ombudsman formule recommandations sur allocation canadienne enfants",
+      "sum": "L'ombudsman des contribuables a publié un rapport examinant comment l'Agence du revenu du Canada administre l'allocation canadienne pour enfants pour les résidents temporaires. Le rapport contient 11 recommandations sur les obstacles qui pourraient retarder ou empêcher l'accès à cette allocation.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "4e3b80a88cbec14e",
@@ -185045,9 +185104,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Avis aux médias : Annonce en matière d’infrastructure à Thunder Bay",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de l’honorable Patty Hajdu, ministre des Services aux Autochtones, Ashley Larose, équipe de direction supérieure de Science Nord, et James Lundrigan, président du conseil d’administration de Science Nord.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Thunder Bay avec Science Nord",
+      "sum": "Le gouvernement fédéral tiendra une conférence de presse à Thunder Bay avec la ministre des Services aux Autochtones et les dirigeants de Science Nord pour annoncer un projet d'infrastructure.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "497802ef2e0846a7",
@@ -185057,9 +185117,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Avis aux médias : Annonce en matière d’infrastructure à Montréal-Nord",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence d’Emmanuel Dubourg, député de Bourassa, Caroline Bourgeois, mairesse de Rivière-des-Prairies-Pointe-aux-Trembles, responsable des sports et loisirs et de l’Est de Montréal au comité exécutif de la ville de Montréal et de Christine Black, mairesse de Montréal-Nord.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Montréal-Nord avec élus locaux",
+      "sum": "Une annonce concernant un projet d'infrastructure aura lieu à Montréal-Nord. Elle réunira le député Emmanuel Dubourg, la mairesse Caroline Bourgeois et la mairesse Christine Black.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "8d940c484cbe7c95",
@@ -185069,9 +185130,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Document d’information : Stratégie canadienne de formation en apprentissage",
-      "sum": "La Stratégie canadienne de formation en apprentissage vise à faire en sorte que la main-d’œuvre spécialisée soit compétente, inclusive, certifiée et productive.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada adopts apprenticeship training strategy for skilled workforce",
+      "sum": "Le Canada met en place une stratégie de formation en apprentissage visant à assurer que la main-d'œuvre spécialisée soit compétente, inclusive, certifiée et productive.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "aebe84d1468fae47",
@@ -185081,9 +185143,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Nouvel appel de propositions pour investir dans l’apprentissage des métiers spécialisés",
-      "sum": "Pour avoir des maisons, des entreprises et des espaces publics fonctionnels, sécuritaires et bien entretenus, il faut des ouvriers qualifiés. Le gouvernement du Canada investit donc dans la formation en apprentissage, pour élargir et diversifier le bassin de main-d’œuvre qualifiée et le rendre plus inclusif.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit dans la formation en apprentissage des métiers spécialisés",
+      "sum": "Le gouvernement du Canada lance un nouvel appel de propositions pour financer des programmes d'apprentissage dans les métiers spécialisés. Cet investissement vise à augmenter le nombre de travailleurs qualifiés dans des domaines essentiels comme la construction et l'entretien.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "9c866c2a2af72e60",
@@ -185093,9 +185156,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Avis aux médias : Annonce en matière d’infrastructure à Sydney",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Mike Kelloway, secrétaire parlementaire de la ministre des Pêches, des Océans et de la Garde côtière canadienne, et de la ministre du Développement économique rural et ministre responsable de l’Agence de promotion économique du Canada atlantique, et député de Cap-Breton–Canso; de Jaime Battiste, secrétaire…",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Sydney en Nouvelle-Écosse",
+      "sum": "Des représentants fédéraux tiendront une conférence de presse à Sydney pour annoncer une initiative en matière d'infrastructure. L'événement réunira le secrétaire parlementaire des Pêches et Océans ainsi que la ministre du Développement économique rural.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "72bc6e0294978425",
@@ -185105,9 +185169,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le Canada soutient la plantation d’arbres à Gatineau et ailleurs au Québec",
-      "sum": "Le ministre de l’Énergie et des Ressources naturelles, l’honorable Jonathan Wilkinson, a annoncé en compagnie de l’honorable Steven Guilbeault, ministre de la Culture et de l’Identité canadiennes, Parcs Canada et lieutenant du Québec, l’investissement de plus de 16 millions de dollars dans quatre projets de plantation d’arbres qui auront des retombées écologiques, sanitaires et sociales avantageuses dans diverses…",
-      "cat": "Housing"
+      "title": "Canada investit 16 millions pour planter des arbres au Québec",
+      "sum": "Le Canada annonce un investissement de plus de 16 millions de dollars dans quatre projets de plantation d'arbres au Québec, dont à Gatineau. Ces projets visent à apporter des bénéfices écologiques, sanitaires et sociaux.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "f45398f75bc1ac9f",
@@ -185117,9 +185182,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce des fonds pour l’énergie propre et fiable dans les communautés des Premières Nations et les communautés inuites",
-      "sum": "L'honorable Jonathan Wilkinson, l’honorable Patty Hajdu et l’honorable Gary Anandasangaree ont annoncé aujourd’hui plus de 11 millions de dollars en financement, principalement par le biais du programme Énergie propre pour les collectivités rurales et éloignées (EPCRE). Ces fonds permettront de soutenir 15 projets d’énergie propre au Nunavut, dans les Territoires du Nord Ouest, en Ontario, en Colombie-Britannique,…",
-      "cat": "Indigenous services"
+      "title": "Canada annonce 11 millions pour l'énergie propre autochtone",
+      "sum": "Le gouvernement du Canada annonce un financement de plus de 11 millions de dollars pour soutenir 15 projets d'énergie propre dans les communautés des Premières Nations et inuites, principalement par le programme Énergie propre pour les collectivités rurales et éloignées.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "16542a758d276de6",
@@ -185129,9 +185195,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada annonce des fonds pour l’énergie propre et fiable dans les communautés des Premières Nations et les communautés inuites",
-      "sum": "Le 18 mars 2025, l’honorable Jonathan Wilkinson, l’honorable Patty Hajdu et l’honorable Gary Anandasangaree ont annoncé un financement de plus de 11 millions de dollars en vue d’appuyer 15 projets d’énergie propre au Nunavut, dans les Territoires du Nord-Ouest, en Ontario, en Colombie-Britannique, en Saskatchewan et au Québec. Ces initiatives ont été principalement financées par le biais du programme Énergie propre…",
-      "cat": "Indigenous services"
+      "title": "Canada annonce 11 millions pour énergie propre dans communautés autochtones",
+      "sum": "Le gouvernement du Canada a annoncé un financement de plus de 11 millions de dollars pour soutenir 15 projets d'énergie propre dans les communautés des Premières Nations et inuites à travers six provinces et territoires.",
+      "cat": "Sustainable development",
+      "ai": true
     },
     {
       "id": "179b968d6a63dcf4",
@@ -185141,9 +185208,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "CANCELED Media Advisory: Infrastructure Announcement in Papineauville",
-      "sum": "Members of the media are invited to an infrastructure announcement with Stéphane Lauzon, Member of Parliament for Argenteuil—La Petite-Nation and Parliamentary Secretary to the Minister of Citizens’ Services, and Paul-André David, Mayor of Papineauville.",
-      "cat": "Infrastructure"
+      "title": "Infrastructure announcement canceled in Papineauville",
+      "sum": "A planned media event featuring the Member of Parliament for Argenteuil—La Petite-Nation and the Mayor of Papineauville to announce infrastructure initiatives has been canceled.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "c69273d1326bf6cb",
@@ -185153,21 +185221,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Media Advisory: Infrastructure Announcement in Sydney",
-      "sum": "Members of the media are invited to an infrastructure announcement with Jaime Battiste, Parliamentary Secretary to the Minister of Crown-Indigenous Relations and Northern Affairs and Minister responsible for the Canadian Northern Economic Development Agency, and Member of Parliament for Sydney–Victoria; Mike Kelloway, Parliamentary Secretary to the Minister of Fisheries, Oceans and the Canadian Coast Guard and…",
-      "cat": "Indigenous services"
+      "title": "Infrastructure announcement planned for Sydney region",
+      "sum": "Federal parliamentary secretaries will make an infrastructure announcement in Sydney. The event will include officials responsible for Indigenous relations, northern affairs, and fisheries.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "038a53ad243967eb",
       "date": "2025-03-17",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/03/ensuring-long-term-predictable-public-transit-funding-for-cape-breton-regional-municipality-with-over-8-million-through-the-canada-public-transit-fund.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "en",
-      "title": "Ensuring long-term predictable public transit funding for Cape Breton Regional Municipality with over $8 million through the Canada Public Transit Fund",
-      "sum": "By working closely with its partners across Canada, the federal government is ensuring that more Canadians will be able to live near public transit, connecting them to jobs, services, and their communities.",
-      "cat": "Transportation"
+      "title": "Federal government allocates $8 million transit funding to Cape Breton",
+      "sum": "The federal government is providing over $8 million in long-term funding to Cape Breton Regional Municipality through the Canada Public Transit Fund. This funding is intended to support public transit infrastructure and services in the region.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "554a11374ec9d5f6",
@@ -185177,9 +185247,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada to invest in green training for tradespeople",
-      "sum": "The Minister of Jobs and Families, Steven MacKinnon, will be in Ottawa to announce funding to help equip tradespeople across Canada with high-demand green skills.",
-      "cat": "Economy"
+      "title": "Canada invests in green skills training for tradespeople",
+      "sum": "The Minister of Jobs and Families will announce government funding to provide training in green skills to tradespeople across Canada. The funding aims to help workers acquire skills in high-demand areas related to environmental sustainability.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "0a66c1e35b06319f",
@@ -185189,9 +185260,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "The NFB at the 2025 Annecy International Animation Film Festival. Three short films selected for official competition.",
-      "sum": "The National Film Board of Canada will be well represented at the Annecy International Animation Film Festival (June 8–14) with a diverse selection of works, including the eagerly awaited return of filmmakers Chris Lavis and Maciek Szczerbowski.",
-      "cat": "Foreign affairs"
+      "title": "NFB films selected for Annecy International Animation Festival",
+      "sum": "The National Film Board of Canada will participate in the 2025 Annecy International Animation Film Festival in June with three short films in official competition. The selection includes work from filmmakers Chris Lavis and Maciek Szczerbowski.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "3b51dbfaffa386c6",
@@ -185201,9 +185273,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Samuel De Champlain Bridge: Special Illumination for St. Patrick’s Day",
-      "sum": "Tonight, the Samuel De Champlain Bridge will be lit up in green from sunset to 9 p.m. to celebrate St. Patrick’s Day and recognize the contributions made by Canadians of Irish descent.",
-      "cat": "Sustainable development"
+      "title": "Samuel De Champlain Bridge lit green for St. Patrick's Day",
+      "sum": "The Samuel De Champlain Bridge will display green lighting from sunset to 9 p.m. tonight to mark St. Patrick's Day and acknowledge contributions by Canadians of Irish descent.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "a208b9265566371c",
@@ -185213,9 +185286,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Parliamentary Secretary Romanado to announce support for the biomanufacturing sector in Quebec",
-      "sum": "Sherry Romanado, Parliamentary Secretary to the President of the King’s Privy Council for Canada and Minister of Emergency Preparedness, on behalf of the Honourable Anita Anand Minister of Innovation, Science and Industry, will announce an investment to increase Canada’s capacity to manufacture essential medicines.",
-      "cat": "Innovation, science & industry"
+      "title": "Government announces investment in Quebec biomanufacturing capacity",
+      "sum": "Parliamentary Secretary Sherry Romanado will announce a government investment aimed at increasing Canada's ability to manufacture essential medicines in the biomanufacturing sector. The announcement is being made on behalf of the Minister of Innovation, Science and Industry.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "0c07a064ea0e199c",
@@ -185225,9 +185299,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Minister Champagne chairs G7 Finance Ministers’ Meeting",
-      "sum": "Earlier today, the Honourable François-Philippe Champagne, Minister of Finance, chaired his first G7 virtual Finance Ministers’ Meeting.",
-      "cat": "Innovation, science & industry"
+      "title": "Finance Minister chairs G7 Finance Ministers Meeting",
+      "sum": "Minister François-Philippe Champagne chaired a virtual meeting of G7 Finance Ministers. This was his first time leading such a meeting in his role as Canada's Minister of Finance.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "27f53bb0812a874d",
@@ -185237,9 +185312,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Statement from Minister Anandasangaree to Marcedes Myran’s Family and Community",
-      "sum": "Minister of Justice and Attorney General of Canada and Minister of Crown-Indigenous Relations and Northern Affairs, Gary Anandasangaree, issued the following statement today",
-      "cat": "Justice"
+      "title": "Justice Minister issues statement on Marcedes Myran case",
+      "sum": "The Minister of Justice and Attorney General, along with the Minister of Crown-Indigenous Relations and Northern Affairs, released a statement regarding Marcedes Myran and their family and community.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "1288d8a6514988ff",
@@ -185249,9 +185325,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "ANNULÉE Avis aux médias : Annonce en matière d’infrastructure à Papineauville",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Stéphane Lauzon, député d’Argenteuil—La Petite-Nation et secrétaire parlementaire du ministre des Services aux citoyens et Paul-André David, maire de Papineauville.",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Papineauville annulée",
+      "sum": "Une annonce concernant un projet d'infrastructure à Papineauville, qui devait réunir le député Stéphane Lauzon et le maire Paul-André David, a été annulée.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "631ba7c1b65ff7db",
@@ -185261,21 +185338,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Avis aux médias : Annonce en matière d’infrastructure à Sydney",
-      "sum": "Les représentants des médias sont invités à une annonce en matière d’infrastructure en présence de Jaime Battiste, secrétaire parlementaire du ministre des Relations Couronne-Autochtones et des Affaires du Nord et ministre responsable de l’Agence canadienne de développement économique du Nord, et député de Sydney–Victoria, de Mike Kelloway, secrétaire parlementaire de la ministre des Pêches, des Océans et de la…",
-      "cat": "Innovation, science & industry"
+      "title": "Annonce d'infrastructure à Sydney avec représentants fédéraux",
+      "sum": "Des représentants fédéraux, dont Jaime Battiste et Mike Kelloway, tiendront une conférence de presse pour annoncer un projet d'infrastructure à Sydney. L'événement réunira des officiels responsables des relations autochtones, du développement économique du Nord et des pêches.",
+      "cat": "Infrastructure",
+      "ai": true
     },
     {
       "id": "28266873a7ab1fdf",
       "date": "2025-03-17",
       "src": "Gouvernement du Canada",
       "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/allocation-dun-financement-previsible-et-a-long-terme-de-plus-de-8-millions-de-dollars-pour-le-reseau-de-transport-en-commun-de-la-municipalite-reg.html",
-      "type": "Announcement",
+      "type": "Spending",
       "kind": "official",
       "lang": "fr",
-      "title": "Allocation d’un financement prévisible et à long terme de plus de 8 millions de dollars pour le réseau de transport en commun de la Municipalité régionale du Cap-Breton dans le cadre du Fonds pour le transport en commun du Canada",
-      "sum": "En travaillant en étroite collaboration avec ses partenaires partout au pays, le gouvernement fédéral veille à ce que davantage de Canadiens puissent vivre à proximité des services de transport en commun, facilitant ainsi l’accès aux emplois, aux services et aux collectivités.",
-      "cat": "Transportation"
+      "title": "Plus de 8 millions de dollars pour le transport en commun du Cap-Breton",
+      "sum": "Le gouvernement fédéral alloue plus de 8 millions de dollars au réseau de transport en commun de la Municipalité régionale du Cap-Breton par l'intermédiaire du Fonds pour le transport en commun du Canada. Ce financement vise à améliorer l'accès des Canadiens aux services de transport, aux emplois et aux collectivités.",
+      "cat": "Transportation",
+      "ai": true
     },
     {
       "id": "96f577802849b7bd",
@@ -185285,9 +185364,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le gouvernement du Canada investit dans la formation verte des gens de métier",
-      "sum": "Le ministre de l’Emploi et des Familles, Steven MacKinnon, sera à Ottawa pour annoncer un financement afin d’aider les gens de métier au Canada à acquérir des compétences vertes très recherchées.",
-      "cat": "Innovation, science & industry"
+      "title": "Canada investit dans la formation verte des gens de métier",
+      "sum": "Le gouvernement du Canada annonce un financement pour aider les gens de métier à acquérir des compétences en énergie verte et technologies durables. Le ministre de l'Emploi et des Familles fera cette annonce à Ottawa.",
+      "cat": "Education",
+      "ai": true
     },
     {
       "id": "8bf3e6729fcf6123",
@@ -185297,9 +185377,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "L’ONF au Festival international du film d’animation d’Annecy 2025. Trois courts métrages sélectionnés dans la compétition L’officielle.",
-      "sum": "L’Office national du film du Canada sera présent au Festival international du film d’animation d’Annecy, du 8 au 14 juin 2025, avec une sélection des plus diversifiées, marquée par le retour attendu des cinéastes Chris Lavis et Maciek Szczerbowski.",
-      "cat": "Foreign affairs"
+      "title": "L'ONF sélectionne trois courts métrages pour Annecy 2025",
+      "sum": "L'Office national du film du Canada participera au Festival international du film d'animation d'Annecy du 8 au 14 juin 2025. Trois courts métrages canadiens ont été sélectionnés pour la compétition officielle du festival.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "b50216def1f3bb82",
@@ -185309,9 +185390,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Pont Samuel-De Champlain : Illumination spéciale pour la Saint-Patrick",
-      "sum": "Ce soir, le pont Samuel-De Champlain sera illuminé en vert, du coucher du soleil jusqu’à 21 h, pour célébrer la Saint-Patrick et souligner les contributions faites par les Canadiens d'origine irlandaise.",
-      "cat": "Innovation, science & industry"
+      "title": "Pont Samuel-De Champlain illuminé en vert pour Saint-Patrick",
+      "sum": "Le pont Samuel-De Champlain sera illuminé en vert ce soir du coucher du soleil jusqu'à 21 h pour célébrer la Saint-Patrick et reconnaître les contributions des Canadiens d'origine irlandaise.",
+      "cat": "Culture & heritage",
+      "ai": true
     },
     {
       "id": "20ebd43a5a00efa0",
@@ -185321,9 +185403,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "La secrétaire parlementaire Romanado annoncera un soutien au secteur de la biofabrication au Québec",
-      "sum": "La secrétaire parlementaire du président du Conseil privé du Roi pour le Canada et ministre de la Protection civile, Sherry Romanado, annoncera, au nom du ministre de l’Innovation, des Sciences et de l’Industrie, l’honorable Anita Anand, un investissement pour augmenter la capacité de production de médicaments essentiels au Canada.",
-      "cat": "Innovation, science & industry"
+      "title": "Investissement annoncé pour la biofabrication au Québec",
+      "sum": "La secrétaire parlementaire Romanado annonce un investissement gouvernemental pour augmenter la capacité de production de médicaments essentiels au Canada, en particulier dans le secteur de la biofabrication au Québec.",
+      "cat": "Innovation, science & industry",
+      "ai": true
     },
     {
       "id": "12e4ec06bcfc8815",
@@ -185333,9 +185416,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Le ministre Champagne préside la réunion des ministres des Finances du G7",
-      "sum": "Plus tôt aujourd’hui, l’honorable François-Philippe Champagne, ministre des Finances, a présidé sa première réunion virtuelle des ministres des Finances du G7.",
-      "cat": "Economy"
+      "title": "Champagne préside la réunion virtuelle des ministres des Finances du G7",
+      "sum": "Le ministre des Finances François-Philippe Champagne a présidé sa première réunion virtuelle des ministres des Finances du Groupe des sept pays.",
+      "cat": "Finance",
+      "ai": true
     },
     {
       "id": "c3e1dcf6dca3d630",
@@ -185345,21 +185429,23 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Déclaration du ministre Anandasangaree à la famille et à la communauté de Marcedes Myran",
-      "sum": "Le ministre de la Justice et Procureur général du Canada et ministre des Relations Couronne-Autochtones et Affaires du Nord, l’honorable Gary Anandasangaree, a publié la déclaration suivante aujourd’hui",
-      "cat": "Justice"
+      "title": "Déclaration du ministre de la Justice sur Marcedes Myran",
+      "sum": "Le ministre de la Justice et des Relations Couronne-Autochtones a publié une déclaration adressée à la famille et à la communauté de Marcedes Myran.",
+      "cat": "Indigenous services",
+      "ai": true
     },
     {
       "id": "c04c534fe78fcbe9",
       "date": "2025-03-16",
       "src": "Government of Canada",
       "url": "https://www.canada.ca/en/correctional-service/news/2025/03/escape-and-recapture-of-inmates-from-beaver-creek-institution--minimum-security-unit.html",
-      "type": "Announcement",
+      "type": "Report",
       "kind": "official",
       "lang": "en",
-      "title": "Escape and recapture of inmates from Beaver Creek Institution – Minimum-Security Unit",
-      "sum": "On March 16, 2025, during a 1:45 p.m. count, staff members in the minimum-security unit at Beaver Creek Institution discovered that Rodney Cobb and Jeffry Parker were not accounted for.",
-      "cat": "Public safety"
+      "title": "Two inmates escape from Beaver Creek Institution minimum-security unit",
+      "sum": "On March 16, 2025, staff at Beaver Creek Institution's minimum-security unit discovered that two inmates, Rodney Cobb and Jeffry Parker, were missing during an afternoon count.",
+      "cat": "Justice",
+      "ai": true
     },
     {
       "id": "601febf34b28da02",
@@ -185369,9 +185455,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "fr",
-      "title": "Évasion et appréhension des détenus de l’Établissement de Beaver Creek, unité à sécurité minimale",
-      "sum": "Le 16 mars 2025, lors d’un dénombrement de 13 h 45, le personnel de l’unité à sécurité minimale de l’Établissement de Beaver Creek a découvert que Rodney Cobb et Jeffry Parker manquaient à l’appel.",
-      "cat": "Innovation, science & industry"
+      "title": "Deux détenus s'échappent du centre Beaver Creek",
+      "sum": "Le 16 mars 2025, deux détenus de l'unité à sécurité minimale de l'Établissement de Beaver Creek, Rodney Cobb et Jeffry Parker, ont été découverts manquants lors d'un dénombrement de l'après-midi.",
+      "cat": "Justice",
+      "ai": true
     }
   ]
 }
