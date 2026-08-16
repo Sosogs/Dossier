@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T06:43:05.960Z",
-  "count": 14322,
+  "generatedAt": "2026-08-16T12:41:09.229Z",
+  "count": 14323,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "1ada3ea04bb4e279",
+      "date": "2026-08-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdE9EMDFncDQzYTBUNzFSYnRpck1mQndmS3NhNDdOV1RYQnl4TVl4Q0YxZENLU29pQkVCUWNwUmhyUGtRUjBhNWZ3eDNrT3V0WHhTY01RUUVBYUZOUktVTGhTMWxUVHZCYktlaUhzZWp6THExVFphNDJrZXJocnpITjlqR2Z2V21ud01fcm5YVXpCY2ptTE1KNjR2UkdUNGhjcmtpaWFHN3cxMWpoX1liNThxSWU2WnFKc2hWZ1dXekRFTXFaejFrNlJkWXV5aERIcGh4eW82cTVyUDI3Ukk1Nkd3T2RRd3czdFJhb2tOWXFTOF9yeTNxdTFQaU9BMkZWMVhqRExvbnlhUms?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Unions slam Carney government over silence on Bank of Canada’s use of replacement workers - Toronto Star",
+      "excerpt": "Unions slam Carney government over silence on Bank of Canada’s use of replacement workers Toronto Star",
+      "cat": "Economy"
+    },
     {
       "id": "38fa6572463b0361",
       "date": "2026-08-15",
