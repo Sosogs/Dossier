@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T12:41:09.229Z",
-  "count": 14323,
+  "generatedAt": "2026-08-16T18:30:56.806Z",
+  "count": 14330,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,68 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c842ec7bfb611a3e",
+      "date": "2026-08-16",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/the-government-of-canada-and-ontario-investing-1-billion-to-help-non-development-charge-municipalities-build-more-homes.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada and Ontario invest $1 billion in municipal housing infrastructure",
+      "sum": "The Government of Canada and the Province of Ontario are providing $1 billion in funding to help municipalities that do not use development charges to build infrastructure needed for housing. This investment aims to increase housing supply and support community development.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "0209384a8ae70d76",
+      "date": "2026-08-16",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/le-gouvernement-du-canada-et-lontario-investissent-1-milliard-de-dollars-pour-aider-les-municipalites-qui-nimposent-pas-de-droits-damenagement-a-co.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et Ontario investissent 1 milliard pour logements municipaux",
+      "sum": "Le gouvernement du Canada et la province de l'Ontario accordent 1 milliard de dollars aux municipalités qui n'imposent pas de droits d'aménagement pour augmenter la construction de logements. Cet investissement vise à soutenir l'expansion de l'offre de logements et le développement d'infrastructures.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "61463f0448cef2b6",
+      "date": "2026-08-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnpmNGJ1SUlmQW9fMkcwb2NGZUpxb01xRlBRRE5TaklvYm9IQ2RiXzBoZjhlUzZBOUFHZ2lqY2VMLVd6b2lMQ0lJc1pFcXY0S0VBZzRnZnhScVFaZlcyYV9KbGQwbDB2eUlLZnNkYnpUaEtNN3p1Z2tyeDZPd2VBVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Poilievre urges Carney to keep fuel excise tax suspended until Canada Day - globalnews.ca",
+      "excerpt": "Poilievre urges Carney to keep fuel excise tax suspended until Canada Day globalnews.ca",
+      "cat": "Finance"
+    },
+    {
+      "id": "ec869c81bee51d98",
+      "date": "2026-08-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPT3Q1N0doQ0lRc2NfSG1ELXNjV1JmZm8yZWNEbWUtSmM2RWl3cXJOd2V1c1pMUy1BakpNWmVDZGY1S1EyQzJ2YUl1Nl9FMU9CbUtPbk8wZlJCOW5HS251aDBOX01CS2ZuZWJSSzQxSWdPcmZLRER0dk9KcWU1Q242VGZ4V0Q3ek5SS21yWVVEOU5BQnJESld6WlI2NGFuQVVHM0dEM2ZtOENOTDJBVng3WkRrak1RdFlDYVc0QXNhZjVST1E3b09HZFZETk96aXJTc2k3WWdoVDlJc2d0bVNreXFDc2g0TEppYS15ZC1kNUJUbXlfT081MDFMTnphaU85YTN3VXQ2N1A?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s young people will feel the brunt of climate change, the Carney government is cutting them out of the process to help prevent it - The Pointer",
+      "excerpt": "Canada’s young people will feel the brunt of climate change, the Carney government is cutting them out of the process to help prevent it The Pointer",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "1735c685b78c227b",
+      "date": "2026-08-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZHMzQUYwRDREVmgwY01KSmNLbVk0eVBRaVBlbVFiWVdsRUxMalh6d3U4RTN4SHFObEwwRE5MSmlCd1R6VWZfUFkwX21VaEJ4WEpaZk5lTDZFcXc1ekthRVRFM3FRNC03TV9PUjZ0ZjZhVkg0RGxNQkhoVmpzU0NSeDVTanBQYi1lcFV6eWk5dXU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney Liberals Lead by Seven Nationally as Quebec Support Drops - Abacus Data",
+      "excerpt": "Carney Liberals Lead by Seven Nationally as Quebec Support Drops Abacus Data",
+      "cat": "Economy"
+    },
     {
       "id": "1ada3ea04bb4e279",
       "date": "2026-08-16",
@@ -42087,6 +42149,18 @@
       "lang": "en"
     },
     {
+      "id": "6a6888ddeed6852c",
+      "date": "2026-05-27",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVy1teklkN3I3MVpkZlpoNWVIM3lFc3VqRkViZDc3UDlDejVOdE5COVlaNjVPYU1qTmxtSlRTem5waW5uT0M2RFh1WFJKWHBYeWV0TWlocTFWV3A2ZGVuN3NSdGEtS29VYUViMDVkb3BUelQtbEIzZFVVVWg1X19fcWdNZFVDUUZnWnVJVHVWRHQtVS1RYXhoWUUwSUlZMHJDR3dZbXZTbS1OY3ZTcnVMdFUyQ1ctRkFxR2s1TUhQeE83ZUVPUjhr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Ottawa veut acquérir l’avion de surveillance GlobalEye du géant suédois Saab - Le Canada Français",
+      "excerpt": "Ottawa veut acquérir l’avion de surveillance GlobalEye du géant suédois Saab Le Canada Français",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "fae6804e55d15bce",
       "date": "2026-05-27",
       "src": "Government of Canada",
@@ -53870,6 +53944,18 @@
       "cat": "Public safety",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "3a859b3811d64b43",
+      "date": "2026-05-07",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR0FXS29TeUk4aUVPdTdrcjY0RG01aXllSmVnZ0M2alhFRUZUS2poOTRkbS1KMFlJZkxvQkJGc2VaazY5WU5mLXJPM0JTeGoySEJuSFEzSm5Ucmc1elcxTUZ0TGVXeDJBaDFfdHB5bjNmWnVrZEx1Y1RiS0FwY2Nmd2UzczVJUTdKVG9fSWtMbjRpbzNUOXZNWmRKRFBqVmx0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le fédéral a un autre projet de loi pour accélérer les projets dans ses cartons - Le Devoir",
+      "excerpt": "Le fédéral a un autre projet de loi pour accélérer les projets dans ses cartons Le Devoir",
+      "cat": "Economy"
     },
     {
       "id": "6c26f549319b3967",
