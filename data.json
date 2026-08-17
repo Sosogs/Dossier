@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T18:30:56.806Z",
-  "count": 14330,
+  "generatedAt": "2026-08-17T01:21:24.301Z",
+  "count": 14334,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,58 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "18aee83eb842d28e",
+      "date": "2026-08-16",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/08/government-of-canada-officials-to-hold-a-media-technical-briefing-on-clean-energy-projects-in-newfoundland-and-labrador-and-quebec.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government to brief media on clean energy projects in Atlantic and Quebec regions",
+      "sum": "Government of Canada officials will hold a technical briefing for media ahead of an announcement regarding clean energy projects in Newfoundland and Labrador and Quebec. The briefing will be embargoed, meaning details cannot be reported until a specified time.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "62619738d5d079d7",
+      "date": "2026-08-16",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-supports-the-summerworks-theatre-festival.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada provides funding for SummerWorks Theatre Festival Toronto",
+      "sum": "Member of Parliament Chi Nguyen announced that the Government of Canada is providing financial support to the SummerWorks Theatre Festival in Toronto.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "1b3a941c1f1e4d49",
+      "date": "2026-08-16",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/08/des-representants-du-gouvernement-du-canada-tiendront-une-seance-dinformation-technique-a-lintention-des-medias-sur-des-projets-denergie-propre-a-t.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Séance d'information sur les projets d'énergie propre au Canada",
+      "sum": "Le gouvernement du Canada tiendra une séance d'information technique pour les médias concernant des projets d'énergie propre à Terre-Neuve-et-Labrador et au Québec. Cette séance précède une annonce importante sur les projets d'énergie propre au Labrador.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "9bd608ffdc4968f6",
+      "date": "2026-08-16",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-gouvernement-du-canada-appuie-le-summerworks-theatre-festival.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada finance le SummerWorks Theatre Festival de Toronto",
+      "sum": "La députée Chi Nguyen annonce que le gouvernement du Canada accordera un financement au SummerWorks Theatre Festival, un festival de théâtre basé à Toronto.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
     {
       "id": "c842ec7bfb611a3e",
       "date": "2026-08-16",
