@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T01:21:24.301Z",
-  "count": 14334,
+  "generatedAt": "2026-08-17T06:58:11.057Z",
+  "count": 14335,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "59beb65b42dc4407",
+      "date": "2026-08-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRnNMVXRXR1I0dzZQSUhDLXJFNHZ6U1Z3MDJGb1JUcnZfTUpYWjJIZTAwZ2hOZEI2LS12dzlqdTNqNklHZG1sTFNtQjY5b2hXX0hPTnQwOVlzSFgxZVpEallKYjNWYndMdzFoMV8tVTAyemphMENPT041RHV6ZjBHVGJNNUFCaTVmTkhCZVgydFNPeE5ZbWVFcnRCUnBEamFqcU1KWnNkbWpCcDhBZVlV?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Poilievre asks Carney to extend gas tax relief until next year - The Globe and Mail",
+      "excerpt": "Poilievre asks Carney to extend gas tax relief until next year The Globe and Mail",
+      "cat": "Natural resources"
+    },
     {
       "id": "18aee83eb842d28e",
       "date": "2026-08-16",
