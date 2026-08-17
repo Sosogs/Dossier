@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T06:58:11.057Z",
-  "count": 14335,
+  "generatedAt": "2026-08-17T12:46:25.258Z",
+  "count": 14340,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -170,6 +170,30 @@
       "lang": "en",
       "title": "Unions slam Carney government over silence on Bank of Canada’s use of replacement workers - Toronto Star",
       "excerpt": "Unions slam Carney government over silence on Bank of Canada’s use of replacement workers Toronto Star",
+      "cat": "Economy"
+    },
+    {
+      "id": "85352225ce44c184",
+      "date": "2026-08-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbUhxTlF6eWhSTnhjSUdkOV9RRkcwYktRVmhrY3ZoQkQxVWVMX21jdHI5WVZxN1NqSVpXNW1UWm1OU3RMS3VrWUdicXVtd04wS2hacHM1QXZMMjYxcmxzdlY4YnlZUndBTkFXRHZqa3RvOHVGLWlzeEJKdkxLWXJHMHZEM0VfX1pmbzJFVTNILWxUM1NydnVRMWl3TEpfYU9TOEJDMzQ4QWV6ZGdiUmJpM25sU2VHNzQ5RkZZY3FRd2Y1U1I1b3lQd0FmaTk2bngxUS1TN09sQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "BUYER BEWARE: Mark Carney Pitches a Canada “Wealth” Fund - Funded With Government Debt - What Could Possibly Go Wrong? - EnergyNow",
+      "excerpt": "BUYER BEWARE: Mark Carney Pitches a Canada “Wealth” Fund - Funded With Government Debt - What Could Possibly Go Wrong? EnergyNow",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "595718bd61d620f1",
+      "date": "2026-08-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTkV0aVhYTnhVa0taMXl0M1ZTNWxoczF1N3IwdGR1NnNmUDdTWHFkWFdtZy1JUUFvVlFobWxLdFo0VHN4WXRMeHBLSHR3dWNteTV2dDF6VExXR3VRZzBfeDZEOVlvRFlvSWd5VjNmbmQyR0UyQ3lCaDBKVDBHSVV6cDdRQ2V6dlNyMC14ZFFn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carson Jerema: Mark Carney will be prime minister forever - National Post",
+      "excerpt": "Carson Jerema: Mark Carney will be prime minister forever National Post",
       "cat": "Economy"
     },
     {
@@ -1353,6 +1377,18 @@
       "title": "Carney's 'Canada Strong Fund' likely to follow path of failing U.K. fund he helped create, think tank says - unpublished.ca",
       "excerpt": "Carney's 'Canada Strong Fund' likely to follow path of failing U.K. fund he helped create, think tank says unpublished.ca",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "6c1275f56a789e13",
+      "date": "2026-08-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1FWX2xISlRGcmR4cUhVTFVEWm1leDNjRmQtNzRnUDl3b3hoVDQtRVo1Ry1rM3F0M3NlUDVyV2xVZld6UGllZS1MMnRNSXliUUczSVpOZTMwRW5yNmxFS0FqRlAxc25BN2VtWnZUVXRsTUZOV24tQXFaX0RqVUNHNGJGOVVyODBJMUItRV9sRlFhZnN2QU5v?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney can’t buy climate cover with pocket change - Canada's National Observer",
+      "excerpt": "Carney can’t buy climate cover with pocket change Canada's National Observer",
+      "cat": "Sustainable development"
     },
     {
       "id": "f26357b29de337db",
@@ -32377,6 +32413,18 @@
       "lang": "en"
     },
     {
+      "id": "3ed4738768e3f048",
+      "date": "2026-06-18",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNVNVM2hZamlPRlFMbFFKVGJDd2xYQnZScTJsRHVYVlJMdlAzV2cxWlJGU3I0dVY1dEVYQlhmLXE4RlNjMTBaeFhrbHcySWU4QU9pZnd2cTZkN1d6NTdRZHVfcUJzZmFoMFEzUHAybzlJUmZrRS1UWDVMQ09qNEFxdFJEYWpvcGRCN3pTTDV6RjhHd1B1OGlEcFg2STVvQXc4a3dCTFpjcVpmaFB1S1lmNXdIZ2xsdFM2VDVWRldkb1hDNjB5ellGM0FPUHAwYzd0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney vote pour réadmettre des pesticides au nom de la sécurité alimentaire - Journal de Québec",
+      "excerpt": "Le gouvernement Carney vote pour réadmettre des pesticides au nom de la sécurité alimentaire Journal de Québec",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "03be6bc9db1553e9",
       "date": "2026-06-18",
       "src": "Government of Canada",
@@ -49015,6 +49063,18 @@
       "excerpt": "The Canada Strong Fund isn’t a sovereign wealth fund — and that’s OK Policy Options",
       "cat": "Economy",
       "lang": "en"
+    },
+    {
+      "id": "ff550fe28ec0809c",
+      "date": "2026-05-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3ZwalpmUU0wN0JlWHZUTTU4X2g4Y0ZvME51bXg1ZC1XeEVLNzhBbjRkZ2RTSThxV3pxcHVCZV9Jb1k0N0VlUXFxY0l3X0tBOGViMktObXVuQ0xMS0JLVTl0RUR4dUt3RFduanhva1hDa3hkY3JpQ1YzdFpBeUNWUEthN0RsQnRDLXdjZmR4OFh1dnZBRnFlb3lmRWEtdXZXNENQSzhpOFhzSTVIN3BydDBHRmY?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney wades into the deep waters of environmental regulation - Radio-Canada",
+      "excerpt": "Mark Carney wades into the deep waters of environmental regulation Radio-Canada",
+      "cat": "Sustainable development"
     },
     {
       "id": "1d507d1ee4d3d21c",
