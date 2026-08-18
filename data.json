@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T18:41:36.691Z",
-  "count": 14381,
+  "generatedAt": "2026-08-18T01:18:32.021Z",
+  "count": 14390,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c05ee4779b36a00c",
+      "date": "2026-08-17",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-coast-guard/news/2026/08/canadas-largest-icebreaker-reaches-the-north-pole.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada's largest icebreaker reaches North Pole",
+      "sum": "The CCGS Louis S. St-Laurent, Canada's largest icebreaker, reached the North Pole on August 16 as part of a 2026 Arctic deployment.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "bf2a09f46a901a69",
+      "date": "2026-08-17",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/garde-cotiere-canadienne/nouvelles/2026/08/le-plus-gros-brise-glace-du-canada-atteint-le-pole-nord.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le brise-glace canadien Louis S. St-Laurent atteint le pôle Nord",
+      "sum": "Le NGCC Louis S. St-Laurent, le plus grand brise-glace du Canada, a atteint le pôle Nord le 16 août 2026 lors d'un déploiement dans l'Arctique. Ce navire de la Garde côtière canadienne est le plus puissant de sa catégorie au pays.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "a451d5af2b306394",
+      "date": "2026-08-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWtQWkUwYTVUejNUYzVJcUtKbm5TR1p0bEpFUHlCNVRNcVhlbmMwWGFwcjFybERtb0ViaDY4c0VtMU1TX0hWU3ZfME83bE1QRDdrUktXN1doMzNteE5WTC1VODd6TkNyN2RIbmFaeThldlJpNkZPV2RsY3Mzc1FrUi1KejgxeU5zaGFvamM0Q0R3NDJoWWZHWWpOZlBwNlpaOFBLbWZPZ3BaWWd5MjBDSlBYd3lUVDltMXJfdHVYZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "N.L., Quebec announce new Churchill Falls agreement worth billions — with help from Ottawa - CBC",
+      "excerpt": "N.L., Quebec announce new Churchill Falls agreement worth billions — with help from Ottawa CBC",
+      "cat": "Economy"
+    },
     {
       "id": "e7d46602eef7ed2a",
       "date": "2026-08-17",
@@ -7524,6 +7562,18 @@
       "cat": "Transportation",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "7c858bfb2c10eda2",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPWlBCc09XR1hLYkxVYXJZXzZwVUVlWTNsUFFLeW8ybzN3SDBQMWtrc0JEbnNxaXBLRGV4dzQ2eDQwTG0tOF81TGhfQ2k0MUl0aW91QXVHZmwwS2E5eXdDdS1tMm1GbGtTMl9zUlV2ZnFad04zYWY3a0ZDTEc0R3NHNUhfckRuS3VHQUtXN2E0bWU3TzhXanpIb2p6MGlveU5sUFRYcXNCSW9rXzNIcHZ1RFQ0cmxuYXROc0l1Qk1IZlV0R2FBNDhMaWQ2eGxWNU5Nb2duLXBKbkdneVdoX0xxMUtmSWZpOWFTTXU5OFhnR0QtUkp6TlZOMmIza3djQUFVcEk4YnRtUTFBY1pqcml6dklndUZ5MjNxRHR5Ui0zRWpIT1V1aTBPeU91TURpeEdLSVdMdU5ROERlRUpXa2JKTTlDcDZ6dw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney says government has ‘taken back control’ of immigration - CP24",
+      "excerpt": "PM Carney says government has ‘taken back control’ of immigration CP24",
+      "cat": "Economy"
     },
     {
       "id": "473f2a04aeb4fe51",
@@ -21114,6 +21164,18 @@
       "lang": "en"
     },
     {
+      "id": "f07ae2bde3d4b1d3",
+      "date": "2026-07-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVF0a3BxYmpIYkdTN0RmRk9hWVlfMkZhZFJIM0trMHc2ZUlsMzROc011dDVCdE9maUlCVFk2MVh2cktZSkdFQXZ3SGExUWQxVTR0Q2NqTUVhWE1Tam5jMUE4WF8zbDUzVTJfVlBsbzNLVDc4cFNIZXFYN2VxYk1wYnFTUDFPZ2dmbFNaR0xoeVNfVS1IZWl4MGhZQ2RUcDA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Corporate watchdog was still accepting complaints as Carney abruptly closed it down - CBC",
+      "excerpt": "Corporate watchdog was still accepting complaints as Carney abruptly closed it down CBC",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "65c4bca5cde534d5",
       "date": "2026-07-09",
       "src": "Government of Canada",
@@ -23432,6 +23494,18 @@
       "cat": "Natural resources",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "5240f4f0f4c156a9",
+      "date": "2026-07-03",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTTNQaGxqRXhMcS1tNXFmZGhJd3IwQXpVSWNOUUFBb0l4WWM5MThwNkFvX2xDRFI3SlRPaWxWaUU0eTBlSzFkMWlvZy1acGNEbHdzVzlmLTlZVURPWG9QMFFiMGJhbEFGSXVkU0NZV0xSd1FPTWxlVU9ycXVBbEdkRjlMTm5NM1RTTnJ4UGdpZFYwQzJCbVRMRkxPeFJvRklF?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Les versements de l’Allocation canadienne pour l’épicerie débutent - Radio-Canada",
+      "excerpt": "Les versements de l’Allocation canadienne pour l’épicerie débutent Radio-Canada",
+      "cat": "Economy"
     },
     {
       "id": "2c91a6ee4ea7f202",
@@ -28653,6 +28727,18 @@
       "lang": "en"
     },
     {
+      "id": "7d66241db4ffd994",
+      "date": "2026-06-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xd1VBRjFyTU5kSmpLQU9vSVN3LUJGeS05NkhGMlA1WEdhdVotY2VCRFFLeDZJMldONS1uN0U5RkJZNWZDdVIyMlRCM0FWd0FraWFqNGdGZVk1aFhxVkRtbzFDSGhzbXozb2wzOGtkY3Y2WkJFU3pnTHhaMlR3WkE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney announcing decision on future of 24 Sussex in coming weeks: sources - CBC",
+      "excerpt": "Carney announcing decision on future of 24 Sussex in coming weeks: sources CBC",
+      "cat": "Economy"
+    },
+    {
       "id": "ba56e6e03f948d54",
       "date": "2026-06-24",
       "src": "Government of Canada",
@@ -32903,6 +32989,18 @@
       "cat": "Education",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "deb8b1b237590b40",
+      "date": "2026-06-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0s2UWstV3R4N2tGc0UydlEzVnpqYm9nN2FndGJzUzFQcF9IdlV2T0pDenBYRnNJNE1IOTlKLXFzZ3NsR2RQRkN1TEdIMTZhYk5UUUZRUTRSN0czN1lMenhFR0g2U3pDblN3SG9ZQmdfZWU3eXlmSkFLQjl0d1l0UUp3UFQzQnVLWWhKYzRFY28yRS1nc1V0RWtYNzZXenZOcXBZTm0tNVFHN3FLZEtiWk5XMDI?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada and British Columbia forge new partnership to accelerate homebuilding, lower costs, and build new local infrastructure - pm.gc.ca",
+      "excerpt": "Canada and British Columbia forge new partnership to accelerate homebuilding, lower costs, and build new local infrastructure pm.gc.ca",
+      "cat": "Infrastructure"
     },
     {
       "id": "3ed4738768e3f048",
@@ -41411,6 +41509,18 @@
       "sum": "Le gouvernement met en place des mesures temporaires aux frontières en réaction à l'épidémie d'Ebola. Cette mise à jour informe les médias des actions prises.",
       "cat": "Public safety",
       "ai": true
+    },
+    {
+      "id": "3cdc586e350d23ce",
+      "date": "2026-05-29",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS05MZ1hvTTJrRkhKY1FxNjZYU0xmOTJiOGE2aHFKTE8zUFlsczVoUk9EU2d4ZzJlUkJObzdoVkZrZF9KZ3ctNGczaDJyVWU5eVRkd1NvZDVnVDhrLXlVYlFXWG1iOHZEVTUxQXZjOGN5ZWtrSTJJYzZCRWhlQ1hrYTFQVHFxcUd1cTV2SHVHclNRSUFVdGtQbEdLZlJTOGxualFDb1JqN0trMFpCQ0R4S2l4UVY3Qjl4cTZQTEZud0dobVd0ZHZWcDVWV1lPZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Steven Guilbeault a-t-il raison de s’inquiéter des reculs climatiques du gouvernement Carney? - Le Devoir",
+      "excerpt": "Steven Guilbeault a-t-il raison de s’inquiéter des reculs climatiques du gouvernement Carney? Le Devoir",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "df75fba2357f6973",
