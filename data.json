@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T06:45:47.030Z",
-  "count": 14392,
+  "generatedAt": "2026-08-18T12:49:24.331Z",
+  "count": 14395,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "b19ef8193b332ba2",
+      "date": "2026-08-18",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHhNMGZaY1VJamVDRnRadHVYVVJNLUJLaGg2aFZtWnhyVnRHekthTGk0MHNNVUs3NEJPNnExRXh4cUxHTjNCRFRhaDFSRjVoYlFpdnRKZXVMUjBBYkctQjdBNDN0Mk1QQlZJZ2gzRXI2N2p0bzVGZnpsQkZ2RmRSUkZRRVJXcXplakEyVVFGUkJtZ0J4NjFLeF9pR1RNTHd2dFlpQw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques - Radio-Canada",
+      "excerpt": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques Radio-Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "3ad632dbb07aacf8",
+      "date": "2026-08-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzY4SEhSZFNfekFzLU9xYThTbzdkaEZ6MUZKSUtJSERtTVRXQ0s1MVRtbDlvR2t5QzhVanBOUVc3RUFCQ0RzUVF6bnNyNHlwRWxzdW5QeUdYZzNPNzZSekszZG1yYklFYjJTQ2dPQzliYU9ONXVEVUhfb2sxNmVEUjQyVmF3VDBvekVBRWg2ekVEWTBuRk5mLU1iUG5QZWF1LWc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Quebec and Newfoundland and Labrador reach tentative energy agreement worth billions - CTV News",
+      "excerpt": "Quebec and Newfoundland and Labrador reach tentative energy agreement worth billions CTV News",
+      "cat": "Natural resources"
+    },
     {
       "id": "c05ee4779b36a00c",
       "date": "2026-08-17",
@@ -24362,6 +24386,18 @@
       "cat": "Innovation, science & industry",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "cfecbcdc594a57c9",
+      "date": "2026-07-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY3UzajlaeWQ0QW5ES1FfZHRBQ2pHWTMwbVZ1WUJxaWRBUjlNMmw2MW5GUVA2VFVOemJXdjFRb3RwQk85MWcxaVdMcUd6aXJoNlN4VndXTUlkMFNwTEpzWmtacktsak1JU0FmTDdYcEhTN01UT0JmSzhoRkQxb2lnLS1IZC1zYzJfXzRnclFPeWtOVExqckw3b1Jld2Y1elVUNDhz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "What’s in the multi-billion-dollar B.C.-Canada prosperity MOU? - CityNews Vancouver",
+      "excerpt": "What’s in the multi-billion-dollar B.C.-Canada prosperity MOU? CityNews Vancouver",
+      "cat": "Economy"
     },
     {
       "id": "f237f9574205396f",
