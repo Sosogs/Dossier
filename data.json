@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T01:18:32.021Z",
-  "count": 14390,
+  "generatedAt": "2026-08-18T06:45:47.030Z",
+  "count": 14392,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -7562,6 +7562,18 @@
       "cat": "Transportation",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "0c8e91b8565ac2fd",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmQ5b2FjMGs1RC1lWXE0OFVJZjkzZ3pyNzlybUJaY19ZczZTR2pmclF2T292MVRCZFR5VjdNTGN2OG9WX2x4YV9Ddm1oZU5LTm1iVHdhdUtJdUV5VkZYRExZRkZ1RGNteDR3YTJBaFVmV0p4S3FKWE8zMU9mN3RyWGRwVWtLNVNvMXJCNlVDSmg5Sk1lcXBFWV9qUkRHQ2ZRR1RiQw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says government has ‘taken back control’ of immigration - CityNews Vancouver",
+      "excerpt": "Carney says government has ‘taken back control’ of immigration CityNews Vancouver",
+      "cat": "Economy"
     },
     {
       "id": "7c858bfb2c10eda2",
@@ -25113,6 +25125,18 @@
       "cat": "Culture & heritage",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "fe15be9d3e023bc6",
+      "date": "2026-06-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONV9nLTlLSXRGVDl6RUlabTFsSnVtdmgzbXVtal9YMC1LUWo1clJkMURzOFY0cEc4aUZHOG9hazRVV1hnLW95dVgxQWlZbTR4TmdLekhEVDlteUtCQ0xWejBpNXZNbUVTOHJfMk1TRUFsTnNXWnF2MVVjRXNHVzBNbkxZSlJrYXppb0s5czdlaGFFeVItczJPeWViTkpKeVR4WHZxa0xSSVM3QQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Mark Carney says he'll be in Alberta for Canada Day - CTV News",
+      "excerpt": "Prime Minister Mark Carney says he'll be in Alberta for Canada Day CTV News",
+      "cat": "Economy"
     },
     {
       "id": "b41b0990c9540d18",
