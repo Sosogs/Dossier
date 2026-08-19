@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T18:40:11.285Z",
-  "count": 14421,
+  "generatedAt": "2026-08-19T01:19:52.058Z",
+  "count": 14431,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,121 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "3a31d2946277f71e",
+      "date": "2026-08-18",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/infrastructure-announcement-in-ottawa0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Infrastructure announcement planned in Ottawa with federal and local officials",
+      "sum": "An infrastructure announcement will be made in Ottawa featuring Marie-France Lalonde, the Member of Parliament for Orléans, along with Ottawa's mayor and a city councillor. Media are invited to attend the event.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "53a00f446d259355",
+      "date": "2026-08-18",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/international-trade-tribunal/news/2026/08/tribunal-issues-determination-of-reasonable-indication-of-injurywheat-gluten-from-italy-poland-and-the-united-kingdom.html",
+      "type": "Report",
+      "kind": "official",
+      "lang": "en",
+      "title": "Trade tribunal finds injury indication from imported wheat gluten",
+      "sum": "The Canadian International Trade Tribunal determined there is reasonable indication that dumped wheat gluten from Italy, Poland, and the United Kingdom has harmed Canada's domestic wheat gluten industry. This determination follows the tribunal's preliminary injury inquiry.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "a76a6ebb7d2f2e54",
+      "date": "2026-08-18",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/international-trade-tribunal/news/2026/08/tribunal-initiates-inquirypaperboard-cups-and-containers-from-china.html",
+      "type": "Report",
+      "kind": "official",
+      "lang": "en",
+      "title": "Trade tribunal investigates dumped Chinese paperboard cups",
+      "sum": "The Canadian International Trade Tribunal started an inquiry into claims that paperboard cups and containers from China have been dumped and subsidized, causing injury to a Canadian manufacturer. The investigation will proceed under the Special Import Measures Act.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "64411417e1b8df04",
+      "date": "2026-08-18",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/08/the-government-of-canada-provides-an-update-regarding-the-2026-wildfire-season--august-update.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada reports 582 active wildfires in August 2026 update",
+      "sum": "The Government of Canada provided an update on wildfire activity as of August 2026, reporting 582 active wildfires nationwide with 31 out of control, and noting that the season has seen 4,793 total fires burning 4.1 million hectares to date. This represents fewer fires but less total area burned compared to the same period in the previous year.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "9f1c1148e646d2c9",
+      "date": "2026-08-18",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/annonce-en-matiere-dinfrastructure-a-ottawa0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Annonce d'infrastructure à Ottawa avec élus locaux",
+      "sum": "Une annonce concernant l'infrastructure est prévue à Ottawa avec la participation de la députée Marie-France Lalonde, du maire Mark Sutcliffe et de la conseillère Laura Dudas.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "a656808bb436bb2a",
+      "date": "2026-08-18",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/tribunal-commerce-exterieur/nouvelles/2026/08/le-tribunal-rend-une-decision-dindication-raisonnable-de-dommage--gluten-de-ble-provenant-de-litalie-de-la-pologne-et-du-royaume-uni.html",
+      "type": "Report",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Tribunal conclut à des indices raisonnables de dommage par dumping de gluten de blé",
+      "sum": "Le Tribunal canadien du commerce extérieur a déterminé que des preuves indiquent raisonnablement que le dumping de gluten de blé en provenance de l'Italie, de la Pologne et du Royaume-Uni a causé un dommage aux producteurs canadiens. Cette décision suit une enquête préliminaire sur le dumping.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "e345205fee04a4b3",
+      "date": "2026-08-18",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/tribunal-commerce-exterieur/nouvelles/2026/08/le-tribunal-ouvre-une-enquete--gobelets-et-contenants-en-carton-provenant-de-la-chine.html",
+      "type": "Report",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Enquête sur les gobelets en carton importés de Chine",
+      "sum": "Le Tribunal canadien du commerce extérieur a ouvert une enquête sur une plainte concernant les gobelets et contenants en carton importés de Chine, où une entreprise ontarienne affirme avoir subi des dommages en raison du dumping et du subventionnement.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "9c872fd1a3f836f0",
+      "date": "2026-08-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSGVDLVdteVRMeVdaNjZpOTJqMmVBeXJQX3Y4a19NRlFLbW96NkNOMDlZVXRzaTFHT05kcG8yTHdrRGxwd1ZiTU1CMl82d0xPT1VxZTR2a1c3WUt0TlE3Q1QxYkJlcENaRmNNOHRfY3ZVajJtM0ZJeUV5S0JUWXVsRGt2NXdySlhJN3FtYnFvSGEtS1N5S2RwQmhBc1dBMk1TNnlGQ0JIS0VlaUJhMWZIOXR1eUdGVWtmSWNvdGRn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Feds are greenwashing Carney's energy policy, NDP claim to Competition Bureau - Canada's National Observer",
+      "excerpt": "Feds are greenwashing Carney's energy policy, NDP claim to Competition Bureau Canada's National Observer",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "403de72275020399",
+      "date": "2026-08-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTM3TFJXcmw2UUtDMTl6VTlQa090STdVMkFaY0Z4eHAtWWVIVkw0cHd3bVhEcm9NYWdpMENESmdDUEFhU2xfQnFEQXBEX2JSQU84X0w0a3hvNW9Pei03TjdLUWcxNmRDbHA5R3pKYmFRWVBZczY2Vks4T1kxRWFMS3ZmNGtkUm9QMWV3S0c5anhGYldhTjRRX2lobw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "OPINION: Provinces should not rely too much on federal dollars - Toronto Sun",
+      "excerpt": "OPINION: Provinces should not rely too much on federal dollars Toronto Sun",
+      "cat": "Intergovernmental affairs"
+    },
     {
       "id": "b0f5681d2d015658",
       "date": "2026-08-18",
@@ -34134,6 +34249,18 @@
       "excerpt": "Canadians doubt the public service is ready for future challenges Policy Options",
       "cat": "Economy",
       "lang": "en"
+    },
+    {
+      "id": "34c20cf0caba4bc7",
+      "date": "2026-06-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYnZtZzJhU0hXc3J0RlMwVkg4bmpkenFUeDh5TDF4LUZnMnB1N2dTMEplMXRtek44V3FnbThna1cxODVfWkozVWUtMW5kd1ZsRElGeUxIc0EzTUhadXFzSmhwWjFjcV9fcGZCamVvbmVaMkZVLXNVWHVHaVJoNGVVMUxENFJIaEhqZXNORkNXMWXSAZABQVVfeXFMUEp1T3U1U09oR1BhTmlSZ2pJSDlVUGJ1X1ltTzFmNzBmMG5vOXFrLWdDamZNTEJaajFWVHNueFZFbTRUOWhONm1yM3NGQlJodXhMMXJ5c0RWV2M5RjcteVpGVTctb0lkbkg0OEhJWWtJM1oxUER6Z3g1NkhzUzA2SlI0dTVjc290Z1JuNGhRbzJo?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "ANALYSIS: Will the courts weigh in on Carney’s climate policy? - TVO Today",
+      "excerpt": "ANALYSIS: Will the courts weigh in on Carney’s climate policy? TVO Today",
+      "cat": "Justice"
     },
     {
       "id": "3b54cbf1e386b75c",
