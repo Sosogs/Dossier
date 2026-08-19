@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T01:19:52.058Z",
-  "count": 14431,
+  "generatedAt": "2026-08-19T06:46:20.155Z",
+  "count": 14434,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -484,6 +484,18 @@
       "lang": "fr",
       "title": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques - Radio-Canada",
       "excerpt": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques Radio-Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "f9e295f26b2359db",
+      "date": "2026-08-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNTk5Z25zOVpEMm51bHZVWEdfZnRka05mRDkydzg1U1hoakNsT2xTMC1qX3Q0RFBtRXNleHRHcU9KODNTRGw2QWJzV3dDVGxYb2dSWTdkUG93bEJDRzFDZmRpME1QLXRPWUlDbEUxRkNGVzhtRzZHSklhdEZReXh5TTc5a0wtbno5aEI3aHo2RURyNkxKSWhwY01HS0ZaTlhVM3I2blJqOFppMlZQTHJwTVZTc0NKaGItZFN4NTZWbXdqUU5kUVdqaFlocGk4bVg2WkRBZWUzVkVDSWFmQmVTdFFabnQ1QUJCS3poWHFpVjZ1RDlmMUQ2SHM4LWRjUWFHaDJhbTItbw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Petition to expel Donald Trump’s ambassador to Canada gets more than 200,000 signatures - Toronto Star",
+      "excerpt": "Petition to expel Donald Trump’s ambassador to Canada gets more than 200,000 signatures Toronto Star",
       "cat": "Economy"
     },
     {
@@ -53208,6 +53220,18 @@
       "lang": "en"
     },
     {
+      "id": "3547557f8cfadc14",
+      "date": "2026-05-11",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3owZDFmcjJGdENrdzVoX1RBMlRrZ2pqOWJMYzViRmdaVkZrdXJqY19LdFh1TWZLV0wwTzJfRE1LTzViZHhWWWhmR3ZqdHpENW90WnBBS0MxMHJ0dUJ4Zll1Y19sMjM2SVExb19TaGJBaGRRekp5R2FSV2tydHU4RDdWOU11YUtiOEwtZFFMOEQwODV1ODJQMGhOekhkRFV4VjlhaQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Les ministres libéraux comprennent Steven Guilbeault, mais défendent le projet de réforme - Radio-Canada",
+      "excerpt": "Les ministres libéraux comprennent Steven Guilbeault, mais défendent le projet de réforme Radio-Canada",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "eb471c2114daa68f",
       "date": "2026-05-11",
       "src": "Government of Canada",
@@ -55892,6 +55916,18 @@
       "cat": "Indigenous services",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "f441c49c2dd5c46d",
+      "date": "2026-05-06",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlBfTDBhMVB6anZHV1JnS1ZvY2R6VkZhNXVfVzlPQndBM1dWdDRVeTloQWNWdGtVTlQ5dVlWWUJXNmJwMXUxU0t5eUt6OVY3T1dWbURSTjFHWW9JSHNzRUdqODN1Rk5kM01TTXg4Z04wc2RGT2xWQktlWDQ3LW9TOGxMUXQ5SFl3dTZWdnhLdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Les libéraux de Carney demeurent indécis sur l’extension de l’aide médicale à mourir - Radio-Canada",
+      "excerpt": "Les libéraux de Carney demeurent indécis sur l’extension de l’aide médicale à mourir Radio-Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "b8b692d2c0cf39ee",
