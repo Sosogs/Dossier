@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T06:46:20.155Z",
-  "count": 14434,
+  "generatedAt": "2026-08-19T12:50:12.275Z",
+  "count": 14440,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,58 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "5545e44ab8892c40",
+      "date": "2026-08-19",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/invitation-to-media--rachel-bendayan-to-announce-government-of-canada-support-for-roberval-manufacturing-business.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces funding for Roberval manufacturing business",
+      "sum": "Parliamentary Secretary Rachel Bendayan will announce federal government funding to support a manufacturing business in Roberval, Quebec. The announcement details how the government is supporting the company's growth.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "c6d57e7ef289beeb",
+      "date": "2026-08-19",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-to-announce-support-for-luniversite-de-lontario-francais.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces financial support for Ontario French university",
+      "sum": "The Government of Canada will provide financial support to l'Université de l'Ontario français. The funding is intended to support the protection and promotion of French language education.",
+      "cat": "Education",
+      "ai": true
+    },
+    {
+      "id": "0902d67390e4d918",
+      "date": "2026-08-19",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-gouvernement-du-canada-annoncera-un-financement-a-luniversite-de-lontario-francais.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada annonce un financement pour l'Université de l'Ontario français",
+      "sum": "Le gouvernement du Canada annoncera un financement destiné à l'Université de l'Ontario français. Cet appui vise à protéger et promouvoir la langue française.",
+      "cat": "Education",
+      "ai": true
+    },
+    {
+      "id": "a4c712b07deb6605",
+      "date": "2026-08-19",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-regions-quebec/nouvelles/2026/08/invitation-aux-medias--rachel-bendayan-annoncera-un-appui-du-gouvernement-du-canada-a-une-entreprise-manufacturiere-de-roberval.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada annonce soutien financier à manufacturier de Roberval",
+      "sum": "Rachel Bendayan, députée d'Outremont et secrétaire parlementaire du premier ministre, annoncera un appui financier du gouvernement du Canada destiné à soutenir la croissance d'une entreprise manufacturière située à Roberval.",
+      "cat": "Economy",
+      "ai": true
+    },
     {
       "id": "3a31d2946277f71e",
       "date": "2026-08-18",
@@ -8038,6 +8090,18 @@
       "cat": "Transportation",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "9e1b5ad44d7090d2",
+      "date": "2026-07-29",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHU3R1ViNjZqdEFVRW1CRnRJWXpWbmV5RGpiZjgtNzVQRlpHY29Cb2NTN0RUd1hZQ2xtMXJ1T1lGWFhNZzRqUWFYX09HQ0N5a3plZ1NQaThUT2hPRkl2RG53RnJPVlJ0bmx5Q2F4djVwMmE2Um93ZE9pa1l5Q0szTzFKbU9XWU9PZzBBR1N4XzRXemdXSjdfcmVYN2dBRllGOUpTbjFCVEc2TkxsQlVyRGxBOUZoTlRqUzFrakdDd0NrUjY3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Diffuseurs en ligne | Carney se défend de plier de nouveau devant les Américains - La Presse",
+      "excerpt": "Diffuseurs en ligne | Carney se défend de plier de nouveau devant les Américains La Presse",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "0c8e91b8565ac2fd",
@@ -50237,6 +50301,18 @@
       "excerpt": "The Canada Strong Fund isn’t a sovereign wealth fund — and that’s OK Policy Options",
       "cat": "Economy",
       "lang": "en"
+    },
+    {
+      "id": "a68c18441a1657cd",
+      "date": "2026-05-14",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNVFtYjJubDFnMzdzMy1ZWkxLN0NsRmxFRHgxcGpQWENic1hxeThBZmdjOHNEU1REc2xXOS1oMVhxVkFlakJ5SHpBQ1pob2tzbS1FVVVwSlFIZk1mcHBEOFBCSHZaQklOQkw2ZG9qcjFMc19Rbk5ybk1fNU5udG5jNWVKRlQzOTgyZFRlOUNFc1M3MkNKR0pxSkRUbXR6VTB5eFNvN0RNa1J3bjFlal9uVVhSYWF0OF9GV0Q5cU1obldHeGo4Zk5LT2tiajB4empBS180?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "La vente de ports et d’aéroports pourrait financer des projets, selon Mark Carney - La Presse",
+      "excerpt": "La vente de ports et d’aéroports pourrait financer des projets, selon Mark Carney La Presse",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "ff550fe28ec0809c",
