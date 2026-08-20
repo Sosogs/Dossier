@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T06:48:55.034Z",
-  "count": 14482,
+  "generatedAt": "2026-08-20T12:52:21.546Z",
+  "count": 14485,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "7b4c9915b3bad244",
+      "date": "2026-08-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXVkVC1PWHo2Y0ItQ09wSXFyNFJScTRzYllJc1RGbnlsVUZoaks3NnBUV2ljQ2dISUYxZ2xmMG51a1JJZW1sdUd0SDQ5dVA2aXhzam1jNm9MWkVOal9MemJfcFlUT0VaOFZxU2hOX0p4X2FSZ1NzYm9ZLVZHNS1FcXpINUprdnNzNEU0MkFycndxb2EwVUc4alMtcklCMGx2RFBIc0ctZEhXT19ac1A2MnJlUFRMeXp6SjFoUmNtNFB2NDA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The Carney government is concerned about Canada’s entrepreneurial exodus. Here’s how to fix it - The Hub | More Signal. Less Noise.",
+      "excerpt": "The Carney government is concerned about Canada’s entrepreneurial exodus. Here’s how to fix it The Hub | More Signal. Less Noise.",
+      "cat": "Economy"
+    },
+    {
+      "id": "ff13a649a93209e7",
+      "date": "2026-08-19",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHZUc25rckFUQy1JMlBuLXRsaG5MeUNsaW5FNk9vU3U3cHVUWVE4ZFQ1S2RldDRRRGI0VXR1SHY0TGhVdEZZS2dWa05VSjBDdFdSMk1kZjYxbGdUUDNmb3JETm9KX0NxQnpCcWlmcXRmRkFmTjQySmpHMkVVOVNzY2taTmtHeHlKd3oxd0RCUFdYRmRURDl6dEZHbXJYTmxfaWJMSUhnTXlmZ2E5dUJuVlZ1RXZCUmVHaHFtcUxTdjVvblRR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le NPD porte plainte contre l’« écoblanchiment » des publicités du gouvernement Carney - Journal de Québec",
+      "excerpt": "Le NPD porte plainte contre l’« écoblanchiment » des publicités du gouvernement Carney Journal de Québec",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "2b34e98e5604da98",
       "date": "2026-08-19",
@@ -11651,6 +11675,18 @@
       "excerpt": "WestJet is giving passengers with bookings from July 30 to Aug. 4 the opportunity to cancel or change their flights for free in light of the ongoing labour dispute with flight attendants.",
       "cat": "Transportation",
       "lang": "en"
+    },
+    {
+      "id": "4eccb2f0c61e9acb",
+      "date": "2026-07-23",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaHZkM3l0emJIcnZlbUExdzRiV3VyanlPVk9JUDN2NlFfRGg5Rmo1cGxGSlVxaUZvUGg3RjE3Vl9qYkRwbFZvbUdnZVE0ZFNsa0NuT3RhTXU1RUtEWEdkUkllR3ZsVkd2YnpRZzFMTWJURUFaQlowa2dRUVl4cXVmeHFjQXN2bEJ4bk1NLWszWDFXUm41LVdsQ3VwcElBSjRSZzl0OXVVcFhfSXpXMkdzMFE1dEU0WkpIUzg0UFpPSkk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney veut dépenser des sommes historiques en publicités patriotiques - Journal de Québec",
+      "excerpt": "Le gouvernement Carney veut dépenser des sommes historiques en publicités patriotiques Journal de Québec",
+      "cat": "Economy"
     },
     {
       "id": "7e8632514443fa95",
