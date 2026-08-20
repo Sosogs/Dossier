@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T01:19:24.959Z",
-  "count": 14481,
+  "generatedAt": "2026-08-20T06:48:55.034Z",
+  "count": 14482,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -585,6 +585,18 @@
       "sum": "Rachel Bendayan, députée d'Outremont et secrétaire parlementaire du premier ministre, annoncera un appui financier du gouvernement du Canada destiné à soutenir la croissance d'une entreprise manufacturière située à Roberval.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "41d3ac99616a5eee",
+      "date": "2026-08-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPY1pKcVQwOUVWV056VHMyQ0Jwa0JRX2M3QlQ3SGR0YXlDSThDREJzeVpDaGZiLXZNVWZ6VGUwcWJzN01CeDVKSUVINzVSdldvbDR4VklraXNxdGJxTE0wckVNYXNHaDMzcGRGNmdqcGZvZnNRM3d5WUcwVTA0ZFF1cFhKUlVNSXI0TVFZWmlZUVRJZTZfREhOYVRoSVRlbTZoRkFxRDNMQm1xNnRLMWhSQklIVXl5Qm1BWUQxWTJIdGVkZ3dBSWMwVE5lNG4zTFZtREtsLU1TUVBYUWRnYkR5WDJiV3owXzVJSWxVRUtHM1IxSnBlcE9DQWtqQkQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney’s Liberals would win election despite tariff turmoil, polls suggest - thestar.com",
+      "excerpt": "Mark Carney’s Liberals would win election despite tariff turmoil, polls suggest thestar.com",
+      "cat": "Economy"
     },
     {
       "id": "3a31d2946277f71e",
