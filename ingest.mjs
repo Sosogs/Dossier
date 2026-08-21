@@ -95,7 +95,9 @@ const FEEDS = [
 /* ----------------------------------------------------------------------------
  * 3. SETTINGS
  * --------------------------------------------------------------------------*/
-const OUT_FILE = "data.json";
+const ARCHIVE_FILE = "data.json";    // full record (unchanged role) — site fetches on demand
+const OUT_FILE = "recent.json";      // small additive slice — the site loads this instantly
+const RECENT_N = 800;                // how many newest items go in the fast-loading file
 const CUSTOM_FILE = "custom-posts.json";   // your hand-written entries (see README)
 const MAX_ITEMS = 15000;                   // raised for the full mandate archive
 const NEWS_EXCERPT_CHARS = 220;            // keep news excerpts short by design
@@ -270,14 +272,17 @@ async function loadCustom() {
  * --------------------------------------------------------------------------*/
 async function pullFresh(seen) {
   const fresh = [];
+  let feedsOk = 0, feedsTotal = 0;
   const sources = TEST
     ? [{ feed: { src: "Sample department", kind: "official", type: "Announcement" }, xml: SAMPLE_FEED }]
     : FEEDS.filter((f) => f.url && !f.url.startsWith("<")).map((feed) => ({ feed }));
 
   for (const s of sources) {
+    feedsTotal++;
     try {
       const parsed = s.xml ? await parser.parseString(s.xml) : await parser.parseURL(s.feed.url);
       const pulled = (parsed.items || []).length;
+      if (pulled > 0) feedsOk++;
       let added = 0;
       for (const item of parsed.items || []) {
         const rec = normalize(item, s.feed);
@@ -291,7 +296,30 @@ async function pullFresh(seen) {
       console.warn(`  ${s.feed.src}: FAILED — ${e.message}`);
     }
   }
-  return fresh;
+  return { fresh, feedsOk, feedsTotal };
+}
+
+// Save the full record to archive.json and a small recent slice to data.json.
+async function writeOutputs(items) {
+  const gen = new Date().toISOString();
+  await writeFile(ARCHIVE_FILE, JSON.stringify({ generatedAt: gen, count: items.length, categories: CATEGORIES, types: TYPES, items }, null, 2));
+  const recent = items.slice(0, RECENT_N);  // items are already sorted newest-first
+  const tot = { en: { a: 0, s: new Set() }, fr: { a: 0, s: new Set() } };
+  for (const it of items) {
+    const L = it.lang === "fr" ? "fr" : "en";
+    tot[L].a++;
+    if (it.src) tot[L].s.add(it.src);
+  }
+  const totals = { en: { actions: tot.en.a, sources: tot.en.s.size }, fr: { actions: tot.fr.a, sources: tot.fr.s.size } };
+  await writeFile(OUT_FILE, JSON.stringify({ generatedAt: gen, count: recent.length, totals, categories: CATEGORIES, types: TYPES, items: recent }, null, 2));
+  return { total: items.length, recent: recent.length };
+}
+
+// Read the existing record: the full archive if present, else migrate from data.json.
+async function readExisting() {
+  const arch = await readJson(ARCHIVE_FILE, null);
+  if (arch && Array.isArray(arch.items)) return arch;
+  return await readJson(OUT_FILE, { items: [] });
 }
 
 async function run() {
@@ -324,7 +352,7 @@ async function run() {
   if (process.argv.includes("--backfill")) {
     const from = process.env.BACKFILL_FROM || "2025-03-14";
     console.log(`MANDATE BACKFILL since ${from} (no AI on the pull; plain-language summaries fill in on later refreshes)`);
-    const existing = await readJson(OUT_FILE, { items: [] });
+    const existing = await readExisting();
     const seen = new Set((existing.items || []).map((i) => i.id));
     const fresh = [];
     const ARCH = (dept, lang, cursor) =>
@@ -361,19 +389,19 @@ async function run() {
     merged.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
     const items = merged.slice(0, MAX_ITEMS);
     for (const it of items) { it.src = withAcronym(it.src); if (!it.lang) it.lang = "en"; }
-    await writeFile(OUT_FILE, JSON.stringify({ generatedAt: new Date().toISOString(), count: items.length, categories: CATEGORIES, types: TYPES, items }, null, 2));
-    console.log(`Wrote ${OUT_FILE} — ${items.length} items total, ${fresh.length} archived this run.`);
+    const w = await writeOutputs(items);
+    console.log(`Wrote ${w.total} items (data.json) + newest ${w.recent} (recent.json) — ${fresh.length} archived this run.`);
     return;
   }
 
   console.log(`DOSSIER ingest  (AI: ${USE_AI ? "on" : "off"}${TEST ? ", test mode" : ""})`);
-  const existing = await readJson(OUT_FILE, { items: [] });
+  const existing = await readExisting();
   const seen = new Set((existing.items || []).map((i) => i.id));
 
-  const fresh = await pullFresh(seen);
+  const { fresh, feedsOk, feedsTotal } = await pullFresh(seen);
 
   const AI_MAX = 1000;                  // raised so the archive summaries catch up quickly
-  let aiCount = 0;
+  let aiCount = 0, enrichFailures = 0;
   if (USE_AI) {
     // 1) enrich this run's new official items
     for (const rec of fresh) {
@@ -388,7 +416,7 @@ async function run() {
         rec.ai = true;
         aiCount++;
       } catch (err) {
-        console.warn(`  enrich failed (${rec.id}): ${err.message}`);
+        enrichFailures++; console.warn(`  enrich failed (${rec.id}): ${err.message}`);
       }
     }
     // 2) self-healing backfill: give older official entries still missing a
@@ -406,7 +434,7 @@ async function run() {
         rec.ai = true;
         aiCount++; healed++;
       } catch (err) {
-        console.warn(`  backfill failed (${rec.id}): ${err.message}`);
+        enrichFailures++; console.warn(`  backfill failed (${rec.id}): ${err.message}`);
       }
     }
     if (healed) console.log(`  backfilled ${healed} older official entr${healed === 1 ? "y" : "ies"}`);
@@ -424,15 +452,23 @@ async function run() {
   const items = merged.slice(0, MAX_ITEMS);
   for (const it of items) { it.src = withAcronym(it.src); if (!it.lang) it.lang = "en"; }   // backfill acronyms + language onto older entries
 
-  const out = {
-    generatedAt: new Date().toISOString(),
-    count: items.length,
-    categories: CATEGORIES,
-    types: TYPES,
-    items
-  };
-  await writeFile(OUT_FILE, JSON.stringify(out, null, 2));
-  console.log(`Wrote ${OUT_FILE} — ${items.length} items total, ${fresh.length} new this run.`);
+  const w = await writeOutputs(items);
+  console.log(`Wrote ${w.total} items (data.json) + newest ${w.recent} (recent.json) — ${fresh.length} new this run.`);
+
+  // ---- health check: turn the run red (→ email alert) on real trouble ----
+  if (!TEST) {
+    const backlog = items.filter((i) => i.kind === "official" && !i.ai).length;
+    const problems = [];
+    if (feedsOk === 0 && feedsTotal > 0) problems.push("no feeds returned any items (possible outage)");
+    if (!USE_AI && !NO_AI && backlog > 0) problems.push("AI is off but summaries are pending — is the API key set?");
+    if (enrichFailures > 25) problems.push(`${enrichFailures} summaries failed this run (API problem?)`);
+    if (problems.length) {
+      console.error("HEALTH CHECK FAILED — " + problems.join("; "));
+      process.exitCode = 1;   // fails the workflow run so GitHub emails you
+    } else {
+      console.log(`Health OK — ${feedsOk}/${feedsTotal} feeds returned data, ${enrichFailures} summary error(s), ${backlog} still to summarize.`);
+    }
+  }
 }
 
 /* Embedded sample feed for offline --test runs */

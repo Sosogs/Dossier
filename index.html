@@ -370,6 +370,8 @@ function switchLang(l){ if(l===LANG) return; LANG=l; try{ localStorage.setItem("
 
 /* ===== state ===== */
 let MOVES = [];
+let TOTALS = null;
+let archiveLoaded = false, archiveLoading = false;
 let activeCat = "All", activeType = "All", officialOnly = false, query = "";
 const PAGE_SIZE = 60;
 let shown = PAGE_SIZE;
@@ -390,7 +392,7 @@ function buildChips(){
     return `<button class="chip${name===activeCat?' active':''}" data-cat="${esc(name)}">${dot}${esc(label)}</button>`;
   }).join("");
   chips.querySelectorAll(".chip").forEach(el=>el.onclick=()=>{
-    activeCat = (el.dataset.cat===activeCat && activeCat!=="All") ? "All" : el.dataset.cat; shown = PAGE_SIZE;
+    activeCat = (el.dataset.cat===activeCat && activeCat!=="All") ? "All" : el.dataset.cat; shown = PAGE_SIZE; ensureArchive();
     buildChips(); render();
   });
 }
@@ -399,7 +401,7 @@ function buildTypes(){
   const sel = $("#typeSel");
   sel.innerHTML = [{en:"All"}, ...TYPES].map(o=>`<option value="${esc(o.en)}">${o.en==="All"?esc(t.allTypes):esc(typeLabel(o.en))}</option>`).join("");
   sel.value = activeType;
-  sel.onchange = ()=>{ activeType = sel.value; shown = PAGE_SIZE; render(); };
+  sel.onchange = ()=>{ activeType = sel.value; shown = PAGE_SIZE; ensureArchive(); render(); };
 }
 
 function card(m){
@@ -431,7 +433,7 @@ function render(){
     return true;
   }).sort((a,b)=> (b.date||"").localeCompare(a.date||""));
 
-  countEl().textContent = `${rows.length} action${rows.length===1?"":"s"}`;
+  countEl().textContent = `${rows.length} action${rows.length===1?"":"s"}` + (archiveLoading ? (LANG==="fr" ? " · chargement du registre complet…" : " · loading full record…") : "");
   const page = rows.slice(0, shown);
   grid().innerHTML = page.length ? page.map(card).join("") : `<div class="empty">${esc(t.empty)}</div>`;
   const lm = $("#loadMore");
@@ -439,17 +441,18 @@ function render(){
   else { lm.hidden = true; }
 
   const loc = LANG==="fr" ? "fr-CA" : "en-CA";
-  $("#m-actions").textContent = langItems.length.toLocaleString(loc);
+  const tl = TOTALS && TOTALS[LANG];
+  $("#m-actions").textContent = (tl ? tl.actions : langItems.length).toLocaleString(loc);
   $("#m-cats").textContent = CATEGORIES.length;
-  $("#m-sources").textContent = new Set(langItems.map(m=>m.src)).size || "—";
+  $("#m-sources").textContent = (tl ? tl.sources : new Set(langItems.map(m=>m.src)).size) || "—";
 }
 
 /* ===== init ===== */
 computeHues(); applyLang(); buildChips(); buildTypes(); render();
 
-$("#q").oninput = e=>{ query = e.target.value; shown = PAGE_SIZE; render(); };
-$("#ooBtn").onclick = ()=>{ officialOnly = !officialOnly; $("#ooBtn").classList.toggle("active", officialOnly); shown = PAGE_SIZE; render(); };
-$("#loadMore").onclick = ()=>{ shown += PAGE_SIZE; render(); };
+$("#q").oninput = e=>{ query = e.target.value; shown = PAGE_SIZE; ensureArchive(); render(); };
+$("#ooBtn").onclick = ()=>{ officialOnly = !officialOnly; $("#ooBtn").classList.toggle("active", officialOnly); shown = PAGE_SIZE; ensureArchive(); render(); };
+$("#loadMore").onclick = ()=>{ shown += PAGE_SIZE; ensureArchive(); render(); };
 document.querySelectorAll(".lang-toggle span").forEach(s=> s.onclick = ()=> switchLang(s.dataset.l));
 
 const aboutModal = $("#aboutModal");
@@ -457,6 +460,21 @@ $("#aboutBtn").onclick = ()=> aboutModal.showModal();
 $("#aboutClose").onclick = ()=> aboutModal.close();
 aboutModal.addEventListener("click", e=>{ if(e.target===aboutModal) aboutModal.close(); });
 document.querySelectorAll(".kofi-link").forEach(a=> a.href = KOFI_URL);
+
+async function ensureArchive(){
+  if (archiveLoaded || archiveLoading) return;
+  archiveLoading = true; render();
+  try{
+    const r = await fetch("data.json", { cache:"no-store" });
+    const d = await r.json();
+    if (Array.isArray(d.items)){
+      const have = new Set(MOVES.map(m=>m.id));
+      for (const it of d.items) if (!have.has(it.id)) MOVES.push(it);
+    }
+    archiveLoaded = true;
+  }catch(e){ /* archive stays unloaded; recent still works */ }
+  archiveLoading = false; render();
+}
 
 async function boot(){
   try{
@@ -468,10 +486,13 @@ async function boot(){
   }catch(e){}
   computeHues();
   try{
-    const r = await fetch("data.json", { cache:"no-store" });
+    const r = await fetch("recent.json", { cache:"no-store" });
     const d = await r.json();
     if(Array.isArray(d.items)) MOVES = d.items;
-  }catch(e){}
+    if(d.totals) TOTALS = d.totals;
+  }catch(e){
+    try{ const r = await fetch("data.json", { cache:"no-store" }); const d = await r.json(); if(Array.isArray(d.items)) MOVES = d.items; archiveLoaded = true; }catch(e2){}
+  }
   applyLang(); buildChips(); buildTypes(); render();
 }
 boot();
