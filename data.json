@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T01:22:35.444Z",
-  "count": 14530,
+  "generatedAt": "2026-08-21T06:49:59.775Z",
+  "count": 14531,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "50263327da935561",
+      "date": "2026-08-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcjV6cEExR2hEcTZoRFlpT0lvTlVCTDNuMkhDRzRTYkJqSko4R3VRNmM4QndJYjlQOVZpX0g1R1MxWHpNVnA4X0J6Y3pNcTVic3QzTFFKbWM4eEVOQ0VjR29BQkJxc3ZNWkxXbUZ6R3RscUhxUlYyMHVXVWNiNVNXczRKUzdnLUlXbnplclRKLUN2eWJRanJQbXRZenNTQWRmNTdWTlNTem0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why is the Carney government inviting China’s propaganda machine into Canada? - The Hub | More Signal. Less Noise.",
+      "excerpt": "Why is the Carney government inviting China’s propaganda machine into Canada? The Hub | More Signal. Less Noise.",
+      "cat": "Economy"
+    },
     {
       "id": "1a37cb06f7df494f",
       "date": "2026-08-20",

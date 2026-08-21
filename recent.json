@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T01:22:35.444Z",
+  "generatedAt": "2026-08-21T06:49:59.775Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7519,
+      "actions": 7520,
       "sources": 9
     },
     "fr": {
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "50263327da935561",
+      "date": "2026-08-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcjV6cEExR2hEcTZoRFlpT0lvTlVCTDNuMkhDRzRTYkJqSko4R3VRNmM4QndJYjlQOVZpX0g1R1MxWHpNVnA4X0J6Y3pNcTVic3QzTFFKbWM4eEVOQ0VjR29BQkJxc3ZNWkxXbUZ6R3RscUhxUlYyMHVXVWNiNVNXczRKUzdnLUlXbnplclRKLUN2eWJRanJQbXRZenNTQWRmNTdWTlNTem0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why is the Carney government inviting China’s propaganda machine into Canada? - The Hub | More Signal. Less Noise.",
+      "excerpt": "Why is the Carney government inviting China’s propaganda machine into Canada? The Hub | More Signal. Less Noise.",
+      "cat": "Economy"
+    },
     {
       "id": "1a37cb06f7df494f",
       "date": "2026-08-20",
@@ -10282,19 +10294,6 @@
       "title": "Canada announces investment in passenger locomotive fleet renewal",
       "sum": "The Minister of Transport will announce a major investment to renew Canada's passenger locomotive fleet. The investment is intended to improve transportation connections across the country.",
       "cat": "Transportation",
-      "ai": true,
-      "lang": "en"
-    },
-    {
-      "id": "6b1b630f8fa9c1c2",
-      "date": "2026-07-28",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/07/canada-expands-online-passport-renewal-to-all-eligible-adults.html",
-      "type": "Announcement",
-      "kind": "official",
-      "title": "Canada expands online passport renewal to all eligible adults",
-      "sum": "The Government of Canada is expanding its online passport renewal service to all eligible adult Canadians. This digital service allows people to renew their passports without visiting in person.",
-      "cat": "Public safety",
       "ai": true,
       "lang": "en"
     }
