@@ -21,6 +21,6 @@ jobs:
         run: |
           git config user.name "dossier-bot"
           git config user.email "dossier-bot@users.noreply.github.com"
-          git add data.json
+          git add data.json recent.json
           git diff --staged --quiet || git commit -m "data: refresh $(date -u +%FT%TZ)"
           git push
