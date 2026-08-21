@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T06:49:59.775Z",
-  "count": 14531,
+  "generatedAt": "2026-08-21T12:50:57.628Z",
+  "count": 14535,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "8ec6003c113a4e78",
+      "date": "2026-08-21",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/news/2026/08/canada-joins-the-belem-declaration-on-sustainable-public-procurement.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada joins Belém Declaration on Sustainable Public Procurement",
+      "sum": "Canada has formally joined the Belém Declaration on Sustainable Public Procurement, an international commitment to sustainable practices in government purchasing. Treasury Board President Shafqat Ali announced the decision.",
+      "cat": "Finance",
+      "ai": true
+    },
+    {
+      "id": "248ba4dc6b383a0e",
+      "date": "2026-08-21",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/secretariat-conseil-tresor/nouvelles/2026/08/le-canada-adhere-a-la-declaration-de-belem-sur-les-marches-publics-durables.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada adhère à la Déclaration de Belém sur marchés durables",
+      "sum": "Le président du Conseil du Trésor a annoncé que le Canada s'engage à respecter la Déclaration de Belém sur les marchés publics durables. Cette déclaration établit des principes pour intégrer la durabilité dans les processus d'approvisionnement gouvernementaux.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
     {
       "id": "50263327da935561",
       "date": "2026-08-20",
@@ -9152,6 +9178,18 @@
       "cat": "Transportation",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "bc9f94414daafa70",
+      "date": "2026-07-29",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWI5aXdvdjZOdzR4bU9IZmloOGJJN0hUaWIwRnN0bUg2SU1ZWGd3M0ZBM2tJeGc3enRvcU1pazlJOG5FZk5sdTRab3JfbTlHdkhrSE5rLXdSbGI2M2EzZVlGMTRBUzFCQzJsWlhHNzZfX2JDUVVQWUVBMEhZUHVEUGRSbmRtRmd5bEJiTkpSX0Q1SVR3X2ZLQnlpTDh2VGFkb3Uwa1JSam1nWEd5VC1xUTJidmNoT0FGak5zNHQyd1kzcTVwdDhmVHh5alJyZkJxNEdGNkp6U3AxOG8?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney abandonne les redevances imposées aux plateformes de diffusion américaines - TVA Nouvelles",
+      "excerpt": "Le gouvernement Carney abandonne les redevances imposées aux plateformes de diffusion américaines TVA Nouvelles",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "9e1b5ad44d7090d2",
@@ -45227,6 +45265,18 @@
       "title": "Une stratégie fédérale sur l’IA la semaine prochaine - Radio-Canada",
       "excerpt": "Une stratégie fédérale sur l’IA la semaine prochaine Radio-Canada",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "4aad49f7bb4104c4",
+      "date": "2026-05-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMk83Rlp3NW93ODNhWUllb0tydjhlVTRvWnRPcXBWc3dNTjR2cDhXWG1GX1lhaHFEZkNEWXRCS3B2eHJKTndHT1IxMk1WeHdZTW84VXpPc2MtXy02WVdYUWltN2RkcDN2UGFKUmlWcDAxX2c1ODgzUFFDaw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why Mark Carney Is Pushing ‘Fortress North America’ Amid Deep Canadian Distrust of the U.S. - Carleton University",
+      "excerpt": "Why Mark Carney Is Pushing ‘Fortress North America’ Amid Deep Canadian Distrust of the U.S. Carleton University",
+      "cat": "Education"
     },
     {
       "id": "eecc24752663c5d6",
