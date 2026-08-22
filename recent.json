@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22T12:41:17.638Z",
+  "generatedAt": "2026-08-22T18:32:32.414Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7548,
+      "actions": 7550,
       "sources": 9
     },
     "fr": {
-      "actions": 7037,
+      "actions": 7038,
       "sources": 7
     }
   },
@@ -44,6 +44,43 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "15732bc2e8e4bc33",
+      "date": "2026-08-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/le-canada-et-mississauga-investissent-dans-les-infrastructures-de-transport-actif.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et Mississauga investissent dans le transport actif",
+      "sum": "Le gouvernement fédéral investit 8,8 millions de dollars pour améliorer les sentiers et pistes cyclables de Mississauga. Ces améliorations bénéficieront aux piétons et aux cyclistes de la région.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "6b2c2e715ce9dab5",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQm15U0VZd3M5YVh5LWlrZThKUjB0YWZnSGFwb1BJbTZPYmlsY0ZmTjhzRjFRQ1diYWpsLUU1X3VvRE0xVDc3b3BQMWhEZFZwV0lldW9BYm9sdVNDcHg4OWdPNzhLc2YwNFpMYzhGZFBVMUZjSjctelMzNXFTdzB5dTdYVzNnWXNfcEQ4WFBRQmdYcDZRUTdJYW01WkFzbVFMVHEzQjdrZXA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 - CityNews Montreal",
+      "excerpt": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 CityNews Montreal",
+      "cat": "Economy"
+    },
+    {
+      "id": "ae55eab5676e778d",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa05NX0lYQjFxX3Y5QWx2YmZsUXNGc3YwdkRCeGpKOUJNSmxTQUR5Ymx1aWd0UlNOVU51eEJCMkd0Mk85NE1VRlZRTVBLOFpTOXJYY2FzZWhzMGVubHprLWpFbWxOSmRRWmRpMTkzSGdZMG1sbTdEbjIzcVhzMkRBU2pHUjhYcWlrVnBfUTFiSFUwRlRhQzlJMEhwUERyVDRWd0U5WjJ3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 - CityNews Ottawa",
+      "excerpt": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 CityNews Ottawa",
+      "cat": "Economy"
+    },
     {
       "id": "a934f27b7a80caed",
       "date": "2026-08-22",
@@ -10254,44 +10291,6 @@
       "title": "Carney says government has ‘taken back control’ of immigration - CityNews Toronto",
       "excerpt": "Carney says government has ‘taken back control’ of immigration CityNews Toronto",
       "cat": "Economy",
-      "lang": "en"
-    },
-    {
-      "id": "47430fb182567073",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVAxa3NQbTJNMktZUElmdmNxSjVqdzRUWUVWMGJJdXlxLTlRWnl6M2NtcUFIZUwxWVlWTllmSW9ka29QSXNJaXd1eG1tTkpTQzk5alB4MW95aGg5QVlhQTZPeGd1aUtsMHVMcm1FcGxsd2JTVVN2TUJ2dFFzY0s0Tg?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Ottawa plans to end 'Netflix tax,' replace with public Canadian content funding: document - CBC",
-      "excerpt": "Ottawa plans to end 'Netflix tax,' replace with public Canadian content funding: document CBC",
-      "cat": "Finance",
-      "lang": "en"
-    },
-    {
-      "id": "47c6d14403a348a7",
-      "date": "2026-07-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/federal-government-invests-in-active-transportation-and-accessibility-improvements-in-antigonish.html",
-      "type": "Announcement",
-      "kind": "official",
-      "title": "Federal government funds active transportation and accessibility in Antigonish",
-      "sum": "The federal government is investing in active transportation infrastructure and accessibility improvements in Antigonish, Nova Scotia. The announcement was made by Parliamentary Secretary Jaime Battiste and Mayor Sean Cameron.",
-      "cat": "Infrastructure",
-      "ai": true,
-      "lang": "en"
-    },
-    {
-      "id": "2998501065809293",
-      "date": "2026-07-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2026/07/seizure-of-contraband-and-unauthorized-items-at-saskatchewan-penitentiary.html",
-      "type": "Announcement",
-      "kind": "official",
-      "title": "Contraband seized at Saskatchewan Penitentiary",
-      "sum": "Staff at Saskatchewan Penitentiary seized packages containing contraband and unauthorized items on July 25 and 27, 2026.",
-      "cat": "Public safety",
-      "ai": true,
       "lang": "en"
     }
   ]
