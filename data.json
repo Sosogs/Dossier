@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T01:18:29.591Z",
-  "count": 14580,
+  "generatedAt": "2026-08-22T06:41:52.918Z",
+  "count": 14584,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "23fb9ff66c5ae463",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YWXYyY0pjdWdwM01zNHpaVmNSTWxNUnI3RFJZbHZjSnFPSWQ2S2VwUVE2c0Jaak8tMEYtTVNPWFdfQ3lDdkk1dlpfbDg1Qnh0cDYzVl9FWWZxc0RvWjZvOTY3ZUVmYnVOcUViS3FINE1BZXhqUndV?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says he's suspending trade talks and matching new U.S. tariffs - National Post",
+      "excerpt": "Carney says he's suspending trade talks and matching new U.S. tariffs National Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "c127c73d2b78a773",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion - NBC News",
+      "excerpt": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion NBC News",
+      "cat": "Economy"
+    },
     {
       "id": "4e1fed61e337c437",
       "date": "2026-08-21",
@@ -1066,6 +1090,18 @@
       "lang": "en",
       "title": "The Carney government is concerned about Canada’s entrepreneurial exodus. Here’s how to fix it - The Hub | More Signal. Less Noise.",
       "excerpt": "The Carney government is concerned about Canada’s entrepreneurial exodus. Here’s how to fix it The Hub | More Signal. Less Noise.",
+      "cat": "Economy"
+    },
+    {
+      "id": "47c5462d5387c6ea",
+      "date": "2026-08-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTRYd1FaRHloVlMzcV82ZXMydzRpTmdhQ1l3QlJBbDdmTlRDR3J6MmdiYnZ5XzViSE0ySW9hMjl5MmxKZkl5TFhWTFMyTmpUSjFWdVR3bjgxLVdET01na29HNC1uSVJxN2RDTVBFdnJUdklPQl9kQUZpRU82RHVfZjJ3VXpoVWJqWWxUOGFZU0haTjIxdVV4ZXkyNnRtWDhVSHdaOFFTQjM0bmdXbkdob3F0WW1UZGZSalQ1dFJSOGZ4d3BYdmh5Q2RRSVQwUzFs?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Trump pauses 50% tariffs on Canada, cites pending deal. But PM Carney warns ‘important work’ still needed - BNN Bloomberg",
+      "excerpt": "Trump pauses 50% tariffs on Canada, cites pending deal. But PM Carney warns ‘important work’ still needed BNN Bloomberg",
       "cat": "Economy"
     },
     {
@@ -14031,6 +14067,18 @@
       "excerpt": "On Tuesday, premiers from nine provinces signed a landmark agreement to implement direct-to-consumer alcohol sales, allowing Canadians to order alcohol directly from producers in participating provinces for personal…",
       "cat": "Intergovernmental affairs",
       "lang": "en"
+    },
+    {
+      "id": "714e3bf23c1f9816",
+      "date": "2026-07-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOREU1U1RobWJ1a0lWQzFHQ1pDNkMySmlHTGhaamdQMjR5cHFHRWVDei1FZHczTjhaX243T0dKV3lPU2dGbkpWWTdBSGU1OEQ1Z1RQSFl2c0dtMXZjNXZmQ3UxNEh1amtHR2gzVUNoUG5qbDJkU3NIS1R1UzdHbTg3bWxOODU4a1RkQ1RkU3Q2WEpudXk5Um9zeFN0SndQME9ZdGtPamhvSWFYbEFYRFpZRXBSUXJaWWVfTjNwRzFQUXUwMzQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government hastens fiscal decline while ‘investing’ in uncertain economic growth - Fraser Institute",
+      "excerpt": "Carney government hastens fiscal decline while ‘investing’ in uncertain economic growth Fraser Institute",
+      "cat": "Finance"
     },
     {
       "id": "0e61a8e8e1befc9c",
