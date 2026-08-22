@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T06:41:52.918Z",
+  "generatedAt": "2026-08-22T12:41:17.638Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7547,
+      "actions": 7548,
       "sources": 9
     },
     "fr": {
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "a934f27b7a80caed",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYnFpR0VNbzdTRjhpUkYxcG5seHk1S2xqWjBPQnV2ZDE3blc2UTdiLUsxeFo3N1F1eDNFaTE4a0VwSzh4V3VaM2VJYlNLSXdMZFVIeVg1OHhhWUZISU1QaHg0VVByZXlyWDhJcURpMEJfUEpDSEFKT0o5MXdzMmVva1YzeUJ5Rm5yM2pmMEhWUnlpTkJhQ05rbWR5UVZwVElDQXpfYzczODNOOFhfS0MwOXRySHZMTzJhQmpqdjBuMEpYd2M4anY0MjhoekdDZ3dkSzdlSVdNcHBtLV9fU2ZxSF9XR1VhdGFIeTBZWA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canadian citizenship applicants surging after ‘Lost Canadians’ law passed, testing Carney government’s immigration control promise - The Hub | More Signal. Less Noise.",
+      "excerpt": "Canadian citizenship applicants surging after ‘Lost Canadians’ law passed, testing Carney government’s immigration control promise The Hub | More Signal. Less Noise.",
+      "cat": "Justice"
+    },
     {
       "id": "23fb9ff66c5ae463",
       "date": "2026-08-22",
@@ -10279,19 +10291,6 @@
       "title": "Contraband seized at Saskatchewan Penitentiary",
       "sum": "Staff at Saskatchewan Penitentiary seized packages containing contraband and unauthorized items on July 25 and 27, 2026.",
       "cat": "Public safety",
-      "ai": true,
-      "lang": "en"
-    },
-    {
-      "id": "ba1b865c4fe5d0c8",
-      "date": "2026-07-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/07/recreational-harvester-fined-5500-for-multiple-fisheries-act-violations-in-burrard-inlet-british-columbia.html",
-      "type": "Announcement",
-      "kind": "official",
-      "title": "Recreational fisher fined $5,500 for Fisheries Act violations",
-      "sum": "A recreational harvester in Burrard Inlet, British Columbia was fined $5,500 for violating multiple Fisheries Act regulations. Fisheries and Oceans Canada enforces fishing rules to protect fish populations and habitats for Indigenous communities, recreational harvesters, and commercial operators.",
-      "cat": "Wildlife",
       "ai": true,
       "lang": "en"
     }
