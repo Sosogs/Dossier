@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T18:38:55.234Z",
-  "count": 14564,
+  "generatedAt": "2026-08-22T01:18:29.591Z",
+  "count": 14580,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,148 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "4e1fed61e337c437",
+      "date": "2026-08-21",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/canada-marks-the-start-of-major-infrastructure-upgrades-at-5th-canadian-division-support-base-gagetown.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada begins major infrastructure upgrades at Gagetown military base",
+      "sum": "A groundbreaking ceremony marks the start of construction for new infrastructure at 5th Canadian Division Support Base Gagetown. The event will be attended by the Parliamentary Secretary to the Minister of National Defence on behalf of the Defence Minister.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "60dd07bb00c71cd6",
+      "date": "2026-08-21",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/investments-in-active-transportation-for-the-durham-region.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal government invests $3.3 million in Durham Region active transportation",
+      "sum": "The federal government is providing over $3.3 million to Durham Region to build and improve multi-use paths, trail connections, and related amenities for active transportation and recreation.",
+      "cat": "Transportation",
+      "ai": true
+    },
+    {
+      "id": "fb93d7a47b3f1da7",
+      "date": "2026-08-21",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/national-film-board/news/2026/08/the-nfb-at-ridm-2026-works-by-two-avant-garde-filmmakers-included-in-the-first-wave-of-program-announcements-karl-lemieuxs-experimental-platforms-a.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "NFB films selected for Montreal International Documentary Festival 2026",
+      "sum": "The National Film Board has two documentary films selected for the Montreal International Documentary Festival's 29th edition in November 2026. The films are Karl Lemieux's Platforms and Matthew Rankin's Ladies and Gentlemen, Brian Mulroney.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "5949d03561e4292c",
+      "date": "2026-08-21",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/national-film-board/news/2026/08/the-nfb-at-the-2026-quebec-city-film-festival--strong-showing-by-quebec-citybased-filmmakers-with-two-short-films-in-official-competition-and-a-fea.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "National Film Board presents three films at Quebec City Film Festival",
+      "sum": "The National Film Board of Canada is participating in the 2026 Quebec City Film Festival with three films in the official selection, including two short films and one feature film that combines documentary and visual art. Two of the participating filmmakers have significant connections to Quebec City.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "96fd2fe174236082",
+      "date": "2026-08-21",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/tariff-response-sme-gilbert-products-receives-3m-in-repayable-assistance-from-government-of-canada-to-boost-its-competitiveness.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Small manufacturer receives $3M repayable loan for competitiveness",
+      "sum": "Gilbert Products, a small manufacturing business in Roberval, received $3 million in repayable financial assistance from the Government of Canada. The funding aims to help the company maintain competitiveness amid changing market conditions.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "995cf5007cd58e85",
+      "date": "2026-08-21",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/08/le-canada-marque-le-debut-dimportants-travaux-de-modernisation-des-infrastructures-a-la-base-de-soutien-de-la-5e-division-du-canada-gagetown.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada débute modernisation des infrastructures à Gagetown",
+      "sum": "Le Canada lance d'importants travaux de modernisation des infrastructures à la Base de soutien de la 5e Division du Canada à Gagetown. Une cérémonie d'inauguration marquera le début de ces travaux.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "ef04a34a6ec3a482",
+      "date": "2026-08-21",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/investissements-dans-le-transport-actif-dans-la-region-de-durham.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Investissement fédéral de 3,3 millions dans le transport actif à Durham",
+      "sum": "Le gouvernement fédéral investit plus de 3,3 millions de dollars dans la région de Durham pour améliorer les options de transport actif et de loisirs. Cet investissement permettra de créer et d'améliorer des sentiers polyvalents ainsi que de nouvelles connexions entre les sentiers.",
+      "cat": "Transportation",
+      "ai": true
+    },
+    {
+      "id": "91b899762673ab03",
+      "date": "2026-08-21",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/office-national-film/nouvelles/2026/08/lonf-aux-ridm--deux-cineastes-avant-gardistes-figurent-dans-la-premiere-vague-dannonces-avec-le-film-experimental-plateformes-de-karl-lemieux-et-la.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "ONF présente deux films aux Rencontres internationales du documentaire",
+      "sum": "L'Office national du film du Canada participe aux Rencontres internationales du documentaire de Montréal en novembre 2026 avec deux films : « Plateformes » de Karl Lemieux et « Mesdames et Messieurs, Brian Mulroney » de Matthew Rankin.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "c4e2558cc32fd7a9",
+      "date": "2026-08-21",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/office-national-film/nouvelles/2026/08/lonf-au-festival-de-cinema-de-la-ville-de-quebec-2026--une-forte-presence-de-cineastes-de-quebec-deux-courts-metrages-en-competition-officielle-et-.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "L'ONF présente trois films au Festival de cinéma de Québec 2026",
+      "sum": "L'Office national du film du Canada participe au Festival de cinéma de la ville de Québec 2026 avec trois films en sélection officielle. Deux courts métrages et un long métrage seront présentés, dont des œuvres de cinéastes ayant des liens avec Québec.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "ce3849a8aa5c1f67",
+      "date": "2026-08-21",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-regions-quebec/nouvelles/2026/08/reponse-tarifaire--la-pme-les-produits-gilbert-recoit-3-m-daide-remboursable-du-gouvernement-du-canada-en-appui-a-sa-competitivite.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Les Produits Gilbert reçoit 3 millions en aide remboursable",
+      "sum": "Le gouvernement du Canada accorde 3 millions de dollars en aide remboursable à la PME Les Produits Gilbert de Roberval. Cette aide vise à soutenir la compétitivité du manufacturier face aux conditions de marché incertaines.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "dd89ea3b6bd926a5",
+      "date": "2026-08-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGNMb1VjRG5POWRNZ2RHUkxKVGlReWk5cXRvN2FtMFo3aThCM0NrU0FNbEdRUWJZODN4UHdIa1liQ3BULUNwOGR0Vzl6NlhfNnRUdV8tVUZNTzNhaTFVRkZuTld0S1pqZlV2Tmg4UlpGRU5ZOEJQU1B2WDNfcVV6TENYb2JJaVAzdlRkMFhfNnZ0bnhS?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Global Affairs jacks up hospitality spending 53 per cent - Canadian Taxpayers Federation",
+      "excerpt": "Global Affairs jacks up hospitality spending 53 per cent Canadian Taxpayers Federation",
+      "cat": "Healthcare"
+    },
     {
       "id": "766eb8895cc03067",
       "date": "2026-08-21",
@@ -9554,6 +9696,18 @@
       "cat": "Transportation",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "a00deaa5115a3432",
+      "date": "2026-07-29",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaDZsWUVJcm9xUHF3N1ZMdzNha1pCSVFaQjFydWMwaVB1R3JzUU9hdlQ0R24ySVpSclIwb2J2SENwZFQ5N3ZtRngzaGRTeUM1bkEzYU1JUDR0ZnJDLTdxUnhzSmxweG9qSVpTejdjT0Y5ZmVFOUdVU0JrZmZYa3AxOUxvalctVVZTMVNpR0ZtOE11c0JPam5wU2hTSFdMU2I0Zk9vSEg1Xy1QRGJZN1NSUmtFUWRkdkJ3b21WSEtiY09GZEJvd0dYNTd2T0s3UWk0eW5SUnV3aw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Plus de 10 000 fonctionnaires fédéraux ont fait une demande de retraite anticipée - La Presse",
+      "excerpt": "Plus de 10 000 fonctionnaires fédéraux ont fait une demande de retraite anticipée La Presse",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "bc9f94414daafa70",
@@ -32835,6 +32989,18 @@
       "cat": "Indigenous services",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "558ec280f2072a7f",
+      "date": "2026-06-22",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0E3ek43WFp1UzBLZHVTdkxCVkVDbTNNMW1LbU1tY0RCRG1FSm44WnkzN2NFUDFUZnUwQTJSVGdVbVBCbmozdzVxenhDYVRhSkZNTE1ZQXVfUTJ6X0pQTTc2ZGZwOHBIbDYyaFFmU0c2YmltN2k3WXppaGNYSTFmVDFzbEVXcmlHZDRRR1c4X3ktNUtPNlhpNWVYaVRnd3ZTMzlYSElpUENKSTYydWZ3U0dmZFFOUzEzdGFmQ1F0djVScy1USTlCT1ZLZUhJRS1a?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney envisage de construire jusqu’à 10 nouveaux réacteurs nucléaires - Le Devoir",
+      "excerpt": "Le gouvernement Carney envisage de construire jusqu’à 10 nouveaux réacteurs nucléaires Le Devoir",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "09a1c33727f3be96",
@@ -62236,6 +62402,18 @@
       "lang": "en"
     },
     {
+      "id": "ee6b759919ce1c2a",
+      "date": "2026-04-26",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVk1XOEhJUHdzd2NDSmNBdGkxd1Q2UnRtRWp4MEFLZlFlT1R4LU40Vk02Zl9jR1UzUUVNal9OX2RIYjA0TURkelFVWnZzTkNpMHY2b3lRamVTOTFySnJEVi1xTjVtWWdhZG1iMjhYVlZHRnJWajRHa3NmSThIbXFNRFln?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Ottawa annonce la création du premier fonds souverain - Radio-Canada",
+      "excerpt": "Ottawa annonce la création du premier fonds souverain Radio-Canada",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "c6e9a42b5f1787ee",
       "date": "2026-04-26",
       "src": "Government of Canada",
@@ -69186,6 +69364,18 @@
       "ai": true
     },
     {
+      "id": "f1f1ec788e1a4d62",
+      "date": "2026-04-10",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUVvNjcyeDlhX3ZDejhld0xkeHRMSndDYmxFVmdsNEhEbHlvbE9jUGFJN3dkeU1NOVBPaWEyV2ZJcFdEZUVSZG4wOEtNQU8yaERaUkswanNYMURsMzI1WFZ3RU92Yl9DT2otaEVISzBUcVBZbkl0dTVBdWxWZTFXQXVSX3J1eno5akNJWQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Itinérance : Montréal demande l’aide du fédéral, Carney ouvert à des solutions communes - Radio-Canada",
+      "excerpt": "Itinérance : Montréal demande l’aide du fédéral, Carney ouvert à des solutions communes Radio-Canada",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "db551cf8720ba244",
       "date": "2026-04-10",
       "src": "Government of Canada",
@@ -70054,6 +70244,18 @@
       "sum": "Le ministre Champagne annonce un investissement du Fonds de croissance du Canada dans la construction de la mine Matawinie exploitée par Nouveau Monde Graphite. Le gouvernement considère l'exploitation et le raffinage du graphite comme essentiels pour l'économie canadienne et les secteurs stratégiques.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "54c3856afa0a21ef",
+      "date": "2026-04-08",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDhXOE5XUmpkTmxaNXJEaXVmajVtNW5BVmtRa2dMNUVfeTdGTXFWREZYTTlaMU5CcFdMQ282TlpTTHR5eURoZEdIOVJNajdvUUdieHF5VEo1bTNleTZwV2JuWFVrSklSVEVOSFYzQWs2bmRkYm9LZWo0d19kQ29hU05oMnBOR1FEbGlIelJPbDBlS1p3aEFnY3pIUVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Une cinquième députée transfuge rapproche les libéraux de Mark Carney de la majorité - Le Devoir",
+      "excerpt": "Une cinquième députée transfuge rapproche les libéraux de Mark Carney de la majorité Le Devoir",
+      "cat": "Economy"
     },
     {
       "id": "3640a8b65dce84d6",
