@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T06:42:31.321Z",
-  "count": 14654,
+  "generatedAt": "2026-08-23T12:42:30.265Z",
+  "count": 14656,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "dbe1f1fa4113c741",
+      "date": "2026-08-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFVrMHEwa243YWhoWU5NZEZCQVpneFRjYmNNd0VSS3ZLLTBrb3pHRjJnOElJM1A0XzBFYWFFOFp1QU5tTExwVURQOUhNVHhOTmhVQVJMcWtpOTJQek9MbXcyVWRZQ0lFV05JNWxHaG1uNEtEUDd4LU1ld0xoZENOZFRGNHFfT2l1aGlNd1hTcHNRcS1iQ3J1YmpNNFRJdzBLdHowcTlaZWhhZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The latest on trade negotiations between Canada and the United States - EverythingGP",
+      "excerpt": "The latest on trade negotiations between Canada and the United States EverythingGP",
+      "cat": "Economy"
+    },
+    {
+      "id": "b33be3b05a9ae8e8",
+      "date": "2026-08-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlFXMm14RmxjSERNbk9vaFM3enVUbWNkSVIzMFpWZ3FZaFk5dktsZ3Z6NlRzNERWazBGYktJcE5vQVpUang2WE9BX1FJTDVGX24tak5PRGZxZlIzaVVxLUJCUThBRU9ycHVVUEs0QjFZaXh6bnZwSU1GRTVReUNjelVCU3NkUWs3UmVqc05TVWJOSGpGdnJDZDBKTjg1Y0NhUTFkNDdmZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 - CityNews Halifax",
+      "excerpt": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 CityNews Halifax",
+      "cat": "Economy"
+    },
     {
       "id": "d88744e60aa7839d",
       "date": "2026-08-23",

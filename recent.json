@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T06:42:31.321Z",
+  "generatedAt": "2026-08-23T12:42:30.265Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7613,
+      "actions": 7615,
       "sources": 9
     },
     "fr": {
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "dbe1f1fa4113c741",
+      "date": "2026-08-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFVrMHEwa243YWhoWU5NZEZCQVpneFRjYmNNd0VSS3ZLLTBrb3pHRjJnOElJM1A0XzBFYWFFOFp1QU5tTExwVURQOUhNVHhOTmhVQVJMcWtpOTJQek9MbXcyVWRZQ0lFV05JNWxHaG1uNEtEUDd4LU1ld0xoZENOZFRGNHFfT2l1aGlNd1hTcHNRcS1iQ3J1YmpNNFRJdzBLdHowcTlaZWhhZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The latest on trade negotiations between Canada and the United States - EverythingGP",
+      "excerpt": "The latest on trade negotiations between Canada and the United States EverythingGP",
+      "cat": "Economy"
+    },
+    {
+      "id": "b33be3b05a9ae8e8",
+      "date": "2026-08-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlFXMm14RmxjSERNbk9vaFM3enVUbWNkSVIzMFpWZ3FZaFk5dktsZ3Z6NlRzNERWazBGYktJcE5vQVpUang2WE9BX1FJTDVGX24tak5PRGZxZlIzaVVxLUJCUThBRU9ycHVVUEs0QjFZaXh6bnZwSU1GRTVReUNjelVCU3NkUWs3UmVqc05TVWJOSGpGdnJDZDBKTjg1Y0NhUTFkNDdmZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 - CityNews Halifax",
+      "excerpt": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 CityNews Halifax",
+      "cat": "Economy"
+    },
     {
       "id": "d88744e60aa7839d",
       "date": "2026-08-23",
@@ -10266,32 +10290,6 @@
       "title": "Annonce conjointe sur l'infrastructure à Victoria",
       "sum": "Des représentants fédéraux, provinciaux et municipaux tiendront une conférence de presse à Victoria pour annoncer une initiative d'infrastructure. L'événement réunira le député fédéral Will Greaves, la députée provinciale Darlene Rotchford, et des dirigeants municipaux de la région.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "15c25cf25424e6e4",
-      "date": "2026-07-29",
-      "src": "Immigration, Réfugiés et Citoyenneté Canada (IRCC)",
-      "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2026/07/le-canada-etend-le-renouvellement-en-ligne-du-passeport-a-tous-les-adultes-admissibles0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada étend le renouvellement en ligne du passeport à tous les adultes",
-      "sum": "Le gouvernement du Canada élargit son service de renouvellement de passeport en ligne pour tous les adultes admissibles. Ce service numérique vise à réduire les délais de traitement et les visites en personne.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "d93a24e53871eab3",
-      "date": "2026-07-29",
-      "src": "Ressources naturelles Canada (RNCan)",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/07/document-dinformation--le-gouvernement-federal-investit-dans-des-projets-denergie-propre-au-yukon-au-nunavut-et-aux-territoires-du-nord-ouest-pour-.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le gouvernement fédéral finance des projets d'énergie propre dans trois territoires",
-      "sum": "Le gouvernement fédéral investit près de 7 millions de dollars dans huit projets d'énergie propre au Yukon, aux Territoires du Nord-Ouest et au Nunavut. Ces projets visent à fournir de l'électricité propre, fiable et abordable dans ces régions.",
-      "cat": "Sustainable development",
       "ai": true
     }
   ]
