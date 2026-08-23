@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T12:42:30.265Z",
+  "generatedAt": "2026-08-23T18:31:46.583Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7615,
+      "actions": 7618,
       "sources": 9
     },
     "fr": {
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "6807ae74e6da9fc6",
+      "date": "2026-08-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYV9xWnFpMVR3YVlZVmRnWTVaaWhyUzZ2UGNZLWV5aFhsa2JBZzNSQ09VcVhGdV9YLVlyVHluNjMxMGxLc09kQWNtV2c3ZnBINHcxVDd3SmJZeWlIMHJtWk9HZzlXckpDbE96cmlLbldkZmdJaVQwUlJiR2tneXhIVVZYQ2tfNU0zZmV1b1QxSGhYQUhnWmZraXRROWo2Z0VYY3hDTDJkcHNZZkZKa2hZUFl3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Opinion: Is Mark Carney’s ‘Canada Strong’ brand starting to wane? - Castanet",
+      "excerpt": "Opinion: Is Mark Carney’s ‘Canada Strong’ brand starting to wane? Castanet",
+      "cat": "Economy"
+    },
     {
       "id": "dbe1f1fa4113c741",
       "date": "2026-08-23",
@@ -10277,19 +10289,6 @@
       "title": "Investissements fédéraux pour le sport et les loisirs en Alberta",
       "sum": "Le secrétaire d'État van Koeverden a visité Calgary et Canmore pour rencontrer des jeunes, athlètes, entraîneurs et dirigeants sportifs. Il a présenté des investissements fédéraux destinés à soutenir le système sportif et les loisirs en Alberta.",
       "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "66ecc966a9bcd7a6",
-      "date": "2026-07-29",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/annonce-en-matiere-dinfrastructure-a-victoria0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce conjointe sur l'infrastructure à Victoria",
-      "sum": "Des représentants fédéraux, provinciaux et municipaux tiendront une conférence de presse à Victoria pour annoncer une initiative d'infrastructure. L'événement réunira le député fédéral Will Greaves, la députée provinciale Darlene Rotchford, et des dirigeants municipaux de la région.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]

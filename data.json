@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T12:42:30.265Z",
-  "count": 14656,
+  "generatedAt": "2026-08-23T18:31:46.583Z",
+  "count": 14659,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "6807ae74e6da9fc6",
+      "date": "2026-08-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYV9xWnFpMVR3YVlZVmRnWTVaaWhyUzZ2UGNZLWV5aFhsa2JBZzNSQ09VcVhGdV9YLVlyVHluNjMxMGxLc09kQWNtV2c3ZnBINHcxVDd3SmJZeWlIMHJtWk9HZzlXckpDbE96cmlLbldkZmdJaVQwUlJiR2tneXhIVVZYQ2tfNU0zZmV1b1QxSGhYQUhnWmZraXRROWo2Z0VYY3hDTDJkcHNZZkZKa2hZUFl3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Opinion: Is Mark Carney’s ‘Canada Strong’ brand starting to wane? - Castanet",
+      "excerpt": "Opinion: Is Mark Carney’s ‘Canada Strong’ brand starting to wane? Castanet",
+      "cat": "Economy"
+    },
     {
       "id": "dbe1f1fa4113c741",
       "date": "2026-08-23",
@@ -87627,6 +87639,18 @@
       "lang": "fr",
       "title": "Politique au Canada : les libéraux atteignent 49% des intentions de vote, une avance de 14 points sur les conservateurs - leger360.com",
       "excerpt": "Politique au Canada : les libéraux atteignent 49% des intentions de vote, une avance de 14 points sur les conservateurs leger360.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "2c29d40c5639ae91",
+      "date": "2026-03-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Fa1NIMUhJTjNCQ2FBUk5TREFROU5KZVhrS3ZFbzVhNlBKcDR4V2hOSkdTYW5Kcnp0eG1MV1h0bUM5N1NLU0pjNmFvazRkcEpERFJWbzk4WHQ3dm82V1NYSGY3OW9sbU05VVB0Y0lpWTNWZzdCQlhxcTN1YXlQUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney shakes up senior ranks of the public service - CBC",
+      "excerpt": "Carney shakes up senior ranks of the public service CBC",
       "cat": "Economy"
     },
     {
@@ -182358,6 +182382,18 @@
       "sum": "Le ministre des Finances du Canada se rendra à Washington cette semaine pour coprésider une réunion des ministres des Finances et gouverneurs des banques centrales du G7, en collaboration avec le gouverneur de la Banque du Canada. Cette réunion se tiendra dans le cadre de la présidence canadienne du G7.",
       "cat": "Finance",
       "ai": true
+    },
+    {
+      "id": "e9d4e7a1d7b5ccf4",
+      "date": "2025-04-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXFaOFhGMUktM3IxNXZYN1hSbVczdTN4OGgxX2R1WVUyaVptc2R2RkxZVVBKeDYzVW4yS0V1U29oRW1kMDhJTURiU3E3RU5ma2VQZjlxRHFTbDZqNU1TeHFVNTEwSTlodlZXaVUxbVZiV2stbDE1ZXpPR0F5cmYtUE5XdWVoWW44QzZjRC1sQUZERXpYNnJobG1hT0F3clZtVmc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney’s Liberals to protect and modernize Canada’s public health care system - Liberal Party of Canada",
+      "excerpt": "Mark Carney’s Liberals to protect and modernize Canada’s public health care system Liberal Party of Canada",
+      "cat": "Healthcare"
     },
     {
       "id": "cf873386fc7dff2d",
