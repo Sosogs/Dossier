@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T02:34:14.663Z",
-  "count": 14603,
+  "generatedAt": "2026-08-23T06:42:31.321Z",
+  "count": 14654,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -44,6 +44,42 @@
       "lang": "en",
       "title": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. - CTV News",
       "excerpt": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "db90bda10330b0d9",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnVwRXBDOEZwVlFzeXk5OVpLSV9NV25IMmMtak9VVktKRU5MX3Zody1XejJZSm44S1Ita3VQUVhrRU9iM0Q4WWlBV2RhaGVpdUdtT3JoMDZZQVJRSGQxcFh6aW4zT2hHUnllejBDVncweXFrRUNMVnYySXJ6bFFrd3NFXzg3dllNano3eFlfeGpUbDhMTlJ3N3d2YXI4Q3AyZnh4LVhlc0xvbFpLNDE0XzNxZ3c0RUtUZVpz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "As premiers rally behind Carney in trade dispute, Alberta’s Smith questions retaliation plan - The Globe and Mail",
+      "excerpt": "As premiers rally behind Carney in trade dispute, Alberta’s Smith questions retaliation plan The Globe and Mail",
+      "cat": "Economy"
+    },
+    {
+      "id": "00d1542289cac320",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmh0MkJNOVV0ZzVMcFVmYkZkd2FXaWs4S2N6N1hCLURodmc1VzdEb01PbFZrZEZjUWdKTjh3aHlfOEw3dDYxU1lMMXdJM0YyTjVnc1BmSlJ0OXh3TEpTMEdnRDdIVVFUeTJRZXlvRVc4Q29qNTJjSV9TcGNtLTYxMnRrVW9QRWQwV0R6MWEtdWszbk1WMnZtYmJQQnlhbmxWd3RELWFNYzBxWnE4NmJvbQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The latest on trade negotiations between Canada and the United States - Lethbridge News Now",
+      "excerpt": "The latest on trade negotiations between Canada and the United States Lethbridge News Now",
+      "cat": "Economy"
+    },
+    {
+      "id": "fa17bd9b04accfcd",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlVHVWZSeVFSY0J3ZTFTS2dMT1JhUlc0Y2liMkdZd1BmSGc3ek9xMGk4ODBrR2RGSnhhV3EydF9wWTAyeGZITXVGNGVRVkZBS3NVVEFTN3dNSEMtVUoxc0k3ZXd3YXZRYWNXS2tPNVRId3ZHUDg4UURZcnBRZ044R2N1VTg2cmxqQUE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Alberta premier urges return to trade talks, calls U.S. terms 'untenable' - CBC",
+      "excerpt": "Alberta premier urges return to trade talks, calls U.S. terms 'untenable' CBC",
       "cat": "Economy"
     },
     {
@@ -38228,6 +38264,18 @@
       "lang": "en"
     },
     {
+      "id": "a38f0e7552a2ec8c",
+      "date": "2026-06-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjRXMDBQY2ZuN294YmhERVJDV2FnUnV3WFR5d0tTTDVXemoxdTVtNjBMZVQ2VG9GTnJNek52VEpndkF0ZjBKVkp0aU5SM0JLaHpfX01MLXg4dGROdWZJNlBDel9ia3QzQnRtQS1xM2xIR1N2N0NTYnhnRERYVl9RS09CeEctRWdtNXZYZUM0NUloUExSd2ZJNVRzZEFScTBMYl8xWF9GaUdMV2ZuUlo2YTJIelBvd1E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney launches National Food Security Strategy to build a more affordable and resilient food system in Canada - pm.gc.ca",
+      "excerpt": "Prime Minister Carney launches National Food Security Strategy to build a more affordable and resilient food system in Canada pm.gc.ca",
+      "cat": "Public safety"
+    },
+    {
       "id": "9e63f3651ca54ff6",
       "date": "2026-06-11",
       "src": "Canadian politics (via Google News)",
@@ -52311,6 +52359,18 @@
       "lang": "en"
     },
     {
+      "id": "cdd3045ebdde869a",
+      "date": "2026-05-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EWjRkaWQtZVFsRVlMTllWeG5kVmRDZkQ1WE1SUFY1SUdZTDZKWkFiOUpsQmtwRzFjN0h5VlR5dFR6ZU92SWdMTDhCQVFLSDU2YVQwRWE0VEp2QkJPWmtidEJlLVNsMHhkVnlXOGE1LXhzSHUzd0Nv?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Feds pitch ‘economic zones’ to fast-track major projects - The Narwhal",
+      "excerpt": "Feds pitch ‘economic zones’ to fast-track major projects The Narwhal",
+      "cat": "Economy"
+    },
+    {
       "id": "14d4167aa98bcf14",
       "date": "2026-05-14",
       "src": "Canadian politics (via Google News)",
@@ -61796,6 +61856,18 @@
       "lang": "en"
     },
     {
+      "id": "e37a3b7e6ba8f474",
+      "date": "2026-04-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHJWOHdtazBPd0t2dEF1MEFjeGdqQmVmblZtcmVPcU4xS0ZDN3VKS2QwYzdJMW5ESl9PbWFsbmNEU1N6dFZrRWZSaWFGN3NMc19YX0t0ZENVQkhmbTNjV3N5TmZ4bXN3RmI1TUY1RDE0S0VKMG1QVVNNSWtwOFBRWEpBU1ZkWld2YzNUSDkxa2c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "7 key takeaways from the Liberal government's spring economic snapshot - CBC",
+      "excerpt": "7 key takeaways from the Liberal government's spring economic snapshot CBC",
+      "cat": "Economy"
+    },
+    {
       "id": "4f96ea9071f3e8f7",
       "date": "2026-04-28",
       "src": "Politique canadienne (via Google News)",
@@ -63954,6 +64026,18 @@
       "excerpt": "Carney government to open its books next week with mini-budget Canada's National Observer",
       "cat": "Finance",
       "lang": "en"
+    },
+    {
+      "id": "66dc0a894ad79e40",
+      "date": "2026-04-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVNfUUk2VFNPenZTWFF3dzVJWTlHM0l2ak1XS3EtZ0FkcFlSMGpkOEdXdGExRFd6SnRmdGs0TDk0WUVHUU03R1JyWEdfbXpYWWhBSVhEbnVjMGhCYzdvMzRZNWwza3lIQVJheU1hb05CZ25TQjNDYzl6MUhCNDZSaGxCcWIydjNtOE8zc3Y4Uy1DR1F1WEhDbVExZUVycnFpWEJNRm5JZGNCQ19SUFdYT2NHNHYwRFFyZXBN?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney delivers on commitment to accelerate homebuilding in Ottawa - pm.gc.ca",
+      "excerpt": "Prime Minister Carney delivers on commitment to accelerate homebuilding in Ottawa pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "4038ffe938c03507",
@@ -68330,6 +68414,18 @@
       "excerpt": "ANALYSIS: What a majority government means for Mark Carney — and Canada TVO.org",
       "cat": "Economy",
       "lang": "en"
+    },
+    {
+      "id": "cb45e7fe5e5db8d3",
+      "date": "2026-04-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUnR5eFJHcEVBNnV3Z3RDUERDSHZUemNMZlMzTjdaamtUMS1VQXdsYmg0RTN3b0o3OFNnRlJpRkFjQWc5bjVmOHl5aGZDM0UxU2JNZ1ZQOC14OHFjLUw5bzk2Zmw2UGV3RWM4Q0ZhNkhSU2dSaUpycFloVndNOEp6Vm00eTJiWS01c3c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney’s government just became more powerful. Here’s why | story | Kids News - CBC",
+      "excerpt": "Mark Carney’s government just became more powerful. Here’s why | story | Kids News CBC",
+      "cat": "Economy"
     },
     {
       "id": "708f19b44e56b752",
@@ -74720,6 +74816,18 @@
       "lang": "en"
     },
     {
+      "id": "1e086737e867ac53",
+      "date": "2026-03-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzVZTDB6MXFKQ1M1Y25sSzhjMTNMTlZQcmZ0VkdzZjZPSldoWWZXdW80ckNCSHl4WWJ3U2MyMjl2OFZlM0RvY2pDSTRydkVGcjdrOXZNZVVqdGZyby0weVhHQVQyLWZ0SWJ6VjduWlRlU3pKc1ZtRENjbjhqWm5iUHJHTE1yQS1ZRHpQbU9DN0Q1UDJ3TlJYa0dtSWNvdmpSNlY2NDBjNlU0OHRnUUlhMDN2MjQ5ZTcwc3NZSw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney launches new nature strategy to protect Canada’s natural environment - pm.gc.ca",
+      "excerpt": "Prime Minister Carney launches new nature strategy to protect Canada’s natural environment pm.gc.ca",
+      "cat": "Sustainable development"
+    },
+    {
       "id": "33e062a9a81ad259",
       "date": "2026-03-31",
       "src": "Politique canadienne (via Google News)",
@@ -75508,6 +75616,18 @@
       "cat": "Public safety",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "8641aec50bad81ce",
+      "date": "2026-03-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQei1wN2NBWXlSaGxHZ29pTXBram1Bb0F4eTNLYVU0bDVCV0VIMHB0ZjhVZ3huN1pudlNqVWc5Uk5pM2xRQUQzRDJIQ251UVFvMEpxQndDX1JvaW8tSEdPUzhaZ0VXdFNSdHp3b20xNlBYVUtlT1B6WXBmUmhPcXR1Uk1jTEE2NTZ0cDNFMGFfYjE3SXpjc2VXTF9qUHBIVnFDYVgySm04anh3eVFiM21tWXRPNW8xN3pW?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney secures new partnership with Ontario to cut taxes on housing and boost supply - pm.gc.ca",
+      "excerpt": "Prime Minister Carney secures new partnership with Ontario to cut taxes on housing and boost supply pm.gc.ca",
+      "cat": "Housing"
     },
     {
       "id": "97e70b3800e3ca42",
@@ -86878,6 +86998,18 @@
       "ai": true
     },
     {
+      "id": "e3745d23de69e863",
+      "date": "2026-03-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QNHE4djd0TktYTzZ2UUxYZXNQcGgwbTZoYjZ1ejNVUW05bGYyM0dxbHoxQ2M1c1ZraVJVU3N4M0lFUmZKN2lUclRzV2pkU0FXUWxjeUVYWVVJSU1JQ1RqbUw5TGlFYldYR2lnUGxabXJPUlVoUHJN?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s deputy minister shuffle raises national security questions - Policy Options",
+      "excerpt": "Carney’s deputy minister shuffle raises national security questions Policy Options",
+      "cat": "Public safety"
+    },
+    {
       "id": "6dcc8946d5f09ea5",
       "date": "2026-03-05",
       "src": "Politique canadienne (via Google News)",
@@ -87471,6 +87603,18 @@
       "lang": "fr",
       "title": "Politique au Canada : les libéraux atteignent 49% des intentions de vote, une avance de 14 points sur les conservateurs - leger360.com",
       "excerpt": "Politique au Canada : les libéraux atteignent 49% des intentions de vote, une avance de 14 points sur les conservateurs leger360.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "459366069c72dd05",
+      "date": "2026-03-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN01McmtmYlQ2dlQxNk1UNGNSTGx2dmQ0SWdhbC1wUVV6MHZ1cGlSZXdndU02X3ZMRGY0R1lJOWw5ZVJoZUpLQnV3OUhVeFRpeU5CcFNibHhlX28wX0xJek5wQ2tySHdtNjMwWFJHemt5N2lnb0c1eEt0NXNfYkdtOVpIOWlWcXIwTEVEa09hRGhaVFl6a1hVdmYzXzFHeFpGLWxtS2FIN2ZZSjVSblZKVlYwZ3Nrcm51NGZqaVpn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces changes in the senior ranks of the public service - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces changes in the senior ranks of the public service pm.gc.ca",
       "cat": "Economy"
     },
     {
@@ -100266,6 +100410,18 @@
       "ai": true
     },
     {
+      "id": "d3d74f708808514d",
+      "date": "2026-02-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDM4cV9mcHV5eGpiOEppaVN1eVlwMklUTE00ZHlVNkpidWIzTGMxTENyQ1VWTFJJMkgtMmpnbEFXVkxySFpWa1h1aFc5cDFfNlhyUmJ6YUcydlVwMmU5WDcwWlFzdGx3cTFNelR4SlpaOU9vNExQQktlN0w3bC1nbDJMUDdpUzZn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "How is Carney's government filling high-level jobs? - CBC",
+      "excerpt": "How is Carney's government filling high-level jobs? CBC",
+      "cat": "Economy"
+    },
+    {
       "id": "b397a9c9a377cd20",
       "date": "2026-02-02",
       "src": "Politique canadienne (via Google News)",
@@ -103731,6 +103887,18 @@
       "ai": true
     },
     {
+      "id": "9419849ed31a6fed",
+      "date": "2026-01-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVZuWjZldlBmRDhEeVhFVmQxTUh6UVdNeU9Cd0s0VmVuNUpQTXJtcGs0enIzM19PYWhfUnlqVVRWSU82S2tUbUFBNWJCc2pPNEZ3UkRtUmpvUEhmM2s3NmhxbEQ0RGxYSkpfNDdhb2xhWHpWTU1QbUo4RlR3dm5oY0FqVC1lYVpoVC1ob2I1a202R2h4Q01wRnl0M0w3ZzhFZXRuOGNrTlhhNGJMMFZnclg4cUF3ZzFkcnc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "“Principled and pragmatic: Canada’s path” Prime Minister Carney addresses the World Economic Forum Annual Meeting - pm.gc.ca",
+      "excerpt": "“Principled and pragmatic: Canada’s path” Prime Minister Carney addresses the World Economic Forum Annual Meeting pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
       "id": "f39749e81c13ccb7",
       "date": "2026-01-20",
       "src": "Government of Canada",
@@ -104769,6 +104937,18 @@
       "sum": "Le gouvernement du Canada ouvre un programme d'indemnisation pour les propriétaires d'armes à feu de style arme d'assaut admissibles partout au pays. Le ministre de la Sécurité publique a annoncé le lancement de ce programme en collaboration avec les autorités québécoises.",
       "cat": "Public safety",
       "ai": true
+    },
+    {
+      "id": "a354f727ab5ee416",
+      "date": "2026-01-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVmpwRGowRThEYmRpOFJBaFNKU2szMFNMVzJNT1BTbmRNVVpOa3duc01jT3A1VUdDU2FDNjkzd09wN195anpwYTRxSTZLSFlHbU4zRmpIMWloZWNydk0xQ3pCdFVxdXZBSm5BaWlBdlBUbW1lMWR2T2tUaU5CdS1ZdHFjVkNoN1I0RG5yYjM4UmJXT0ZPd3RPN3E2enRjWG5OZnRMdjE5MXRGeTBsNTVWd0xNdUtENW8?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney forges new strategic partnership with the People’s Republic of China focused on energy, agri-food, and trade - pm.gc.ca",
+      "excerpt": "Prime Minister Carney forges new strategic partnership with the People’s Republic of China focused on energy, agri-food, and trade pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "7b3af3db1c1570ce",
@@ -108704,6 +108884,18 @@
       "lang": "fr",
       "title": "De Trudeau à Carney : comment le Canada a changé en 2025 - Radio-Canada",
       "excerpt": "De Trudeau à Carney : comment le Canada a changé en 2025 Radio-Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "dd0770097bd7af40",
+      "date": "2025-12-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX0w0b2lsRGpCdm1rT0NhelZjMzctWEZBRVVSNXUyM0VYVXZEdF9lTVJBV0xFdllaczBYTWk3MlRBZXRKN1A2Y1U5dFlDWHgyNzVsR1RTY2psSjdvTkRnZlVVYkFnNEJval92RElHaWxLdmx6a194WUxDUnFEYXY0NGRpRUdVLUI2cHU3WFJLRVlvWlZCeU9Ra2lmWk90dm1jSkpSUUNNYXA1VjJTMDlEaTZZTjZlcktibGVyOWpvNDBGektmSXNvTk1XMkVNdXFqLVZIdDNn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "2025 was Canada’s year of Mark Carney: What have we learned about his economic policy agenda? - Policy Alternatives",
+      "excerpt": "2025 was Canada’s year of Mark Carney: What have we learned about his economic policy agenda? Policy Alternatives",
       "cat": "Economy"
     },
     {
@@ -115775,6 +115967,18 @@
       "sum": "Le Canada participe à une réunion des ministres de l'Industrie, du Numérique et de la Technologie du G7 pour coordonner les efforts internationaux. Les discussions portent sur la paix, la sécurité, la stabilité économique mondiale et la transition numérique.",
       "cat": "Innovation, science & industry",
       "ai": true
+    },
+    {
+      "id": "895e2e3c4aa54c29",
+      "date": "2025-12-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1BXcUUwSlhwdVZVMFUwX2xYVG5MODZlaHJsRFFaUUx5TG5qLTktTGpOVHNYeGRqOXNDVnYtMWZxVDV3aVlNQmUyMU45eG5DYkhCZEo2aTZhT1lHUE9jVDZqNnJXU2cxdmpNRElJemJxSkdyNXE5N2ZPYzJjRTE3M0N1OFh4OGw4dEhySm9zc0hVSHVRYjNsYkJvM3g3Xy1teDdCQVJWVEhQSElKVkJfMld3alRGOEUxaEM0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces new initiatives for the City of Ottawa to build more homes, protect our communities, and elevate Canada’s international leadership - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces new initiatives for the City of Ottawa to build more homes, protect our communities, and elevate Canada’s international leadership pm.gc.ca",
+      "cat": "Foreign affairs"
     },
     {
       "id": "eb47231830eb33d5",
@@ -123912,6 +124116,18 @@
       "ai": true
     },
     {
+      "id": "8fc903acf8114b8e",
+      "date": "2025-11-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RWG5EM2xMWi1KZHVDUGZ4OUNIVUFVcjc4QkI2YnNmbGVUbXZycFhRQ0FBQnhPMmU2dEJlaWNjYXBScF9iZTVyQk05UGkwbG4xS0hNTGo2anY0Zw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada's parliament narrowly approves Prime Minister Carney's first federal budget - BBC",
+      "excerpt": "Canada's parliament narrowly approves Prime Minister Carney's first federal budget BBC",
+      "cat": "Finance"
+    },
+    {
       "id": "9b4f82abbe353d5f",
       "date": "2025-11-18",
       "src": "Government of Canada",
@@ -125352,6 +125568,18 @@
       "sum": "Le 11 novembre 2025, du personnel de l'établissement de Drumheller a saisi des colis contenant des objets interdits et non autorisés. Cette saisie a été effectuée grâce à la vigilance du personnel en place.",
       "cat": "Public safety",
       "ai": true
+    },
+    {
+      "id": "bdaa85cb2a1a5cbf",
+      "date": "2025-11-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMzdfVm9YdVhVSGlKZ0hVZFpDTktrZGtFdjJ6RE5HX2Q1U0JFbnVXR2RSRWs4bnQ5Q2ZNZXJhVGRBcEpuNGpQaFVVLUFvSVpXSFVxTE1JaXVRQnhWMy1VRlA3VEQ3aFo1dmNLczQtbUlocG9YN0RLZEhGcDI5aDFlRHBwd1Q5OGk0ekZQS2JkeDlKYk5WVW9zeTBmMzdPNXR6SGl0djFfdzRmQ1EtWnZFRXl3UU55QjJzU28xd25qZ3ZFUTA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces second tranche of nation-building projects referred to the Major Projects Office - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces second tranche of nation-building projects referred to the Major Projects Office pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "3374b05f7e50c5ec",
@@ -127224,6 +127452,18 @@
       "sum": "La ministre canadienne des Affaires étrangères a rencontré la secrétaire d'État britannique à Oakville en Ontario. Cette rencontre précède la réunion des ministres des Affaires étrangères du G7 prévue pour les 11 et 12 novembre 2025.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "7ac7f7bba4e964a8",
+      "date": "2025-11-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS1BmeFZEQVR1RUZZSzF2TUhkbi05OUlLTEwzUDNEU0RmVUp5VzFpVzFaOG5FWFJJWkJSQkdJQ0dlN3JDVjZaV2Y0SkJlZFdPSURkNXlreWF0WkJMVnh2eTYwVU13RWhXWGZJbVg4YUJpcHpzT3FIcVUtT2xRT1h1TE5GcFl1TC12Wm85ODZmSnM4R0NZRFY1RWFWdWVvSXRoVXhJaV9hel9fM3ZXYXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney outlines Budget 2025 measures to Buy Canadian - pm.gc.ca",
+      "excerpt": "Prime Minister Carney outlines Budget 2025 measures to Buy Canadian pm.gc.ca",
+      "cat": "Finance"
     },
     {
       "id": "9a5acd53259f0800",
@@ -130420,6 +130660,30 @@
       "sum": "La ministre des Affaires étrangères Anita Anand a annoncé les participants à la réunion des ministres des Affaires étrangères du G7 qui aura lieu dans la région de Niagara en Ontario les 11 et 12 novembre 2025.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "8637a4dd4b19ea60",
+      "date": "2025-11-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON2ozNmtqVXFsNVpOSmVFcFhYb0ZJNS1UdGZGNGNldFNELUN2RXdVMTh2QmZjNG5KTF9YWUJwajduVThxMlk0Nml5M3ZZNXVnNnpmSFBoSmQ1dV9qdlcwTkkwTVhaLUdFaS1GalNwblI0WlFvLXpDYnVRVnAzc05SWEpUaXZLUHRDQUhMQlQ1SWZCc014SFpESFpTamhoZUFTcGJJdHhPbjk4ZVZIVEtsRTM0YnJFQUc2QmRBZzE0TQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney shares Budget 2025 plan to build communities strong - pm.gc.ca",
+      "excerpt": "Prime Minister Carney shares Budget 2025 plan to build communities strong pm.gc.ca",
+      "cat": "Finance"
+    },
+    {
+      "id": "5a1dbdd3094d1f24",
+      "date": "2025-11-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14SE1IeFpxNVdrLXlOZWRDdHNDQnpkNmVUa2pCdzJURTQtdkhUZFRVbWNUVEtxNnBZeHQxdHJrQVhnYl9LX1RkODItdFFXWS1hUnBHb1dNZXlodw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Six takeaways from Canada's federal budget - BBC",
+      "excerpt": "Six takeaways from Canada's federal budget BBC",
+      "cat": "Finance"
     },
     {
       "id": "4e72079320077023",
@@ -135011,6 +135275,30 @@
       "ai": true
     },
     {
+      "id": "67cac6a7c4499d5b",
+      "date": "2025-10-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGVsdnlQS1ZjNnBSMUFrRktfbExmN1pMbXAxV2Yzemd0aS1OVExqSzZxRWMzZEZzaGpuSUV5ZTBKY0IzQmYxQTlaMGt3Rk1lell2LVFvbi1OXzhScnl4ZUl5Um9KUkhhZVBVdGdwMWpUcTA4MkRISjhIQ0N4WXlZcG4wRjhOMWgzNUh1TldHR0ZBcHZ6enY5VEFQMTNkbkFKZ3lrX2UyVkdTRC12Uzg1OENn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces major new investment to power Canada’s clean-energy future - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces major new investment to power Canada’s clean-energy future pm.gc.ca",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "3b1c99c568a4555b",
+      "date": "2025-10-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FWWtEM2dkcmZtVEdpQzdLOFRNVkk1XzNxZXpsem90NTZGUlhISUtjZWd1bWg1QS1EWG92aVd2SEhuckplN0NXWW5tRmM3eDV6Q1l1X0dkeTEzVXlFc3NPRkJQZTJJSkpmeEtLRGFva2s5NVlKb0dmRTRHNDBldw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Canada should prepare for ‘sacrifices’ as he outlines plan for budget - CBC",
+      "excerpt": "Carney says Canada should prepare for ‘sacrifices’ as he outlines plan for budget CBC",
+      "cat": "Finance"
+    },
+    {
       "id": "b6035f34ec4b8834",
       "date": "2025-10-23",
       "src": "Government of Canada",
@@ -136961,6 +137249,18 @@
       "ai": true
     },
     {
+      "id": "84232a1deb9a40a1",
+      "date": "2025-10-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmF2dkFOZjVRcHdhNklRbjlFUDZEVUdFVGlrdVFJQ3k5Q21GbE8wZ2h1T2FNdUtoUWUwRW9pbWJESnJiaEdjNGViS1pGeEtjOVgzREdkazcwcmVBbHRGdzR1STRYYjhYQ19xR2Z3anhfX3cySWRwY200OFQ4V09hdTJCTmZ4bW0tcnJZMllsZmtEdXZ1SFNqUkItbnpENVVZMHFIbXJpTGZhbThGS2c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces new measures to strengthen border security and keep Canadians safe - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces new measures to strengthen border security and keep Canadians safe pm.gc.ca",
+      "cat": "Public safety"
+    },
+    {
       "id": "85bbb1ff24e36ca4",
       "date": "2025-10-17",
       "src": "Government of Canada",
@@ -137219,6 +137519,18 @@
       "cat": "Education",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "2f527c9e1f2fdeb6",
+      "date": "2025-10-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaEZrT1RrMWtJajRRT0REQ2xkNVAtbjdjSmlBWWo0MktndTVYOEpUbTh3Y19UMWlBNFJqWnk3WFFMRDRDaC1mMjJVMWkxNl9JOGJNaG1lcFgySlZPR0hxRVR3eGdWeF9yMC1nM0FVa3pIMHVWdWdvZERkTm9yX3N2RDhNWXV2NkpUMWoxMGpwcVRzWTY1SjRwZGhfVDJ5cGN0U0FRWG41WWtsS2VPdkYyTQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces new measures to combat crime, protect Canadians, and build safer communities - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces new measures to combat crime, protect Canadians, and build safer communities pm.gc.ca",
+      "cat": "Public safety"
     },
     {
       "id": "affeb512c5d20b30",
@@ -142223,6 +142535,18 @@
       "sum": "Le gouvernement du Canada annonce des nominations à l'Office d'investissement du régime de pensions du Canada. Ces nominations sont faites selon des processus de sélection ouverts, transparents et basés sur le mérite.",
       "cat": "Finance",
       "ai": true
+    },
+    {
+      "id": "05bde979d98e10df",
+      "date": "2025-10-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU21EUmlIYVZhUWNiV0pNR1hxSlZiYzZ2ZXlRZXF6Q3Z4eWQ3QklTYjMwZGIzZzFraHh2RFdodVJmN1RtQUVyelhjVXJPNGZ1NzlQd09RUTBISHZhM3M5Sy1RZk9SVTYxWWR2T3prLW4tNmJkLWk5XzMwQ3BXODBOUGFQdzVFOGJORlZ6UHBCTDBlSlM2enhmZkhGM0dnSC1Da1hvS1Z1Tmx1VzA0b1N6QWx1YXVBUWVtODBVVlBwQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney launches new Defence Investment Agency to rebuild, rearm, and reinvest in the Canadian Armed Forces faster - pm.gc.ca",
+      "excerpt": "Prime Minister Carney launches new Defence Investment Agency to rebuild, rearm, and reinvest in the Canadian Armed Forces faster pm.gc.ca",
+      "cat": "National defence"
     },
     {
       "id": "67c81d68e6e7244d",
@@ -148621,6 +148945,18 @@
       "ai": true
     },
     {
+      "id": "275fe4327e6e4436",
+      "date": "2025-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZk5DN25NXzJOb19SUnlQRElnMjd3NGxWUy1wUEJtcUV4SkR5a3hMTHQ5d2kzUVJ3dmNPd1UzRDA4YWdickJpRlpWdE1ndXVvbEpCM3FsNWRZZ0pmSlg4SExaSUpvVUlGbkFkMldVaS1jMUV3QVFySlhjVFZrYTYwWUVHQ2lxb3dPZWJCWC01RmpyVUdYQksybFNNZ2Fhdjh5blRISWQ0aHppVk12bm9HeWlZRzQ1Rl85M3BUdW14X2h5dlo0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Build Canada Now: The energy sector’s potential for the good of Canada - Enbridge Inc.",
+      "excerpt": "Build Canada Now: The energy sector’s potential for the good of Canada Enbridge Inc.",
+      "cat": "Natural resources"
+    },
+    {
       "id": "7d72383e9c58751a",
       "date": "2025-09-15",
       "src": "Government of Canada",
@@ -148801,6 +149137,18 @@
       "sum": "La ministre de l'Environnement approuve le projet Ksi Lisims LNG, un terminal de liquéfaction de gaz naturel et maritime en Colombie-Britannique, qui peut maintenant avancer vers l'étape des demandes de permis. Cette approbation suit une évaluation d'impact réalisée par la province.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "1c6f9d386daa1116",
+      "date": "2025-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFZCZGdPU21jcEU3SVNsQ2pxLVBwUnJBeElUajlXRVlPbTl6Rm80d2tWSUtRRnpodmJHdHhURW84ajFUWURqNGtGSThQSXNpSzc0QkluX0NvVVFGVUtOYzh6S2R2NXRvRnUwU1BzZ3Z3RWI3UlVHVzM0LUJaY05BM0xhV2tzeE4zVnViQTR2S3JZOF9XSTdsM0pSaktlODZlZjZlTVpR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney launches Build Canada Homes to supercharge homebuilding across the country - pm.gc.ca",
+      "excerpt": "Prime Minister Carney launches Build Canada Homes to supercharge homebuilding across the country pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "df980894eef8c52d",
@@ -149466,6 +149814,18 @@
       "ai": true
     },
     {
+      "id": "a1dc2111e5bb463b",
+      "date": "2025-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmVvNVVJbHU5S1AwMUVzN1BReWpPZk9iZElxRXY3VUhMUFhJWHV4emdFejJGS3FDeFJhU3ByVDh4bVJRYi05ZXVSbnE0dEppc3B0Z3dCUU1ELW50RURKZU9aVUNiczA1NlJzc2I5UEpGcjFLS1dmTjFVV1ZhOHNZMkx4S0ZqNWU3TENSMFNtcTN6aEVBUnkySWJ0Y1dwUi1tSVNsam54eVJuVFljUjNVR2FhTEZRek0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces first projects to be reviewed by the new Major Projects Office - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces first projects to be reviewed by the new Major Projects Office pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
       "id": "71d9ff55047fcb2b",
       "date": "2025-09-11",
       "src": "Government of Canada",
@@ -149932,6 +150292,18 @@
       "sum": "Le gouvernement fédéral annonce 3,2 millions de dollars pour cinq projets d'énergie propre dans l'ouest et le nord du Canada. Ce financement vise à former des artisans du bâtiment et des travailleurs autochtones de l'Alberta dans le secteur de l'énergie propre.",
       "cat": "Innovation, science & industry",
       "ai": true
+    },
+    {
+      "id": "821aa633f6a099fa",
+      "date": "2025-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHd6NE9pRDlFWkFSOU5DdXZvY3RkU01OS3pwVFY0bVdpb2pyT0kxUXBjeVdXVDF3YnFHazlvRTEtNUJmUlJCVlJPQk5mRzNIQzRXMm1tT2VucFd1UmllSVZieFViM1dFaTRwaXFSQVZROXQ4NU13aXJfSVhvRUc0dUkwWWloN2hiYS1zaGxBX2FjTnhMeDUzR1BXYXRuM082aVlVRjBHTko?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces Indigenous Advisory Council membership for the new Major Projects Office - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces Indigenous Advisory Council membership for the new Major Projects Office pm.gc.ca",
+      "cat": "Indigenous services"
     },
     {
       "id": "727533827e0a56d3",
@@ -151754,6 +152126,18 @@
       "ai": true
     },
     {
+      "id": "daa16bcf241b4c65",
+      "date": "2025-09-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVBiMkNHNmp0VDYtSGo4LUppYkNZQkJqTDd0Umd4V0ktMEpMSk41anBBSGxoa0t1NXFITU5tVHZMTFdRclEwODY1cjhNSjRSbDdyTUN4eDlsaTRpangwOGNxLUpsWGdwY0RseENlbFA0Q2gtZUlQMnpmZTcta1BQeTVOYU1uLTJVQVpNREYyRFJER2lNeTl1VVowbElxNGZ0VF9sRHBrSEE1TmtFeUxtNWRDMXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney launches new measures to protect, build, and transform Canadian strategic industries - pm.gc.ca",
+      "excerpt": "Prime Minister Carney launches new measures to protect, build, and transform Canadian strategic industries pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
       "id": "b9998c1798ce4baa",
       "date": "2025-09-05",
       "src": "Government of Canada",
@@ -152950,6 +153334,18 @@
       "ai": true
     },
     {
+      "id": "88ae60d4d5256db4",
+      "date": "2025-09-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0pFRlVqeDlpQndEU1I0MjNWQXdjTHY1Z0dVa19EN2pkSFFLQ0NaRkpFeHhWSkF1bnhfYWttV19TRzdhZ2szelBabzdmNFJTRXFmNDV0NkJwWmxhR2VEU2VJXy1qeHFzSldPYWI4bTVfa1pieDdXanFjZWdUWS1MbVJfTGc3ZWxSMGZWVVdLR2xTb0hBYnNTVW92aXZOVGlWUUpsNHNJcGxrS1hxMlYtdjlRcW4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney to hold fall Cabinet Planning Forum focused on building Canada’s economic strength - pm.gc.ca",
+      "excerpt": "Prime Minister Carney to hold fall Cabinet Planning Forum focused on building Canada’s economic strength pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
       "id": "6af867288f56a7b4",
       "date": "2025-09-02",
       "src": "Government of Canada",
@@ -153520,6 +153916,18 @@
       "sum": "Le 31 août 2025, une détenue nommée Carolyn Burden s'est échappée de l'unité à sécurité minimale de l'Établissement pour femmes Grand Valley. Son absence a été découverte lors du dénombrement de 11 h 30.",
       "cat": "Justice",
       "ai": true
+    },
+    {
+      "id": "c7c317428bbc64d4",
+      "date": "2025-08-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU2p3T0RTdGZnWmFEZXhONmhxaGFNd1dCcGxZeUI1Z1RiZ1J3VFQzMUl3Qk43RzBJRENtWFFLUDh2WVgyWWUyNXJjY2R1ZFQ4T3dxOHpnaTNUQjlhSFlpUjhNNzZJTmNub3F1T0dPLTZ2djdicm0tbWlKbWV5RjFuYXdDa0M0RWl4TURQTXQtMHAzdlFNSUVfSGZCa19tVnczNnhnNmpHMGtkd0tudUVxV2R1MlI0RG9NZm5ObXBZbU56OEJzTl91c19oVEtXNkV6Zi1icjIxYmZIdm5rS3RN?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney launches new Major Projects Office to fast-track nation-building projects - pm.gc.ca",
+      "excerpt": "Prime Minister Carney launches new Major Projects Office to fast-track nation-building projects pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "fdc0891be1afe4fe",
@@ -159502,6 +159910,18 @@
       "ai": true
     },
     {
+      "id": "d80dd40fe342d32d",
+      "date": "2025-08-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzbmhGSTBUSGZBUGxWTGFCYlN1OUxJV3lZOHNHb0xORnktdUJrcGhpYjRvaE5oV1h4a2o5R0tFVTE3cFh5dTllUV9PV1JHb3Z1Rl9tRDBDbkNJbnh2andsc2UxSnZZWjJjV1dLTFRyTnY?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s 15-per-cent challenge: Cutting and rewiring Canada’s public service - Policy Options",
+      "excerpt": "Carney’s 15-per-cent challenge: Cutting and rewiring Canada’s public service Policy Options",
+      "cat": "Economy"
+    },
+    {
       "id": "6260eafd420983f7",
       "date": "2025-08-11",
       "src": "Government of Canada",
@@ -160386,6 +160806,18 @@
       "ai": true
     },
     {
+      "id": "f813f9acd43492a3",
+      "date": "2025-08-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDVaRk5JVG9ZdnkwaGpkS3RrR2I1alY2T01wUzdXZnJQTVRMakVPdnZOTU00aW9Ia0VGR3k3UmFaTTRKdmF0cUVtWGJERk04RWg0TXZwVklWdWVnbnBuZGVjQnBmVVp6RVBteG1zY0tjcVc1QlI1bGpXbTVvdzNzcWFhN0VfeXpWSDhYSUc3LUpoYmM2NExmc0RtNkNOT0pSUnIyQ2xaVWo5SXJuNWVKQkRLQ19DRkRTSHhGLVVBU25temY4VXdZ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney engages Métis leadership on the Building Canada Act - pm.gc.ca",
+      "excerpt": "Prime Minister Carney engages Métis leadership on the Building Canada Act pm.gc.ca",
+      "cat": "Indigenous services"
+    },
+    {
       "id": "9985aa2a823d30c1",
       "date": "2025-08-07",
       "src": "Government of Canada",
@@ -161034,6 +161466,18 @@
       "sum": "Claude Guay, secrétaire parlementaire du ministre de l'Énergie et des Ressources naturelles, a effectué une visite de deux jours dans le Nord-du-Québec. Il a discuté du rôle des secteurs minier et forestier québécois dans les chaînes d'approvisionnement canadiennes, l'emploi et la réconciliation.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "937869c47f11fe48",
+      "date": "2025-08-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbXQ0VERfTFhZenlOQlktWncyeTlmV1F5TEotaTJUTkxkV29CMzhsQ0cxRDl2NjNyWjA0QkZOSG02UmZHWGZwNW5iSUFqWlNpVnNVR1RPZjEyT1lBY1oxVWRDbXJlbV8tRWZSZ1hoN2tNd200bEtrdGNvUW5CVURfQjFhbTlOdEFTckV2TnV0NzFFZHdQYUF2akhQNVg2X2xlUWdwVW9UdDZETEt1WmdTX193MjFVQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces new measures to transform Canada’s softwood lumber industry - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces new measures to transform Canada’s softwood lumber industry pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "979967af1c5f4254",
@@ -165040,6 +165484,18 @@
       "ai": true
     },
     {
+      "id": "254f5c42bee52dce",
+      "date": "2025-07-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWHNNWjF4Slc4cmF4aF82UTlSclZxMTBKWkZPNTNsVkx2Yzc1WURwUHE3MzNZNVdpM1UyR2ZlWXhrVndxZXF0TDd4N2NWd2d1eVo1ZlhvWU0zdThqVUQxVFJwSURPYkJteFBnTXJ3Y2VLdllTdzR5djBlOVBzamJzeEtlRS1jc2s2LWFaUHoyWE9ocnp4U0VmZDR3c1kxMi0tUUZSczJSVm92ZXZMYXZvZlRUSGdCTDFnT1l5a0tR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney engages First Nations Rights Holders on the Building Canada Act - pm.gc.ca",
+      "excerpt": "Prime Minister Carney engages First Nations Rights Holders on the Building Canada Act pm.gc.ca",
+      "cat": "Indigenous services"
+    },
+    {
       "id": "38c9aedcca4a55aa",
       "date": "2025-07-17",
       "src": "Government of Canada",
@@ -165428,6 +165884,18 @@
       "sum": "Le Canada et l'Australie ont signé un accord de partenariat technologique le 20 juin 2025 pour développer et déployer un système de radar transhorizon dans l'Arctique canadien.",
       "cat": "National defence",
       "ai": true
+    },
+    {
+      "id": "80454e23abd2a1c8",
+      "date": "2025-07-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTGh1bEQyWVVSN1hhZFJ5MkNXVHpfcGR1aERsQ2dDZGRqZjNSMWtEVHdRUDRMVkJoTGxpTU5LRFR3SzFZd05odlJKN1VXazZYYnM3cUFrLXBTaUxQMDI0VjdkQlFlcGpXMDFVMGprVFhYaVdidFM0NWloRGsxSFJ6M2IyZW1uOXRJeXU1UEJjNldmazlSaF8yUVlQQkRDUG9HWHNzM25FeFBvbjU0WGlfdEdKa0lyNWhLR0Y4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces new measures to protect and strengthen Canada’s steel industry - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces new measures to protect and strengthen Canada’s steel industry pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "b5a0fdb93944b3c2",
@@ -171254,6 +171722,18 @@
       "ai": true
     },
     {
+      "id": "3f165f4a1769e1d4",
+      "date": "2025-06-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16bUxIT0RIMWIzMGo0S2lBcFdyU0dHTlBWWkRSbGlXMWJSNzhCZGZUeEo2MTVZcHdlSUZ4LXp0RGdjYWk5d2JkaU9hVE15NERmQldERkhWWWloTEExVGdSRkR1WG5sQ3FZS3NKbk5nNEx3OHpmbTBr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s quiet public service revolution - Policy Options",
+      "excerpt": "Carney’s quiet public service revolution Policy Options",
+      "cat": "Economy"
+    },
+    {
       "id": "b414a0bfa4db3330",
       "date": "2025-06-23",
       "src": "Government of Canada",
@@ -171720,6 +172200,18 @@
       "sum": "Quatre ministres fédéraux font une déclaration à l'occasion de la Journée nationale des peuples autochtones. Cette journée nationale reconnaît les contributions et la culture des peuples autochtones du Canada.",
       "cat": "Indigenous services",
       "ai": true
+    },
+    {
+      "id": "f64b6af316826eaa",
+      "date": "2025-06-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0ZjM2FGUU5OTHoxRkxfbWNiMUFaMzMxaU9BR2l2dlhsdHZSOUgzOWVjTS1GZllkNFhaSTk1c2twNktkdGxvS2RUd0xSdlMwYjJPRi1UWVdPTzdJR0RfUHZxamkzbU5NZzF6WF91aUlWYjk4TU5YTC1PbTJYTTJfVHYxSmtpOGgxTExrNWpQN3B1YnhtTEFmcDYyR3BzQlZTdFBocC1YN3BxMVdFVDAtMmZSMXRKYmVlOGpfcW53?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces changes in the senior ranks of the public service - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces changes in the senior ranks of the public service pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "24eaf521c55ee918",
@@ -174114,6 +174606,18 @@
       "ai": true
     },
     {
+      "id": "8b905769685493c1",
+      "date": "2025-06-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWF3VGZab1AzZnNJdDE5T3VrbXp2RmFUTl9kM1MtRGdCT29yTURpd1AwcnlFR2hqY081Z1dkZUtNakZpaFRPWkM4cng0Y2NTU2tGemVGajhJcFBFd2dGUll4dFFDZFZrMGZHM0tXOWdpd0M2WGZCU2xLU2padFhjT1duVDNiYUFCczhGaXYyUURidDRWa0p1a2pSc0xtRHVDb2pqaGRId1VLRnl2?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces a change in the leadership of the public service - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces a change in the leadership of the public service pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
       "id": "a94678d4acfc4e66",
       "date": "2025-06-11",
       "src": "Government of Canada",
@@ -174658,6 +175162,18 @@
       "sum": "La ministre de l'Industrie Mélanie Joly participera à une discussion organisée par la Chambre de commerce du Montréal métropolitain sur les priorités économiques et industrielles du Canada.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "9f89129154dcdc48",
+      "date": "2025-06-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHVXNzVQNnUwNVRBaV9KVTJOZkRoSVVzUEtnNl9zOHlNUU82VTlCbS1RMURuamt3ZG9RS1VWQm12bVRiR3h1bzR0OXdnVUFRbld4UE9Lc2VXejdhV2JNS1didV9QLWpLWXNjTjFqUWFHVUllUHZRMnpOa2VPSEFhcXh5dklmOFF3SGtjV0NrVXdhc0RlRDUwb09USUlERXhLbWNJSTYwNmgyYnI0WjMwakxOVHRrbGc3OTJkNHZR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s new government is rebuilding, rearming, and reinvesting in the Canadian Armed Forces - pm.gc.ca",
+      "excerpt": "Canada’s new government is rebuilding, rearming, and reinvesting in the Canadian Armed Forces pm.gc.ca",
+      "cat": "National defence"
     },
     {
       "id": "e0c66e6a9c086d2c",
@@ -175516,6 +176032,18 @@
       "sum": "Le ministre de la Défense nationale David McGuinty a participé à des réunions à Bruxelles, notamment le Groupe de contact sur la défense de l'Ukraine et une réunion des ministres de la Défense de l'OTAN.",
       "cat": "National defence",
       "ai": true
+    },
+    {
+      "id": "24cb809a527eb273",
+      "date": "2025-06-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXg1UElUbGgtZjIySU8zSlZzMzRKRlg3VkVQb19ubWtYbEt6UlY3eGtTeEVoSEMzWDE5VjNFRXpoZUx5ZmhtaU5tMzB2cUhjQkx4b1VoYjZVcTJqUVhHMHJqY01PSlh2aFQ3dkd0YTZPaERlY0stOVpMZnZndXd5UUJKTmZUQWpZNElGaFBtN3VyQWd0aUdLVFE3N3MzRGduZ0NzRUdIdEZGYlU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces new parliamentary secretary team - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces new parliamentary secretary team pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "7515ba2c15cffeb4",
@@ -177520,6 +178048,18 @@
       "ai": true
     },
     {
+      "id": "bc21f8131dfd70fe",
+      "date": "2025-05-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRDFONVhxVG1xYzdOcjVxWEw3UC1xQnF5ZzR0cjIydkVscEpfMHFGa0NMNDRVek1QQlI0UGt6MWp3S3JqbFpyUU9ydGZUejdCczYwUVlqVy1hSFZ5STZCdElXdEJKODd0RDRXdmVYNFN6WUotdFJ4cVBLQ2FwMGtuamJBZTA2bmFRZzBjeWRJcnlTNE5IWkFyT3EydWhZV1ZiTjVocTNPNW1FakpuZ1ZzZzdmSnRSakF3ODh3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government’s throne speech—different delivery, same old approach to policy - Fraser Institute",
+      "excerpt": "Carney government’s throne speech—different delivery, same old approach to policy Fraser Institute",
+      "cat": "Economy"
+    },
+    {
       "id": "1db598f3fe2ccc91",
       "date": "2025-05-27",
       "src": "Government of Canada",
@@ -178610,6 +179150,18 @@
       "sum": "Les ministres des Finances et gouverneurs des banques centrales du G7 ont réaffirmé leur engagement envers le groupe après 50 ans de collaboration internationale. Ils soulignent la valeur établie du G7 pour dépasser les différences nationales et promouvoir la prospérité mondiale.",
       "cat": "Finance",
       "ai": true
+    },
+    {
+      "id": "56a28ba083a5f306",
+      "date": "2025-05-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QYXZVNjJZdks3NFMzZElXcDdzeW5XYk5uR0gwZzd1YXNuSVhHNFpQXzBwSHhlblFBU0Nqb1I0YkVOcjZsUmZPSzk3ZEc0UXM5dXNxS2h1bjhWVDdweWF4WlpFcVhnT29PMy15OHROZTdwdms?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mandate Letter - pm.gc.ca",
+      "excerpt": "Mandate Letter pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "38c8f2b438495293",
@@ -183188,6 +183740,18 @@
       "ai": true
     },
     {
+      "id": "1d3cfa9b8ed63413",
+      "date": "2025-04-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcklPcllHdWtSVGRIcFpBbDl2cUZnajFsTmx3cE9raXBSWXNTQmk5b1h4X0k3bHZIM3B5U2VrQlpBRmxqUl9mRzBkQTJjRXEtTTE4RFExQjdFUy0xOHJnaEpaRzhaYXFoak5saXg2QkpFNXRlbmRyUjlXWHdrYi1CeGJ2TFpmeHVGckE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney’s Liberals take action to make life more affordable - Liberal Party of Canada",
+      "excerpt": "Mark Carney’s Liberals take action to make life more affordable Liberal Party of Canada",
+      "cat": "Economy"
+    },
+    {
       "id": "7c8873f916f68333",
       "date": "2025-03-31",
       "src": "Government of Canada",
@@ -184408,6 +184972,30 @@
       "sum": "Le gouvernement du Canada a annoncé des mesures de soutien pour le secteur agricole suite à l'imposition de droits de douane par la Chine. Le gouvernement souligne que les producteurs canadiens fournissent des aliments de haute qualité qui respectent les normes élevées.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "265851a0033a8c0d",
+      "date": "2025-03-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRGtpMU1BLXkwTm1RVGlkY3ZxR2xmSC1ya09YSHFiUXcwWUZKWUgxVTFxVEhXdGpDaFBWSUhwTjJwQkdHak1lMGt6SWhuandQTkh5d1BJdUVrSDI4SnpLcl9LMnBoTG5FZHhWQVJvSkNwVEQtekNCay1Ba0RUdUJuVFo0YTdWU3ZLM3dGRFdrdDFlcDd1cENRYjBueFJQY2FPaGRfNTI4cFBfZ3BIOEtUUndLXzJINHM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney meets with premiers and shares his plan to build one strong Canadian economy - pm.gc.ca",
+      "excerpt": "Prime Minister Carney meets with premiers and shares his plan to build one strong Canadian economy pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
+      "id": "afebf3a7f7df2e14",
+      "date": "2025-03-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOVdjeE5QR2tHTmI1V1dPY1RvcG1JM2lIT2xPWnVFWGluSkE4TWlSUk9oTE1KeEl1N1JySDdjcUpaRHpFeFczTXdqUkstYzdhZDZXVlpKb1RoT0V2NXZjTFhlMFZ0YmFWOHJKQWJZMFFqelNBOF9zM3QzOTNFc3dIR2x0QmZWRTlmNW5EcHpSNmpVMk5pS29NcEhBV3Q3cnk1UDVLdmZ1al96MnhrX2lGa2JkaDhsVGg5NHNkS0VGVm9qQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney cancels proposed capital gains tax increase - pm.gc.ca",
+      "excerpt": "Prime Minister Carney cancels proposed capital gains tax increase pm.gc.ca",
+      "cat": "Finance"
     },
     {
       "id": "50bd8d65dfd3429f",
@@ -188401,6 +188989,18 @@
       "ai": true
     },
     {
+      "id": "2da5997fb4562de0",
+      "date": "2025-03-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTGQ0bE1jTC1adExVcE9iNFFtbDJnQWJrZG56UzVuNHd2YUZoSnNfUWlzZ1dDUk43cHAyT09tOWw4M09XMk9fc0VDT1dpSmQ5bDlUX3dxYUpZM0lLeVN2NXFYWTk1VE1YTjVnckZSdGdJUi00b3NZWGFlYWc1RDVLYU1nQ2NOZmlwZFo5MFdOZk5mTHB2TDlubDlGdk03cjlwdDk1djZjV2FDMEZtZ1VNS0lWcnBkMEN4OXhF?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney strengthens Canada’s security and sovereignty - pm.gc.ca",
+      "excerpt": "Prime Minister Carney strengthens Canada’s security and sovereignty pm.gc.ca",
+      "cat": "Public safety"
+    },
+    {
       "id": "02ebdbb561a4c4ab",
       "date": "2025-03-18",
       "src": "Government of Canada",
@@ -189023,6 +189623,18 @@
       "sum": "Le 16 mars 2025, deux détenus de l'unité à sécurité minimale de l'Établissement de Beaver Creek, Rodney Cobb et Jeffry Parker, ont été découverts manquants lors d'un dénombrement de l'après-midi.",
       "cat": "Justice",
       "ai": true
+    },
+    {
+      "id": "95449f1b15259529",
+      "date": "2025-03-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT09GWHhLaDNBXzlKODl4ZjZlem53T3BhOFl6UnJoWTA4UGFGRXRiZ1ViZ2kyeXE1cW1jT2dZWURtZy0zMnpESXB6YVBaQjlGMkJIenVLR04wdFVrWnlKYXd4bmxxV21SWFI4T2JrckpGOGpkVVlSZGhkTjVlU0Z1ZnNjeFM5Y3ZyejRtYkRR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Swearing-in of the 30th Canadian Ministry - pm.gc.ca",
+      "excerpt": "Swearing-in of the 30th Canadian Ministry pm.gc.ca",
+      "cat": "Economy"
     }
   ]
 }

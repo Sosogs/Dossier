@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T02:34:14.663Z",
+  "generatedAt": "2026-08-23T06:42:31.321Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7562,
+      "actions": 7613,
       "sources": 9
     },
     "fr": {
@@ -54,6 +54,42 @@
       "lang": "en",
       "title": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. - CTV News",
       "excerpt": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "db90bda10330b0d9",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnVwRXBDOEZwVlFzeXk5OVpLSV9NV25IMmMtak9VVktKRU5MX3Zody1XejJZSm44S1Ita3VQUVhrRU9iM0Q4WWlBV2RhaGVpdUdtT3JoMDZZQVJRSGQxcFh6aW4zT2hHUnllejBDVncweXFrRUNMVnYySXJ6bFFrd3NFXzg3dllNano3eFlfeGpUbDhMTlJ3N3d2YXI4Q3AyZnh4LVhlc0xvbFpLNDE0XzNxZ3c0RUtUZVpz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "As premiers rally behind Carney in trade dispute, Alberta’s Smith questions retaliation plan - The Globe and Mail",
+      "excerpt": "As premiers rally behind Carney in trade dispute, Alberta’s Smith questions retaliation plan The Globe and Mail",
+      "cat": "Economy"
+    },
+    {
+      "id": "00d1542289cac320",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmh0MkJNOVV0ZzVMcFVmYkZkd2FXaWs4S2N6N1hCLURodmc1VzdEb01PbFZrZEZjUWdKTjh3aHlfOEw3dDYxU1lMMXdJM0YyTjVnc1BmSlJ0OXh3TEpTMEdnRDdIVVFUeTJRZXlvRVc4Q29qNTJjSV9TcGNtLTYxMnRrVW9QRWQwV0R6MWEtdWszbk1WMnZtYmJQQnlhbmxWd3RELWFNYzBxWnE4NmJvbQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The latest on trade negotiations between Canada and the United States - Lethbridge News Now",
+      "excerpt": "The latest on trade negotiations between Canada and the United States Lethbridge News Now",
+      "cat": "Economy"
+    },
+    {
+      "id": "fa17bd9b04accfcd",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlVHVWZSeVFSY0J3ZTFTS2dMT1JhUlc0Y2liMkdZd1BmSGc3ek9xMGk4ODBrR2RGSnhhV3EydF9wWTAyeGZITXVGNGVRVkZBS3NVVEFTN3dNSEMtVUoxc0k3ZXd3YXZRYWNXS2tPNVRId3ZHUDg4UURZcnBRZ044R2N1VTg2cmxqQUE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Alberta premier urges return to trade talks, calls U.S. terms 'untenable' - CBC",
+      "excerpt": "Alberta premier urges return to trade talks, calls U.S. terms 'untenable' CBC",
       "cat": "Economy"
     },
     {
@@ -10257,44 +10293,6 @@
       "sum": "Le gouvernement fédéral investit près de 7 millions de dollars dans huit projets d'énergie propre au Yukon, aux Territoires du Nord-Ouest et au Nunavut. Ces projets visent à fournir de l'électricité propre, fiable et abordable dans ces régions.",
       "cat": "Sustainable development",
       "ai": true
-    },
-    {
-      "id": "4a2fa80f32b8e538",
-      "date": "2026-07-29",
-      "src": "Ressources naturelles Canada (RNCan)",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/07/le-gouvernement-federal-investit-dans-des-projets-denergie-propre-au-yukon-au-nunavut-et-aux-territoires-du-nord-ouest-pour-y-offrir-une-electricit.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le gouvernement fédéral investit dans l'énergie propre dans trois territoires",
-      "sum": "Le gouvernement fédéral finance des projets d'énergie propre au Yukon, au Nunavut et aux Territoires du Nord-Ouest. Ces investissements visent à fournir de l'électricité propre, fiable et abordable dans ces régions.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "818e824a44f42c7b",
-      "date": "2026-07-29",
-      "src": "Ressources naturelles Canada (RNCan)",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/07/le-canada-favorise-lexportation-denergie-a-lechelle-mondiale-grace-a-la-signature-dun-deuxieme-accord-europeen-sur-le-gaz-naturel-liquefie.html",
-      "type": "International agreement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada signe un deuxième accord européen sur le gaz naturel liquéfié",
-      "sum": "Le Canada a signé un deuxième accord avec l'Europe concernant l'exportation de gaz naturel liquéfié. Cet accord vise à favoriser l'exportation canadienne d'énergie sur les marchés mondiaux.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "2ff53afde4c673c4",
-      "date": "2026-07-29",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNGs3UE1nM0ZXckFCUV8yaFNmLUNVcGxLbGRZVEVxeDUwcTlZZTZoYUN2ZGVMWlRoRWZZZXRNcEZsUGV6QWRSdDJSQWhHNWc2VGRHcWlldEpDajlKWXhneUxaeURKNThkcnVJR3pwSUFMUzJLUnFicTh6M2Z1Y3VsUFk4d1VxXzlfMnBCbkktWmdqdnRsQzhVTGJxY2ZjQ1J6bzBzdURfNUh6emxFdldfa0ZWRzVJeUR6SGNRd2l6SGhjQnFVQ2xjV1VPU05FOUJWS1pNSi04dDlkZE9Db1ZaSnJBOHNZVkFVSEhZ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Carney abandonne la taxe Netflix: «Une concession absolue qui va amener des coûts de contribuables», dit Gaétan Barrette - TVA Nouvelles",
-      "excerpt": "Carney abandonne la taxe Netflix: «Une concession absolue qui va amener des coûts de contribuables», dit Gaétan Barrette TVA Nouvelles",
-      "cat": "Finance"
     }
   ]
 }
