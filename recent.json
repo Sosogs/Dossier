@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22T18:32:32.414Z",
+  "generatedAt": "2026-08-23T01:25:38.220Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7550,
+      "actions": 7561,
       "sources": 9
     },
     "fr": {
-      "actions": 7038,
+      "actions": 7041,
       "sources": 7
     }
   },
@@ -44,6 +44,143 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d88744e60aa7839d",
+      "date": "2026-08-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTd2Wm1YNkNFX2ZwSlMxQ19fY08wSFVoQUttdkFVYW96SFN5NGRITGlrR05YQ2xIWS1UMlJPdjJPU0Z0c0xVcDdjbXdmRGxFaE9EMVRudElETFp6clNya2ZNaUd0X1hyWHN0MDNqSFRhaGZGVlc5TmI1S2V3dlA5bHJuNWlJdWtGX1BJVkstMFRfQWJVclpkdFFSVFBRZ3l3dk4zQmZXTzFsYTdwdDlaYkNjMVd1enVsOS04VnBFSXd1dndVOExzdHlaZHZZVmNW?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. - CTV News",
+      "excerpt": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "349d7c06b71dfb79",
+      "date": "2026-08-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/minister-miller-will-announce-major-funding-for-a-cultural-organization-in-montreal.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces funding for Montréal performing arts organization",
+      "sum": "Minister Miller will announce major funding directed toward a cultural organization in Montréal that focuses on performing arts. The investment is part of the Government of Canada's support for the cultural sector.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "8f0bc2337deeb9f5",
+      "date": "2026-08-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/employment-social-development/news/2026/08/government-of-canada-announces-peter-ballantyne-cree-nation-as-an-indigenous-skills-and-employment-training-program-agreement-holder.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Peter Ballantyne Cree Nation selected for skills training program",
+      "sum": "The Government of Canada has designated Peter Ballantyne Cree Nation as a recipient of funding and support through the Indigenous Skills and Employment Training Program. This program provides training and employment support services to Indigenous peoples.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "08a1c8d0cabfdc1b",
+      "date": "2026-08-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/canada-and-mississauga-invest-in-active-transportation-infrastructure.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada and Mississauga fund active transportation infrastructure",
+      "sum": "The federal government is investing $8.8 million in Mississauga to improve trails and bike paths. The funding will enhance active transportation infrastructure for pedestrians and cyclists in the city.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "d6f5f9988aa5e428",
+      "date": "2026-08-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-ministre-marc-miller-annoncera-loctroi-dun-financement-important-a-un-organisme-culturel-montrealais.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada accorde financement important à organisme culturel montréalais",
+      "sum": "Le ministre Marc Miller annonce un investissement du gouvernement canadien dans les arts de la scène à Montréal. Ce financement est destiné à soutenir un organisme culturel de la région.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "7d4d9371b2fcbd24",
+      "date": "2026-08-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/08/le-gouvernement-du-canada-annonce-que-la-premiere-nation-crie-de-peter-ballantyne-est-signataire-dune-entente-dans-le-cadre-du-programme-de-formati.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Peter Ballantyne Cree Nation signe entente formation compétences emploi",
+      "sum": "Le gouvernement du Canada annonce que la Première Nation crie de Peter Ballantyne a signé une entente dans le cadre du Programme de formation pour les compétences et l'emploi destiné aux Autochtones.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "aa7d711fde2ab8b9",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVJvRFo4QWtkQ0M2bDZLdVI0aHg5T0N1c0RGQjdfR1EweE5UZXVBcm1tWG1WZGVOdUVXSlVJczZSM0NOSkVnaVV4d0ZoX0o0WGR1UG9MOFZYd2NPeUdfY2kxRVRzUnQyVFhTX1QtenV0bWMzR2dOaFJtZ2E4b3E1VFdOTFIxSU0ySTVHR2xmUDEtVXVUeVlWWWRnMHpBYU9uSmFGSXBsR2xCdndkNnJkZEFTNTI5akxwclFJSGx1elgwbW1pendLb2FYR2tzTXhnd2RsTDdtOGRxNUk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "CARNEY RESPONDS - “They Asked Too Much and Offered Too Little”: Carney Draws a Line as Canada - U.S. Trade Talks Collapse - EnergyNow",
+      "excerpt": "CARNEY RESPONDS - “They Asked Too Much and Offered Too Little”: Carney Draws a Line as Canada - U.S. Trade Talks Collapse EnergyNow",
+      "cat": "Economy"
+    },
+    {
+      "id": "8fd4eebfdcc37556",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pUk1hZDJLWGdVS3kwS0VNQW4tX190X3RHZjBrcTFtVEt3Nmh1cmdMa0d5SWQwemlwdDR6N0NGUzJGanlqeFNid1pkTlFQb2JxQVZGaVdOWTFKUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney faces crucial test after walking away from Trump's deal - BBC",
+      "excerpt": "Carney faces crucial test after walking away from Trump's deal BBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "828f07d87902dd37",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHRlUk9sTmtqU0dQN0lFX3NBQ3dhd3lKX1RCd240dHR4VV9sS0U5emdIOUsxbzVtYzgzWXN0SEZhcmQtN2d6NENhZ2FhYlhnRmNLUHBzcUFRZDVKQTcxN2NVQzhrM24ySXpuczhUN2hGaGV1UkQ2a2ZDZkQwZmtjQUJqM1pCeVVCMGJGZFRrV0VoVUNEdllXSVdWbjR4WHdmNkJoUE93?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The latest on trade negotiations between Canada and the United States - CFJC Today Kamloops",
+      "excerpt": "The latest on trade negotiations between Canada and the United States CFJC Today Kamloops",
+      "cat": "Economy"
+    },
+    {
+      "id": "ffecfe60dfaf810d",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYkN4ck1qS0s3N1JaaW5ZOVdRVnhjelpQZDVZcTF6alhpWU45ZHlyTjU4QU52aGMxNXJCdmIxcThLVEptbUVBZHJSekF5LS16ZnQ2WmdUenpRczdneEVTSHQ0SUFuMk1xSDc0UnFYNHNGRVBYOW1XbVUwTEpSUnRIdmRKaHVYc1RlVWt2OGNrRnU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Read Mark Carney's full speech after trade talks with the U.S. collapsed - CBC",
+      "excerpt": "Read Mark Carney's full speech after trade talks with the U.S. collapsed CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "4538788fbf06b508",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1JhalpVLWtieTd6U1Jmc2J2UGl2dHNGYkQ3eEhiMHppYjR6cXUzbnFILXozc1dQT2YwNnVib1V1dGtwLWRPM1hsT054RnVpakRnd1NhU2l0WDVncWk3QjJ3bllWUUVJejdVRFZGVlJwN0hLTl9JcmN5MURfeVgydmhCNVBheW9xZE15SmoxaExyX3lxSmpNNklSRFQ1dTJXNW5xcDRiMHdIUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 - CityNews Vancouver",
+      "excerpt": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 CityNews Vancouver",
+      "cat": "Economy"
+    },
     {
       "id": "15732bc2e8e4bc33",
       "date": "2026-08-22",
@@ -1152,6 +1289,18 @@
       "cat": "Economy"
     },
     {
+      "id": "9c8a3225b1ba47df",
+      "date": "2026-08-19",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaU9DMF9ITi1JX29ZUDBtal8tMlFZSDNqbFhFYlNTbzhWeFBFcjN5dFFXU3FyV0JZQy1EOURDQTJ1OHQzVmRvR3BlRWd0cUFWbWJPNWhhNlRxUjFOMjhNdlNHckEycjd4aW5JdjFEWWdBMkdRRkowajlOem9QWHVQRWczcDV2YVVjeVRDbXhUdXRwcTFBaXMwSlpqSU5KaTA1TlU3emhQSV9TdENMRV92aFB5TUFEcEtkeC1r?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le NPD porte plainte contre l’« écoblanchiment » des publicités du gouvernement Carney - QUB radio",
+      "excerpt": "Le NPD porte plainte contre l’« écoblanchiment » des publicités du gouvernement Carney QUB radio",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "47c5462d5387c6ea",
       "date": "2026-08-19",
       "src": "Canadian politics (via Google News)",
@@ -2214,6 +2363,18 @@
       "title": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques - Radio-Canada",
       "excerpt": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques Radio-Canada",
       "cat": "Economy"
+    },
+    {
+      "id": "50c3e687629625fd",
+      "date": "2026-08-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelJTMkx3azBKbFNubm5qVGlMVEpHYjlzLWZnSVVSZk52d1BaYnh6MkpWejJmcmZUcG1iUmRUZGdGUGdsN182UUFVNUIyTzJEckFOMmsxYzJoZXBiN3owWHhBZ2ZsWGpzc0l4dTQ3QS13YlJWOW9GWkJEOERqMXRoVUZwU2N2TW00aFNSU0dfajFKdG43dW9jcmJZZnl5UmNCWUUtRC1HYnhmZDVLV2hYY2cxamo4U1Q1S3BCSW9JVUw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces the largest clean energy investment in North American history - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces the largest clean energy investment in North American history pm.gc.ca",
+      "cat": "Natural resources"
     },
     {
       "id": "e1b543340d31ef21",
@@ -8179,6 +8340,18 @@
       "lang": "en"
     },
     {
+      "id": "8aa5c0a9875350f5",
+      "date": "2026-08-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlVSRVNIMmxUeWZMM3RDbkVORXQtMWZlV1VsZXFtVTliRWxpbHFGQ1dJaDc1cGhtWHVkUjZRd2lvalg0U0laYkxQUDB5VGZma0pHVkM3QU5vdXNydzJQakFNT2xQX2NKaHJlM0EtXzYwWUpEUGt4RnJPaWtJM2lnWHRMbnpVSTFuejBMNU1WZkhGTWI2OHJlQ1VXc1VVYlMwVG5FRHlwa3lNLWdKX3hjS3Rxcw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney has ‘no obvious challenger’ among Conservatives, new poll says - CTV News",
+      "excerpt": "Carney has ‘no obvious challenger’ among Conservatives, new poll says CTV News",
+      "cat": "Economy"
+    },
+    {
       "id": "625a20a111bba43a",
       "date": "2026-08-04",
       "src": "Gouvernement du Canada",
@@ -10122,176 +10295,6 @@
       "title": "Le Canada a « repris le contrôle » de l’immigration, selon Carney - Radio-Canada",
       "excerpt": "Le Canada a « repris le contrôle » de l’immigration, selon Carney Radio-Canada",
       "cat": "Economy"
-    },
-    {
-      "id": "9e609fca5c8bff17",
-      "date": "2026-07-29",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2RTdGQ0eXFvU2ZWaWt1QVhkczB6MXV0b2lRNlQ2SUdHTTVqeFltQzFyRDFvYWlOV0RXazhCdHRkRUJ4M1ZPNEs2UHhkcFFveTNfTEU5c1d1RVNDTHROcGczTV9MM0NtUjdjc2l1YnZCWkhqSFk5Ry1Wd21jV2hBV3VuTjM4Zm1aZkk3cHozeVJWUUJ3bnRuRktBU0lITHp0YzY2VUJjZw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Guerre commerciale: Mark Carney se défend d’avoir accordé trop de concessions à Washington - Le Devoir",
-      "excerpt": "Guerre commerciale: Mark Carney se défend d’avoir accordé trop de concessions à Washington Le Devoir",
-      "cat": "Economy"
-    },
-    {
-      "id": "e815dacc5766a2ea",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWlBVTlKZWFvR2V6dmY4alhQeFg0Z3l0Q200LW5RaHl1UUJkYm1EVFhlb2xvOFRMWFAybEZ6SVctaHlfTm1aYzNjOHdyMVNjTzBVVU9lVEw3Nkl1ai1nemI5bF9Ma2dkWEh2Z29lbDdyNUxraHVJOW5OUkc0UkpmMWRpSWtjZFJxZUdrcVhxaGE2cXJSVkp0MU5xNVZnMi1aUEhMVU1QYW9sUUFwcUhIcWZjbDlrcDdIWXd6TQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Canada and Alberta forge new infrastructure partnership to accelerate homebuilding - pm.gc.ca",
-      "excerpt": "Canada and Alberta forge new infrastructure partnership to accelerate homebuilding pm.gc.ca",
-      "cat": "Infrastructure",
-      "lang": "en"
-    },
-    {
-      "id": "8fc3e74eb80676c2",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXZxeE5DYlNfa01oUmhkcDNYNGp0ZnRHLVhlU3BnQ3ZpbzJhbFh5STRRa0NPLUVFVUF3eHJJUzduUkRyOGw1WERXbDFXS1V6YUhtYWMzYWduYi02ZjJOVDlTSEZfMGVOcHZMSUVWWUg1MHZORXdTOHlFZVotbVZsRW81R1otOUE0WVRUNFh6X1VuTXpC?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Carney says government has ‘taken back control’ of immigration - paNOW",
-      "excerpt": "Carney says government has ‘taken back control’ of immigration paNOW",
-      "cat": "Economy",
-      "lang": "en"
-    },
-    {
-      "id": "19e65b2fe15a870c",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sc1FqMFZ5cFQ1a1BrbFhZZlQyUTB6ZklVT3NZOTBDdUlfbDV5eUZDcXNkQkdIZ0MtNTY1blBOQWFiVFJBeUx4UEhhNFRGT0cydmlGZVZMU19hbGM5NjdtWUZpdFVXSEVyYl9sLVJTOHI2cWlFYlE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Liberals block committee effort to probe Carney’s Gordie Howe bridge deal - Global News",
-      "excerpt": "Liberals block committee effort to probe Carney’s Gordie Howe bridge deal Global News",
-      "cat": "Infrastructure",
-      "lang": "en"
-    },
-    {
-      "id": "6e32fad3bd0a9508",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR05meVFsUkMwSUF2RnRkMHZjcGI4ZHpLZ05JLXZQVnNyVlRwZFp4ZDFOcHJRTkRJWGNBV2pSOWs4OUNVNy01UzVPOUthcEdWVzhjbDZ1Y28wc254V3RnQWZaWlRoT1RIckxJVFYxeE16dW1VcUVpSml4SmhSckFIRVJCeWxObnM5Qm9NaXRsX2ZJLXQ2WkVNY2VB?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Carney rules out using energy as leverage in U.S. trade talks - The Globe and Mail",
-      "excerpt": "Carney rules out using energy as leverage in U.S. trade talks The Globe and Mail",
-      "cat": "Economy",
-      "lang": "en"
-    },
-    {
-      "id": "e560d6402a2ee1b6",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRjY2MjQ4bjZPUE9ReThMZmxjM2RPOW5SN2pwODlUTDJBRUJwVmdqdnlBTnVWWnBhbGpKVGxwdmtjV2VrMGJqWDBuWlR2Yjc3VUJ3Y2g5a1hZV1NIV200bXVPVDNsM0dzVHpOVVFrTnBRUkNTWXFPdFJYQmlWX2xKYWk1aVJpV05xZGRwUWdUOFJMLVhxQzRWY2ZXWFI5cFJ4dWFyN1gxaw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "PM Carney says government has ‘taken back control’ of immigration - CTV News",
-      "excerpt": "PM Carney says government has ‘taken back control’ of immigration CTV News",
-      "cat": "Economy",
-      "lang": "en"
-    },
-    {
-      "id": "b741eb913d955635",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTGdMTjZWX1l1cHF2N0F4Mlh6LUlzTDMzMXRkYWQ2VGZkZHZfNmFWS0RTVElWa2FhN1ZXSWJSVjlhUzU2cVNsSnJpeFRVZjh1ZEwwNnBwY3Y2SWxjZGpSY1gzbHlJVGlUMzJFT1ZnZ0NaOG9meW9mUVk4NXJSYjc3TVdDRWhaTDh4SXdDZUFMbFhWeEpKR2hqMUoxWlNJQzg?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Carney says government has ‘taken back control’ of immigration - meadowlakeNOW",
-      "excerpt": "Carney says government has ‘taken back control’ of immigration meadowlakeNOW",
-      "cat": "Economy",
-      "lang": "en"
-    },
-    {
-      "id": "00f3a211b0c5d598",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR1BqTE96ZXAtVmlvOHlZbUI1dGV5VUVyMXd5LTViNlFGSXRDTjJvd0tGc0dwMmpzZ1lXT2ZkeW9hOV9qd3M5cFRCUFYycnJ4MVB0SnE5YmtyS1ZnUjVxaU84Qy02X0Q2VnpQQUZlV3UzR0JGenBjZUc0cUxkakE2Z0RMTmFNLWktOFB3OF9Tb29UU0xkM096ODJtX1dsdjEwbW9FcjV2c2I3SXJ5amZTSHREZU9tUnJIMGs1ZWFPbU5ORlYzOVR2ZnRURFo3MDBZb0p0OHBvMm9rOFZyQktUd0tqWUMxVEE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Carney says government has 'taken back control' of immigration - Winnipeg Sun",
-      "excerpt": "Carney says government has 'taken back control' of immigration Winnipeg Sun",
-      "cat": "Economy",
-      "lang": "en"
-    },
-    {
-      "id": "e84c3ca52c45e973",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdi14aEFwQ0xkQzZPRHBIVW5rRHFZanRxX3NKaGFzY3ZsOUlHSmpKYUNMTmhGblNCcmJmR0ItRmU2c0pRSHdaYUlFRE1KWDlSeUVLMU5qQ043WUY4UjZGY3o4a0NQdnQ2LUw1cHY4TW52Q1hta1FIcUpFeUFiOWI2czhhT3JNSDloZ0tad0h6SnJ4UXUxUjZ1dlpnVXlvRk1XUEwzSW5lbWd2cmR1RXFrS2JhSlhNanB6ZWZhc18xME9WNnB4bDVOOFU5VWV0OGo4endrMFh3d1JnaWdaR3BUc0kwd3lBVTJlUU5EV3pzTW9BM1BUNFRZQUJiRQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Mark Carney rejects using oil exports as leverage against U.S. amid tariff fight: ‘Canadians are reliable’ - Toronto Star",
-      "excerpt": "Mark Carney rejects using oil exports as leverage against U.S. amid tariff fight: ‘Canadians are reliable’ Toronto Star",
-      "cat": "Economy",
-      "lang": "en"
-    },
-    {
-      "id": "3fbce81a207fc498",
-      "date": "2026-07-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/07/infrastructure-announcement-in-victoria0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "title": "Federal, provincial, and local leaders to announce Victoria infrastructure plan",
-      "sum": "Federal, provincial, and municipal officials will hold a media event in Victoria to announce infrastructure initiatives. The announcement will include the federal MP for Victoria, the provincial MLA for Esquimalt-Colwood, and representatives from local government organizations.",
-      "cat": "Infrastructure",
-      "ai": true,
-      "lang": "en"
-    },
-    {
-      "id": "ca09d699afda8fea",
-      "date": "2026-07-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/07/federal-investments-support-canadas-sport-system-in-alberta-from-playground-to-podium.html",
-      "type": "Announcement",
-      "kind": "official",
-      "title": "Federal government invests in Alberta sports system infrastructure",
-      "sum": "The Secretary of State for Sport visited Calgary and Canmore to highlight federal funding supporting sports and recreation programs in Alberta, meeting with athletes, coaches, and community leaders.",
-      "cat": "Innovation, science & industry",
-      "ai": true,
-      "lang": "en"
-    },
-    {
-      "id": "26579f238ef6c6cb",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeVBkV0lXSWY1Nm1OTzc5NlpLYkpYZkpCWUstS25QMnpWYUlqLWY3dnRDVjNCTXg1Si1lbkpZSlgxSkJHcTZ3SU1TRlFpSXRKZ3o5ZmxjQXJXYVRZN3hYQXdDcmQyZkRKZF83VmhFa2g3RVVWZ012aG1SOW02SHAwTFg0YS10WnFWWHIzenJ1QkVhUjJNS0tTWTVxX1ZySEFn?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Carney says government has 'taken back control' of immigration - Penticton Herald",
-      "excerpt": "Carney says government has 'taken back control' of immigration Penticton Herald",
-      "cat": "Economy",
-      "lang": "en"
-    },
-    {
-      "id": "7cfb88bcb0e0102a",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUdXSXBTc2RCQnZRSFdVb19UWmM1LWlubGZVVDVucGltcE16RUpWendSME91Mng0RGdzM0tBcXNIWm82TU1URHpwSUVwUmpKZl8tR0FvVGNjUmRiRzV1NDYxMGdTVlRScW5tTUNWQ200V1REeUpOY1JTNS1WQWtWM256SThjUTJaU2kwQng5Q0xiSkZKUzBPZ3BLa3dYZW41LU1kYnhiODVEWnNPR3c?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Conservatives urge Carney government to not intervene in WestJet dispute - iPolitics",
-      "excerpt": "Conservatives urge Carney government to not intervene in WestJet dispute iPolitics",
-      "cat": "Economy",
-      "lang": "en"
-    },
-    {
-      "id": "02f83d56a5710427",
-      "date": "2026-07-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMS0xXzlKNWRLQjNVVF90SE5qOWpwdm96eVFwN0VOWl9RQWJLU0tiRmxnY3BsVVMwOVNrc19IZkdaeEFtZVRtLUp1ZTFWX29zRFhjZnRnTGZhd2F2dnVqaHdFNENQeE1BSVJYVzhrT2FROTFEbHFFTmhPelViZElzZ3FmaXIyTklpdktudVBoWFc4TE9fNG9YLVVRenRZdkh1SlE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Carney says government has ‘taken back control’ of immigration - CityNews Toronto",
-      "excerpt": "Carney says government has ‘taken back control’ of immigration CityNews Toronto",
-      "cat": "Economy",
-      "lang": "en"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T18:32:32.414Z",
-  "count": 14588,
+  "generatedAt": "2026-08-23T01:25:38.220Z",
+  "count": 14602,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,143 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d88744e60aa7839d",
+      "date": "2026-08-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTd2Wm1YNkNFX2ZwSlMxQ19fY08wSFVoQUttdkFVYW96SFN5NGRITGlrR05YQ2xIWS1UMlJPdjJPU0Z0c0xVcDdjbXdmRGxFaE9EMVRudElETFp6clNya2ZNaUd0X1hyWHN0MDNqSFRhaGZGVlc5TmI1S2V3dlA5bHJuNWlJdWtGX1BJVkstMFRfQWJVclpkdFFSVFBRZ3l3dk4zQmZXTzFsYTdwdDlaYkNjMVd1enVsOS04VnBFSXd1dndVOExzdHlaZHZZVmNW?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. - CTV News",
+      "excerpt": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "349d7c06b71dfb79",
+      "date": "2026-08-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/minister-miller-will-announce-major-funding-for-a-cultural-organization-in-montreal.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces funding for Montréal performing arts organization",
+      "sum": "Minister Miller will announce major funding directed toward a cultural organization in Montréal that focuses on performing arts. The investment is part of the Government of Canada's support for the cultural sector.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "8f0bc2337deeb9f5",
+      "date": "2026-08-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/employment-social-development/news/2026/08/government-of-canada-announces-peter-ballantyne-cree-nation-as-an-indigenous-skills-and-employment-training-program-agreement-holder.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Peter Ballantyne Cree Nation selected for skills training program",
+      "sum": "The Government of Canada has designated Peter Ballantyne Cree Nation as a recipient of funding and support through the Indigenous Skills and Employment Training Program. This program provides training and employment support services to Indigenous peoples.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "08a1c8d0cabfdc1b",
+      "date": "2026-08-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/canada-and-mississauga-invest-in-active-transportation-infrastructure.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada and Mississauga fund active transportation infrastructure",
+      "sum": "The federal government is investing $8.8 million in Mississauga to improve trails and bike paths. The funding will enhance active transportation infrastructure for pedestrians and cyclists in the city.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "d6f5f9988aa5e428",
+      "date": "2026-08-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-ministre-marc-miller-annoncera-loctroi-dun-financement-important-a-un-organisme-culturel-montrealais.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada accorde financement important à organisme culturel montréalais",
+      "sum": "Le ministre Marc Miller annonce un investissement du gouvernement canadien dans les arts de la scène à Montréal. Ce financement est destiné à soutenir un organisme culturel de la région.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "7d4d9371b2fcbd24",
+      "date": "2026-08-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/08/le-gouvernement-du-canada-annonce-que-la-premiere-nation-crie-de-peter-ballantyne-est-signataire-dune-entente-dans-le-cadre-du-programme-de-formati.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Peter Ballantyne Cree Nation signe entente formation compétences emploi",
+      "sum": "Le gouvernement du Canada annonce que la Première Nation crie de Peter Ballantyne a signé une entente dans le cadre du Programme de formation pour les compétences et l'emploi destiné aux Autochtones.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "aa7d711fde2ab8b9",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVJvRFo4QWtkQ0M2bDZLdVI0aHg5T0N1c0RGQjdfR1EweE5UZXVBcm1tWG1WZGVOdUVXSlVJczZSM0NOSkVnaVV4d0ZoX0o0WGR1UG9MOFZYd2NPeUdfY2kxRVRzUnQyVFhTX1QtenV0bWMzR2dOaFJtZ2E4b3E1VFdOTFIxSU0ySTVHR2xmUDEtVXVUeVlWWWRnMHpBYU9uSmFGSXBsR2xCdndkNnJkZEFTNTI5akxwclFJSGx1elgwbW1pendLb2FYR2tzTXhnd2RsTDdtOGRxNUk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "CARNEY RESPONDS - “They Asked Too Much and Offered Too Little”: Carney Draws a Line as Canada - U.S. Trade Talks Collapse - EnergyNow",
+      "excerpt": "CARNEY RESPONDS - “They Asked Too Much and Offered Too Little”: Carney Draws a Line as Canada - U.S. Trade Talks Collapse EnergyNow",
+      "cat": "Economy"
+    },
+    {
+      "id": "8fd4eebfdcc37556",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pUk1hZDJLWGdVS3kwS0VNQW4tX190X3RHZjBrcTFtVEt3Nmh1cmdMa0d5SWQwemlwdDR6N0NGUzJGanlqeFNid1pkTlFQb2JxQVZGaVdOWTFKUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney faces crucial test after walking away from Trump's deal - BBC",
+      "excerpt": "Carney faces crucial test after walking away from Trump's deal BBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "828f07d87902dd37",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHRlUk9sTmtqU0dQN0lFX3NBQ3dhd3lKX1RCd240dHR4VV9sS0U5emdIOUsxbzVtYzgzWXN0SEZhcmQtN2d6NENhZ2FhYlhnRmNLUHBzcUFRZDVKQTcxN2NVQzhrM24ySXpuczhUN2hGaGV1UkQ2a2ZDZkQwZmtjQUJqM1pCeVVCMGJGZFRrV0VoVUNEdllXSVdWbjR4WHdmNkJoUE93?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The latest on trade negotiations between Canada and the United States - CFJC Today Kamloops",
+      "excerpt": "The latest on trade negotiations between Canada and the United States CFJC Today Kamloops",
+      "cat": "Economy"
+    },
+    {
+      "id": "ffecfe60dfaf810d",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYkN4ck1qS0s3N1JaaW5ZOVdRVnhjelpQZDVZcTF6alhpWU45ZHlyTjU4QU52aGMxNXJCdmIxcThLVEptbUVBZHJSekF5LS16ZnQ2WmdUenpRczdneEVTSHQ0SUFuMk1xSDc0UnFYNHNGRVBYOW1XbVUwTEpSUnRIdmRKaHVYc1RlVWt2OGNrRnU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Read Mark Carney's full speech after trade talks with the U.S. collapsed - CBC",
+      "excerpt": "Read Mark Carney's full speech after trade talks with the U.S. collapsed CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "4538788fbf06b508",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1JhalpVLWtieTd6U1Jmc2J2UGl2dHNGYkQ3eEhiMHppYjR6cXUzbnFILXozc1dQT2YwNnVib1V1dGtwLWRPM1hsT054RnVpakRnd1NhU2l0WDVncWk3QjJ3bllWUUVJejdVRFZGVlJwN0hLTl9JcmN5MURfeVgydmhCNVBheW9xZE15SmoxaExyX3lxSmpNNklSRFQ1dTJXNW5xcDRiMHdIUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 - CityNews Vancouver",
+      "excerpt": "Carney says Canadian retaliatory tariffs to take effect on Sept. 8 CityNews Vancouver",
+      "cat": "Economy"
+    },
     {
       "id": "15732bc2e8e4bc33",
       "date": "2026-08-22",
@@ -1142,6 +1279,18 @@
       "cat": "Economy"
     },
     {
+      "id": "9c8a3225b1ba47df",
+      "date": "2026-08-19",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaU9DMF9ITi1JX29ZUDBtal8tMlFZSDNqbFhFYlNTbzhWeFBFcjN5dFFXU3FyV0JZQy1EOURDQTJ1OHQzVmRvR3BlRWd0cUFWbWJPNWhhNlRxUjFOMjhNdlNHckEycjd4aW5JdjFEWWdBMkdRRkowajlOem9QWHVQRWczcDV2YVVjeVRDbXhUdXRwcTFBaXMwSlpqSU5KaTA1TlU3emhQSV9TdENMRV92aFB5TUFEcEtkeC1r?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le NPD porte plainte contre l’« écoblanchiment » des publicités du gouvernement Carney - QUB radio",
+      "excerpt": "Le NPD porte plainte contre l’« écoblanchiment » des publicités du gouvernement Carney QUB radio",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "47c5462d5387c6ea",
       "date": "2026-08-19",
       "src": "Canadian politics (via Google News)",
@@ -2204,6 +2353,18 @@
       "title": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques - Radio-Canada",
       "excerpt": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques Radio-Canada",
       "cat": "Economy"
+    },
+    {
+      "id": "50c3e687629625fd",
+      "date": "2026-08-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelJTMkx3azBKbFNubm5qVGlMVEpHYjlzLWZnSVVSZk52d1BaYnh6MkpWejJmcmZUcG1iUmRUZGdGUGdsN182UUFVNUIyTzJEckFOMmsxYzJoZXBiN3owWHhBZ2ZsWGpzc0l4dTQ3QS13YlJWOW9GWkJEOERqMXRoVUZwU2N2TW00aFNSU0dfajFKdG43dW9jcmJZZnl5UmNCWUUtRC1HYnhmZDVLV2hYY2cxamo4U1Q1S3BCSW9JVUw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces the largest clean energy investment in North American history - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces the largest clean energy investment in North American history pm.gc.ca",
+      "cat": "Natural resources"
     },
     {
       "id": "e1b543340d31ef21",
@@ -8167,6 +8328,18 @@
       "excerpt": "New survey shows businesses confident in Carney government’s agenda iPolitics",
       "cat": "Economy",
       "lang": "en"
+    },
+    {
+      "id": "8aa5c0a9875350f5",
+      "date": "2026-08-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlVSRVNIMmxUeWZMM3RDbkVORXQtMWZlV1VsZXFtVTliRWxpbHFGQ1dJaDc1cGhtWHVkUjZRd2lvalg0U0laYkxQUDB5VGZma0pHVkM3QU5vdXNydzJQakFNT2xQX2NKaHJlM0EtXzYwWUpEUGt4RnJPaWtJM2lnWHRMbnpVSTFuejBMNU1WZkhGTWI2OHJlQ1VXc1VVYlMwVG5FRHlwa3lNLWdKX3hjS3Rxcw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney has ‘no obvious challenger’ among Conservatives, new poll says - CTV News",
+      "excerpt": "Carney has ‘no obvious challenger’ among Conservatives, new poll says CTV News",
+      "cat": "Economy"
     },
     {
       "id": "625a20a111bba43a",
