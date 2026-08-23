@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T01:25:38.220Z",
+  "generatedAt": "2026-08-23T02:34:14.663Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7561,
+      "actions": 7562,
       "sources": 9
     },
     "fr": {
@@ -54,6 +54,18 @@
       "lang": "en",
       "title": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. - CTV News",
       "excerpt": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "829d45b02a3007b0",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXphWVZtaDQwLVJCdHZuY0d6MnZ5OGlPRUx4TWp1VHNsdmNOdkFwbGlJaVVjcU1BMmdSeXZCc0lJWkVTcnpjamh4N3EyODJBdEhlQ3ZBUmhvMTR5a3E0R2l3RVZJeUM0M21CbDBOcnFtVTUwaVJKQUpGT2pIX2lTOWtMeHU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says trade deal became untenable when U.S. 'asked too much and offered too little' - CBC",
+      "excerpt": "Carney says trade deal became untenable when U.S. 'asked too much and offered too little' CBC",
       "cat": "Economy"
     },
     {
@@ -10283,18 +10295,6 @@
       "title": "Carney abandonne la taxe Netflix: «Une concession absolue qui va amener des coûts de contribuables», dit Gaétan Barrette - TVA Nouvelles",
       "excerpt": "Carney abandonne la taxe Netflix: «Une concession absolue qui va amener des coûts de contribuables», dit Gaétan Barrette TVA Nouvelles",
       "cat": "Finance"
-    },
-    {
-      "id": "0226c49b52caad4c",
-      "date": "2026-07-29",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWROUVRuRGR1UFFWVThfbUx6UkVNSHlsRFZIZi1jc2w0Q051eXJ4UFJvenhPX1FoTFdaMFVpVVNQZWdIVlFNcHVPQi16RmdVNUlmRlN0aGJVUnFzekhQNmdiUDlSeVJvNTFhZHp0OTBydUxJNl9RWnZ1Qi1YWklrbU1pcktZWVZPcFVxU282aw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Le Canada a « repris le contrôle » de l’immigration, selon Carney - Radio-Canada",
-      "excerpt": "Le Canada a « repris le contrôle » de l’immigration, selon Carney Radio-Canada",
-      "cat": "Economy"
     }
   ]
 }

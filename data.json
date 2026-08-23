@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T01:25:38.220Z",
-  "count": 14602,
+  "generatedAt": "2026-08-23T02:34:14.663Z",
+  "count": 14603,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -44,6 +44,18 @@
       "lang": "en",
       "title": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. - CTV News",
       "excerpt": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "829d45b02a3007b0",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXphWVZtaDQwLVJCdHZuY0d6MnZ5OGlPRUx4TWp1VHNsdmNOdkFwbGlJaVVjcU1BMmdSeXZCc0lJWkVTcnpjamh4N3EyODJBdEhlQ3ZBUmhvMTR5a3E0R2l3RVZJeUM0M21CbDBOcnFtVTUwaVJKQUpGT2pIX2lTOWtMeHU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says trade deal became untenable when U.S. 'asked too much and offered too little' - CBC",
+      "excerpt": "Carney says trade deal became untenable when U.S. 'asked too much and offered too little' CBC",
       "cat": "Economy"
     },
     {
