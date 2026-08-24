@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-23T18:31:46.583Z",
+  "generatedAt": "2026-08-24T01:22:51.647Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7618,
+      "actions": 7620,
       "sources": 9
     },
     "fr": {
-      "actions": 7041,
+      "actions": 7043,
       "sources": 7
     }
   },
@@ -44,6 +44,58 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "3c6fa4da6c4e1ac6",
+      "date": "2026-08-23",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/08/minister-champagne-in-montreal-to-host-pre-budget-consultations-ahead-of-budget-2026.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister Champagne hosts pre-budget consultations in Montreal",
+      "sum": "Minister Champagne is holding consultations in Montreal to gather input before the 2026 federal budget is prepared. These discussions will inform the government's budget planning process.",
+      "cat": "Finance",
+      "ai": true
+    },
+    {
+      "id": "a50c0e95ccefb9d3",
+      "date": "2026-08-23",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/housing-announcement-in-toronto.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal housing announcement scheduled in Toronto",
+      "sum": "A housing announcement will take place in Toronto with participation from the Member of Parliament for University—Rosedale, the Mayor of Toronto, and the Deputy Mayor of Toronto. Media are invited to attend.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "7eecbf745e9b5ded",
+      "date": "2026-08-23",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/08/le-ministre-champagne-sera-a-montreal-pour-tenir-des-consultations-prebudgetaires-en-vue-du-budget-de-2026.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Champagne tient consultations prébudgétaires à Montréal",
+      "sum": "Le ministre Champagne se rendra à Montréal pour mener des consultations en préparation du budget fédéral de 2026. Ces consultations permettront de recueillir des commentaires avant la présentation du budget.",
+      "cat": "Finance",
+      "ai": true
+    },
+    {
+      "id": "a19e6f24c12e9873",
+      "date": "2026-08-23",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/annonce-concernant-le-logement-a-toronto.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Annonce sur le logement à Toronto avec élus fédéraux et municipaux",
+      "sum": "Une annonce concernant le logement sera faite à Toronto en présence de la députée Danielle Martin, de la mairesse Olivia Chow et de la mairesse suppléante Ausma Malik.",
+      "cat": "Housing",
+      "ai": true
+    },
     {
       "id": "6807ae74e6da9fc6",
       "date": "2026-08-23",
@@ -10237,58 +10289,6 @@
       "title": "Santé Canada obtient injonction contre vente illégale de peptides",
       "sum": "Le 11 juin 2026, la Cour supérieure du Québec a accordé une injonction permanente à Santé Canada interdisant à Canlab Research de vendre des peptides injectables non autorisés au Canada.",
       "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "0ccf7846c4522f05",
-      "date": "2026-07-29",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/peches-oceans/nouvelles/2026/07/un-pecheur-recreatif-condamne-a-une-amende-de-5-500--pour-de-multiples-infractions-a-la-loi-sur-les-peches-commises-dans-la-baie-burrard-en-colombi.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Pêcheur récréatif condamné à une amende pour infractions à la Loi sur les pêches",
-      "sum": "Un pêcheur récréatif a reçu une amende de 5 500 $ pour avoir enfreint plusieurs règlements fédéraux de pêche dans la baie Burrard, en Colombie-Britannique. Le non-respect de ces règlements compromet les efforts de conservation et la durabilité des ressources halieutiques.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "a76964585c5d37a7",
-      "date": "2026-07-29",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/07/saisie-dobjets-interdits-et-non-autorises-au-penitencier-de-la-saskatchewan.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Saisie d'objets interdits au Pénitencier de la Saskatchewan",
-      "sum": "Du personnel du Pénitencier de la Saskatchewan a saisi des colis contenant des objets interdits et non autorisés les 25 et 27 juillet 2026. Ces saisies ont été effectuées grâce à la vigilance des employés de l'établissement.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "e07bf51fb86da7a8",
-      "date": "2026-07-29",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/le-gouvernement-federal-investit-dans-lamelioration-du-transport-actif-et-de-laccessibilite-a-antigonish.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le gouvernement fédéral investit dans le transport actif à Antigonish",
-      "sum": "Le gouvernement fédéral annonce un investissement destiné à améliorer le transport actif et l'accessibilité à Antigonish. L'annonce a été faite par le secrétaire parlementaire de la ministre des Relations Couronne-Autochtones et le maire d'Antigonish.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "01ebcf442099d192",
-      "date": "2026-07-29",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/07/des-investissements-federaux-appuient-le-systeme-sportif-canadien-en-alberta-du-terrain-de-jeu-au-podium.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Investissements fédéraux pour le sport et les loisirs en Alberta",
-      "sum": "Le secrétaire d'État van Koeverden a visité Calgary et Canmore pour rencontrer des jeunes, athlètes, entraîneurs et dirigeants sportifs. Il a présenté des investissements fédéraux destinés à soutenir le système sportif et les loisirs en Alberta.",
-      "cat": "Culture & heritage",
       "ai": true
     }
   ]
