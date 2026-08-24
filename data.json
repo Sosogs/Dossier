@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T01:22:51.647Z",
-  "count": 14663,
+  "generatedAt": "2026-08-24T07:01:06.149Z",
+  "count": 14664,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "72d77de3f2d74ef4",
+      "date": "2026-08-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CRjdUQ3RiWFFVcTRULWpFR2JuN1lKR0RMOGdaSzJDMUkweHZ2Q3lpUEF5RFNSOUk0dmFraUtXemFIYW53ejd4UVVwbkJvZXpGYVE2ZG5GMGlLdHBGaV9FQzhqNm5lMjVrVW1lVmZSWlVhN2tyR3lfS0JLZ1Bqdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives urge feds to release details of U.S. deal Canada walked away from - National - Global News",
+      "excerpt": "Conservatives urge feds to release details of U.S. deal Canada walked away from - National Global News",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "3c6fa4da6c4e1ac6",
       "date": "2026-08-23",

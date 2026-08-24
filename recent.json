@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T01:22:51.647Z",
+  "generatedAt": "2026-08-24T07:01:06.149Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7620,
+      "actions": 7621,
       "sources": 9
     },
     "fr": {
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "72d77de3f2d74ef4",
+      "date": "2026-08-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CRjdUQ3RiWFFVcTRULWpFR2JuN1lKR0RMOGdaSzJDMUkweHZ2Q3lpUEF5RFNSOUk0dmFraUtXemFIYW53ejd4UVVwbkJvZXpGYVE2ZG5GMGlLdHBGaV9FQzhqNm5lMjVrVW1lVmZSWlVhN2tyR3lfS0JLZ1Bqdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives urge feds to release details of U.S. deal Canada walked away from - National - Global News",
+      "excerpt": "Conservatives urge feds to release details of U.S. deal Canada walked away from - National Global News",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "3c6fa4da6c4e1ac6",
       "date": "2026-08-23",
@@ -10276,19 +10288,6 @@
       "title": "Canada investit 29,8 millions pour complexe récréatif Saint John",
       "sum": "Le gouvernement fédéral annonce un investissement de jusqu'à 29,8 millions de dollars pour la construction d'un complexe récréatif polyvalent à Saint John, en Nouvelle-Écosse. La Ville de Saint John contribue 20 millions de dollars au projet.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "f57a709f8c744607",
-      "date": "2026-07-29",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/sante-canada/nouvelles/2026/07/sante-canada-obtient-une-injonction-permanente-interdisant-a-canlab-research-la-vente-illegale-de-peptides-injectables-au-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Santé Canada obtient injonction contre vente illégale de peptides",
-      "sum": "Le 11 juin 2026, la Cour supérieure du Québec a accordé une injonction permanente à Santé Canada interdisant à Canlab Research de vendre des peptides injectables non autorisés au Canada.",
-      "cat": "Healthcare",
       "ai": true
     }
   ]
