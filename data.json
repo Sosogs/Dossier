@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T07:01:06.149Z",
-  "count": 14664,
+  "generatedAt": "2026-08-24T12:52:45.590Z",
+  "count": 14665,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "77a4cf5835325a1e",
+      "date": "2026-08-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VNVpraGpRbnpQcVNPSUJucFJHVThlOEs3QkwySm8zSFdsUjJ4MVdjUkk0ZEVJR0FieEUwMm9QdGNNLWo0cUNKVFFYeVlaYTd5NHJ5TG9mWllQa2NHVkxSOFl4bnEyM3RCZngyTFViQTdweGlLVndoZmVmTXJMUU0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "'Canadians deserve' to know specifics of the trade deal Canada walked away from: Conservative MP - National Post",
+      "excerpt": "'Canadians deserve' to know specifics of the trade deal Canada walked away from: Conservative MP National Post",
+      "cat": "Economy"
+    },
     {
       "id": "72d77de3f2d74ef4",
       "date": "2026-08-23",
