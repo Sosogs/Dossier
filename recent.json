@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-25T06:51:04.938Z",
+  "generatedAt": "2026-08-25T12:50:06.147Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7671,
+      "actions": 7677,
       "sources": 9
     },
     "fr": {
-      "actions": 7074,
+      "actions": 7076,
       "sources": 7
     }
   },
@@ -45,6 +45,56 @@
   ],
   "items": [
     {
+      "id": "1efaad2ce6038342",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-invests-in-museum-in-saguenaylac-saint-jean.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government invests in Saguenay–Lac-Saint-Jean museum camping exhibition",
+      "sum": "The Government of Canada is providing funding to support the creation of a new exhibition about camping at a museum in the Saguenay–Lac-Saint-Jean region.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "3f7fcc196aa041ca",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-gouvernement-du-canada-investit-dans-le-milieu-museal-au-saguenaylac-saint-jean.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada investit dans une exposition sur le camping au Saguenay–Lac-Saint-Jean",
+      "sum": "Le gouvernement du Canada fournit un soutien financier pour la réalisation d'une exposition portant sur le camping dans la région du Saguenay–Lac-Saint-Jean.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "086e93f7c42d4a65",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTgwbllBOHNyNDRkTVF0bGJ2c0FwOUJSX1ZlNUw5bjF3dHNnNThqaUdVUzhFOFhsOV9SS0NxS19MVWI4VUZwNjJwS2c2V19RV1BZQ1RHVTR6ZlAzUWF2dmlkSHkyTW1XRXFrWVFMZkZSN0NMTk1FQXZ5SWhpV0hDN2x0VlVRSU14dnF0WTgxTFlueUUySW53V2J3NXpiaVBncWdBOA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa to announce details of retaliatory tariffs on U.S. today - CityNews Toronto",
+      "excerpt": "Ottawa to announce details of retaliatory tariffs on U.S. today CityNews Toronto",
+      "cat": "Economy"
+    },
+    {
+      "id": "cb5b5e483672b52c",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oTGJoaHFHTFJNdDA2ZERjUko3YktseTR0cUx5NjlvLTVqMDIwWkdVZU01eWtMeFZwT1ppZW5sTGpKYmFMSFE0d05xNmFTNEZ2Qlk5QjZOeHdRdmpnM3ZybENqUF9MNW5MU0lMd1p5Y000dHYyTDFTdFdJdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Jesse Kline: In the face of tough new tariffs, Carney doubles down on government spending - Yahoo News Canada",
+      "excerpt": "Jesse Kline: In the face of tough new tariffs, Carney doubles down on government spending Yahoo News Canada",
+      "cat": "Economy"
+    },
+    {
       "id": "95f5527697ba0cef",
       "date": "2026-08-25",
       "src": "Government of Canada",
@@ -80,6 +130,30 @@
       "lang": "en",
       "title": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet - The Washington Post",
       "excerpt": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "cc5c7e359c13da56",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGUzS0haUndQa2JiOS1lTFZPMUhQWFRvWTJGSVhsaFZyTkhrYzdrSlpmZWpLZC1Udy01X2lxbWN0ZHBUM0VwVzVzZV9KV2dHZlZleHdRa2RZOE9ibHpDYXVBYmMwRWZoamhUNkJmSDluS0dtRGNRa3FNblhSNEt5Q1ctT3hLZnVRa2E4YjhPS3B1NHVVMWRiX1NzV1N2Umd2RGNzX21QV0d3TlVR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney announces construction of new icebreakers will begin next year - Nunatsiaq News",
+      "excerpt": "Carney announces construction of new icebreakers will begin next year Nunatsiaq News",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "12bb1873686c27bb",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmdDSjdEQVF3V2I2RWllUWwySVpBLVZTRUZZUW9pVzhkcWlGZFA5YTdrM09Uel92Q2EzWHdXT0J3WVNudThJc0dhMGNFNndLWFNaclBqd2I2VlFnM2cwUDh5V1lsWl9veTVDaXBSMU5YMGQxVlB1Vk9MWk51bzR6NUtHUTFydkJPbEx5TEk2WGQtcDNLa0RROHd3Q2I5MXBNcVY0RFpnMnA0QQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives ask Carney to release U.S. trade offer details - BNN Bloomberg",
+      "excerpt": "Conservatives ask Carney to release U.S. trade offer details BNN Bloomberg",
       "cat": "Economy"
     },
     {
@@ -1418,6 +1492,18 @@
       "lang": "en",
       "title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion - NBC News",
       "excerpt": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion NBC News",
+      "cat": "Economy"
+    },
+    {
+      "id": "3906995f5f47c6cf",
+      "date": "2026-08-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tYnhzME1aNVZxenl4b1VpZVFaOVJGOHRiOUNVcnl3SVR5aUF4cVdDZDd3NnlLeDg5WXFQcWcwX0tVbktVS1kxb0JneExTc1hrenBoWXYyV1RqaV94LWwweQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Who Really Runs Canada? Inside Mark Carney’s Influence Network - The Walrus",
+      "excerpt": "Who Really Runs Canada? Inside Mark Carney’s Influence Network The Walrus",
       "cat": "Economy"
     },
     {
@@ -10188,97 +10274,6 @@
       "cat": "Infrastructure",
       "ai": true,
       "lang": "en"
-    },
-    {
-      "id": "eca464ff8126711f",
-      "date": "2026-08-01",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/07/statement-by-minister-miller-on-emancipation-day.html",
-      "type": "Announcement",
-      "kind": "official",
-      "title": "Government of Canada marks Emancipation Day",
-      "sum": "Minister Miller issued a statement on behalf of the Government of Canada recognizing Emancipation Day.",
-      "cat": "Culture & heritage",
-      "ai": true,
-      "lang": "en"
-    },
-    {
-      "id": "c4c92960d1edd4ae",
-      "date": "2026-08-01",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/agriculture-agri-food/news/2026/07/ministers-statement-food-day-canada-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "title": "Government marks 23rd anniversary of Food Day Canada",
-      "sum": "The Minister issued a statement commemorating Food Day Canada's 23rd anniversary, which was established in 2003. The statement recognized the food producers and the initiative's founder, the late Anita Stewart.",
-      "cat": "Culture & heritage",
-      "ai": true,
-      "lang": "en"
-    },
-    {
-      "id": "2bc02c3c72fe8592",
-      "date": "2026-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/07/le-gouvernement-du-canada-annonce-loctroi-dune-aide-financiere-aux-personnes-touchees-par-la-tragedie-de-tumbler-ridge.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada accorde 4 millions dollars aux victimes de Tumbler Ridge",
-      "sum": "Le gouvernement du Canada annonce une aide financière de plus de 4 millions de dollars pour soutenir les personnes touchées par une tragédie survenue à Tumbler Ridge, en Colombie-Britannique, en février 2026.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "1e08f706b95fcc72",
-      "date": "2026-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/07/saisies-dobjets-interdits-et-non-autorises-a-letablissement-de-collins-bay1.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Saisie d'objets interdits à l'Établissement de Collins Bay",
-      "sum": "Entre le 22 et 25 juillet 2026, le personnel de l'Établissement de Collins Bay a saisi plusieurs colis contenant des objets interdits et non autorisés. Cet établissement fédéral accueille des détenus à différents niveaux de sécurité.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "1efb6854409437c7",
-      "date": "2026-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/commission-droit-canada/nouvelles/2026/07/la-commission-du-droit-du-canada-annonce-les-chercheuses-emergentes-pour-le-printemps-ete-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Commission du droit du Canada annonce trois chercheuses émergentes 2026",
-      "sum": "La Commission du droit du Canada a sélectionné trois chercheuses émergentes pour la période printemps-été 2026. Il s'agit de Kaitlyn Blaser, Marie-Pier Jolicoeur et Leanna Katz.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "510a5b83205e5700",
-      "date": "2026-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/07/le-canada-impose-des-droits-de-sauvegarde-provisoires-sur-les-importations-darmoires-et-de-meubles-lavabos-en-bois-afin-de-proteger-les-fabricants-.html",
-      "type": "Regulation",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada impose des droits de sauvegarde sur les meubles en bois importés",
-      "sum": "Le Canada a mis en place des droits de sauvegarde temporaires sur les importations d'armoires et de meubles-lavabos en bois pour protéger les fabricants et les travailleurs canadiens face à la concurrence internationale.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "e2d4c2bcb75be282",
-      "date": "2026-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/le-canada-et-lontario-soulignent-une-autre-etape-importante-du-prolongement-de-la-ligne-de-metro-vers-scarborough.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Ontario progressent sur prolongement métro Scarborough",
-      "sum": "Le Canada et l'Ontario ont annoncé le début des travaux pour la station Lawrence et McCowan, deuxième des trois nouvelles stations du prolongement de la ligne de métro vers Scarborough dans la région du Grand Toronto.",
-      "cat": "Transportation",
-      "ai": true
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T06:51:04.938Z",
-  "count": 14745,
+  "generatedAt": "2026-08-25T12:50:06.147Z",
+  "count": 14753,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,56 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "1efaad2ce6038342",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-invests-in-museum-in-saguenaylac-saint-jean.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government invests in Saguenay–Lac-Saint-Jean museum camping exhibition",
+      "sum": "The Government of Canada is providing funding to support the creation of a new exhibition about camping at a museum in the Saguenay–Lac-Saint-Jean region.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "3f7fcc196aa041ca",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-gouvernement-du-canada-investit-dans-le-milieu-museal-au-saguenaylac-saint-jean.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada investit dans une exposition sur le camping au Saguenay–Lac-Saint-Jean",
+      "sum": "Le gouvernement du Canada fournit un soutien financier pour la réalisation d'une exposition portant sur le camping dans la région du Saguenay–Lac-Saint-Jean.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "086e93f7c42d4a65",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTgwbllBOHNyNDRkTVF0bGJ2c0FwOUJSX1ZlNUw5bjF3dHNnNThqaUdVUzhFOFhsOV9SS0NxS19MVWI4VUZwNjJwS2c2V19RV1BZQ1RHVTR6ZlAzUWF2dmlkSHkyTW1XRXFrWVFMZkZSN0NMTk1FQXZ5SWhpV0hDN2x0VlVRSU14dnF0WTgxTFlueUUySW53V2J3NXpiaVBncWdBOA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa to announce details of retaliatory tariffs on U.S. today - CityNews Toronto",
+      "excerpt": "Ottawa to announce details of retaliatory tariffs on U.S. today CityNews Toronto",
+      "cat": "Economy"
+    },
+    {
+      "id": "cb5b5e483672b52c",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oTGJoaHFHTFJNdDA2ZERjUko3YktseTR0cUx5NjlvLTVqMDIwWkdVZU01eWtMeFZwT1ppZW5sTGpKYmFMSFE0d05xNmFTNEZ2Qlk5QjZOeHdRdmpnM3ZybENqUF9MNW5MU0lMd1p5Y000dHYyTDFTdFdJdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Jesse Kline: In the face of tough new tariffs, Carney doubles down on government spending - Yahoo News Canada",
+      "excerpt": "Jesse Kline: In the face of tough new tariffs, Carney doubles down on government spending Yahoo News Canada",
+      "cat": "Economy"
+    },
     {
       "id": "95f5527697ba0cef",
       "date": "2026-08-25",
@@ -70,6 +120,30 @@
       "lang": "en",
       "title": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet - The Washington Post",
       "excerpt": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "cc5c7e359c13da56",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGUzS0haUndQa2JiOS1lTFZPMUhQWFRvWTJGSVhsaFZyTkhrYzdrSlpmZWpLZC1Udy01X2lxbWN0ZHBUM0VwVzVzZV9KV2dHZlZleHdRa2RZOE9ibHpDYXVBYmMwRWZoamhUNkJmSDluS0dtRGNRa3FNblhSNEt5Q1ctT3hLZnVRa2E4YjhPS3B1NHVVMWRiX1NzV1N2Umd2RGNzX21QV0d3TlVR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney announces construction of new icebreakers will begin next year - Nunatsiaq News",
+      "excerpt": "Carney announces construction of new icebreakers will begin next year Nunatsiaq News",
+      "cat": "Infrastructure"
+    },
+    {
+      "id": "12bb1873686c27bb",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmdDSjdEQVF3V2I2RWllUWwySVpBLVZTRUZZUW9pVzhkcWlGZFA5YTdrM09Uel92Q2EzWHdXT0J3WVNudThJc0dhMGNFNndLWFNaclBqd2I2VlFnM2cwUDh5V1lsWl9veTVDaXBSMU5YMGQxVlB1Vk9MWk51bzR6NUtHUTFydkJPbEx5TEk2WGQtcDNLa0RROHd3Q2I5MXBNcVY0RFpnMnA0QQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives ask Carney to release U.S. trade offer details - BNN Bloomberg",
+      "excerpt": "Conservatives ask Carney to release U.S. trade offer details BNN Bloomberg",
       "cat": "Economy"
     },
     {
@@ -1408,6 +1482,18 @@
       "lang": "en",
       "title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion - NBC News",
       "excerpt": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion NBC News",
+      "cat": "Economy"
+    },
+    {
+      "id": "3906995f5f47c6cf",
+      "date": "2026-08-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tYnhzME1aNVZxenl4b1VpZVFaOVJGOHRiOUNVcnl3SVR5aUF4cVdDZDd3NnlLeDg5WXFQcWcwX0tVbktVS1kxb0JneExTc1hrenBoWXYyV1RqaV94LWwweQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Who Really Runs Canada? Inside Mark Carney’s Influence Network - The Walrus",
+      "excerpt": "Who Really Runs Canada? Inside Mark Carney’s Influence Network The Walrus",
       "cat": "Economy"
     },
     {
@@ -28803,6 +28889,18 @@
       "cat": "Culture & heritage",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "a561ce609a427a97",
+      "date": "2026-06-30",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFBDd0hIdzFYZjYzNWJ0elBxUjBldXBaSXdfeFdrNWRuaWtNS1ZleEtJOEp1S0lBYWtoSUxuNG1lRG90NmRzNVNaUldxVWRLNno2RFNWNm03UEd2bWRWalFQQ01jNTNDYTh3b2w0V05XQmFlSG5FSnZTSWtFUGZDWTktRzctZFBFZzdjM0JTQTE5czYwaEtaTkVZcWRXQTZ2cG1paWVRMjAwZTJOY0pGZ1RIb0M2MTdrZkhUOQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Mark Carney se rendra en Alberta à l’occasion de la fête du Canada - L’Éclaireur Progrès",
+      "excerpt": "Mark Carney se rendra en Alberta à l’occasion de la fête du Canada L’Éclaireur Progrès",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "fe15be9d3e023bc6",
