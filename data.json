@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T12:50:06.147Z",
-  "count": 14753,
+  "generatedAt": "2026-08-25T18:41:45.301Z",
+  "count": 14840,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,560 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ba6db73ca0cf0f96",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/canada-marks-start-of-major-infrastructure-upgrades-at-5th-canadian-division-support-base-gagetown.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada begins major infrastructure upgrades at military base in New Brunswick",
+      "sum": "Phase 1 construction has started on the Recapitalization Gagetown Range and Training Area project at Canadian Forces Base Gagetown. The project involves significant infrastructure improvements at the military training facility.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "5165582e674a8dde",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/building-canada-strong-by-investing-in-enhancement-and-expansion-to-the-pmd-arena-and-community-centre.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal government invests $4.7 million in PMD Arena expansion",
+      "sum": "The federal government announced funding of more than $4.7 million to enhance and expand the PMD Arena and Community Centre. The investment comes through the Direct Delivery stream of the Build Communities Strong Fund.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "9280f623c47c7b21",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/prairies-economic-development/news/2026/08/government-of-canada-to-announce-support-for-economic-opportunities-in-the-cold-lake-region.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal funding announced for Cold Lake region economic development",
+      "sum": "The federal government is providing funding to support economic development opportunities in the Cold Lake region. The announcement will be made by the Member of Parliament for Edmonton Riverbend on behalf of the Minister responsible for Prairies Economic Development Canada.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "22c841afa4d09db2",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/employment-social-development/news/2026/08/government-of-canada-invests-in-workforce-training-to-support-the-life-sciences-and-biomanufacturing-sector.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada invests in life sciences and biomanufacturing workforce training",
+      "sum": "The Government of Canada is providing funding for workforce training programs in the life sciences and biomanufacturing sectors. This investment aims to develop skilled workers to support these industries.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "cdba80d722af6f54",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/08/government-of-canada-and-tsilhqotin-national-government-to-advance-construction-of-a-new-pacific-salmon-hatchery-for-fraser-chinook.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada and Tŝilhqot'in Nation to build Fraser Chinook salmon hatchery",
+      "sum": "The Government of Canada and the Tŝilhqot'in National Government are advancing a project to construct a new Pacific salmon hatchery focused on Fraser Chinook salmon. The initiative involves collaboration between Indigenous governments and Fisheries and Oceans Canada to help rebuild salmon populations in British Columbia and Yukon.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "7a5af4627279e88d",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/08/government-of-canada-and-gitanyow-first-nation-advance-construction-to-build-new-kitwanga-river-hatchery-for-skeena-sockeye.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada and Gitanyow First Nation advance Kitwanga River hatchery construction",
+      "sum": "The Government of Canada and Gitanyow First Nation are moving forward with building a new hatchery on the Kitwanga River to support Skeena sockeye salmon populations. Hatcheries help conserve and rebuild vulnerable Pacific salmon while supporting the social, cultural, and economic needs of communities.",
+      "cat": "Wildlife",
+      "ai": true
+    },
+    {
+      "id": "f9e5f93d5121af4a",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/08/government-of-canada-and-lheidli-tenneh-first-nation-to-build-new-prince-george-hatchery-for-fraser-river-chinook.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada and Lheidli T'enneh to build Prince George Chinook hatchery",
+      "sum": "The Government of Canada and Lheidli T'enneh First Nation will construct a new hatchery in Prince George to support Fraser River Chinook salmon populations. The project responds to declining salmon numbers caused by climate change, habitat loss, and fishing pressure.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "0b73118c697bfa37",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/transport-canada/news/2026/08/minister-mackinnon-to-make-an-announcement-at-the-prince-rupert-airport-regarding-critical-infrastructure.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Transport Minister to announce airport infrastructure plans in BC",
+      "sum": "The Minister of Transport will make an announcement about critical infrastructure for airports in British Columbia at the Prince Rupert Airport.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "02bc2cdd2a6b3338",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/08/death-of-an-inmate-from-bath-institutions-regional-treatment-centre.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Inmate death at Bath Institution Regional Treatment Centre",
+      "sum": "Robert William Buchanan, an inmate at Bath Institution's Regional Treatment Centre, died on August 24, 2026, while in custody from apparent natural causes.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "a6bf6b920eed2871",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/08/newfoundland-and-labradors-space-and-defence-sectors-set-for-lift-off-with-significant-investment.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal investment announced for Newfoundland and Labrador space defence sectors",
+      "sum": "The federal government will announce a significant investment to support the space and defence sectors in Newfoundland and Labrador. The announcement will be made by the Minister of Justice and Attorney General of Canada.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "ee70a743a96a9eaa",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-health/news/2026/08/government-of-canada-invests-6-million-to-help-canadians-get-active-with-participaction.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada invests $6 million in ParticipACTION physical activity program",
+      "sum": "The Government of Canada announced $6 million in continued funding for ParticipACTION, a program that encourages Canadians of all ages to incorporate physical activity into their daily lives.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "32461d779f3ed70a",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2026/08/canada-and-two-first-nations-under-treaties-4-and-6-advance-reconciliation-through-agricultural-benefits-claim-settlements.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada settles agricultural benefits claims with two First Nations",
+      "sum": "Canada has resolved specific claims related to agricultural benefits with The Key First Nation and Muskeg Lake Cree Nation, both under Treaties 4 and 6. The settlement was marked by federal ministers and First Nation representatives.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "51b0b08f1bf7d1d3",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/08/canada-announces-targeted-countermeasures-and-substantive-support-for-workers-and-businesses-in-response-to-us-tariffs.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces retaliatory tariffs matching U.S. tariff increase",
+      "sum": "Canada is responding to U.S. tariffs on $27.6 billion of Canadian goods by imposing matching tariffs on U.S. goods, effective August 22. The government also announced support measures for affected Canadian workers and businesses.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "7e216357dd2252f8",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/08/support-for-canadian-workers-and-businesses-affected-by-us-tariffs.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces $7.5 billion support package for tariff-affected workers",
+      "sum": "The Canadian government is introducing a $7.5 billion package of measures to support workers and businesses affected by U.S. tariffs, particularly small and medium-sized enterprises in the hardest-hit sectors. This builds on approximately $25 billion in supports already provided over the previous 18 months.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "aeb9d071968de96a",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/08/list-of-products-from-the-united-states-subject-to-counter-tariffs-effective-september-8-2026.html",
+      "type": "Regulation",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada imposes counter-tariffs on U.S. products starting September 2026",
+      "sum": "Canada will apply tariffs of 15, 25, and 50 percent on specified U.S. products beginning September 8, 2026. The tariff rates match U.S. tariffs imposed under Section 338 and Section 232.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "f94ed5420fa27b30",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/federal-government-and-the-toronto-and-region-conservation-authority-invest-in-the-meadoway-multi-use-trail.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal government invests in Toronto Meadoway multi-use trail",
+      "sum": "The federal government is providing over $4.3 million to help transform a hydro corridor into a greenspace and active transportation route in partnership with the Toronto and Region Conservation Authority.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "0631c22252fb027d",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-supports-the-mutek-festival.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government of Canada provides financial support to MUTEK Festival",
+      "sum": "The Government of Canada is providing financial support to the MUTEK Festival. MUTEK is a festival focused on digital creativity, music, and art.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "a64ae9016e9aff0a",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/building-canada-strong-by-investing-in-the-fredericton-indoor-pool.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal funding announced for Fredericton Indoor Pool",
+      "sum": "The federal government is investing in the Fredericton Indoor Pool as part of its infrastructure spending strategy. The investment is intended to support community development and resilience.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "b0474bb7569f2f34",
+      "date": "2026-08-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/border-services-agency/news/2026/08/cbsa-seizes-385-kg-of-cocaine-at-blue-water-bridge.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "CBSA seizes 385 kg of cocaine at Blue Water Bridge",
+      "sum": "Canada Border Services Agency officers seized approximately 385 kilograms of suspected cocaine from a commercial truck at the Blue Water Bridge port of entry in Point Edward, Ontario on August 13, 2026. The drugs were discovered during a secondary examination of the vehicle.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "e7b612899845a2f0",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/08/le-canada-marque-le-debut-dimportantes-modernisations-des-infrastructures-a-la-base-de-soutien-de-la-5e-division-du-canada-gagetown.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada débute la modernisation des infrastructures à la Base Gagetown",
+      "sum": "Le gouvernement du Canada amorce la première phase des travaux de modernisation du champ de tir et des installations connexes à la Base de soutien de la 5e Division du Canada, située à Gagetown.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "d7be681dab8a5b63",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/batir-un-canada-fort-en-investissant-dans-lamelioration-et-lagrandissement-de-larena-et-du-centre-communautaire-pmd.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le gouvernement fédéral investit 4,7 millions dans l'aréna communautaire PMD",
+      "sum": "Le gouvernement fédéral a annoncé un investissement de plus de 4,7 millions de dollars pour améliorer et agrandir l'aréna et le centre communautaire PMD. Cet investissement est versé dans le cadre du volet de prestation directe du Fonds pour bâtir des collectivités fortes.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "fdb8e63477109b91",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-prairies/nouvelles/2026/08/le-gouvernement-du-canada-annoncera-un-soutien-qui-favorisera-les-debouches-economiques-dans-la-region-de-cold-lake.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada annonce un soutien économique pour la région de Cold Lake",
+      "sum": "Le gouvernement du Canada annoncera un financement fédéral destiné à favoriser le développement économique dans la région de Cold Lake. Cette annonce sera faite par le député Matt Jeneroux, au nom de la ministre Eleanor Olszewski.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "849219067492c567",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/08/le-gouvernement-du-canada-investit-dans-la-formation-de-la-main-duvre-pour-soutenir-le-secteur-des-sciences-de-la-vie-et-de-la-biofabrication.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada investit dans la formation en sciences de la vie",
+      "sum": "Le gouvernement du Canada consacre des fonds à la formation de travailleurs dans le secteur des sciences de la vie et de la biofabrication.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "4250e6f075f6775f",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/peches-oceans/nouvelles/2026/08/le-gouvernement-du-canada-et-le-gouvernement-national-des-tsilhqotin-lancent-la-construction-dune-nouvelle-ecloserie-de-saumon-du-pacifique-pour-le.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et Tŝilhqot'in lancent construction écloserie saumon chinook",
+      "sum": "Le gouvernement du Canada et le gouvernement national des Tŝilhqot'in commencent la construction d'une nouvelle écloserie pour élever le saumon chinook du fleuve Fraser. Ce projet s'inscrit dans la collaboration continue entre les gouvernements autochtones et Pêches et Océans Canada pour rétablir les populations de saumon vulnérables.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "bf85077e8f598eac",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/peches-oceans/nouvelles/2026/08/le-gouvernement-du-canada-et-la-premiere-nation-gitanyow-lancent-la-construction-dune-nouvelle-ecloserie-sur-la-riviere-kitwanga-afin-de-preserver-.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et Gitanyow construisent écloserie saumon Kitwanga",
+      "sum": "Le gouvernement du Canada et la Première Nation Gitanyow lancent la construction d'une nouvelle écloserie sur la rivière Kitwanga. Ce projet vise à préserver les populations de saumon rouge de la rivière Skeena.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "5340cf6bd5ad5391",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/peches-oceans/nouvelles/2026/08/le-gouvernement-du-canada-et-la-premiere-nation-lheidli-tenneh-construiront-une-nouvelle-ecloserie-a-prince-george-pour-le-saumon-chinook-du-fleuve.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et Lheidli T'enneh construisent écloserie saumon Prince George",
+      "sum": "Le gouvernement du Canada et la Première Nation Lheidli T'enneh vont construire une nouvelle écloserie à Prince George pour contribuer à la préservation du saumon chinook du fleuve Fraser. Ce projet répond au déclin des populations de saumon causé par les changements climatiques, la perte d'habitat et les pressions de la pêche.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "f43b42de94c19b82",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/transports-canada/nouvelles/2026/08/le-ministre-des-transports-m-mackinnon-fera-une-annonce-a-laeroport-de-prince-rupert-concernant-les-infrastructures-essentielles.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre des Transports annonce investissements infrastructures aéroport Prince Rupert",
+      "sum": "Le ministre des Transports Steven MacKinnon fera une annonce à l'aéroport de Prince Rupert concernant des investissements en infrastructures essentielles pour des aéroports en Colombie-Britannique.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "62a574b6b581ace3",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/08/deces-dun-detenu-du-centre-regional-de-traitement-a-letablissement-de-bath.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Décès d'un détenu à l'Établissement de Bath",
+      "sum": "Robert William Buchanan, détenu au Centre régional de traitement à l'Établissement de Bath, est décédé le 24 août 2026 de causes apparemment naturelles.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "dd390a9b612c60c2",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/08/les-secteurs-spatial-et-de-defense-de-terre-neuve-et-labrador-sont-prets-a-prendre-leur-envol-apres-dimportants-investissements.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Investissements annoncés pour secteurs spatial et défense",
+      "sum": "Le ministre de la Justice annonce des investissements importants pour les secteurs spatial et de la défense à Terre-Neuve-et-Labrador. Ces investissements visent à soutenir la croissance économique de ces industries dans la province.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "b7ba7ba529542359",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/sante-publique/nouvelles/2026/08/le-gouvernement-du-canada-investit-6-millions-de-dollars-pour-aider-les-canadiennes-et-les-canadiens-a-devenir-actifs-avec-participaction.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada investit 6 millions pour soutenir ParticipACTION",
+      "sum": "Le gouvernement du Canada annonce un financement de 6 millions de dollars destiné à ParticipACTION, un organisme qui encourage les Canadiens de tous âges à pratiquer une activité physique régulière.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "3a82966a3723cf2d",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/relations-couronne-autochtones-affaires-nord/nouvelles/2026/08/le-canada-et-deux-premieres-nations-visees-par-les-traites-numeros-4-et-6-font-progresser-la-reconciliation-grace-au-reglement-de-revendications-pa.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada règle des revendications agricoles avec deux Premières Nations",
+      "sum": "Le Canada a conclu un règlement de revendications particulières concernant les avantages agricoles avec la Première Nation The Key et la Nation crie de Muskeg Lake, visées par les traités numéros 4 et 6. Cette entente vise à faire progresser la réconciliation entre le Canada et ces deux Premières Nations.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "47eb8d284495d186",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/08/le-canada-annonce-des-contre-mesures-ciblees-ainsi-que-des-mesures-importantes-pour-soutenir-les-travailleurs-et-les-entreprises-en-reponse-aux-dro.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada annonce des droits de douane en réponse aux mesures américaines",
+      "sum": "Le Canada répond aux nouveaux droits de douane américains de 50 % sur des produits canadiens en imposant des droits de douane équivalents sur les produits américains. Le gouvernement annonce également des mesures pour soutenir les travailleurs et les entreprises canadiens.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "2494ea5d539b53bc",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/08/des-mesures-de-soutien-aux-travailleurs-et-aux-entreprises-du-canada-touches-par-les-droits-de-douane-americains.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Gouvernement annonce mesures de soutien de 7,5 milliards aux travailleurs et entreprises",
+      "sum": "Le gouvernement du Canada présente un ensemble de mesures de soutien d'une valeur de 7,5 milliards de dollars destinées aux travailleurs et aux entreprises affectés par les droits de douane américains. Ces mesures s'ajoutent aux près de 25 milliards de dollars en soutien instaurés au cours des 18 derniers mois.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "b9ce674ce328d04b",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/08/liste-des-produits-en-provenance-des-etats-unis-assujettis-a-des-contre-mesures-tarifaires-a-compter-du-8-septembre-2026.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada impose des tarifs de rétorsion sur produits américains",
+      "sum": "À compter du 8 septembre 2026, le Canada appliquera des droits de douane de 15 %, 25 % et 50 % sur certains produits en provenance des États-Unis, en réponse aux tarifs américains imposés selon les articles 338 et 232.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "535d6c2b0e37f0e9",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/le-gouvernement-federal-et-loffice-de-protection-de-la-nature-de-toronto-et-de-la-region-investissent-dans-le-sentier-polyvalent-meadoway.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Gouvernement fédéral investit dans le sentier Meadoway à Toronto",
+      "sum": "Le gouvernement fédéral et l'Office de protection de la nature de Toronto investissent plus de 4,3 millions de dollars pour transformer un corridor hydroélectrique en espace vert et voie de transport actif.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "ed102687300937b1",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-gouvernement-du-canada-appuie-le-festival-mutek.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le gouvernement du Canada soutient financièrement le Festival MUTEK",
+      "sum": "Le gouvernement du Canada accorde un soutien financier au Festival MUTEK, un événement culturel. Cette aide vise à appuyer la tenue du festival.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "94269084fc44fd19",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/batir-un-canada-fort-en-investissant-dans-la-piscine-interieure-de-fredericton.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Investissement fédéral dans la piscine intérieure de Fredericton",
+      "sum": "Le gouvernement fédéral investit dans la construction ou la rénovation d'une piscine intérieure à Fredericton. Cet investissement s'inscrit dans une stratégie plus large de modernisation des infrastructures canadiennes.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "415298a5d3d690a9",
+      "date": "2026-08-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2026/08/lasfc-saisit-385-kg-de-cocaine-au-pont-blue-water.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "L'ASFC saisit 385 kg de cocaïne au pont Blue Water",
+      "sum": "Les agents de l'Agence des services frontaliers du Canada ont saisi environ 385 kg de cocaïne dissimulés dans un camion commercial au poste frontalier du pont Blue Water en Ontario le 13 août 2026. La drogue a été découverte lors d'un contrôle secondaire du véhicule.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "ca5d718f45414349",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX0xNR05mRDJwNUdmSzhxWUJYWXdnaDJOamRLZ2kyUmlyYVRDSkdzbGtGM19wc0hZSnVFRHd5TDF4cjlQeU0tV083Z1VocUFneXgtUmVQMmdHTlM0NlRVSzNWcklUTmlyeTNrd1A3TW5wYUhhMDdHSllFaDB1Z2hXb1JPN1l0TzB3VVBUWjFVNWZ5czdObTMxaDhaNVNrQjhOZHZQUDMtVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa to announce details of retaliatory tariffs on U.S. today - CityNews Vancouver",
+      "excerpt": "Ottawa to announce details of retaliatory tariffs on U.S. today CityNews Vancouver",
+      "cat": "Economy"
+    },
+    {
+      "id": "de7fe35bb2df8716",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVFpjZFVSbFZYT3hWNk1JODdQRW9sSGJwUmg0NU5jS0VTNFpXQzRYVnhYa29TazFWUWU1ekJWWWxzaUJ6dnFlYnUxc3V2NDA3cGNTZDVJS1dIdE40QkJmd0ZaZGk0dkc5ajk3VFBLbTNFUlFkZ3JmNW5ySmUxVVpSb2JYeGJVZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada hits back with counter-tariffs on 700 U.S. goods worth $28B - Global News",
+      "excerpt": "Canada hits back with counter-tariffs on 700 U.S. goods worth $28B Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "4450e9069109c839",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa242bGpyRm54SXM0RnR3M3EyNDJZeWRMNFY2NzVTcVlsVEVMUTNYWDdnWllqWTZyQUQ2aGRNNTY0cGwwN1F6V2x5RGxKUGZ4S1M4Z1Jva01BN0QzakY4cm9ITjJ4SW5hb2U3RmJPQTBSdkhEVWZhVXhtVFd5VXhWU2V1S29RWVI0RFV6TW13?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal ministers announce support for Canadians, $27B in counter-tariffs against U.S. - CBC",
+      "excerpt": "Federal ministers announce support for Canadians, $27B in counter-tariffs against U.S. CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "1967e4487e2721d8",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNME9VOWlxalZaeV9ERjlLUmFXbnZMajZXUnBCMV95eU5tZUF6ODVJYlR1a3BTUDJBWWdDdERDeG44SHFxWC1MVEpta0FxTnJnU0RyQ19QbE5YR3U5UEtiTzlJMnRNYnlmZV9XRnhnZGlVZ2NocHhFX2lCR3BrS2h6REFEakxKX0hEZHYtQUt2TFBwMnNiaXpJSE1IQlVyS2M2SXdqcVBWdzhqcGZ5?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Jesse Kline: In the face of tough new tariffs, Carney doubles down on government spending - National Post",
+      "excerpt": "Jesse Kline: In the face of tough new tariffs, Carney doubles down on government spending National Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "f8e6414d3ba71887",
+      "date": "2026-08-25",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdDhYREFsZkx5TjNfaVFnR28zbUMxMDNoQVBPdDdwNGcwUU1ld2k0SXJ3WlRkMzQ5c2ZmcWdhYllGbnVpbUR3cklmV3JsZzk5X1B2WmU3c0c0aWgwOVloUHRIUWFkZHowUXpQT0twaEpOOHRjYjVhMjNxdHM3MzZHNXpyTjYzdXRxRVlleTNKV1BtdUk3V0dBdlpNMVFVZ25PMkRSZmM5eHFTcmt3RnZmT2h2VzNzN19nR19kS2RCb3NueGNNbV9lY0FrZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Guerre commerciale | Le gouvernement Carney opte pour une riposte mesurée - La Presse",
+      "excerpt": "Guerre commerciale | Le gouvernement Carney opte pour une riposte mesurée La Presse",
+      "cat": "Economy"
+    },
     {
       "id": "1efaad2ce6038342",
       "date": "2026-08-25",
@@ -120,6 +674,42 @@
       "lang": "en",
       "title": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet - The Washington Post",
       "excerpt": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "b262b59366088382",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGNfNkdPODNObFE4OHRaQUU0cm12WDRsSm5nZFFJU25BMERZNEZEbG1kTHluR0tVTDN5NnZrbEhIbThBd25ZY1o2OTFKMnBUcjh4YzlYaGxVYnF1VHFsMVRZeFlmdklaOVNXdFdpdnp5aGRDajJYV2w5WGxqSjN6ZTZyNl9rSXR5M0JBeTI1dnNwYXczdEJVNmFQLXE1N2NjUEhMREJoUzAwMmo1STUtOWhB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney unveils $11 billion in funding to make 6 icebreakers in Quebec - CTV News",
+      "excerpt": "PM Carney unveils $11 billion in funding to make 6 icebreakers in Quebec CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "56b4a96d3efaab25",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUQlItbTJ0M0ctbmFvSWd1dkowSk81b3JKckFvejRlQXl3LTRmSUJBaGZWV0VNSGN4UWVoTWowcUZtb1RxSFlXX2hDYk9JdHpZaW95N1U2cy1vQzB5dXhoSi1GS1hoRXVwRHE4RkpxZm5MUWUzd0hBOGo3SQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney commits $11B to build 6 icebreakers in Quebec - Global News",
+      "excerpt": "Carney commits $11B to build 6 icebreakers in Quebec Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "565eb3aaaf1256b6",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHItLWRFTEFwczJoUTU4a0JpZmdfTm1wTW45Wkg0el82eEVaVm9VWkNmeGE4dFd1TXFQX20zWVJubTQxNlhRUUVFUUwtdTQ4cHhUSllVZFNkLUY5SUxRQ2hFZEpXTU15WWZFbF92Xzg0aExFRnRZZ05jWlJjM2FDWkQ3ZkRySDhXLXNhMmhTNHdvYWM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "FIRST READING: Carney was elected to save the economy. It's only gotten worse - National Post",
+      "excerpt": "FIRST READING: Carney was elected to save the economy. It's only gotten worse National Post",
       "cat": "Economy"
     },
     {
@@ -104235,6 +104825,30 @@
       "ai": true
     },
     {
+      "id": "08b493f3ce33b8d0",
+      "date": "2026-01-26",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeEpUckpvQW1ySG5WZEFwYUQxYWp5SXRyZE83bzhSd25KTU4xUFFaVzl0a1BRVlhBbDkweGRrM01CXzZIenozUlp1NS1hSUFjQU0weHh2TWpfSEdsU0dENzhldDd0cmJZMXZVcWlBREVKNC1CX2JyYUNhNXNCMWRVbVlLNFFYMU8zNDNvcDZubGZVeGR6bENoTTJpbjN0ekRuYXBzNlZSUlY1TUExNVNNc1JkRXl4VkdjaE94Ymh5NEY?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney annonce de nouvelles mesures pour rendre le panier d’épicerie et d’autres produits essentiels plus abordables pour les Canadiennes et les Canadiens - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney annonce de nouvelles mesures pour rendre le panier d’épicerie et d’autres produits essentiels plus abordables pour les Canadiennes et les Canadiens pm.gc.ca",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "e203d1ae30d0538a",
+      "date": "2026-01-26",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMENQS2pnaWlnRW55ZWpZMXFUeVFMcEpkbFR4STVyX2dXT3U2TVhjMnRLZ2pHcGc0Y1F0NEt6ck10U0x4YXJyZWVHT1FSc1Bxa1hRLUhkUWJzVFV1SFFVNkM2REdSN29LNGZGUEJXMmx1Z1FteDFrOGtYek53RlVDamsyY3BxQ3VIMWN3dU4yT0ZhbGhEM0xLaE9sRmR4Vmg4ZDFQbm1LSjZZZWNJV2ZQT2NZVGE0d0duUGFyOThDVXJpbl96MXk4VElsNERROG1JR3p0ek41cWlKb3JOdHJvTE91SmJDbzFZVVNfUlh5YVRhc3M?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Aide aux familles à faible revenu | Le gouvernement Carney annonce une bonification du crédit de la TPS - La Presse",
+      "excerpt": "Aide aux familles à faible revenu | Le gouvernement Carney annonce une bonification du crédit de la TPS La Presse",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "19e4f530145555a8",
       "date": "2026-01-26",
       "src": "Canadian politics (via Google News)",
@@ -104735,6 +105349,18 @@
       "sum": "Le ministre de l'Énergie et des Ressources naturelles se rendra en Inde du 27 au 30 janvier 2026 pour participer à la conférence India Energy Week à Goa et visiter New Delhi.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "529380360ed313f8",
+      "date": "2026-01-22",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeWgxQ0ZzTE5WdFdQNXRUY1dnOGxockl2VjcxclFQd21vdHZ6cEg3dFdwWUVtTUoyU1lwNEQ3WWg5SWppOEtaMGk3SUxhYURmVmYyVHprTEs5VmF3M3F6a2JkS3MyQnA1Rk05cDVTR3V4SFc2M0RsZEp6V09tUDduY1BkN185WmU0bGFnMDhILTJmTTdXelNHUXBHY3N0RWhSNFE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Mark Carney s’inspire des plaines d’Abraham pour répliquer à Donald Trump - Le Devoir",
+      "excerpt": "Mark Carney s’inspire des plaines d’Abraham pour répliquer à Donald Trump Le Devoir",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "8ded98f6c55c8e13",
@@ -125784,6 +126410,18 @@
       "ai": true
     },
     {
+      "id": "6cb3753366243037",
+      "date": "2025-11-17",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjNDYk1TZ0VHS2l5OEJjRW5PWlV4NzBPRlVKaWlFN09BQjdyT3IwMS1fU2tNVEpMZUlCeVRjX01IRFFxbDFWNnVZOFFPSENab010NnJSWldWejJKT0Q0bTFxbFhNWXlEQ1pqeXlNMERzVkw0V19UOTN2cTlINHJGbm1tcnRkS3dkQ3RuODVSYWw5LUlnVmRBZHlEcw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le Canada évite de peu de nouvelles élections - Le Devoir",
+      "excerpt": "Le Canada évite de peu de nouvelles élections Le Devoir",
+      "cat": "Economy"
+    },
+    {
       "id": "2b78c80746f36f80",
       "date": "2025-11-17",
       "src": "Politique canadienne (via Google News)",
@@ -130550,6 +131188,42 @@
       "ai": true
     },
     {
+      "id": "e85aec98f157a7d4",
+      "date": "2025-11-07",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2l6Z2tnUWNmS1owN3BPRkRvdkY2TkhlY1pnWFFQMWYyWW1SbFpVbFMxTFNnLWNFTjFWRk5keGFPX0tZbnhMVk5GSXZhMy1IbHg4M1UyMXpibXNqemJnVlRlSmNZSFNEYjJQUGczYkl4QnlpMFZuV05CakNtYlBpSFZ6Sko1dWNzZm85WXlQaw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney survit à un 2e vote de confiance - Radio-Canada",
+      "excerpt": "Le gouvernement Carney survit à un 2e vote de confiance Radio-Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "dc62610d81007d51",
+      "date": "2025-11-07",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcS1sSm5WTjZsdlQwclZpd0o3eFdiTmsyTWlLNC1ULTVjSVFONlhMYW9fc21kZGdYV0MxR2dDT0NqVUNwMTF0R0E0bmZJUWZfZXlLMjhMRkV5WS1JR2RVNXdnRTZqUmFOemZQZEpXcnctZXpUdlFQZGVocXl6MloyajYyT2JHZDhCd0dpS0tCNm9HMlM0enpoNm1CWG5hYl83?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney survit à un deuxième vote de confiance sur le budget - Le Devoir",
+      "excerpt": "Le gouvernement Carney survit à un deuxième vote de confiance sur le budget Le Devoir",
+      "cat": "Finance"
+    },
+    {
+      "id": "7a4902d1d6d31dee",
+      "date": "2025-11-07",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUhBcVFiaW5vY1dqRlNVdjBvTENMMm5JUXVJem85TG55WW9iNmNTaGxGRERmdVRoY3NnTmhLajA2TW54ZEdwNS1rMU1kakNrSTREMlg2QmRwdnNtWjc0TkxLend2MEdJOW9OT3hSSlBid0E0dHNld1RSM0gySlF1cEdZbjhsTzNFUlpnZjVLdVpveGJCWi1fdlFiN2JfSjg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Les libéraux de Mark Carney à la conquête de la majorité grâce aux transfuges - Le Devoir",
+      "excerpt": "Les libéraux de Mark Carney à la conquête de la majorité grâce aux transfuges Le Devoir",
+      "cat": "Economy"
+    },
+    {
       "id": "037ee6d8233e61b6",
       "date": "2025-11-07",
       "src": "Government of Canada",
@@ -131694,6 +132368,18 @@
       "lang": "en"
     },
     {
+      "id": "b23208e8aca1ceee",
+      "date": "2025-11-06",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkctSkgwZE9NMTFKMWVBeDk4S2tQZzVKcm90Qk1aMkF1enhZZmhLaWhWclFZZzBJOUVTeEQ4ZkczTC04cmE1T3RWU08zMWl6bk1LV3lnRlFLSWwweHllbjk2eFNpaHRDcEhNMEZ5bC0tUjNfcmtWN2l1NHg5LWZDWS1ybDdtVURzTjBjOFdJX2NwZFlvRFV0ZmJ5X0xDU0hBbWdr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Budget : les libéraux survivent à 1er vote de confiance - Radio-Canada",
+      "excerpt": "Budget : les libéraux survivent à 1er vote de confiance Radio-Canada",
+      "cat": "Finance"
+    },
+    {
       "id": "103a403c45e6ac59",
       "date": "2025-11-06",
       "src": "Government of Canada",
@@ -132080,6 +132766,18 @@
       "sum": "Le ministre des Finances François-Philippe Champagne participera à une discussion informelle sur le budget de 2025 le 6 novembre dans une activité organisée par le District de la découverte MaRS à Toronto.",
       "cat": "Finance",
       "ai": true
+    },
+    {
+      "id": "a8f6be9e9def1ae5",
+      "date": "2025-11-04",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNW1YNEtqaHhvc3RRXzEzRmk0MHZrV1hsQkNENTQ4RTdCU2lWa2RMQmJKa2hONnB4a0ZZajNGZUZKSWJpNnBrSkNWaVJXWnB2MWJTem1WSzllSVdoaDZGX1ZBa1o5SlJMWm5WbGswNER1OHJpdmVnbU9La3pfLTh1SkVjMTBjZ2ZoTlMtZVFTLURWcWFKa0N2ZllzSU56Zw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney promet de la croissance - Le Devoir",
+      "excerpt": "Le gouvernement Carney promet de la croissance Le Devoir",
+      "cat": "Economy"
     },
     {
       "id": "f72297985547fada",
@@ -132522,6 +133220,18 @@
       "sum": "Agriculture and Agri-Food Minister Heath MacDonald visited China to meet with government officials and industry leaders from Canada and China. The visit aimed to promote Canadian agricultural and agri-food products and explore new market opportunities.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "65d2cd761df24d46",
+      "date": "2025-11-02",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xZDZjeTVvek5LZXFDdmNtZ3FzdkQ5bmhPdF9lWE1HY1RwZXVZc0stN3ZYb2NvQ2gzVm9pRy1nUHJ5aWNET2YtTXFiNnFPRDIxOU1zMzNJa0JOZUNpQWk4eHpwNHhHM0RkNEVTSGdfRzFPVmdFdnpRLWtTMA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "À quoi s’attendre du premier budget de Mark Carney? - Radio-Canada",
+      "excerpt": "À quoi s’attendre du premier budget de Mark Carney? Radio-Canada",
+      "cat": "Finance"
     },
     {
       "id": "2f198ea88d28db0b",
@@ -136515,6 +137225,18 @@
       "ai": true
     },
     {
+      "id": "571d3f46bdc4fbf5",
+      "date": "2025-10-23",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDhKMzZONXQ5aG9YaVNoQ3gxVjZIbFRNM1V1eE5lczJqYVY3U3BiczRWMm04ZjYtVVU4bmVYSUdmMDVFSm5hcDc2TE1heFlPc1Y2aHpUcl9LQWQ1UmRDVklXYmJ4WmQxREVyWWVxVGRiTVpNV3NoM1hzR1VXby1wX21vMHhWajZzZnVhcE9QN2ZJdG0xWDBjOV90Y21BRDJOSFFTV0J1amRfeDR5ZGV3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney annonce un nouvel investissement important pour bâtir un avenir axé sur l’énergie propre au Canada - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney annonce un nouvel investissement important pour bâtir un avenir axé sur l’énergie propre au Canada pm.gc.ca",
+      "cat": "Intergovernmental affairs"
+    },
+    {
       "id": "67cac6a7c4499d5b",
       "date": "2025-10-23",
       "src": "Canadian politics (via Google News)",
@@ -136979,6 +137701,18 @@
       "sum": "Le ministre de la Justice Sean Fraser tiendra une conférence de presse pour présenter les dispositions d'une loi sur la réforme de la mise en liberté sous caution et la détermination de la peine. Ces mesures visent à combattre le crime organisé et le vol d'automobile.",
       "cat": "Justice",
       "ai": true
+    },
+    {
+      "id": "49db3d443a94adf3",
+      "date": "2025-10-22",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDJTSDVCOFptYm90OXV2aXVjZzdvZG42ejNkM083YTdQOGNvcG9IYTk1akhqZjRUdmEtc0ZMNmhUWm5tbHRDQ1hZVDFQbzQ1dWdWajFBUGhwU0VURmhlSW9YTnptNWF4a0VMdzA1Z0F3ZkNGSGhXM2NBN2g4YzczbFItcWJldUFSMjExZUlKY2JXUkRFb0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Budget fédéral : Carney veut doubler les exportations hors États-Unis - Radio-Canada",
+      "excerpt": "Budget fédéral : Carney veut doubler les exportations hors États-Unis Radio-Canada",
+      "cat": "Finance"
     },
     {
       "id": "4d76a96de17b839f",
@@ -138759,6 +139493,18 @@
       "cat": "Education",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "4833edc8368608e6",
+      "date": "2025-10-16",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQU4ydkR0dVhwbmNXNkJDWFFTWndCM0VKWkVHUFRpb29XTTVWR1NFYzhSc3o4dmdCMVNIT0ctdUNZdFcxWlRlR0hBNFFIajY3dnhBM0t5eGpSaVhLaHBJa2l2UkVUQVFETVNQN2IteVc1dGVJNllqR21TQ0pYS1lScDBsRUJ2YTZ2NFo0X1dNM3l5a3VMN2JJY01Mb3dsbk9WUDlHUUozY3VLWHE3R2c3SUt2MklBdk0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney annonce de nouvelles mesures visant à lutter contre la criminalité, à protéger la population canadienne et à bâtir des communautés sûres - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney annonce de nouvelles mesures visant à lutter contre la criminalité, à protéger la population canadienne et à bâtir des communautés sûres pm.gc.ca",
+      "cat": "Justice"
     },
     {
       "id": "2f527c9e1f2fdeb6",
@@ -141111,6 +141857,18 @@
       "sum": "Le ministre canadien du Commerce international, Maninder Sidhu, s'est entretenu avec le vice-premier ministre de Singapour, Gan Kim Yong, en Afrique du Sud cette semaine.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "8adfddb3e84c7d34",
+      "date": "2025-10-10",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXE1cEpnd1VuN2NDN3VjZU14UXMzRHYtd1lfOGxlZEhobTU1dy1HamJveWV5MFdiWHNzckZHTjV3TWM0Y0FoQ1ZkNlB5alNGZ0oyN1dyc1dqNmx5QW1UMmp1Zm5GWktSSmQ2ZVUzZXFIMGFvOHEybGExbk5Femd5blV6cHI3ZlFhVXRHWGFtYm1XLVcwZnlqdElVNXA4ZXU4MDJGa1VsazNiTDYtYUE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney annonce de nouvelles mesures visant à réduire les coûts pour les Canadiens et à les aider à réussir - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney annonce de nouvelles mesures visant à réduire les coûts pour les Canadiens et à les aider à réussir pm.gc.ca",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "0d2114eba7173ecf",
@@ -149925,6 +150683,18 @@
       "ai": true
     },
     {
+      "id": "30b442408afc12be",
+      "date": "2025-09-16",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMWd4OHBubHNndmhwbElPa1hOSHdPTkZVSS1MTUhEZ2NSa3dOcVFGTWVVMzNEOVNjN21ISFd3V2d5VGV0WEJaYU93Qk43TW90U1h3UmJxUmtxY1ZXNUs4YzJFN0xuY0Y0VnltQ3NhMjJDMTNoaVpGclg4VU5sREk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier budget du gouvernement Carney sera déposé le 4 novembre - Radio-Canada",
+      "excerpt": "Le premier budget du gouvernement Carney sera déposé le 4 novembre Radio-Canada",
+      "cat": "Finance"
+    },
+    {
       "id": "62f4f4eee854022d",
       "date": "2025-09-16",
       "src": "Government of Canada",
@@ -150377,6 +151147,30 @@
       "sum": "La ministre de l'Environnement approuve le projet Ksi Lisims LNG, un terminal de liquéfaction de gaz naturel et maritime en Colombie-Britannique, qui peut maintenant avancer vers l'étape des demandes de permis. Cette approbation suit une évaluation d'impact réalisée par la province.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "fde96a22f9b87b88",
+      "date": "2025-09-14",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0hQbkhITmxya0xPZlMwSDM2eXd5T3hDa1ZUVHN3TmNLOUVLYlU4RnE2MVA1b2hXME90QjZPRVY3cFJkSDZaZjZ3Nl82cWRDN3FPdWw1TTl0TnloMWZISlNlOGRpLVlEZ1RMOHFTdWdBMWd6VkRObFNmVklWdTYyRE1ITC1xc1ExcEpNeWlXUWVhWWNuYTFuOGtvXzA1NjBKd1ZLOUM4blRpRjlkeUgtMnhuQ3d4alh3LVE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney lance l’organisme Maisons Canada pour accélérer la construction résidentielle au pays - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney lance l’organisme Maisons Canada pour accélérer la construction résidentielle au pays pm.gc.ca",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "a8a2bf9c54b260be",
+      "date": "2025-09-14",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN0YyVlJqUkhnN1pYTW16S0wtWHd1WkVPMWpBd2Y0dVo2ZTlYLUhfend2OWNRdWs0S092d0x3YTBsTnE0UXdfYk5rMTQ2VjZlVnBjbE9EYlAtcDJLRkpqcFhzdGlaZUg5aWZUVlBXeDI1YXVuT1E3dzZVVUNWQVB3MEE3YXNBTkJoNnJkRA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le budget Carney contiendra un « déficit substantiel », prévient le leader du gouvernement - Radio-Canada",
+      "excerpt": "Le budget Carney contiendra un « déficit substantiel », prévient le leader du gouvernement Radio-Canada",
+      "cat": "Finance"
     },
     {
       "id": "1c6f9d386daa1116",
@@ -153366,6 +154160,30 @@
       "ai": true
     },
     {
+      "id": "6a275aac6168b01b",
+      "date": "2025-09-05",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLU5sSU40SHFIcUIzMEQyWVg1aWlTUjEyRFhmM0h1eEU5OUQ5NzhYRVlOOEppQ3gyajVlejZScWVpY3BHM1IxbC1UeW5vQm9WcHVsNnM4ZDF4LUk1eUg5SXY5QU9mandrUjh3M0o5Ty1WWUk0VWpqSXU4S0xfWkh0Tm5kaFRRQzJ1N3ZqSTRPNFFpbnc1MHZ6QWdEeHRENWNLbmhOSTVhQ3kwZjlwenhEUldpNGpUNjJkSFRON1ZHajg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney annonce de nouvelles mesures visant à protéger, à bâtir et à transformer les industries stratégiques du Canada - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney annonce de nouvelles mesures visant à protéger, à bâtir et à transformer les industries stratégiques du Canada pm.gc.ca",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "128c0c515cd9d560",
+      "date": "2025-09-05",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeG5lbzlsTldKTXFBSU9FOGduSlFwaEZtM1Nfa1hmY0xydEE4a2hHc2lQSFdGZ2Y3dWpZcUF3S2lyeHdyTDlrV1cySU5TblczZ3lGcXF3RVh1dk9Md1U0RXhaQ0xFcUs3YzNtMF8tRW41VzFPa1Z6b2NWSzFPVDRxd1FObU1yN183QkM5SDlDa3c1THJ4YjBKVFFRNkx2S0Z5Mk16bHk3NDJjajlza3c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney annonce de nouvelles mesures visant à protéger, à bâtir et à transformer les industries stratégiques du Canada - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney annonce de nouvelles mesures visant à protéger, à bâtir et à transformer les industries stratégiques du Canada pm.gc.ca",
+      "cat": "Intergovernmental affairs"
+    },
+    {
       "id": "daa16bcf241b4c65",
       "date": "2025-09-05",
       "src": "Canadian politics (via Google News)",
@@ -154262,6 +155080,18 @@
       "ai": true
     },
     {
+      "id": "fe0e770670a11e83",
+      "date": "2025-09-03",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUEV0TmhUeEtYY0huU2xlYlF6YmdzTHFYUlJKeWlRSEp5UW13UGFkNVNTdy1HdGF2ZzY4ZnljbnZWWS1zcTRZY0xUWHpVNHFOR0xkZFc3WGluS2I4dm1fcy1sOHo0T2dNOU9RT0xMTm1Iby1Na2tMLWJiUF90ZmMwbk5PWWQ1dXNuN0p2OFJPTE9UTk1rc2FPQnVOQ1o4ZVFuQmloUGxnR0pyYWtTSTlxTQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre du Canada, Mark Carney, annonce un budget «d’austérité et d’investissement en même temps - Le Devoir",
+      "excerpt": "Le premier ministre du Canada, Mark Carney, annonce un budget «d’austérité et d’investissement en même temps Le Devoir",
+      "cat": "Finance"
+    },
+    {
       "id": "e090ece2442f206a",
       "date": "2025-09-03",
       "src": "Government of Canada",
@@ -154572,6 +155402,18 @@
       "sum": "Le Canada a modifié son règlement économique spécial pour réduire davantage les revenus que la Russie tire de ses exportations de pétrole. Cette mesure s'inscrit dans les efforts pour limiter les ressources financières de la Russie.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "33abbeebbac68e76",
+      "date": "2025-09-02",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRU5QVXF0YjB2QldoUnZmaVRucFJGSWc3N2tVZUptSzY3ZnFsc2hnakZxLXNCSDNwOUUzWXBBdmJrUmtBa3BHdWRZVjk4eVJFamVORHBWY2YtMjU5c01MN3djbDBXckFReVRmYjdYVXRMYnloMlpxMXB2NkNVMmxyTDg3YkVDNElnUG4wY2IxbkROWDZuYWdUMVFwUnNUVG9WTnNCZTM1dTF5MC1NcDZPM1l3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le Canada perd sa souveraineté numérique, déplorent des groupes d’experts - Le Devoir",
+      "excerpt": "Le Canada perd sa souveraineté numérique, déplorent des groupes d’experts Le Devoir",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "88ae60d4d5256db4",
@@ -158472,6 +159314,18 @@
       "ai": true
     },
     {
+      "id": "e2db9dc36c44f8ab",
+      "date": "2025-08-19",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV0thc20xOVNIOGRWNFFNd19RdDZPcjZQWFhRVm1TUlVNZE1oNEwwWHpic29EOEFwT1hsT0xXaGEyX0NIdTBMNlVJLTZFdllrQUlhM1BCR0d2clBYdC0yd3dackVfQXctWk9iVU4wQTBSSmh6RUt5VXdBZVhZNGJYb0hhVWxqZmE5Q0t2SW1wdnkzbEIzNFA3WklEQ212T01leWxYS18zRVNxdER6Rlh5UHhfQzNCMkFvc2FxSmllVkpVMlhnM2k4T0pQWnJmLWVNMi1OM0ZwX21GZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "IA au sein de la fonction publique | Le gouvernement Carney misera sur une entreprise canadienne - La Presse",
+      "excerpt": "IA au sein de la fonction publique | Le gouvernement Carney misera sur une entreprise canadienne La Presse",
+      "cat": "Economy"
+    },
+    {
       "id": "eb7647ba570fe166",
       "date": "2025-08-19",
       "src": "Government of Canada",
@@ -161448,6 +162302,18 @@
       "ai": true
     },
     {
+      "id": "ba1f03f59cce2e1b",
+      "date": "2025-08-10",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDl2ZEtvejVyTWdwTlpUNmx3Rk5DcjJqbVRVZjJyWll0NnVDbktaNWQ0c0UyMGtSaWpYXzFCM01RTFlVb3A5VXpIZTBJUldYMUNDVEd5ZFB3UlNKeXN5b00zX21keHFraXhsWWRwVTROajNjWG1zdVZ5QmVZZHp6OGcwMW00bUdFSEVGTFFLOUhZRUlxU2FGSEVzMDlpLXBjV1Ayag?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "La cote de popularité de Carney se maintient malgré une légère baisse - Le Devoir",
+      "excerpt": "La cote de popularité de Carney se maintient malgré une légère baisse Le Devoir",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "14c032ef39446f46",
       "date": "2025-08-10",
       "src": "Government of Canada",
@@ -162706,6 +163572,18 @@
       "sum": "Claude Guay, secrétaire parlementaire du ministre de l'Énergie et des Ressources naturelles, a effectué une visite de deux jours dans le Nord-du-Québec. Il a discuté du rôle des secteurs minier et forestier québécois dans les chaînes d'approvisionnement canadiennes, l'emploi et la réconciliation.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "1e37a9c4559d2271",
+      "date": "2025-08-05",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR2pTUFBRcXRfTGsxbXVwc3hjdXo2SC12Z2NQNFFpLTMzdG5Tb2c3Q2ZCRVV3V0tKUG9DX19Jamx1NDF5WGkyd2s5RmdJRzJjQzNxVzBnQno1dXVDSUZzUFEtS3puZUVEYTZjQWNMZlN6Vy13b2hoWkx4aGpQZDBhWW9SRlg4OWJka3hQQ0UyOGkwMThqZFNMbkY5UjFMWmFSOWJ0djJTRU1aUHVEaEtLWHZwa1JxY21wNnpr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney annonce de nouvelles mesures pour transformer l’industrie canadienne du bois d’œuvre - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney annonce de nouvelles mesures pour transformer l’industrie canadienne du bois d’œuvre pm.gc.ca",
+      "cat": "Intergovernmental affairs"
     },
     {
       "id": "937869c47f11fe48",
@@ -167126,6 +168004,18 @@
       "ai": true
     },
     {
+      "id": "a5323489b2bbeabb",
+      "date": "2025-07-16",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVDhXS2JQdmlTd2doMWJCRXg4UnN5VVRxV1NSblgta2NWcm1PeG4tcWtJaHVmdTRyQkRRejJTV1NQWTEycVNTSmFma0xPVDZ3SmVZcmVMN2hpbGtyLW9tUHdKUkdBSXFsVF9FSDZhSGxTQUJHZVJCYUhRcDhhZ3B5WDI0cmxLc2NFNGNSZDB2ekEwNGN3OW8zNlByRkc0a1VUWGt0UXd6MTl1cW5qcVd5dk1rUzU4Yi1CRFE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney annonce de nouvelles mesures pour protéger et renforcer l’industrie canadienne de l’acier - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney annonce de nouvelles mesures pour protéger et renforcer l’industrie canadienne de l’acier pm.gc.ca",
+      "cat": "Intergovernmental affairs"
+    },
+    {
       "id": "80454e23abd2a1c8",
       "date": "2025-07-16",
       "src": "Canadian politics (via Google News)",
@@ -167604,6 +168494,18 @@
       "sum": "Un nouveau processus de nomination à la magistrature fédérale a été établi par la ministre de la Justice en octobre 2016. Les avocats et juges canadiens qualifiés peuvent maintenant soumettre leur candidature en complétant un questionnaire.",
       "cat": "Justice",
       "ai": true
+    },
+    {
+      "id": "4393d49627dd3727",
+      "date": "2025-07-15",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDBoY1lDbzJrWGhtdEFIZlAwSkhILUd0Vnl1SFV3b3ZTcUJVanVQTmZOTVlma3VMYWJGOUtNY1R6dXc4ZkFkMi00S2haRkVVN3Nhcm92YThkaXpHWUxpWWJFUHRjQ1Q4Vkwxazg5dzdUODVNbHVLZUpZSnVCRWp1ZWVzY01vZTJuRjN0WVF6dDQ5bndrSzRxTlF6T2RJR1ZxY1Y3ejR3T3p3SlF1Q0o2MFJZeVpLZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Même Radio-Canada pourrait passer au bistouri des compressions, évoque sa p.-d.g. - Le Devoir",
+      "excerpt": "Même Radio-Canada pourrait passer au bistouri des compressions, évoque sa p.-d.g. Le Devoir",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "38c687e76850d041",
@@ -168932,6 +169834,18 @@
       "ai": true
     },
     {
+      "id": "c917a9ee95adbc49",
+      "date": "2025-07-09",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWgzTUpwUTE5eXN5UlFsaUt5Zm9pbnNYdzdOdkhmT1ZSUjNwOXh2eTlyaTlma05LSElaN1Y1ZjlJcTNvb3RpVVMwT3dTcExfZzZyTGp1VnkzSDlWZWk2M1hWSkRMdXhWdkNlbXUtX29FSnJQQTFaUFlBbWJ6VWF3OG1UaUR3NENBakVXbDlTS1U1aERfN2MtT3NpV1dXeWZrZi13Q2xvZjZmZnM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Les réglementations fédérales révisées d’ici 60 jours - Radio-Canada",
+      "excerpt": "Les réglementations fédérales révisées d’ici 60 jours Radio-Canada",
+      "cat": "Economy"
+    },
+    {
       "id": "f637ad6425b018d9",
       "date": "2025-07-09",
       "src": "Government of Canada",
@@ -169294,6 +170208,18 @@
       "sum": "Le Canada fournit une assistance technique à la République de Moldova dans le cadre d'une collaboration portant sur les changements climatiques et l'égalité des genres. Les deux pays travaillent ensemble pour développer une économie plus verte et inclusive.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "08154d755465d44a",
+      "date": "2025-07-08",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GMkZuQ0ZNbmdjWDJUZ3p0TkpNUGF5MXFUSy1tV21QZjhBeFpqc3hJb3dkdkkzaGVEVThrclItUmV4akV4V0lkN09tTE43aUJEczZnZmd1YjNSQlhRd3c5RmtsTG1QdDB2ZmEzR3V4bmRjbjZuRXBYSnVRcEFpUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "L’AFPC sonne l’alerte : le gouvernement Carney met la hache dans les services publics - Alliance de la Fonction publique du Canada",
+      "excerpt": "L’AFPC sonne l’alerte : le gouvernement Carney met la hache dans les services publics Alliance de la Fonction publique du Canada",
+      "cat": "Economy"
     },
     {
       "id": "817e6fbf734ff88c",
@@ -171998,6 +172924,18 @@
       "sum": "Le gouvernement du Canada annonce que la Corporation MacDonald, Dettwiler et Associés reprend les activités du laboratoire David-Florida à Ottawa. Cette reprise vise à maintenir l'accès du secteur spatial canadien à des services d'essai spécialisés au pays.",
       "cat": "Innovation, science & industry",
       "ai": true
+    },
+    {
+      "id": "aa67b44c24214a63",
+      "date": "2025-06-26",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkRoMEVndWJ5UHBlWjJWOENaM0wxN2E0UTFqMW10dTNIcXVUV0ZyYkdweVllS3c1SXJwNXQ0b2xFVGNRMTF3WXh3X3VnUXhXNGRDcGNHQmNabF9uUk9nOVN3dWxIeE1zTG1IaGZndm1jaUdfdC1NTnUzS3FQSmFIX3QtdklNRnZOLWUweUV1WnRSY2xQMmdWTEREU0toQ2huOGRGa2EwLW8?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le projet de loi C-5 sur les grands projets du gouvernement Carney est adopté - Le Devoir",
+      "excerpt": "Le projet de loi C-5 sur les grands projets du gouvernement Carney est adopté Le Devoir",
+      "cat": "Economy"
     },
     {
       "id": "a601790b6a60143c",
@@ -176858,6 +177796,18 @@
       "ai": true
     },
     {
+      "id": "59fb28b0a3a716eb",
+      "date": "2025-06-06",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMklSU1AyZjV6QV9YZXBwRE9Lc2NwM2Frd2xDZ3FzR2Jkc2hKT2Y5WXgtaWVaM3B4WFFEY2VOT19FSTdUWDNRWWNoYllvVG04Qk1ZcDRSSmdEQmRLcURMOXIyNFlnVld6dU9vV21WVVIxTkdTZVFsTWNzTzc0ZkYwUTl0NS10b0FZX2RfWVdNenBYTGxkWWdR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney dépose un projet de loi « pour renforcer l’unité canadienne » - Radio-Canada",
+      "excerpt": "Le gouvernement Carney dépose un projet de loi « pour renforcer l’unité canadienne » Radio-Canada",
+      "cat": "Economy"
+    },
+    {
       "id": "517993aefde5289d",
       "date": "2025-06-06",
       "src": "Government of Canada",
@@ -177988,6 +178938,18 @@
       "ai": true
     },
     {
+      "id": "0f45c2b19daf8417",
+      "date": "2025-06-03",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDFEdUVMcGdIMFo4VDdSODZLZXQ1bUh2Wm03RGdnaHpfaUVYSGdRUXRFN2U0dnRJdWNCNkVUNk9jVG9TTWg3OGkyZnhRc244aU45aFpkeUhqd25pcDRQNnNmWURoLW5JeWdVREo1UFNNSEc2NmFnbmNWMjdDTWwxeHZmREY4TXoyMmJIVUFzLU13OS1kZVFXUVBjNlUwcjZaaHVsV0phSkI?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Ottawa dépose un projet de loi lui octroyant de nouveaux pouvoirs en immigration - Le Devoir",
+      "excerpt": "Ottawa dépose un projet de loi lui octroyant de nouveaux pouvoirs en immigration Le Devoir",
+      "cat": "Economy"
+    },
+    {
       "id": "1696bf9a8732c9f9",
       "date": "2025-06-03",
       "src": "Government of Canada",
@@ -178246,6 +179208,18 @@
       "sum": "Le ministre de la Sécurité publique Gary Anandasangaree tiendra une conférence de presse pour annoncer de nouvelles mesures destinées à renforcer la sécurité à la frontière canadienne.",
       "cat": "Public safety",
       "ai": true
+    },
+    {
+      "id": "d8f24a9333b64203",
+      "date": "2025-06-01",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdURZU2ljV1ZBRjhQZmwydUxNSExHR1ZQaTYtaFhZbkhBZ2tRdUx2THI3eTFreUx0TDdxZmFPU1NaeFV5RlhQdkJBSDRxSzBna0NPUWFSU2JfZVpaRnFCSVZFU0F5QmR1VmhHM19lZnJpYTJHZUNjbEg4d2V5ZFM3TXM1SDZ4blk3NkJoQkJn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Marc-André Blanchard devient chef de cabinet de Mark Carney - Radio-Canada",
+      "excerpt": "Marc-André Blanchard devient chef de cabinet de Mark Carney Radio-Canada",
+      "cat": "Economy"
     },
     {
       "id": "d6e5f3dbbf688800",
@@ -180392,6 +181366,18 @@
       "ai": true
     },
     {
+      "id": "8bebe01fda38d3bc",
+      "date": "2025-05-21",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlWnY2eGZ0emR1bTFvWGpjenI3Y1Nqbl95cnAyN1dwSWtHWGVKYzlYUXBYUmJjLXNKenVDQ1NpLVJlb2R1M3g4MVZJUjE1ZV9Sc25RallDMWhFWFRHcXk5TmtlZEtkR1NTOW5XZ2x4YkI0ZjdDb3BNRA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Lettre de mandat - pm.gc.ca",
+      "excerpt": "Lettre de mandat pm.gc.ca",
+      "cat": "Economy"
+    },
+    {
       "id": "56a28ba083a5f306",
       "date": "2025-05-21",
       "src": "Canadian politics (via Google News)",
@@ -181390,6 +182376,42 @@
       "sum": "Le gouvernement fédéral rappelle que la période prolongée pour soumettre une garantie financière dans le cadre de la transition de la Gestion des cargaisons et risques agricoles prend fin le 20 mai.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "0a1872dd21a0509a",
+      "date": "2025-05-13",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2VreU14dEhScmwtT1oyU0lqQ19OQ25KUWU0M3VVc2ViU2FoaHlwbzJJcVJKX01vWmhrTFFSSXFJMlJFYzBxblZZeF8waXRDaWF1QmtsbzZPRG50cnA3TGhBNWk2UVBMYXU3UUY0Y0dwYmNqVGg1dTYyVEVIUUYtRFl5S2dOLTdkMks4MXZWOGZMOXlCSzJGNkpIZVR4QVloUHVxY1FuY1BTeHZkUzd1ZkNrU1hxMjZjT0xV?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney présente le nouveau Conseil des ministres - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney présente le nouveau Conseil des ministres pm.gc.ca",
+      "cat": "Intergovernmental affairs"
+    },
+    {
+      "id": "afca367fb113d31c",
+      "date": "2025-05-13",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW1kRUwzdGRkTThBbXdrYUJ3RmR3ZWJRY3U1MWpmQlRic0o3VUNHQ3VmMTdFOGl3ZkZzQ3ZwSlhqMHNpWk1uOWtFRDZBaUJCQUVWRXAycmY0RzZsYlNUUENLX3NnV1VuOTFXUTY2a3RpQVc3WFJNdnZVMXdxZkczRQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Qui sont les 28 ministres du Cabinet Carney? - Radio-Canada",
+      "excerpt": "Qui sont les 28 ministres du Cabinet Carney? Radio-Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "abea0d14d9d19f2f",
+      "date": "2025-05-13",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc19KUTJULUhMV0ZyU05zcHlHb1RJcVFJbk1BSnRRN3pNbjl5TVE0aGctdEJyczU4dlB4WlZJSmJDTl90aDBYaU4ySE10Rk5FX0ViQ3gzaktKU2MwR1RlX1BDc0c4bDlWbkxVRnNlT2NleFhLTkZOWnhUWHJjVVhWNjhCaVBGQWk1blhEMU5mTUN1Sjlnakp4Q2RJUDNBSnVoR21QQXlhUUpQUFlIR2pXWHJnakVRczNyTHNZ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le nouveau cabinet Carney, entre stabilité et changement - Le Devoir",
+      "excerpt": "Le nouveau cabinet Carney, entre stabilité et changement Le Devoir",
+      "cat": "Economy"
     },
     {
       "id": "e10f63381a494fca",
@@ -182770,6 +183792,18 @@
       "ai": true
     },
     {
+      "id": "a42edb1a03ab651c",
+      "date": "2025-04-29",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVVjZjlKbkpvc0w1NXU2V2dqbEZOdDN2S0FBdWJ1Y1U0YlhXQzhCV2RrVUVpYi12MWEyRVhQT2c0TGtQR1BBaFh4UENPV1JGLVFSbW9RMW9odW9ja0tHMjdpaHd0dU5iQUJPMzJnbEpYUENVaGF6MXdLZWlCdUJYX1ZZZWpDam90YlNkc3IwNEREQnc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "C’est confirmé : Mark Carney dirigera un gouvernement libéral minoritaire - Radio-Canada",
+      "excerpt": "C’est confirmé : Mark Carney dirigera un gouvernement libéral minoritaire Radio-Canada",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "25bfe884f82e6689",
       "date": "2025-04-29",
       "src": "Government of Canada",
@@ -182950,6 +183984,18 @@
       "sum": "Le 22 avril 2025, un colis contenant des objets interdits et non autorisés a été saisi à l'Établissement de Collins Bay, un établissement fédéral de sécurité multiple. Cette saisie a été effectuée grâce à la vigilance du personnel de l'établissement.",
       "cat": "Justice",
       "ai": true
+    },
+    {
+      "id": "e3086aef4e25d775",
+      "date": "2025-04-28",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGlfalhKVUk1Y2ZPU2h6YVBmMTRLVW02aGZlbExNdjFEaHpuQ1JCaTZ1dE5jS3ZJRXV3R0cwVlVTLXVVTkZLdkdLVWVEU0NWYzJNMWFqY0FZT0EzM0hNQXFEaW9rNUQ4OTdlbG12VlduSGNYZTJRNk1MS0Y4SVhYNjFXX1ZjWk5NNnpJM293?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Élections Canada 2025 | Mark Carney dirigera un gouvernement libéral minoritaire - Le Devoir",
+      "excerpt": "Élections Canada 2025 | Mark Carney dirigera un gouvernement libéral minoritaire Le Devoir",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "f3c2a070d5091e1d",
@@ -185002,6 +186048,18 @@
       "title": "Mark Carney’s Liberals take action to make life more affordable - Liberal Party of Canada",
       "excerpt": "Mark Carney’s Liberals take action to make life more affordable Liberal Party of Canada",
       "cat": "Economy"
+    },
+    {
+      "id": "63ef021f7f6dc61a",
+      "date": "2025-03-31",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkFWYWcweHFJcTJaRENOTDBNQ3JwX2h6QXFNV2haRWhJTkhPR0g5dkhVb2x2OHQ4MUZCaS1oUW04OTJNUVhkazVHR09uOFJaX3ZMOEhnanFaaE9OYUhyOHBIMmRZMWVvRlFfaGlEUU5LdWE5dWVaMkhOODBaT0c4OGtJU3ZDUks4ajV5Z0wxSFZ2Q19wV0xsek1hYlFtZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Mark Carney exprime son «malaise» au sujet de la loi 96 sur le français - Le Devoir",
+      "excerpt": "Mark Carney exprime son «malaise» au sujet de la loi 96 sur le français Le Devoir",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "7c8873f916f68333",
@@ -190875,6 +191933,30 @@
       "sum": "Le 16 mars 2025, deux détenus de l'unité à sécurité minimale de l'Établissement de Beaver Creek, Rodney Cobb et Jeffry Parker, ont été découverts manquants lors d'un dénombrement de l'après-midi.",
       "cat": "Justice",
       "ai": true
+    },
+    {
+      "id": "f35685bd0c1a5c99",
+      "date": "2025-03-14",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa29nTUx3anBxVEtBQkRjVUpSTjFKN1NzTjlCTmpyUDBYWVB1YWV6dl90dGhMWGRhMF95a1dRRmgzeFdyOTFlenBBZ1lqLWZDMVBsUERSRzJQaG1ZOXJJMVQ2czFTSmZnYmlTSlFhYnp3N2hOaHRMRjUzblZva05EQkxhRTVWYXZtWFR6azV4UjdBTUF0WDRJVTJFb1Q1VFduRDVFSi12VkxaeS1meUFN?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Un premier gouvernement Carney minceur et qui fait la part belle aux Québécois - Le Devoir",
+      "excerpt": "Un premier gouvernement Carney minceur et qui fait la part belle aux Québécois Le Devoir",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "4490c871860f0a1f",
+      "date": "2025-03-14",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM21ZYlYzcUEyT3UwbHU4MlF6RW4yc0JYTXZnSFEyWGFrTC1uWlVRRzJPMVJnXzFiT2VxRXhqb0hTdllaeVRtRlRmTmVfdkdNOWh4SVNET2p1X19CdU9ERXRodFMwN01EeVNIN0RFdFh6dEhYVWtEYmcxNS1JRFF1ZnpJNE9sZUo3aWxYdy16Q1c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "François-Philippe Champagne est nommé ministre des Finances - Radio-Canada",
+      "excerpt": "François-Philippe Champagne est nommé ministre des Finances Radio-Canada",
+      "cat": "Economy"
     },
     {
       "id": "95449f1b15259529",
