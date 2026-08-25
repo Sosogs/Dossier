@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-25T01:20:47.676Z",
+  "generatedAt": "2026-08-25T06:51:04.938Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7668,
+      "actions": 7671,
       "sources": 9
     },
     "fr": {
-      "actions": 7073,
+      "actions": 7074,
       "sources": 7
     }
   },
@@ -80,6 +80,42 @@
       "lang": "en",
       "title": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet - The Washington Post",
       "excerpt": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "4685e52318eca5fa",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNHQta2hXSExmTnhOQWNGdmoyMFVFLUhMd1lGR1hHVG1idVExNUFoWFphbzAybmxvYkNuX2dkVW1oTHNKMEphWU10WjNiY0E0WUU3R2ZxSWRuTE5Sam56WGhfVHMxZTYyWW5hNnNtQWgtNkJ5TGFBdHNnT2ROalJNMmdSU2FtalhkMXByY1hyeGpyTE42SWZCdmMwNGw2OHlSdFNUMnc2N1FyTUhXMEpYUTd3UVdlZ25zblViQkw4UjBUY0NoZWpwOXdTNzVGVFRtWVVUekJUZU9BcWR3QkJSU0dEcVBTdFk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney to unveil tariff response, says Donald Trump’s threats shows U.S. wants to ‘destroy’ Canadian industries - Toronto Star",
+      "excerpt": "Mark Carney to unveil tariff response, says Donald Trump’s threats shows U.S. wants to ‘destroy’ Canadian industries Toronto Star",
+      "cat": "Economy"
+    },
+    {
+      "id": "1b339c5bb7233907",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQzNRUThXTGdiTzlEeDM2WDFHbVRjLWdfX3lLVzdnN3F3eEZiTTRVeWRwM2lUZVlON0QtOG5oSW1UTUlUeUpnSnM1b28xMWtub2drVUNrMDJjQmpCZzE4VktvME9yVWFKYmlVSjY0UUEtTGVlX3JHdHBSWFhKU1dPUVBRVXdBZHRrZDFzQ09CMTFUU3FQU2t5ZXk2QUJCWmdmQ1NjdDRtMHNGRFozczBmTXoxandLM0hYZElXaGpLYVNsTG9MV2x5RHo1ZVdiZ1FwZElmc3c2MUNJOGhEOGxqMTg0Q3NuQm8yYzd3dTE3ZWwxc25xUFBucmpOdjJ0QmVmVDhvUU44Q2dJQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada tariffs against the U.S. on Tuesday, sources say - CTV News",
+      "excerpt": "Canada tariffs against the U.S. on Tuesday, sources say CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "73308075e87e6efd",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHlRUGV1Q1pwdnJJc2I1bG1hYzZ1bHNHREVpRVVBVDZfVlR6Z0s3SjlOSjJqOW5nM0p1emdGRGsxbmY3WU5lTTUzaUd5Z24ydi0zc0xpWUhic1NTYm5DamU3ZVc0ZnBVNl9BaGdrWDJEcG92OGxEcHRmbExoMEtVT0hXR2FvU1IxYW81dzdyTjFEM1E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ford doubles down on 'kiss my ass' comment to Trump amid Canada-U.S. trade war - CBC",
+      "excerpt": "Ford doubles down on 'kiss my ass' comment to Trump amid Canada-U.S. trade war CBC",
       "cat": "Economy"
     },
     {
@@ -10242,45 +10278,6 @@
       "title": "Canada et Ontario progressent sur prolongement métro Scarborough",
       "sum": "Le Canada et l'Ontario ont annoncé le début des travaux pour la station Lawrence et McCowan, deuxième des trois nouvelles stations du prolongement de la ligne de métro vers Scarborough dans la région du Grand Toronto.",
       "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "2b26629fba5d50f0",
-      "date": "2026-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/fednor/nouvelles/2026/07/le-gouvernement-du-canada-investit-27-millions-de-dollars-pour-renforcer-le-secteur-de-la-defense-du-nord-est-de-lontario.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 2,7 millions pour la défense du Nord-Est Ontario",
-      "sum": "Le gouvernement du Canada verse 2,7 millions de dollars pour soutenir deux projets de défense en Ontario nordique. Ces investissements visent à renforcer l'économie régionale et le secteur de la défense.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "d446637be349099c",
-      "date": "2026-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/07/le-gouvernement-du-canada-renomme-les-chaires-de-recherche-impact-canada-en-lhonneur-deddie-goldenberg.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada renomme les Chaires de recherche Impact+",
-      "sum": "Le gouvernement du Canada change le nom des Chaires de recherche Impact+ Canada pour honorer Eddie Goldenberg. Ce changement reconnaît sa contribution au développement de la recherche et de l'innovation au Canada.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "994a9b90732d1a4e",
-      "date": "2026-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/07/le-canada-et-le-nouveau-brunswick-investissent-dans-des-infrastructures-favorisant-le-logement-pour-aider-a-construire-davantage-de-logements-a-fre.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Nouveau-Brunswick investissent dans infrastructures de logement à Fredericton",
-      "sum": "Le gouvernement fédéral, la province du Nouveau-Brunswick et la Ville de Fredericton annoncent un investissement combiné de plus de 23,5 millions de dollars dans des infrastructures favorisant la construction de logements. Cet investissement est réalisé par le biais du Fonds canadien pour les infrastructures liées au logement.",
-      "cat": "Housing",
       "ai": true
     }
   ]

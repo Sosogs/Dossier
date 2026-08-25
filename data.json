@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T01:20:47.676Z",
-  "count": 14741,
+  "generatedAt": "2026-08-25T06:51:04.938Z",
+  "count": 14745,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -70,6 +70,42 @@
       "lang": "en",
       "title": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet - The Washington Post",
       "excerpt": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "4685e52318eca5fa",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNHQta2hXSExmTnhOQWNGdmoyMFVFLUhMd1lGR1hHVG1idVExNUFoWFphbzAybmxvYkNuX2dkVW1oTHNKMEphWU10WjNiY0E0WUU3R2ZxSWRuTE5Sam56WGhfVHMxZTYyWW5hNnNtQWgtNkJ5TGFBdHNnT2ROalJNMmdSU2FtalhkMXByY1hyeGpyTE42SWZCdmMwNGw2OHlSdFNUMnc2N1FyTUhXMEpYUTd3UVdlZ25zblViQkw4UjBUY0NoZWpwOXdTNzVGVFRtWVVUekJUZU9BcWR3QkJSU0dEcVBTdFk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney to unveil tariff response, says Donald Trump’s threats shows U.S. wants to ‘destroy’ Canadian industries - Toronto Star",
+      "excerpt": "Mark Carney to unveil tariff response, says Donald Trump’s threats shows U.S. wants to ‘destroy’ Canadian industries Toronto Star",
+      "cat": "Economy"
+    },
+    {
+      "id": "1b339c5bb7233907",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQzNRUThXTGdiTzlEeDM2WDFHbVRjLWdfX3lLVzdnN3F3eEZiTTRVeWRwM2lUZVlON0QtOG5oSW1UTUlUeUpnSnM1b28xMWtub2drVUNrMDJjQmpCZzE4VktvME9yVWFKYmlVSjY0UUEtTGVlX3JHdHBSWFhKU1dPUVBRVXdBZHRrZDFzQ09CMTFUU3FQU2t5ZXk2QUJCWmdmQ1NjdDRtMHNGRFozczBmTXoxandLM0hYZElXaGpLYVNsTG9MV2x5RHo1ZVdiZ1FwZElmc3c2MUNJOGhEOGxqMTg0Q3NuQm8yYzd3dTE3ZWwxc25xUFBucmpOdjJ0QmVmVDhvUU44Q2dJQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada tariffs against the U.S. on Tuesday, sources say - CTV News",
+      "excerpt": "Canada tariffs against the U.S. on Tuesday, sources say CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "73308075e87e6efd",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHlRUGV1Q1pwdnJJc2I1bG1hYzZ1bHNHREVpRVVBVDZfVlR6Z0s3SjlOSjJqOW5nM0p1emdGRGsxbmY3WU5lTTUzaUd5Z24ydi0zc0xpWUhic1NTYm5DamU3ZVc0ZnBVNl9BaGdrWDJEcG92OGxEcHRmbExoMEtVT0hXR2FvU1IxYW81dzdyTjFEM1E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ford doubles down on 'kiss my ass' comment to Trump amid Canada-U.S. trade war - CBC",
+      "excerpt": "Ford doubles down on 'kiss my ass' comment to Trump amid Canada-U.S. trade war CBC",
       "cat": "Economy"
     },
     {
@@ -11084,6 +11120,18 @@
       "cat": "Transportation",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "d9e0558c86984500",
+      "date": "2026-07-29",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWXJlTjdGWGxxc2pQVGpKT1IzbjVqT0JIOTZqNzVnNjF3bXJha1FnYWNyejZBcldKSTJxMGN3aks1M0l1UGEwbVpPOTludlhlaDl6a0tmaHZzZWZSYlAtMXpmakhlamRDZE1KMlhkQngtWWpLVUxHTUZ3WEtDT05pMDJZRTFleWNiT0pzeGJTNk5TN0d5Z2g0M3hCM1FqdjlVOU9yUWtaMkgwUk5nT0d0TGVZSjlfU0dIaTJtQk5JMnFNWFBpazhublZheHdmTVc1RlVzY09TYmwzemdJdjFYVVNPbld2endRNnc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Carney abandonne la taxe Netflix: «Une concession absolue qui va amener des coûts de contribuables», dit Gaétan Barrette - QUB radio",
+      "excerpt": "Carney abandonne la taxe Netflix: «Une concession absolue qui va amener des coûts de contribuables», dit Gaétan Barrette QUB radio",
+      "cat": "Finance"
     },
     {
       "id": "a00deaa5115a3432",
