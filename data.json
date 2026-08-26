@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T01:23:37.692Z",
-  "count": 14863,
+  "generatedAt": "2026-08-26T06:52:16.842Z",
+  "count": 14866,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,42 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "30e84e2a781cce7b",
+      "date": "2026-08-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnhGRVc3NHU5MTRxSERSS1ZnNEstNjRBYmlWaDBOU2hSQU9uMHREc2JxM0R3NExDY1d1M01aMHBHcmp5VGVFTTduNjJ2Y3lTVDNFRmo3UWdZREpmUEpWQjFqWkNXVURvdXRIMTVOdXc4NEUwZnlEbHdTU24tLVZDVS02STdYU2JWWHBJR080d3ZKelk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney should kill September gas tax hike - Asian Pacific Post",
+      "excerpt": "Carney should kill September gas tax hike Asian Pacific Post",
+      "cat": "Finance"
+    },
+    {
+      "id": "1f9f158c0c062a85",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2Jkc1NPNmFMblJwenRKX0FtLWp3VHRqSlhhMlNPU1lfeTVQdEZqelk4bWpjMDZPczFmTnZmQmFCQTFSd2ZxdWhCajBZTWw1TlRmbld6SFdqR0c3YVczYk9oZW83SWJwNi1ISENlRnVuQWtwelE4VTNoVWxHZHVjRUZ6VW1yOU1MUzE2bDB3Y1dVbTBsQkxLOTlnNnBIbERQdlVaZDAwd1ZsNmplTXNz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "B.C.’s Eby urges Carney to look beyond tariff response in U.S.-Canada trade war - CKPG Today",
+      "excerpt": "B.C.’s Eby urges Carney to look beyond tariff response in U.S.-Canada trade war CKPG Today",
+      "cat": "Economy"
+    },
+    {
+      "id": "80e777c8f4385caa",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdXBWWjZQajBKRHBfSVBmODg0YXhxVG0ycktMUC1VNjlYYjE2RGs2NU5MQWJld3lyN1k3ZHdycU5zZm95UFJsT2lhUFQ2WkNoU3J2X3FpTnZXTHVicnpZa2RXMVRiUjNDQlpzT2NpWkFUeGt4aXZYOUQ5bElHYzdNR0toQmtXQzZvTkMwMks1dFA0UmtEeGEyQjQ3bnZIaDJ0djI5SU9iZWJDQlVfcGtXd3VtclhmeXc5bkdRNWZPejhJWWY4MTJqYkJSM1dVaWZ1SlZLbFFwNkNCV0VmUl9LS193WUx5VUVzeGZQUTJXVWpzS0tPTHZOY3hpYWFSSG1ZbVIyY2ZzdTlYLXc0ZEl4SQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "China–Canada Relations At A Strategic Crossroads: Xi Jinping’s Expected Visit, Alberta’s Referendum And Implications For The United States - Analysis - Eurasia Review",
+      "excerpt": "China–Canada Relations At A Strategic Crossroads: Xi Jinping’s Expected Visit, Alberta’s Referendum And Implications For The United States - Analysis Eurasia Review",
+      "cat": "Transportation"
+    },
     {
       "id": "9f82687c185478c2",
       "date": "2026-08-25",

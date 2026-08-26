@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T01:23:37.692Z",
+  "generatedAt": "2026-08-26T06:52:16.842Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7715,
+      "actions": 7718,
       "sources": 9
     },
     "fr": {
@@ -44,6 +44,42 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "30e84e2a781cce7b",
+      "date": "2026-08-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnhGRVc3NHU5MTRxSERSS1ZnNEstNjRBYmlWaDBOU2hSQU9uMHREc2JxM0R3NExDY1d1M01aMHBHcmp5VGVFTTduNjJ2Y3lTVDNFRmo3UWdZREpmUEpWQjFqWkNXVURvdXRIMTVOdXc4NEUwZnlEbHdTU24tLVZDVS02STdYU2JWWHBJR080d3ZKelk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney should kill September gas tax hike - Asian Pacific Post",
+      "excerpt": "Carney should kill September gas tax hike Asian Pacific Post",
+      "cat": "Finance"
+    },
+    {
+      "id": "1f9f158c0c062a85",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2Jkc1NPNmFMblJwenRKX0FtLWp3VHRqSlhhMlNPU1lfeTVQdEZqelk4bWpjMDZPczFmTnZmQmFCQTFSd2ZxdWhCajBZTWw1TlRmbld6SFdqR0c3YVczYk9oZW83SWJwNi1ISENlRnVuQWtwelE4VTNoVWxHZHVjRUZ6VW1yOU1MUzE2bDB3Y1dVbTBsQkxLOTlnNnBIbERQdlVaZDAwd1ZsNmplTXNz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "B.C.’s Eby urges Carney to look beyond tariff response in U.S.-Canada trade war - CKPG Today",
+      "excerpt": "B.C.’s Eby urges Carney to look beyond tariff response in U.S.-Canada trade war CKPG Today",
+      "cat": "Economy"
+    },
+    {
+      "id": "80e777c8f4385caa",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdXBWWjZQajBKRHBfSVBmODg0YXhxVG0ycktMUC1VNjlYYjE2RGs2NU5MQWJld3lyN1k3ZHdycU5zZm95UFJsT2lhUFQ2WkNoU3J2X3FpTnZXTHVicnpZa2RXMVRiUjNDQlpzT2NpWkFUeGt4aXZYOUQ5bElHYzdNR0toQmtXQzZvTkMwMks1dFA0UmtEeGEyQjQ3bnZIaDJ0djI5SU9iZWJDQlVfcGtXd3VtclhmeXc5bkdRNWZPejhJWWY4MTJqYkJSM1dVaWZ1SlZLbFFwNkNCV0VmUl9LS193WUx5VUVzeGZQUTJXVWpzS0tPTHZOY3hpYWFSSG1ZbVIyY2ZzdTlYLXc0ZEl4SQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "China–Canada Relations At A Strategic Crossroads: Xi Jinping’s Expected Visit, Alberta’s Referendum And Implications For The United States - Analysis - Eurasia Review",
+      "excerpt": "China–Canada Relations At A Strategic Crossroads: Xi Jinping’s Expected Visit, Alberta’s Referendum And Implications For The United States - Analysis Eurasia Review",
+      "cat": "Transportation"
+    },
     {
       "id": "9f82687c185478c2",
       "date": "2026-08-25",
@@ -10246,42 +10282,6 @@
       "sum": "The Minister of Emergency Management and Community Resilience will hold a media event in Edmonton alongside a community league leader to announce infrastructure initiatives. Details of the specific projects were not disclosed in the announcement notice.",
       "cat": "Infrastructure",
       "ai": true,
-      "lang": "en"
-    },
-    {
-      "id": "829198fba419d218",
-      "date": "2026-08-05",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUGdEV0laT1dCS2JlanB0bWh5MEVjdGd3Mjdja3k1NGVHcVdpUVlJZW93LWt0b2hZZTBOTjhsblJTcEYzNHJJUjN3dEJ4Ml9Tc21vWnQtMEZFY1loejQ4QWJFdlQ0V0FvekFhcFNlT3dIUFlRY1JEUFVxTzRqU0lMVUtnRzRIbHExSW03R2pQRmZDUUM0dGhOd1htTDZGcTBmdWtmd0lKbU56OERQZmVHT0s4NmNLQXlsODh4a21KNXpHeUJHQWFaTWFmVjBNUzhRdmM3MGk1c3hFSXBlYTc2dU1hc3VuTk1nNlBYTXgtcw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "PM Carney on New Housing in Toronto, Canada-U.S. Trade Talks – August 5, 2026 - CPAC",
-      "excerpt": "PM Carney on New Housing in Toronto, Canada-U.S. Trade Talks – August 5, 2026 CPAC",
-      "cat": "Housing",
-      "lang": "en"
-    },
-    {
-      "id": "2fd3578256cd240c",
-      "date": "2026-08-05",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGpmeUtTMWxrdVp0M09QZVhGZ1NvSXpIWVdsWTY1VFRNeldnZGhDZVlYcWZWZDhGcy1TaHQzNmJzRFBCN2dDS2txUDQyd1gxd1VGWXA5NU5nc0hPd1Q3eUtRc0hOUUVrcTlhVm8yY3JSbkRTY21EbEhrZHd3cnh3NnJyU05wRVhZcTQ4YUFvc0s0ckhpaVNfcV9kWElTcnd2MWZ6S1Azckk?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Cribbing the Burnham Book: How Carney Can Expand Ottawa’s Regional Footprint - Policy Magazine",
-      "excerpt": "Cribbing the Burnham Book: How Carney Can Expand Ottawa’s Regional Footprint Policy Magazine",
-      "cat": "Economy",
-      "lang": "en"
-    },
-    {
-      "id": "cbac0acf9cb61021",
-      "date": "2026-08-05",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGgxX2FUbEIyQWs5OVdaSEo5MVM3UW4xVW9heDg3SWJkNWlra1BMMFd0ZVBEdzNoaEdqaU9tMVlCT0tsQ3Z5Y21MdFh3UDVkTEhvc0dBQm9YVmFhNHI3dVZLeG9qMzJGQzZKU29ka29KeFhkb3JJaGlOMl9yelljeFRmVHZWazdVeVpycHpVeVJETnFJMlE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "title": "Carney pledges $2.7-billion for Toronto rental homes - The Globe and Mail",
-      "excerpt": "Carney pledges $2.7-billion for Toronto rental homes The Globe and Mail",
-      "cat": "Housing",
       "lang": "en"
     }
   ]
