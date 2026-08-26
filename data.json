@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T06:52:16.842Z",
-  "count": 14866,
+  "generatedAt": "2026-08-26T12:54:59.908Z",
+  "count": 14871,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,58 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "cb082552a4662dbc",
+      "date": "2026-08-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/parks-canada/news/2026/08/parks-canada-to-celebrate-the-50th-anniversary-of-the-official-opening-of-bethune-memorial-house.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Parks Canada celebrates Bethune Memorial House 50th anniversary",
+      "sum": "Parks Canada is marking the 50th anniversary of the official opening of Bethune Memorial House. The house is a historic site commemorating a significant Canadian figure.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "0f20dcbba600f9cd",
+      "date": "2026-08-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/secretary-of-state-van-koeverden-to-announce-new-investment-in-sport-in-the-greater-toronto-area.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal government announces new sport investment in Greater Toronto Area",
+      "sum": "Secretary of State van Koeverden will announce new federal funding for sport programs in the Greater Toronto Area. The investment is part of the government's broader initiative to support sport across Canada.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "cbe6452210d15708",
+      "date": "2026-08-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-secretaire-detat-van-koeverden-annoncera-un-nouvel-investissement-dans-le-sport-dans-la-grande-region-de-toronto.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Investissement fédéral dans le sport annoncé pour Toronto",
+      "sum": "Le secrétaire d'État van Koeverden annonce un nouvel investissement du gouvernement fédéral dans le sport dans la région de Toronto. Cette initiative s'inscrit dans les efforts du gouvernement pour renforcer le Canada par le sport.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "b747309e28810650",
+      "date": "2026-08-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2026/08/parcs-canada-celebrera-le-50e-anniversaire-de-louverture-officielle-de-la-maison-commemorative-bethune.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Parcs Canada célèbre 50 ans de la Maison-Commémorative-Bethune",
+      "sum": "Parcs Canada marque le 50e anniversaire de l'ouverture officielle de la Maison-Commémorative-Bethune, un site historique canadien.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
     {
       "id": "30e84e2a781cce7b",
       "date": "2026-08-26",
@@ -969,6 +1021,18 @@
       "title": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet - The Washington Post",
       "excerpt": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet The Washington Post",
       "cat": "Economy"
+    },
+    {
+      "id": "adf8916273271ade",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmNUM1ZHbEwwTVJ3UEw5ak53RjRsYTh6VmZ5ai02TklndnB6c1VyTDhvcWtWdWdxcGdWTzNqbzJvQzJQbkNyY0lhYzYtUnlxRFV4NEQyTjAtQlVpSUVTOXZ3ejdRMlByVGlBdm5rX0xaTGc4c2RxVzNjeHpsWC12TUhualRxSTkz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada won’t return to negotiating table until U.S. changes its attitude, Carney says - The Globe and Mail",
+      "excerpt": "Canada won’t return to negotiating table until U.S. changes its attitude, Carney says The Globe and Mail",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "fbe0ff816652dcbe",
