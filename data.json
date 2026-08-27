@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T19:50:24.409Z",
-  "count": 14915,
+  "generatedAt": "2026-08-27T08:06:25.340Z",
+  "count": 14928,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,148 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ab86f829f26c8cb9",
+      "date": "2026-08-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/transport-canada/news/2026/08/government-of-canada-invests-over-235-million-to-strengthen-bc-airports-and-keep-communities-connected.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada invests $23.5 million to strengthen British Columbia airports",
+      "sum": "The Government of Canada is investing over $23.5 million in British Columbia airports. The investment aims to maintain airport infrastructure and support connectivity for communities, businesses, and travellers.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "6a8136a98333e46b",
+      "date": "2026-08-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/08/minister-of-finance-meets-with-chief-economists-to-discuss-economic-outlook-and-fiscal-priorities.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Finance Minister meets with chief economists on economic outlook",
+      "sum": "The Minister of Finance met with Canada's leading chief economists to discuss the country's economic outlook and the government's fiscal priorities. The meeting aimed to exchange views on economic conditions and plans for economic growth.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "3fca9c3736e652e0",
+      "date": "2026-08-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/media-update--severe-flash-flooding-and-mudslides-along-the-nepal-china-border.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada expresses condolences for Nepal flooding disaster",
+      "sum": "Severe flash flooding and mudslides occurred along the Nepal-China border. Canada has expressed sympathy for the victims and those affected.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "5d59ea3d76f11507",
+      "date": "2026-08-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/canada-and-ontario-making-homes-more-affordable-in-hamilton.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada and Ontario fund Hamilton development charge reduction program",
+      "sum": "Canada and Ontario announced $572 million in funding for Hamilton through the Development Charge Reduction Program. The funding supports Hamilton's plan to eliminate development charges on residential developments for three years starting in March 2026.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "a7488c7c8c4e70b5",
+      "date": "2026-08-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/prairies-economic-development/news/2026/08/federal-investment-helps-defend-albertas-forest-sector-against-us-tariffs.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal government invests $20 million in Alberta forest modernization",
+      "sum": "The federal government is providing $20 million to Mercer Peace River to modernize operations and support the forest sector amid U.S. tariffs. The investment aims to help the company maintain competitiveness and protect jobs in Alberta.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "88f33c4a214bd4c4",
+      "date": "2026-08-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/transports-canada/nouvelles/2026/08/le-gouvernement-du-canada-investit-plus-de-235-millions-de-dollars-pour-renforcer-les-aeroports-de-la-colombie-britannique-et-maintenir-les-communa.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada investit 23,5 millions pour les aéroports de la Colombie-Britannique",
+      "sum": "Le gouvernement fédéral accorde plus de 23,5 millions de dollars pour améliorer les installations aéroportuaires en Colombie-Britannique. Ces investissements visent à maintenir la connectivité des communautés et le transport des personnes et des marchandises.",
+      "cat": "Transportation",
+      "ai": true
+    },
+    {
+      "id": "9681b275fa3a755d",
+      "date": "2026-08-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/08/le-ministre-des-finances-rencontre-les-economistes-en-chef-pour-discuter-des-perspectives-economiques-et-des-priorites-budgetaires.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre des Finances rencontre économistes sur perspectives budgétaires",
+      "sum": "Le ministre des Finances a rencontré les principaux économistes en chef du Canada pour discuter des perspectives économiques du pays et des priorités budgétaires du gouvernement.",
+      "cat": "Finance",
+      "ai": true
+    },
+    {
+      "id": "6cba642831f00793",
+      "date": "2026-08-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/08/mise-a-jour-aux-medias--graves-crues-soudaines-et-coulees-de-boue-le-long-de-la-frontiere-entre-le-nepal-et-la-chine.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada exprime sa solidarité suite aux crues au Népal",
+      "sum": "Le Canada a exprimé sa solidarité envers les victimes et les personnes touchées par les graves crues soudaines et coulées de boue survenues le long de la frontière entre le Népal et la Chine.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "b2623a3b40289006",
+      "date": "2026-08-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/lontario-et-le-canada-rendent-les-logements-plus-abordables-a-hamilton.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ontario et Canada financent réduction des redevances à Hamilton",
+      "sum": "Les gouvernements de l'Ontario et du Canada accordent 572 millions de dollars à Hamilton pour éliminer les redevances d'aménagement sur les projets résidentiels entre 2026 et 2029.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "d89021de9db0d49c",
+      "date": "2026-08-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-prairies/nouvelles/2026/08/linvestissement-federal-aide-a-defendre-le-secteur-forestier-de-lalberta-contre-les-droits-de-douane-imposes-par-les-etats-unis.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada investit 20 millions pour soutenir secteur forestier albertain",
+      "sum": "Le gouvernement fédéral investit 20 millions de dollars pour aider Mercer Peace River à moderniser ses opérations et maintenir sa compétitivité face aux tarifs douaniers américains.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "1ef9a5ab6f5e0e48",
+      "date": "2026-08-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ3BxMllCOGlpRE9GVmV4bmVYNGd2eTllRlM4Z0xmd3Zuel9zZEtleE55dDMwX2pjRW1qSm1LWWxfZm9VZXJWVnRzNzJtVG1GV215MDdJWUhnclhMQjZFWElHeUFIcWxqbWl4N3Z6cU5aUW43SXVRWC0weThiazZlTks5aWxQaUpYdjhMbGtDM1d2RDk3R2ptR1p6TXVxMlVFQ2ZhaHE3dFpEUzBNWXNNZkM1U2M3SDQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "BC's Eby asks Carney to look beyond tariff response in US-Canada trade war - Canada's National Observer",
+      "excerpt": "BC's Eby asks Carney to look beyond tariff response in US-Canada trade war Canada's National Observer",
+      "cat": "Economy"
+    },
     {
       "id": "9f6f691cedb8f4ff",
       "date": "2026-08-26",
@@ -603,6 +745,18 @@
       "title": "Carney should kill September gas tax hike - Asian Pacific Post",
       "excerpt": "Carney should kill September gas tax hike Asian Pacific Post",
       "cat": "Finance"
+    },
+    {
+      "id": "59645086f6e11ff6",
+      "date": "2026-08-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQnFicnZLdnRoSnl3bm9KaTMySWNqTWY2ZXVyNFAyMlI4eE5pbzZ0UDhNYzVnalNFYTJFTjNCNW5fVTdXTWJhbTdwVy1yUmoxYlB4VWJRbEZLRGdMMDZRSHl6TkU0MTNncUVPTllXQUtGUlhqZmNVamhOSGlQUjU0cHoxOWJGZGhsaVl2d2swLUVPTUI5dU9XMnhPV2M5c3RZQXRqLTVmbjRZRHpEOVdrME5LY21oVnBiWmxIZXdPZHR1NTd0bDN5NWl1ejBjX3R5WEVlZi16bVA4YmFnQ0xF?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canadians can’t see the rejected U.S. trade deal. Here’s why - Toronto Star",
+      "excerpt": "Canadians can’t see the rejected U.S. trade deal. Here’s why Toronto Star",
+      "cat": "Economy"
     },
     {
       "id": "e302c2d6f99de5a8",
@@ -1574,6 +1728,18 @@
       "lang": "en",
       "title": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet - The Washington Post",
       "excerpt": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "8dc42ba93b8dedc7",
+      "date": "2026-08-24",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0FqdktmeFczOW1PZWNZY1RScHNOR0pnOWo5c1UtblQ2d0JzUUpYc2tVcUc1eEZ0TUczNjRkX2FFZnRGUXpyWTNoNVZnX2dvQ1pMVC1rZXNhZUZzaUFPUmwyNzFMSW1nR1lFemZ0OUVTdGFjODJpOWg1T2JGLTlNOGlLcGJxUC1wTHpBb05QQnZSVGQzcTdKZy13?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Trump menace d’augmenter des tarifs sur les autos à 50 % - Radio-Canada",
+      "excerpt": "Trump menace d’augmenter des tarifs sur les autos à 50 % Radio-Canada",
       "cat": "Economy"
     },
     {
