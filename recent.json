@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-27T21:57:09.166Z",
+  "generatedAt": "2026-08-28T10:09:26.228Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7782,
+      "actions": 7788,
       "sources": 9
     },
     "fr": {
-      "actions": 7205,
+      "actions": 7207,
       "sources": 7
     }
   },
@@ -44,6 +44,80 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "20c977439a6c282d",
+      "date": "2026-08-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/pacific-economic-development/news/2026/08/minister-robertson-convenes-tariff-response-meeting-with-bc-industry-leaders-to-discuss-ongoing-us-trade-situation.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister Robertson meets with B.C. industry leaders on U.S. tariffs",
+      "sum": "Minister Gregor Robertson convened a meeting with business leaders from British Columbia industries affected by U.S. tariffs to discuss the trade situation. The meeting included representatives from sectors most impacted by the ongoing trade tensions.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "f29a29acdf0d9ccd",
+      "date": "2026-08-28",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-pacifique/nouvelles/2026/08/le-ministre-robertson-organise-une-reunion-avec-les-chefs-de-file-de-lindustrie-de-la-colombie-britannique-pour-discuter-de-la-situation-commercial.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Robertson rencontre chefs industrie Colombie-Britannique tarifs",
+      "sum": "Le ministre Gregor Robertson a organisé une réunion avec des représentants de l'industrie de la Colombie-Britannique pour discuter de l'impact des tarifs douaniers américains sur le commerce. La rencontre visait à examiner les répercussions de ces mesures tarifaires sur les secteurs industriels de la province.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "789fcd885c85b6de",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vVnBtdUxOUlZJcFhXaE5CdGszbllaWE9rclpMemx4MkYtQVA1YWs4U25naFk1bnZIZVVYb0dQdlBtTWRSR3JHaHlNMEtqVklKcENvTFZMV1c1OFFvM0Y4OENVWTRPRmsz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s elbows are back up where Canadians already had theirs - The Writ",
+      "excerpt": "Carney’s elbows are back up where Canadians already had theirs The Writ",
+      "cat": "Economy"
+    },
+    {
+      "id": "9ab7de99883687ff",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTW9nWm9INFJNSkxPbEFVcDlJTEhFTGhoV05COFd5eW0xemFlRkpDeHdMNUZWRG9wSm9RdUVzRHlHbEFzc0RhSEU5dUVnZ29UbzBLd0xqaWo4T3dhRTIxeGFFUzRLOU1yVi1DY1BuSVpuN2p5N1Y4cmNyRkl0RDNUVGhLSUdRMF9k?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "LeBlanc welcomes U.S. decision 'withdrawing positions' on language, culture - CBC",
+      "excerpt": "LeBlanc welcomes U.S. decision 'withdrawing positions' on language, culture CBC",
+      "cat": "Culture & heritage"
+    },
+    {
+      "id": "848ee30073dbbadd",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVGd6dkc4YTl3bHdTbkJzeEwtR2FWYkhBQUdMSzMzVWZic0U3NVZtN0pzQm1nWEJ1RFR5MmoyWk5uQWJxZVdyUnhaOWhvdF9JVTBYLVVkYTctSHZfa1ZOLWp5bTkzeWsxMUtEWm81WjFSMTNTbkE0MDFVdDJaeVVSejdNWWdXTm5CYzBBY3l6Z3g4YnRKbGYwQVF3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives want the Liberals to release the rejected U.S. trade deal. Should they? - CBC",
+      "excerpt": "Conservatives want the Liberals to release the rejected U.S. trade deal. Should they? CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "1c4fd8f458c0fedb",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFeFFlSkZkZy1kSFJoZzZDdktvTFcySXU2T0ZMSE1ROUk2emU3d2FqN245WGNubmhYdTNRSU9sSHktamlhTEgwTFExTVJHTEVIejRKdms2VEp1VExMSGx0X1gzVThrVzRiNVktcUp5SXYwY3dwdV83WkgzLXctZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The art of inflicting pain: How to select targets for Canada's counter-tariffs - CBC",
+      "excerpt": "The art of inflicting pain: How to select targets for Canada's counter-tariffs CBC",
+      "cat": "Economy"
+    },
     {
       "id": "4d0af11cb28bd444",
       "date": "2026-08-27",
@@ -6927,6 +7001,18 @@
       "cat": "Economy"
     },
     {
+      "id": "bc8ad8ee13f4dd21",
+      "date": "2026-08-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORlo0TW90MEh2VGRTWmVKMFBscWVLM3VmWnNiQXpFSGZTcmhTUUR1UHdaWUI2VG1BNk96S0pyTnhYb0NiV0R0N1o5N0toMXF0TkFzbC1vNllmUUZtQWQ5S0trYXlTd3NOd21uT0hNdjJ3SDVnaklmS2xmdlh3RXZGa21vYXpCY1ZSbVB4VUVUU1FTMDBHT0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "A Wildfire Memo to Mark Carney: We Need New Water Bombers Now - Policy Magazine",
+      "excerpt": "A Wildfire Memo to Mark Carney: We Need New Water Bombers Now Policy Magazine",
+      "cat": "Economy"
+    },
+    {
       "id": "174221fcd0f9d1e8",
       "date": "2026-08-14",
       "src": "Canadian politics (via Google News)",
@@ -10202,97 +10288,6 @@
       "title": "Deux agents correctionnels décédés à l'établissement d'Edmonton",
       "sum": "Deux agents correctionnels, Nicolae Serban et Ramandeep Kaur Maan, ont perdu la vie hier à l'Établissement d'Edmonton pour femmes. Le Commissaire du Service correctionnel du Canada a publié une déclaration reconnaissant leur décès survenu dans l'exercice de leurs fonctions.",
       "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "fa77dfb982d68ed0",
-      "date": "2026-08-07",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-nord/nouvelles/2026/08/le-gouvernement-du-canada-annoncera-des-investissements-pour-appuyer-le-developpement-economique-et-les-infrastructures-diriges-par-des-autochtones.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit dans développement économique autochtone des Territoires du Nord-Ouest",
-      "sum": "Le gouvernement du Canada annoncera un financement pour quatre projets dirigés par des Autochtones visant à renforcer l'économie et les infrastructures des Territoires du Nord-Ouest.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "7fde8d8623320949",
-      "date": "2026-08-07",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/08/deces-dune-detenue-de-letablissement-dedmonton-pour-femmes.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Décès d'une détenue à l'Établissement d'Édmonton pour femmes",
-      "sum": "Le 6 août 2026, Kiara Mooswa, une détenue de l'Établissement d'Édmonton pour femmes, est décédée alors qu'elle était sous la garde du gouvernement fédéral.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "f16ec6b0477a5eb8",
-      "date": "2026-08-07",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/transports-canada/nouvelles/2026/08/les-ministres-alty-et-olszewski-feront-une-annonce-concernant-des-investissements-en-matiere-dinfrastructures-a-laeroport-mike-zubko-dinuvik.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Investissements en infrastructures à l'aéroport d'Inuvik annoncés",
-      "sum": "Les ministres Alty et Olszewski annonceront des investissements en matière d'infrastructures à l'aéroport Mike Zubko d'Inuvik. Cette annonce est faite au nom du ministre des Transports et du leader du gouvernement à la Chambre des communes.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "296b909f41152a71",
-      "date": "2026-08-07",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/08/la-ministre-anand-conclut-sa-visite-au-benin-et-en-cote-divoire-en-vue-de-renforcer-les-partenariats-du-canada-en-afrique-de-louest.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Anand conclut visite en Afrique de l'Ouest",
-      "sum": "La ministre des Affaires étrangères Anita Anand a terminé une visite au Bénin et en Côte d'Ivoire du 4 au 6 août 2026. Cette visite visait à renforcer la coopération bilatérale du Canada et à promouvoir la croissance économique en Afrique de l'Ouest.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "cdd146d27921d855",
-      "date": "2026-08-07",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/08/document-dinformation--annonces-de-projets-faites-par-la-ministre-anand-lors-de-ses-visites-au-benin-et-en-cote-divoire.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada annonce 85 millions de dollars pour projets en Afrique de l'Ouest",
-      "sum": "La ministre des Affaires étrangères a annoncé un financement de plus de 85 millions de dollars pour des projets au Bénin et en Côte d'Ivoire. Ces initiatives soutiendront l'autonomisation économique des femmes, la croissance économique, l'éducation et la sécurité dans la région.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "2fa1d0e1beab0381",
-      "date": "2026-08-07",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/anciens-combattants-canada/nouvelles/2026/08/le-gouvernement-du-canada-tiendra-une-ceremonie-a-loccasion-de-la-journee-nationale-des-gardiens-de-la-paix.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada tient cérémonie pour Journée nationale des Gardiens de la paix",
-      "sum": "Le gouvernement du Canada organise une cérémonie commémorative au Monument national du maintien de la paix pour marquer la Journée nationale des Gardiens de la paix. L'événement réunira des vétérans, des membres actifs des Forces armées canadiennes et de la GRC, ainsi que des jeunes.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "ea7bd71ab0efa5cf",
-      "date": "2026-08-07",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2026/08/disponibilite-media-au-parc-national-de-la-mauricie.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Accès médias organisé au Parc national de la Mauricie",
-      "sum": "Le gouvernement fédéral organise une disponibilité pour les médias au Parc national de la Mauricie. Cette activité permet aux journalistes d'accéder au parc et de couvrir des enjeux ou initiatives gouvernementales.",
-      "cat": "Culture & heritage",
       "ai": true
     }
   ]

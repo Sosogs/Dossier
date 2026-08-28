@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T21:57:09.166Z",
-  "count": 14987,
+  "generatedAt": "2026-08-28T10:09:26.228Z",
+  "count": 14995,
   "categories": [
     "Foreign affairs",
     "National defence",
@@ -34,6 +34,80 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "20c977439a6c282d",
+      "date": "2026-08-28",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/pacific-economic-development/news/2026/08/minister-robertson-convenes-tariff-response-meeting-with-bc-industry-leaders-to-discuss-ongoing-us-trade-situation.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister Robertson meets with B.C. industry leaders on U.S. tariffs",
+      "sum": "Minister Gregor Robertson convened a meeting with business leaders from British Columbia industries affected by U.S. tariffs to discuss the trade situation. The meeting included representatives from sectors most impacted by the ongoing trade tensions.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "f29a29acdf0d9ccd",
+      "date": "2026-08-28",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-pacifique/nouvelles/2026/08/le-ministre-robertson-organise-une-reunion-avec-les-chefs-de-file-de-lindustrie-de-la-colombie-britannique-pour-discuter-de-la-situation-commercial.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Robertson rencontre chefs industrie Colombie-Britannique tarifs",
+      "sum": "Le ministre Gregor Robertson a organisé une réunion avec des représentants de l'industrie de la Colombie-Britannique pour discuter de l'impact des tarifs douaniers américains sur le commerce. La rencontre visait à examiner les répercussions de ces mesures tarifaires sur les secteurs industriels de la province.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "789fcd885c85b6de",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vVnBtdUxOUlZJcFhXaE5CdGszbllaWE9rclpMemx4MkYtQVA1YWs4U25naFk1bnZIZVVYb0dQdlBtTWRSR3JHaHlNMEtqVklKcENvTFZMV1c1OFFvM0Y4OENVWTRPRmsz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s elbows are back up where Canadians already had theirs - The Writ",
+      "excerpt": "Carney’s elbows are back up where Canadians already had theirs The Writ",
+      "cat": "Economy"
+    },
+    {
+      "id": "9ab7de99883687ff",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTW9nWm9INFJNSkxPbEFVcDlJTEhFTGhoV05COFd5eW0xemFlRkpDeHdMNUZWRG9wSm9RdUVzRHlHbEFzc0RhSEU5dUVnZ29UbzBLd0xqaWo4T3dhRTIxeGFFUzRLOU1yVi1DY1BuSVpuN2p5N1Y4cmNyRkl0RDNUVGhLSUdRMF9k?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "LeBlanc welcomes U.S. decision 'withdrawing positions' on language, culture - CBC",
+      "excerpt": "LeBlanc welcomes U.S. decision 'withdrawing positions' on language, culture CBC",
+      "cat": "Culture & heritage"
+    },
+    {
+      "id": "848ee30073dbbadd",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVGd6dkc4YTl3bHdTbkJzeEwtR2FWYkhBQUdMSzMzVWZic0U3NVZtN0pzQm1nWEJ1RFR5MmoyWk5uQWJxZVdyUnhaOWhvdF9JVTBYLVVkYTctSHZfa1ZOLWp5bTkzeWsxMUtEWm81WjFSMTNTbkE0MDFVdDJaeVVSejdNWWdXTm5CYzBBY3l6Z3g4YnRKbGYwQVF3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives want the Liberals to release the rejected U.S. trade deal. Should they? - CBC",
+      "excerpt": "Conservatives want the Liberals to release the rejected U.S. trade deal. Should they? CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "1c4fd8f458c0fedb",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFeFFlSkZkZy1kSFJoZzZDdktvTFcySXU2T0ZMSE1ROUk2emU3d2FqN245WGNubmhYdTNRSU9sSHktamlhTEgwTFExTVJHTEVIejRKdms2VEp1VExMSGx0X1gzVThrVzRiNVktcUp5SXYwY3dwdV83WkgzLXctZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The art of inflicting pain: How to select targets for Canada's counter-tariffs - CBC",
+      "excerpt": "The art of inflicting pain: How to select targets for Canada's counter-tariffs CBC",
+      "cat": "Economy"
+    },
     {
       "id": "4d0af11cb28bd444",
       "date": "2026-08-27",
@@ -6914,6 +6988,18 @@
       "lang": "fr",
       "title": "Ottawa rate complètement sa cible d’installation de bornes pour voitures électriques - ledevoir.com",
       "excerpt": "Ottawa rate complètement sa cible d’installation de bornes pour voitures électriques ledevoir.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "bc8ad8ee13f4dd21",
+      "date": "2026-08-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORlo0TW90MEh2VGRTWmVKMFBscWVLM3VmWnNiQXpFSGZTcmhTUUR1UHdaWUI2VG1BNk96S0pyTnhYb0NiV0R0N1o5N0toMXF0TkFzbC1vNllmUUZtQWQ5S0trYXlTd3NOd21uT0hNdjJ3SDVnaklmS2xmdlh3RXZGa21vYXpCY1ZSbVB4VUVUU1FTMDBHT0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "A Wildfire Memo to Mark Carney: We Need New Water Bombers Now - Policy Magazine",
+      "excerpt": "A Wildfire Memo to Mark Carney: We Need New Water Bombers Now Policy Magazine",
       "cat": "Economy"
     },
     {
@@ -66052,6 +66138,18 @@
       "cat": "Finance",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "9d3ab4a0d3faf4f9",
+      "date": "2026-04-27",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzVLT1BoT0xXWlRSd3F3R0Zkb2JZcUNpZ0NaMVFUYmgydnN5cHpkUFItQk82TXpPUzJ4ZTFxSzVJT1VnSzNpaUhQT0tma2tTUDZ2c2l4WG1PWHFpTndHVWF3S0g3ZWo4RmQ1bzRSV2hFVEEySVo4eTc4SzFvVEwwaGNueDVITGtfSG53X0g3OV9MVTViV3BqdGhUdEhzZFU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le Canada aura son propre fonds souverain | La Presse - La Presse",
+      "excerpt": "Le Canada aura son propre fonds souverain | La Presse La Presse",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "8821fc365d1e7980",
