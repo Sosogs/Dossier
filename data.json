@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T06:08:03.465Z",
+  "generatedAt": "2026-08-29T16:22:10.718Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "27cd39fcfdc45fda",
+      "date": "2026-08-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ3dYMk11TUJkRHF2Qnd1U01YVi1tRXYwa01HOEtXUTVmcTZKLW44bmxHdHdxaU9nQWhlNVBqWTh5aFkzcGtSTHpkQ1VlTFRGaVI1WHlMVEdESmpXX3RGOVp6M3hXOVNkLXhmNGQ4ellsNngybzVVMFdVQjJfM0tmTDZIRUd6X3VoTTVKalFBb3AyanM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government asks court to strike down climate litigation - CBC",
+      "excerpt": "Carney government asks court to strike down climate litigation CBC",
+      "cat": "Justice"
+    },
+    {
+      "id": "d773d7ed25f9d47b",
+      "date": "2026-08-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDdlUTRUMTFNTmZrdXYxdlg5S3ZhVGRySDhtZ25pMml4SnlaT1hnTnIweTFOeEFaakVUdHZMVVd4eUVaVHBuSm41aDQxOVJXSlYycFU4enNwaUpjZ2lpSENQeDJ3amVtcUFPdVdrVldrZmZ0M0VucWY3dzVnTWNfNG54Tk1mbVMwLWY5aVdScXNUTW1KY1ZWekp0b1A2MUZQczBqeXRGdUw2bFRBZzBiZTJXQ0JwcF80?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s Carney responds to Trump’s Lake America name change with a history lesson - The Independent",
+      "excerpt": "Canada’s Carney responds to Trump’s Lake America name change with a history lesson The Independent",
+      "cat": "Economy"
+    },
     {
       "id": "6e2d3898aa93148d",
       "date": "2026-08-28",
@@ -863,6 +887,18 @@
       "sum": "Le ministre Gregor Robertson a organisé une réunion avec des représentants de l'industrie de la Colombie-Britannique pour discuter de l'impact des tarifs douaniers américains sur le commerce. La rencontre visait à examiner les répercussions de ces mesures tarifaires sur les secteurs industriels de la province.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "c58e4dfc561534db",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oQ3NHOWhjd1FudjkyOUJwTUFYcnJiTWZjbGp2X1dMc19faUtZalNYa1FaV2tLYUs1QVJaR0UtSEZsRXVaN2s5NFFlVXNUTW16YXNZdnZQajBxTEtJY1J0WVdFdVFtd1NobG9mRm5HMnJEcUVw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "'Real foolishness': Canadian officials reject Trump attempt to rename Lake Ontario as 'Lake America' | CBC News - CBC",
+      "excerpt": "'Real foolishness': Canadian officials reject Trump attempt to rename Lake Ontario as 'Lake America' | CBC News CBC",
+      "cat": "Economy"
     },
     {
       "id": "789fcd885c85b6de",
@@ -75796,6 +75832,18 @@
       "sum": "Le ministre du Logement et de l'Infrastructure, l'honorable Gregor Robertson, tiendra une annonce publique concernant le logement à Morin-Heights en présence de députés et de secrétaires parlementaires.",
       "cat": "Housing",
       "ai": true
+    },
+    {
+      "id": "4970e474a3e355a6",
+      "date": "2026-04-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObXZ2VXdkeWJaSlFVZDFGWUUxb1c1ODltV2pad3IxSnNidmZROHZ4Wnk3YWdGdGJNNmRKWkFCcXQxa05oeU5MSUVoWDBUR3V5Y3BfQ1pBaFJQcHpKdFRpV010ZEh4MmdzNmNWOGZCU0g0Q2JUOEdmblBNVXgxcGpZbkttX1dwQTJqRVBrR2ZXWlo4WkRkeVhtb2pwY3Z5TENOb0ZRMDVkeUFnLUI4QUVfWGZhbEV6b1hqcmc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney launches the Build Communities Strong Fund and announces the first tranche of projects - pm.gc.ca",
+      "excerpt": "Prime Minister Carney launches the Build Communities Strong Fund and announces the first tranche of projects pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "dad458b7d7acff7c",
@@ -193964,58 +194012,6 @@
       "title": "Initiative canadienne soutient reconversion professionnelle après licenciements",
       "sum": "Le Canada lance une initiative pour aider les organismes touchés par des licenciements collectifs importants. Ce programme offre un soutien supplémentaire aux travailleurs pour se réorienter vers de nouveaux emplois.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "1a9f690c1b7f9193",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/un-nouveau-centre-sportif-pour-montreal-nord.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Gouvernement fédéral finance nouveau centre sportif à Montréal-Nord",
-      "sum": "Le gouvernement fédéral contribue 15 millions de dollars à la construction d'un nouveau complexe sportif aquatique à Montréal-Nord. Le projet sera réalisé sur le site de l'ancien aréna Garon avec un financement total de 103 millions de dollars provenant du gouvernement fédéral et de la Ville de Montréal.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "0d2b984ff18af17e",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2025/03/aider-les-travailleurs-canadiens-touches-par-des-licenciements-a-ameliorer-leurs-competences-et-trouver-un-emploi.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Programme de soutien aux travailleurs licenciés pour reconversion professionnelle",
-      "sum": "Le gouvernement fédéral met en place des mesures pour aider les travailleurs canadiens affectés par des licenciements à améliorer leurs compétences et trouver un nouvel emploi. Ces initiatives visent à renforcer le filet de sécurité sociale et soutenir la résilience des collectivités.",
-      "cat": "Education",
-      "ai": true
-    },
-    {
-      "id": "ab15bd327164e55f",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-prairies/nouvelles/2025/03/le-ministre-duguid-annoncera-un-investissement-federal-dans-le-chemin-de-fer-de-la-baie-dhudson.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Investissement fédéral annoncé pour le chemin de fer de la baie d'Hudson",
-      "sum": "Le ministre Duguid annonce des investissements fédéraux pour le chemin de fer de la baie d'Hudson. Ces fonds visent à assurer des transports abordables dans le Nord et renforcer les opportunités commerciales canadiennes.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "30e61d56b4ed5f12",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2025/03/le-gouvernement-federal-investit-499-millions-de-dollars-dans-stemcell-technologies-canada-inc.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Gouvernement investit 49,9 millions dans STEMCELL Technologies Canada",
-      "sum": "Le gouvernement fédéral injecte 49,9 millions de dollars dans STEMCELL Technologies Canada Inc. L'entreprise construira deux nouvelles installations de biofabrication pour produire des intrants utilisés dans le développement de vaccins, de médicaments et de technologies de diagnostic.",
-      "cat": "Innovation, science & industry",
       "ai": true
     }
   ]
