@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-29T20:34:42.115Z",
+  "generatedAt": "2026-08-30T04:15:36.962Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7801,
+      "actions": 7802,
       "sources": 9
     },
     "fr": {
-      "actions": 7199,
+      "actions": 7198,
       "sources": 7
     }
   },
@@ -3364,6 +3364,18 @@
       "lang": "en",
       "title": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet - The Washington Post",
       "excerpt": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "ba544fdfae94472a",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMU1zaWxyM3VDT0RfYzBydXhudERvbW9YSnFhM0RpSTFQcVNCMEVfR1hzRFdVUnlvcXpQcDlhdXV1cDhRM3owSzJNQnMzenh1MkQtNllmeHRMaVRhbG0yMTlJakFZaS0tU1ZoVmNjVWtQS2VUdnkxN2piTExoQlBHa0pYT2ZBYk9CT0tYbDczZ1NCV05vQ3libGFWWUNzZ25pVHc0aUtnUnJRQnJrLWZ0VA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives ask Carney to release U.S. trade offer details - CTV News",
+      "excerpt": "Conservatives ask Carney to release U.S. trade offer details CTV News",
       "cat": "Economy"
     },
     {
@@ -10280,19 +10292,6 @@
       "lang": "en",
       "title": "Federal funding supports Indigenous-led business and youth projects in NWT",
       "sum": "The federal government announced up to $1,982,199 in funding for four Indigenous-led projects in the Northwest Territories. The funding, delivered through CanNor, supports business expansion and youth initiatives.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "2c0bbd0ba2f30225",
-      "date": "2026-08-10",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/northern-economic-development/news/2026/08/backgrounder-the-government-of-canada-invests-over-19m-to-support-indigenous-economic-participation-in-the-northwest-territories.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada funds four Indigenous-led business projects in Northwest Territories",
-      "sum": "The Government of Canada is providing $1.98 million through CanNor to support four Indigenous-led projects in the Northwest Territories. The funding aims to help expand business operations and empower Indigenous youth.",
       "cat": "Indigenous services",
       "ai": true
     }

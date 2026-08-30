@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T20:34:42.115Z",
+  "generatedAt": "2026-08-30T04:15:36.962Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -3354,6 +3354,18 @@
       "lang": "en",
       "title": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet - The Washington Post",
       "excerpt": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "ba544fdfae94472a",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMU1zaWxyM3VDT0RfYzBydXhudERvbW9YSnFhM0RpSTFQcVNCMEVfR1hzRFdVUnlvcXpQcDlhdXV1cDhRM3owSzJNQnMzenh1MkQtNllmeHRMaVRhbG0yMTlJakFZaS0tU1ZoVmNjVWtQS2VUdnkxN2piTExoQlBHa0pYT2ZBYk9CT0tYbDczZ1NCV05vQ3libGFWWUNzZ25pVHc0aUtnUnJRQnJrLWZ0VA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives ask Carney to release U.S. trade offer details - CTV News",
+      "excerpt": "Conservatives ask Carney to release U.S. trade offer details CTV News",
       "cat": "Economy"
     },
     {
@@ -13590,6 +13602,18 @@
       "excerpt": "What options does the federal government have on the WestJet strike? CBC",
       "cat": "Economy",
       "lang": "en"
+    },
+    {
+      "id": "3e9d05c495cd0aca",
+      "date": "2026-08-01",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzNlODFpMVdUVnpXSUlhcmhvcHhDWTZXN255WnAzUFJNcWt3X3VrempwRWJpby1ET0J5ZjI4Z1FWWTF5TXMyRVVKTFVVckZoei1NX2VSTnlMbDlSekVXbEo3YjFGaWd4OHZjRlByb0ItbHJPX29DS2kxa2hscDN3ejFDNTMtb2ZnNzNiU0VqZjQ5WUU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Quand le sauveur du Canada met son pays en péril - Le Devoir",
+      "excerpt": "Quand le sauveur du Canada met son pays en péril Le Devoir",
+      "cat": "Economy"
     },
     {
       "id": "bc474b23086b6c90",
@@ -193985,32 +194009,6 @@
       "lang": "fr",
       "title": "ASFC enquête sur le dumping et subventionnement de résine PET",
       "sum": "L'Agence des services frontaliers du Canada ouvre des enquêtes sur le dumping présumé de résine de polyéthylène téréphtalate en provenance de Chine et du Pakistan, ainsi que sur les subventions gouvernementales accordées à ce produit en Chine.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "4185ce7b81796e01",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2025/03/investir-dans-le-potentiel-du-canada-en-matiere-dhydrogene.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le gouvernement soutient une installation de liquéfaction d'hydrogène",
-      "sum": "Le gouvernement canadien appuie la construction d'une installation de liquéfaction d'hydrogène exploitée par HTEC en Colombie-Britannique. Ce projet vise à développer le secteur de l'hydrogène au Canada.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "08d66b8a87d468f5",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2025/03/document-dinformation-initiative-canadienne-pour-le-perfectionnement-professionnel-et-les-possibilites-demploi.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Initiative canadienne soutient reconversion professionnelle après licenciements",
-      "sum": "Le Canada lance une initiative pour aider les organismes touchés par des licenciements collectifs importants. Ce programme offre un soutien supplémentaire aux travailleurs pour se réorienter vers de nouveaux emplois.",
       "cat": "Economy",
       "ai": true
     }
