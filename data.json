@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T11:28:23.776Z",
+  "generatedAt": "2026-08-30T16:15:07.843Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "15b4f24b5f8d1968",
+      "date": "2026-08-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaU00dkZDYXlPWDNpTEY0N3JzdHFkU0xIWlpvdnhuVVpZa2lTOXZXTmgyLWRkUks4cnhSS25MVk9BcGVFeXREalY4Q09YNVYyV3o4S1VEcDFTWGMzbnMwc095Wm8yZmtFS0hiUXBCeHlfVnI0U2dITnlFcEpmYVBhanVYamloWDI3bWVIZVhsNW1YR3pKT0dWUUxFOXRPa3ZlUTdPTnZ1OV8xdGs?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PERSPECTIVE - MORE OF THE SAME: Carney Should Abandon - Not Continue - Fiscal Approach of Predecessor - EnergyNow",
+      "excerpt": "PERSPECTIVE - MORE OF THE SAME: Carney Should Abandon - Not Continue - Fiscal Approach of Predecessor EnergyNow",
+      "cat": "Finance"
+    },
+    {
+      "id": "e66b81a8d0f8e8b7",
+      "date": "2026-08-29",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU1NRVnZlYW5mbThoQWdRX1BTRmpnU2F5ZjJxZjNYX2dRQ0tYX1NDT3N0cVpvV3ZYOW9JYzlROGUwRWxPbl8tZUd4QkdVSGs5c0FheTNMZWY1UFJrRlB1YUlpa09GYXJLbnVkOGlyV1Nyd3VBRzQxMndlWkd4V3BkRHBMYjkxV1RQRUVwdGRROFJ3cFFrX3JrZjJwTUpNMndmWVhTUDNyVEpNalNDNklSTTJzeXllQktjQVJ1YXFKQUNTZFlaUjJFMDd3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Sondage Synopsis-La Presse | Les appuis pour Carney augmentent au Québec - La Presse",
+      "excerpt": "Sondage Synopsis-La Presse | Les appuis pour Carney augmentent au Québec La Presse",
+      "cat": "Economy"
+    },
     {
       "id": "27cd39fcfdc45fda",
       "date": "2026-08-29",
@@ -193984,32 +194008,6 @@
       "title": "Canada investit jusqu'à 7 millions pour infrastructure communautaire à Nanaimo",
       "sum": "Le gouvernement du Canada annonce un investissement pouvant atteindre 7 millions de dollars pour l'agrandissement du centre aquatique Ravensong en Colombie-Britannique. Ce financement est accordé dans le cadre du programme Bâtiments communautaires verts et inclusifs.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "cd9e80a7ea4e8e07",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/le-gouvernement-du-canada-sengage-a-investir-jusqua-20-millions-de-dollars-pour-soutenir-les-infrastructures-communautaires-de-thunder-bay.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 20 millions pour un centre des sciences à Thunder Bay",
-      "sum": "Le gouvernement fédéral annonce un investissement pouvant atteindre 20 millions de dollars pour construire un centre des sciences à Thunder Bay. Cet projet s'inscrit dans le programme Bâtiments communautaires verts et inclusifs.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "84b42ec01a96c3c7",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/03/lasfc-ouvre-des-enquetes-sur-les-presumes-dumping-de-la-resine-de-polyethylene-terephtalate-pet-de-chine-et-du-pakistan-et-son-subventionnement-de-.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "ASFC enquête sur le dumping et subventionnement de résine PET",
-      "sum": "L'Agence des services frontaliers du Canada ouvre des enquêtes sur le dumping présumé de résine de polyéthylène téréphtalate en provenance de Chine et du Pakistan, ainsi que sur les subventions gouvernementales accordées à ce produit en Chine.",
-      "cat": "Economy",
       "ai": true
     }
   ]
