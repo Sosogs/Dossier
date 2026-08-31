@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T04:21:12.266Z",
+  "generatedAt": "2026-08-31T12:59:32.248Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,42 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "f26ff4e5c2bdee54",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzlNMGdadjhJbW94TUpkTDNnYm5KdkFOUk5KVWZEZ2RDUXhkQlVQNnhBeHFvR1oyNy1yUWVELUJQeTQ1TTJ1X2ZqblRNcVVrZjZYOVlOT1J1RHZkZ1NiNDZHUnZ1S216dEtRWEphTF8tb3oyOXA1OE41TUdYNmFYN29tbkRXY3ZDNlhtdXJGeGQ2MnVDYkF5U2ppYVROZXRlMEFScmx4WU1wd3ZqQ1Z4bDhEOVVrNjI2bDdhOEZWMjZqRGtpY0taa3NGRlhqZzQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canadians Give the Carney Government Strong Overall Marks, but its Approval Rests Heavily on the Canada-U.S. file - Abacus Data",
+      "excerpt": "Canadians Give the Carney Government Strong Overall Marks, but its Approval Rests Heavily on the Canada-U.S. file Abacus Data",
+      "cat": "Economy"
+    },
+    {
+      "id": "54cd57d2ba2cf412",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObHRZWFhQSXRjazdJTFVYc0d5azJMbzN0T2E0SHM4ejdNeWtjZzVXWW5PUGFLTWRMczJ3MmZoM252X1VKaUN5UmRPVlBGdEtlRXBZSmZIWVhOblB1ZW02d0NGQ2VnT01aZHZmVXU2WlhyclpyM0hiOHhhYkxxTEZ2RGY2cWFBeGZ4NzdqcUN3eE1VQzlLdnkzMHBQYjlhaWZ0aDZaTGJxLUNzbE9KMUFkNTlXZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada-U.S. Trade Crisis Deepens: What Mark Carney’s Tariff Strategy Means for Canada - kalkine.ca",
+      "excerpt": "Canada-U.S. Trade Crisis Deepens: What Mark Carney’s Tariff Strategy Means for Canada kalkine.ca",
+      "cat": "Economy"
+    },
+    {
+      "id": "6d31958129f29c31",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaVZPa1Zud3VfdDY5WHVDYWUwT2UxVC1hY25WbmRZQ0FOZnRlQ2NsUXgzU1ZiNE9JS25NUnVOZEl6NmI2ZGx3MTJXUDBVVWMyRjlRYXd2R3Mtd1RSSExpUGU3c28tZkRUSlA1cUVOdlBuRm9MQWt3c09EUHM2OXF3ZWdjQTR1eFRnX21wT1U2bEttWmpDVzVDRU5ZYmFiYTNXcFNyaEVPem91dFVybnYwSEZ6cXVXdVB2?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney Faces Biggest Economic Test Yet as Canada Prepares Response to U.S. Tariffs - kalkine.ca",
+      "excerpt": "Mark Carney Faces Biggest Economic Test Yet as Canada Prepares Response to U.S. Tariffs kalkine.ca",
+      "cat": "Economy"
+    },
     {
       "id": "15b4f24b5f8d1968",
       "date": "2026-08-29",
@@ -193967,45 +194003,6 @@
       "title": "Prolongation du mandat de la Commission sur l'avenir du sport",
       "sum": "Le ministre Guilbeault annonce que la Commission sur l'avenir du sport au Canada poursuivra ses travaux jusqu'au 31 mars 2026. Les mandats de la commissaire Lise Maisonneuve et des conseillers spéciaux Noni Classen et Dr Andrew Pipe ont également été prolongés.",
       "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "f54b0d553dda9c3c",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/le-gouvernement-federal-investit-dans-lamelioration-dinfrastructures-naturelles-en-colombie-britannique.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le gouvernement fédéral investit dans les infrastructures naturelles en Colombie-Britannique",
-      "sum": "Le gouvernement fédéral investit plus de 1,6 million de dollars pour améliorer les infrastructures naturelles de trois collectivités en Colombie-Britannique. Ces travaux visent à renforcer la résilience de ces collectivités et à protéger leur environnement.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "be487beccd0d1d7a",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2025/03/le-canada-annonce-des-aides-pour-le-secteur-forestier-de-la-colombie-britannique.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada investit 20 millions dans le secteur forestier britanno-colombien",
-      "sum": "Le gouvernement du Canada annonce un investissement de plus de 20 millions de dollars dans 67 projets forestiers en Colombie-Britannique. Ces projets visent à renforcer la compétitivité et la résilience du secteur forestier provincial et à augmenter les exportations de produits du bois.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "d80d4956f4eaf07f",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2025/03/le-canada-annonce-un-soutien-au-secteur-forestier-de-la-colombie-britannique.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada annonce 20 millions pour le secteur forestier britanno-colombien",
-      "sum": "Le ministre de l'Énergie et des Ressources naturelles a annoncé un investissement de plus de 20 millions de dollars dans 67 projets forestiers en Colombie-Britannique. Cet investissement vise à renforcer la compétitivité et la résilience du secteur forestier provincial.",
-      "cat": "Natural resources",
       "ai": true
     }
   ]
