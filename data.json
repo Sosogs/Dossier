@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T20:43:01.458Z",
+  "generatedAt": "2026-08-31T04:21:12.266Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -40301,6 +40301,18 @@
       "lang": "en"
     },
     {
+      "id": "694e4c735fa38f05",
+      "date": "2026-06-18",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pZEgzdDFMVjF3SVgxdXZNUFZMejdNaVlGRFZieEVYYl9SdFhhdHdzUlFjejlheG94eW1fTEhUOVNEYjZLb2tiMGlrdVJ6bUp2ejVHb25PS3hRZm1icUl2dzdJbDBhQTduSDhtbFh3eXpvbFQtRVpUclJR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Morue : un député libéral écorche le gouvernement Carney - Radio-Canada",
+      "excerpt": "Morue : un député libéral écorche le gouvernement Carney Radio-Canada",
+      "cat": "Economy"
+    },
+    {
       "id": "deb8b1b237590b40",
       "date": "2026-06-18",
       "src": "Canadian politics (via Google News)",
@@ -58944,6 +58956,18 @@
       "cat": "Indigenous services",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "b36cc703ecaf3962",
+      "date": "2026-05-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSEljbjlDZnFzTklLeGhUZWhDV3laNFR2MzNQLW45TlBncUtXaHU3ZUxBNEZ5dENQaFVqQkZiV09yZDZEenlocTNQSk5jR3hxS1liUmx4M3FjX3E3Wmo5aXFQNmM5a0V5LTR6c3hJYXZIaE9UMGlIZkN0OG5NQllJalB5SE0wWjBrdW5jV3BYR182bjA0eEE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada Strong Fund is a debt-fuelled corporate slush fund - Canadian Taxpayers Federation",
+      "excerpt": "Canada Strong Fund is a debt-fuelled corporate slush fund Canadian Taxpayers Federation",
+      "cat": "Finance"
     },
     {
       "id": "e5e5b47a13fd308f",
@@ -193982,32 +194006,6 @@
       "title": "Canada annonce 20 millions pour le secteur forestier britanno-colombien",
       "sum": "Le ministre de l'Énergie et des Ressources naturelles a annoncé un investissement de plus de 20 millions de dollars dans 67 projets forestiers en Colombie-Britannique. Cet investissement vise à renforcer la compétitivité et la résilience du secteur forestier provincial.",
       "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "c36d91820dca8dff",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2025/03/le-gouvernement-du-canada-souligne-limportance-historique-nationale-du-monastere-de-lhopital-general-de-quebec.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Monastère de l'Hôpital général de Québec reconnu important historiquement",
-      "sum": "Le gouvernement du Canada reconnaît l'importance historique nationale du monastère de l'Hôpital général de Québec, le plus ancien établissement conventuel du pays. Le monastère joue un rôle significatif dans l'histoire hospitalière, religieuse et sociale du Canada.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "b16e1d46b4938a46",
-      "date": "2025-03-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/le-gouvernement-du-canada-sengage-a-investir-jusqua-7-millions-de-dollars-pour-soutenir-les-infrastructures-communautaires-dans-le-district-regiona.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit jusqu'à 7 millions pour infrastructure communautaire à Nanaimo",
-      "sum": "Le gouvernement du Canada annonce un investissement pouvant atteindre 7 millions de dollars pour l'agrandissement du centre aquatique Ravensong en Colombie-Britannique. Ce financement est accordé dans le cadre du programme Bâtiments communautaires verts et inclusifs.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]
