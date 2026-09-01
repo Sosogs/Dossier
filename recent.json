@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-31T22:37:26.833Z",
+  "generatedAt": "2026-09-01T04:05:33.645Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7807,
+      "actions": 7813,
       "sources": 9
     },
     "fr": {
-      "actions": 7193,
+      "actions": 7187,
       "sources": 7
     }
   },
@@ -44,6 +44,42 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "b6b463314c2e5db1",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSmVkMk05aDlaOFdLb1hDYlExd2hVUXAtd2xIRDN2bWkwVmpBLWNLYTFRY3BCUVh6M01BR1ZoNldWTEZrNlFuRDJYSDJObFdpTDEzYXMxUkRxMUFuTC1pUHRacGVGZEtDOWUzU01acWNsUjVUb1R2eHJvX1U2NFl0UlVleEpWLXd2eWtyREZNQXh6N1czbVZvbGJVcTZlODliX09FZ2h4cVdrYnBDcXFvYXdPcFFJRjNRY05UYmZ1R0JKTW91b0ZiRXdkR21rVFd5NHc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government asks court to quash lawsuit over projected missed emission targets - Village Report",
+      "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets Village Report",
+      "cat": "Justice"
+    },
+    {
+      "id": "28c29b743674d6f0",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0NGI0MzlxbUhkUUwzNldnQ0ItemlaMXRMUFR5SXkzVHBteDZYYi02bzdWb0s1OVdRN21BZHFlT0tFb3BlbnJ2NEJCdEtyNWlrcW9BbmhDMTIteXcxLVMzR0RxWU5OREFreUs1TW9DZEktYWJGSXA3cVJ2V2NDbEE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘We’re not at war with Canada,’ U.S. treasury secretary says - National - globalnews.ca",
+      "excerpt": "‘We’re not at war with Canada,’ U.S. treasury secretary says - National globalnews.ca",
+      "cat": "Finance"
+    },
+    {
+      "id": "54c54dec77fc8c59",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMUdTZXZja0ZTZndsdXpFVTI0MWd4OGEyckYxYlo4aFdtdVFFeXM5SjRjNHkzMmpKNmY0S3VmUmNyUmZjVTI0X0dNeVZ1TlBpMGg1dTlsZ2RBMTZUcHNiYkRJWjdXTE90bDkyUDNQNzZRakV4c2lDLXhydlZRX2V0c1NVWUNHdXhFczRnY3dmVkVkbkNxYkRaNV9HY1lQUzBOdUpleWJxNXZsNnZfMndqRUJvQUpMWFptR3Jn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney names Dominic Barton as chair of Invest in Canada, replaces CEO - CBC",
+      "excerpt": "Carney names Dominic Barton as chair of Invest in Canada, replaces CEO CBC",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "a866f35e437d8089",
       "date": "2026-08-31",
@@ -763,6 +799,18 @@
       "cat": "Economy"
     },
     {
+      "id": "f110899f4aa87d30",
+      "date": "2026-08-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2luS3FnTXZ0VFpNM2lHeEt4UlhXTmkwYWhWOUgyZFdaSnM1WmlMejFFV2FsMkptblZhajY2d3ladGtUTXo1MGVtYXZTTkdySF9Ob0dYRkRjTWJnME5RbkY1MVZjclByMUxqZmZ0YWItbFZPWlA4TXNHV1RhRU1HandIcnBfQ3puT1lQclBDUDFRYUNyUVgtSHlNcFM0YjJEdTZUc2d5ZE43UWRpUjA3VWJyem9JTWJp?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Head of federal agency organizing Carney’s investment summit resigns - The Globe and Mail",
+      "excerpt": "Head of federal agency organizing Carney’s investment summit resigns The Globe and Mail",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "15b4f24b5f8d1968",
       "date": "2026-08-29",
       "src": "Canadian politics (via Google News)",
@@ -797,6 +845,18 @@
       "title": "Carney government asks court to strike down climate litigation - CBC",
       "excerpt": "Carney government asks court to strike down climate litigation CBC",
       "cat": "Justice"
+    },
+    {
+      "id": "8d95c92f682745e8",
+      "date": "2026-08-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbURWQkN0SGw0MTJCVVF5U2pFQ2ttME1EMTFvNWJrRjhDb0JGZ1FJaFNMdEVBOThLNVNZNHREM3VEd1lZbV84TnJhSldJQjJmNGdmUWZPQjJzQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada poaches dozens of top US researchers for its universities - BBC",
+      "excerpt": "Canada poaches dozens of top US researchers for its universities BBC",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "d773d7ed25f9d47b",
@@ -8607,6 +8667,18 @@
       "cat": "Economy"
     },
     {
+      "id": "e68d23068dad31a5",
+      "date": "2026-08-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUmp3MWJXdU1wLUFtVVJKb3dZU0IxbTE2UXdZQ2QxYWZGMW5LV0JYTFZyTjl2YTZXNUQ2ZHJkT19jQ09HZGdDOFdGTHYtZUY0UFppTFlaZXFYOW5KZkZqSjZILXBwanpXVXNaYlhNVjc0a3RSRnJOWEJEeV9YUmZzVURWcldwMnJ2cW5pTHExeC1WSGdZ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Inside the agency advancing Carney’s major projects agenda - The Globe and Mail",
+      "excerpt": "Inside the agency advancing Carney’s major projects agenda The Globe and Mail",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "bc8ad8ee13f4dd21",
       "date": "2026-08-14",
       "src": "Canadian politics (via Google News)",
@@ -10211,82 +10283,6 @@
       "sum": "Environment and Climate Change Canada and the Federation of Canadian Municipalities announced funding of $34.2 million for 141 municipal adaptation projects on August 12, 2026. The funding supports local climate resilience efforts through the Green Municipal Fund's Local Leadership for Climate Adaptation initiative.",
       "cat": "Sustainable development",
       "ai": true
-    },
-    {
-      "id": "a6825c182451ab18",
-      "date": "2026-08-12",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/instituts-recherche-sante/nouvelles/2026/08/un-investissement-de-28-millions-de-dollars-pour-creer-le-tout-premier-consortium-canadien-de-recherche-sur-le-cannabis-et-la-sante-cerebrale.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 24 millions pour recherche cannabis et santé cérébrale",
-      "sum": "Le gouvernement du Canada finance la création d'un nouveau consortium de recherche doté de 24 millions de dollars. Ce consortium regroupera des chercheurs qui étudieront les effets du cannabis sur la santé du cerveau.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "8b9e52939e98bbaa",
-      "date": "2026-08-12",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/instituts-recherche-sante/nouvelles/2026/08/a-propos-du-consortium-canadien-sur-le-cannabis-et-la-sante-cerebrale.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Création du Consortium canadien cannabis et santé cérébrale",
-      "sum": "Le gouvernement fédéral établit un consortium regroupant des chercheurs canadiens pour étudier les effets du cannabis sur la santé cérébrale à différents stades de la vie. Les recherches porteront sur la consommation chez diverses populations et contextes de santé.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "da2f023508b9aad4",
-      "date": "2026-08-12",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/08/la-ministre-julie-dabrusin-annonce-141-nouveaux-projets-pour-aider-a-proteger-128-collectivites-contre-les-risques-climatiques.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "141 projets de résilience climatique financés dans 128 collectivités",
-      "sum": "Le gouvernement fédéral finance 141 projets visant à aider 128 collectivités canadiennes à se protéger contre les risques liés aux changements climatiques. Cette annonce a été faite par la ministre de l'Environnement et des partenaires municipaux.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "3da90178eca44c85",
-      "date": "2026-08-12",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/08/le-gouvernement-du-canada-investit-342-millions-de-dollars-pour-favoriser-la-resilience-face-au-climat.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 34,2 millions pour l'adaptation climatique municipale",
-      "sum": "Le gouvernement du Canada et la Fédération canadienne des municipalités ont annoncé un financement de 34,2 millions de dollars pour 141 projets municipaux visant à renforcer la résilience face aux changements climatiques.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "fd490b5200934102",
-      "date": "2026-08-11",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRmh6WWRqLUVFQk5XaEIxRTR5bEZIZmtQTUY5dDdvUE1QbFh0Zzk0a1VpMFZGQmVtTDZRSmVTdUxhSkpEX3FwM0U5WHJDWkV1WmYwbGU4QVZEYzFRZHg3MHluVFBEblRHNXBrQThueDFvUTB1YkhEdGlUS1AxWnJMbjVjWmlseTlXcnRFellKUTItV2pWQTFTeWxqM0ZISzNHSGg4dE9nRXBJZHlEdGZqS2JpN05ZUG1WMDFoMzZHSnd1ODc1d29FWXhWTlhLcWZ1b21QZGJtVk9DcXQ5Y1psYS1BeVgyNFZqWmtpTWZQUzZyUkhSSDlMMjlXd1FSdw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Le gouvernement Carney sommé de prolonger le répit à la pompe au-delà du 7 septembre - La Presse",
-      "excerpt": "Le gouvernement Carney sommé de prolonger le répit à la pompe au-delà du 7 septembre La Presse",
-      "cat": "Economy"
-    },
-    {
-      "id": "bf1e72051a8f54fd",
-      "date": "2026-08-11",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2tGTkl1Tk4xa19zT1BwWkFWb09yVlRuSlhhUDZPWVd4UWNzWno0d0pWbk5tQi1Ia0dZTDN1c0U1SGlhbzBsVldWa1lHRmVEVjJHQmczb21PZkg5eEtManViOVphdVpQWlJxLVNUNFJCcWVhZTlCOVhUOE5yQzcwMXV6SVUzUU9Ma2tiUjFOQXB2Zk9WeEE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Tens of thousands of Canadians call for U.S. Ambassador Hoekstra to be expelled - CBC",
-      "excerpt": "Tens of thousands of Canadians call for U.S. Ambassador Hoekstra to be expelled CBC",
-      "cat": "Economy"
     }
   ]
 }

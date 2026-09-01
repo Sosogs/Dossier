@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T22:37:26.833Z",
+  "generatedAt": "2026-09-01T04:05:33.645Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,42 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "b6b463314c2e5db1",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSmVkMk05aDlaOFdLb1hDYlExd2hVUXAtd2xIRDN2bWkwVmpBLWNLYTFRY3BCUVh6M01BR1ZoNldWTEZrNlFuRDJYSDJObFdpTDEzYXMxUkRxMUFuTC1pUHRacGVGZEtDOWUzU01acWNsUjVUb1R2eHJvX1U2NFl0UlVleEpWLXd2eWtyREZNQXh6N1czbVZvbGJVcTZlODliX09FZ2h4cVdrYnBDcXFvYXdPcFFJRjNRY05UYmZ1R0JKTW91b0ZiRXdkR21rVFd5NHc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government asks court to quash lawsuit over projected missed emission targets - Village Report",
+      "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets Village Report",
+      "cat": "Justice"
+    },
+    {
+      "id": "28c29b743674d6f0",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0NGI0MzlxbUhkUUwzNldnQ0ItemlaMXRMUFR5SXkzVHBteDZYYi02bzdWb0s1OVdRN21BZHFlT0tFb3BlbnJ2NEJCdEtyNWlrcW9BbmhDMTIteXcxLVMzR0RxWU5OREFreUs1TW9DZEktYWJGSXA3cVJ2V2NDbEE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘We’re not at war with Canada,’ U.S. treasury secretary says - National - globalnews.ca",
+      "excerpt": "‘We’re not at war with Canada,’ U.S. treasury secretary says - National globalnews.ca",
+      "cat": "Finance"
+    },
+    {
+      "id": "54c54dec77fc8c59",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMUdTZXZja0ZTZndsdXpFVTI0MWd4OGEyckYxYlo4aFdtdVFFeXM5SjRjNHkzMmpKNmY0S3VmUmNyUmZjVTI0X0dNeVZ1TlBpMGg1dTlsZ2RBMTZUcHNiYkRJWjdXTE90bDkyUDNQNzZRakV4c2lDLXhydlZRX2V0c1NVWUNHdXhFczRnY3dmVkVkbkNxYkRaNV9HY1lQUzBOdUpleWJxNXZsNnZfMndqRUJvQUpMWFptR3Jn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney names Dominic Barton as chair of Invest in Canada, replaces CEO - CBC",
+      "excerpt": "Carney names Dominic Barton as chair of Invest in Canada, replaces CEO CBC",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "a866f35e437d8089",
       "date": "2026-08-31",
@@ -753,6 +789,18 @@
       "cat": "Economy"
     },
     {
+      "id": "f110899f4aa87d30",
+      "date": "2026-08-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2luS3FnTXZ0VFpNM2lHeEt4UlhXTmkwYWhWOUgyZFdaSnM1WmlMejFFV2FsMkptblZhajY2d3ladGtUTXo1MGVtYXZTTkdySF9Ob0dYRkRjTWJnME5RbkY1MVZjclByMUxqZmZ0YWItbFZPWlA4TXNHV1RhRU1HandIcnBfQ3puT1lQclBDUDFRYUNyUVgtSHlNcFM0YjJEdTZUc2d5ZE43UWRpUjA3VWJyem9JTWJp?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Head of federal agency organizing Carney’s investment summit resigns - The Globe and Mail",
+      "excerpt": "Head of federal agency organizing Carney’s investment summit resigns The Globe and Mail",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "15b4f24b5f8d1968",
       "date": "2026-08-29",
       "src": "Canadian politics (via Google News)",
@@ -787,6 +835,18 @@
       "title": "Carney government asks court to strike down climate litigation - CBC",
       "excerpt": "Carney government asks court to strike down climate litigation CBC",
       "cat": "Justice"
+    },
+    {
+      "id": "8d95c92f682745e8",
+      "date": "2026-08-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbURWQkN0SGw0MTJCVVF5U2pFQ2ttME1EMTFvNWJrRjhDb0JGZ1FJaFNMdEVBOThLNVNZNHREM3VEd1lZbV84TnJhSldJQjJmNGdmUWZPQjJzQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada poaches dozens of top US researchers for its universities - BBC",
+      "excerpt": "Canada poaches dozens of top US researchers for its universities BBC",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "d773d7ed25f9d47b",
@@ -8595,6 +8655,18 @@
       "title": "Ottawa rate complètement sa cible d’installation de bornes pour voitures électriques - ledevoir.com",
       "excerpt": "Ottawa rate complètement sa cible d’installation de bornes pour voitures électriques ledevoir.com",
       "cat": "Economy"
+    },
+    {
+      "id": "e68d23068dad31a5",
+      "date": "2026-08-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUmp3MWJXdU1wLUFtVVJKb3dZU0IxbTE2UXdZQ2QxYWZGMW5LV0JYTFZyTjl2YTZXNUQ2ZHJkT19jQ09HZGdDOFdGTHYtZUY0UFppTFlaZXFYOW5KZkZqSjZILXBwanpXVXNaYlhNVjc0a3RSRnJOWEJEeV9YUmZzVURWcldwMnJ2cW5pTHExeC1WSGdZ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Inside the agency advancing Carney’s major projects agenda - The Globe and Mail",
+      "excerpt": "Inside the agency advancing Carney’s major projects agenda The Globe and Mail",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "bc8ad8ee13f4dd21",
@@ -193918,84 +193990,6 @@
       "title": "Enquête ASFC sur armes à feu en Colombie-Britannique aboutit à détention",
       "sum": "Une enquête criminelle de l'Agence des services frontaliers du Canada concernant des armes à feu à Lumby, en Colombie-Britannique, a mené à une condamnation à deux ans de détention à domicile.",
       "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "70193430e3af3204",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-inspection-aliments/nouvelles/2025/03/lutter-contre-les-fraudes-liees-a-la-volaille-de-reforme-a-la-frontiere-pour-proteger-le-public-consommateur-et-soutenir-les-agriculteurs-canadiens.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada renforce la lutte contre les fraudes de volaille de réforme",
-      "sum": "Le gouvernement du Canada met en place des mesures pour combattre les fraudes liées à la volaille de réforme aux frontières. Cette action vise à protéger les consommateurs canadiens et à soutenir l'industrie avicole nationale.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "e43a6888ff1ba69d",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/le-gouvernement-du-canada-alloue-27-millions-de-dollars-a-london-en-vue-dameliorer-la-resilience-climatique-et-les-espaces-communautaires.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada finance des projets de résilience climatique à London",
-      "sum": "Le gouvernement du Canada alloue 2,7 millions de dollars à London pour améliorer la résilience climatique et les espaces communautaires par le biais du programme Bâtiments communautaires verts et inclusifs.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "94837a1134af36c9",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/avis-aux-medias--annonce-en-matiere-dinfrastructure-a-edmonton0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce fédérale sur l'infrastructure à Edmonton",
-      "sum": "Le gouvernement fédéral tiendra une annonce sur un projet d'infrastructure à Edmonton en présence du député Randy Boissonnault et de la directrice générale de la banque alimentaire d'Edmonton.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "dfb5c974c6c242df",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/avis-aux-medias--annonce-en-matiere-dinfrastructure-a-brampton.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce d'infrastructure à Brampton avec ministres fédéraux",
-      "sum": "Le ministre fédéral du Logement, de l'Infrastructure et des Collectivités tiendra une annonce concernant l'infrastructure à Brampton en compagnie du ministre de la Santé, du ministre provincial des Transports et du maire de Brampton.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "c98f9fc2cf40d9ac",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-autochtones-canada/nouvelles/2025/03/faire-progresser-la-collaboration-en-gestion-des-urgences-entre-le-first-nations-leadership-council-le-canada-et-la-colombie-britannique.html",
-      "type": "International agreement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Accord multilatéral sur la gestion des urgences avec les Premières Nations",
-      "sum": "Le First Nations Leadership Council, Services aux Autochtones Canada et le ministère de la Gestion des urgences travaillent ensemble à l'élaboration d'un nouvel accord multilatéral sur la gestion des urgences. Cet accord tient compte des besoins et priorités spécifiques des Premières Nations en Colombie-Britannique.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "447327502818d147",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/proteger-listhme-de-chignecto-des-changements-climatiques.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et provinces investissent pour protéger l'isthme de Chignecto",
-      "sum": "Les gouvernements fédéral, du Nouveau-Brunswick et de la Nouvelle-Écosse collaborent pour protéger l'isthme de Chignecto contre les effets du changement climatique. Le Nouveau-Brunswick et la Nouvelle-Écosse contribueront chacun 162,5 millions de dollars à ce projet évalué à 650 millions de dollars.",
-      "cat": "Sustainable development",
       "ai": true
     }
   ]
