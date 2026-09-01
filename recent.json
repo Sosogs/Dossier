@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-01T04:05:33.645Z",
+  "generatedAt": "2026-09-01T11:17:12.880Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7813,
+      "actions": 7819,
       "sources": 9
     },
     "fr": {
-      "actions": 7187,
+      "actions": 7181,
       "sources": 7
     }
   },
@@ -45,6 +45,54 @@
   ],
   "items": [
     {
+      "id": "ef06175a1b8ca249",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmFOdVc2aEpmY0RyT0NIa3I5ekhqV09BV1VHc0czd1ZIVmF4NEllRi1EdUpub3FfeTlBZkNRTW52QUlydGEwQk1GZFI1XzJhdm85ejZEb25SY2FVQTVsQmtzZzl5S3dwcjZWU2VxMHBzMGxSTF9UcnE1d2dBTmVIaUM2dlZaazcwM3Ffb2tPOGlDVEtzMHc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney - The Guardian",
+      "excerpt": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney The Guardian",
+      "cat": "Economy"
+    },
+    {
+      "id": "5a8d605cb758a397",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IVEQzdWcyNWRVOTBGXzcwOWZ1N19xTFZzM3kwVFJUZk00d1NlaGdHdG9IRjhHNWVNWURSejB4bllqYUxqd0E3V2JsaV93alR5akh2UnJ4UGdtaE9rblIwQV9JdkRTYnVjSG14MXViV3lwUVg3Umc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney's Liberals sweep three federal byelections amid trade war - nationalpost.com",
+      "excerpt": "Mark Carney's Liberals sweep three federal byelections amid trade war nationalpost.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "65cad16417a369d0",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVllyOUptanJpQ3hrT3FvNndWcW9OUkFUZUVXUlpHSUpwMmVZdmdyUXdIanRxRkRCMERJTEVSY0xDYmYxTzFma1ZFWGtzWFBJQ29ZWG53eVh6THdHRG9qN0pnUjh0eElUd1F1RE92OU5LWUZ0QmhtN0VsUE9vZ0M0OXpmVmFRS0pkVzFXT2dYU0RfX01MT0RXWjdxeWZIWklIalJwb3MydWJzaTZyNkR4Z0tTYw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s Liberals sweep federal by-elections amid trade dispute with US - Anadolu Ajansı",
+      "excerpt": "Carney’s Liberals sweep federal by-elections amid trade dispute with US Anadolu Ajansı",
+      "cat": "Economy"
+    },
+    {
+      "id": "52cb61320ef2817a",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQTkxUmExSW5qOFVaUUp0bXVmNGZCRkVaQ25DV3EtdkVjelF2RkhyeHVYV0VLZFd2b3FkV0ZQUmttVWhja1dhRW9mMW9qSVBvVXNsZmFnRjhreW5NYmRUeVpPeVFBUW9MalhUTWFRVU9mUjNwU2hGM1ZJaGZGWExJY0FTdWpjS0R5N2ZCajNHdHBQREpvYWVETTNJdktfdFJjSnpLZC00LThjSVRJckdF?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s Liberals sweep North Vancouver-Capilano in key byelection win - Philippine Canadian Inquirer",
+      "excerpt": "Carney’s Liberals sweep North Vancouver-Capilano in key byelection win Philippine Canadian Inquirer",
+      "cat": "Economy"
+    },
+    {
       "id": "b6b463314c2e5db1",
       "date": "2026-09-01",
       "src": "Canadian politics (via Google News)",
@@ -55,6 +103,18 @@
       "title": "Carney government asks court to quash lawsuit over projected missed emission targets - Village Report",
       "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets Village Report",
       "cat": "Justice"
+    },
+    {
+      "id": "4e69b5bec16fa94d",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTDZUamU3ZWg1enZ1eGd1SnFKclNvTHA0U0hfYmc2UXB5b3FpWWtHdUdBSWc1b1ZQUjlNV0FiNjQxMEVORkwzMTAzYjlteTFHS0VqczhCbzZ6T0tSLWNoZldacFU0U1lLam9LWk9CUVB3aDB1N2pZM2RTSXk2OGlUVGJ3YnAwMVVFMU9pRE92NGFXWENrV2cxNnpSbEtIVy13djV1dU9vdlhMTU14c21JOFJja2VEdXRFeWdZQ2V5OFNkUENtc24w?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘A great time to be a Liberal’: PM Carney sweeps all three byelections, holds onto majority - ctvnews.ca",
+      "excerpt": "‘A great time to be a Liberal’: PM Carney sweeps all three byelections, holds onto majority ctvnews.ca",
+      "cat": "Economy"
     },
     {
       "id": "28c29b743674d6f0",
@@ -2433,6 +2493,18 @@
       "title": "Conflict screen excludes Mark Carney from eight more government decisions - Toronto Star",
       "excerpt": "Conflict screen excludes Mark Carney from eight more government decisions Toronto Star",
       "cat": "Economy"
+    },
+    {
+      "id": "29939d380aab1421",
+      "date": "2026-08-26",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXFsclUtX2VLa09wcHVjdDJSYnplUW0xMHFGb2VmUVpWSGt4c1daSU9YNV9PU3h2ZERrWUxtRXdabHY0RTFzallzNEpQLWF6Y2NUb0lhUW5OQTlQQVdKSFJ1TktJUzhqUnBaR19yaHJGcXlwQnNXQ2lVVl9tSzRQb1hhQUV4N3RGMXVJZEpXcDROUC13TmJOMTJVY3RmaWtLR21FZzNXMW44T1RGRmk5cQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le français dans le conflit avec les États-Unis: une carte stratégique dans le jeu fédéral - l-express.ca",
+      "excerpt": "Le français dans le conflit avec les États-Unis: une carte stratégique dans le jeu fédéral l-express.ca",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "3e8a85123e2cdd96",
@@ -10205,83 +10277,6 @@
       "title": "Canada et alliés déclarent position commune sur exécutions en Iran",
       "sum": "Le Canada et plusieurs pays alliés ont publié une déclaration commune concernant les exécutions en Iran. Cette déclaration réunit les positions de plus de trente pays sur cette question.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "f7aa242c3aa30dd5",
-      "date": "2026-08-12",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/annonce-en-matiere-dinfrastructure-a-new-minas.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce d'infrastructure à New Minas avec représentants fédéraux et provinciaux",
-      "sum": "Une annonce concernant un projet d'infrastructure aura lieu à New Minas avec la participation de représentants fédéraux et provinciaux, dont le secrétaire parlementaire du premier ministre et le ministre des Finances de la Nouvelle-Écosse.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "644b423f609c0377",
-      "date": "2026-08-12",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2xhVWtTb1hrM3Nob2NhMmkzZl93M2VGNkdJdk92Q18zTWV0dmZxMGNnSFMwSjd5WlBrQkpTam5LSGxDMGZsVllGWU9sYlRsZTQ1VWJfMzZQeHozRFl4RmxoRndTSFQ0NTZKNTdLRVhWX18xRGk0RUxFN2VjUEZSblhhWkhvQjd4Q0x0RkRmc2R1ZWhlbnRlWlh6ZVRrRHBJMVNJZkFPWU13UQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Why Canada’s deeper linkage of foreign aid with trade outcomes is raising concerns - INsauga",
-      "excerpt": "Why Canada’s deeper linkage of foreign aid with trade outcomes is raising concerns INsauga",
-      "cat": "Foreign affairs"
-    },
-    {
-      "id": "d57db4514ccb7174",
-      "date": "2026-08-12",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/institutes-health-research/news/2026/08/government-of-canada-investing-24-million-to-establish-canadas-first-national-cannabis-and-brain-health-research-consortium.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada establishes cannabis and brain health research consortium",
-      "sum": "The Government of Canada is investing $24 million to create a new national research consortium focused on studying how cannabis affects brain health. The consortium will bring together researchers to conduct this investigation.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "239925bf68faa4cc",
-      "date": "2026-08-12",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/institutes-health-research/news/2026/08/backgrounder-canadian-cannabis-and-brain-health-consortium.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canadian Cannabis and Brain Health Consortium established",
-      "sum": "The Canadian Cannabis and Brain Health Consortium brings together researchers to study how cannabis affects brain health across different life stages and populations. The research will examine cannabis use in pregnancy, youth, aging, and various health conditions including mental health, psychosis, epilepsy, PTSD, and sleep disorders.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "6f1460db09b38418",
-      "date": "2026-08-12",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/08/minister-dabrusin-announces-141-new-projects-to-help-protect-128-communities-from-climate-risks.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government announces 141 climate resilience projects across 128 communities",
-      "sum": "The Minister of Environment announced 141 climate resilience projects being developed in 128 communities across Canada to help protect them from climate-related risks. Thirteen of these projects are located in Nova Scotia.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "6621f1b662b83ed1",
-      "date": "2026-08-12",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/08/the-government-of-canada-invests-342-million-to-support-climate-resilience.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests $34.2 million in municipal climate adaptation projects",
-      "sum": "Environment and Climate Change Canada and the Federation of Canadian Municipalities announced funding of $34.2 million for 141 municipal adaptation projects on August 12, 2026. The funding supports local climate resilience efforts through the Green Municipal Fund's Local Leadership for Climate Adaptation initiative.",
-      "cat": "Sustainable development",
       "ai": true
     }
   ]

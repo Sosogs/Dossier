@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T04:05:33.645Z",
+  "generatedAt": "2026-09-01T11:17:12.880Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -35,6 +35,54 @@
   ],
   "items": [
     {
+      "id": "ef06175a1b8ca249",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmFOdVc2aEpmY0RyT0NIa3I5ekhqV09BV1VHc0czd1ZIVmF4NEllRi1EdUpub3FfeTlBZkNRTW52QUlydGEwQk1GZFI1XzJhdm85ejZEb25SY2FVQTVsQmtzZzl5S3dwcjZWU2VxMHBzMGxSTF9UcnE1d2dBTmVIaUM2dlZaazcwM3Ffb2tPOGlDVEtzMHc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney - The Guardian",
+      "excerpt": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney The Guardian",
+      "cat": "Economy"
+    },
+    {
+      "id": "5a8d605cb758a397",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IVEQzdWcyNWRVOTBGXzcwOWZ1N19xTFZzM3kwVFJUZk00d1NlaGdHdG9IRjhHNWVNWURSejB4bllqYUxqd0E3V2JsaV93alR5akh2UnJ4UGdtaE9rblIwQV9JdkRTYnVjSG14MXViV3lwUVg3Umc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney's Liberals sweep three federal byelections amid trade war - nationalpost.com",
+      "excerpt": "Mark Carney's Liberals sweep three federal byelections amid trade war nationalpost.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "65cad16417a369d0",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVllyOUptanJpQ3hrT3FvNndWcW9OUkFUZUVXUlpHSUpwMmVZdmdyUXdIanRxRkRCMERJTEVSY0xDYmYxTzFma1ZFWGtzWFBJQ29ZWG53eVh6THdHRG9qN0pnUjh0eElUd1F1RE92OU5LWUZ0QmhtN0VsUE9vZ0M0OXpmVmFRS0pkVzFXT2dYU0RfX01MT0RXWjdxeWZIWklIalJwb3MydWJzaTZyNkR4Z0tTYw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s Liberals sweep federal by-elections amid trade dispute with US - Anadolu Ajansı",
+      "excerpt": "Carney’s Liberals sweep federal by-elections amid trade dispute with US Anadolu Ajansı",
+      "cat": "Economy"
+    },
+    {
+      "id": "52cb61320ef2817a",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQTkxUmExSW5qOFVaUUp0bXVmNGZCRkVaQ25DV3EtdkVjelF2RkhyeHVYV0VLZFd2b3FkV0ZQUmttVWhja1dhRW9mMW9qSVBvVXNsZmFnRjhreW5NYmRUeVpPeVFBUW9MalhUTWFRVU9mUjNwU2hGM1ZJaGZGWExJY0FTdWpjS0R5N2ZCajNHdHBQREpvYWVETTNJdktfdFJjSnpLZC00LThjSVRJckdF?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s Liberals sweep North Vancouver-Capilano in key byelection win - Philippine Canadian Inquirer",
+      "excerpt": "Carney’s Liberals sweep North Vancouver-Capilano in key byelection win Philippine Canadian Inquirer",
+      "cat": "Economy"
+    },
+    {
       "id": "b6b463314c2e5db1",
       "date": "2026-09-01",
       "src": "Canadian politics (via Google News)",
@@ -45,6 +93,18 @@
       "title": "Carney government asks court to quash lawsuit over projected missed emission targets - Village Report",
       "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets Village Report",
       "cat": "Justice"
+    },
+    {
+      "id": "4e69b5bec16fa94d",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTDZUamU3ZWg1enZ1eGd1SnFKclNvTHA0U0hfYmc2UXB5b3FpWWtHdUdBSWc1b1ZQUjlNV0FiNjQxMEVORkwzMTAzYjlteTFHS0VqczhCbzZ6T0tSLWNoZldacFU0U1lLam9LWk9CUVB3aDB1N2pZM2RTSXk2OGlUVGJ3YnAwMVVFMU9pRE92NGFXWENrV2cxNnpSbEtIVy13djV1dU9vdlhMTU14c21JOFJja2VEdXRFeWdZQ2V5OFNkUENtc24w?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘A great time to be a Liberal’: PM Carney sweeps all three byelections, holds onto majority - ctvnews.ca",
+      "excerpt": "‘A great time to be a Liberal’: PM Carney sweeps all three byelections, holds onto majority ctvnews.ca",
+      "cat": "Economy"
     },
     {
       "id": "28c29b743674d6f0",
@@ -2423,6 +2483,18 @@
       "title": "Conflict screen excludes Mark Carney from eight more government decisions - Toronto Star",
       "excerpt": "Conflict screen excludes Mark Carney from eight more government decisions Toronto Star",
       "cat": "Economy"
+    },
+    {
+      "id": "29939d380aab1421",
+      "date": "2026-08-26",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXFsclUtX2VLa09wcHVjdDJSYnplUW0xMHFGb2VmUVpWSGt4c1daSU9YNV9PU3h2ZERrWUxtRXdabHY0RTFzallzNEpQLWF6Y2NUb0lhUW5OQTlQQVdKSFJ1TktJUzhqUnBaR19yaHJGcXlwQnNXQ2lVVl9tSzRQb1hhQUV4N3RGMXVJZEpXcDROUC13TmJOMTJVY3RmaWtLR21FZzNXMW44T1RGRmk5cQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le français dans le conflit avec les États-Unis: une carte stratégique dans le jeu fédéral - l-express.ca",
+      "excerpt": "Le français dans le conflit avec les États-Unis: une carte stratégique dans le jeu fédéral l-express.ca",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "3e8a85123e2cdd96",
@@ -18543,6 +18615,18 @@
       "excerpt": "WestJet is giving passengers with bookings from July 30 to Aug. 4 the opportunity to cancel or change their flights for free in light of the ongoing labour dispute with flight attendants.",
       "cat": "Transportation",
       "lang": "en"
+    },
+    {
+      "id": "41c36dc2feab8c05",
+      "date": "2026-07-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbDFCOU1rOGZfUnp5dkl5RG9UNGF1OGxJSEFiNVRZdVFhNkZZcVhXT2NaLW9sZ1VXMkw2TGR0b2MxVUZJdTdzbVFRSVh0SWRTaE1IUFB0ZFdzRFh4UTREc1R6YVN5a25fbmFFVlBTSUdPS3hEWTQyaUZzSll3NkJ3cl8ydlZQV3QwcXk5RjN5UQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Retaliation being considered if no deal reached by Trump's tariff deadline, Carney says - CBC",
+      "excerpt": "Retaliation being considered if no deal reached by Trump's tariff deadline, Carney says CBC",
+      "cat": "Economy"
     },
     {
       "id": "ade335a94f40a142",
@@ -193899,97 +193983,6 @@
       "title": "Ministre des Finances tient rencontre fédérale-provinciale-territoriale",
       "sum": "Le ministre fédéral des Finances François-Philippe Champagne rencontrera les ministres des Finances des provinces et territoires à Montréal pour discuter de questions financières.",
       "cat": "Intergovernmental affairs",
-      "ai": true
-    },
-    {
-      "id": "b3d9242b057a0ee4",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2025/03/le-canada-investit-dans-ladaptation-aux-changements-climatiques-pour-assurer-la-securite-des-collectivites-dans-le-nord-et-partout-au-canada1.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 12,1 millions pour l'adaptation climatique",
-      "sum": "Le gouvernement du Canada octroie plus de 12,1 millions de dollars à treize projets d'adaptation aux changements climatiques dans le Nord et partout au Canada. Ces projets sont financés par le Programme d'adaptation aux changements climatiques et le programme Communautés côtières résilientes.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "70542b142c327578",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2025/03/creation-du-premier-centre-de-bio-innovation-a-grande-echelle-au-canada.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le gouvernement finance un centre de bio-innovation au Canada",
-      "sum": "Le gouvernement fédéral investit dans la création du premier centre de bio-innovation à grande échelle au Canada. Ce centre soutient la fabrication de bioprocédés et le développement de la chaîne d'approvisionnement verte.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "ed53c7e1a52c4b6f",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/document-dinformation--le-gouvernement-federal-investi-plus-de-79-millions-de-dollars-pour-des-rues-plus-securitaires-et-conviviales-a-montreal.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le gouvernement fédéral investit 7,9 millions pour le transport actif à Montréal",
-      "sum": "Le gouvernement fédéral alloue 7,9 millions de dollars par le Fonds pour le transport actif pour soutenir quatre projets de transport actif au Québec. Ces investissements visent à créer des rues plus sécuritaires et conviviales.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "1b3eee446be84789",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/le-gouvernement-federal-investi-plus-de-79-millions-de-dollars-pour-des-rues-plus-securitaires-et-conviviales-a-montreal.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Gouvernement fédéral investit 7,9 millions pour transport actif à Montréal",
-      "sum": "Le gouvernement fédéral alloue plus de 7,9 millions de dollars à Montréal pour financer quatre projets visant à améliorer les options de transport actif. Cet investissement doit contribuer à rendre les rues plus sécuritaires et accessibles aux résidents.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "cd9ebd3b21377c7e",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-prairies/nouvelles/2025/03/le-ministre-duguid-annoncera-des-investissements-federaux-dans-les-arts-de-la-scene-du-manitoba-et-de-la-saskatchewan.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Investissements fédéraux annoncés pour les arts de la scène au Manitoba et Saskatchewan",
-      "sum": "Le ministre Duguid annoncera un financement fédéral destiné aux arts de la scène au Manitoba et en Saskatchewan. Ce financement vise à soutenir le développement économique dans ces deux provinces.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "49cd55e54f093e57",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/03/avis-aux-medias--annonce-en-matiere-dinfrastructure-a-torbay.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce d'infrastructure à Torbay avec la ministre Thompson",
-      "sum": "Le gouvernement fédéral tiendra une conférence de presse à Torbay en présence de la ministre des Pêches, des Océans et de la Garde côtière canadienne pour annoncer un projet d'infrastructure.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "1c94774b415dddee",
-      "date": "2025-03-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/03/lenquete-de-lasfc-sur-les-armes-a-feu-a-lumby-en-colombie-britannique-aboutit-a-deux-ans-de-detention-a-domicile.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Enquête ASFC sur armes à feu en Colombie-Britannique aboutit à détention",
-      "sum": "Une enquête criminelle de l'Agence des services frontaliers du Canada concernant des armes à feu à Lumby, en Colombie-Britannique, a mené à une condamnation à deux ans de détention à domicile.",
-      "cat": "Justice",
       "ai": true
     }
   ]
