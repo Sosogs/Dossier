@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-02T03:27:47.446Z",
+  "generatedAt": "2026-09-02T10:51:07.793Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7813,
+      "actions": 7815,
       "sources": 9
     },
     "fr": {
-      "actions": 7187,
+      "actions": 7185,
       "sources": 7
     }
   },
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "98eaaf9e1538751a",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcVNSaFFDVV9HTmhEU3J4YlBYa01IcDliYkxadGxwOUlLTzQ3VjVqYl9XRjUwQV92dFBXdWZmOUVucnVHeGl2Y3NiWjBVbUpZbUNIR2E0dHFHRGZRV0s5SThYWlNqZTRCZ1ZqaFlWQWFjcVROUUhsU2NzYTVhZ2hJM3Q4b2FKY2hUbDl0REVXOEFlVWNydWYyRkVEYlBibFRQN21hMFVkbE9mS1ZUdzIwTVVuWWowZ1liamRtX3VRbkNRVmll?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says U.S. wants to wipe out Canadian industries or make them subsidiaries - BNN Bloomberg",
+      "excerpt": "Carney says U.S. wants to wipe out Canadian industries or make them subsidiaries BNN Bloomberg",
+      "cat": "Economy"
+    },
+    {
+      "id": "01c2afa990895cef",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORlotOXB4cmJaYWtNNEhrU1ZIdjl2TXZXdmZJVDBYOS1keXY2M1ltUHI2RFBzMVIyRE5EWEVnRGJFdGg2UEtjeUl5a0E4ZUI5c2Y5Tm5zQUhEcm1DSFQ3TVhJWTh1QloxYmxzQzJDWDJ0QUJXZ1RhbE1OaU8yTnY3RmlBTy1EU3hkY3NKdzk3RWd4Z0pMbl9RUm5UNWQtQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney Hits Back at Trump Officials Mocking Canadian Military - newsweek.com",
+      "excerpt": "Mark Carney Hits Back at Trump Officials Mocking Canadian Military newsweek.com",
+      "cat": "National defence"
+    },
     {
       "id": "4ab17989e77e90df",
       "date": "2026-09-01",
@@ -806,6 +830,18 @@
       "lang": "en",
       "title": "Carney government asks court to quash lawsuit over projected missed emission targets - Village Report",
       "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets Village Report",
+      "cat": "Justice"
+    },
+    {
+      "id": "a74ac5d4ed96fd9e",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZnVDdmpnWS1SMk1JZVhSaU9DTzF2LTBKaDJ5SFpBRTVaaGFnMmJNQVZrLTVyc2FFYk9pVGJCX2dVTjZGZTdWZ1NDbER5ZktfUHh1YklHc2pwV2dBUXBnamFsSl9UaXdxUXFVMTE2bzVPUmQ4aHNsemxRTVE2MjBJM1JOWXFndk1BUmpyOERVQUNJeElmQnhIX2daYzRnd29reTNkM1FDTDd1Ukw3b2tqX3BFUHRCc0Vzb2kyREtMb28?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government asks court to quash lawsuit over projected missed emission targets - CTV News",
+      "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets CTV News",
       "cat": "Justice"
     },
     {
@@ -2489,6 +2525,18 @@
       "sum": "Le ministre Gregor Robertson a organisé une réunion avec des représentants de l'industrie de la Colombie-Britannique pour discuter de l'impact des tarifs douaniers américains sur le commerce. La rencontre visait à examiner les répercussions de ces mesures tarifaires sur les secteurs industriels de la province.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "2c112f955e106fe3",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsUGNIbFpBMmFTdGh2TURoN21iel8tbXV3NFJJbm45TlVtTTRxQkhsZFRiZVZoSVU5M1JXbE9IMkRCSC11RlF6Snc0LXE4eFZ5MktzVVEtRFU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Trump Thought Canada Would Be His 51st State. Then Came Carney - The Walrus",
+      "excerpt": "Trump Thought Canada Would Be His 51st State. Then Came Carney The Walrus",
+      "cat": "Economy"
     },
     {
       "id": "c58e4dfc561534db",
@@ -10224,58 +10272,6 @@
       "lang": "en",
       "title": "Contraband seized at Joyceville Institution",
       "sum": "On August 7, 2026, staff at Joyceville Institution, a federal multi-level security facility, seized multiple packages containing contraband and unauthorized items.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "bafe2dcde3b25fc9",
-      "date": "2026-08-13",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/statement-from-minister-mcguinty-on-the-defence-teams-commitment-to-official-languages.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Defence Minister affirms commitment to official languages protection",
-      "sum": "Minister McGuinty issued a statement regarding the Defence Team's commitment to official languages and the protection of French language services and rights.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "c5427800fa190b9e",
-      "date": "2026-08-13",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/08/la-ministre-valdez-annoncera-un-soutien-pour-les-femmes-entrepreneures-dans-la-region-de-northumberland-et-a-travers-le-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Financement fédéral annoncé pour femmes entrepreneures au Canada",
-      "sum": "La ministre Rechie Valdez annoncera un nouveau financement fédéral destiné à soutenir les femmes entrepreneures dans la région de Northumberland et partout au Canada.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "23b3fd456cadb9ba",
-      "date": "2026-08-13",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/transports-canada/nouvelles/2026/08/transports-canada-restreint-le-trafic-maritime-sur-la-riviere-sainte-claire-le-16-aout-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Transports Canada restreint le trafic maritime rivière Sainte-Claire",
-      "sum": "Transports Canada impose des restrictions à la circulation des bateaux sur la rivière Sainte-Claire le 16 août 2026 pour assurer la sécurité des usagers face à une augmentation prévue de la fréquentation.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "071a3c73aeaa7c44",
-      "date": "2026-08-13",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/08/le-gouvernement-du-canada-investit-dans-le-benevolat-en-recherche-et-sauvetage-partout-au-canada-dans-le-cadre-dune-entente-de-financement-de-trois.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada finance le bénévolat en recherche et sauvetage pour trois ans",
-      "sum": "Le gouvernement du Canada investit dans les organismes de bénévoles en recherche et sauvetage à travers le pays par le biais d'une entente de financement sur trois ans. Ces bénévoles répondent aux appels d'urgence pour les personnes perdues ou en détresse dans des régions éloignées.",
       "cat": "Public safety",
       "ai": true
     }

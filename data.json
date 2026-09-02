@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T03:27:47.446Z",
+  "generatedAt": "2026-09-02T10:51:07.793Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "98eaaf9e1538751a",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcVNSaFFDVV9HTmhEU3J4YlBYa01IcDliYkxadGxwOUlLTzQ3VjVqYl9XRjUwQV92dFBXdWZmOUVucnVHeGl2Y3NiWjBVbUpZbUNIR2E0dHFHRGZRV0s5SThYWlNqZTRCZ1ZqaFlWQWFjcVROUUhsU2NzYTVhZ2hJM3Q4b2FKY2hUbDl0REVXOEFlVWNydWYyRkVEYlBibFRQN21hMFVkbE9mS1ZUdzIwTVVuWWowZ1liamRtX3VRbkNRVmll?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says U.S. wants to wipe out Canadian industries or make them subsidiaries - BNN Bloomberg",
+      "excerpt": "Carney says U.S. wants to wipe out Canadian industries or make them subsidiaries BNN Bloomberg",
+      "cat": "Economy"
+    },
+    {
+      "id": "01c2afa990895cef",
+      "date": "2026-09-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORlotOXB4cmJaYWtNNEhrU1ZIdjl2TXZXdmZJVDBYOS1keXY2M1ltUHI2RFBzMVIyRE5EWEVnRGJFdGg2UEtjeUl5a0E4ZUI5c2Y5Tm5zQUhEcm1DSFQ3TVhJWTh1QloxYmxzQzJDWDJ0QUJXZ1RhbE1OaU8yTnY3RmlBTy1EU3hkY3NKdzk3RWd4Z0pMbl9RUm5UNWQtQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney Hits Back at Trump Officials Mocking Canadian Military - newsweek.com",
+      "excerpt": "Mark Carney Hits Back at Trump Officials Mocking Canadian Military newsweek.com",
+      "cat": "National defence"
+    },
     {
       "id": "4ab17989e77e90df",
       "date": "2026-09-01",
@@ -796,6 +820,18 @@
       "lang": "en",
       "title": "Carney government asks court to quash lawsuit over projected missed emission targets - Village Report",
       "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets Village Report",
+      "cat": "Justice"
+    },
+    {
+      "id": "a74ac5d4ed96fd9e",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZnVDdmpnWS1SMk1JZVhSaU9DTzF2LTBKaDJ5SFpBRTVaaGFnMmJNQVZrLTVyc2FFYk9pVGJCX2dVTjZGZTdWZ1NDbER5ZktfUHh1YklHc2pwV2dBUXBnamFsSl9UaXdxUXFVMTE2bzVPUmQ4aHNsemxRTVE2MjBJM1JOWXFndk1BUmpyOERVQUNJeElmQnhIX2daYzRnd29reTNkM1FDTDd1Ukw3b2tqX3BFUHRCc0Vzb2kyREtMb28?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government asks court to quash lawsuit over projected missed emission targets - CTV News",
+      "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets CTV News",
       "cat": "Justice"
     },
     {
@@ -2479,6 +2515,18 @@
       "sum": "Le ministre Gregor Robertson a organisé une réunion avec des représentants de l'industrie de la Colombie-Britannique pour discuter de l'impact des tarifs douaniers américains sur le commerce. La rencontre visait à examiner les répercussions de ces mesures tarifaires sur les secteurs industriels de la province.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "2c112f955e106fe3",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsUGNIbFpBMmFTdGh2TURoN21iel8tbXV3NFJJbm45TlVtTTRxQkhsZFRiZVZoSVU5M1JXbE9IMkRCSC11RlF6Snc0LXE4eFZ5MktzVVEtRFU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Trump Thought Canada Would Be His 51st State. Then Came Carney - The Walrus",
+      "excerpt": "Trump Thought Canada Would Be His 51st State. Then Came Carney The Walrus",
+      "cat": "Economy"
     },
     {
       "id": "c58e4dfc561534db",
@@ -63826,6 +63874,18 @@
       "lang": "en"
     },
     {
+      "id": "2c47116cd77e687a",
+      "date": "2026-05-07",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDctVlk5Zzl4eU1GM1ZvNWxleklubUstcE9YMFVGaVFrMEh2bXV6azd0cmNaTW5lMzdzdjJFUzVGenJIU1pwSURnT2N0VnZmNzNtNURfX2pubWtYY0JROG5QX05FaGZQS2dnVTFyTTNrM19UR2oyX2dDS3NrNVpzTWRfQVhIWG1FVEdqMDBWYWpNYUN2djNqaUFMVmprTjdhWWxuM0ktYzl4VE1ZMlZyVktudw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney veut accélérer les projets de pipelines | RCI - Radio-Canada",
+      "excerpt": "Le gouvernement Carney veut accélérer les projets de pipelines | RCI Radio-Canada",
+      "cat": "Natural resources"
+    },
+    {
       "id": "3a859b3811d64b43",
       "date": "2026-05-07",
       "src": "Politique canadienne (via Google News)",
@@ -67818,6 +67878,18 @@
       "cat": "Economy",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "03c920e5465fee4d",
+      "date": "2026-04-29",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1JWa2FEUkc5RDZkeUJnNnFlTFlqLVJ3M3drYlpPZDQ1TTVid1dGOU5Eb1FNa0dUdWhkak13NGZrSm91NldoakZYWjFRN21xeXk1S3F1aGJLYjFOZUIwMGQxNU1uNURrdkxac0ljTWM0ajlJNnktU0pPdE1iUWp3UDlCbHZPSlZjcG1SS3hUZmZSU3RF?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Analyse Mise à jour fédérale : un puzzle plus complet, mais encore des morceaux manquants - Radio-Canada",
+      "excerpt": "Analyse Mise à jour fédérale : un puzzle plus complet, mais encore des morceaux manquants Radio-Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "ce3932813d8e340d",
@@ -193887,84 +193959,6 @@
       "title": "Pêcheur ontarien condamné à 5 500 $ pour pêche illégale d'huîtres",
       "sum": "Le 21 février 2025, un résident de Scarborough a été déclaré coupable d'avoir pêché des huîtres sans permis valide et en dépassant les limites quotidiennes autorisées en Colombie-Britannique. Il a reçu une amende totale de 5 500 $.",
       "cat": "Wildlife",
-      "ai": true
-    },
-    {
-      "id": "b355b2555cbbef34",
-      "date": "2025-03-21",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/03/saisie-dobjets-interdits-et-non-autorises-a-letablissement-de-drumheller---unite-a-securite-moyenne.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Objets interdits saisis à l'établissement de Drumheller",
-      "sum": "Le 14 mars 2025, du personnel de l'établissement pénitentiaire de Drumheller a saisi des objets interdits et non autorisés dans l'unité à sécurité moyenne.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "0086af9f35f3f8ca",
-      "date": "2025-03-21",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-autochtones-canada/nouvelles/2025/03/la-algonquins-of-pikwakanagan-first-nation-la-nigig-nibi-ki-win-gamik-le-canada-et-lontario-concluent-un-accord-de-coordination-en-vue-de-soutenir-.html",
-      "type": "International agreement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Accord de coordination pour les services à l'enfance à Pikwakanagan",
-      "sum": "La Algonquins of Pikwakanagan First Nation, son organisme Nigig Nibi Ki-win Gamik, et les gouvernements du Canada et de l'Ontario ont signé un accord de coordination. Cet accord vise à soutenir les services à l'enfance et à la famille dirigés par la communauté, en vertu de la Loi sur les enfants, les jeunes et les familles des Premières Nations, des Inuit et des Métis.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "901ef7a7640df2e1",
-      "date": "2025-03-21",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2025/03/le-ministre-champagne-rencontre-les-ministres-des-finances-provinciaux-et-territoriaux.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Champagne rencontre les ministres des Finances provinciaux et territoriaux",
-      "sum": "Le ministre Champagne a rencontré les ministres des Finances des provinces et territoires pour discuter de questions liées aux droits de douane. La rencontre souligne l'importance de la collaboration entre tous les ordres de gouvernement.",
-      "cat": "Intergovernmental affairs",
-      "ai": true
-    },
-    {
-      "id": "86e62a4759586752",
-      "date": "2025-03-21",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2025/03/la-tarification-federale-du-carbone-dans-le-secteur-industriel-permet-de-realiser-38-nouveaux-projets-de-technologies-propres-novatrices-au-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Investissements de 150 millions pour 38 projets de technologies propres",
-      "sum": "Le gouvernement fédéral annonce des investissements de près de 150 millions de dollars pour soutenir 38 projets de technologies propres par le biais du Programme d'incitation à la décarbonisation. Ces fonds proviennent du système fédéral de tarification du carbone et visent les provinces où ce système est appliqué depuis 2019.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "8b5dcb20c8467f80",
-      "date": "2025-03-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/privy-council/news/2025/03/statement-from-the-deputy-clerk-of-the-privy-council-and-national-security-and-intelligence-advisor-to-the-prime-minister.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Deputy Clerk convenes G7 national security advisors meeting",
-      "sum": "Canada's Deputy Clerk of the Privy Council and National Security and Intelligence Advisor convened a meeting of G7 National Security Advisors and Ukraine to discuss matters of national security.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "655981fe4347ff37",
-      "date": "2025-03-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2025/03/parliamentary-secretary-van-koeverden-to-announce-investments-to-support-participation-in-sport.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government announces sports participation funding for underrepresented groups",
-      "sum": "The Parliamentary Secretary will announce investments designed to remove barriers to sports participation for groups including Black, Indigenous and racialized communities, persons with disabilities, 2SLGBTQI+ people, persons with low incomes, seniors, and newcomers.",
-      "cat": "Culture & heritage",
       "ai": true
     }
   ]
