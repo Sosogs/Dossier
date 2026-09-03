@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T03:29:10.603Z",
+  "generatedAt": "2026-09-03T10:50:48.086Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c722b34cb286c89b",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3cW1BSWQ1T0I0RFhlS3JHWHQ0bDk1V0dDWjd0bUltelM2b29yQXkwZkNEaVFZNVJxV0RxZ0JmWFpxQzkxbmpMOHRVbkhicXF0OWI5VjhpdDFJb2ZxaE50RjJHc181RG1DaHZ0S1g5ZVR3UGlUaEVpaVZRQjY?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Josh Dehaas: A Carney oil blockade would be playing with fire, even if constitutional - Yahoo News Canada",
+      "excerpt": "Josh Dehaas: A Carney oil blockade would be playing with fire, even if constitutional Yahoo News Canada",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "15b1c1ee4ce9bb15",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGNmXzItdTRuZ2hVaXpiNWZNTnRPMnE0Sk9vX2NHaE5KZ2NHUHV2M1lDU1lvRVV2X3lTOGp2ODdmQW1tVTB1OFRvVmJJR2cxZ2VuejFaSWN5RWZUdE9MNW53QjZ4TmtzdHRUcFctOGgyNWtzQWRaTmtQWi1rXzZUTDl0c0o1eEJvMmNvTjE1YTNJVDJIcjh2T1JsLU5CanNYdFpENUI4S0Z2Zw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s federal deficit shrinks to C$370 million from C$6.3 billion - Philippine Canadian Inquirer",
+      "excerpt": "Canada’s federal deficit shrinks to C$370 million from C$6.3 billion Philippine Canadian Inquirer",
+      "cat": "Finance"
+    },
     {
       "id": "639a2b92bb479d3a",
       "date": "2026-09-03",
@@ -85,6 +109,18 @@
       "sum": "Le ministre de la Défense nationale a clôturé la 28e conférence des chefs d'état-major de la défense de l'Indo-Pacifique à Victoria. La conférence a été coorganisée par la chef d'état-major de la défense du Canada et le commandant du U.S. Pacific Command.",
       "cat": "National defence",
       "ai": true
+    },
+    {
+      "id": "e583a5aea903d76d",
+      "date": "2026-09-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZU5LMXV0TkFVamlCd3ctR0RoUlo0bXQ0VjFuYkZZY0JNZVVxUl9ocy1WSmdBSVhNaG02dFRWSDNOSUY4Q0x3REN1aUo3NFNCM1JjZVVoN094cmtSZDFvLUZROHYxYWJJRWM3bUpfS1djeVVnWE82cTZ3OUhLdjZ0M1FQRHlzaUpsWDc5d1RyTlY5MlZicFJGa053WGQtN2NVbXFaYTBrRTZwT2JSVW5BRFRHa1JkSVRhVWtxZzVvNWxiR3JRUkVPbnAxVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government to extend gas tax holiday into the new year - BNN Bloomberg",
+      "excerpt": "Carney government to extend gas tax holiday into the new year BNN Bloomberg",
+      "cat": "Finance"
     },
     {
       "id": "fd3c110773b19b8d",
@@ -1553,6 +1589,18 @@
       "title": "Carney government asks court to quash lawsuit over projected missed emission targets - Village Report",
       "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets Village Report",
       "cat": "Justice"
+    },
+    {
+      "id": "78a69686ee601045",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSWZLc1J2YWFRWTJ3MjU1Z014TzZjeTkzVGhZaUs3blBKY25oeXVtN2FabWhfWVpMZDdEc2NJUGw4NlFnNTcxWGdNdkM2WThCbnhxWVBhcFNzTEtHWndnV1FtbklSTUtlY3ViLU45RW9jY2VnOEM3WWJMLWZNeG43alBlNWpPQnJBSnVkM2VjcnpFN2wtT2lkYnhKYWlLZ1I3RXc3T2ZlcGhrdUl5WjB1T0k5bE4yVVNkR3lRVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney names Dominic Barton as chair of Invest in Canada, replaces CEO - BNN Bloomberg",
+      "excerpt": "Carney names Dominic Barton as chair of Invest in Canada, replaces CEO BNN Bloomberg",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "a74ac5d4ed96fd9e",
@@ -15392,6 +15440,18 @@
       "lang": "en"
     },
     {
+      "id": "ed38b55f22a7c77c",
+      "date": "2026-08-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmxkeVJZaHY5Q1Q3T3RJdjBfUTJpeUJvVWozdWctT3lUT21rTEhWanNtTlREQ2JDVTF3Z1RzREJJdHc1bHMzOXhqQl9lRXZMdXhFZncta0ZLY3FFblBkQlJfUG51RU1aYTZxVVA0TUVfcWpHWWNLUTR1SnREUkE4UFgxVFN0M2tLOEprWDdNTWRjbVFmUkt1Zk1SODlNWEJsejBHYXZOdlNaUWs?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney proceeding at breakneck pace with West Coast Pipeline - Environmental Defence",
+      "excerpt": "PM Carney proceeding at breakneck pace with West Coast Pipeline Environmental Defence",
+      "cat": "National defence"
+    },
+    {
       "id": "8aa5c0a9875350f5",
       "date": "2026-08-04",
       "src": "Canadian politics (via Google News)",
@@ -22445,6 +22505,18 @@
       "excerpt": "The Fraser Valley Regional District has ordered anyone remaining in Boston Bar, B.C., to leave immediately due to a new fire south of the community.",
       "cat": "Innovation, science & industry",
       "lang": "en"
+    },
+    {
+      "id": "156d1cd29231a680",
+      "date": "2026-07-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPSlY5NldxbXpXWlQ2WjdZaEw3Q3F3Wmd6YlNIMThzNEQtaGNGMy0tSXNNNkItUVg5WVBoMTdBTTVDR3VxSGo0RWVtcTkxTm1NTHhVc3o0ckJZcHJybUQzMXlVNm5lX2hyWWRQSFozdzNXOTF6cnp1ZHZRMktlb3FvNHA5cnM3WTlVdXBFUmN0NmpjNnBLNi1rRUxaZmtuVUJMYkY0VFZCcEJZc1J3d2ZOWFg0cV9CY2E3YUlISi1LN1FOMHNMMUx1bFNCdloyTzF3YVQ1ZXRuYUUtd0pLNEp0bGZxU3pQd3hiRDR1amViaklMYjhZYlgwbFRoZUtyWHh5ZEVob0REbDZQNFlQOGFuSEdoQkY?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Council of the Federation 2026 - Canada's Premiers Must Call on Mark Carney to Restore Access to Nicotine Pouches in Convenience Stores - newswire.ca",
+      "excerpt": "Council of the Federation 2026 - Canada's Premiers Must Call on Mark Carney to Restore Access to Nicotine Pouches in Convenience Stores newswire.ca",
+      "cat": "Intergovernmental affairs"
     },
     {
       "id": "ba1f6e7f70af67b2",
@@ -29522,6 +29594,18 @@
       "lang": "en"
     },
     {
+      "id": "905805561f414a8f",
+      "date": "2026-07-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ0taMWNqTTBLVjlyeThGVHoyNDNUNkJ0RlJwczh4X3BwdHJOanVCZkIxTmRZRlByaHdCRkFBQllrQjNlTjBuSEp5eGNVaWdxMjZfSFNrbTNKZWh6RXpKT0F5YTN4MFZDWXFuTUQzM1N1UFZjeVNVTHRncnNSUV9JT1g4b21EclhIYzNOR3dHd1RueUU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney shuffles PMO as aide leaves to run in B.C. byelection - CityNews Ottawa",
+      "excerpt": "Carney shuffles PMO as aide leaves to run in B.C. byelection CityNews Ottawa",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "df16d6f441b5f75b",
       "date": "2026-07-13",
       "src": "Canadian politics (via Google News)",
@@ -34989,6 +35073,30 @@
       "lang": "en"
     },
     {
+      "id": "749bc1a744bea78b",
+      "date": "2026-06-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkg4RDhsVDRzWDQzYlo4XzJQc2xlZmptSzNTd3JJbmhHdE1QY1BSN0NrYzQwQ0swQmIyZVl6azhuWkY3cGoyNWVUQWpsakxteGhVRUZCWkxxZFN2OEpzdzJYUmFidXhpVnh6R2dEMHBxR2JsT2FGUmFNeXRqRllCN09hNEZlN0NiRWF5RG1fYmZHSkZOMDBPakJXWVBnbXQ1Y2ZzYktZdXpNbXVFdGkyemp6YTloaHM5ZUJwd0FSdm9QUVlrX2N4VDdmQ2Jpa2hvb0NuMA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Foreign investors buy record amounts of Canadian government debt, lowering Carney’s borrowing costs - CTV News",
+      "excerpt": "Foreign investors buy record amounts of Canadian government debt, lowering Carney’s borrowing costs CTV News",
+      "cat": "Foreign affairs"
+    },
+    {
+      "id": "2e25954f0d1492b3",
+      "date": "2026-06-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT1A2elkzdV9sdzh5ZkFRSERwVDRlM0c5OUl3T05TaGo4akhsVmNxTHlCLU03R2hDQXNvNWlVVmVlWTl5alhvX3ZfbjNBUnREUDM0VDBLX3V2LTE3MW9sODNuay01a21lN19RVW95dGxIQVgtdWQ1TkdJWXJIS3UtMA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says energy plan will unify Canada but ’emissions will be higher’ - Global News",
+      "excerpt": "Carney says energy plan will unify Canada but ’emissions will be higher’ Global News",
+      "cat": "Sustainable development"
+    },
+    {
       "id": "a561ce609a427a97",
       "date": "2026-06-30",
       "src": "Politique canadienne (via Google News)",
@@ -37899,6 +38007,18 @@
       "lang": "en"
     },
     {
+      "id": "8fe38ae49e3ce89c",
+      "date": "2026-06-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWJEanZ0MzJHNWVmZTdJLTV0RlFBUHROcDFSaGR5M0F6RUZLOFlvY2VZM1lMbnFzZC1DT3NGUFZqS1NNWFp2OFFsQ1RIU1JubzU5YU12aktJZkFfMDMydWFJZ2RYY1B1YUhyenZRUkFzdmxkOGZRNEdWS2Uza2VVc0Fac0dTWVMtOWphU0YwUjFlQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada at ‘disadvantage’ without diplomatic presence in Iran, Carney says - National - Global News",
+      "excerpt": "Canada at ‘disadvantage’ without diplomatic presence in Iran, Carney says - National Global News",
+      "cat": "Foreign affairs"
+    },
+    {
       "id": "c3020fc14bcc0efa",
       "date": "2026-06-25",
       "src": "Politique canadienne (via Google News)",
@@ -38659,6 +38779,30 @@
       "cat": "Innovation, science & industry",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "5c68b953d43256f9",
+      "date": "2026-06-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNFRTZm5NcUJ5ZkQ3c1IxYy1HTVF3Q2J1RkFKNGlwTVNtYk1MSzA5eUZRT215SlBVWVg1X1lNYzRsTFRFWUR0dDdiWFg4cFVqWkFfQzNLemdMWTYxWjQ3ekpjVkJwME1ZOTB5QUZ4akZsTWhPYXk4RkhLRXdkQUFFUU0wU2JFTy03Ymh1TkI2ZmNuMGx5b1VNT2pqdEhGV09DWlJuRWEwOHg4TTFx?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal public service shrinks by over 12,000 workers in 2026 - CBC",
+      "excerpt": "Federal public service shrinks by over 12,000 workers in 2026 CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "224012cf858ef3f3",
+      "date": "2026-06-24",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTEZHdGFsNl9aZ3YtekRXRWw4V2dwX0RvUGdSMVloM2t2QzZVTzNYRWJmTWN6QVJ6Xy02bUxNSFozQlV4SnFlamJRNlVGUFVZZE1wNDYyX0FaUDBrMDJMVmVQWlRUdE1iZm56QnUwZjVUWkE5TVVzM0dCVnUtclk4T19iNTFwcmZYNjdZSzJ6eExkdnowZnJWa2lB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Compressions au fédéral : le nombre de fonctionnaires continue à diminuer - Radio-Canada",
+      "excerpt": "Compressions au fédéral : le nombre de fonctionnaires continue à diminuer Radio-Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "7d66241db4ffd994",
@@ -41991,6 +42135,18 @@
       "lang": "en"
     },
     {
+      "id": "f48f5254bd117389",
+      "date": "2026-06-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdHFqYllQN3lkMmtkdXNCclNCMTFQRnFoRGh1MW9YdGZjOWotelU3M1FJOWF5dFdNeGx1bkRaVWUtenp6dEUwYzN4d05kSThfaVkwQWstQzJPemE2ZktsWUZFdDFhREJiaWxoeGRCSVI4NDhFT1p5cnI0Q0d5cGtFZ25vbXdraWdtMzN6cUt0bVFHZUNLaDVFUFJJVlZRazNnTll5dkVUTjFaXzdjYkR1Z21yUENZZGlGaDFxMw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Youth taking Carney government to court over alleged illegal climate rollbacks - The Pointer",
+      "excerpt": "Youth taking Carney government to court over alleged illegal climate rollbacks The Pointer",
+      "cat": "Justice"
+    },
+    {
       "id": "76bb214c7268a14d",
       "date": "2026-06-19",
       "src": "Canadian politics (via Google News)",
@@ -44962,6 +45118,18 @@
       "lang": "en"
     },
     {
+      "id": "ad54b7ae31fe329b",
+      "date": "2026-06-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMklBQ2ZudFZ4aE1PMFJyWUpwbDEzaXhPXzFub01IdGhKN2VLYm9iRUotLXlIZTRmSUQ5d3dJT0hLdy1YWkRhTjBSamVIc2l1UERZZ2lHY1k1MFlwYnJqemNVXzhhREdwOEljdU1yc0JlN1hYNm0xVHQ2Q3VDc3FtaW12MnBaNk1C?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney is all-in on industrial policy. It’s a bad bet - The Hub | More Signal. Less Noise.",
+      "excerpt": "Carney is all-in on industrial policy. It’s a bad bet The Hub | More Signal. Less Noise.",
+      "cat": "Economy"
+    },
+    {
       "id": "038f6e62ea73ed3e",
       "date": "2026-06-12",
       "src": "Canadian politics (via Google News)",
@@ -45672,6 +45840,18 @@
       "cat": "Culture & heritage",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "b422aeb5a4d65490",
+      "date": "2026-06-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MMDEtUFJMZU9SNFVGQjZvRHlidXNFSFd0VG03aFptUHd2NHBXOVFoUUxndXZvYUwwWlcxVWNzV1RtVnctRmlsb3JTR2tJR05XYUJOR0M5MFRLc3E0T2FxVUxybURtSFVleVZwMXdwR3FuUWZ4SkFTcHhVWQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal Adviser Says Data Centres ‘Provide Markets’ for Gas - The Tyee",
+      "excerpt": "Federal Adviser Says Data Centres ‘Provide Markets’ for Gas The Tyee",
+      "cat": "Natural resources"
     },
     {
       "id": "a38f0e7552a2ec8c",
@@ -47354,6 +47534,18 @@
       "lang": "en"
     },
     {
+      "id": "14b22a25a0c12fe0",
+      "date": "2026-06-08",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjBoa091dHRxT0tGRHZKMDJHeHotSWN5RHp6U3BVUlNQTF9UWGtaQndGemZ4R21MTmZRZkhwNm5zMmExTWtYSnJNSy1LZUpLU0dWOXdCQmxyNU1sWG1NOUdUaTZsTGZiTFlFd1NkNy12Ry1BTWd4YkppUXd3RkhNOXpqMWpyLXF6VDRiS2xvWkMwUENSRVkzTHNzaE5MV1M4T19Z?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Ottawa veut permettre des pesticides pour la «sécurité économique» - Le Devoir",
+      "excerpt": "Ottawa veut permettre des pesticides pour la «sécurité économique» Le Devoir",
+      "cat": "Economy"
+    },
+    {
       "id": "441cf4dcb7846d1f",
       "date": "2026-06-08",
       "src": "Government of Canada",
@@ -48814,6 +49006,30 @@
       "cat": "Intergovernmental affairs",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "3a14acb681e68659",
+      "date": "2026-06-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkdHTEhUMEJhX3M1UHlSTkZuU1l5X0ZSTHlVa0NZcTA2LS1qVWYxQjNXb3dZMm5pS29BN0tURVNKM214TDZTdjFPRG5kMFNqQUk2dHFNXzhNUUxjNjluM1RYcV9pRWlLWlVTOXVKZ19oV1hOVUVGdXpkdjJaQ0N3NlhB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Black advocates call out Carney government for excluding them from diversity council - CBC",
+      "excerpt": "Black advocates call out Carney government for excluding them from diversity council CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "81565a204d016be7",
+      "date": "2026-06-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMWJGYTZYSzlOZHBTWFM1Qm1ENjB2RG1MQm9pU25LVFEyeW9IRTNMckdpaGN0NFBKM0NHaWRDRFhwTVRwaE02bVdyVGpGMF9XR2NmN2FiRGY5dkZybmxvc2ZLaDgzTTFRUlJmZG1jVWVVMnpHQmYyano3TzJVWTQtTmg4SHV3NDNJeExmNWR1TVd5eVRSWXBsYTE0R0dSN2F4bU5YcGNJYWpBVm1xMnM0cFVnV0JENHlBZlFpaVh5R0w5QjlJalpUc3B4WTNZRVdkR3gyenp2YnBFQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney unveils AI strategy, says tech will be built with safety, reliability, sovereignty in mind - Radio-Canada",
+      "excerpt": "Carney unveils AI strategy, says tech will be built with safety, reliability, sovereignty in mind Radio-Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "3f95fb386f38c49a",
@@ -53607,6 +53823,18 @@
       "title": "Une stratégie fédérale sur l’IA la semaine prochaine - Radio-Canada",
       "excerpt": "Une stratégie fédérale sur l’IA la semaine prochaine Radio-Canada",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "a7ba4df23d1e1293",
+      "date": "2026-05-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDI5OWVOSmNvbTdpdnJsSzNneElqT1BBN0NSbG4xM01GcWNPbkg5bGprdTJXajZaUGNrTVgtdUR2eGFoaW1CamY1Q2dXQzluZmZGWml0ZnprWjdqN1RUSVFjV1Q1QkpWX2JXckR4QmtBQVRXRWw3SXEzTWFTY3ptZ2UweTVfSm9DcVdOR1p4cmFvUDk2SVI5UA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "How Carney’s ‘climate action’ pipeline spin echoes Trudeau’s Trans Mountain rhetoric - nationalobserver.com",
+      "excerpt": "How Carney’s ‘climate action’ pipeline spin echoes Trudeau’s Trans Mountain rhetoric nationalobserver.com",
+      "cat": "Sustainable development"
     },
     {
       "id": "4aad49f7bb4104c4",
@@ -61702,6 +61930,18 @@
       "lang": "en"
     },
     {
+      "id": "271ea79ed1e2f904",
+      "date": "2026-05-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0dDYlY0YVNGNVE4QnZsbGE3anNxUlpRRzZ2XzIyQWo5UEEyYTVIT3pNLXRudzhzbURVV05jOGxWOThmN3B5YzdVMnJUNFVrbURTeXR5SVBJV0hBOFZTMEtUUFJWQjhPUFhOS2tZLVcxS2s0aUJzX09MQlJ3WGJVcUtfMVNWYnZWX290WnoyTkppd1ZObFdzbDNacEU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney moves to fast-track federal approval for major projects — from pipelines to power lines - nationalobserver.com",
+      "excerpt": "Carney moves to fast-track federal approval for major projects — from pipelines to power lines nationalobserver.com",
+      "cat": "Natural resources"
+    },
+    {
       "id": "b36cc703ecaf3962",
       "date": "2026-05-12",
       "src": "Canadian politics (via Google News)",
@@ -65568,6 +65808,18 @@
       "lang": "en"
     },
     {
+      "id": "de02e2a4e44a955e",
+      "date": "2026-05-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTVllZ0FwZ0huMG9idDRfT1JsajViandKY0lNYVZzME85dlVqbzJRckRYWEFrMjUta0dreHZjeDhKNnhHMlJVd3hXRVcxRlBTYkNnc1YwZk1KV05QYlBBdE1EbVloMTk5UEtOVzYwb2IyYzhnWUVUS0c3eHNPcXhLVXFhUjlRNU0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government planning changes to speed approvals for pipelines, resource projects - CBC",
+      "excerpt": "Carney government planning changes to speed approvals for pipelines, resource projects CBC",
+      "cat": "Natural resources"
+    },
+    {
       "id": "f441c49c2dd5c46d",
       "date": "2026-05-06",
       "src": "Politique canadienne (via Google News)",
@@ -69362,6 +69614,18 @@
       "lang": "en"
     },
     {
+      "id": "9b9476fe9533677f",
+      "date": "2026-04-28",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHJxYWZhbDM1Zy1DOURRM0Y1ZHhLQ0Q0WnU1Rm1lb0owajhIQWhPX1VOTGNfcUhRR3hqalV5QWtLQlFaUEFfSlpEd0xjVnpvSU5VNmRON3IyUmlvbHZsUldCS1ljbG1OMzlEVmFDNW9PZDZ4S05Nb0l1WUFpM3E1c3lwQUF4NWxqNFIzSmVscW5CQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Analyse L’exceptionnelle marge de manœuvre de Mark Carney et du ministre Champagne - Radio-Canada",
+      "excerpt": "Analyse L’exceptionnelle marge de manœuvre de Mark Carney et du ministre Champagne Radio-Canada",
+      "cat": "Economy"
+    },
+    {
       "id": "e37a3b7e6ba8f474",
       "date": "2026-04-28",
       "src": "Canadian politics (via Google News)",
@@ -69854,6 +70118,18 @@
       "cat": "Finance",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "cbcf6a9900a73d12",
+      "date": "2026-04-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVdaZldXMG9iQlE1RHdCR3dsbm16YkVBUlRvUmtBc3hqUWZ3akFkY1ZMTC1vaFZuNHVWdFl4SDV4U18xZjB4MEo4eE5QQVViSC0xRVNvLVh4UnhYVzFBSmRZN2JFc3hrb1FCMktqYUxIRUlmZDU3b0QzR3hFNHg3cjNBc0RBTkE4bks0QzByU1VYWVZPWnhQODNHZVZTT0ZCeDJsX3htN3kyN2xW?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s corporate slush fund nothing like a sovereign wealth fund - Canadian Taxpayers Federation",
+      "excerpt": "Carney’s corporate slush fund nothing like a sovereign wealth fund Canadian Taxpayers Federation",
+      "cat": "Finance"
     },
     {
       "id": "9d3ab4a0d3faf4f9",
@@ -74780,6 +75056,18 @@
       "lang": "en"
     },
     {
+      "id": "edbf92e28bf8aa65",
+      "date": "2026-04-16",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDRTcDc2bnBGT0ltTW1PS3dfNWZwNVh1VllMZzZQcGtRWHNJLUpkc2RZc3MxVTBPXzZOSXRpV2NFd09KR1Q5SkhyQVRUaUFkMlRTdmR2ejdPdlo3LUtmNUN5SHdES2U3a3hXeVFRWjVaNW5mcTVqcDRDWUNmdy1sQW1WR3Z2UmxkZzFCTG5XSnBES191ZWY2MWRvbFZkR1cwdHBFQ2ZNT2JSSV9fYXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Augmentation des GES: le Canada accuse un sérieux retard dans ses engagements climatiques - Le Devoir",
+      "excerpt": "Augmentation des GES: le Canada accuse un sérieux retard dans ses engagements climatiques Le Devoir",
+      "cat": "Economy"
+    },
+    {
       "id": "bee1d7c61e83f669",
       "date": "2026-04-16",
       "src": "Government of Canada",
@@ -78708,6 +78996,18 @@
       "sum": "Le ministre du Logement et de l'Infrastructure, l'honorable Gregor Robertson, tiendra une annonce publique concernant le logement à Morin-Heights en présence de députés et de secrétaires parlementaires.",
       "cat": "Housing",
       "ai": true
+    },
+    {
+      "id": "cbdb2c010a97a78b",
+      "date": "2026-04-07",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTG1LT1BhMnZwdHEwU0lvNGs1UGxQb2N0R0FyUWRRV2d2Q3VsV1lyT2U0STZNUTEtWGxtZVc1eWM4Q3d2R0N3d0o5aVBBNHYtYW9MTlBCTm51UGxjaG5DcVZzYV9nUFk2N25rbVQ2b2xkZ1ptdTIycm1FVGp1SlJ5TW93a196R1FRU2NFQXhMYw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Carney détaille son plan de 51 milliards $ pour les infrastructures locales - Radio-Canada",
+      "excerpt": "Carney détaille son plan de 51 milliards $ pour les infrastructures locales Radio-Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "4970e474a3e355a6",
@@ -99104,6 +99404,18 @@
       "lang": "en"
     },
     {
+      "id": "52e19c06f63a697f",
+      "date": "2026-02-24",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQW00aG9CQmc0TUZBV1V2UzJmMENJRlR4VXNGZkpiUHlONU1fMW1yaTRyTU1lSWtLUE42RXBxUWh0a2tFXzB4VDlQdDdOb0tEOUliOWFjYXZoa3l6Q2ZIN1pQbEFWNWhJYVJ4bUxjU1IyeENDUUxZVVVZSnZITml6ZVZTN2NzZFRid2U2UmZwa254bTFISWkyRllKV1dtVmw2c2c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Il y a malentendu sur les coûts du système Cúram, dit Ottawa - Le Devoir",
+      "excerpt": "Il y a malentendu sur les coûts du système Cúram, dit Ottawa Le Devoir",
+      "cat": "Economy"
+    },
+    {
       "id": "99282b3a18e8727b",
       "date": "2026-02-24",
       "src": "Government of Canada",
@@ -103230,6 +103542,18 @@
       "cat": "Indigenous services",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "844e30baf34bc838",
+      "date": "2026-02-17",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVozYnVfTXBvMGZzUElNT0pXREFMYnJ6Q3p5QnNKU0NKWGk0bzVzOERCajJ6dXp4V1JILXF0QjVmQU1vYkZRYlFVcGxZTlkwMlhUMXFKdFlmRU9jME5aUloxTk44QVBwUmxmd1lPTm5RYnJlS3lJelhCVHBhcm1TSHBQMU93SlVzX1dMTlRLbVV1MHZZbkJKLWxGYjN0dzZFeFE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le Canada veut exporter plus d’armes, mais à quel prix? - Radio-Canada",
+      "excerpt": "Le Canada veut exporter plus d’armes, mais à quel prix? Radio-Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "a240a20b7d651f41",
@@ -111157,6 +111481,18 @@
       "sum": "Le ministre de l'Énergie et des Ressources naturelles se rendra en Inde du 27 au 30 janvier 2026 pour participer à la conférence India Energy Week à Goa et visiter New Delhi.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "2c9017c270112edf",
+      "date": "2026-01-22",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZm9qRm1DeEIzQWdTRGx4S0ZzNk9oc25lNWVxS3lOYnpadXYzMnh0M0FnQVZZSkRPWW5jVE1FQmFwNlp3OXR2MXZCYlZXWVI1djVTMmE0WkRYMDhaRWRqdE5RaGFVV09FTU9tOHNKNTkzaDNJWXE0TzlQaklUSmstVlhZTkdtNWZUanY4ZVVnUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "De Québec, Mark Carney lance un appel à l’unité canadienne - Radio-Canada",
+      "excerpt": "De Québec, Mark Carney lance un appel à l’unité canadienne Radio-Canada",
+      "cat": "Economy"
     },
     {
       "id": "529380360ed313f8",
@@ -133102,6 +133438,18 @@
       "ai": true
     },
     {
+      "id": "85810475cf2ec52a",
+      "date": "2025-11-14",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd2N1MDZjTEx1N3pHZjNmbUFlZkRHaC1NSVVfUDhQdlc2U3F0ZXdheFZ1bjBfX2xVSVRTZ09fV0cwSEFyajc1WUFfN2RhSVBuVVBwX29KNjRKYjFxTnRJWXQ1d3lBS0VNcFpfM1phLVZHOHZBWjhyWU03S2VFWDRwU2RFZm80a2hoSFZOX1N5RHFNT3ZXNWZZMHd0TGgwQXVEc2w3ZFFPbEkwRzBiSnpfMkZXU1FNaWlr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Environnement | La nouvelle approche de Mark Carney dérange - lapresse.ca",
+      "excerpt": "Environnement | La nouvelle approche de Mark Carney dérange lapresse.ca",
+      "cat": "Economy"
+    },
+    {
       "id": "f1c44f926007801f",
       "date": "2025-11-14",
       "src": "Government of Canada",
@@ -138718,6 +139066,18 @@
       "sum": "Le ministre des Finances François-Philippe Champagne participera à une discussion informelle sur le budget de 2025 le 6 novembre dans une activité organisée par le District de la découverte MaRS à Toronto.",
       "cat": "Finance",
       "ai": true
+    },
+    {
+      "id": "c181f0e451f5e555",
+      "date": "2025-11-04",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWm1QMFRFYU1SOU43cU9QdXNHbUxFWGxEaFEwQzR1QXFQRFRua3RQcXFVaV9pdGIyYWp5eTFvWUNqWGl0QmE1N09iOWxYVjhaemEtZHhaZ3g3b0s4LXAtam9POFhSZF9XT242dUFhQ2thOTl1aVlhVlR2VGIzWm5Ed19VSUVOdjZqUzhUdWV4RGtxbUNBX2JvLWdOa0taUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Budget fédéral 2025: un Canada assujetti au secteur privé et à l’industrie militaire - Institut de recherche et d’informations socioéconomiques",
+      "excerpt": "Budget fédéral 2025: un Canada assujetti au secteur privé et à l’industrie militaire Institut de recherche et d’informations socioéconomiques",
+      "cat": "Finance"
     },
     {
       "id": "26fb529d5329f9c9",
@@ -193500,396 +193860,6 @@
       "title": "Canada and Newfoundland finalize 10-year housing infrastructure agreement",
       "sum": "The federal government and the province of Newfoundland and Labrador have completed a 10-year agreement under the Canada Housing Infrastructure Fund to invest in housing infrastructure projects.",
       "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "c6904a782bccb080",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2025/03/government-of-canada-invests-in-sport-to-break-down-barriers-boost-participation-and-build-stronger-and-healthier-communities.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada funds thirteen national sports organizations through new initiative",
-      "sum": "The Government of Canada is providing funding to thirteen national-level sports organizations through the Community Sport for All Initiative. The initiative aims to increase participation in sports and build stronger communities.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "c9fb0069a8aa415f",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/03/fighting-homelessness-50-million-in-funding-to-support-205-projects-in-quebec.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada allocates $50 million for homelessness services in Quebec",
-      "sum": "The federal government is providing $50 million in funding to support 205 homelessness projects in Quebec. The funding aims to enhance emergency and transitional housing services, improve accessibility, and address encampment homelessness.",
-      "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "3070425209b32402",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2025/03/canada-to-invest-in-teledyne-to-further-advance-canadas-semiconductor-industry.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests in Teledyne to expand semiconductor capacity",
-      "sum": "Canada is making an investment in Teledyne to increase the country's semiconductor production capacity and efficiency. The project aims to strengthen Canada's semiconductor manufacturing capabilities.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "6805509399b2bcda",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/employment-social-development/news/2025/03/government-of-canada-announces-support-for-up-to-20-pan-canadian-projects-to-increase-social-inclusion-of-seniors-across-the-country.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada funds up to 20 projects for senior social inclusion",
-      "sum": "The federal government is supporting up to 20 pan-Canadian projects through the New Horizons for Seniors Program to help seniors stay connected and active in their communities. These initiatives aim to increase social inclusion of seniors across the country.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "bb5647571c5ace87",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/03/the-governments-of-canada-and-newfoundland-and-labrador-invest-in-critical-housing-infrastructure.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada and Newfoundland invest in housing infrastructure",
-      "sum": "The federal government and Newfoundland and Labrador will jointly invest $123.1 million over 10 years in critical housing infrastructure through the Canada Housing Infrastructure Fund. The funding is part of a provincial and territorial agreement stream.",
-      "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "9127edc2df1fb03a",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2025/03/canada-invests-in-retrofits-for-community-housing-in-st-johns.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests $5.4 million in St. John's community housing retrofits",
-      "sum": "Natural Resources Canada is providing $5.4 million through its Greener Neighbourhoods Pilot Program to support deep energy retrofits for 101 municipally owned community housing units in St. John's. The City of St. John's is contributing $4.4 million to the project.",
-      "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "1c8aee0b73adb8af",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-coast-guard/news/2025/03/icebreaking-near-midland-ontario.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Coast Guard to conduct icebreaking operations in Georgian Bay",
-      "sum": "The Canadian Coast Guard will perform icebreaking operations near Midland, Ontario around March 24, 2025, using the CCGS Amundsen to clear ice and allow safe passage for commercial vessels.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "7cf68b2e45713b6a",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/03/federal-government-invests-in-two-green-and-inclusive-building-projects-in-shawinigan.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government funds two building projects in Shawinigan",
-      "sum": "The federal government is investing more than $2.5 million in two building projects in Shawinigan designed to improve citizen well-being and support social integration of vulnerable people.",
-      "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "2b6d5acb3b8c2180",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/fisheries-oceans/news/2025/03/canadian-fish-and-seafood-highlighted-at-seafood-expo-north-america.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada promotes fish and seafood at North American expo",
-      "sum": "Canada is highlighting its fish and seafood products at the Seafood Expo North America, emphasizing the country's long coastlines, sustainability standards, and food safety practices. Canadian seafood products are marketed internationally based on their quality and premium status.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "ec7288405b2feec6",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2025/03/amplifying-acadian-stories-on-prince-edward-island.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal funding supports Village musical acadien upgrades on PEI",
-      "sum": "The federal government is providing financial support for improvements to Village musical acadien, a cultural venue on Prince Edward Island. The upgrades are intended to improve the experience for visitors to the facility.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "97d7c8d71a5609c6",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/women-gender-equality/news/2025/03/strengthening-2slgbtqi-communities-to-advance-equality-in-quebec-and-across-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government funds three Quebec organizations supporting 2SLGBTQI+ communities",
-      "sum": "The Minister of Canadian Culture and Identity announced up to $718,000 in funding for three Quebec-based organizations that work with 2SLGBTQI+ communities. The funding is intended to support equality initiatives in Quebec and across Canada.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "b347734cf43a2c2b",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-services-procurement/news/2025/03/celebrating-15-years-of-the-national-shipbuilding-strategy-and-contributions-from-ontario-shipyards.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada marks 15 years of National Shipbuilding Strategy",
-      "sum": "The government is marking the 15th anniversary of the National Shipbuilding Strategy, a long-term program to renew naval and coast guard vessel fleets while supporting the Canadian shipbuilding sector. The strategy aims to create economic benefits and build a sustainable shipbuilding industry.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "a9eea1b79f06df4d",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/women-gender-equality/news/2025/03/strengthening-2slgbtqi-communities-to-advance-equality-in-ontario-and-across-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal funding announced for 2SLGBTQI+ equality initiatives",
-      "sum": "The Minister of Canadian Culture and Identity announced up to $1.4 million in funding for four organizations. The funding will support community-led initiatives designed to address barriers and advance equality for 2SLGBTQI+ communities across Canada.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "acd6890393a77a43",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-health/news/2025/03/government-of-canada-announces-the-organization-to-establish-and-lead-the-national-autism-network.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government funds National Autism Network establishment",
-      "sum": "The Government of Canada announced $6.3 million in funding over five years to the Sinneave Family Foundation to establish and lead the National Autism Network. The network will work with partners including Autism Alliance of Canada to support autistic people and their families.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "7f499f661cd266c5",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-justice/news/2025/03/government-of-canada-establishes-indigenous-led-advisory-committee-to-advance-un-declaration-act-implementation.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada establishes Indigenous-led advisory committee for UN Declaration Act",
-      "sum": "The Government of Canada has created an advisory committee to help implement the United Nations Declaration on the Rights of Indigenous Peoples Act. The committee will be led by Indigenous representatives and will support the development of the Act's action plan.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "cc83b55d599d27a4",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-justice/news/2025/03/un-declaration-act-action-plan-advisory-committee.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Indigenous-led advisory committee established for UN Declaration Act implementation",
-      "sum": "An independent Action Plan Advisory Committee led by Indigenous representatives will provide advice on implementing Canada's UN Declaration on the Rights of Indigenous Peoples Act. The committee will guide the government's execution of the associated action plan.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "6385e3cb64dd6aa3",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2025/03/canada-and-manitoba-invest-in-helping-homeowners-install-energy-efficient-home-heating-systems.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada and Manitoba fund heat pump installation program for homeowners",
-      "sum": "The federal government is investing $7.9 million in Manitoba's Oil to Heat Pump Affordability program to help low- to median-income homeowners install energy-efficient heating systems. The program aims to reduce energy bills and support climate action in the province.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "bf96f525922c1844",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/03/government-of-canada-commits-to-supporting-community-infrastructure-in-edmonton.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government invests in Edmonton solar energy project",
-      "sum": "The federal government is providing up to $482,160 for a solar energy project in Edmonton through the Green and Inclusive Community Buildings program. The announcement was made by the Member of Parliament for Edmonton Centre.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "469725da8d42ba69",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2025/03/government-of-canada-welcomes-proposal-from-electra-battery-materials-that-will-strengthen-canadas-critical-minerals-value-chain.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government welcomes critical minerals production proposal",
-      "sum": "The Government of Canada has expressed support for a proposal by Electra Battery Materials to produce cobalt sulfate, which would strengthen Canada's critical minerals supply chain.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "3568c6f7ac266fd4",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/03/backgrounder-ensuring-long-term-predictable-public-transit-funding-for-bc-transit-with-over-189-million-through-the-canada-public-transit-fund.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government allocates $189 million to BC Transit over ten years",
-      "sum": "The federal government is providing over $189 million through the Canada Public Transit Fund starting in 2026 to support 33 transit systems operated by BC Transit. The funding will be used to upgrade, replace, modernize, and maintain public transit infrastructure across these systems.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "c424f76f329a8a2f",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/03/ensuring-long-term-predictable-public-transit-funding-for-bc-transit-with-over-189-million-through-the-canada-public-transit-fund.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government allocates $189 million to BC Transit funding",
-      "sum": "The federal government is providing over $189 million to BC Transit through the Canada Public Transit Fund to support long-term public transit services. This funding is intended to help Canadians access jobs, services, and communities through improved public transit connections.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "666cdad7d64aa1e5",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/03/statement-on-national-indigenous-water-operator-day-2025.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada acknowledges National Indigenous Water Operator Day 2025",
-      "sum": "The government issued a statement recognizing National Indigenous Water Operator Day and acknowledging First Nation water operators' work in delivering clean water to communities across Canada.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "e2acc29297717427",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/03/backgrounder-canada-imposes-sanctions-against-venezuelan-officials-involved-in-committing-human-rights-violations-andor-undermining-venezuelas-demo.html",
-      "type": "Regulation",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada sanctions eight Venezuelan officials for human rights violations",
-      "sum": "Canada has added eight senior Venezuelan government officials to a sanctions list under the Special Economic Measures (Venezuela) Regulations. These individuals are being sanctioned for activities related to human rights violations and undermining democracy in Venezuela.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "a315a66a0b5c2000",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/03/canada-imposes-new-sanctions-against-venezuelan-officials.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada imposes new sanctions against Venezuelan officials",
-      "sum": "Canada announced new sanctions against Venezuelan officials under the Special Economic Measures (Venezuela) Regulations. The sanctions were announced by the Minister of Foreign Affairs and International Development.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "18fa3ecc6800ac0d",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/03/federal-government-invests-more-than-101-million-in-community-and-housing-enabling-infrastructure-in-memramcook.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government invests $10.1 million in Memramcook community infrastructure",
-      "sum": "The federal government is investing more than $10.1 million in Memramcook for a new community recreation centre and expanded water infrastructure. The announcement was made by Minister Dominic LeBlanc and Mayor Maxime Bourgeois.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "f20c595dc7494021",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/transport-canada/news/2025/03/support-for-the-hudson-bay-railway-and-port-of-churchill-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government invests in Hudson Bay Railway and Churchill Port",
-      "sum": "The Government of Canada is making investments in the Hudson Bay Railway and Port of Churchill to improve trade infrastructure and transportation corridors. These improvements aim to open new markets through the Arctic and provide reliable surface transportation through northern Manitoba.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "324812fa687dca74",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/women-gender-equality/news/2025/03/advancing-gender-equality-and-supporting-victims-and-survivors-of-gender-based-violence-across-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government funds seven projects to advance gender equality and support violence survivors",
-      "sum": "The Minister of Women and Gender Equality announced funding of up to $5.9 million for seven projects across Canada aimed at advancing gender equality and supporting victims and survivors of gender-based violence.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "fd3a8b3c2fa97b07",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2025/03/government-of-canada-announces-support-for-cedar-lng.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government announces support for Cedar LNG Indigenous project",
-      "sum": "The Government of Canada is supporting Cedar LNG, described as the largest Indigenous majority-owned infrastructure project in Canada. The project involves liquefied natural gas infrastructure development.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "1ddca4723edd5983",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/fednor/news/2025/03/government-of-canada-investing-nearly-2-million-in-economic-development-and-diversification-in-the-superior-east-and-algoma-areas.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests $1.8 million in Superior East and Algoma economic development",
-      "sum": "The federal government is providing $1,825,250 in funding through FedNor for two economic development and diversification projects in the Superior East and Algoma regions of Ontario.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "93bf56a18cffaf48",
-      "date": "2025-03-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/03/federal-government-invests-in-rural-transit-infrastructure-in-whistler.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government invests $500,000 in Whistler transit infrastructure",
-      "sum": "The federal government is providing $500,000 toward transit infrastructure improvements in Whistler, British Columbia through a joint investment arrangement. This funding supports enhanced public transportation services in the resort municipality.",
-      "cat": "Transportation",
       "ai": true
     }
   ]

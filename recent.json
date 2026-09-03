@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-03T03:29:10.603Z",
+  "generatedAt": "2026-09-03T10:50:48.086Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7823,
+      "actions": 7813,
       "sources": 9
     },
     "fr": {
-      "actions": 7177,
+      "actions": 7187,
       "sources": 7
     }
   },
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c722b34cb286c89b",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3cW1BSWQ1T0I0RFhlS3JHWHQ0bDk1V0dDWjd0bUltelM2b29yQXkwZkNEaVFZNVJxV0RxZ0JmWFpxQzkxbmpMOHRVbkhicXF0OWI5VjhpdDFJb2ZxaE50RjJHc181RG1DaHZ0S1g5ZVR3UGlUaEVpaVZRQjY?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Josh Dehaas: A Carney oil blockade would be playing with fire, even if constitutional - Yahoo News Canada",
+      "excerpt": "Josh Dehaas: A Carney oil blockade would be playing with fire, even if constitutional Yahoo News Canada",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "15b1c1ee4ce9bb15",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGNmXzItdTRuZ2hVaXpiNWZNTnRPMnE0Sk9vX2NHaE5KZ2NHUHV2M1lDU1lvRVV2X3lTOGp2ODdmQW1tVTB1OFRvVmJJR2cxZ2VuejFaSWN5RWZUdE9MNW53QjZ4TmtzdHRUcFctOGgyNWtzQWRaTmtQWi1rXzZUTDl0c0o1eEJvMmNvTjE1YTNJVDJIcjh2T1JsLU5CanNYdFpENUI4S0Z2Zw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s federal deficit shrinks to C$370 million from C$6.3 billion - Philippine Canadian Inquirer",
+      "excerpt": "Canada’s federal deficit shrinks to C$370 million from C$6.3 billion Philippine Canadian Inquirer",
+      "cat": "Finance"
+    },
     {
       "id": "639a2b92bb479d3a",
       "date": "2026-09-03",
@@ -95,6 +119,18 @@
       "sum": "Le ministre de la Défense nationale a clôturé la 28e conférence des chefs d'état-major de la défense de l'Indo-Pacifique à Victoria. La conférence a été coorganisée par la chef d'état-major de la défense du Canada et le commandant du U.S. Pacific Command.",
       "cat": "National defence",
       "ai": true
+    },
+    {
+      "id": "e583a5aea903d76d",
+      "date": "2026-09-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZU5LMXV0TkFVamlCd3ctR0RoUlo0bXQ0VjFuYkZZY0JNZVVxUl9ocy1WSmdBSVhNaG02dFRWSDNOSUY4Q0x3REN1aUo3NFNCM1JjZVVoN094cmtSZDFvLUZROHYxYWJJRWM3bUpfS1djeVVnWE82cTZ3OUhLdjZ0M1FQRHlzaUpsWDc5d1RyTlY5MlZicFJGa053WGQtN2NVbXFaYTBrRTZwT2JSVW5BRFRHa1JkSVRhVWtxZzVvNWxiR3JRUkVPbnAxVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government to extend gas tax holiday into the new year - BNN Bloomberg",
+      "excerpt": "Carney government to extend gas tax holiday into the new year BNN Bloomberg",
+      "cat": "Finance"
     },
     {
       "id": "fd3c110773b19b8d",
@@ -1563,6 +1599,18 @@
       "title": "Carney government asks court to quash lawsuit over projected missed emission targets - Village Report",
       "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets Village Report",
       "cat": "Justice"
+    },
+    {
+      "id": "78a69686ee601045",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSWZLc1J2YWFRWTJ3MjU1Z014TzZjeTkzVGhZaUs3blBKY25oeXVtN2FabWhfWVpMZDdEc2NJUGw4NlFnNTcxWGdNdkM2WThCbnhxWVBhcFNzTEtHWndnV1FtbklSTUtlY3ViLU45RW9jY2VnOEM3WWJMLWZNeG43alBlNWpPQnJBSnVkM2VjcnpFN2wtT2lkYnhKYWlLZ1I3RXc3T2ZlcGhrdUl5WjB1T0k5bE4yVVNkR3lRVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney names Dominic Barton as chair of Invest in Canada, replaces CEO - BNN Bloomberg",
+      "excerpt": "Carney names Dominic Barton as chair of Invest in Canada, replaces CEO BNN Bloomberg",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "a74ac5d4ed96fd9e",
@@ -10222,55 +10270,6 @@
       "sum": "Le Canada marque le cinquième anniversaire de la prise du pouvoir des talibans en Afghanistan et dénonce la répression, les violations des droits de la personne et l'érosion des libertés fondamentales affectant le peuple afghan.",
       "cat": "Foreign affairs",
       "ai": true
-    },
-    {
-      "id": "d6d7d5570475d8fd",
-      "date": "2026-08-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-secretaire-detat-van-koeverden-celebre-les-inoubliables-jeux-dete-dolympiques-speciaux-canada-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada célèbre la clôture des Jeux d'été d'Olympiques spéciaux 2026",
-      "sum": "Le gouvernement du Canada marque la fin des Jeux d'été d'Olympiques spéciaux Canada 2026 à Medicine Hat, en Alberta. Plus de 1 700 athlètes en provenance de partout au pays ont participé à des compétitions dans 10 sports différents.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "51d76cee37938e64",
-      "date": "2026-08-15",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2VPampXaDFhZEdmZmIxaUpHQlFwd3dNZlhCZkFjODFlM3RGZUhrQUx0OXltdlNKenF6X3k1bXdPbFJqMW9SYkozeVQwelZPZmFLTzQ0QWl3RG5SeFkzeUROeTFzREJnLVI2cFRqWVhaY3Z5Z1JfUVo2Y01iYVdNbEJ2QXNNOTVtWkk5UGZWbXkyRFg4TzRYdW5pVFpMbC03cVZ6WWFyaUFEbXpHa2tGSThzZk82YngwOThxRlFB?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Ottawa rate complètement sa cible d’installation de bornes pour voitures électriques - ledevoir.com",
-      "excerpt": "Ottawa rate complètement sa cible d’installation de bornes pour voitures électriques ledevoir.com",
-      "cat": "Economy"
-    },
-    {
-      "id": "e68d23068dad31a5",
-      "date": "2026-08-14",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUmp3MWJXdU1wLUFtVVJKb3dZU0IxbTE2UXdZQ2QxYWZGMW5LV0JYTFZyTjl2YTZXNUQ2ZHJkT19jQ09HZGdDOFdGTHYtZUY0UFppTFlaZXFYOW5KZkZqSjZILXBwanpXVXNaYlhNVjc0a3RSRnJOWEJEeV9YUmZzVURWcldwMnJ2cW5pTHExeC1WSGdZ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Inside the agency advancing Carney’s major projects agenda - The Globe and Mail",
-      "excerpt": "Inside the agency advancing Carney’s major projects agenda The Globe and Mail",
-      "cat": "Innovation, science & industry"
-    },
-    {
-      "id": "bc8ad8ee13f4dd21",
-      "date": "2026-08-14",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORlo0TW90MEh2VGRTWmVKMFBscWVLM3VmWnNiQXpFSGZTcmhTUUR1UHdaWUI2VG1BNk96S0pyTnhYb0NiV0R0N1o5N0toMXF0TkFzbC1vNllmUUZtQWQ5S0trYXlTd3NOd21uT0hNdjJ3SDVnaklmS2xmdlh3RXZGa21vYXpCY1ZSbVB4VUVUU1FTMDBHT0E?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "A Wildfire Memo to Mark Carney: We Need New Water Bombers Now - Policy Magazine",
-      "excerpt": "A Wildfire Memo to Mark Carney: We Need New Water Bombers Now Policy Magazine",
-      "cat": "Economy"
     }
   ]
 }
