@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T03:33:56.008Z",
+  "generatedAt": "2026-09-04T10:54:14.025Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "8c350a344a873848",
+      "date": "2026-09-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZFNaRVhoNWE3RlpEa2VZYjNxQUJsU2Q5YTZsRmZGTWxGLXJ6YVVUa0hKeDJMRDNsWl9sU3lwYllCNlVMVFVhZlVfR0lOYV9GelRMeGMtOUhMM1FjT3hwMTRWbklFaXAzM3I4YUJFZHNEcmhDSS0zTTVlT1dibDZiYlFmQWs1eXVseVVOeS02QmFacTFhMGY5bnFaamVpRHIzSk9GMHFuYklGdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal court orders Carney government to release more Nazi war criminal documents - The Canadian Jewish News",
+      "excerpt": "Federal court orders Carney government to release more Nazi war criminal documents The Canadian Jewish News",
+      "cat": "Justice"
+    },
+    {
+      "id": "2080e7d7e821224b",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejlJQkEwaTdzbHhHbFZKeDN6YUotQ05DSWpNTWlLSlQtcW9vaVhENkdselB3VjNnb01QRTdVWWJmRFAxSVlZMkVHM2RweW5LdWd4UDNWSC1LcVpfNjJXMTJ5cHpSOF9mdFlSZndtLTd4TjBBamZSb3Ftb29kRGJJMHE2ZkZaeGwxdzB6UGNhY3RYdDhFekZkNmNaVGVrbmlNMXJsRVl0OA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa spending $4.7B on new made-in-Canada Via Rail passenger cars - Canada's National Observer",
+      "excerpt": "Ottawa spending $4.7B on new made-in-Canada Via Rail passenger cars Canada's National Observer",
+      "cat": "Transportation"
+    },
     {
       "id": "3a82efc571d945f3",
       "date": "2026-09-03",
@@ -79508,6 +79532,18 @@
       "sum": "Le ministre Champagne annonce un investissement du Fonds de croissance du Canada dans la construction de la mine Matawinie exploitée par Nouveau Monde Graphite. Le gouvernement considère l'exploitation et le raffinage du graphite comme essentiels pour l'économie canadienne et les secteurs stratégiques.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "1e80536a2c11b0c7",
+      "date": "2026-04-08",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUkpHb2JnNHg4WmVhTHp5Z3Frc0pkZ2dLbjNUNjhmQ1JqRjBhWi1rNVRmVWpIN3UyR19DYmdRWkloQXhCazF5SHY4SG1qX2JpaVA2b3RBVXdOWEtEbmw1Szh6dGdEQzB6ckRSUkZtSkRkLUxlRlpFRmVEbHBUX1Nza3VqQzd3dlk5N2R1Y2VjSEc5QXZ2X054a1lCT0xaWnoxMS1oaDhlcjFPdE84RGdKMkRWTlVvRk5rV2NyMzhvbzhvMXk1bUcyUzFFLV9yZWVJemlLeDJSUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Politique fédérale | Une cinquième députée de l’opposition passe chez les libéraux - La Presse",
+      "excerpt": "Politique fédérale | Une cinquième députée de l’opposition passe chez les libéraux La Presse",
+      "cat": "Economy"
     },
     {
       "id": "54c3856afa0a21ef",
@@ -193783,45 +193819,6 @@
       "lang": "en",
       "title": "Canada to brief media on election security threats",
       "sum": "Government representatives from the Security and Intelligence Threats to Elections Task Force will hold a technical briefing for media. The briefing will provide an update on election-related security and intelligence matters.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "2ae0fb2dd8925080",
-      "date": "2025-03-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/conseil-prive/nouvelles/2025/03/le-gouvernement-du-canada-fera-le-point-sur-lelection-generale.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada fait le point sur la sécurité électorale",
-      "sum": "Des représentants du gouvernement du Canada tiendront une séance d'information technique pour les médias sur les menaces en matière de sécurité et de renseignements concernant les élections.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "6b0699e7fe656b97",
-      "date": "2025-03-28",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2025/03/competition-bureau-announces-adjustment-to-merger-review-filing-fee-effective-april-1-2025.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Competition Bureau adjusts merger review filing fee",
-      "sum": "The Competition Bureau has announced a change to the filing fee for merger reviews, effective April 1, 2025. The adjustment applies to companies submitting merger notifications for regulatory review.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "4651179229bd98a5",
-      "date": "2025-03-28",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/03/end-of-lockdown-and-search-at-mountain-institution.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Lockdown and search concluded at Mountain Institution",
-      "sum": "A lockdown and search operation at Mountain Institution has ended. Mountain Institution is a federal penitentiary located in Agassiz, British Columbia.",
       "cat": "Public safety",
       "ai": true
     }

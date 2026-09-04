@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T03:33:56.008Z",
+  "generatedAt": "2026-09-04T10:54:14.025Z",
   "count": 800,
   "totals": {
     "en": {
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "8c350a344a873848",
+      "date": "2026-09-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZFNaRVhoNWE3RlpEa2VZYjNxQUJsU2Q5YTZsRmZGTWxGLXJ6YVVUa0hKeDJMRDNsWl9sU3lwYllCNlVMVFVhZlVfR0lOYV9GelRMeGMtOUhMM1FjT3hwMTRWbklFaXAzM3I4YUJFZHNEcmhDSS0zTTVlT1dibDZiYlFmQWs1eXVseVVOeS02QmFacTFhMGY5bnFaamVpRHIzSk9GMHFuYklGdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal court orders Carney government to release more Nazi war criminal documents - The Canadian Jewish News",
+      "excerpt": "Federal court orders Carney government to release more Nazi war criminal documents The Canadian Jewish News",
+      "cat": "Justice"
+    },
+    {
+      "id": "2080e7d7e821224b",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejlJQkEwaTdzbHhHbFZKeDN6YUotQ05DSWpNTWlLSlQtcW9vaVhENkdselB3VjNnb01QRTdVWWJmRFAxSVlZMkVHM2RweW5LdWd4UDNWSC1LcVpfNjJXMTJ5cHpSOF9mdFlSZndtLTd4TjBBamZSb3Ftb29kRGJJMHE2ZkZaeGwxdzB6UGNhY3RYdDhFekZkNmNaVGVrbmlNMXJsRVl0OA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa spending $4.7B on new made-in-Canada Via Rail passenger cars - Canada's National Observer",
+      "excerpt": "Ottawa spending $4.7B on new made-in-Canada Via Rail passenger cars Canada's National Observer",
+      "cat": "Transportation"
+    },
     {
       "id": "3a82efc571d945f3",
       "date": "2026-09-03",
@@ -10240,31 +10264,6 @@
       "sum": "Des agriculteurs des comtés d'Inverness et de Victoria utilisent collectivement du matériel agricole depuis plus de 50 ans. Ce modèle permet aux agriculteurs d'accéder à l'équipement dont ils ont besoin sans devoir l'acheter individuellement.",
       "cat": "Economy",
       "ai": true
-    },
-    {
-      "id": "98c12bd46b0486e3",
-      "date": "2026-08-18",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/fednor/nouvelles/2026/08/le-gouvernement-du-canada-investit-plus-de-17-million-de-dollars-pour-ameliorer-le-developpement-economique-dans-la-region-de-parry-sound---muskoka0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 1,7 million pour développement économique Parry Sound-Muskoka",
-      "sum": "Le gouvernement du Canada annonce un investissement de 1 766 712 $ pour soutenir cinq projets de développement économique dans la région de Parry Sound-Muskoka. Le financement provient des programmes de développement régional de FedNor.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "b19ef8193b332ba2",
-      "date": "2026-08-18",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHhNMGZaY1VJamVDRnRadHVYVVJNLUJLaGg2aFZtWnhyVnRHekthTGk0MHNNVUs3NEJPNnExRXh4cUxHTjNCRFRhaDFSRjVoYlFpdnRKZXVMUjBBYkctQjdBNDN0Mk1QQlZJZ2gzRXI2N2p0bzVGZnpsQkZ2RmRSUkZRRVJXcXplakEyVVFGUkJtZ0J4NjFLeF9pR1RNTHd2dFlpQw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques - Radio-Canada",
-      "excerpt": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques Radio-Canada",
-      "cat": "Economy"
     }
   ]
 }
