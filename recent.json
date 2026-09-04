@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-03T20:40:07.498Z",
+  "generatedAt": "2026-09-04T03:33:56.008Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7811,
+      "actions": 7816,
       "sources": 9
     },
     "fr": {
-      "actions": 7189,
+      "actions": 7184,
       "sources": 7
     }
   },
@@ -44,6 +44,102 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "3a82efc571d945f3",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeUxjRWNXeDFvMWhobEJEd1d5SkJ4UWpyd1F6cHM0NERTV0VTOG4ycVEwcmZJeGtnWVBUZmMzd2NYbVY4UXZJMnkweDFybmYyOGd1TlRxTHFlLV9ici1OMGhEOHdyM1NieWxoZHNkWnhWeldqY1RyVUNJQ3JDRjcwdDVrME01NklXck8yUndGcUZ0UGtVVDlqOWtjcG96VEZneWEzRQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney launches Digital Transformation Canada to deliver better, faster, more reliable government services to Canadians - Yahoo Finance",
+      "excerpt": "Prime Minister Carney launches Digital Transformation Canada to deliver better, faster, more reliable government services to Canadians Yahoo Finance",
+      "cat": "Economy"
+    },
+    {
+      "id": "34db6d03fcb4492a",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2JrX01ITTFrZEI0QWlxZ2ZlRXFjUE52eVUtcTZMbmVLNWU3Vkt3Uk01Z0NzcGFOc1pYM1VMaFF4c0prRU02TUZSbGxvblQ2b2tTbnl2YjNmcEFUeVFtcDU3TU1ibzdaN2gwMW9NRHhxemFJWEFrUldGT1ZFSFZjYkg2a2k?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney dismisses 'unelected' Trump officials' explanation for why trade talks fell apart - CBC",
+      "excerpt": "Carney dismisses 'unelected' Trump officials' explanation for why trade talks fell apart CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "54a85530de5aab83",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51aWNwbmprTDZiR1N4RXBJWE1raWpWOTN6RXZqMmotejVERWc0UmZUUkQzbDRkTjZ2SnhXQkRIbXpXWU0tMkhuSk14bHBITVNWSVhWQ253UV9LTjByZ04zV1JxUFZIZzU2NUFtd0xuVjN4Uk9xN05mVzJ1WHg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "VIA Rail cars to be made in Canada for 1st time in 40 years, Carney says - Global News",
+      "excerpt": "VIA Rail cars to be made in Canada for 1st time in 40 years, Carney says Global News",
+      "cat": "Transportation"
+    },
+    {
+      "id": "8454b584de36c5f8",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzBma1d6dEQzZjRfNURxWUNkZGZjZFpfdXpIbzU1VEZVOUlscUxmWTc5NlVjZjRUMG50M0gwbHBfUzRBWGI0Z0c1dkVsMmRpc1owb3hkZEVMdVdDTWJrZTZpZlpYSm5UYmp0eFRTUlR5aldzdVgwdkk2SkwwZVhFRVhUVGFHRGtLOG5weXp1bGxhdFNGLWk4QVBwek10cjN2aVE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Everything we know about Carney’s investment summit - theglobeandmail.com",
+      "excerpt": "Everything we know about Carney’s investment summit theglobeandmail.com",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "91c2d3c3b0c8febb",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjdFZTFLcFpTc2V0bGhvMzdYUURJZ3daTEFmNVRQU0sxYlFCZ3N6TzktTU5SdUxzVzdJOUp1XzFYdVdvOG9qeXZoVk11dmtYRVZhUWVJQUtGaVZ6eTR5cU5GLWlkTGpkTFoyQmo3UWFfek1GSVJGY09DelM0T0tnLUNsb1U3ejZ3Q2dTMWN4VWYxRjRoNVhmQTd0SUt6TWVoTkJvMlpKd3Qwc2JuTDhPSktFZXY?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa spending $4.7B on new made-in-Canada Via Rail passenger cars - CTV News",
+      "excerpt": "Ottawa spending $4.7B on new made-in-Canada Via Rail passenger cars CTV News",
+      "cat": "Transportation"
+    },
+    {
+      "id": "780dc036232a41c8",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGZwSDFJODRtMWl0dzUyR2d4Vk9uTnV4NDN4TlZVcHBJR3pBZEZ5M29TbGMwQnNza25iM1RrYW5YTGZKaGZHaThaM29sR25mNGtBaFRIYldVei1VNzhicDJza05CVWpYQThCal9KbG9QcmU0d1NWb0ZDU21LdDkySGNLaUNHV2hQYng0NmdMelZ0TGpZaTZuNFR4WXJnRWs1UWo4X0xB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney chooses senior bureaucrat Scott Jones to head cyberspy agency - Kelowna Courier",
+      "excerpt": "Carney chooses senior bureaucrat Scott Jones to head cyberspy agency Kelowna Courier",
+      "cat": "Economy"
+    },
+    {
+      "id": "0614691c0089b651",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFpUTUNhUnA4Ym1PNlhfT0JHLXdWQklSWkkzZjlPanVTQVdmZkVLelRkQzBwTWV0ejlqRUtzdlZ0TlVMTG5telIya1ZXekNIVUh5Z0I3aVBmVXN6djgtWGNyNXBjVmlHQjdiMWhvYVU5a0dZQWRCYUx6VXFEeE1hUldRVnV2bkEwMEpNREZETURMQ0lNUEM2SVdDaUo?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal government launches digital transformation agency to modernize federal services - CBC",
+      "excerpt": "Federal government launches digital transformation agency to modernize federal services CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "b1014f1668865e57",
+      "date": "2026-09-03",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03ODFYRWRra1JDeWNrZDMxNDY3ZWFrRTI4Y3ltUzRMd0E0Sk01MGtIcEkwd0wtY2tqWDFTOXVLQnlhX054cmYxbl8wQlJoRHRwUG45SGxPaUVVNW5iUVE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney lance Transformation numérique Canada pour offrir aux Canadiennes et aux Canadiens des services publics plus rapides, plus fiables et de meilleure qualité - Lelezard",
+      "excerpt": "Le premier ministre Carney lance Transformation numérique Canada pour offrir aux Canadiennes et aux Canadiens des services publics plus rapides, plus fiables et de meilleure qualité Lelezard",
+      "cat": "Intergovernmental affairs"
+    },
     {
       "id": "2b1ebf8c46595ed6",
       "date": "2026-09-03",
@@ -2333,6 +2429,18 @@
       "cat": "Justice"
     },
     {
+      "id": "2fe5f07a4205d597",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOEljMy12b0VtbUh5ekNCQW5kU2lzNERxbl80MGlpRldpY2lINjZHY0VybVZjZE55WE5BSXl2UUlWRmFYMm9hQXFCSVk2RFhZeXRxSU9sdkdtSnZYaFhEazhEcG8xMTNyZ3gzUjB1S3dnWno4LXZMY2w1c0RBVy1WY0R3ckhOVWFVYTJKaUFkbEgyWk1BdngxckNGQk5BTG5yUHZrX1FEYVZJTVlZeTRJV0ZNQ2N1aFZwRjdHY1dhdWk2LWZFVTRMaw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government asks court to quash lawsuit over projected missed emission targets - CP24",
+      "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets CP24",
+      "cat": "Justice"
+    },
+    {
       "id": "78a69686ee601045",
       "date": "2026-08-31",
       "src": "Canadian politics (via Google News)",
@@ -3183,6 +3291,18 @@
       "title": "Carney government asks court to strike down climate litigation - CBC",
       "excerpt": "Carney government asks court to strike down climate litigation CBC",
       "cat": "Justice"
+    },
+    {
+      "id": "9b67f80e8b926eb5",
+      "date": "2026-08-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE0tQUR0VGlPNDVzUDZRWHg2dmdaODNxam4yN2cyWlNXTGxLQklYMFhFc3ZtRlBpenJjQUl2d3RqM3EyeWU2bmZMT29OZ2dWUlRva01Fck5uaEpvQjI5SXQ4N3RtbGxrd21FU2VFcEpYRTVzUmlFaktIcUtVS0N0dFVnOENYLV9xX3hyaVZLT09qWk9oZVFwbHBpU0h4UUZyNVIyTXg1aFZxRVpJR2VhNXZvS0l6cmtfVUp1VUdxVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney challenges Trump’s order to rename Lake Ontario to ‘Lake America’ - BNN Bloomberg",
+      "excerpt": "PM Carney challenges Trump’s order to rename Lake Ontario to ‘Lake America’ BNN Bloomberg",
+      "cat": "Economy"
     },
     {
       "id": "8d95c92f682745e8",
@@ -8545,6 +8665,18 @@
       "ai": true
     },
     {
+      "id": "87da88bbd0ae52b0",
+      "date": "2026-08-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVDI2WUlyVm5BMGxmUGpWaHlLTFA0Q0kwdVp1T1YycVlXU1lyRlBaMnQ3ZXM0UDBNVEVaNHRJWEVSTk5ISFBYaFItY0doVVYxZUFoa25EY0htZjh3MEZCRUN5SlIwVWEzUTNweXZWNEJEdnV5MXhmY3VFZnA4Yk52cDhnanplalFBNEl6aFgydC02X0k2S2I4NlFqdzdrdDhXVnIxbHNGNmxLMjBhQjBTdW1aeEoxOVFtdVRvZHNmWllRSkRVNlcydXVTS2pOVk9haGFzNGZR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney asks premiers to remove U.S. booze ban as officials try to finalize trade deal - CTV News",
+      "excerpt": "PM Carney asks premiers to remove U.S. booze ban as officials try to finalize trade deal CTV News",
+      "cat": "Economy"
+    },
+    {
       "id": "9e634b794e9d52bf",
       "date": "2026-08-20",
       "src": "Canadian politics (via Google News)",
@@ -10133,144 +10265,6 @@
       "title": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques - Radio-Canada",
       "excerpt": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques Radio-Canada",
       "cat": "Economy"
-    },
-    {
-      "id": "50c3e687629625fd",
-      "date": "2026-08-17",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelJTMkx3azBKbFNubm5qVGlMVEpHYjlzLWZnSVVSZk52d1BaYnh6MkpWejJmcmZUcG1iUmRUZGdGUGdsN182UUFVNUIyTzJEckFOMmsxYzJoZXBiN3owWHhBZ2ZsWGpzc0l4dTQ3QS13YlJWOW9GWkJEOERqMXRoVUZwU2N2TW00aFNSU0dfajFKdG43dW9jcmJZZnl5UmNCWUUtRC1HYnhmZDVLV2hYY2cxamo4U1Q1S3BCSW9JVUw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Prime Minister Carney announces the largest clean energy investment in North American history - pm.gc.ca",
-      "excerpt": "Prime Minister Carney announces the largest clean energy investment in North American history pm.gc.ca",
-      "cat": "Natural resources"
-    },
-    {
-      "id": "e1b543340d31ef21",
-      "date": "2026-08-17",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGFNYTQzNlFiWlc5bXFtb3R0REZYVGxRZjJUOVZjTmFTMFdHN0kxbE12SkNrcE83VDJzeUlmVU44dFAwd0tDMHBZYllTeWJwRkF4WExOVG5KZUNBdHpaM1VFUkRmTjc0dkxpS0pEcTFhU3FaVU45U0lOV1RmTE1kQjFkZkIwWUZZOExDRTRBVHdtN2dJc0Z0aTBfRk5PSzNZNU40TTJCbE1BLUpYYmt5TkxSaXhHVEtjb19oTEgyeEI?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Le premier ministre Carney annonce le plus vaste investissement dans l’énergie propre de l’histoire de l’Amérique du Nord - pm.gc.ca",
-      "excerpt": "Le premier ministre Carney annonce le plus vaste investissement dans l’énergie propre de l’histoire de l’Amérique du Nord pm.gc.ca",
-      "cat": "Intergovernmental affairs"
-    },
-    {
-      "id": "f9e295f26b2359db",
-      "date": "2026-08-17",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNTk5Z25zOVpEMm51bHZVWEdfZnRka05mRDkydzg1U1hoakNsT2xTMC1qX3Q0RFBtRXNleHRHcU9KODNTRGw2QWJzV3dDVGxYb2dSWTdkUG93bEJDRzFDZmRpME1QLXRPWUlDbEUxRkNGVzhtRzZHSklhdEZReXh5TTc5a0wtbno5aEI3aHo2RURyNkxKSWhwY01HS0ZaTlhVM3I2blJqOFppMlZQTHJwTVZTc0NKaGItZFN4NTZWbXdqUU5kUVdqaFlocGk4bVg2WkRBZWUzVkVDSWFmQmVTdFFabnQ1QUJCS3poWHFpVjZ1RDlmMUQ2SHM4LWRjUWFHaDJhbTItbw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Petition to expel Donald Trump’s ambassador to Canada gets more than 200,000 signatures - Toronto Star",
-      "excerpt": "Petition to expel Donald Trump’s ambassador to Canada gets more than 200,000 signatures Toronto Star",
-      "cat": "Economy"
-    },
-    {
-      "id": "3ad632dbb07aacf8",
-      "date": "2026-08-17",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdzY4SEhSZFNfekFzLU9xYThTbzdkaEZ6MUZKSUtJSERtTVRXQ0s1MVRtbDlvR2t5QzhVanBOUVc3RUFCQ0RzUVF6bnNyNHlwRWxzdW5QeUdYZzNPNzZSekszZG1yYklFYjJTQ2dPQzliYU9ONXVEVUhfb2sxNmVEUjQyVmF3VDBvekVBRWg2ekVEWTBuRk5mLU1iUG5QZWF1LWc?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Quebec and Newfoundland and Labrador reach tentative energy agreement worth billions - CTV News",
-      "excerpt": "Quebec and Newfoundland and Labrador reach tentative energy agreement worth billions CTV News",
-      "cat": "Natural resources"
-    },
-    {
-      "id": "c05ee4779b36a00c",
-      "date": "2026-08-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-coast-guard/news/2026/08/canadas-largest-icebreaker-reaches-the-north-pole.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada's largest icebreaker reaches North Pole",
-      "sum": "The CCGS Louis S. St-Laurent, Canada's largest icebreaker, reached the North Pole on August 16 as part of a 2026 Arctic deployment.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "bf2a09f46a901a69",
-      "date": "2026-08-17",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/garde-cotiere-canadienne/nouvelles/2026/08/le-plus-gros-brise-glace-du-canada-atteint-le-pole-nord.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le brise-glace canadien Louis S. St-Laurent atteint le pôle Nord",
-      "sum": "Le NGCC Louis S. St-Laurent, le plus grand brise-glace du Canada, a atteint le pôle Nord le 16 août 2026 lors d'un déploiement dans l'Arctique. Ce navire de la Garde côtière canadienne est le plus puissant de sa catégorie au pays.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "a451d5af2b306394",
-      "date": "2026-08-17",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWtQWkUwYTVUejNUYzVJcUtKbm5TR1p0bEpFUHlCNVRNcVhlbmMwWGFwcjFybERtb0ViaDY4c0VtMU1TX0hWU3ZfME83bE1QRDdrUktXN1doMzNteE5WTC1VODd6TkNyN2RIbmFaeThldlJpNkZPV2RsY3Mzc1FrUi1KejgxeU5zaGFvamM0Q0R3NDJoWWZHWWpOZlBwNlpaOFBLbWZPZ3BaWWd5MjBDSlBYd3lUVDltMXJfdHVYZw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "N.L., Quebec announce new Churchill Falls agreement worth billions — with help from Ottawa - CBC",
-      "excerpt": "N.L., Quebec announce new Churchill Falls agreement worth billions — with help from Ottawa CBC",
-      "cat": "Economy"
-    },
-    {
-      "id": "e7d46602eef7ed2a",
-      "date": "2026-08-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/federal-government-strengthens-support-for-municipalities-in-ontario-to-tackle-unsheltered-homelessness-and-encampments.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government increases homelessness support funding for Ontario municipalities",
-      "sum": "The federal government is providing additional support to Ontario municipalities to address unsheltered homelessness and encampments. The initiative aims to expand affordable housing and supportive services for people experiencing homelessness.",
-      "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "db24a49164b0e4e6",
-      "date": "2026-08-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/agriculture-agri-food/news/2026/08/minister-macdonald-concludes-successful-visit-to-the-iowa-state-fair.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister MacDonald visits Iowa State Fair with US Ambassador",
-      "sum": "Minister of Agriculture and Agri-Food Heath MacDonald attended the Iowa State Fair with Canada's Ambassador to the United States to meet with government officials and agriculture leaders.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "371309db4985507c",
-      "date": "2026-08-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/transport-canada/news/2026/08/government-of-canada-invests-32-million-in-eastern-canada-ferry-infrastructure-to-support-connectivity.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests $32 million in Eastern Canada ferry infrastructure",
-      "sum": "Transport Canada awarded a $32-million contract to Dexter Construction to replace the movable transfer bridge at the Souris ferry terminal on Prince Edward Island. The investment is intended to support connectivity in Eastern Canada.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "f6c77d1d56bfe151",
-      "date": "2026-08-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/nuclear-safety-commission/news/2026/08/commission-amends-the-licensing-basis-for-bruce-powers-bruce-a-and-b-nuclear-generating-stations.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Nuclear commission amends Bruce Power station licensing basis",
-      "sum": "The Canadian Nuclear Safety Commission updated the licensing requirements for Bruce Power's nuclear generating stations to permit lutetium-177 production. Lutetium-177 is a medical isotope used in nuclear medicine.",
-      "cat": "National defence",
-      "ai": true
     }
   ]
 }

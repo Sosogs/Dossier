@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T20:40:07.498Z",
+  "generatedAt": "2026-09-04T03:33:56.008Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,102 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "3a82efc571d945f3",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeUxjRWNXeDFvMWhobEJEd1d5SkJ4UWpyd1F6cHM0NERTV0VTOG4ycVEwcmZJeGtnWVBUZmMzd2NYbVY4UXZJMnkweDFybmYyOGd1TlRxTHFlLV9ici1OMGhEOHdyM1NieWxoZHNkWnhWeldqY1RyVUNJQ3JDRjcwdDVrME01NklXck8yUndGcUZ0UGtVVDlqOWtjcG96VEZneWEzRQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney launches Digital Transformation Canada to deliver better, faster, more reliable government services to Canadians - Yahoo Finance",
+      "excerpt": "Prime Minister Carney launches Digital Transformation Canada to deliver better, faster, more reliable government services to Canadians Yahoo Finance",
+      "cat": "Economy"
+    },
+    {
+      "id": "34db6d03fcb4492a",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2JrX01ITTFrZEI0QWlxZ2ZlRXFjUE52eVUtcTZMbmVLNWU3Vkt3Uk01Z0NzcGFOc1pYM1VMaFF4c0prRU02TUZSbGxvblQ2b2tTbnl2YjNmcEFUeVFtcDU3TU1ibzdaN2gwMW9NRHhxemFJWEFrUldGT1ZFSFZjYkg2a2k?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney dismisses 'unelected' Trump officials' explanation for why trade talks fell apart - CBC",
+      "excerpt": "Carney dismisses 'unelected' Trump officials' explanation for why trade talks fell apart CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "54a85530de5aab83",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51aWNwbmprTDZiR1N4RXBJWE1raWpWOTN6RXZqMmotejVERWc0UmZUUkQzbDRkTjZ2SnhXQkRIbXpXWU0tMkhuSk14bHBITVNWSVhWQ253UV9LTjByZ04zV1JxUFZIZzU2NUFtd0xuVjN4Uk9xN05mVzJ1WHg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "VIA Rail cars to be made in Canada for 1st time in 40 years, Carney says - Global News",
+      "excerpt": "VIA Rail cars to be made in Canada for 1st time in 40 years, Carney says Global News",
+      "cat": "Transportation"
+    },
+    {
+      "id": "8454b584de36c5f8",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzBma1d6dEQzZjRfNURxWUNkZGZjZFpfdXpIbzU1VEZVOUlscUxmWTc5NlVjZjRUMG50M0gwbHBfUzRBWGI0Z0c1dkVsMmRpc1owb3hkZEVMdVdDTWJrZTZpZlpYSm5UYmp0eFRTUlR5aldzdVgwdkk2SkwwZVhFRVhUVGFHRGtLOG5weXp1bGxhdFNGLWk4QVBwek10cjN2aVE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Everything we know about Carney’s investment summit - theglobeandmail.com",
+      "excerpt": "Everything we know about Carney’s investment summit theglobeandmail.com",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "91c2d3c3b0c8febb",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjdFZTFLcFpTc2V0bGhvMzdYUURJZ3daTEFmNVRQU0sxYlFCZ3N6TzktTU5SdUxzVzdJOUp1XzFYdVdvOG9qeXZoVk11dmtYRVZhUWVJQUtGaVZ6eTR5cU5GLWlkTGpkTFoyQmo3UWFfek1GSVJGY09DelM0T0tnLUNsb1U3ejZ3Q2dTMWN4VWYxRjRoNVhmQTd0SUt6TWVoTkJvMlpKd3Qwc2JuTDhPSktFZXY?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa spending $4.7B on new made-in-Canada Via Rail passenger cars - CTV News",
+      "excerpt": "Ottawa spending $4.7B on new made-in-Canada Via Rail passenger cars CTV News",
+      "cat": "Transportation"
+    },
+    {
+      "id": "780dc036232a41c8",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGZwSDFJODRtMWl0dzUyR2d4Vk9uTnV4NDN4TlZVcHBJR3pBZEZ5M29TbGMwQnNza25iM1RrYW5YTGZKaGZHaThaM29sR25mNGtBaFRIYldVei1VNzhicDJza05CVWpYQThCal9KbG9QcmU0d1NWb0ZDU21LdDkySGNLaUNHV2hQYng0NmdMelZ0TGpZaTZuNFR4WXJnRWs1UWo4X0xB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney chooses senior bureaucrat Scott Jones to head cyberspy agency - Kelowna Courier",
+      "excerpt": "Carney chooses senior bureaucrat Scott Jones to head cyberspy agency Kelowna Courier",
+      "cat": "Economy"
+    },
+    {
+      "id": "0614691c0089b651",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFpUTUNhUnA4Ym1PNlhfT0JHLXdWQklSWkkzZjlPanVTQVdmZkVLelRkQzBwTWV0ejlqRUtzdlZ0TlVMTG5telIya1ZXekNIVUh5Z0I3aVBmVXN6djgtWGNyNXBjVmlHQjdiMWhvYVU5a0dZQWRCYUx6VXFEeE1hUldRVnV2bkEwMEpNREZETURMQ0lNUEM2SVdDaUo?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal government launches digital transformation agency to modernize federal services - CBC",
+      "excerpt": "Federal government launches digital transformation agency to modernize federal services CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "b1014f1668865e57",
+      "date": "2026-09-03",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03ODFYRWRra1JDeWNrZDMxNDY3ZWFrRTI4Y3ltUzRMd0E0Sk01MGtIcEkwd0wtY2tqWDFTOXVLQnlhX054cmYxbl8wQlJoRHRwUG45SGxPaUVVNW5iUVE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney lance Transformation numérique Canada pour offrir aux Canadiennes et aux Canadiens des services publics plus rapides, plus fiables et de meilleure qualité - Lelezard",
+      "excerpt": "Le premier ministre Carney lance Transformation numérique Canada pour offrir aux Canadiennes et aux Canadiens des services publics plus rapides, plus fiables et de meilleure qualité Lelezard",
+      "cat": "Intergovernmental affairs"
+    },
     {
       "id": "2b1ebf8c46595ed6",
       "date": "2026-09-03",
@@ -2323,6 +2419,18 @@
       "cat": "Justice"
     },
     {
+      "id": "2fe5f07a4205d597",
+      "date": "2026-08-31",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOEljMy12b0VtbUh5ekNCQW5kU2lzNERxbl80MGlpRldpY2lINjZHY0VybVZjZE55WE5BSXl2UUlWRmFYMm9hQXFCSVk2RFhZeXRxSU9sdkdtSnZYaFhEazhEcG8xMTNyZ3gzUjB1S3dnWno4LXZMY2w1c0RBVy1WY0R3ckhOVWFVYTJKaUFkbEgyWk1BdngxckNGQk5BTG5yUHZrX1FEYVZJTVlZeTRJV0ZNQ2N1aFZwRjdHY1dhdWk2LWZFVTRMaw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government asks court to quash lawsuit over projected missed emission targets - CP24",
+      "excerpt": "Carney government asks court to quash lawsuit over projected missed emission targets CP24",
+      "cat": "Justice"
+    },
+    {
       "id": "78a69686ee601045",
       "date": "2026-08-31",
       "src": "Canadian politics (via Google News)",
@@ -3173,6 +3281,18 @@
       "title": "Carney government asks court to strike down climate litigation - CBC",
       "excerpt": "Carney government asks court to strike down climate litigation CBC",
       "cat": "Justice"
+    },
+    {
+      "id": "9b67f80e8b926eb5",
+      "date": "2026-08-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE0tQUR0VGlPNDVzUDZRWHg2dmdaODNxam4yN2cyWlNXTGxLQklYMFhFc3ZtRlBpenJjQUl2d3RqM3EyeWU2bmZMT29OZ2dWUlRva01Fck5uaEpvQjI5SXQ4N3RtbGxrd21FU2VFcEpYRTVzUmlFaktIcUtVS0N0dFVnOENYLV9xX3hyaVZLT09qWk9oZVFwbHBpU0h4UUZyNVIyTXg1aFZxRVpJR2VhNXZvS0l6cmtfVUp1VUdxVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney challenges Trump’s order to rename Lake Ontario to ‘Lake America’ - BNN Bloomberg",
+      "excerpt": "PM Carney challenges Trump’s order to rename Lake Ontario to ‘Lake America’ BNN Bloomberg",
+      "cat": "Economy"
     },
     {
       "id": "8d95c92f682745e8",
@@ -8533,6 +8653,18 @@
       "sum": "Le président du Conseil du Trésor a annoncé que le Canada s'engage à respecter la Déclaration de Belém sur les marchés publics durables. Cette déclaration établit des principes pour intégrer la durabilité dans les processus d'approvisionnement gouvernementaux.",
       "cat": "Sustainable development",
       "ai": true
+    },
+    {
+      "id": "87da88bbd0ae52b0",
+      "date": "2026-08-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVDI2WUlyVm5BMGxmUGpWaHlLTFA0Q0kwdVp1T1YycVlXU1lyRlBaMnQ3ZXM0UDBNVEVaNHRJWEVSTk5ISFBYaFItY0doVVYxZUFoa25EY0htZjh3MEZCRUN5SlIwVWEzUTNweXZWNEJEdnV5MXhmY3VFZnA4Yk52cDhnanplalFBNEl6aFgydC02X0k2S2I4NlFqdzdrdDhXVnIxbHNGNmxLMjBhQjBTdW1aeEoxOVFtdVRvZHNmWllRSkRVNlcydXVTS2pOVk9haGFzNGZR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney asks premiers to remove U.S. booze ban as officials try to finalize trade deal - CTV News",
+      "excerpt": "PM Carney asks premiers to remove U.S. booze ban as officials try to finalize trade deal CTV News",
+      "cat": "Economy"
     },
     {
       "id": "9e634b794e9d52bf",
@@ -17844,6 +17976,18 @@
       "cat": "Transportation",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "cb49ebcfb9d49147",
+      "date": "2026-07-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzBaZm5NRW9qaVFaYWphREZ5NHJxQTFfV2FzY2doWVYtYi1zZndGUEhvbHFEaDNkelR0NzZIaDRkMXA1NHExbWNUUGNBdWl3UlJOZ1d2YkxVbEVJRGxJS1REbjBRVjg2WXJCMUFYaU9XcFM4WjdfTDlQVlNfVEVhbzRibGxqeEp0M3FIZXdsb3B1dE1ya0RPY0N0ZDhEdm1jNlFUSTVlbkduNDhw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney says government has ‘taken back control’ of immigration - CP24",
+      "excerpt": "PM Carney says government has ‘taken back control’ of immigration CP24",
+      "cat": "Economy"
     },
     {
       "id": "ac8f43782cbfb28f",
@@ -49824,6 +49968,18 @@
       "lang": "en"
     },
     {
+      "id": "0795b886a0fb895b",
+      "date": "2026-06-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdnBIdDVoRXZucVhVeENQZV9tZHZZakNlb0tlbThLMlAtOUloS2J5Q0dNajRLMGQ0cHlWSWxkSVFSUk5wVlpSc1RUbk1IQVU3YTJvTEZRLVJnOWh5SFUzc01heWo5N0xNR1lkVWJBaXhwN3h6Q19ISkkzdlJaX1pqaFlBdklMLURibmRxOTdrSm14ZURRSDVsZmxuMWJVNmJUQVZPZU9mRGFnSERQOWxRTTBhbnd5b01VWGVHdjdqVlNWV2RFSklTVVY3Z1poeFJpeFEtTDhB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal Government Announces AI Strategy – June 4, 2026 - CPAC",
+      "excerpt": "Federal Government Announces AI Strategy – June 4, 2026 CPAC",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "3a14acb681e68659",
       "date": "2026-06-04",
       "src": "Canadian politics (via Google News)",
@@ -58603,6 +58759,18 @@
       "cat": "Public safety",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "bfaa2dccc78f177f",
+      "date": "2026-05-19",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTVHaWo3RkoxaHl6dXV3M0NYSnM1aTRobWFmLXFYdmhCZkxXT3NFRk9IaW9jdnhIVzhkekZfODdRVFNzdmtHZFhJRXBCZE5oS0VJemJUdDFPWWh1ZXN5RHJ3UFNZdUVzZzdXc2VUMWtSbmtuWTVscU03VXZRU3BGNTRKSHd4R0dPbTNhU0ZDZGJzSDVXSUtNTFdGYy1kUVhoTmJr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le projet Nouveau Monde Graphite accéléré par le fédéral - Radio-Canada",
+      "excerpt": "Le projet Nouveau Monde Graphite accéléré par le fédéral Radio-Canada",
+      "cat": "Economy"
     },
     {
       "id": "c348183107a8a212",
@@ -76632,6 +76800,18 @@
       "cat": "Justice",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "471e8b9a721c0a53",
+      "date": "2026-04-15",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OWFg4T2RRWWVvOW9ubGQ2bWRRczgxOXNmVGpsVG1qX2NrR2FLS0dNeFBjMUtUb19nQ3hfR0lHQkVERHBhb0R0alZMcHRwMUdnbnE1ZXBGb3RGQXkwVFlRRHMzZEtUUHBQQ2Vsajh5Z3QzMFpRUWlvbkpPNA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Analyse Suspendre une taxe sur l’essence : solution facile? - Radio-Canada",
+      "excerpt": "Analyse Suspendre une taxe sur l’essence : solution facile? Radio-Canada",
+      "cat": "Finance"
     },
     {
       "id": "0f41785eb0bb0284",
@@ -193643,201 +193823,6 @@
       "title": "Lockdown and search concluded at Mountain Institution",
       "sum": "A lockdown and search operation at Mountain Institution has ended. Mountain Institution is a federal penitentiary located in Agassiz, British Columbia.",
       "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "b501d2a5c6da1653",
-      "date": "2025-03-28",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/privy-council/news/2025/03/statement-from-the-deputy-clerk-of-the-privy-council-and-national-security-and-intelligence-advisor-to-the-prime-minister0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada convenes G7 national security advisors meeting on Ukraine peace talks",
-      "sum": "Canada's Deputy Clerk of the Privy Council convened a second meeting of G7 national security advisors and Ukraine representatives to discuss ongoing peace negotiations regarding Russia's war in Ukraine.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "6600b05312aaace0",
-      "date": "2025-03-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/bureau-concurrence/nouvelles/2025/03/le-rajustement-du-frais-de-depot-du-bureau-de-la-concurrence-pour-les-examens-de-fusions-pour-2025-entrera-en-vigueur-le-1er-avril.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Bureau de la concurrence ajuste les frais de dépôt pour 2025",
-      "sum": "Le Bureau de la concurrence modifie les frais de dépôt pour les examens de fusions à compter du 1er avril 2025. Cette mesure s'applique aux demandes d'examen de fusions soumises à partir de cette date.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "70d0f94c7215fb76",
-      "date": "2025-03-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/03/fin-de-lisolement-cellulaire-et-de-la-fouille-a-letablissement-mountain.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Fin de l'isolement cellulaire à l'Établissement Mountain",
-      "sum": "L'isolement cellulaire et les fouilles ont été supprimés à l'Établissement Mountain. Cette mesure modifie les pratiques de gestion des détenus dans cet établissement correctionnel.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "4d1e88213520cc45",
-      "date": "2025-03-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/conseil-prive/nouvelles/2025/03/declaration-de-la-sous-greffiere-du-conseil-prive-et-conseillere-a-la-securite-nationale-et-au-renseignement-aupres-du-premier-ministre0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Réunion du G7 et de l'Ukraine sur les pourparlers de paix",
-      "sum": "La sous-greffière du Conseil privé a convoqué une deuxième réunion entre les conseillers à la sécurité nationale du G7 et l'Ukraine pour discuter de négociations de paix visant à mettre fin à la guerre de manière juste et durable.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "6744d9daf1451798",
-      "date": "2025-03-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2025/03/statement-from-minister-anandasangaree-to-ashlee-shingooses-family-and-community.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Missing person identified as Ashlee Shingoose of St. Theresa Point",
-      "sum": "The Winnipeg Police Service has confirmed the identity of a missing woman previously referred to as Mashkode Bizhiki'ikwe (Buffalo Woman) as Ashlee Shingoose from St. Theresa Point First Nation. Minister Anandasangaree released a statement addressing the family and community.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "c753faf41357b1cb",
-      "date": "2025-03-27",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/relations-couronne-autochtones-affaires-nord/nouvelles/2025/03/declaration-du-ministre-anandasangaree-a-la-famille-et-a-la-communaute-dashlee-shingoose.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Identification de la dépouille d'Ashlee Shingoose par la police de Winnipeg",
-      "sum": "Le service de police de Winnipeg a confirmé l'identité d'une femme disparue identifiée comme Ashlee Shingoose, membre de la St. Theresa Point First Nation, surnommée Mashkode Bizhiki'ikwe par sa communauté.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "5692773ef0e538f5",
-      "date": "2025-03-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/03/death-of-an-inmate-from-regional-reception-centre.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inmate death reported at Regional Reception Centre",
-      "sum": "An inmate at the Regional Reception Centre died on March 22, 2025, while in custody. The federal government has reported this incident.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "fcdc67a01467b46f",
-      "date": "2025-03-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/national-battlefields-commission/news/2025/03/summer-long-entertainment-on-the-plains.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "National Battlefields Commission announces summer concerts at bandstand",
-      "sum": "The National Battlefields Commission will present over 20 free music and family entertainment shows at the Edwin-Bélanger Bandstand on the Plains of Abraham from June to August 2025. Performances will take place on Thursdays and Saturdays.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "eb3d8e78f44a0850",
-      "date": "2025-03-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/03/death-of-an-inmate-from-millhaven-institutions-regional-treatment-centre1.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inmate dies at Millhaven Institution Regional Treatment Centre",
-      "sum": "An inmate at Millhaven Institution's Regional Treatment Centre died on March 21, 2025, while in custody. The death appeared to result from natural causes.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "2e5f7ec1181d88af",
-      "date": "2025-03-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/radio-television-telecommunications/news/2025/03/voter-contact-registry-now-open.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Voter Contact Registry established under Canada Elections Act",
-      "sum": "The Canadian Radio-television and Telecommunications Commission (CRTC) has established the Voter Contact Registry as required by the Canada Elections Act. The registry is designed to promote transparency regarding phone calls made to voters during federal elections.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "ef80191bba7461f7",
-      "date": "2025-03-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/border-services-agency/news/2025/03/commercial-importers-provided-30-day-extension-to-submit-financial-security-before-the-end-of-carm-transition-period.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Commercial importers get 30-day extension for financial security filing",
-      "sum": "Commercial importers have been granted an additional 30 days to submit required financial security before the CARM transition period ends. CARM refers to the Canada Border Services Agency's customs modernization system.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "e8960a36edaf67b1",
-      "date": "2025-03-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/03/deces-dun-detenu-du-centre-regional-de-reception.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Décès d'un détenu au Centre régional de réception",
-      "sum": "Un détenu du Centre régional de réception, Dominic Poirier, est décédé le 22 mars 2025 alors qu'il était sous la garde de l'établissement.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "2ab2ddd61acfcc74",
-      "date": "2025-03-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/commission-champs-bataille-nationaux/nouvelles/2025/03/les-plaines-animees-tout-lete.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Plus de 20 spectacles gratuits aux Plaines d'Abraham cet été",
-      "sum": "La Commission des champs de batailles nationaux organise une programmation estivale au kiosque Edwin-Bélanger des Plaines d'Abraham. Plus de 20 spectacles musicaux et animations familiales gratuits seront présentés les jeudis et samedis de juin à août 2025.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "13e9888b9e51c4a9",
-      "date": "2025-03-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/03/deces-dun-detenu-du-centre-regional-de-traitement-a-letablissement-de-millhaven1.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Décès d'un détenu à l'Établissement de Millhaven",
-      "sum": "Un détenu du Centre régional de traitement à l'Établissement de Millhaven est décédé le 21 mars 2025 de causes naturelles apparentes.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "477bb71a67057113",
-      "date": "2025-03-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/radiodiffusion-telecommunications/nouvelles/2025/03/linscription-au-registre-de-communication-avec-les-electeurs-est-en-cours.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Inscription au Registre de communication avec les électeurs",
-      "sum": "Le CRTC établit et maintient un registre des communications avec les électeurs pendant les élections fédérales, comme l'exige la Loi électorale du Canada. Ce registre vise à assurer la transparence des appels téléphoniques adressés aux électeurs.",
-      "cat": "Justice",
       "ai": true
     }
   ]
