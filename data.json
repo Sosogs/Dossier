@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:08:36.463Z",
+  "generatedAt": "2026-09-05T14:46:24.698Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -35,6 +35,30 @@
   ],
   "items": [
     {
+      "id": "b90dfba66c318426",
+      "date": "2026-09-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVWVrc3doc1VtOHpxV3cwMUsyUHZZeGhMUXZPWFlFM0h3SHJPRzkxVXRYelpzYXlTRjhJNlpUaVV4MGV5djRDTDFQTHhjYThYVXRpWHp6Tmt4blZXOVNTTDNTT1FhRmNKZ21JdUFlQkxtSDUxOXFEYWx6VFBWV0tjSXJwS1NCam01WGk3aU1kdl82d09FQ01BR3RtNkNfSDJqRmI4cVZTTDU3N2ZXejhuSXVhelkzSW1vX3c4WUcwbUtIQnRVRXAySEVDRTlzdm9JU1NUYkFidDdReUJMdFE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘If climate plan is credible, defend it’: Youth push back against Carney government’s bid to strike lawsuit - The Pointer",
+      "excerpt": "‘If climate plan is credible, defend it’: Youth push back against Carney government’s bid to strike lawsuit The Pointer",
+      "cat": "Justice"
+    },
+    {
+      "id": "ba699ca4571f5817",
+      "date": "2026-09-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR0p5RGlleGlJZ2NFMVlpblJmZHVhTEthaUMxLUY4X1RoUVRlVkxtN281MWhBb2RadXBVZ2ZYVGVybmx6V3A3WUxDcDlTWEVZcE1oXzk1d0tSWndsVU9aak94WE5JUEVHQmVieDNjYVN5aDZFdHNRek1RLVRPa0JFR0hSUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "'Canada has what the world wants' — Carney's $1-trillion pitch and the man he picked to sell it - Yahoo! Finance Canada",
+      "excerpt": "'Canada has what the world wants' — Carney's $1-trillion pitch and the man he picked to sell it Yahoo! Finance Canada",
+      "cat": "Economy"
+    },
+    {
       "id": "0ea4478b35cd0cad",
       "date": "2026-09-05",
       "src": "Canadian politics (via Google News)",
@@ -45,6 +69,18 @@
       "title": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species - CBC",
       "excerpt": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species CBC",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "bc0c0598b46979fa",
+      "date": "2026-09-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0Zoek1vdnlsNTVwSXgyd1dkMVA1SVFvblBpcEF0elBJbnBaWTFSZHFzR3JpcnVUNnMwWHM0UmNNTUUwZFotNGhkSzBYY0h5NUtYSWZYYXBhQ2VodkQ5b1h2UURxeThac0JyXzJRcWtGVUxKMW04Yy04ZGVUQllLVlcxVkpKZ0tyd2U2VWF6Nm9rVVpKR0hWUG5NWEVaVVcwS2YxbFZsSWUwQVU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ministers asked to prove progress ahead of cabinet retreat: sources - CTV News",
+      "excerpt": "Ministers asked to prove progress ahead of cabinet retreat: sources CTV News",
+      "cat": "Economy"
     },
     {
       "id": "fd1b7bb41a5ec62a",
@@ -193772,45 +193808,6 @@
       "title": "Inmate escapes from work release at Grierson Institution",
       "sum": "On April 11, 2025, inmate Jason Draude did not report to his assigned work location while on approved work release from Grierson Institution in Edmonton, Alberta. The escape has been documented in official records.",
       "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "8a26d35c8d238373",
-      "date": "2025-04-11",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/04/death-of-an-inmate-from-archambault-institution.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inmate dies at Archambault Institution",
-      "sum": "Guy Tousignant, an inmate at Archambault Institution, died on April 9, 2025, while in custody from apparent natural causes.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "9c6e45cc3c229025",
-      "date": "2025-04-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/bureau-concurrence/nouvelles/2025/03/le-bureau-de-la-concurrence-fait-progresser-une-enquete-sur-les-pratiques-commerciales-d-express-scripts-canada-dans-le-secteur-de-la-pharmacie.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Bureau de la concurrence enquête sur Express Scripts Canada",
-      "sum": "Le Bureau de la concurrence poursuit une enquête sur les pratiques commerciales d'Express Scripts Canada dans le secteur de la pharmacie. Cette enquête a été annoncée le 11 avril 2025.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "57e79035dd6c6fe1",
-      "date": "2025-04-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2025/04/pont-jetee-lasalle--fermetures-temporaires-pour-les-ouvertures-du-canal-de-navigation-maritime.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Fermeture temporaire du pont-jetée LaSalle pour navigation maritime",
-      "sum": "Services publics et Approvisionnement Canada annonce que le pont-jetée LaSalle sera complètement fermé aux véhicules, cyclistes et piétons pour permettre l'ouverture du canal de navigation maritime. Ces fermetures seront temporaires.",
-      "cat": "Transportation",
       "ai": true
     }
   ]
