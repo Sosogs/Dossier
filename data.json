@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T03:28:52.313Z",
+  "generatedAt": "2026-09-05T10:08:36.463Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "0ea4478b35cd0cad",
+      "date": "2026-09-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUhONmprQjlzZDJ0UVNZMUptUU43MGgzQzRSVkxaMnBrM3JQNlRVb3RNbGVCVWlDY1BBbXpBMzNvV0dJZUVMQkZrbkdPbVpmb2dVOF9GeUZYNTFOZUt6MnRFLUFJRmVtcXd3SzJZd2lYbUVKTHV4VVhuSkd3RUR4Rk5kRDBnM19tZDdqazNCSV80ODVVNnM5NWRxRWVEb2ZB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species - CBC",
+      "excerpt": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species CBC",
+      "cat": "Sustainable development"
+    },
     {
       "id": "fd1b7bb41a5ec62a",
       "date": "2026-09-04",
@@ -193799,19 +193811,6 @@
       "title": "Fermeture temporaire du pont-jetée LaSalle pour navigation maritime",
       "sum": "Services publics et Approvisionnement Canada annonce que le pont-jetée LaSalle sera complètement fermé aux véhicules, cyclistes et piétons pour permettre l'ouverture du canal de navigation maritime. Ces fermetures seront temporaires.",
       "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "17a8fbf9a5c72fbe",
-      "date": "2025-04-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/04/evasion-et-retour-dun-detenu-de-letablissement-de-grierson.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Détenu en fuite de l'établissement Grierson à Edmonton",
-      "sum": "Le 11 avril 2025, Jason Draude, un détenu de l'établissement Grierson à Edmonton, n'a pas respecté les conditions de son placement à l'extérieur approuvé. Le détenu s'est évadé de son lieu de travail.",
-      "cat": "Justice",
       "ai": true
     }
   ]
