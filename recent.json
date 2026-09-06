@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T15:06:10.929Z",
+  "generatedAt": "2026-09-06T20:07:15.440Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7822,
+      "actions": 7821,
       "sources": 9
     },
     "fr": {
-      "actions": 7178,
+      "actions": 7179,
       "sources": 7
     }
   },
@@ -44,6 +44,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "7aeab4be97822375",
+      "date": "2026-09-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/employment-social-development/news/2026/09/secretary-of-state-mclean-to-highlight-the-extension-of-the-federal-fuel-tax-relief-for-canadians.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal fuel tax relief extended for Canadian consumers",
+      "sum": "Secretary of State McLean will highlight an extension of the federal fuel tax relief program. The relief reduces fuel taxes for Canadian consumers.",
+      "cat": "Finance",
+      "ai": true
+    },
+    {
+      "id": "ed5c1f455045e507",
+      "date": "2026-09-06",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/09/la-secretaire-detat-mclean-soulignera-la-prolongation-de-lallegement-fiscal-federal-sur-les-carburants-pour-les-canadiens.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Prolongation de l'allégement fiscal fédéral sur les carburants",
+      "sum": "La secrétaire d'État McLean annonce la prolongation de la mesure fédérale de réduction fiscale sur les carburants pour les Canadiens.",
+      "cat": "Finance",
+      "ai": true
+    },
     {
       "id": "b90dfba66c318426",
       "date": "2026-09-05",
@@ -10237,30 +10263,6 @@
       "title": "Le NPD porte plainte contre l’« écoblanchiment » des publicités du gouvernement Carney - QUB radio",
       "excerpt": "Le NPD porte plainte contre l’« écoblanchiment » des publicités du gouvernement Carney QUB radio",
       "cat": "Innovation, science & industry"
-    },
-    {
-      "id": "47c5462d5387c6ea",
-      "date": "2026-08-19",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTRYd1FaRHloVlMzcV82ZXMydzRpTmdhQ1l3QlJBbDdmTlRDR3J6MmdiYnZ5XzViSE0ySW9hMjl5MmxKZkl5TFhWTFMyTmpUSjFWdVR3bjgxLVdET01na29HNC1uSVJxN2RDTVBFdnJUdklPQl9kQUZpRU82RHVfZjJ3VXpoVWJqWWxUOGFZU0haTjIxdVV4ZXkyNnRtWDhVSHdaOFFTQjM0bmdXbkdob3F0WW1UZGZSalQ1dFJSOGZ4d3BYdmh5Q2RRSVQwUzFs?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Trump pauses 50% tariffs on Canada, cites pending deal. But PM Carney warns ‘important work’ still needed - BNN Bloomberg",
-      "excerpt": "Trump pauses 50% tariffs on Canada, cites pending deal. But PM Carney warns ‘important work’ still needed BNN Bloomberg",
-      "cat": "Economy"
-    },
-    {
-      "id": "3fd3fdc126d12bc7",
-      "date": "2026-08-19",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTng2WU56UGJPcWFsVXBjdjJpS05IeGZ3bk9naUxXb2dUelExal94THhGa1BhOWRycmI3MzBJX3hCMm9NYlY4UVNQTmxmOVQ2RFlsTGc3UzNpZFhRUGZGN1hEOXFHSTAyMFBwOGhmRXRxRFBmRVBnREdMN3FVbjJRQVlBODhRRFhkV3dzdHpEN0FsMTh0NnhfT2ZBYUxXTVh4VUZZcHNWVTJBMmRTTnhNLW8weWNlLXRFNFFjMldFaWQxaHVZbUpXVQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Le gouvernement Carney ouvre la porte au financement du projet de GNL de Marinvest Energy - Le Devoir",
-      "excerpt": "Le gouvernement Carney ouvre la porte au financement du projet de GNL de Marinvest Energy Le Devoir",
-      "cat": "Natural resources"
     }
   ]
 }

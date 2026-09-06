@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T15:06:10.929Z",
+  "generatedAt": "2026-09-06T20:07:15.440Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "7aeab4be97822375",
+      "date": "2026-09-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/employment-social-development/news/2026/09/secretary-of-state-mclean-to-highlight-the-extension-of-the-federal-fuel-tax-relief-for-canadians.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal fuel tax relief extended for Canadian consumers",
+      "sum": "Secretary of State McLean will highlight an extension of the federal fuel tax relief program. The relief reduces fuel taxes for Canadian consumers.",
+      "cat": "Finance",
+      "ai": true
+    },
+    {
+      "id": "ed5c1f455045e507",
+      "date": "2026-09-06",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/09/la-secretaire-detat-mclean-soulignera-la-prolongation-de-lallegement-fiscal-federal-sur-les-carburants-pour-les-canadiens.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Prolongation de l'allégement fiscal fédéral sur les carburants",
+      "sum": "La secrétaire d'État McLean annonce la prolongation de la mesure fédérale de réduction fiscale sur les carburants pour les Canadiens.",
+      "cat": "Finance",
+      "ai": true
+    },
     {
       "id": "b90dfba66c318426",
       "date": "2026-09-05",
@@ -193781,32 +193807,6 @@
       "title": "Gouvernement fait le point sur la sécurité électorale",
       "sum": "Des représentants du gouvernement du Canada tiendront une séance d'information technique pour les médias sur les menaces en matière de sécurité et de renseignements visant les élections.",
       "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "bc6639ad2d246443",
-      "date": "2025-04-11",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2025/03/competition-bureau-advances-an-investigation-into-express-scripts-canadas-business-practices-in-the-pharmacy-sector.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Competition Bureau investigates Express Scripts Canada pharmacy practices",
-      "sum": "The Competition Bureau has advanced its investigation into Express Scripts Canada's business practices in the pharmacy sector. The investigation examines how the company operates within the Canadian pharmacy market.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "048d03d27c32811a",
-      "date": "2025-04-11",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-services-procurement/news/2025/04/lasalle-causeway-temporary-closures-for-marine-openings.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "LaSalle Causeway closed temporarily for marine navigation",
-      "sum": "Public Services and Procurement Canada is closing the LaSalle Causeway to all vehicle, cyclist, and pedestrian traffic to allow temporary opening of the main marine navigation channel.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]
