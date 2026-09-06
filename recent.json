@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T03:29:17.905Z",
+  "generatedAt": "2026-09-06T10:29:15.062Z",
   "count": 800,
   "totals": {
     "en": {
@@ -79,6 +79,18 @@
       "title": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species - CBC",
       "excerpt": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species CBC",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "eeb89f49de60f6fa",
+      "date": "2026-09-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmlnU193Tnhna0tKbjJIU2ZGZE1Odzc3bk84ZG9EX2kxQUFmTURqcHV6N2F2VGV4c1RaVVQwSkFRUTJ4V3MyMGZsT3BxUXBZUG5YWVlEXzVybXJybVUxUEtHdTVUWGJ4aXBNZFJpa3lKbG5zSkhtUzBKa2xhX1ZkRnZlM2I?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canadians should prepare for a 5 C hotter future, report warns - CBC",
+      "excerpt": "Canadians should prepare for a 5 C hotter future, report warns CBC",
+      "cat": "Economy"
     },
     {
       "id": "bc0c0598b46979fa",
@@ -10248,18 +10260,6 @@
       "lang": "fr",
       "title": "Le gouvernement Carney ouvre la porte au financement du projet de GNL de Marinvest Energy - Le Devoir",
       "excerpt": "Le gouvernement Carney ouvre la porte au financement du projet de GNL de Marinvest Energy Le Devoir",
-      "cat": "Natural resources"
-    },
-    {
-      "id": "211fdd615821ba37",
-      "date": "2026-08-19",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbXBEVGgzVzhDU3NiX3BNem5Dc21GdWIwVXlWU2NOSEM5MTh1bnI2NnJKaDJTdjctUUZCejlPWUhMUkx0LUZXN092NmJQQ19wRXUwODJNa1Mybm9qVHpWblYwQTFJSF94OEM0UERqRy02MnlwcWxDZVZYdmlRY3QzMGFYemVpZ0Y3ZjZxSnBUdXJvOEF4LVpyZFlJREt5YURn?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Marinvest Energy wants First Nations to lead development of its $30-billion LNG project - Canada's National Observer",
-      "excerpt": "Marinvest Energy wants First Nations to lead development of its $30-billion LNG project Canada's National Observer",
       "cat": "Natural resources"
     }
   ]

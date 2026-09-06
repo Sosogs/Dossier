@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T03:29:17.905Z",
+  "generatedAt": "2026-09-06T10:29:15.062Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -69,6 +69,18 @@
       "title": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species - CBC",
       "excerpt": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species CBC",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "eeb89f49de60f6fa",
+      "date": "2026-09-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmlnU193Tnhna0tKbjJIU2ZGZE1Odzc3bk84ZG9EX2kxQUFmTURqcHV6N2F2VGV4c1RaVVQwSkFRUTJ4V3MyMGZsT3BxUXBZUG5YWVlEXzVybXJybVUxUEtHdTVUWGJ4aXBNZFJpa3lKbG5zSkhtUzBKa2xhX1ZkRnZlM2I?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canadians should prepare for a 5 C hotter future, report warns - CBC",
+      "excerpt": "Canadians should prepare for a 5 C hotter future, report warns CBC",
+      "cat": "Economy"
     },
     {
       "id": "bc0c0598b46979fa",
@@ -193795,19 +193807,6 @@
       "title": "LaSalle Causeway closed temporarily for marine navigation",
       "sum": "Public Services and Procurement Canada is closing the LaSalle Causeway to all vehicle, cyclist, and pedestrian traffic to allow temporary opening of the main marine navigation channel.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "67abea2daba65708",
-      "date": "2025-04-11",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/04/escape-and-return-of-an-inmate-from-grierson-institution.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inmate escapes from work release at Grierson Institution",
-      "sum": "On April 11, 2025, inmate Jason Draude did not report to his assigned work location while on approved work release from Grierson Institution in Edmonton, Alberta. The escape has been documented in official records.",
-      "cat": "Justice",
       "ai": true
     }
   ]
