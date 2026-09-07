@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T20:07:15.440Z",
+  "generatedAt": "2026-09-07T03:28:48.402Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "7a1f244cd160dfff",
+      "date": "2026-09-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/canada-condemns-irans-destabilizing-actions-in-the-middle-east.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada condemns Iran's destabilizing actions in Middle East",
+      "sum": "Canada's Minister of Foreign Affairs and Minister of Finance issued a joint statement condemning Iran's destabilizing actions in the Middle East region.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "29e70a8b49c2f027",
+      "date": "2026-09-06",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-condamne-les-actions-destabilisatrices-de-liran-au-moyen-orient.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada condemns Iran's destabilizing actions in Middle East",
+      "sum": "Canada's Foreign Affairs Minister and Finance Minister issued a statement condemning what they describe as destabilizing actions by Iran in the Middle East region.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
     {
       "id": "7aeab4be97822375",
       "date": "2026-09-06",
@@ -193781,32 +193807,6 @@
       "title": "Canada convoque réunion G7 et Ukraine sur sécurité",
       "sum": "La sous-greffière du Conseil privé a réuni les conseillers à la sécurité nationale du G7 et représentants ukrainiens pour discuter d'une récente attaque aux missiles contre l'Ukraine et des enjeux de sécurité connexes.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "08bb14961b914aa1",
-      "date": "2025-04-13",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/privy-council/news/2025/04/government-of-canada-to-provide-update-on-the-general-election0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government to brief media on election security threats",
-      "sum": "Representatives from the Security and Intelligence Threats to Elections Task Force will hold a technical briefing for media. The briefing will provide an update on election-related security and intelligence matters.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "8e674d59e4ed3026",
-      "date": "2025-04-13",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/conseil-prive/nouvelles/2025/04/le-gouvernement-du-canada-fera-le-point-sur-lelection-generale0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Gouvernement fait le point sur la sécurité électorale",
-      "sum": "Des représentants du gouvernement du Canada tiendront une séance d'information technique pour les médias sur les menaces en matière de sécurité et de renseignements visant les élections.",
-      "cat": "Public safety",
       "ai": true
     }
   ]
