@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:28:46.207Z",
+  "generatedAt": "2026-09-07T21:14:28.150Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "471c7de9d2e9c32b",
+      "date": "2026-09-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmx1N3RJc2c0RXFsdDZLckMtR04zTXp4b0ljeFlacFVxWFVlRWJvYWV6aDZwV1AyVzdQM05PWmhRWVVsaGtJYXAwT2JoR1NLaDF5ZEtCdHhOOUYzSjhqdS1jUHlxWlJmTnhyR01sVW03MzRXQ0ZaOV9KcEl3anppeGxVMA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney needs ‘to be straight up,’ Poilievre asks PM to reveal the U.S. trade deal Ottawa turned down - Yahoo News Canada",
+      "excerpt": "Carney needs ‘to be straight up,’ Poilievre asks PM to reveal the U.S. trade deal Ottawa turned down Yahoo News Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "e932492c0eeed9aa",
+      "date": "2026-09-07",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGNfWERSazdVdW52aE1PUGQ1Yml0Vmk4el9DaFREWHR2X3JCM3kwam1VMVhjaG1IZzRhemxOeDhvOENURXpUaUwtdV9zbW9vZG9Mc21qUTlCYV9qalRWQ0V0M1cwTUJRUlNSdVRfM0hKdC1oSEdmMmxINGtEOXpFX3JQTnFnM1hRS3FwUy1DeHFHRENSYjBRN2E0aEZRVjBsM3JweGRneE92b0pqVUNn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Contre-tarifs canadiens | Ottawa contredit Fréchette - La Presse",
+      "excerpt": "Contre-tarifs canadiens | Ottawa contredit Fréchette La Presse",
+      "cat": "Economy"
+    },
     {
       "id": "797f17170fb5a965",
       "date": "2026-09-07",
@@ -1149,6 +1173,18 @@
       "title": "Federal court orders Carney government to release more Nazi war criminal documents - The Canadian Jewish News",
       "excerpt": "Federal court orders Carney government to release more Nazi war criminal documents The Canadian Jewish News",
       "cat": "Justice"
+    },
+    {
+      "id": "b820ce2cd8ab7dbd",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0w2TkNnaGstdzVuaERmeEtXaVhuSnZkSEJIQTlPY0sxYWZVbzk4OTh5X0I2ajFtWmlfSGtKUmtneldCLWpHZzhaem4zN3k3ME14TmlzMTJuT25YRFdHaGxid3RSZWNIUXQ2OGpSMFRGU2pvam1maVBFVU9MMzdJSWRKdURrazVMRmtiUlNsQm9ZMU1lY01EWXpIUUoxZmI4T0p5LVRXeVZESkRGaVZsSU1QSVZnd2Vzam12UVFR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces changes in the senior ranks of the public service - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces changes in the senior ranks of the public service pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "14ddbb7769f14367",
@@ -193762,45 +193798,6 @@
       "title": "U.S. Coast Guard to conduct icebreaking near Bruce Mines, Ontario",
       "sum": "The Canadian Coast Guard is notifying residents of Bruce Mines, Ontario that the U.S. Coast Guard cutter USCGC Neah Bay will perform icebreaking operations in the area on or around April 16, 2025. The operation aims to break up ice to allow safe passage for commercial vessels.",
       "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "206ca62b03ae20bf",
-      "date": "2025-04-15",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/04/lockdown-and-search-at-matsqui-institution.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Lockdown and search conducted at Matsqui Institution",
-      "sum": "A lockdown was implemented at Matsqui Institution, a medium-security federal prison, on April 14, 2025. The lockdown allowed staff to conduct an exceptional search of the facility.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "906653d050179c6d",
-      "date": "2025-04-15",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/04/g7-foreign-ministers-statement-marking-two-years-since-the-beginning-of-the-devastating-war-in-sudan.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "G7 foreign ministers condemn Sudan conflict atrocities",
-      "sum": "G7 foreign ministers and the European Union High Representative issued a joint statement marking two years since the war in Sudan began, condemning the ongoing conflict, atrocities, and human rights violations. The statement addresses the devastating war between the Sudanese Armed Forces and the Rapid Support Forces.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "54316360b4dc0ed4",
-      "date": "2025-04-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2025/04/le-canada-annonce-de-nouvelles-mesures-de-soutien-pour-les-entreprises-canadiennes-touchees-par-les-droits-de-douane-americains.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada annonce mesures de soutien pour entreprises affectées par droits de douane",
-      "sum": "Le ministre des Finances a annoncé de nouvelles mesures pour soutenir les entreprises canadiennes et entités touchées par les droits de douane américains dans le différend tarifaire entre le Canada et les États-Unis.",
-      "cat": "Economy",
       "ai": true
     }
   ]

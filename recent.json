@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:28:46.207Z",
+  "generatedAt": "2026-09-07T21:14:28.150Z",
   "count": 800,
   "totals": {
     "en": {
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "471c7de9d2e9c32b",
+      "date": "2026-09-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmx1N3RJc2c0RXFsdDZLckMtR04zTXp4b0ljeFlacFVxWFVlRWJvYWV6aDZwV1AyVzdQM05PWmhRWVVsaGtJYXAwT2JoR1NLaDF5ZEtCdHhOOUYzSjhqdS1jUHlxWlJmTnhyR01sVW03MzRXQ0ZaOV9KcEl3anppeGxVMA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney needs ‘to be straight up,’ Poilievre asks PM to reveal the U.S. trade deal Ottawa turned down - Yahoo News Canada",
+      "excerpt": "Carney needs ‘to be straight up,’ Poilievre asks PM to reveal the U.S. trade deal Ottawa turned down Yahoo News Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "e932492c0eeed9aa",
+      "date": "2026-09-07",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGNfWERSazdVdW52aE1PUGQ1Yml0Vmk4el9DaFREWHR2X3JCM3kwam1VMVhjaG1IZzRhemxOeDhvOENURXpUaUwtdV9zbW9vZG9Mc21qUTlCYV9qalRWQ0V0M1cwTUJRUlNSdVRfM0hKdC1oSEdmMmxINGtEOXpFX3JQTnFnM1hRS3FwUy1DeHFHRENSYjBRN2E0aEZRVjBsM3JweGRneE92b0pqVUNn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Contre-tarifs canadiens | Ottawa contredit Fréchette - La Presse",
+      "excerpt": "Contre-tarifs canadiens | Ottawa contredit Fréchette La Presse",
+      "cat": "Economy"
+    },
     {
       "id": "797f17170fb5a965",
       "date": "2026-09-07",
@@ -1159,6 +1183,18 @@
       "title": "Federal court orders Carney government to release more Nazi war criminal documents - The Canadian Jewish News",
       "excerpt": "Federal court orders Carney government to release more Nazi war criminal documents The Canadian Jewish News",
       "cat": "Justice"
+    },
+    {
+      "id": "b820ce2cd8ab7dbd",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0w2TkNnaGstdzVuaERmeEtXaVhuSnZkSEJIQTlPY0sxYWZVbzk4OTh5X0I2ajFtWmlfSGtKUmtneldCLWpHZzhaem4zN3k3ME14TmlzMTJuT25YRFdHaGxid3RSZWNIUXQ2OGpSMFRGU2pvam1maVBFVU9MMzdJSWRKdURrazVMRmtiUlNsQm9ZMU1lY01EWXpIUUoxZmI4T0p5LVRXeVZESkRGaVZsSU1QSVZnd2Vzam12UVFR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces changes in the senior ranks of the public service - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces changes in the senior ranks of the public service pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "14ddbb7769f14367",
@@ -10220,45 +10256,6 @@
       "title": "Canada announces new diplomatic appointments",
       "sum": "The Minister of Foreign Affairs announced new diplomatic appointments for Canadian representatives. The specific appointments were not detailed in this announcement.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "d889d9c2d989ae32",
-      "date": "2026-08-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/biographical-notes--diplomatic-appointments1.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada announces diplomatic appointments",
-      "sum": "The Minister of Foreign Affairs announced new diplomatic appointments. The specific positions and appointees were detailed in the announcement.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "db7fc74af01c1c5f",
-      "date": "2026-08-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-to-travel-to-washington-dc-to-advance-canadian-priorities.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Foreign Affairs Minister travels to Washington for bilateral discussions",
-      "sum": "Minister Anita Anand will travel to Washington, D.C. on August 20, 2026, to meet with U.S. Secretary of State Marco Rubio. The meeting will cover continental security and global priorities.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "a17d5ecdb36331bc",
-      "date": "2026-08-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/relations-couronne-autochtones-affaires-nord/nouvelles/2026/08/la-ministre-alty-fera-une-annonce-concernant-les-revendications-particulieres-relatives-aux-avantages-agricoles-avec-les-premieres-nations-en-vertu.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre annonce règlements sur avantages agricoles traités 4 et 6",
-      "sum": "La ministre des Relations Couronne-Autochtones tiendra une conférence de presse pour annoncer le règlement de revendications particulières concernant les avantages agricoles avec les Premières Nations signataires des traités 4 et 6. Des chefs des communautés concernées l'accompagneront.",
-      "cat": "Indigenous services",
       "ai": true
     }
   ]
