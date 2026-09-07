@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T03:28:48.402Z",
+  "generatedAt": "2026-09-07T11:51:49.805Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -1049,6 +1049,30 @@
       "cat": "Justice"
     },
     {
+      "id": "439a4b2ed8e1ebde",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHU4RElUMUFkZjNrcDZ1U29BbmFWSVVvSHg5eFVTSEl4ZnpFWWs1LTNDc3RLME9BOC14WWo2UUNna2lpSEdsTDhYRk5vQ28yaFFBcU03ajVYOXBTbG5QdjQtNDFpQnZ4M2lTWGoteFMwT2tmLUJfQkJFZ3ZxZlpWNUhVWkJsSWF3aC1lSVp2TFlPYWVsNGlXTnFiSU9pYUdp?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney chooses senior bureaucrat Scott Jones to head cyberspy agency - Penticton Herald",
+      "excerpt": "Carney chooses senior bureaucrat Scott Jones to head cyberspy agency Penticton Herald",
+      "cat": "Economy"
+    },
+    {
+      "id": "770c5a397e98d4b7",
+      "date": "2026-09-03",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYmhGXzhRXzNYZERsSy00MmxMcTFFMmszMDEzdXg1OTNHa28yMF94c2o1YlBuUDlmOFk2R3g2Y0ZwVTN3M193d3FfcndKNFZJQTdXTmlIYXRILUwtTXJMQVREZ1lZZkx1V0VmdjRRMzEzdThuLUoxa29yVThiamZXcHpTWnF5RXBoOVZrelVaS00zNTlid19ia0duZUNkeXpzbmlPUXBRNmNKRW5XTng5VmRHVmtIaHRvWVE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney lance Transformation numérique Canada pour offrir aux Canadiennes et aux Canadiens des services publics plus rapides, plus fiables et de meilleure qualité - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney lance Transformation numérique Canada pour offrir aux Canadiennes et aux Canadiens des services publics plus rapides, plus fiables et de meilleure qualité pm.gc.ca",
+      "cat": "Intergovernmental affairs"
+    },
+    {
       "id": "b5e18d383908bde4",
       "date": "2026-09-03",
       "src": "Government of Canada",
@@ -1965,6 +1989,18 @@
       "sum": "Le ministre de la Défense nationale a clôturé la 28e conférence des chefs d'état-major de la défense de l'Indo-Pacifique à Victoria. La conférence a été coorganisée par la chef d'état-major de la défense du Canada et le commandant du U.S. Pacific Command.",
       "cat": "National defence",
       "ai": true
+    },
+    {
+      "id": "6d5bff870af06d0f",
+      "date": "2026-09-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRHk4Y2U4c1Rld3loZEtWZl9aalNyempjS3FpLU9sWW1mTDZVc0YzRFBUYnljSV9IUkZVNWFXbGtuNjB3M0RvYlJHWW4xYzZWeTF6ckxOcHFQb2VHNzhJYmR5bXI1V1U5ZHBVa281eG04VW9lcDdrY05Ta0gxRFZ5OWpOclAycmFsZlQxazBGMEt4Y0FhbWhPNjVLV2NyczdfN0kw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Terry Glavin: Carney recruiting Dominic Barton will please Xi Jinping - National Post",
+      "excerpt": "Terry Glavin: Carney recruiting Dominic Barton will please Xi Jinping National Post",
+      "cat": "Economy"
     },
     {
       "id": "376b63f9171adece",
@@ -193767,45 +193803,6 @@
       "lang": "en",
       "title": "Canada convenes G7 national security meeting on Ukraine missile attack",
       "sum": "Canada's Deputy Clerk of the Privy Council and National Security Advisor convened a meeting of G7 National Security Advisors and Ukraine to discuss a recent missile attack on Ukraine and efforts to end Russia's war of aggression.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "b37be3f924bd3701",
-      "date": "2025-04-14",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2025/04/accreditation-des-medias-maintenant-ouverte-pour-la-reunion-des-ministres-des-finances-et-des-gouverneurs-des-banques-centrales-du-g7.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada accueille réunion G7 ministres Finances mai 2025",
-      "sum": "Le Canada organisera une réunion des ministres des Finances et des gouverneurs des banques centrales du G7 à Banff, en Alberta, du 20 au 22 mai 2025. L'accréditation des médias pour couvrir cet événement est maintenant accessible.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "e80ccbd94b8aca1e",
-      "date": "2025-04-14",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/04/deces-dun-detenu-a-letablissement-archambault0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Décès d'un détenu à l'Établissement Archambault",
-      "sum": "Un détenu de l'Établissement Archambault, Jean-Claude Doiron, est décédé le 10 avril 2025 de causes naturelles apparentes alors qu'il était sous la garde de l'établissement.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "53ca597249d304e6",
-      "date": "2025-04-14",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/conseil-prive/nouvelles/2025/04/declaration-de-la-sous-greffiere-du-conseil-prive-et-conseillere-a-la-securite-nationale-et-au-renseignement-aupres-du-premier-ministre.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada convoque réunion G7 et Ukraine sur sécurité",
-      "sum": "La sous-greffière du Conseil privé a réuni les conseillers à la sécurité nationale du G7 et représentants ukrainiens pour discuter d'une récente attaque aux missiles contre l'Ukraine et des enjeux de sécurité connexes.",
       "cat": "Foreign affairs",
       "ai": true
     }
