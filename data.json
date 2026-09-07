@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:51:49.805Z",
+  "generatedAt": "2026-09-07T17:28:46.207Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,96 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "797f17170fb5a965",
+      "date": "2026-09-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/government-of-canada-supports-celebrations-for-the-175th-anniversary-of-the-heritage-building-that-houses-le-musee-de-saint-boniface.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada supports 175th anniversary celebrations for Saint-Boniface Museum",
+      "sum": "The Government of Canada is providing support for celebrations marking the 175th anniversary of the heritage building housing Le Musée de Saint-Boniface in Winnipeg. The building, identified as the city's oldest, will continue to serve its community.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "37b779c5e9c05540",
+      "date": "2026-09-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/09/canada-and-alberta-to-celebrate-clean-energy-milestone.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada and Alberta mark clean energy milestone",
+      "sum": "Canada and Alberta are recognizing an achievement in clean energy development. The specific milestone being celebrated involves progress in the clean energy sector.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "57269ed833435fbb",
+      "date": "2026-09-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/employment-social-development/news/2026/09/joint-statement-by-the-minister-of-jobs-and-families-and-the-secretary-of-state-labour-on-labour-day.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Ministers issue Labour Day joint statement",
+      "sum": "The Minister of Jobs and Families and the Secretary of State (Labour) released a joint statement to mark Labour Day.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
+    },
+    {
+      "id": "3ca1c1f969b6c2e6",
+      "date": "2026-09-07",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-gouvernement-du-canada-appuie-la-celebration-du-175e-anniversaire-du-batiment-qui-abrite-le-musee-de-saint-boniface.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada appuie le 175e anniversaire du Musée de Saint-Boniface",
+      "sum": "Le gouvernement du Canada soutient la célébration du 175e anniversaire du bâtiment historique qui abrite le Musée de Saint-Boniface à Winnipeg. Ce bâtiment est le plus ancien de la ville.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "8098fbeb1e01a868",
+      "date": "2026-09-07",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/09/le-canada-et-lalberta-celebreront-un-jalon-important-dans-le-domaine-de-lenergie-propre.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et Alberta célèbrent une étape en énergie propre",
+      "sum": "Le Canada et l'Alberta marquent une étape importante dans leurs efforts conjoints en matière d'énergie propre. Cette célébration reconnaît les progrès réalisés dans ce secteur.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "69456f6cfc4aa6f9",
+      "date": "2026-09-07",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/09/declaration-commune-de-la-ministre-de-lemploi-et-des-familles-et-du-secretaire-detat-travail-a-loccasion-de-la-fete-du-travail.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Déclaration commune pour la fête du Travail",
+      "sum": "La ministre de l'Emploi et des Familles et le secrétaire d'État (Travail) ont émis une déclaration conjointe à l'occasion de la fête du Travail.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "fa4d8c087c3603b9",
+      "date": "2026-09-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ocXJ1S1ppSVZ6NFhIMURDRl8tNGNPcEdQdVBMYkRvOFY1dW5xekJzWE1Gb3JkbWtLOEd0dmlNb1VlNU9PTUFoV29DeHZGV2x1RldoUU53TUx0ZURFaWRlNDVOSklQaThGbFlCVzRlcWx4N2M?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada Has Reopened Military Channel to Beijing After Eight Years, China's Defense Ministry Announces - The Bureau | Sam Cooper",
+      "excerpt": "Canada Has Reopened Military Channel to Beijing After Eight Years, China's Defense Ministry Announces The Bureau | Sam Cooper",
+      "cat": "National defence"
+    },
     {
       "id": "7a1f244cd160dfff",
       "date": "2026-09-06",
@@ -121,6 +211,18 @@
       "title": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species - CBC",
       "excerpt": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species CBC",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "887bc4ba90567ab5",
+      "date": "2026-09-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHRyQlNyNl80c1RvNU16V2o2N1RPRnpxT0l1dFRLaEg4LUw1TDd6TlFMb3RJeHl2WTVZTm1qenlMLWxpNHRzUkk3al9tQkRRV0ZZbGtidmY4NXVhcUF3U1FPbmNJX3Vfc2V3aEFxdkFvZE9KMHhkWkwyVnhBcUwyYlNDN0xRR0g4MTRESHpIc3lUdlE0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney launches new digital transformation agency led by former Google exec - Ottawa Citizen",
+      "excerpt": "Carney launches new digital transformation agency led by former Google exec Ottawa Citizen",
+      "cat": "Economy"
     },
     {
       "id": "eeb89f49de60f6fa",
@@ -1047,6 +1149,18 @@
       "title": "Federal court orders Carney government to release more Nazi war criminal documents - The Canadian Jewish News",
       "excerpt": "Federal court orders Carney government to release more Nazi war criminal documents The Canadian Jewish News",
       "cat": "Justice"
+    },
+    {
+      "id": "14ddbb7769f14367",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaERITlVpUlZsTFQ5VkNBMXJPeF9wdjRFU2ZaM0t2Ym5IS1pLbHo4YUF0WVQ5SEFGd2k3azF3alZCcHlBN1R1eGpoWExrZ0lteVIyczh5TENUX2RGenhBV0RISExhckJsNS1zdGlQc3E1VF9idjBMbzVOcUpOaXZCdzBBS3pHYlNRb29mWnZWaUExNm91RlNJTDJDeVdrSk1DRWRFTDBR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Yuan Yi Zhu: Carney's contemptuous jaunt to EU Parliament before Canada's - National Post",
+      "excerpt": "Yuan Yi Zhu: Carney's contemptuous jaunt to EU Parliament before Canada's National Post",
+      "cat": "Economy"
     },
     {
       "id": "439a4b2ed8e1ebde",
@@ -193687,123 +193801,6 @@
       "title": "Canada annonce mesures de soutien pour entreprises affectées par droits de douane",
       "sum": "Le ministre des Finances a annoncé de nouvelles mesures pour soutenir les entreprises canadiennes et entités touchées par les droits de douane américains dans le différend tarifaire entre le Canada et les États-Unis.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "90b97a759b91e3b7",
-      "date": "2025-04-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/04/vous-voyagez-pour-paques-lasfc-vous-donne-des-conseils-pour-un-voyage-sans-souci.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "ASFC offre conseils aux voyageurs pendant Pâques",
-      "sum": "L'Agence des services frontaliers du Canada fournit des conseils aux citoyens qui voyagent pendant la période de Pâques. Ces recommandations visent à faciliter les déplacements aux frontières.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "a0f23bca11cf33d7",
-      "date": "2025-04-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/office-national-film/nouvelles/2025/04/quinzaine-des-cineastes-a-cannes-le-court-metrage-danimation-bread-will-walk-onf-dalex-boya-selectionne.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Court métrage canadien sélectionné au festival de Cannes",
-      "sum": "Un court métrage d'animation de l'Office national du film du Canada intitulé Bread Will Walk a été sélectionné pour la Quinzaine des cinéastes à Cannes. Le film, réalisé par Alex Boya et interprété par l'acteur Jay Baruchel, est une satire surréaliste explorant la déshumanisation de la société.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "e20881d7c851b3ac",
-      "date": "2025-04-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/04/saisie-dobjets-interdits-et-non-autorises-au-centre-federal-de-formation.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Saisie d'objets interdits au Centre fédéral de formation",
-      "sum": "Le 10 avril 2025, des objets interdits et non autorisés ont été saisis au Centre fédéral de formation. La découverte a été effectuée par le personnel de l'établissement.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "c0ee10ad56d66400",
-      "date": "2025-04-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/garde-cotiere-canadienne/nouvelles/2025/04/deglacage-a-bruce-mines-en-ontario.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Opération de déglaçage à Bruce Mines en Ontario",
-      "sum": "La Garde côtière canadienne annonce qu'un navire américain effectuera des opérations de déglaçage près de Bruce Mines, en Ontario, vers le 16 avril 2025. Cette opération vise à briser la glace pour assurer la circulation sécuritaire des navires commerciaux.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "689f9b28f01340bb",
-      "date": "2025-04-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/04/isolement-cellulaire-et-fouille-a-letablissement-de-matsqui.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Isolement cellulaire et fouille à l'Établissement de Matsqui",
-      "sum": "Le 14 avril 2025, un isolement cellulaire a été imposé à l'Établissement de Matsqui pour permettre une fouille exceptionnelle des installations.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "39a10b5677efad60",
-      "date": "2025-04-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/04/declaration-des-ministres-des-affaires-etrangeres-du-g7-marquant-deux-ans-depuis-le-debut-de-la-guerre-devastatrice-au-soudan.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministres G7 dénoncent la guerre au Soudan après deux ans",
-      "sum": "Les ministres des Affaires étrangères du G7 et de l'Union européenne condamnent le conflit au Soudan, les atrocités et les violations des droits de la personne qui se poursuivent depuis deux ans. Cette déclaration marque l'anniversaire du début de la guerre.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "01e65abdf895b38b",
-      "date": "2025-04-14",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2025/04/media-accreditation-now-open-for-the-g7-finance-ministers-and-central-bank-governors-meeting.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada opens media accreditation for G7 finance meeting",
-      "sum": "Canada is hosting a G7 Finance Ministers and Central Bank Governors' Meeting in Banff, Alberta from May 20 to 22. Media organizations can now apply for accreditation to cover the event.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "3a478fb5b9ed2dbd",
-      "date": "2025-04-14",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/04/death-of-an-inmate-from-archambault-institution0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inmate dies at Archambault Institution from apparent natural causes",
-      "sum": "An inmate at Archambault Institution died on April 10, 2025, while in custody. The death is reported as having resulted from apparent natural causes.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "6454106fccbe627a",
-      "date": "2025-04-14",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/privy-council/news/2025/04/statement-from-the-deputy-clerk-of-the-privy-council-and-national-security-and-intelligence-advisor-to-the-prime-minister.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada convenes G7 national security meeting on Ukraine missile attack",
-      "sum": "Canada's Deputy Clerk of the Privy Council and National Security Advisor convened a meeting of G7 National Security Advisors and Ukraine to discuss a recent missile attack on Ukraine and efforts to end Russia's war of aggression.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]
