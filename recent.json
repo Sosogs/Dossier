@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T21:14:28.150Z",
+  "generatedAt": "2026-09-08T03:34:41.479Z",
   "count": 800,
   "totals": {
     "en": {
@@ -159,6 +159,18 @@
       "cat": "National defence"
     },
     {
+      "id": "256829916e0b9867",
+      "date": "2026-09-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QWlR0eTI3amR5LWxoZWQzUGFhMnJRUVBaajBsZTBsblgwWTRJYVNuQWo4NkhHWmVqTGR6LUFpVGhqYmZFbGlraFVxTkxrY05yVno0Uy1GYUduc1R6SXNqOTUtSHVqN1l4UXZIejZDS3QyUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Approval of Mark Carney increases to 70% - Cult MTL",
+      "excerpt": "Approval of Mark Carney increases to 70% Cult MTL",
+      "cat": "Economy"
+    },
+    {
       "id": "7a1f244cd160dfff",
       "date": "2026-09-06",
       "src": "Government of Canada",
@@ -245,6 +257,18 @@
       "title": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species - CBC",
       "excerpt": "As Carney advances Vancouver port expansion, environmentalists raise concern for at-risk species CBC",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "3b9f2b2a3fb06209",
+      "date": "2026-09-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMG1DOTFUXzFZdS05RDI4cEFrU3ZRbDRRMzhVR0JxT2NreVhuWWRjcUxHS0NocW5RbElKM1Zmb3A3aDRpcVNjdG9hRW01d0RuUF9kN2J0eXBFNWMwekY1WGlGN2lYYWJkWmZBTXJvN0Y0b2RXMEtMMmx3WjE2ajBBYzlFQm9iNkhHMm9WN012bDQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PQ leader says he's worried Ottawa is meddling in Quebec election - CBC",
+      "excerpt": "PQ leader says he's worried Ottawa is meddling in Quebec election CBC",
+      "cat": "Economy"
     },
     {
       "id": "887bc4ba90567ab5",
@@ -10230,32 +10254,6 @@
       "title": "Minister announces clean energy investment in Ontario",
       "sum": "The Minister of Energy and Natural Resources will announce a clean energy investment in Ontario, accompanied by a parliamentary secretary and MP.",
       "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "a14948cdc3296199",
-      "date": "2026-08-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/cancellation--rachel-bendayan-to-announce-government-of-canada-support-for-roberval-manufacturing-business.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Press conference on Roberval manufacturing support cancelled",
-      "sum": "A scheduled press conference where Rachel Bendayan was to announce Government of Canada support for a Roberval manufacturing business has been cancelled due to unforeseen circumstances.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "d99341ec5ce70116",
-      "date": "2026-08-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/announcement-of-new-diplomatic-appointments1.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada announces new diplomatic appointments",
-      "sum": "The Minister of Foreign Affairs announced new diplomatic appointments for Canadian representatives. The specific appointments were not detailed in this announcement.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]
