@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-08T03:34:41.479Z",
+  "generatedAt": "2026-09-08T10:48:26.218Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7826,
+      "actions": 7825,
       "sources": 9
     },
     "fr": {
-      "actions": 7174,
+      "actions": 7175,
       "sources": 7
     }
   },
@@ -44,6 +44,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d0d916b4f1863d3e",
+      "date": "2026-09-08",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/09/escape-from-saskatchewan-penitentiary-minimum-security-unit.html",
+      "type": "Report",
+      "kind": "official",
+      "lang": "en",
+      "title": "Inmate escapes from Saskatchewan Penitentiary minimum-security unit",
+      "sum": "On September 7, 2026, inmate Scott Sargefield did not return to the minimum-security unit at Saskatchewan Penitentiary after an authorized temporary absence. This constitutes an escape from the facility.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "241d701214306f59",
+      "date": "2026-09-08",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/09/evasion-du-penitencier-de-la-saskatchewan--unite-a-securite-minimale.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Détenu s'échappe du pénitencier de la Saskatchewan",
+      "sum": "Le 7 septembre 2026, un détenu nommé Scott Sargefield n'est pas retourné à l'unité à sécurité minimale du pénitencier de la Saskatchewan après une absence temporaire autorisée.",
+      "cat": "Justice",
+      "ai": true
+    },
     {
       "id": "471c7de9d2e9c32b",
       "date": "2026-09-07",
@@ -9137,6 +9163,18 @@
       "cat": "Economy"
     },
     {
+      "id": "d0ee201ba2ee5fef",
+      "date": "2026-08-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByRWpTTXlrRTVzeFhiWERJa0xtMXpNdzhVSmx0dzVvZzRxMnFRZ0tYbjVpRHZvdjhlY3oxblBsei1CRkYyczFfNWtQYW5fTDhmbmdyV2lWY0ZKZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "FULL SPEECH | Carney explains why Canada suspended trade talks with U.S. - CBC",
+      "excerpt": "FULL SPEECH | Carney explains why Canada suspended trade talks with U.S. CBC",
+      "cat": "Economy"
+    },
+    {
       "id": "5ad6c384a5c6ca08",
       "date": "2026-08-22",
       "src": "Politique canadienne (via Google News)",
@@ -10215,45 +10253,6 @@
       "title": "CBSA investigates alleged dumping of Chinese paperboard cups",
       "sum": "The Canada Border Services Agency has started investigations into whether paperboard cups and containers from China are being sold at unfairly low prices or receiving improper government subsidies. These investigations will determine if trade remedy measures are needed.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "364598693baa2141",
-      "date": "2026-08-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2026/08/regimental-funerals-of-nicolae-serban-and-ramandeep-kaur-maan.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal correctional officers' funerals scheduled in Edmonton",
-      "sum": "Two correctional officers from Edmonton Institution for Women, Nicolae Serban and Ramandeep Kaur Maan, who died on duty on August 6, 2026, will be given regimental funerals on August 20, 2026. The public is invited to attend.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "2499ce6787fd2261",
-      "date": "2026-08-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/taxpayers-ombudsperson/news/2026/08/taxpayers-ombudsperson-wants-your-feedback-on-t1-adjustment-delays-and-complaint-options-at-the-canada-revenue-agency.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Ombudsperson seeks feedback on CRA T1 processing delays",
-      "sum": "The Taxpayers' Ombudsperson is requesting public input on delays the Canada Revenue Agency experiences when processing complex T1 adjustment requests and on complaint resolution options available at the CRA. Members of the public are invited to complete an anonymous online questionnaire about their experiences in these areas.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "5f4685248df65b74",
-      "date": "2026-08-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/08/minister-hodgson-to-make-clean-energy-announcement.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister announces clean energy investment in Ontario",
-      "sum": "The Minister of Energy and Natural Resources will announce a clean energy investment in Ontario, accompanied by a parliamentary secretary and MP.",
-      "cat": "Natural resources",
       "ai": true
     }
   ]
