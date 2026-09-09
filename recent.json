@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-08T20:52:21.270Z",
+  "generatedAt": "2026-09-09T03:39:22.356Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7830,
+      "actions": 7833,
       "sources": 9
     },
     "fr": {
-      "actions": 7170,
+      "actions": 7167,
       "sources": 7
     }
   },
@@ -44,6 +44,118 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "9c4066f1833ca311",
+      "date": "2026-09-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXluUUJ1SkxaaUdlQktLMjljclhiSFJkVHdMb1AzcTRON0lzRnplSDZhTld6bUZLVTdlMmJIUE1fREdFOTlpV2tjQXo3dnVFUTd6dTFVU2xKckFUQkhjdmdMaTBNOXJnY1Vfb3hmMV9vMG5IRnNvb1YzLXJybXZuRVBxS20?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Trump strikes back with executive order banning Canadian goods, including alcohol and dairy - nationalpost.com",
+      "excerpt": "Trump strikes back with executive order banning Canadian goods, including alcohol and dairy nationalpost.com",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "014fccf7a54390e6",
+      "date": "2026-09-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPclFPNWZva2E5X3lJcHFFaHc2dHdNU2pvRS1ianRyTlVTX1NWMDBvc2s3dUt3eUlpMkJKZ0Z0UEFoRmdFdHhOZk9FcTIwa1FURXFWckNId29saTNsQkNsQkE0S19RelFBTWJkcWMyWDN1WjlRajlZSzAyZl9ndVhmVm5EektqZFR4N1BHeVFFUDhGY29MZVB4WU81YVNJMlcyQ2hkdTdtam9QLWNkd1lVM2l5Y1otZmVhNnFkcmNpdDBBd0NxSjV5Z1dMUdIB0AFBVV95cUxPWmFGekFzUDRVVkJHTkRHaXlGSUFqVzdQZlBFa0tHZGxHSmxjTkUteE1xeUZZSHZ2NjVQTVAzb19oTkRIQmNIelNGeVAweEF6QXkwMUxCZnladlgwWkl4LVdDME5sSjlOZ2JlZzJvUG12RjM3M3dhVXk4NmNIc0xxT0wydWh2czZ2NG0tSXAzT3JTN3BNNndzNUNvNlZFWVBfUUhfSzllSURoVmhEU2x2a0xFOG1Od3pTdzA2R2F3Vm1jeWlqUFNwX2pHUWRGWVBm?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney warns Canadians of tough days ahead as trade war spirals again - Moneycontrol.com",
+      "excerpt": "Mark Carney warns Canadians of tough days ahead as trade war spirals again Moneycontrol.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "649bb8bf0d4fd7e3",
+      "date": "2026-09-08",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/government-of-canada-invests-in-brantford-native-housing-and-darmont-givesback.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces funding for Brantford Native Housing and Darmont GivesBack",
+      "sum": "The Government of Canada is providing funding to Brantford Native Housing and Darmont GivesBack. The announcement was made by the Member of Parliament for Hamilton Mountain.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "88bec704a7f9433b",
+      "date": "2026-09-08",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/pacific-economic-development/news/2026/09/bc-businesses-can-now-access-expanded-support-through-the-regional-tariff-response-initiative.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada expands tariff response support for B.C. businesses",
+      "sum": "The Government of Canada has expanded support through the Regional Tariff Response Initiative to help British Columbia businesses affected by U.S. tariffs. The initiative aims to protect Canadian workers and businesses and help Canadian producers compete in the domestic market.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "4351b4213689d7b0",
+      "date": "2026-09-08",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-gouvernement-du-canada-investit-dans-les-organismes-brantford-native-housing-et-darmont-givesback.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada finance deux organismes de logement et d'aide sociale",
+      "sum": "Le gouvernement du Canada investit dans l'organisme Brantford Native Housing et dans Darmont GivesBack. L'annonce a été faite par la députée Lisa Hepfner d'Hamilton Mountain.",
+      "cat": "Housing",
+      "ai": true
+    },
+    {
+      "id": "296c1f1fb912c652",
+      "date": "2026-09-08",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/developpement-economique-pacifique/nouvelles/2026/09/les-entreprises-de-la-colombie-britannique-ont-maintenant-acces-a-un-soutien-elargi-dans-le-cadre-de-linitiative-regionale-de-reponse-tarifaire.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Colombie-Britannique reçoit soutien élargi contre les tarifs américains",
+      "sum": "Les entreprises de la Colombie-Britannique ont accès à un soutien accru dans le cadre d'une initiative fédérale. Cette mesure vise à aider les travailleurs et entreprises canadiennes touchés par les tarifs douaniers américains.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "bbada27a19719c3a",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVGc2N0R6TVk0c0NjOGdOcjRHZFRCZ19hT3BuOVJ4S3BqNVJlQW1qZF9KWk1UdEJQNC1qLVNaOTYyYjlvUkpKOEhWb05NbFJDbGFuMHcxMElnZmxYbFRUWjREQzZ2WDdSY1RJTEV0LWkyV1lUb2VOUnJQRnlQUl9lUGdZRDRyLWItbHBWaFJSMHMxQ015U0ZiRG9oeGw0cVZqbWo0MVNLZmVtVFh1dm5JV0lWVlhDS3VvZ2dhWF8yVW12a0dDNXV5bUJTcWdWZjBiODMw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney warns of tough times ahead in national address as retaliatory tariffs kick in - CTV News",
+      "excerpt": "Carney warns of tough times ahead in national address as retaliatory tariffs kick in CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "b9a7c33efc46c314",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnJtRUpGelY0MERSSWduZmpjMnhCZ0pkUmV2VzdnMHUzcnM3VEdzMXZfdDZhX0RNRkw2enRDYk1lWE1YZkhTMFVOT3lzd3pmcFVaX1UtSVVGeFA5VjRtamY5VnRQQldjd09FRnhGeWx3VDNhNmxia0RnZ1dRaGVMNmg4YVJzYVV1ekZqVDdYNmxpdVFwRm5id01sLWs2UnFGU0lXVDBpZmpNVm1uaUN1aU8xbDJCMVZUdzhGVw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Trump hits back at Canadian tariffs with import bans, tariff hikes - Politico",
+      "excerpt": "Trump hits back at Canadian tariffs with import bans, tariff hikes Politico",
+      "cat": "Economy"
+    },
+    {
+      "id": "7b5ca6bbaba76a16",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OU29EVk9BWl9pMEJac1Z5Q2t3SWRxNnVSc2NUcVludHAzWkhKS2lNVU1qV3NMbk5PUGRBekV5SDJHbExyeGpJd2JFWmJFcFNBWFVna0Y4bDlnQ2Y3OGhMUkwtQkkyZ0ZEYTNyLWpfdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Observations from Montreal - Cult MTL",
+      "excerpt": "Observations from Montreal Cult MTL",
+      "cat": "Economy"
+    },
     {
       "id": "2969456e28315278",
       "date": "2026-09-08",
@@ -10155,115 +10267,6 @@
       "title": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. - CTV News",
       "excerpt": "PM Carney: ‘You’re at war when you get attacked. We got attacked.’ Live trade war updates. CTV News",
       "cat": "Economy"
-    },
-    {
-      "id": "d0ee201ba2ee5fef",
-      "date": "2026-08-22",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByRWpTTXlrRTVzeFhiWERJa0xtMXpNdzhVSmx0dzVvZzRxMnFRZ0tYbjVpRHZvdjhlY3oxblBsei1CRkYyczFfNWtQYW5fTDhmbmdyV2lWY0ZKZw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "FULL SPEECH | Carney explains why Canada suspended trade talks with U.S. - CBC",
-      "excerpt": "FULL SPEECH | Carney explains why Canada suspended trade talks with U.S. CBC",
-      "cat": "Economy"
-    },
-    {
-      "id": "5ad6c384a5c6ca08",
-      "date": "2026-08-22",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3VkOGI5cjFkdzF1enpISGdaRDdCeEY5Mk9hb3hhZmdSRTNJUTAyV0tVc2lJb0J1Q1ZHTGdpUUplR0NMV3NEaUdTOHhFVDlwc0JCRVlsVDFEVXJtTElYLVFrWk1CUHliS1l6YVNJTTNhRjZyTzZVaEk0UDlKMjRvQzlBVFE0ZTFFdmx0QQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "« Un fossé trop large » entre le Canada et les États-Unis, Ottawa prépare sa riposte - Radio-Canada",
-      "excerpt": "« Un fossé trop large » entre le Canada et les États-Unis, Ottawa prépare sa riposte Radio-Canada",
-      "cat": "Economy"
-    },
-    {
-      "id": "e9e15620f69632f0",
-      "date": "2026-08-22",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUEpPemZTWGI1eHJuVHV6VDB3dnlvOFJxUEZLSjMzQUd0SXZWeXZrenhTcFZRa2VGcE1SbS1xbVpuNW9sUE5QbDdZOUgzR054Rjd6aEg1bm9UekMwclVZQlV6VWoteTZQRFdfNzNwb0tCU1hVMVB2QzJMLWM1d01oV3kxeFI0YXFmVFhVcFFfSDU3dlNQcG85TnYyNk95b0FzbmxhMDBRWURPano3bVR1WWphMzUycFkzVWY4dlVIcThSUkxVWWFkSWZnZnJ4aUJTWENnbDZTdVByTXZZMkFSU0dLS01kbHct?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "PM Carney Speaks to Media After Suspension of Canada-U.S. Trade Talks - CPAC",
-      "excerpt": "PM Carney Speaks to Media After Suspension of Canada-U.S. Trade Talks CPAC",
-      "cat": "Economy"
-    },
-    {
-      "id": "1e6c2d32cb554280",
-      "date": "2026-08-22",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJRZDZFYnB0M0oxc0xhM28tLTc3ME15YV80Uzh5bGNqVW9XUEtaY1hnZ0ZXVkEwVU9HczZQR2w5SElVQmg4UVZYaU4tUnpoYlZUN293OXVHblZId1JMSTRxSUJpNHZnR0Eyb0xMYmd2TEZPUmlzOVlnTFFCWkNtbEV6M3BsWUd5ZGVkSkI1RGF0MEhGOTlGR3RMQXZuV2NnNlZtV2lvOG41Zw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "The latest on trade negotiations between Canada and the United States - CHAT News Today",
-      "excerpt": "The latest on trade negotiations between Canada and the United States CHAT News Today",
-      "cat": "Economy"
-    },
-    {
-      "id": "db90bda10330b0d9",
-      "date": "2026-08-22",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnVwRXBDOEZwVlFzeXk5OVpLSV9NV25IMmMtak9VVktKRU5MX3Zody1XejJZSm44S1Ita3VQUVhrRU9iM0Q4WWlBV2RhaGVpdUdtT3JoMDZZQVJRSGQxcFh6aW4zT2hHUnllejBDVncweXFrRUNMVnYySXJ6bFFrd3NFXzg3dllNano3eFlfeGpUbDhMTlJ3N3d2YXI4Q3AyZnh4LVhlc0xvbFpLNDE0XzNxZ3c0RUtUZVpz?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "As premiers rally behind Carney in trade dispute, Alberta’s Smith questions retaliation plan - The Globe and Mail",
-      "excerpt": "As premiers rally behind Carney in trade dispute, Alberta’s Smith questions retaliation plan The Globe and Mail",
-      "cat": "Economy"
-    },
-    {
-      "id": "00d1542289cac320",
-      "date": "2026-08-22",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmh0MkJNOVV0ZzVMcFVmYkZkd2FXaWs4S2N6N1hCLURodmc1VzdEb01PbFZrZEZjUWdKTjh3aHlfOEw3dDYxU1lMMXdJM0YyTjVnc1BmSlJ0OXh3TEpTMEdnRDdIVVFUeTJRZXlvRVc4Q29qNTJjSV9TcGNtLTYxMnRrVW9QRWQwV0R6MWEtdWszbk1WMnZtYmJQQnlhbmxWd3RELWFNYzBxWnE4NmJvbQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "The latest on trade negotiations between Canada and the United States - Lethbridge News Now",
-      "excerpt": "The latest on trade negotiations between Canada and the United States Lethbridge News Now",
-      "cat": "Economy"
-    },
-    {
-      "id": "fa17bd9b04accfcd",
-      "date": "2026-08-22",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlVHVWZSeVFSY0J3ZTFTS2dMT1JhUlc0Y2liMkdZd1BmSGc3ek9xMGk4ODBrR2RGSnhhV3EydF9wWTAyeGZITXVGNGVRVkZBS3NVVEFTN3dNSEMtVUoxc0k3ZXd3YXZRYWNXS2tPNVRId3ZHUDg4UURZcnBRZ044R2N1VTg2cmxqQUE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Alberta premier urges return to trade talks, calls U.S. terms 'untenable' - CBC",
-      "excerpt": "Alberta premier urges return to trade talks, calls U.S. terms 'untenable' CBC",
-      "cat": "Economy"
-    },
-    {
-      "id": "829d45b02a3007b0",
-      "date": "2026-08-22",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXphWVZtaDQwLVJCdHZuY0d6MnZ5OGlPRUx4TWp1VHNsdmNOdkFwbGlJaVVjcU1BMmdSeXZCc0lJWkVTcnpjamh4N3EyODJBdEhlQ3ZBUmhvMTR5a3E0R2l3RVZJeUM0M21CbDBOcnFtVTUwaVJKQUpGT2pIX2lTOWtMeHU?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney says trade deal became untenable when U.S. 'asked too much and offered too little' - CBC",
-      "excerpt": "Carney says trade deal became untenable when U.S. 'asked too much and offered too little' CBC",
-      "cat": "Economy"
-    },
-    {
-      "id": "349d7c06b71dfb79",
-      "date": "2026-08-22",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/minister-miller-will-announce-major-funding-for-a-cultural-organization-in-montreal.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government announces funding for Montréal performing arts organization",
-      "sum": "Minister Miller will announce major funding directed toward a cultural organization in Montréal that focuses on performing arts. The investment is part of the Government of Canada's support for the cultural sector.",
-      "cat": "Culture & heritage",
-      "ai": true
     }
   ]
 }
