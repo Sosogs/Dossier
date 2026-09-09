@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T03:39:22.356Z",
+  "generatedAt": "2026-09-09T10:55:07.203Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -35,6 +35,30 @@
   ],
   "items": [
     {
+      "id": "cb05c1afd60e108c",
+      "date": "2026-09-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmJ3VnNLdU5vSXdTRWJ6WlFnTThtYmt1VnJxOHJmY09ERnR2bG4zalliSllaTmd1VXpSZEtnZUh5cHZvOWdRLTdQbEFCNEhseXhtZWhkVTBPWmhqZkZXY3Q3d2FRcktMR3JZenMyN0pZOVFDMERLcE4zSW9YZS02d1lQVl80Z1piMmExbUVLVGFmaEQ2Q0duRlBTNmhJT2pVeGx1VkV5MVdMWElhcHhadkFR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Terry Newman: Carney's 'war' is good for political incumbents, but bad for Canadians - National Post",
+      "excerpt": "Terry Newman: Carney's 'war' is good for political incumbents, but bad for Canadians National Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "9e2b48d1b3c3c7bd",
+      "date": "2026-09-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnViMUdIY21LQTRaNXNYYWxEVXROaTFwQ05QaUlrNExRbW5TT1pqZ2JpMlFiR1FmOWVjcUk2Zk8tSVpqdG9GbHFQNzNXMnNWdFQ4S3ZDUElOSk5iS0JpU2ROY043UkxpSVJZY0pqYWxuLUJlMTVRSExDSlBUNTZqcGlPOWhQUzI2N1c3ejNmNm9pbVN6bDhDNHVwWmRwYWs2bW9jNUpuTDgxd1JGYUJpTzlUdFU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney warns Canadians of tough days ahead as trade war spirals again - Luxembourg Times",
+      "excerpt": "Carney warns Canadians of tough days ahead as trade war spirals again Luxembourg Times",
+      "cat": "Economy"
+    },
+    {
       "id": "9c4066f1833ca311",
       "date": "2026-09-09",
       "src": "Canadian politics (via Google News)",
@@ -56,6 +80,30 @@
       "lang": "en",
       "title": "Mark Carney warns Canadians of tough days ahead as trade war spirals again - Moneycontrol.com",
       "excerpt": "Mark Carney warns Canadians of tough days ahead as trade war spirals again Moneycontrol.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "616fb1a199ff8941",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnltcU8tMldRTDJJaDJnSVRhVGNnazNhMW5zY1ZLWDhNWmw1UVpJcTljVHh5NHF3X05ZdTFrdjFtMHdGMmRIX1N4TF9qUHlDNDZTMEpNM3o0ZDNRb1o3bUR5ZDhZWlJTd1JwVkEyUC1rcV9xdWhvVFk5TWxqVkVkSmdyaG9Vdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney warns of tough times ahead in national address as retaliatory tariffs begin - Yahoo! Finance Canada",
+      "excerpt": "Carney warns of tough times ahead in national address as retaliatory tariffs begin Yahoo! Finance Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "7ea68eb808c5b32e",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2pUZ0ZwZGRVTk1MRjRSS2xxa2J4amd5Q1kwZGtyRk00bzVaR1cxZTl4dzJXUDc3ZUs3cFhGRFBETVRUcmNSN3NuUlVoYkNoWWxPZktRdVB2U2RPNlFCSW9jSWY4Ni1OVnhaTXhhc0pYaGJUNEt2eHA5bjg1bWo3YklFQ3lyMzhjcXV4d256XzlfY0JmaERkdUotbjd1WHRoMm5GdWlRQ0dPdi1jQzV6OG1aNGtEdVp5SVkzbDZmVGtiaWM1M2c5X2xMQTE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney warns of tough times ahead in national address as retaliatory tariffs kick in - ici.radio-canada.ca",
+      "excerpt": "Carney warns of tough times ahead in national address as retaliatory tariffs kick in ici.radio-canada.ca",
       "cat": "Economy"
     },
     {
@@ -193734,58 +193782,6 @@
       "title": "Fermeture complète de la traverse des Chaudières aux automobilistes",
       "sum": "Services publics et Approvisionnement Canada annonce la fermeture complète de la traverse des Chaudières pour les automobilistes. Cette fermeture affectera la circulation routière entre les deux rives.",
       "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "55b403bc14e8c8a9",
-      "date": "2025-05-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2025/05/les-responsables-de-lapplication-de-la-loi-denvironnement-et-changement-climatique-canada-deposent-200-chefs-daccusation-en-vertu-de-la-loi-sur-les.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "200 accusations contre ArcelorMittal Canada pour rejets non autorisés",
-      "sum": "Environnement et Changement climatique Canada a porté 200 accusations contre ArcelorMittal Canada inc. le 30 avril 2025 pour des violations présumées de la Loi sur les pêches concernant des rejets non autorisés de substances nocives.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "eac27d87e9fc2fbb",
-      "date": "2025-04-30",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/transportation-agency/news/2025/04/cta-announces-volume-related-composite-price-indices-for-crop-year-20252026-for-cn-and-cpkc0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "CTA announces price indices for crop year 2025-2026",
-      "sum": "The Canadian Transportation Agency has announced volume-related composite price indices for the 2025-2026 crop year for Canadian National Railway and Canadian Pacific Kansas City Railway. These indices are used to establish regulated grain shipping rates.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "cb4097344be5cb43",
-      "date": "2025-04-30",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/international-trade-tribunal/news/2025/04/tribunal-continues-ordersilicon-metal-from-china.html",
-      "type": "Order in council",
-      "kind": "official",
-      "lang": "en",
-      "title": "Trade tribunal extends anti-dumping order on Chinese silicon metal",
-      "sum": "The Canadian International Trade Tribunal continued its anti-dumping and anti-subsidy order on silicon metal imports from China. The order, originally issued in 2013 and last reviewed in 2019, remains in effect without changes.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "746b44499ca5380f",
-      "date": "2025-04-30",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/04/trade-commissioner-service-announces-new-resources-to-support-canadian-exporters-facing-us-tariffs.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Trade Commissioner Service launches resources for exporters facing U.S. tariffs",
-      "sum": "Global Affairs Canada is providing new resources through the Trade Commissioner Service to help Canadian exporters navigate U.S. tariffs and access benefits under the CUSMA trade agreement.",
-      "cat": "Economy",
       "ai": true
     }
   ]
