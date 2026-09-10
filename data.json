@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T03:37:15.839Z",
+  "generatedAt": "2026-09-10T10:51:29.375Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "603f177e8501d034",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWM5dEU4VENXSDJfZ3pINzhZQUJtQkd2aVNTeTBEM0tGRDBFck1HcUdEaF9xcElMV2QyWTAxRlIwMi1hVnF4bUhGTVYwQUVkRVY3dmhJbUpEbWtZck1SVXoxNGQxQVBVUVQ1UC1vQ1ZDTmhBWkRaZlJsY1FEdkpId2h0N1dwSzMzQ2NJYUduTjZBVnptcld1WjgwcTBQd1FBQ01JUFd4aFZTaUE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Feds quietly exempt oilsands and gas power plants from environmental impact assessments - Canada's National Observer",
+      "excerpt": "Feds quietly exempt oilsands and gas power plants from environmental impact assessments Canada's National Observer",
+      "cat": "Natural resources"
+    },
     {
       "id": "c81192e624d3a8fe",
       "date": "2026-09-10",
@@ -83,6 +95,30 @@
       "title": "Trump says Canada ‘dying’ to make trade deal as Carney updates review process for major energy projects - CTV News",
       "excerpt": "Trump says Canada ‘dying’ to make trade deal as Carney updates review process for major energy projects CTV News",
       "cat": "Economy"
+    },
+    {
+      "id": "65de1095295821a0",
+      "date": "2026-09-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkh6eDJrcV9fZTRpR0tKLUpQR3VZZDNqNnpqN0sxWGd0MS1LWEYySWZCZ2x3QnNDSlRtR2h2cE96cEZleUk4TUdsX0VjTEpVNXpFQW1FMUdIWFFEZzRSSnREUlUxNmNZb3o0a1VDV1VTTXE3Z3dwT2g5UEhBOFlDZU5TXzFwUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Liberals remove layer of review process for energy projects, backing off bypassing at-risk species protections - CBC",
+      "excerpt": "Liberals remove layer of review process for energy projects, backing off bypassing at-risk species protections CBC",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "ee4ff29d99a838f6",
+      "date": "2026-09-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVXplOTJqZEE1WWJfZlE1VjhPUkY5eWNnWHpfRGtBRjRxcmNrR1VabjMwTWdZbE5zZUQxYzZPSWxaVEZ4SE9fZTNUZVZMY2ZaOXRObnZxOU4yLWx2ZC16Tk13d3RfNkdkblc3MXhWeVNUeFh1cW1MZXN3VWk3b3BwcmZ4eGNnSHR3dXN6YTBjZi1UNmJqZ1d6U2kySnZoXy1uZFY0alFWWktWbFFsSU9iRjl2R2hVV05WX0FMb3lXeUdnSnlabnY2OWd2R0c5V1pHaWpPSlBReFpmYmdKUDdkNHNIdU1PN0lCOVJZZnd0S3hkVGc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government drops plan to bypass protections for at-risk species - Toronto Star",
+      "excerpt": "Carney government drops plan to bypass protections for at-risk species Toronto Star",
+      "cat": "Wildlife"
     },
     {
       "id": "7fc283fe08825254",
@@ -1058,6 +1094,18 @@
       "lang": "en",
       "title": "Mark Carney warns Canadians of tough days ahead as trade war spirals again - Moneycontrol.com",
       "excerpt": "Mark Carney warns Canadians of tough days ahead as trade war spirals again Moneycontrol.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "11c584584caafd48",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXViV1V6VlpaNzY5azdsMExtMzlzUzdaMEY0VVpNQ1dhSHdRLTNZbFh3MmpiU3QxczlLSGtNeE9WQmptZmJ0QjN3OTVFcG5Da1ZTZkJDdFNmYUZZSXVVVU82ZzVJRUs4MTdqT2RuM1ZRT0xJQ1gxUk1la1RCWC03Ml9zbjJhZl9TQXhDQTZOY0NzOWZiSklTQVhzeUN4ZjRwM1FFTkxkYmRxS3JIdERlZGpHa1FSdl91emdOdlYxbzQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says pivot away from U.S. will 'come at a cost' - APTN News",
+      "excerpt": "Carney says pivot away from U.S. will 'come at a cost' APTN News",
       "cat": "Economy"
     },
     {
@@ -48413,6 +48461,18 @@
       "excerpt": "Canadians doubt the public service is ready for future challenges Policy Options",
       "cat": "Economy",
       "lang": "en"
+    },
+    {
+      "id": "2aa88c89536e6fa0",
+      "date": "2026-06-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9neXFSQWxSYmFHNmI1Mk9uczhkMm9IVmszUGYzUUVWUnhqSkVKdU5DQ20tZEUxSGFPckRnY21OLW1iY0tNYm02Snh5b24yZTlYSS1oTDFxSXUwUExIblE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Youth and Advocacy Groups Take Federal Government to Court over 2030 Climate Plan - Environmental Defence",
+      "excerpt": "Youth and Advocacy Groups Take Federal Government to Court over 2030 Climate Plan Environmental Defence",
+      "cat": "Sustainable development"
     },
     {
       "id": "34c20cf0caba4bc7",
@@ -193702,71 +193762,6 @@
       "title": "Saisie d'objets interdits à l'Établissement Drummond",
       "sum": "Le 30 avril 2025, du personnel de l'Établissement Drummond, un établissement fédéral à sécurité moyenne, a saisi un colis contenant des objets interdits.",
       "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "5d846659a0704974",
-      "date": "2025-05-12",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/garde-cotiere-canadienne/nouvelles/2025/05/formation-de-la-station-dintervention-maritime-de-larctique-de-la-garde-cotiere-canadienne-a-parry-sound-ontario.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Formation en recherche et sauvetage pour équipages arctiques",
-      "sum": "La Garde côtière canadienne organise une formation en recherche et sauvetage pour ses équipages de la station d'intervention maritime de l'Arctique. Cette formation se déroulera du 14 au 28 mai 2025 à Parry Sound, en Ontario.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "1465c10c3760813a",
-      "date": "2025-05-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/food-inspection-agency/news/2025/05/protect-what-grows--learn-about-the-connection-between-human-animal-and-plant-health-this-international-day-of-plant-health.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "CFIA encourages Canadians to observe International Day of Plant Health",
-      "sum": "On May 12, 2025, the Canadian Food Inspection Agency is encouraging Canadians to learn about plant health and its connections to human and animal health. The agency is promoting awareness of the roles and risks affecting plant health on this international observance day.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "1befd98f89a713c9",
-      "date": "2025-05-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-national-defence/news/2025/05/hmcs-margaret-brooke-returns-from-historic-operation-projection.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "HMCS Margaret Brooke completes Operation PROJECTION deployment",
-      "sum": "HMCS Margaret Brooke has finished a deployment to South American, Antarctic, and Caribbean regions as part of Operation PROJECTION. The ship has returned from this mission.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "5f43f70921d04de6",
-      "date": "2025-05-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/05/tsilhqotin-nation-signs-historic-coordination-agreement-with-canada-and-british-columbia-towards-first-nations-led-child-and-family-services.html",
-      "type": "International agreement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Tŝilhqot'in Nation signs child and family services agreement",
-      "sum": "The Tŝilhqot'in Nation, Canada, and British Columbia have signed a Coordination Agreement to enable the First Nation to lead its own child and family services. The agreement operates under federal legislation that recognizes First Nations jurisdiction over children, youth and families.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "7ea569aa5aef0a21",
-      "date": "2025-05-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-national-defence/news/2025/05/royal-canadian-air-force-cf-18s-to-conduct-flyby-for-the-canadian-tulip-festival-in-ottawa.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "CF-18 aircraft to fly over Ottawa Tulip Festival",
-      "sum": "Four CF-18 fighter jets from 3 Wing Bagotville will conduct a flyover of the Canadian Tulip Festival in Ottawa on May 10th between 11:00 and 11:30 AM. The flyover marks the festival's opening and commemorates the 80th anniversary of the liberation of the Netherlands.",
-      "cat": "National defence",
       "ai": true
     }
   ]

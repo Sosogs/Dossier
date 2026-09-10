@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-10T03:37:15.839Z",
+  "generatedAt": "2026-09-10T10:51:29.375Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7843,
+      "actions": 7844,
       "sources": 9
     },
     "fr": {
-      "actions": 7157,
+      "actions": 7156,
       "sources": 7
     }
   },
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "603f177e8501d034",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWM5dEU4VENXSDJfZ3pINzhZQUJtQkd2aVNTeTBEM0tGRDBFck1HcUdEaF9xcElMV2QyWTAxRlIwMi1hVnF4bUhGTVYwQUVkRVY3dmhJbUpEbWtZck1SVXoxNGQxQVBVUVQ1UC1vQ1ZDTmhBWkRaZlJsY1FEdkpId2h0N1dwSzMzQ2NJYUduTjZBVnptcld1WjgwcTBQd1FBQ01JUFd4aFZTaUE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Feds quietly exempt oilsands and gas power plants from environmental impact assessments - Canada's National Observer",
+      "excerpt": "Feds quietly exempt oilsands and gas power plants from environmental impact assessments Canada's National Observer",
+      "cat": "Natural resources"
+    },
     {
       "id": "c81192e624d3a8fe",
       "date": "2026-09-10",
@@ -93,6 +105,30 @@
       "title": "Trump says Canada ‘dying’ to make trade deal as Carney updates review process for major energy projects - CTV News",
       "excerpt": "Trump says Canada ‘dying’ to make trade deal as Carney updates review process for major energy projects CTV News",
       "cat": "Economy"
+    },
+    {
+      "id": "65de1095295821a0",
+      "date": "2026-09-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkh6eDJrcV9fZTRpR0tKLUpQR3VZZDNqNnpqN0sxWGd0MS1LWEYySWZCZ2x3QnNDSlRtR2h2cE96cEZleUk4TUdsX0VjTEpVNXpFQW1FMUdIWFFEZzRSSnREUlUxNmNZb3o0a1VDV1VTTXE3Z3dwT2g5UEhBOFlDZU5TXzFwUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Liberals remove layer of review process for energy projects, backing off bypassing at-risk species protections - CBC",
+      "excerpt": "Liberals remove layer of review process for energy projects, backing off bypassing at-risk species protections CBC",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "ee4ff29d99a838f6",
+      "date": "2026-09-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVXplOTJqZEE1WWJfZlE1VjhPUkY5eWNnWHpfRGtBRjRxcmNrR1VabjMwTWdZbE5zZUQxYzZPSWxaVEZ4SE9fZTNUZVZMY2ZaOXRObnZxOU4yLWx2ZC16Tk13d3RfNkdkblc3MXhWeVNUeFh1cW1MZXN3VWk3b3BwcmZ4eGNnSHR3dXN6YTBjZi1UNmJqZ1d6U2kySnZoXy1uZFY0alFWWktWbFFsSU9iRjl2R2hVV05WX0FMb3lXeUdnSnlabnY2OWd2R0c5V1pHaWpPSlBReFpmYmdKUDdkNHNIdU1PN0lCOVJZZnd0S3hkVGc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government drops plan to bypass protections for at-risk species - Toronto Star",
+      "excerpt": "Carney government drops plan to bypass protections for at-risk species Toronto Star",
+      "cat": "Wildlife"
     },
     {
       "id": "7fc283fe08825254",
@@ -1068,6 +1104,18 @@
       "lang": "en",
       "title": "Mark Carney warns Canadians of tough days ahead as trade war spirals again - Moneycontrol.com",
       "excerpt": "Mark Carney warns Canadians of tough days ahead as trade war spirals again Moneycontrol.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "11c584584caafd48",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXViV1V6VlpaNzY5azdsMExtMzlzUzdaMEY0VVpNQ1dhSHdRLTNZbFh3MmpiU3QxczlLSGtNeE9WQmptZmJ0QjN3OTVFcG5Da1ZTZkJDdFNmYUZZSXVVVU82ZzVJRUs4MTdqT2RuM1ZRT0xJQ1gxUk1la1RCWC03Ml9zbjJhZl9TQXhDQTZOY0NzOWZiSklTQVhzeUN4ZjRwM1FFTkxkYmRxS3JIdERlZGpHa1FSdl91emdOdlYxbzQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says pivot away from U.S. will 'come at a cost' - APTN News",
+      "excerpt": "Carney says pivot away from U.S. will 'come at a cost' APTN News",
       "cat": "Economy"
     },
     {
@@ -10227,54 +10275,6 @@
       "title": "Conservatives ask Carney to release U.S. trade offer details - CP24",
       "excerpt": "Conservatives ask Carney to release U.S. trade offer details CP24",
       "cat": "Economy"
-    },
-    {
-      "id": "b262b59366088382",
-      "date": "2026-08-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGNfNkdPODNObFE4OHRaQUU0cm12WDRsSm5nZFFJU25BMERZNEZEbG1kTHluR0tVTDN5NnZrbEhIbThBd25ZY1o2OTFKMnBUcjh4YzlYaGxVYnF1VHFsMVRZeFlmdklaOVNXdFdpdnp5aGRDajJYV2w5WGxqSjN6ZTZyNl9rSXR5M0JBeTI1dnNwYXczdEJVNmFQLXE1N2NjUEhMREJoUzAwMmo1STUtOWhB?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "PM Carney unveils $11 billion in funding to make 6 icebreakers in Quebec - CTV News",
-      "excerpt": "PM Carney unveils $11 billion in funding to make 6 icebreakers in Quebec CTV News",
-      "cat": "Economy"
-    },
-    {
-      "id": "56b4a96d3efaab25",
-      "date": "2026-08-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUQlItbTJ0M0ctbmFvSWd1dkowSk81b3JKckFvejRlQXl3LTRmSUJBaGZWV0VNSGN4UWVoTWowcUZtb1RxSFlXX2hDYk9JdHpZaW95N1U2cy1vQzB5dXhoSi1GS1hoRXVwRHE4RkpxZm5MUWUzd0hBOGo3SQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney commits $11B to build 6 icebreakers in Quebec - Global News",
-      "excerpt": "Carney commits $11B to build 6 icebreakers in Quebec Global News",
-      "cat": "Economy"
-    },
-    {
-      "id": "565eb3aaaf1256b6",
-      "date": "2026-08-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHItLWRFTEFwczJoUTU4a0JpZmdfTm1wTW45Wkg0el82eEVaVm9VWkNmeGE4dFd1TXFQX20zWVJubTQxNlhRUUVFUUwtdTQ4cHhUSllVZFNkLUY5SUxRQ2hFZEpXTU15WWZFbF92Xzg0aExFRnRZZ05jWlJjM2FDWkQ3ZkRySDhXLXNhMmhTNHdvYWM?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "FIRST READING: Carney was elected to save the economy. It's only gotten worse - National Post",
-      "excerpt": "FIRST READING: Carney was elected to save the economy. It's only gotten worse National Post",
-      "cat": "Economy"
-    },
-    {
-      "id": "cc5c7e359c13da56",
-      "date": "2026-08-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGUzS0haUndQa2JiOS1lTFZPMUhQWFRvWTJGSVhsaFZyTkhrYzdrSlpmZWpLZC1Udy01X2lxbWN0ZHBUM0VwVzVzZV9KV2dHZlZleHdRa2RZOE9ibHpDYXVBYmMwRWZoamhUNkJmSDluS0dtRGNRa3FNblhSNEt5Q1ctT3hLZnVRa2E4YjhPS3B1NHVVMWRiX1NzV1N2Umd2RGNzX21QV0d3TlVR?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney announces construction of new icebreakers will begin next year - Nunatsiaq News",
-      "excerpt": "Carney announces construction of new icebreakers will begin next year Nunatsiaq News",
-      "cat": "Infrastructure"
     }
   ]
 }
