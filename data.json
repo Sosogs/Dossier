@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T03:35:00.866Z",
+  "generatedAt": "2026-09-11T10:47:47.758Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -35,6 +35,18 @@
   ],
   "items": [
     {
+      "id": "d767994b82b99936",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEdERlFsTGZ0SFgyWFJPNGpmNVVqS3Q5MVdFMGRmM2w0Mk5QdEpGOVlRcDJFcFZQVkVUMnlOa1RYNkZmMDN1bzdYLTRHWmNVWVlvYjlYelYySXA5TE16SVpzLU1DbUNXWmxkRkVhUUJ5ajgxbm03bzQ2WnowUElEUnBMQl9yNjUtSG5yTjRsZWZSYTA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney's government has mastered the political art of taking out the trash - Canada's National Observer",
+      "excerpt": "Carney's government has mastered the political art of taking out the trash Canada's National Observer",
+      "cat": "Economy"
+    },
+    {
       "id": "180ffc8c1cef6f78",
       "date": "2026-09-11",
       "src": "Canadian politics (via Google News)",
@@ -56,6 +68,18 @@
       "lang": "en",
       "title": "Canada still studying Trump's latest trade attack: Carney - Castanet",
       "excerpt": "Canada still studying Trump's latest trade attack: Carney Castanet",
+      "cat": "Economy"
+    },
+    {
+      "id": "3ee45eb548b3d066",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SQzVndWxySVVCYWp2ZWotSXZURVhsSjVZS0ZmVVg5Umk1eHIxaVpiVTBWUDZxYzNTb2lEaTVLNGlFc1NkVEdsaUVSX0I4WW83ZHRHTmR3XzY0SExNYXRyZmdpREszajZDNVRXTWlTOXJ3TVB0TXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s cabinet meets in Banff as Trump escalates trade war - globalnews.ca",
+      "excerpt": "Carney’s cabinet meets in Banff as Trump escalates trade war globalnews.ca",
       "cat": "Economy"
     },
     {
@@ -10866,6 +10890,18 @@
       "lang": "en",
       "title": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet - The Washington Post",
       "excerpt": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "17a1c84ba80f28ca",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXgzeWFycXdYdWhlWkduakRMU09xTm9xcEVsdmR6OU5rUmVCUFBvajFPTVA5NHdsRHAtaXN6TjRGdWJjVDlKZHlfdGlwVmhjMUxBS21tZkZ3ZFhDT2x5UVVEOWtuRzhQTjJRblROUVlqeWhIbXdEUnhyd0tndWYzcVdpUXNlVFJGYzRTUGp3SENWYVRnQzZBWVB1cHh0MTlqTHhwdk1yY0p1am55NW1vWm5qMWpPNnpBRHU0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ford wants Ontario to hit back after Trump’s latest tariffs on Canada - CTV News",
+      "excerpt": "Ford wants Ontario to hit back after Trump’s latest tariffs on Canada CTV News",
       "cat": "Economy"
     },
     {
@@ -193712,45 +193748,6 @@
       "title": "Canada, Australie et Nouvelle-Zélande déclarent sur l'invasion russe",
       "sum": "Les gouvernements du Canada, de l'Australie et de la Nouvelle-Zélande ont publié une déclaration conjointe suite aux rencontres ministériques de l'APEC en Corée. La déclaration porte sur l'invasion illégale de l'Ukraine par la Russie.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "f67903eeab1ca6c3",
-      "date": "2025-05-17",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/05/declaration-a-loccasion-de-la-journee-internationale-contre-lhomophobie-la-biphobie-et-la-transphobie.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada exprime sa solidarité envers les personnes LGBTQ+ le 17 mai",
-      "sum": "À l'occasion de la Journée internationale contre l'homophobie, la biphobie et la transphobie, le Canada manifeste son soutien aux personnes bispirituelles, lesbiennes, gaies, bisexuelles, transgenres et de diverses identités sexuelles et de genre. Le gouvernement affirme son engagement envers les personnes confrontées à la discrimination ou à la violence en raison de leur identité.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "cc3ed78ce469fa2e",
-      "date": "2025-05-16",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/national-film-board/news/2025/05/broadcasting-notice-of-consultation--crtc-2024-288-the-nfb-defends-documentary-and-canadian-content-before-the-crtc.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "NFB argues for cultural elements in Canadian programming definition",
-      "sum": "The National Film Board of Canada presented arguments to the Canadian Radio-television and Telecommunications Commission regarding the definition of Canadian programming. The NFB advocated for including cultural elements in this definition and highlighted the importance of documentary film in Canada.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "614206e3135d3436",
-      "date": "2025-05-16",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-coast-guard/news/2025/05/canadian-coast-guard-inshore-rescue-boat-stations-to-open-across-atlantic-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canadian Coast Guard opens inshore rescue boat stations in Atlantic Canada",
-      "sum": "The Canadian Coast Guard is opening Inshore Rescue Boat stations across Atlantic Canada. These stations will provide rescue capabilities in coastal waters.",
-      "cat": "Public safety",
       "ai": true
     }
   ]
