@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-10T20:32:52.377Z",
+  "generatedAt": "2026-09-11T03:35:00.866Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7851,
+      "actions": 7854,
       "sources": 9
     },
     "fr": {
-      "actions": 7149,
+      "actions": 7146,
       "sources": 7
     }
   },
@@ -44,6 +44,80 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "180ffc8c1cef6f78",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeDl1b19rcTlXMkw3dFNjZ0FOWHhoUW13azUzRU0yMUZLb21palJ0Q0dDeG9kRGVfYzM5aFkzeE41MGhzQ0lyNUhQYXNSWExwY2Z1cmIxc0tqc2F0TXFtT3c3QWxBdDNNRUhNaE55dnpfaVJod0FlSDRlallWaVNYc3QxaTcwLVhFT0lPcnl3X0hQT2JyeVJ0Sl9CaldnaGJCZS04?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney’s cabinet huddles in Banff as trade war intensifies - CTV News",
+      "excerpt": "PM Carney’s cabinet huddles in Banff as trade war intensifies CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "67d27266397e9309",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPay03Ym5sNlhDYnlPb3owdlM5OGt4WnRTdXRRMzFvU2N1dzh2YzhIWmREWDU4Q1k2MExaaEJVMTZIRkdKTldlN2dQZTlhRWZXcWsxckdENVpBT3k5cjVpbGFIQmFwMTNnTjFYZ0xwNGJYdUFzU0R1QVlQbGJxOFY3MWk2czM0aWpGR1htbGdvazMwXzB0c1JjLWNTbVV4SkRjMXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada still studying Trump's latest trade attack: Carney - Castanet",
+      "excerpt": "Canada still studying Trump's latest trade attack: Carney Castanet",
+      "cat": "Economy"
+    },
+    {
+      "id": "5b29e95b1e32ce23",
+      "date": "2026-09-10",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/secretary-of-state-van-koeverden-to-make-an-announcement-on-building-canada-strong-through-sport.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Secretary of State announces sport initiative in Alberta",
+      "sum": "The Secretary of State will make an announcement in Alberta regarding a program called Building Canada Strong through Sport. The announcement relates to the government's approach to sport as a means of national unity.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "10652250ea664071",
+      "date": "2026-09-10",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-secretaire-detat-van-koeverden-fera-une-annonce-concernant-le-recours-au-sport-pour-batir-un-canada-fort.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Secrétaire d'État annonce initiative sportive en Alberta",
+      "sum": "Le secrétaire d'État van Koeverden fera une annonce en Alberta concernant l'utilisation du sport pour renforcer le Canada. Cette annonce portera sur le rôle du sport dans l'unité nationale.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "de8b4131b4796fd5",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjJxZjZjZGlUNHp0cWVOdGxQeUt3MnQ4TWVNR0xOakdjdjd0aDAxb3FEOHplZjFfaDJqS21xVTl4N0FFeEpHdk94MVFVSkw3bXh5V09jajFkZ0dJbU9rcGpNYld0Y05RTDk5X2VJNVZxRGg0bk9PeDVOb1kxaWU4SzhZcThodw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "From pipelines to railways and AI: Ottawa pitches 167 projects ahead of Carney's investment summit - CBC",
+      "excerpt": "From pipelines to railways and AI: Ottawa pitches 167 projects ahead of Carney's investment summit CBC",
+      "cat": "Transportation"
+    },
+    {
+      "id": "3fae66edc98e9bc5",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmhiREQ1bkFXcm1xMW04bnNIZWtrc0xuanZzUDBIMWtHLURmbnhaSnQ0SHNDTlFPSHdHNUNnZEhZV0JfYXNnTHNDTVBuUnU5UVZYY24tRXpoQkQwUFhuTUpQa3czYTZ1UkoyWHFfcDdMNWlOakItTUN6V19tOWFFNVhfanpRX2wyaEdneEFITWM2V085NGNUSGJ6U19PaFZFTnRTdEpna1BPWURraVQxSTJiQUhtUUVCd1BmR2NJRlhJYlpuZDl5YTdyNEI?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney bolsters plan to ‘build here’ as companies look to avoid Trump’s latest tariffs. Live updates here. - BNN Bloomberg",
+      "excerpt": "Carney bolsters plan to ‘build here’ as companies look to avoid Trump’s latest tariffs. Live updates here. BNN Bloomberg",
+      "cat": "Economy"
+    },
     {
       "id": "515f1b6a0906e50a",
       "date": "2026-09-10",
@@ -651,6 +725,30 @@
       "date": "2026-09-10",
       "src": "Canadian politics (via Google News)",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVWlQLVZwYzh6dEVoZFVJQklncjFTdFVkeXZWb2hwZHNYMW9icU1SYmt5SUVGVEx1aGhua250bWhBVUdMQVBkbjVyOUJrYlNEY3dQTGNrTW40YjlvZWFCazhVMWdzWWZMZ0tfejBhbkR1cGdYb053R1gwVFpmVXZMZk1TY0paZkJ2ZHBRWkxHQUZURTdOcnlNVmdxdEpBUEhpeDZUUDljY2t0c0FRc2pWMzB5THhwaGppQ1MxQnZKZ0k0c0Y5aVBYX2xxVUpJZjVwT2JCcHo4a2xNSHhRTjFVM04tcU81Z0JXVGc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Trump says Canada ‘dying’ to make trade deal as Carney updates review process for major energy projects - CTV News",
+      "excerpt": "Trump says Canada ‘dying’ to make trade deal as Carney updates review process for major energy projects CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "490f594cd35244e4",
+      "date": "2026-09-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83NUZBdVFnQ1JVN1k3QTVwQjJvd1dCZlBuY3lid25fekd0UFJtRHN1M2RKVE5DUkYzT2RMSjdLT2NLamJnQ2NZR0VCNkZnR0pXak9QWUs2VDNHckk3d1VhN1Budmx5Rm85bFgtNzBn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The evolving Carney climate plan - Canadian Climate Institute",
+      "excerpt": "The evolving Carney climate plan Canadian Climate Institute",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "cf0a7e38f43af823",
+      "date": "2026-09-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa2ZkUXR2ckdHMFl0Vkw0RGdvOTBBRWotX19TLUVSTURaTnBFTU4zUEowNW1pT1pCQmtWdTFSdjlVekp0ZWtyVml2UGJJMVNwckNFUDZlMVFoOUlkVllwRzVhT2lNdHVxMjlEczlXcnBCNE9ndEJwR3p0aXZSdXljM1hrLUt1VHc5OXVxUUZGR1JUY2pXaWswLWRZMnQ5eTU3ald6R2s0cDlENHV0S2JMc2JtVjh4c2lEcDVVVzFvM1dudXQ1SERWT3FVMnZnYjRnNWk5ZkVfeFdubm1oaUlpWURESXRScGVpcXdvYjB4SWM0c2dGOTdFRkFn?oc=5",
       "type": "Announcement",
       "kind": "news",
       "lang": "en",
@@ -10175,110 +10273,6 @@
       "title": "Federal funding announced for Cold Lake region economic development",
       "sum": "The federal government is providing funding to support economic development opportunities in the Cold Lake region. The announcement will be made by the Member of Parliament for Edmonton Riverbend on behalf of the Minister responsible for Prairies Economic Development Canada.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "22c841afa4d09db2",
-      "date": "2026-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/employment-social-development/news/2026/08/government-of-canada-invests-in-workforce-training-to-support-the-life-sciences-and-biomanufacturing-sector.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests in life sciences and biomanufacturing workforce training",
-      "sum": "The Government of Canada is providing funding for workforce training programs in the life sciences and biomanufacturing sectors. This investment aims to develop skilled workers to support these industries.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "cdba80d722af6f54",
-      "date": "2026-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/08/government-of-canada-and-tsilhqotin-national-government-to-advance-construction-of-a-new-pacific-salmon-hatchery-for-fraser-chinook.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada and Tŝilhqot'in Nation to build Fraser Chinook salmon hatchery",
-      "sum": "The Government of Canada and the Tŝilhqot'in National Government are advancing a project to construct a new Pacific salmon hatchery focused on Fraser Chinook salmon. The initiative involves collaboration between Indigenous governments and Fisheries and Oceans Canada to help rebuild salmon populations in British Columbia and Yukon.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "7a5af4627279e88d",
-      "date": "2026-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/08/government-of-canada-and-gitanyow-first-nation-advance-construction-to-build-new-kitwanga-river-hatchery-for-skeena-sockeye.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada and Gitanyow First Nation advance Kitwanga River hatchery construction",
-      "sum": "The Government of Canada and Gitanyow First Nation are moving forward with building a new hatchery on the Kitwanga River to support Skeena sockeye salmon populations. Hatcheries help conserve and rebuild vulnerable Pacific salmon while supporting the social, cultural, and economic needs of communities.",
-      "cat": "Wildlife",
-      "ai": true
-    },
-    {
-      "id": "f9e5f93d5121af4a",
-      "date": "2026-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/08/government-of-canada-and-lheidli-tenneh-first-nation-to-build-new-prince-george-hatchery-for-fraser-river-chinook.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada and Lheidli T'enneh to build Prince George Chinook hatchery",
-      "sum": "The Government of Canada and Lheidli T'enneh First Nation will construct a new hatchery in Prince George to support Fraser River Chinook salmon populations. The project responds to declining salmon numbers caused by climate change, habitat loss, and fishing pressure.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "0b73118c697bfa37",
-      "date": "2026-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/transport-canada/news/2026/08/minister-mackinnon-to-make-an-announcement-at-the-prince-rupert-airport-regarding-critical-infrastructure.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Transport Minister to announce airport infrastructure plans in BC",
-      "sum": "The Minister of Transport will make an announcement about critical infrastructure for airports in British Columbia at the Prince Rupert Airport.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "02bc2cdd2a6b3338",
-      "date": "2026-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2026/08/death-of-an-inmate-from-bath-institutions-regional-treatment-centre.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inmate death at Bath Institution Regional Treatment Centre",
-      "sum": "Robert William Buchanan, an inmate at Bath Institution's Regional Treatment Centre, died on August 24, 2026, while in custody from apparent natural causes.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "a6bf6b920eed2871",
-      "date": "2026-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/08/newfoundland-and-labradors-space-and-defence-sectors-set-for-lift-off-with-significant-investment.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal investment announced for Newfoundland and Labrador space defence sectors",
-      "sum": "The federal government will announce a significant investment to support the space and defence sectors in Newfoundland and Labrador. The announcement will be made by the Minister of Justice and Attorney General of Canada.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "ee70a743a96a9eaa",
-      "date": "2026-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-health/news/2026/08/government-of-canada-invests-6-million-to-help-canadians-get-active-with-participaction.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests $6 million in ParticipACTION physical activity program",
-      "sum": "The Government of Canada announced $6 million in continued funding for ParticipACTION, a program that encourages Canadians of all ages to incorporate physical activity into their daily lives.",
-      "cat": "Healthcare",
       "ai": true
     }
   ]
