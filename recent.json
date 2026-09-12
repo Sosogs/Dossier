@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-12T03:39:33.221Z",
+  "generatedAt": "2026-09-12T10:16:40.727Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7860,
+      "actions": 7862,
       "sources": 9
     },
     "fr": {
-      "actions": 7140,
+      "actions": 7138,
       "sources": 7
     }
   },
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "44a96035c6197427",
+      "date": "2026-09-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wVnIwcWNQNDljWEdmZW1iRHVNY1Bqc1kzdGhGRXlzMUFITWNPSjhuV0xDOUwxaEh0Q3l1a2lpZXh1YXlaVHBpNUpCQ1MyZ2RnTU5JdWlGb1FsVzU2U1htUmxSWGlkOW1uWVhhS0Zn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal Politics: Liberals Regain Ground - leger360.com",
+      "excerpt": "Federal Politics: Liberals Regain Ground leger360.com",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "347ebbaff970f406",
+      "date": "2026-09-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFQ5eFFMYlRVV2xOMkdCTFFlam51ODMxLTQwSllpVk1vdFIxRHV2NURkNFRYa21ZRmdEd0Vvay15RXhOSFozUHVDOHY5YWZ0QTlhWUF3VUhrSkFSN2x0UXh3R25oUlNvQXgwZFNYZ2FuZmI2d2J1NkozTVZTNUo0OTI1bVlpb1Z0N05zdnl2SlFQUmhRTWNyYm1NLVV1Qk9jYXhhYmx6bzVHd0pYb0pYNWRXUzJTVHcyZDNQVDluMURqNzNBeVhz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews - nai500.com",
+      "excerpt": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews nai500.com",
+      "cat": "Sustainable development"
+    },
     {
       "id": "bbc1c28196f089f5",
       "date": "2026-09-11",
@@ -10252,32 +10276,6 @@
       "title": "Canada Finance Ministry meets stakeholders on US tariff response",
       "sum": "Finance Canada's Deputy Minister Nick Leswick and senior officials held a briefing with Canadian industry and labour representatives to discuss economic issues between Canada and the United States related to American tariffs.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "ecb62531596ad0c2",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-gouvernement-du-canada-soutient-la-societe-dhistoire-du-lac-saint-jean-pour-la-realisation-dune-exposition-au-musee-lodyssee-des-batisseurs.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada finance une exposition au musée du Lac-Saint-Jean",
-      "sum": "Le gouvernement du Canada accorde un financement à la Société d'histoire du Lac-Saint-Jean pour réaliser une exposition au musée l'Odyssée des Bâtisseurs.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "e91109ae5f1524cb",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2026/08/lasfc-lance-les-travaux-de-construction-au-point-dentree-de-pleasant-camp.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "ASFC amorce construction au point d'entrée Pleasant Camp",
-      "sum": "L'Agence des services frontaliers du Canada commence les travaux de construction à la station frontalière de Pleasant Camp. Ce projet vise à améliorer les installations à ce point d'entrée.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]

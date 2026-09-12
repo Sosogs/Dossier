@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T03:39:33.221Z",
+  "generatedAt": "2026-09-12T10:16:40.727Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "44a96035c6197427",
+      "date": "2026-09-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wVnIwcWNQNDljWEdmZW1iRHVNY1Bqc1kzdGhGRXlzMUFITWNPSjhuV0xDOUwxaEh0Q3l1a2lpZXh1YXlaVHBpNUpCQ1MyZ2RnTU5JdWlGb1FsVzU2U1htUmxSWGlkOW1uWVhhS0Zn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal Politics: Liberals Regain Ground - leger360.com",
+      "excerpt": "Federal Politics: Liberals Regain Ground leger360.com",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "347ebbaff970f406",
+      "date": "2026-09-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFQ5eFFMYlRVV2xOMkdCTFFlam51ODMxLTQwSllpVk1vdFIxRHV2NURkNFRYa21ZRmdEd0Vvay15RXhOSFozUHVDOHY5YWZ0QTlhWUF3VUhrSkFSN2x0UXh3R25oUlNvQXgwZFNYZ2FuZmI2d2J1NkozTVZTNUo0OTI1bVlpb1Z0N05zdnl2SlFQUmhRTWNyYm1NLVV1Qk9jYXhhYmx6bzVHd0pYb0pYNWRXUzJTVHcyZDNQVDluMURqNzNBeVhz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews - nai500.com",
+      "excerpt": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews nai500.com",
+      "cat": "Sustainable development"
+    },
     {
       "id": "bbc1c28196f089f5",
       "date": "2026-09-11",
@@ -193719,32 +193743,6 @@
       "title": "Objets interdits saisis à l'Établissement de Collins Bay",
       "sum": "Entre le 10 et 20 mai 2025, du personnel de l'Établissement de Collins Bay a saisi plusieurs colis contenant des objets interdits et non autorisés. Cet établissement fédéral offre différents niveaux de sécurité.",
       "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "d3d22404b915c372",
-      "date": "2025-05-22",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2025/05/environnement-et-changement-climatique-canada-fera-un-survol-de-la-saison-des-ouragans-prevue-en-2025.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada prévoit examen saison ouragans 2025",
-      "sum": "Environnement et Changement climatique Canada présentera un aperçu de la saison des ouragans attendue en 2025. Un météorologue du Centre canadien de prévision des ouragans animera cette présentation.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "205a8951149e488f",
-      "date": "2025-05-22",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2025/05/lescalier-de-lescarpement-de-la-colline-du-parlement-et-le-pavillon-dete-rouvriront-aux-pietons.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Réouverture de l'escalier et du pavillon de la Colline du Parlement",
-      "sum": "L'escalier de l'escarpement ouest de la Colline du Parlement et le Pavillon d'été derrière l'édifice du Centre rouvriront aux piétons le 23 mai après des travaux de réparation.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]
