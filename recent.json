@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-12T15:11:41.803Z",
+  "generatedAt": "2026-09-12T20:18:16.817Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7863,
+      "actions": 7862,
       "sources": 9
     },
     "fr": {
-      "actions": 7137,
+      "actions": 7138,
       "sources": 7
     }
   },
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "7074da67c6fe0b7a",
+      "date": "2026-09-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOVZ6eHN6UmJCNE9Ba1A2NVNrVjFDd1k4Y194U19TUFFQWm1pb3NuaVk1QmVNQXhSOTlEemMwU0F1Q0FXX2hHbnJZX0plWVNsLXZvNFl1UEJVN2dZSl9hVklfeS1qWWNRaVF3NG9hd0FYMnhnUklvTXU4V09GTXdueWFCdU9MM09QVG41bXJJUWFTN09teUR0R0ZBTXkyZ2Z1YVQ2NXZRTllvNk9pMW02WjlyLW9ybXpTTDdaRU5sS3o4YmNKWVF4T0p2aUN5WDgz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘If climate plan is credible, defend it’: Youth push back against Carney government’s bid to strike lawsuit - MBC Radio",
+      "excerpt": "‘If climate plan is credible, defend it’: Youth push back against Carney government’s bid to strike lawsuit MBC Radio",
+      "cat": "Justice"
+    },
+    {
+      "id": "ba1449cef97c181a",
+      "date": "2026-09-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12UHBTTDZlZi1SSjVmdHZMSnp0QXZvbHZjaFJPbzZXQUN4UmVBaXhIZl9TaEtlNlNLcU1PTGZGY2lJaTNNZVFqOGlXLWxxNm5XRHM1S3ZfYUYwQmtCQ3YyTlhxS3JudXpmUnJvWg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "🟢 Juno Jump Start: Independent Press Gallery condemns Carney government after Bexte removed - Juno News",
+      "excerpt": "🟢 Juno Jump Start: Independent Press Gallery condemns Carney government after Bexte removed Juno News",
+      "cat": "Economy"
+    },
     {
       "id": "76165525090a712f",
       "date": "2026-09-12",
@@ -93,6 +117,30 @@
       "title": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews - nai500.com",
       "excerpt": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews nai500.com",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "74d1c21dbc8cad13",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmtvc043YjBVY05ONmlteElQeXlsX1cwYmx5MHhWY3I3TTdUQkEwdEJQdTBJUTlDSTBOMUg5TVBkTWJNYmFsQ0V1YW1HdG5LVFdQSkN3OFdIOUpWTS1KTGcySWlrUmw3cU95cEtVVkI4ZHRsZEZqTWVydm1ZRDNIVjJidGwzdjdmT1hEckg0dFRnLTYwanEtaW9jWmI5dzQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney wants the world's biggest funds to invest billions in Canada. Will they buy in? - Financial Post",
+      "excerpt": "Mark Carney wants the world's biggest funds to invest billions in Canada. Will they buy in? Financial Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "b2421da447a9df4d",
+      "date": "2026-09-11",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWQxbDVHdUNtQmtnbHlNUzh1S3Q2N3lzVVpMdlpHUllGS19NeFZCeXhHX3F4Nk9PYVlDOUZKbWNIY20ta3NrRkJ6d1FVbEtreGRZbnlqRS1BaGhodVh6TEd0Y09aNTVqbHpKZzZFZVozM1BPek5jS2czdzdzSTdhc0Y4SEV5bTdtaDJkcnZVOENzZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le commerce interprovincial au menu de la retraite du gouvernement Carney à Banff - Radio-Canada",
+      "excerpt": "Le commerce interprovincial au menu de la retraite du gouvernement Carney à Banff Radio-Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "bbc1c28196f089f5",
@@ -581,6 +629,42 @@
       "title": "Canada still studying Trump's latest trade attack: Carney - Castanet",
       "excerpt": "Canada still studying Trump's latest trade attack: Carney Castanet",
       "cat": "Economy"
+    },
+    {
+      "id": "c472c7fd08db6fa0",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTDdYWmFwSV9BQXR3ZUJGeFlveThfNGZVZng2bWVaQjdHSENjZU96Nk5ySzFOMjJfMHY3MC1kcGQ5OE4wdkpqblN6eHhoXy14aXlkMVVnamhVYnJXYVMyVExjanhNNXB0dzdVQ0hNTjVBalJqQW43X1hfaHMya3BocDA0b1I2UW1TT1VEYklzUElROU9MYjdOamtpTEhkSXI5YU1vWUxKamlablphd285QTVQX1JYOHVsdmJONkR5YTZYdmU4cmppdEhGd2pyZjZaazB4OU5iZFpFZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada needs millions of drones to upgrade fighting ability, Mark Carney says - Toronto Star",
+      "excerpt": "Canada needs millions of drones to upgrade fighting ability, Mark Carney says Toronto Star",
+      "cat": "Economy"
+    },
+    {
+      "id": "b837cf226d722831",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQmxfTkVfanI1RmUzZmhJZ1JTcHIyeGdVbXFja3NrVkNLVXM4TW1kVnltRnVPa29JbmJVUW56T1E2WHF0ZGFwU1Z4Z3VEUnVuT2pmeVUzcDcxdmJpOUlYUXhLa1hPaVdTNzRUaE1rZFNmbWRqcnY5Tk5DaWN4bXc2SFNVME04cTJMSGdGdldLWW5JamVCUUlQMG9ES2xvdU4zemkwYmVxeUFmZnhxcVFxU19GMWRkOGtydk9FTFRtT1RqU2Z0UnRram5Qak5LY1N5cnBjXzhoLXNBTVdScVk0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Trump says Canada ‘dying’ to make trade deal as Carney updates review process for major energy projects - CP24",
+      "excerpt": "Trump says Canada ‘dying’ to make trade deal as Carney updates review process for major energy projects CP24",
+      "cat": "Economy"
+    },
+    {
+      "id": "0074b3d089d2e072",
+      "date": "2026-09-10",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYUt6U1lPZTNKeTdXd1ppQWxiRTVnTTVXY1NRTWZyWjFoekJwLWQ1Y1ItWjVROThfdmNPNlkxTzBWbzVhZEFWbEtUUWU3WmdVVDg5dW03c1ZhcTlLVWFzQjh3a2dXdTFjMHpLeElpbzBFbEM4cm9KRm9BYWZhY3drb0Q1OHJJOUU3LXVtczRpOUJKR3ltc1RLZUozbWlTOVNQbV9tSnQ0SGphZlJEZjhNb0lTNDliN3hIQzVXRVVZMFlscm4yRHJwUnEwaXN4THc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Les pipelines ne sont plus soumis à la loi fédérale sur l’évaluation des impacts environnementaux - Le Devoir",
+      "excerpt": "Les pipelines ne sont plus soumis à la loi fédérale sur l’évaluation des impacts environnementaux Le Devoir",
+      "cat": "Natural resources"
     },
     {
       "id": "212f7419a6dc7e83",
@@ -2342,6 +2426,18 @@
       "lang": "en",
       "title": "Mark Carney warns Canadians of tough days ahead as trade war spirals again - Moneycontrol.com",
       "excerpt": "Mark Carney warns Canadians of tough days ahead as trade war spirals again Moneycontrol.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "cdcb24e78404a9ee",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0dMdU9XWjEwTDhmUmpOdUhnM2dwMGlTNllEZXNOYmxPbmdiTU5hd0pKLUU1YkZyTXNKRExuWW15d2pMMkgxbVVTT05MV084SkktUFRpc2Z6OXpLa2p3T25QMC15cVVfWnZacFlKME10MHM2YVprZ2RidVplR0I4bklZdVVhbThVQ0o3UGZaVTF2dXp0YzVPRjVQOVY1NUNaUUg2MDg1NWk1YVp2bWJFcXU2TTlSWEd2QnhzYUNiZWIzSjdMSVRYMUJYWVo?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney warns of tough times ahead in national address as retaliatory tariffs kick in - bnnbloomberg.ca",
+      "excerpt": "Carney warns of tough times ahead in national address as retaliatory tariffs kick in bnnbloomberg.ca",
       "cat": "Economy"
     },
     {
@@ -10172,110 +10268,6 @@
       "title": "Le Canada investit 700 000 $ dans La Ruche du Québec",
       "sum": "Le gouvernement du Canada accorde une aide financière de 700 000 $ à La Ruche, un organisme québécois qui soutient les entreprises innovantes. Ce financement provient de Développement économique Canada pour les régions du Québec.",
       "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "53570157e07a97ba",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/08/la-ministre-joly-annoncera-les-nouveaux-titulaires-des-chaires-de-recherche-du-canada-eddie-goldenberg-et-des-investissements-pour-recruter-les-mei.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Joly annonce titulaires Chaires recherche Canada",
-      "sum": "La ministre Joly annoncera les nouveaux titulaires des Chaires de recherche du Canada Eddie Goldenberg et des investissements destinés à recruter des chercheurs et renforcer le secteur des sciences de la vie en Colombie-Britannique.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "0203ee46ee0f8a18",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-prairies/nouvelles/2026/08/le-gouvernement-federal-investit-dans-les-secteurs-de-lenergie-et-de-laviation-de-cold-lake-afin-de-contribuer-a-batir-un-canada-plus-fort-et-plus-.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Gouvernement fédéral investit dans l'énergie et l'aviation à Cold Lake",
-      "sum": "Le gouvernement fédéral annonce des investissements dans les secteurs de l'énergie et de l'aviation à Cold Lake. Ces investissements visent à renforcer la position stratégique du Canada, créer des débouchés économiques et soutenir le développement de la main-d'œuvre et des projets d'exploitation des ressources dirigés par les Autochtones.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "5401428b2035a205",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2026/08/aider-les-agriculteurs-de-lalberta-confrontes-a-des-conditions-dhumidite-extreme.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Modifications au programme Agri-stabilité pour agriculteurs albertains",
-      "sum": "Les gouvernements de l'Alberta et du Canada ont modifié le programme Agri-stabilité pour aider les agriculteurs à gérer les risques commerciaux causés par des conditions d'humidité extrême cette saison.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "db2bc45716c7223b",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/08/le-secretaire-detat-long-se-rendra-a-sarnia-pour-souligner-la-reponse-canadienne-aux-droits-de-douane-americains.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Secrétaire d'État visite Sarnia pour présenter mesures tarifaires",
-      "sum": "Le secrétaire d'État Wayne Long se rendra à Sarnia avec la députée Marilyn Gladu pour annoncer des mesures visant à protéger les entreprises et travailleurs canadiens face aux tarifs américains. La visite comprendra une visite à une ferme laitière et une conférence de presse.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "fbe59e13d67cf87a",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/lontario-et-le-canada-rendent-le-logement-plus-abordable-a-vaughan.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ontario et Canada financent réduction redevances logement Vaughan",
-      "sum": "Les gouvernements de l'Ontario et du Canada accordent jusqu'à 697,2 millions de dollars à la Ville de Vaughan pour soutenir sa réduction de 50 % des droits d'aménagement sur les projets résidentiels entre 2026 et 2029.",
-      "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "31c5893c4c4002c2",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-sud-ontario/nouvelles/2026/08/neuf-organisations-recoivent-du-soutien-pour-renforcer-les-possibilites-offertes-aux-entreprises-dirigees-par-des-noirs-et-aux-entrepreneurs-noirs-.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Neuf organisations reçoivent 15 millions pour entreprises dirigées par des Noirs",
-      "sum": "Le gouvernement fédéral investit près de 15 millions de dollars pour soutenir neuf organisations du Sud de l'Ontario. Cet investissement vise à renforcer la formation à l'entrepreneuriat et le mentorat pour les entreprises dirigées par des Noirs et les entrepreneurs noirs.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "454b65e824a10f7b",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-sud-ontario/nouvelles/2026/08/linvestissement-du-gouvernement-du-canada-renforcera-les-possibilites-offertes-aux-entrepreneurs-noirs-et-aux-entreprises-detenues-par-des-noirs-da.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit dans entrepreneuriat noir en Ontario du Sud",
-      "sum": "Le gouvernement du Canada investit par l'intermédiaire de FedDev Ontario pour soutenir neuf organisations qui aident les entrepreneurs noirs et les propriétaires d'entreprises noires à créer et développer leurs entreprises.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "f4dead507ec869f5",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/batir-un-canada-fort-du-terrain-de-jeu-au-podium--le-gouvernement-du-canada-effectue-un-investissement-majeur-a-bolton-en-ontario.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit dans les installations sportives à Bolton en Ontario",
-      "sum": "Le gouvernement du Canada annonce un investissement majeur dans les installations sportives à Bolton, en Ontario. Cet investissement vise à soutenir les athlètes et les collectivités par le biais du sport.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]
