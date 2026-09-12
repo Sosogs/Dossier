@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-11T20:38:28.629Z",
+  "generatedAt": "2026-09-12T03:39:33.221Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7859,
+      "actions": 7860,
       "sources": 9
     },
     "fr": {
-      "actions": 7141,
+      "actions": 7140,
       "sources": 7
     }
   },
@@ -44,6 +44,134 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "bbc1c28196f089f5",
+      "date": "2026-09-11",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/secretary-of-state-van-koeverden-announces-canada-strong-through-sport-the-playground-to-podium-summit.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada hosts Playground to Podium Summit on sport",
+      "sum": "Secretary of State van Koeverden announced Canada Strong through sport: The Playground to Podium Summit, an event bringing together the sport community during Canada's Year of sport. The summit aims to advance transformation and strengthen Canada's sport system.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "ed1469f11e7e952a",
+      "date": "2026-09-11",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/agriculture-agri-food/news/2026/09/minister-macdonald-concludes-successful-outreach-to-southern-alberta.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister MacDonald announces $900,000 agricultural technology investment",
+      "sum": "The Minister of Agriculture announced nearly $900,000 in funding for SmartGRO Bioengineering Inc. under the Agricultural Clean Technology Program. The investment supports testing and scaling clean lighting technology for indoor farms to improve efficiency.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "3c9efde684657272",
+      "date": "2026-09-11",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/secretary-of-state-van-koeverden-announces-key-measures-to-build-canada-strong-through-sport.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces measures to support Canadian sports development",
+      "sum": "The Secretary of State for Sport announced key measures aimed at strengthening Canada's sports sector. The government also recognized Capital Power's investment in Alpine Canada as part of efforts to develop athletes from grassroots to competitive levels.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "43f916c6bdbc79e0",
+      "date": "2026-09-11",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/agriculture-agri-food/news/2026/09/government-of-canada-to-announce-investments-aimed-at-strengthening-canadas-domestic-food-system.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces investments in Canada's domestic food system",
+      "sum": "The Minister of Agriculture and Agri-Food will announce federal investments related to Canada's National Food Security Strategy in London, Ontario.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "d056bcad2a3cd40f",
+      "date": "2026-09-11",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-secretaire-detat-van-koeverden-annonce-la-tenue-dun-canada-fort-grace-au-sport--le-sommet-du-terrain-de-jeu-au-podium.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Secrétaire d'État annonce sommet national sur le sport canadien",
+      "sum": "Le secrétaire d'État van Koeverden annonce la tenue d'un sommet rassemblant la communauté sportive. Cet événement vise à transformer et renforcer le système sportif canadien dans le cadre de l'Année du sport au Canada.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "fe55245ef1545dd8",
+      "date": "2026-09-11",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2026/09/le-ministre-macdonald-conclut-une-visite-fructueuse-dans-le-sud-de-lalberta.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada investit 900 000 $ dans une technologie agricole albertaine",
+      "sum": "Le ministre MacDonald a annoncé un investissement de près de 900 000 $ destiné à SmartGRO Bioengineering Inc. pour développer une nouvelle technologie d'éclairage propre en partenariat avec la ferme verticale Hydragreens, dans le cadre du Programme des technologies propres en agriculture.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "484c62c832f27a6c",
+      "date": "2026-09-11",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-secretaire-detat-van-koeverden-annonce-des-mesures-cles-pour-batir-un-canada-fort-grace-au-sport.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Gouvernement annonce mesures sport pour renforcer Canada",
+      "sum": "Le secrétaire d'État van Koeverden a annoncé des mesures visant à utiliser le sport pour renforcer le Canada. Le gouvernement a également reconnu l'investissement de Capital Power dans Canada Alpin.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "fa15aa5ef38a5e95",
+      "date": "2026-09-11",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2026/09/le-gouvernement-du-canada-annoncera-des-investissements-visant-a-renforcer-le-systeme-alimentaire-canadien.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada annonce des investissements en sécurité alimentaire",
+      "sum": "Le ministre de l'Agriculture annoncera des investissements fédéraux à London, en Ontario, dans le cadre de la Stratégie nationale de sécurité alimentaire du Canada.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "9b11199f64c76c94",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2cwSzA5UWxIcjQ0SzdIRXlBbXZxdkphSzRxOEZLNU9JekJDWFJDNWZrQmZZbmJCZGJjeVR0VmFqTzFRZERsY3MyN1k0THFLc2F2Z1pYamxXMWx2NXVhTVI0NjdmeHBuaU5sc3IyRmVucmZsMW0wZE81LUF0NGZISUFDc2NLVzRMUU5oUUdvdXJkbG0wbHNiR2ZDd2xUMnd1YlJQOWhnRQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada is still studying Trump's latest trade attack: Carney - Canada's National Observer",
+      "excerpt": "Canada is still studying Trump's latest trade attack: Carney Canada's National Observer",
+      "cat": "Economy"
+    },
+    {
+      "id": "bf83fc9b72fe83a0",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHpKUmhTRHE0djUyWXVQRXVXaVpVdGphSzZSWHkwTFJPT3hJSFlVUG0tWHBKMGt4d2U3X25HS0REQ1d5X0lMRUkzWmlCdlhvWWY3bnp0S2ZqS0UwaDdlM2dQQ3pqYUNZalBwYXc3eXdnNUw2NFB6V2JKZ0xpVXgxYzctQ3JzbmJ3Yk5CMlFfV3JxWkd2M240UERlVUljcjln?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "'Canada is everyone, for everyone': Carney signs Forever Canadian campaign van - pentictonherald.ca",
+      "excerpt": "'Canada is everyone, for everyone': Carney signs Forever Canadian campaign van pentictonherald.ca",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "0e1a75101ec19f51",
       "date": "2026-09-11",
@@ -402,6 +530,18 @@
       "lang": "en",
       "title": "Canada still studying Trump's latest trade attack: Carney - Castanet",
       "excerpt": "Canada still studying Trump's latest trade attack: Carney Castanet",
+      "cat": "Economy"
+    },
+    {
+      "id": "212f7419a6dc7e83",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNjZ4RmlpTWE4MngtRDU0UFFUVnBZQjVDcmpTVzYyRlh2ZjJuNUgzQlpTQmdGTEhDOFp6ZE1LSlQ2X0dDdlVfaWVMb0RIUmlub0ZpZm9XSkpJZktxV1BiUUs4eFRGbmlEbnJoaFZ3ZXB2Q3ZOM0RKUmJHRDNmOFRQQnJkdHZVY0VPVHlSUHI2OTFyZ19aSk1KVG1Yd2FYR1I0Y0g0Qks1VjF0SWc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney’s investment summit could pave the way to a corporate carve-up of Canada - The Breach",
+      "excerpt": "Mark Carney’s investment summit could pave the way to a corporate carve-up of Canada The Breach",
       "cat": "Economy"
     },
     {
@@ -10139,146 +10279,6 @@
       "sum": "L'Agence des services frontaliers du Canada commence les travaux de construction à la station frontalière de Pleasant Camp. Ce projet vise à améliorer les installations à ce point d'entrée.",
       "cat": "Infrastructure",
       "ai": true
-    },
-    {
-      "id": "4cc1adbe90e62d90",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-intergouvernementales/nouvelles/2026/08/declaration-du-ministre-leblanc-a-propos-de-saisir-loccasion-de-batir-une-economie-canadienne-unifiee.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le ministre LeBlanc appelle à une économie canadienne unifiée",
-      "sum": "Le ministre Dominic LeBlanc a publié une déclaration soulignant l'importance de construire une économie canadienne unifiée en vue d'une rencontre du Comité du commerce intérieur.",
-      "cat": "Intergovernmental affairs",
-      "ai": true
-    },
-    {
-      "id": "a4404d8f8fca78b9",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-sud-ontario/nouvelles/2026/08/le-depute-maloney-annoncera-du-soutien-du-gouvernement-du-canada-a-la-croissance-des-entreprises-detobicoke.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada appuie la croissance des entreprises d'Etobicoke",
-      "sum": "Le député James Maloney annoncera du soutien du gouvernement du Canada pour favoriser la croissance et l'innovation des entreprises situées à Etobicoke, au nom du ministre de l'Innovation numérique.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "d6c6eb2ea0c6daf9",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/08/le-canada-apporte-une-aide-humanitaire-a-la-suite-du-tremblement-de-terre-survenu-en-colombie.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada fournit une aide humanitaire suite au tremblement de terre colombien",
-      "sum": "Le Canada offre une aide humanitaire à la Colombie suite à un tremblement de terre du 10 août qui a causé des pertes humaines et des dégâts importants. Des efforts humanitaires intensifiés sont nécessaires pour aider les centaines de milliers de personnes affectées.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "0d63c04f0b75ff94",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/08/la-ministre-joly-annonce-un-investissement-majeur-dans-le-reseau-canadien-de-lautomatisation-et-lintelligence-agroalimentaire-afin-de-renforcer-le-.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada investit dans l'automatisation agroalimentaire",
-      "sum": "La ministre Joly annonce un investissement majeur dans le Réseau canadien de l'automatisation et l'intelligence agroalimentaire. Cet investissement vise à renforcer le secteur agroalimentaire canadien.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "41418807e598fd9c",
-      "date": "2026-08-26",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaVR6cGdqNklRakFoWE9lZWNBWE15LS14SHM5Tmp6d0ZjejZ3cnd1ZkdsdUlHUHZ2NTIydVRJeDVPT0FuYmpGcUtVcVpxLWUxVldJWDdidEt0N2l3NkE0WmhUMHo4cXl6WkVDT283NWViLU5KSDVCUDlmME45UHFRODRzeENXTTJoanlJS3VvbmFMS3ZyS1lvMw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "JAY GOLDBERG: Mad at Trump? Cut taxes, don’t raise them - Calgary Sun",
-      "excerpt": "JAY GOLDBERG: Mad at Trump? Cut taxes, don’t raise them Calgary Sun",
-      "cat": "Finance"
-    },
-    {
-      "id": "cb082552a4662dbc",
-      "date": "2026-08-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/parks-canada/news/2026/08/parks-canada-to-celebrate-the-50th-anniversary-of-the-official-opening-of-bethune-memorial-house.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Parks Canada celebrates Bethune Memorial House 50th anniversary",
-      "sum": "Parks Canada is marking the 50th anniversary of the official opening of Bethune Memorial House. The house is a historic site commemorating a significant Canadian figure.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "0f20dcbba600f9cd",
-      "date": "2026-08-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/secretary-of-state-van-koeverden-to-announce-new-investment-in-sport-in-the-greater-toronto-area.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government announces new sport investment in Greater Toronto Area",
-      "sum": "Secretary of State van Koeverden will announce new federal funding for sport programs in the Greater Toronto Area. The investment is part of the government's broader initiative to support sport across Canada.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "cbe6452210d15708",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/le-secretaire-detat-van-koeverden-annoncera-un-nouvel-investissement-dans-le-sport-dans-la-grande-region-de-toronto.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Investissement fédéral dans le sport annoncé pour Toronto",
-      "sum": "Le secrétaire d'État van Koeverden annonce un nouvel investissement du gouvernement fédéral dans le sport dans la région de Toronto. Cette initiative s'inscrit dans les efforts du gouvernement pour renforcer le Canada par le sport.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "b747309e28810650",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2026/08/parcs-canada-celebrera-le-50e-anniversaire-de-louverture-officielle-de-la-maison-commemorative-bethune.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Parcs Canada célèbre 50 ans de la Maison-Commémorative-Bethune",
-      "sum": "Parcs Canada marque le 50e anniversaire de l'ouverture officielle de la Maison-Commémorative-Bethune, un site historique canadien.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "30e84e2a781cce7b",
-      "date": "2026-08-26",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnhGRVc3NHU5MTRxSERSS1ZnNEstNjRBYmlWaDBOU2hSQU9uMHREc2JxM0R3NExDY1d1M01aMHBHcmp5VGVFTTduNjJ2Y3lTVDNFRmo3UWdZREpmUEpWQjFqWkNXVURvdXRIMTVOdXc4NEUwZnlEbHdTU24tLVZDVS02STdYU2JWWHBJR080d3ZKelk?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney should kill September gas tax hike - Asian Pacific Post",
-      "excerpt": "Carney should kill September gas tax hike Asian Pacific Post",
-      "cat": "Finance"
-    },
-    {
-      "id": "93d8e846328ef573",
-      "date": "2026-08-25",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQU3diY3RsLTRXVTYzWW50dnBkejhUbjZ0V0xIeEJqeHd4VXFiZkRzaVNCWXdMbENxVS01aEhvbjQzWXBIWFl0Y25YQkgtQmNiTVRIRmU0Q1pOdUR2R0ZlVjhzU0tpQThncW41bVJXc3lFLXFleXRvMmE0LTBzRVBaZWxjeFV6Mm5vYXU3RzVsdXRicjFrTWk2S1dYaklIOXpjMDVkYUNyTjhOYW1aZnJndUdya2JreGJhNFNPZ1BmTGhKN2VwRmhtMkxUMWE3QkNoUHJ5ZkVGYUJrUGgtUkY5WE1TT1VSdWdKYlR2SXAybXIwblNiSDdUVlBDNU9pblRQNjFkaUFIM2M?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Mark Carney’s $7.5-billion tariff relief package misses the mark, small businesses say - Toronto Star",
-      "excerpt": "Mark Carney’s $7.5-billion tariff relief package misses the mark, small businesses say Toronto Star",
-      "cat": "Economy"
     }
   ]
 }
