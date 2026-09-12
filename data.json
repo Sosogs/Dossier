@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:16:40.727Z",
+  "generatedAt": "2026-09-12T15:11:41.803Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "76165525090a712f",
+      "date": "2026-09-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/canada-ukraine-and-norway-to-co-host-international-conference-on-returning-ukrainian-children-detained-civilians-and-prisoners-of-war.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada co-hosts conference on returning Ukrainian children and prisoners",
+      "sum": "Canada, Ukraine, and Norway will jointly host an international conference in Toronto on September 28-29, 2026, focused on the return of Ukrainian children, detained civilians, and prisoners of war. The conference is the second in a series addressing these issues.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "ff43759bffc1397e",
+      "date": "2026-09-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-lukraine-et-la-norvege-coorganiseront-une-conference-internationale-sur-le-retour-des-enfants-ukrainiens-des-civils-detenus-et-des-prison.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada coorganise conférence internationale sur retour enfants ukrainiens",
+      "sum": "Le Canada, l'Ukraine et la Norvège organiseront ensemble une conférence internationale à Toronto les 28 et 29 septembre 2026. Cette conférence portera sur le retour des enfants ukrainiens, des civils détenus et des prisonniers de guerre.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
     {
       "id": "44a96035c6197427",
       "date": "2026-09-12",
@@ -193717,32 +193743,6 @@
       "title": "Ministre Hodgson prononce discours à Calgary",
       "sum": "Le ministre de l'Énergie et des Ressources naturelles prononcera un discours d'ouverture à la Chambre de commerce de Calgary et participera à une discussion informelle.",
       "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "515630421a406db1",
-      "date": "2025-05-22",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/05/une-enquete-conjointe-de-lasfc-et-de-la-grc-sur-un-reseau-de-traite-de-personnes-aboutit-a-la-condamnation-de-trois-personnes.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Trois personnes condamnées pour traite de personnes",
-      "sum": "Une enquête menée conjointement par l'Agence des services frontaliers du Canada et la Gendarmerie royale du Canada a abouti à la condamnation de trois personnes pour traite de personnes et embauche d'étrangers sans autorisation.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "721df5446e323cdb",
-      "date": "2025-05-22",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/05/saisies-dobjets-interdits-et-non-autorises-a-letablissement-de-collins-bay.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Objets interdits saisis à l'Établissement de Collins Bay",
-      "sum": "Entre le 10 et 20 mai 2025, du personnel de l'Établissement de Collins Bay a saisi plusieurs colis contenant des objets interdits et non autorisés. Cet établissement fédéral offre différents niveaux de sécurité.",
-      "cat": "Justice",
       "ai": true
     }
   ]

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-12T10:16:40.727Z",
+  "generatedAt": "2026-09-12T15:11:41.803Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7862,
+      "actions": 7863,
       "sources": 9
     },
     "fr": {
-      "actions": 7138,
+      "actions": 7137,
       "sources": 7
     }
   },
@@ -44,6 +44,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "76165525090a712f",
+      "date": "2026-09-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/canada-ukraine-and-norway-to-co-host-international-conference-on-returning-ukrainian-children-detained-civilians-and-prisoners-of-war.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada co-hosts conference on returning Ukrainian children and prisoners",
+      "sum": "Canada, Ukraine, and Norway will jointly host an international conference in Toronto on September 28-29, 2026, focused on the return of Ukrainian children, detained civilians, and prisoners of war. The conference is the second in a series addressing these issues.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "ff43759bffc1397e",
+      "date": "2026-09-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-lukraine-et-la-norvege-coorganiseront-une-conference-internationale-sur-le-retour-des-enfants-ukrainiens-des-civils-detenus-et-des-prison.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada coorganise conférence internationale sur retour enfants ukrainiens",
+      "sum": "Le Canada, l'Ukraine et la Norvège organiseront ensemble une conférence internationale à Toronto les 28 et 29 septembre 2026. Cette conférence portera sur le retour des enfants ukrainiens, des civils détenus et des prisonniers de guerre.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
     {
       "id": "44a96035c6197427",
       "date": "2026-09-12",
@@ -10250,32 +10276,6 @@
       "title": "Canada investit dans les installations sportives à Bolton en Ontario",
       "sum": "Le gouvernement du Canada annonce un investissement majeur dans les installations sportives à Bolton, en Ontario. Cet investissement vise à soutenir les athlètes et les collectivités par le biais du sport.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "03fcf7482db8b470",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/08/annonce-en-matiere-dinfrastructure-a-beech-hill.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce d'infrastructure à Beech Hill en Nouvelle-Écosse",
-      "sum": "Le gouvernement fédéral annonce un projet d'infrastructure à Beech Hill. L'annonce sera faite par Jaime Battiste, secrétaire parlementaire de la ministre des Relations Couronne-Autochtones, et Nicholas MacInnis, préfet du comté d'Antigonish.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "df82d0680c1cdd39",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/08/le-ministere-des-finances-canada-a-tenu-une-rencontre-avec-des-intervenants-au-sujet-de-la-reponse-du-canada-aux-droits-de-douane-americains.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada Finance Ministry meets stakeholders on US tariff response",
-      "sum": "Finance Canada's Deputy Minister Nick Leswick and senior officials held a briefing with Canadian industry and labour representatives to discuss economic issues between Canada and the United States related to American tariffs.",
-      "cat": "Economy",
       "ai": true
     }
   ]
