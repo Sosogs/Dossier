@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:18:16.817Z",
+  "generatedAt": "2026-09-13T03:46:42.263Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -107,6 +107,18 @@
       "title": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews - nai500.com",
       "excerpt": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews nai500.com",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "92c58a20553e0852",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkNndWlDUkdSOVJNLWJBSFJNdGNnejh2THdHLUw0OXlLYkd0dDNsMUtQRmNjR3I4Ym9pYWFmaW54N1VfZU50Y2tXRl90NHB0RlBxRldTYm5VWW5XdHNhc09IVW0zMTFOQ0VKME1SZHcxZFJXMVF1MExCaDZCdGNTSFVUNlFlX0xkRlNTTmVzQzVQOHFnXzd3TG52UUdfSmpGbkFNN2t2dks?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "John Ivison: Ottawa’s bureaucrats aren’t buying what Mark Carney is selling - National Post",
+      "excerpt": "John Ivison: Ottawa’s bureaucrats aren’t buying what Mark Carney is selling National Post",
+      "cat": "Economy"
     },
     {
       "id": "74d1c21dbc8cad13",
@@ -193722,19 +193734,6 @@
       "title": "Minister of Energy and Natural Resources to speak in Calgary",
       "sum": "Minister Tim Hodgson will deliver a keynote address and participate in a fireside chat at an event hosted by the Calgary Chamber of Commerce.",
       "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "729a2c7318803f0c",
-      "date": "2025-05-22",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/border-services-agency/news/2025/05/joint-cbsa-and-rcmp-investigation-into-a-human-trafficking-network-leads-to-sentencing-of-three-individuals.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Three individuals sentenced in human trafficking investigation",
-      "sum": "The Canada Border Services Agency and Royal Canadian Mounted Police conducted a joint investigation into human trafficking and unauthorized employment of foreign nationals. Three individuals pleaded guilty and were sentenced as a result.",
-      "cat": "Justice",
       "ai": true
     }
   ]

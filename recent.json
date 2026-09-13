@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:18:16.817Z",
+  "generatedAt": "2026-09-13T03:46:42.263Z",
   "count": 800,
   "totals": {
     "en": {
@@ -117,6 +117,18 @@
       "title": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews - nai500.com",
       "excerpt": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews nai500.com",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "92c58a20553e0852",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkNndWlDUkdSOVJNLWJBSFJNdGNnejh2THdHLUw0OXlLYkd0dDNsMUtQRmNjR3I4Ym9pYWFmaW54N1VfZU50Y2tXRl90NHB0RlBxRldTYm5VWW5XdHNhc09IVW0zMTFOQ0VKME1SZHcxZFJXMVF1MExCaDZCdGNTSFVUNlFlX0xkRlNTTmVzQzVQOHFnXzd3TG52UUdfSmpGbkFNN2t2dks?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "John Ivison: Ottawa’s bureaucrats aren’t buying what Mark Carney is selling - National Post",
+      "excerpt": "John Ivison: Ottawa’s bureaucrats aren’t buying what Mark Carney is selling National Post",
+      "cat": "Economy"
     },
     {
       "id": "74d1c21dbc8cad13",
@@ -10255,19 +10267,6 @@
       "title": "Financement de douze projets pour aînés à Vancouver Granville",
       "sum": "La secrétaire d'État McLean annonce du financement pour douze projets dans la circonscription de Vancouver Granville par le programme Nouveaux Horizons pour les aînés.",
       "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "779dd0904f6f6f6e",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-regions-quebec/nouvelles/2026/08/le-gouvernement-du-canada-investit-dans-les-entreprises-innovantes-en-soutenant-la-ruche.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada investit 700 000 $ dans La Ruche du Québec",
-      "sum": "Le gouvernement du Canada accorde une aide financière de 700 000 $ à La Ruche, un organisme québécois qui soutient les entreprises innovantes. Ce financement provient de Développement économique Canada pour les régions du Québec.",
-      "cat": "Innovation, science & industry",
       "ai": true
     }
   ]
