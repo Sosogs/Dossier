@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T15:47:12.143Z",
+  "generatedAt": "2026-09-13T20:28:01.591Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d5ce1b71476e4e4f",
+      "date": "2026-09-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IbXF4dl9vRWR6TldVRUw5V1dUbEJmdXljS3ZKalVVSkZkUlRMZ1oxd0Z0dGdnSXNmZ1JVRXg4QVBYa3kwTWdobTREOVFJemhIWFVwcTJNUWZyUTV0VHBTbFp4VmVVcXV4bWZfeDd5SXE5TDBjQXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘Canada is everyone, for everyone’: Carney meets with Alberta remain campaigners - CityNews Edmonton",
+      "excerpt": "‘Canada is everyone, for everyone’: Carney meets with Alberta remain campaigners CityNews Edmonton",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "4d8a6182fcb4764a",
       "date": "2026-09-12",
@@ -193720,19 +193732,6 @@
       "title": "Arrestation pour importation et trafic de drogue suite à enquête conjointe",
       "sum": "Un homme de 47 ans a été arrêté et fait face à des accusations d'importation et de trafic de drogue. L'arrestation résulte d'une enquête menée conjointement par la Police provinciale de l'Ontario et l'Agence des services frontaliers du Canada.",
       "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "ec80b4d6e535379c",
-      "date": "2025-05-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/05/deces-dun-detenu-de-letablissement-de-bath0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Décès d'un détenu à l'Établissement de Bath",
-      "sum": "Un détenu nommé Dennis Stewart est décédé le 22 mai 2025 à l'Établissement de Bath de causes naturelles apparentes.",
-      "cat": "Justice",
       "ai": true
     }
   ]
