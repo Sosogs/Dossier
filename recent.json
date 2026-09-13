@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T11:17:04.510Z",
+  "generatedAt": "2026-09-13T15:47:12.143Z",
   "count": 800,
   "totals": {
     "en": {
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "4d8a6182fcb4764a",
+      "date": "2026-09-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc3VmeGZ4SlduREFPYUI2V3hjVDg2eS1FQml6a3h1akpJaFk2WUR2R1ZEQjJicS1SZnJ1dU41dDVDQkk5MHhKN01EdHZManpqbVpZYjRZNFdra3Z3OFJBeHF0aEgwelBLS0h2MElUWHdQZDFDRUtpVzVteTVROHFzOTlnc20wMlBYcUpQbHV0SENSOXlhb2xTdUNDeGN4NHloWE04bmZaWVg0eXk0dTNZ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney to showcase Canada’s capital agenda at first-ever investment summit - National - Global News",
+      "excerpt": "Carney to showcase Canada’s capital agenda at first-ever investment summit - National Global News",
+      "cat": "Economy"
+    },
     {
       "id": "7074da67c6fe0b7a",
       "date": "2026-09-12",
@@ -10253,19 +10265,6 @@
       "lang": "fr",
       "title": "Financement de douze projets pour aînés à Vancouver Granville",
       "sum": "La secrétaire d'État McLean annonce des fonds pour douze projets dans la circonscription de Vancouver Granville dans le cadre du programme Nouveaux Horizons pour les aînés.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "f28b10cc884e9aa2",
-      "date": "2026-08-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/08/document-dinformation-la-secretaire-detat-mclean-annonce-le-financement-de-douze-projets-a-vancouver-granville-dans-le-cadre-du-programme-nouveaux-.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Financement de douze projets pour aînés à Vancouver Granville",
-      "sum": "La secrétaire d'État McLean annonce du financement pour douze projets dans la circonscription de Vancouver Granville par le programme Nouveaux Horizons pour les aînés.",
       "cat": "Healthcare",
       "ai": true
     }
