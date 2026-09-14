@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T03:54:39.493Z",
+  "generatedAt": "2026-09-14T12:07:16.586Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,68 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "2b1539fbf7086285",
+      "date": "2026-09-14",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/09/secretary-of-state-sahota-to-make-clean-fuels-announcement.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Secretary of State to announce clean fuels initiative",
+      "sum": "Secretary of State Sahota will make a public announcement regarding clean fuels policy or programs.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "9e170c21cd54027b",
+      "date": "2026-09-14",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/09/la-secretaire-detat-sahota-fera-une-annonce-sur-les-combustibles-propres.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Secrétaire d'État Sahota annonce des mesures sur combustibles propres",
+      "sum": "La secrétaire d'État Sahota fera une annonce concernant les combustibles propres. Les détails spécifiques de cette annonce n'ont pas été fournis.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "f8e824847ea7298a",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT3ZxOVBsYTVQM2oyNlk0Y1VFMklKSU52Q183WDBGeU9oSlV5WVlFS1FEZmx5Unhfc0ZtT0gtRlBEaEVoc1hOSzFycEdFeF84YnFoRS1ReDlVb3ZuM3BGQUZGN3U4bE00VzgyRlN4Vm5rWlBDUk5uUmVhSVI0UTY3R1YwSQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "As investors arrive for Carney's summit, what's on the table and what will it take for them to buy in? - CBC",
+      "excerpt": "As investors arrive for Carney's summit, what's on the table and what will it take for them to buy in? CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "97cbc3eebb4c38eb",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTNMNlR3V0tFQVNMeHFpMmFYWG90QjBTZ0p4UkplcDFWaTlzdXR5aUxpTlpiRFd4V1hNcm5jejRZei10WE1oZ2xsalEta25JTjNzdjViem96WUdiVGlMcU95MWpJYnFsMThISTFsQWZzdndIalI3NzZwbUVMR1pzNFQ1TEVZOGNjUDJYZzFJSm1kNFpZdmVTNllraFZWNDlPVnNOYmx3dkpZZEhvYl85TGVYNVJmUEk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada courts global investors as Carney pushes $1-trillion investment drive - Philippine Canadian Inquirer",
+      "excerpt": "Canada courts global investors as Carney pushes $1-trillion investment drive Philippine Canadian Inquirer",
+      "cat": "Justice"
+    },
+    {
+      "id": "6ebec13c68c73dc9",
+      "date": "2026-09-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelF1WTktMTlwMzh2ZU1zYUl0UDYzZzE3VnlGYURjRnV6VWdENER5TjlPRVdnZi1SWkVEV2kzZzVvRUtWSlpKbmVaYVhXRVNna3NHVWl0RFpMalo4Tk02ODZIWnJ0MDdVemZZWmtuUlRZREx0ZmF1aUhYeGtFblRQU1dSN3hKRFkyWUJDT181dGNTekc0bk04RURmd2FWY2lVeTNES1F6VkRQVG5xbzB6QTJnQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "New poll finds Liberals with 14-point lead over Conservatives amid escalating trade war with U.S. - CityNews Vancouver",
+      "excerpt": "New poll finds Liberals with 14-point lead over Conservatives amid escalating trade war with U.S. CityNews Vancouver",
+      "cat": "Economy"
+    },
     {
       "id": "4e76bba19e11410b",
       "date": "2026-09-13",
@@ -691,6 +753,18 @@
       "title": "Canada still studying Trump's latest trade attack: Carney - Castanet",
       "excerpt": "Canada still studying Trump's latest trade attack: Carney Castanet",
       "cat": "Economy"
+    },
+    {
+      "id": "094a67db5908a712",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHc1Y3dJOFF0OWF2SUhVc1FFNFhwUzBlNUtGMjY0cUNKa0lmUGVSOXVHMkVtb0JUMHFVdUlmNnI4dHdPc0s1VUl6YUJOQTBVRWZpUEVISVcyOHZSQXZjbXd4NmtBSTgwSFVaMGxnYVJ6NkNBc3JPeHBMYzJqdUlsdW9CcXhlREFNZm5QNXB1UWJ2NUp5WkIxRjRUUUdjR0pQWjJxWVZmNkFaMmY5WGE0RWtUVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Poilievre tells CNBC he won’t ‘attack my PM on foreign soil’ in trade fight - CTV News",
+      "excerpt": "Poilievre tells CNBC he won’t ‘attack my PM on foreign soil’ in trade fight CTV News",
+      "cat": "Foreign affairs"
     },
     {
       "id": "c472c7fd08db6fa0",
@@ -193651,84 +193725,6 @@
       "title": "Minister presents energy policy vision to Calgary business leaders",
       "sum": "Minister Tim Hodgson addressed the Calgary Chamber of Commerce to discuss Canada's energy policy and economic development. The speech outlined government direction on energy sector growth and competitiveness.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "7c2b5a0b7e1c0bec",
-      "date": "2025-05-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/05/change-of-command-ceremony-at-warkworth-institution.html",
-      "type": "Appointment",
-      "kind": "official",
-      "lang": "en",
-      "title": "New warden appointed at Warkworth Institution",
-      "sum": "Correctional Service of Canada held a change of command ceremony at Warkworth Institution in Ontario on May 23, 2025. Henry Saulnier became the new warden, replacing Dave Dunk.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "cafd856d7e8a3d8e",
-      "date": "2025-05-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/border-services-agency/news/2025/05/joint-cbsa-and-opp-investigation-leads-to-arrest-and-charges-for-drug-importation-and-trafficking.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Joint investigation results in drug trafficking arrest and charges",
-      "sum": "A 47-year-old person was arrested and charged with drug-related offences following a joint investigation by the Ontario Provincial Police and the Canada Border Services Agency.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "3a0102d8fba1ad41",
-      "date": "2025-05-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/05/death-of-an-inmate-from-bath-institution0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inmate death reported at Bath Institution",
-      "sum": "An inmate named Dennis Stewart died on May 22, 2025, while incarcerated at Bath Institution. The death is reported as apparent natural causes.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "6bd95a10d00a585a",
-      "date": "2025-05-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2025/05/la-population-canadienne-devrait-se-preparer-pour-une-autre-saison-des-ouragans-active.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Préparation à une saison active d'ouragans au Canada",
-      "sum": "La saison des ouragans, du 1er juin au 30 novembre, devrait connaître une activité supérieure à la normale. Les Canadiens sont invités à se préparer à cette augmentation prévue des tempêtes tropicales.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "d327a17d91e31db6",
-      "date": "2025-05-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/05/le-ministre-sidhu-fait-valoir-le-commerce-et-represente-le-canada-en-equateur.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Sidhu représente le Canada à l'investiture équatorienne",
-      "sum": "Le ministre du Commerce international, Maninder Sidhu, représentera le gouvernement du Canada à Quito pour l'investiture du président équatorien Daniel Noboa.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "333693edc5cdbd2c",
-      "date": "2025-05-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/05/les-gouvernements-du-canada-et-de-la-nouvelle-ecosse-concluent-une-entente-decennale-afin-de-construire-un-plus-grand-nombre-de-logements.html",
-      "type": "International agreement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Nouvelle-Écosse signent accord décennal construction logements",
-      "sum": "Le gouvernement du Canada et la province de la Nouvelle-Écosse ont conclu une entente de dix ans visant à augmenter la construction de logements. Le gouvernement fédéral mobilise la technologie, l'innovation et des partenariats pour accélérer les projets de construction résidentielle.",
-      "cat": "Housing",
       "ai": true
     }
   ]

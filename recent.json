@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-14T03:54:39.493Z",
+  "generatedAt": "2026-09-14T12:07:16.586Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7866,
+      "actions": 7868,
       "sources": 9
     },
     "fr": {
-      "actions": 7134,
+      "actions": 7132,
       "sources": 7
     }
   },
@@ -44,6 +44,68 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "2b1539fbf7086285",
+      "date": "2026-09-14",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/09/secretary-of-state-sahota-to-make-clean-fuels-announcement.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Secretary of State to announce clean fuels initiative",
+      "sum": "Secretary of State Sahota will make a public announcement regarding clean fuels policy or programs.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "9e170c21cd54027b",
+      "date": "2026-09-14",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/09/la-secretaire-detat-sahota-fera-une-annonce-sur-les-combustibles-propres.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Secrétaire d'État Sahota annonce des mesures sur combustibles propres",
+      "sum": "La secrétaire d'État Sahota fera une annonce concernant les combustibles propres. Les détails spécifiques de cette annonce n'ont pas été fournis.",
+      "cat": "Sustainable development",
+      "ai": true
+    },
+    {
+      "id": "f8e824847ea7298a",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT3ZxOVBsYTVQM2oyNlk0Y1VFMklKSU52Q183WDBGeU9oSlV5WVlFS1FEZmx5Unhfc0ZtT0gtRlBEaEVoc1hOSzFycEdFeF84YnFoRS1ReDlVb3ZuM3BGQUZGN3U4bE00VzgyRlN4Vm5rWlBDUk5uUmVhSVI0UTY3R1YwSQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "As investors arrive for Carney's summit, what's on the table and what will it take for them to buy in? - CBC",
+      "excerpt": "As investors arrive for Carney's summit, what's on the table and what will it take for them to buy in? CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "97cbc3eebb4c38eb",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTNMNlR3V0tFQVNMeHFpMmFYWG90QjBTZ0p4UkplcDFWaTlzdXR5aUxpTlpiRFd4V1hNcm5jejRZei10WE1oZ2xsalEta25JTjNzdjViem96WUdiVGlMcU95MWpJYnFsMThISTFsQWZzdndIalI3NzZwbUVMR1pzNFQ1TEVZOGNjUDJYZzFJSm1kNFpZdmVTNllraFZWNDlPVnNOYmx3dkpZZEhvYl85TGVYNVJmUEk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada courts global investors as Carney pushes $1-trillion investment drive - Philippine Canadian Inquirer",
+      "excerpt": "Canada courts global investors as Carney pushes $1-trillion investment drive Philippine Canadian Inquirer",
+      "cat": "Justice"
+    },
+    {
+      "id": "6ebec13c68c73dc9",
+      "date": "2026-09-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelF1WTktMTlwMzh2ZU1zYUl0UDYzZzE3VnlGYURjRnV6VWdENER5TjlPRVdnZi1SWkVEV2kzZzVvRUtWSlpKbmVaYVhXRVNna3NHVWl0RFpMalo4Tk02ODZIWnJ0MDdVemZZWmtuUlRZREx0ZmF1aUhYeGtFblRQU1dSN3hKRFkyWUJDT181dGNTekc0bk04RURmd2FWY2lVeTNES1F6VkRQVG5xbzB6QTJnQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "New poll finds Liberals with 14-point lead over Conservatives amid escalating trade war with U.S. - CityNews Vancouver",
+      "excerpt": "New poll finds Liberals with 14-point lead over Conservatives amid escalating trade war with U.S. CityNews Vancouver",
+      "cat": "Economy"
+    },
     {
       "id": "4e76bba19e11410b",
       "date": "2026-09-13",
@@ -701,6 +763,18 @@
       "title": "Canada still studying Trump's latest trade attack: Carney - Castanet",
       "excerpt": "Canada still studying Trump's latest trade attack: Carney Castanet",
       "cat": "Economy"
+    },
+    {
+      "id": "094a67db5908a712",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHc1Y3dJOFF0OWF2SUhVc1FFNFhwUzBlNUtGMjY0cUNKa0lmUGVSOXVHMkVtb0JUMHFVdUlmNnI4dHdPc0s1VUl6YUJOQTBVRWZpUEVISVcyOHZSQXZjbXd4NmtBSTgwSFVaMGxnYVJ6NkNBc3JPeHBMYzJqdUlsdW9CcXhlREFNZm5QNXB1UWJ2NUp5WkIxRjRUUUdjR0pQWjJxWVZmNkFaMmY5WGE0RWtUVQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Poilievre tells CNBC he won’t ‘attack my PM on foreign soil’ in trade fight - CTV News",
+      "excerpt": "Poilievre tells CNBC he won’t ‘attack my PM on foreign soil’ in trade fight CTV News",
+      "cat": "Foreign affairs"
     },
     {
       "id": "c472c7fd08db6fa0",
@@ -10184,84 +10258,6 @@
       "title": "Government invests in Black entrepreneur support in southern Ontario",
       "sum": "The federal government is providing funding through FedDev Ontario to support nine organizations that help Black entrepreneurs and business owners establish and expand their businesses.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "46d168f127f6d00b",
-      "date": "2026-08-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/building-canada-strong-from-playground-to-podium--government-of-canada-makes-major-investment-in-bolton-ontario.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government invests in sports infrastructure in Bolton, Ontario",
-      "sum": "The Government of Canada is making a major investment in sports facilities and programs in Bolton, Ontario. The funding aims to support athletic development and community engagement through sport.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "16f31f04a97e88c1",
-      "date": "2026-08-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/infrastructure-announcement-in-beech-hill.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Infrastructure announcement scheduled in Beech Hill",
-      "sum": "Federal and municipal officials will hold a media event to announce infrastructure initiatives in Beech Hill. The event will feature Jaime Battiste, Parliamentary Secretary to the Minister of Crown-Indigenous Relations, and Nicholas MacInnis, Warden of the Municipality of the County of Antigonish.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "53eb48753336004e",
-      "date": "2026-08-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/08/department-of-finance-meets-with-stakeholders-on-canadas-response-to-us-tariffs.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Finance Department briefs stakeholders on U.S. tariff response",
-      "sum": "The Department of Finance held a briefing with Canadian industry and labour representatives to discuss Canada's response to U.S. tariffs and Canada-U.S. economic issues. Deputy Minister Nick Leswick and senior officials led the discussion.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "0529dd664e755145",
-      "date": "2026-08-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-supports-lac-saint-jean-historical-society-for-the-creation-of-exhibit-at-lodyssee-des-batisseurs-museum.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada funds historical exhibit at Lac-Saint-Jean museum",
-      "sum": "The Government of Canada provided financial support to the Lac-Saint-Jean Historical Society for creating an exhibit at l'Odyssée des Bâtisseurs museum. The funding supports the development and presentation of historical content at this regional museum.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "bde1a62abd81ada4",
-      "date": "2026-08-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/border-services-agency/news/2026/08/the-cbsa-starts-construction-at-pleasant-camp-port-of-entry.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "CBSA begins construction at Pleasant Camp port of entry",
-      "sum": "The Canada Border Services Agency has started construction work at the Pleasant Camp port of entry. This facility handles border crossing operations at that location.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "72f1dadbbaf6e212",
-      "date": "2026-08-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/intergovernmental-affairs/news/2026/08/statement-from-minister-leblanc-on-seizing-the-opportunity-to-build-one-canadian-economy.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister LeBlanc addresses internal trade committee meeting",
-      "sum": "Minister Dominic LeBlanc issued a statement regarding efforts to build a unified Canadian economy ahead of a Committee on Internal Trade meeting.",
-      "cat": "Intergovernmental affairs",
       "ai": true
     }
   ]
