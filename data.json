@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T20:28:01.591Z",
+  "generatedAt": "2026-09-14T03:54:39.493Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "4e76bba19e11410b",
+      "date": "2026-09-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGNMMkNuVUxFbjRvZzllWmNaUWFzZE0zT25WQTZJMG9UQ054Sm9LYlJnanFIbGRGOGNlUGJNUl96Um56UjNZcEJfbUtDaGlOS1hCcVlOR3JFbGlFcW14QjJ5ZUNNLTdpNDM5YzZaczgzUjB2cjVkZVlnNFI3MXVQU29FZ2xqUGZnUWxMZXV2UDNCWkphR0pXTUNwbmxyemx4dmdMQkdLTEx1eWxE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada starting to draw attention from global investors, Carney says - The Globe and Mail",
+      "excerpt": "Canada starting to draw attention from global investors, Carney says The Globe and Mail",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "36731d1f6e9c3980",
+      "date": "2026-09-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd3F5eldqQWxxbDYwMUg4SmU2c0ZfVy1BT2NjM1VwVXl6WmFiLXRWdy12Y0I3bEhYSkdLMmRBdDF6TVhVR1ZHWTZMLUNhM1pOZUVmS1NmYzc0RkdrenhOZ1hXejFkWFBQRktpMENpNTdKczBvbmJla3Zva3BmdTVaVEM3YkRWOF9uMHpPYTZPLXZTaEFJdWh1ZmZOV2thc2UzRGxodlZkSE50N1JUYXN1Wg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Liberals Open 14-Point Lead, Largest Since 2017, as Trump Continues to Dominate the Agenda - abacusdata.ca",
+      "excerpt": "Liberals Open 14-Point Lead, Largest Since 2017, as Trump Continues to Dominate the Agenda abacusdata.ca",
+      "cat": "Economy"
+    },
     {
       "id": "d5ce1b71476e4e4f",
       "date": "2026-09-12",
@@ -131,6 +155,18 @@
       "title": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews - nai500.com",
       "excerpt": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews nai500.com",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "093c72220d3ee916",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHhRdjE5Vlk0c3ZlWXpoblNMZFUyVzBDbmU2MW5tY1pZVDZhZnpOaWNEb1hFNkhaQ2ptWC1GcDZQbjJwSmpkZGtfeHA3WXRPY0hrVlBVeHY1Z3BNYzM4TmFzUVp6emc5RVR3ZmdLVXpCVndkOHZZU0F3cW1uLXFkREJSMDd1V1djdmdMVkZlWWhwdmQxNGJOVHZoeDFaMWZN?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "'Position of strength': Confronted with a new world order, Carney and cabinet meet in Banff to chart path forward - Calgary Herald",
+      "excerpt": "'Position of strength': Confronted with a new world order, Carney and cabinet meet in Banff to chart path forward Calgary Herald",
+      "cat": "Economy"
     },
     {
       "id": "92c58a20553e0852",
@@ -193693,45 +193729,6 @@
       "title": "Canada et Nouvelle-Écosse signent accord décennal construction logements",
       "sum": "Le gouvernement du Canada et la province de la Nouvelle-Écosse ont conclu une entente de dix ans visant à augmenter la construction de logements. Le gouvernement fédéral mobilise la technologie, l'innovation et des partenariats pour accélérer les projets de construction résidentielle.",
       "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "f4eb2b1258f4fde1",
-      "date": "2025-05-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2025/05/discours-du-ministre-tim-hodgson-devant-la-chambre-de-commerce-de-calgary.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le ministre Hodgson s'adresse à la Chambre de commerce de Calgary",
-      "sum": "Le ministre Tim Hodgson a prononcé un discours devant la Chambre de commerce de Calgary portant sur la construction de l'avenir énergétique du Canada.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "23667b58f3b7b5e9",
-      "date": "2025-05-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/05/ceremonie-de-passation-des-pouvoirs-a-letablissement-de-warkworth.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Changement de direction à l'Établissement de Warkworth",
-      "sum": "Le Service correctionnel du Canada a tenu une cérémonie le 23 mai 2025 à l'Établissement de Warkworth en Ontario pour marquer le départ du directeur Dave Dunk et l'arrivée du nouveau directeur Henry Saulnier.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "2fe95dfe471bbac0",
-      "date": "2025-05-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/05/une-enquete-conjointe-de-lasfc-et-de-la-ppo-mene-a-une-arrestation-et-a-des-accusations-dimportation-et-de-trafic-de-drogue.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Arrestation pour importation et trafic de drogue suite à enquête conjointe",
-      "sum": "Un homme de 47 ans a été arrêté et fait face à des accusations d'importation et de trafic de drogue. L'arrestation résulte d'une enquête menée conjointement par la Police provinciale de l'Ontario et l'Agence des services frontaliers du Canada.",
-      "cat": "Public safety",
       "ai": true
     }
   ]

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-13T20:28:01.591Z",
+  "generatedAt": "2026-09-14T03:54:39.493Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7863,
+      "actions": 7866,
       "sources": 9
     },
     "fr": {
-      "actions": 7137,
+      "actions": 7134,
       "sources": 7
     }
   },
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "4e76bba19e11410b",
+      "date": "2026-09-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGNMMkNuVUxFbjRvZzllWmNaUWFzZE0zT25WQTZJMG9UQ054Sm9LYlJnanFIbGRGOGNlUGJNUl96Um56UjNZcEJfbUtDaGlOS1hCcVlOR3JFbGlFcW14QjJ5ZUNNLTdpNDM5YzZaczgzUjB2cjVkZVlnNFI3MXVQU29FZ2xqUGZnUWxMZXV2UDNCWkphR0pXTUNwbmxyemx4dmdMQkdLTEx1eWxE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada starting to draw attention from global investors, Carney says - The Globe and Mail",
+      "excerpt": "Canada starting to draw attention from global investors, Carney says The Globe and Mail",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "36731d1f6e9c3980",
+      "date": "2026-09-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd3F5eldqQWxxbDYwMUg4SmU2c0ZfVy1BT2NjM1VwVXl6WmFiLXRWdy12Y0I3bEhYSkdLMmRBdDF6TVhVR1ZHWTZMLUNhM1pOZUVmS1NmYzc0RkdrenhOZ1hXejFkWFBQRktpMENpNTdKczBvbmJla3Zva3BmdTVaVEM3YkRWOF9uMHpPYTZPLXZTaEFJdWh1ZmZOV2thc2UzRGxodlZkSE50N1JUYXN1Wg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Liberals Open 14-Point Lead, Largest Since 2017, as Trump Continues to Dominate the Agenda - abacusdata.ca",
+      "excerpt": "Liberals Open 14-Point Lead, Largest Since 2017, as Trump Continues to Dominate the Agenda abacusdata.ca",
+      "cat": "Economy"
+    },
     {
       "id": "d5ce1b71476e4e4f",
       "date": "2026-09-12",
@@ -141,6 +165,18 @@
       "title": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews - nai500.com",
       "excerpt": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews nai500.com",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "093c72220d3ee916",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHhRdjE5Vlk0c3ZlWXpoblNMZFUyVzBDbmU2MW5tY1pZVDZhZnpOaWNEb1hFNkhaQ2ptWC1GcDZQbjJwSmpkZGtfeHA3WXRPY0hrVlBVeHY1Z3BNYzM4TmFzUVp6emc5RVR3ZmdLVXpCVndkOHZZU0F3cW1uLXFkREJSMDd1V1djdmdMVkZlWWhwdmQxNGJOVHZoeDFaMWZN?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "'Position of strength': Confronted with a new world order, Carney and cabinet meet in Banff to chart path forward - Calgary Herald",
+      "excerpt": "'Position of strength': Confronted with a new world order, Carney and cabinet meet in Banff to chart path forward Calgary Herald",
+      "cat": "Economy"
     },
     {
       "id": "92c58a20553e0852",
@@ -10226,45 +10262,6 @@
       "title": "Minister LeBlanc addresses internal trade committee meeting",
       "sum": "Minister Dominic LeBlanc issued a statement regarding efforts to build a unified Canadian economy ahead of a Committee on Internal Trade meeting.",
       "cat": "Intergovernmental affairs",
-      "ai": true
-    },
-    {
-      "id": "017c14ff7fb19678",
-      "date": "2026-08-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/mp-maloney-to-announce-government-of-canada-support-for-etobicoke-business-growth.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government announces support for Etobicoke business growth",
-      "sum": "Member of Parliament James Maloney will announce Government of Canada support for business growth and innovation in Etobicoke on behalf of the Minister of Artificial Intelligence and Digital Innovation.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "265dbd6acb29362f",
-      "date": "2026-08-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/canada-provides-humanitarian-assistance-in-response-to-earthquake-in-colombia.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada provides humanitarian assistance for Colombia earthquake",
-      "sum": "Canada is providing humanitarian assistance to Colombia following an earthquake on August 10 that caused casualties and damage to homes and infrastructure. The government states that hundreds of thousands of people have been affected and assistance efforts are being scaled up.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "cba74a39f8cd17d9",
-      "date": "2026-08-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/08/minister-joly-announces-major-investment-in-the-canadian-agri-food-automation-and-intelligence-network-to-strengthen-canadas-agri-food-sector.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government invests in Canadian agri-food automation and intelligence network",
-      "sum": "Minister Joly announced a major investment in the Canadian Agri-Food Automation and Intelligence Network. The investment is intended to support Canada's agri-food sector.",
-      "cat": "Innovation, science & industry",
       "ai": true
     }
   ]
