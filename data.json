@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T21:37:41.157Z",
+  "generatedAt": "2026-09-15T03:54:23.451Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -35,6 +35,18 @@
   ],
   "items": [
     {
+      "id": "7b090b08b136c902",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjRwS21kT2ZwYVp6UXZQcHlBOU82OHNfb3hoM29hakd5VlRaWW9iUGpqTHNpXzA5LWtjZ1RWaHpENENPR3RIYi1rRVFpSDhfa0xjLS16MUtVOTg1XzFmTjFEMlJvODVXUGpvdUJFVGxoakJPSGlFdDBvWXpuWU5rNWMxcmw0bTBXbjZWbTIxTjdpVFA3cDRkY3gzVDFFTGpQdTBFOXNab21DdHhqd3lLdUE4RF9Bdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Pauline Hanson and Mark Carney are a unity ticket on migration - AFR",
+      "excerpt": "Pauline Hanson and Mark Carney are a unity ticket on migration AFR",
+      "cat": "Economy"
+    },
+    {
       "id": "ff71f624140e7808",
       "date": "2026-09-15",
       "src": "Government of Canada",
@@ -59,6 +71,54 @@
       "sum": "Une annonce concernant un projet d'infrastructure à Charlottetown sera faite en présence de Sean Casey, secrétaire parlementaire de la ministre des Anciens Combattants, et de Philip Brown, maire de Charlottetown.",
       "cat": "Infrastructure",
       "ai": true
+    },
+    {
+      "id": "0dc93521e4149674",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEh3LUtRbnVfTUs3TWdVV0I5OUM4TURMaUYyRGtIcUxsLWhEQWIwOTdwa0k3cmJLeXhMTUJoajNtcmdYUGxhaGdwRzFYcEF6SmxKQkIzVVRQTm5BMldqam15VDRaUWxJVlZYdVhyNW5ldHZtQWF5TDdwMExnRHc0amNSdU1UZUR2ZC1SbEF2RTFSUWVhMDNjdzZSaFNTQkp2ZDcxY1huMUpLZkpDQ0NsU1JR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s investment summit draws protests by Indigenous leaders, eco groups - APTN News",
+      "excerpt": "Carney’s investment summit draws protests by Indigenous leaders, eco groups APTN News",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "0b9199e818fd85d0",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2JsOXZNUkZEb3BkYUlQd2VRUjhBVF9UUlZlTjVOZEp2TC1GVUYtT19vZnNLS1NaSlU1MVd5Y21ac0tvYjM4dDZ2SVYzTmlTVWhzRlNwZUE5dGtYYkF5eENuUUp4R3FLR25BbUVxaURoRThTeUZGVkYzd09SWXF0RDJ6WEZvM0VXSHVRdUcwcDgxR3l5SkE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Over 1,000 protesters demonstrate against Carney's investment summit in Toronto - CBC",
+      "excerpt": "Over 1,000 protesters demonstrate against Carney's investment summit in Toronto CBC",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "3faa34894b297254",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFFDcDl2U0tjMnZMVDlvb1ByV1F1dC12amZGTXVXMHh2UlBBRWFjdmxiTTF2aE5vQlJjbWI4ZkZnZ1E1eUVQM0pTOXZHZVgzbXI2ODB4RzNxREk1eDJyWjBFLW1zb2JNQ0sxUF9jWkZFeHRUOEMzaUtsUTF4OF8xXzdDWDJiRHhOMHc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "John Ivison: If Canada really is open for business, Carney needs to rein in labour strife - National Post",
+      "excerpt": "John Ivison: If Canada really is open for business, Carney needs to rein in labour strife National Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "1d58ee363a257d16",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb21HbWtUN0tPbFdZUXdVRU5sTkZXWUoxUDE0NnExaHAxWFRTTkJia1FZUkU4TkJyRDVEbzZwOW5KdzlBWWNFbDhxNUwzVEQ3RThxNExCVXMwbVZFMzJib1NPNXdFOUd1Rmx4ZTZIRHZTS01VcDVIaWhkam1ybGJ6N1dLRGpLVHhxbFBvMG5vcnlxUktKWllMSlhYaENrX2Js?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney says Canada ‘not looking to become member’ of the EU - CTV News",
+      "excerpt": "PM Carney says Canada ‘not looking to become member’ of the EU CTV News",
+      "cat": "Economy"
     },
     {
       "id": "309dc7e6b8de5742",
@@ -703,6 +763,18 @@
       "title": "Canada courts global investors as Carney pushes $1-trillion investment drive - Philippine Canadian Inquirer",
       "excerpt": "Canada courts global investors as Carney pushes $1-trillion investment drive Philippine Canadian Inquirer",
       "cat": "Justice"
+    },
+    {
+      "id": "36326b1903a54721",
+      "date": "2026-09-13",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVU5sRW1ZdkpJU1lCYzc4eTRBR19yYk5vR0Q4cnU1OEIzam1zUi04a2pfQ2dadTZITTJvVjd0czRyZVcxVFNBdmFxRldpZ2EtSzA4eHZJbjN5ekhxaHZseWNDaWJfZWk1Q04wOGpJZUo4WGM5VnRUeThOMlhaTFZWalZVN050M3ZCSUdHQXZxR2trdmVWelVoUzJQWkhBY2F5?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Carney recrute Harper pour son Sommet canadien de l’investissement - Radio-Canada",
+      "excerpt": "Carney recrute Harper pour son Sommet canadien de l’investissement Radio-Canada",
+      "cat": "Economy"
     },
     {
       "id": "6ebec13c68c73dc9",
@@ -83728,6 +83800,18 @@
       "cat": "Indigenous services",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "6e12bae38b8e03de",
+      "date": "2026-04-13",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0hlWFppM0Mzd3lIME9qSWFjV1lCclpVWTU5R0M1Tll5ME5HWF94dk02REhyTUNmWmpkVElWeG5fbHc4X184SUtXY1lHS3MzZkJocjVjQW4yWm1LM0JqM2pudkx2eFNpcmJCY19PNGs0MHZmM195VjVjZ2QyVmNkLUhBbHk4eWk4NThteG42amJMOVZYbjFBOFBSNXVveUExRlpzRXNlMzB6dEUzb25hUzVlYzJNLWdkNzhqZ1V3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney obtient la majorité - qub.ca",
+      "excerpt": "Le gouvernement Carney obtient la majorité qub.ca",
+      "cat": "Economy"
     },
     {
       "id": "f84761db9228bfd9",
@@ -193628,96 +193712,6 @@
       "title": "Canada fait un don à la Fondation du Roi pour la visite royale",
       "sum": "Le gouvernement du Canada fait un don à la Fondation du Roi au Canada pour marquer la fin de la visite officielle du roi Charles III et de la reine Camilla.",
       "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "87c70d61f7899105",
-      "date": "2025-05-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2025/05/fete-du-canada-2025--devoilement-de-la-programmation-et-des-artistes-en-vedette.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Programmation et artistes annoncés pour la Fête du Canada 2025",
-      "sum": "Le gouvernement annonce la programmation et les artistes qui se produiront lors des célébrations nationales de la Fête du Canada en 2025. Les médias sont invités à assister au dévoilement.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "bc21f8131dfd70fe",
-      "date": "2025-05-27",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRDFONVhxVG1xYzdOcjVxWEw3UC1xQnF5ZzR0cjIydkVscEpfMHFGa0NMNDRVek1QQlI0UGt6MWp3S3JqbFpyUU9ydGZUejdCczYwUVlqVy1hSFZ5STZCdElXdEJKODd0RDRXdmVYNFN6WUotdFJ4cVBLQ2FwMGtuamJBZTA2bmFRZzBjeWRJcnlTNE5IWkFyT3EydWhZV1ZiTjVocTNPNW1FakpuZ1ZzZzdmSnRSakF3ODh3?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney government’s throne speech—different delivery, same old approach to policy - Fraser Institute",
-      "excerpt": "Carney government’s throne speech—different delivery, same old approach to policy Fraser Institute",
-      "cat": "Economy"
-    },
-    {
-      "id": "1db598f3fe2ccc91",
-      "date": "2025-05-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-services-procurement/news/2025/05/lane-closures-on-macdonald-cartier-bridge.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Lane closures announced for Macdonald-Cartier Bridge maintenance",
-      "sum": "Public Services and Procurement Canada has announced that lanes on the Macdonald-Cartier Bridge will be closed to allow maintenance work to be completed.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "d003d21977453b77",
-      "date": "2025-05-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-services-procurement/news/2025/05/dangerous-river-conditions-and-fluctuating-water-levels-on-red-river.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Red River water levels warning issued between two locations",
-      "sum": "Public Services and Procurement Canada is advising the public that water levels on the Red River between Lockport and Lister Rapids may fluctuate significantly. River conditions in this section may be dangerous.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "a5311e1e81a11655",
-      "date": "2025-05-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2025/05/the-government-of-canada-proudly-celebrates-asian-heritage-month.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government hosts reception for Asian Heritage Month 2025",
-      "sum": "The Government of Canada is hosting a reception to mark Asian Heritage Month in 2025. The event is part of the government's recognition of Asian heritage and contributions.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "c5197e121bfb7580",
-      "date": "2025-05-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2025/05/removing-the-consumer-carbon-price-from-canadian-law.html",
-      "type": "Bill",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government proposes repealing consumer carbon price legislation",
-      "sum": "The Government of Canada is proposing to permanently remove the fuel charge framework from the Greenhouse Gas Pollution Pricing Act through a four-phase process. This would eliminate the federal carbon price applied to fuels.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "0fc0e08b4571e79d",
-      "date": "2025-05-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2025/05/gst-relief-for-first-time-home-buyers-on-new-homes-valued-up-to-15-million.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "GST relief introduced for first-time home buyers",
-      "sum": "The federal government is providing relief from the Goods and Services Tax for first-time home buyers purchasing new homes valued at up to $1.5 million. This measure reduces the GST payable on eligible new home purchases.",
-      "cat": "Housing",
       "ai": true
     }
   ]

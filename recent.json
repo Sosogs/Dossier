@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-14T21:37:41.157Z",
+  "generatedAt": "2026-09-15T03:54:23.451Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7872,
+      "actions": 7871,
       "sources": 9
     },
     "fr": {
-      "actions": 7128,
+      "actions": 7129,
       "sources": 7
     }
   },
@@ -45,6 +45,18 @@
   ],
   "items": [
     {
+      "id": "7b090b08b136c902",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjRwS21kT2ZwYVp6UXZQcHlBOU82OHNfb3hoM29hakd5VlRaWW9iUGpqTHNpXzA5LWtjZ1RWaHpENENPR3RIYi1rRVFpSDhfa0xjLS16MUtVOTg1XzFmTjFEMlJvODVXUGpvdUJFVGxoakJPSGlFdDBvWXpuWU5rNWMxcmw0bTBXbjZWbTIxTjdpVFA3cDRkY3gzVDFFTGpQdTBFOXNab21DdHhqd3lLdUE4RF9Bdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Pauline Hanson and Mark Carney are a unity ticket on migration - AFR",
+      "excerpt": "Pauline Hanson and Mark Carney are a unity ticket on migration AFR",
+      "cat": "Economy"
+    },
+    {
       "id": "ff71f624140e7808",
       "date": "2026-09-15",
       "src": "Government of Canada",
@@ -69,6 +81,54 @@
       "sum": "Une annonce concernant un projet d'infrastructure à Charlottetown sera faite en présence de Sean Casey, secrétaire parlementaire de la ministre des Anciens Combattants, et de Philip Brown, maire de Charlottetown.",
       "cat": "Infrastructure",
       "ai": true
+    },
+    {
+      "id": "0dc93521e4149674",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEh3LUtRbnVfTUs3TWdVV0I5OUM4TURMaUYyRGtIcUxsLWhEQWIwOTdwa0k3cmJLeXhMTUJoajNtcmdYUGxhaGdwRzFYcEF6SmxKQkIzVVRQTm5BMldqam15VDRaUWxJVlZYdVhyNW5ldHZtQWF5TDdwMExnRHc0amNSdU1UZUR2ZC1SbEF2RTFSUWVhMDNjdzZSaFNTQkp2ZDcxY1huMUpLZkpDQ0NsU1JR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s investment summit draws protests by Indigenous leaders, eco groups - APTN News",
+      "excerpt": "Carney’s investment summit draws protests by Indigenous leaders, eco groups APTN News",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "0b9199e818fd85d0",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2JsOXZNUkZEb3BkYUlQd2VRUjhBVF9UUlZlTjVOZEp2TC1GVUYtT19vZnNLS1NaSlU1MVd5Y21ac0tvYjM4dDZ2SVYzTmlTVWhzRlNwZUE5dGtYYkF5eENuUUp4R3FLR25BbUVxaURoRThTeUZGVkYzd09SWXF0RDJ6WEZvM0VXSHVRdUcwcDgxR3l5SkE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Over 1,000 protesters demonstrate against Carney's investment summit in Toronto - CBC",
+      "excerpt": "Over 1,000 protesters demonstrate against Carney's investment summit in Toronto CBC",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "3faa34894b297254",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFFDcDl2U0tjMnZMVDlvb1ByV1F1dC12amZGTXVXMHh2UlBBRWFjdmxiTTF2aE5vQlJjbWI4ZkZnZ1E1eUVQM0pTOXZHZVgzbXI2ODB4RzNxREk1eDJyWjBFLW1zb2JNQ0sxUF9jWkZFeHRUOEMzaUtsUTF4OF8xXzdDWDJiRHhOMHc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "John Ivison: If Canada really is open for business, Carney needs to rein in labour strife - National Post",
+      "excerpt": "John Ivison: If Canada really is open for business, Carney needs to rein in labour strife National Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "1d58ee363a257d16",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb21HbWtUN0tPbFdZUXdVRU5sTkZXWUoxUDE0NnExaHAxWFRTTkJia1FZUkU4TkJyRDVEbzZwOW5KdzlBWWNFbDhxNUwzVEQ3RThxNExCVXMwbVZFMzJib1NPNXdFOUd1Rmx4ZTZIRHZTS01VcDVIaWhkam1ybGJ6N1dLRGpLVHhxbFBvMG5vcnlxUktKWllMSlhYaENrX2Js?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney says Canada ‘not looking to become member’ of the EU - CTV News",
+      "excerpt": "PM Carney says Canada ‘not looking to become member’ of the EU CTV News",
+      "cat": "Economy"
     },
     {
       "id": "309dc7e6b8de5742",
@@ -713,6 +773,18 @@
       "title": "Canada courts global investors as Carney pushes $1-trillion investment drive - Philippine Canadian Inquirer",
       "excerpt": "Canada courts global investors as Carney pushes $1-trillion investment drive Philippine Canadian Inquirer",
       "cat": "Justice"
+    },
+    {
+      "id": "36326b1903a54721",
+      "date": "2026-09-13",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVU5sRW1ZdkpJU1lCYzc4eTRBR19yYk5vR0Q4cnU1OEIzam1zUi04a2pfQ2dadTZITTJvVjd0czRyZVcxVFNBdmFxRldpZ2EtSzA4eHZJbjN5ekhxaHZseWNDaWJfZWk1Q04wOGpJZUo4WGM5VnRUeThOMlhaTFZWalZVN050M3ZCSUdHQXZxR2trdmVWelVoUzJQWkhBY2F5?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Carney recrute Harper pour son Sommet canadien de l’investissement - Radio-Canada",
+      "excerpt": "Carney recrute Harper pour son Sommet canadien de l’investissement Radio-Canada",
+      "cat": "Economy"
     },
     {
       "id": "6ebec13c68c73dc9",
@@ -10178,84 +10250,6 @@
       "title": "Government supports Indigenous-led reindeer herd agribusiness in Arctic",
       "sum": "The Canadian government is supporting an Indigenous-led initiative to develop a reindeer herd agribusiness in the Inuvialuit Settlement Region. Reindeer husbandry is a traditional practice that provides food security and economic opportunities for Inuvialuit communities.",
       "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "9227e945e1cf47a5",
-      "date": "2026-08-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/08/minister-solomon-and-mp-james-maloney-to-announce-investment-in-xanadu-to-strengthen-canadas-quantum-technology-supply-chain.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government announces investment in Xanadu quantum technology company",
-      "sum": "Minister Solomon and MP James Maloney will announce a government investment in Xanadu, a Canadian quantum technology company. The investment is intended to support Canada's quantum technology sector and supply chain development.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "8b8469eeecde2fd9",
-      "date": "2026-08-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/08/building-canada-strong-by-investing-in-water-and-wastewater-infrastructure-in-the-municipality-of-the-county-of-antigonish.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal investment in Antigonish water and wastewater infrastructure",
-      "sum": "The federal government announced over $560,000 in funding for water, wastewater, and stormwater system improvements in the Municipality of the County of Antigonish. The investment was made through the Direct Delivery stream of the Build Communities Strong Fund.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "da9a9a6e692b65cb",
-      "date": "2026-08-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-supports-live-arts-and-cultural-experiences-across-cape-breton.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests in live arts and cultural experiences in Cape Breton",
-      "sum": "The Government of Canada is providing funding to support live arts and cultural experiences in Cape Breton, Nova Scotia.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "060e2acac2bd6857",
-      "date": "2026-08-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/08/canada-nature-conservancy-of-canada-and-teck-resources-limited-partner-to-conserve-1600-hectares-in-newfoundland-and-labrador.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada partners to establish 1,600-hectare nature reserve in Newfoundland",
-      "sum": "The federal government, Nature Conservancy of Canada, and Teck Resources Limited announced the creation of the Beothuk Lake Nature Reserve, protecting 1,600 hectares of land near Millertown, Newfoundland and Labrador.",
-      "cat": "Wildlife",
-      "ai": true
-    },
-    {
-      "id": "4e484cbf5a8628a0",
-      "date": "2026-08-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/08/10m-investment-advances-canadas-sovereign-space-launch-capacity-in-newfoundland-and-labrador.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests $10M in sovereign space-launch capacity",
-      "sum": "The federal government is providing $10 million to advance Canada's ability to launch spacecraft from Canadian soil, specifically in Newfoundland and Labrador. This investment is part of Canada's effort to develop independent space-launch capabilities as countries globally compete in the space industry.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "2faba8aba5f17328",
-      "date": "2026-08-27",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/08/mise-a-jour-aux-medias--graves-crues-soudaines-et-coulees-de-boue-le-long-de-la-frontiere-entre-le-nepal-et-la-chine0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada exprime solidarité suite aux crues au Népal et Chine",
-      "sum": "Le Canada affirme sa solidarité envers les victimes et les personnes touchées par les inondations récentes au Népal et en Chine. Affaires mondiales Canada surveille la situation et prioritise la sécurité des Canadiens et du personnel à l'étranger.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]
