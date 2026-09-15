@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T03:54:23.451Z",
+  "generatedAt": "2026-09-15T11:18:52.385Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "a530457f7b71f107",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOenJuY0UwZkZ1MWdkZHpCRHBqT2NadmpUVThXS3YzN1NQaHlwUTNEei04OWtndkQyRm1fYUtleDhSUHp1cjJBN3QydHUySFFWaDVLQmQ5bkNoOXM5eVQ2QWtaZlVQVnl4X1dwa0JQNFEzNll1RHVFbUVCdTRsYVBidV9hb3ZfSzBKbFJoQVFUaw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s investment summit in Toronto draws protests by Indigenous leaders, eco groups, unions - CityNews Toronto",
+      "excerpt": "Carney’s investment summit in Toronto draws protests by Indigenous leaders, eco groups, unions CityNews Toronto",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "07c8d0bf7488877d",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUswWjREdGNmdU9ZTC15d0wtWGZtNU9maUp2bkxzZzFiWHVpeVNRWF94RVFKYWp2bmV5S0F5eHRUd3E0VnBKQ1FoQkVzaE9JMXJPcVN5Qk1Bd2lCY1k4VUJjX25PUjVVOTF4VmRnd3AxeWRPZlNkNWhGeGVTazNjeWd4VlpnZkhyRi02d2h1WUhleGNycjJaMnpKNnRZMXU2dWF0QnB4UjUxMHhFeEVjalNn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney to deliver remarks, hold press conference on day two of investment summit - CKPG Today",
+      "excerpt": "Carney to deliver remarks, hold press conference on day two of investment summit CKPG Today",
+      "cat": "Economy"
+    },
     {
       "id": "7b090b08b136c902",
       "date": "2026-09-15",
@@ -71,6 +95,18 @@
       "sum": "Une annonce concernant un projet d'infrastructure à Charlottetown sera faite en présence de Sean Casey, secrétaire parlementaire de la ministre des Anciens Combattants, et de Philip Brown, maire de Charlottetown.",
       "cat": "Infrastructure",
       "ai": true
+    },
+    {
+      "id": "359ab81228b3847d",
+      "date": "2026-09-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUc0VUVFVGFhMTFwVFhCcllYbDBvSzZVeXhtejRVRWc4eGRMMUZ1Mm9FUGl4X3JwSmpFLU1vX2FNcjFDQ2dRdUpNLTRyVTQ3TjRma2Nab0RlT01oNkFMRnI2b3N6TlItNUZobHJVSFNDY2FleEVOUEh0cVFGWEppSkJHX0htekZjMzV4ekFRalc5Vmh6dkpvdkdrQi1CWl9RcUxxR2lHRE53cldHUjM3aw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa offers faster access to tax rulings as Carney kicks off investment summit - CTV News",
+      "excerpt": "Ottawa offers faster access to tax rulings as Carney kicks off investment summit CTV News",
+      "cat": "Finance"
     },
     {
       "id": "0dc93521e4149674",
@@ -89606,6 +89642,18 @@
       "cat": "Intergovernmental affairs",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "b5f21b4be39bd7a4",
+      "date": "2026-03-31",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb29ucnZGUXFsMHNuT2Z0X0JUUlFrWVNTS2k3Vm1YWGQyRXV3Uk85QzFKNE4xdEotTlpDbTE4Q2RKTDMtME1iOGZUanh6MUJjU19GcFFFZFNqdmlualBBNE5LRkpqRFVpWjJwTWtoV1pPdmdBa1g0bDY0NHpIOGlrd09nTmlHUThlbjRGTEZZR19Qc083TXZwLUo5NmlpX3dKTFE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement Carney investit 3,8 milliards $ dans la conservation de la nature - Radio-Canada",
+      "excerpt": "Le gouvernement Carney investit 3,8 milliards $ dans la conservation de la nature Radio-Canada",
+      "cat": "Wildlife"
     },
     {
       "id": "1e086737e867ac53",
@@ -193659,58 +193707,6 @@
       "lang": "fr",
       "title": "Gouvernement reconnaît importance historique du parc Rockcliffe",
       "sum": "Le gouvernement du Canada reconnaît l'importance historique nationale de l'arrondissement historique du parc Rockcliffe à Ottawa. Cet arrondissement, situé au nord-est du centre-ville, représente un exemple des traditions d'aménagement des banlieues de la fin du XIXe siècle.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "a03a5d0a980a826e",
-      "date": "2025-05-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/05/des-agents-de-lasfc-interceptent-1-610-kg-de-cannabis-a-halifax.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "L'ASFC intercepte 1 610 kg de cannabis à Halifax",
-      "sum": "Des agents de l'Agence des services frontaliers du Canada ont saisi 1 610 kilogrammes de cannabis à Halifax. Cette interception s'inscrit dans les activités de contrôle des frontières et de l'application de la loi.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "9d79f8d7fffca2ce",
-      "date": "2025-05-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/05/lasfc-saisit-173-kg-de-fentanyl-et-5973-kg-dautres-stupefiants-dans-le-cadre-de-loperation-blizzard-axee-sur-lexportation.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "L'ASFC saisit fentanyl et stupéfiants lors de l'opération Blizzard",
-      "sum": "La Agence des services frontaliers du Canada a saisi 1,73 kg de fentanyl et 59,73 kg d'autres drogues illicites dans le cadre d'une opération ciblant l'exportation de stupéfiants.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "5029e2d11db22253",
-      "date": "2025-05-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2025/05/reponse-de-la-grande-prevot-des-forces-canadiennes-par-rapport-a-laudience-dinteret-public-de-la-commission-dexamen-des-plaintes-concernant-la-poli.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Forces canadiennes répondent aux audiences d'examen plaintes police militaire",
-      "sum": "La Grande Prévôté des Forces canadiennes a présenté une réponse concernant les audiences d'intérêt public menées par la Commission d'examen des plaintes concernant la police militaire. Cette commission enquête sur les plaintes contre la police militaire et examine les dossiers fermés à la demande des plaignants.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "97200911b1a9e922",
-      "date": "2025-05-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2025/05/le-gouvernement-du-canada-fait-un-don-a-la-fondation-du-roi-au-canada-en-lhonneur-de-la-visite-royale-de-leurs-majestes-le-roi-charlesiii-et-la-rei.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada fait un don à la Fondation du Roi pour la visite royale",
-      "sum": "Le gouvernement du Canada fait un don à la Fondation du Roi au Canada pour marquer la fin de la visite officielle du roi Charles III et de la reine Camilla.",
       "cat": "Culture & heritage",
       "ai": true
     }
