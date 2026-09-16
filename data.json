@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T03:51:41.536Z",
+  "generatedAt": "2026-09-16T11:01:25.248Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -35,6 +35,42 @@
   ],
   "items": [
     {
+      "id": "b44ce8f285e32fc5",
+      "date": "2026-09-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0x0S1N6cXpxRUEyZlAtUXpmRVZFXzN5WTc3SDBhN3UwNWRVZTBvYWJVUDk2ZHFPaUpVc290RDctRi1uNDZWWFVoZG9HbWZMUDgxM0JZSzhhT3RLMlpOc3p2ZXlmbERMdHdyYmJ5RHpTTHA3RWpHbWF4NUZIZDdoRkZBOWZVNGJKbEdiWHlUNzc0aUZGdGFscmlaQXE4bVJVakhwS3A5T1BZcms?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Taxpayer group calls for Carney to cut the cord on CBC, Senate, past GGs - National Post",
+      "excerpt": "Taxpayer group calls for Carney to cut the cord on CBC, Senate, past GGs National Post",
+      "cat": "Finance"
+    },
+    {
+      "id": "4b82cc6c2e79c19c",
+      "date": "2026-09-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGZZcHVUa2Z3TVFwOUM3WWU0QThnSjZoOVBKZE9hRVBnWl9xaGlCTnBJYjcwX1NYdUNlTGZMWjl0eHFSZmRyVTRtMEFmRkVEb1A1dnFsVHJDMTVRRnJfNk5WYmd0VGlmR2RNeTdYaHQtbU0tcVl1a18yUGVPQi1BUDlxVjZZY0hQNXRoejdwVGJhNjNIZy1DVXkxcGRxT2x3NFBFclBXaGF4UDJ2Z0U5T2kzdjN3UzFzekw2N2xyZDhmQVlRaWVfdDdrVXlNQ0lm?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s largest airport responds to Carney’s private investment plan - ctvnews.ca",
+      "excerpt": "Canada’s largest airport responds to Carney’s private investment plan ctvnews.ca",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "1f21a1449c1519d3",
+      "date": "2026-09-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPZlpZM0s4Nml6V1FOeWRmMDBtVTNMcjhJd3hEWWhYazc5TWFCMVNtaFZZTWY1bVd2NElqRUJtZXdqbC0zZ3ZaQk9jOXJiTGJNTjI2cGRmaUcwZ2JHUFZ0MXlvRVlIa1djaU9pZUpRN1BraHZjRXVpR3dKSWhyM0loVWVEMG1xNzdSUWpNM1RNZXF4ektPazhubm11VXQwaGk4QVM0NFlER1pUSGZzSHMza3RWMVFZck9BX3NTQzFGM1JnWXp1SUt2c3dId01HX3loby1hb3N0TTc1cmliUUtINlBTbzVINjFyWVJKbDFvbWR3RHdJZGR1Z0tiOWlfeE92Yi1GSzVONHlsMTdkbGx6dXpDRVltaGdmR1BRRXY5ajJFUGtSUUEzZ2k1cw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canadians can see only scattered pieces of a national strategy. Carney needs to explain how they fit together - Toronto Star",
+      "excerpt": "Canadians can see only scattered pieces of a national strategy. Carney needs to explain how they fit together Toronto Star",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "b0d12ccd21d553b3",
       "date": "2026-09-16",
       "src": "Canadian politics (via Google News)",
@@ -57,6 +93,54 @@
       "title": "Carney annonce une «mégadéduction» fiscale pour stimuler les investissements des entreprises - Le Devoir",
       "excerpt": "Carney annonce une «mégadéduction» fiscale pour stimuler les investissements des entreprises Le Devoir",
       "cat": "Finance"
+    },
+    {
+      "id": "d510740c0856f790",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOVNreDQyZzZKV2NvYXpKRDBFc1pCa0wtQi1wV1NhUU5fUDZocndOSWJ2TjZ2RUFTN3hWYWhaUnk3SmpOUk5zVHNzazFVYlowSnpnTkxoaTR3cWtlWGxrWFJJcm8weDc2WFhlYlBveUFnckFxcDFIakVJdlpDWUF2eUhmNmNkbDJlQWtMVC1ydWhKMmJHSkt0cU96NHZPaXFRYVEtVFh6dTFUZHRVZEtseXI3UFNqaUlvVWJxLVlR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Canada is 'ahead on incentives' in race with U.S. to attract investment - National Newswatch",
+      "excerpt": "Carney says Canada is 'ahead on incentives' in race with U.S. to attract investment National Newswatch",
+      "cat": "Economy"
+    },
+    {
+      "id": "b1a192773cbb8b05",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWjR2LVAzZi0xbGNLTFFYbzI4ZTJjU1ZWZzkzakg4c2dBcFI3eUhUWENaLU81VXBIREtBVnNacDZHRFFJZWZMYzJRb3lZaWc0UVlXSlhmQXk1UjM3UEtoaDJOWTBtTm9qdzkzb0VOSWtqaGtaYnpQOG5abzVzMGdXajNJYXpKSUh2cUtmcU1xX3hoQXphWnptWWpISnZjdk5CX1dGSA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Airport sales and tax breaks: Carney’s play to lure global investment - iPolitics",
+      "excerpt": "Airport sales and tax breaks: Carney’s play to lure global investment iPolitics",
+      "cat": "Finance"
+    },
+    {
+      "id": "91aee317fa6258a6",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2RVZWJVTXZaUU5LTEQwZWt6QzRMTExUREZpZUdhc25ZRmNuZFZ5OGp6ZEFXTXRiNmZiUk5HUWNhd2ticWdPd3dPNmstbmpjcm9zTHRKWWZySGRPTE5SVHBrWEg3S0dzOVhmaVNjdnVUMk51aEVWd1N1ZUdsbEZjeDhSbU1ERk1Cd0VNVHZ2c0w3VnlIRVl2d2twenFodGIxRHlVaG9CSDItc2dpb3hod2FFdzA2WG1uTTlleUhvM1M?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney to deliver remarks, hold press conference on day two of investment summit - Castanet",
+      "excerpt": "Carney to deliver remarks, hold press conference on day two of investment summit Castanet",
+      "cat": "Economy"
+    },
+    {
+      "id": "1a03cc7e9feb5d65",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT0FFU3Y3NVBUZU4yOEJKR2daYThSRWhoWXBQZXFIbGhJSzJaTDZUd2xmMnpaa3QtdmlWSXk1Mm4tNUFsSVpCN1dQcWYtdXNjdFA3WEd2dFEtaFFRM1hRQXZUQTd2VmtoRTFqc0N2MjZCd1RtcWkzTDBHY0ZndEVmZEM1UmJaWUdBRHg5MnRWQ2ZnVFV4a1lTVHh1MEpJbGZlSGhyTmRLVXA5V3ZUWlFnSy1EVGlsMEpEN3lEeU55c1pyTTlUOTA2VWNydURRRl9OMWxSVmt5RVFfbVZnUmpaUXJqd0pBVDB6R2s3SUJXTVJDZG9u?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney, Harper make the case for Canada at inaugural investment summit - Toronto Star",
+      "excerpt": "Carney, Harper make the case for Canada at inaugural investment summit Toronto Star",
+      "cat": "Economy"
     },
     {
       "id": "dbe696e2a3bcd100",
@@ -11085,6 +11169,18 @@
       "ai": true
     },
     {
+      "id": "f812e71710ab1bf1",
+      "date": "2026-08-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS19jdXlLN0ZzdFFMTndQZFUzVkxaN2N2RXV2OXlIRmRrU2ZJLWFiXzRERVN1RVE1RU9aWFYyNjlsOUp0cnl6cE1GT2xQZ05mVVNER3ozU2ozaDY2SXlNWFM3emJLUXRkdU5YMkxrNUlLX01NYmtIdVFybXd2RmJaMVRxVVI0bEhOcEdTMzlid3NYbHJtYV9KQ1FwNFp6RmFYdEhrNE82U0d0bzFnM19kS1M3bmNQSTdKX1Yw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘Then, now and always’: Carney says it will always be Lake Ontario after Trump order - APTN News",
+      "excerpt": "‘Then, now and always’: Carney says it will always be Lake Ontario after Trump order APTN News",
+      "cat": "Economy"
+    },
+    {
       "id": "2c112f955e106fe3",
       "date": "2026-08-27",
       "src": "Canadian politics (via Google News)",
@@ -16151,6 +16247,18 @@
       "title": "The Carney government is concerned about Canada’s entrepreneurial exodus. Here’s how to fix it - The Hub | More Signal. Less Noise.",
       "excerpt": "The Carney government is concerned about Canada’s entrepreneurial exodus. Here’s how to fix it The Hub | More Signal. Less Noise.",
       "cat": "Economy"
+    },
+    {
+      "id": "5dfc4f963d94328b",
+      "date": "2026-08-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdU9DZm5nWElGa21VdUlzUng3dnVqaWZBajlMREFEdXZnWW8xRjE1UG1kbHNzZFdNenBQZlV1WkJfNUJMWkFrcVluZW1BUHlxZWVUVDlDZkRvZWplNXMtYjlsVG5wbzBRNVdoNjhHWkhyS3RJbnE0ZUMtTzF3WU83RWQ2d1VVQWRpYzgzWkIwVGFyaWo2Zjg3R2xKbnVxTjJoTVBsZElYcw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Jesse Kline: Deal or no deal, Carney Liberals have failed to build Canada - National Post",
+      "excerpt": "Jesse Kline: Deal or no deal, Carney Liberals have failed to build Canada National Post",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "d44205a6cfd04cca",
@@ -193545,122 +193653,6 @@
       "title": "Canadian naval ship seizes over 1300 kilograms of cocaine",
       "sum": "HMCS William Hall, deployed on Operation CARIBBE in the Caribbean Sea, seized more than 1300 kilograms of cocaine on May 29 and 31 in cooperation with a United States Coast Guard law enforcement team.",
       "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "c87b9504611e6861",
-      "date": "2025-06-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/radiodiffusion-telecommunications/nouvelles/2025/06/adam-scott-au-sommet-canadien-des-telecommunications.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Adam Scott intervient au Sommet canadien des télécommunications",
-      "sum": "Adam Scott a pris la parole au Sommet canadien des télécommunications pour discuter du travail du CRTC. Son intervention a porté sur la promotion de la concurrence et l'outillage des consommateurs dans le secteur.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "9df4df53c47f614a",
-      "date": "2025-06-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/bureau-concurrence/nouvelles/2025/06/le-bureau-de-la-concurrence-publie-ses-orientations-relatives-aux-controles-de-propriete-visant-des-concurrents.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Bureau de la concurrence publie orientations sur contrôles de propriété",
-      "sum": "Le Bureau de la concurrence a publié des orientations expliquant comment il appliquera la loi en cas de contrôle de propriété visant des concurrents. Ces orientations offrent de la transparence au public sur l'approche du Bureau.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "4b69b708b6f049f2",
-      "date": "2025-06-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/savoir-polaire/nouvelles/2025/06/etape-importante-vers-la-realisation-dune-vision-du-leadership-canadien-en-science-de-larctique-inauguration-dune-nouvelle-exposition-sur-lapplicat.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Nouvelle exposition sur le savoir autochtone à la Station arctique",
-      "sum": "Une exposition a été inaugurée à la Station canadienne de recherche dans l'Extrême-Arctique pour présenter l'application du savoir autochtone à la recherche scientifique arctique. Cette initiative s'inscrit dans la vision du Canada en matière de leadership en science de l'Arctique.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "5171860674ce9ad8",
-      "date": "2025-06-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/06/le-ministre-sidhu-rencontre-le-secretaire-detat-aux-affaires-et-au-commerce-et-president-de-la-commission-du-commerce-du-royaume-uni-jonathan-reynolds.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le ministre Sidhu rencontre son homologue britannique à Paris",
-      "sum": "Le ministre canadien du Commerce international a rencontré le secrétaire d'État britannique aux Affaires et au Commerce en marge d'une réunion de l'OCDE à Paris. Cette rencontre s'inscrit dans le cadre des échanges diplomatiques entre les deux pays.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "a9fa129a599a2f8a",
-      "date": "2025-06-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2025/06/les-gouvernements-du-canada-et-de-la-saskatchewan-annoncent-un-soutien-par-lintermediaire-de-la-croix-rouge-canadienne-pour-venir-en-aide-aux-perso.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Saskatchewan soutiennent les victimes des feux de forêt",
-      "sum": "Les gouvernements du Canada et de la Saskatchewan annoncent un soutien financier par l'intermédiaire de la Croix-Rouge canadienne pour aider les personnes touchées par les feux de forêt en Saskatchewan. Le gouvernement fédéral s'engage à verser un montant égal à chaque dollar donné au fonds de secours de la Croix-Rouge.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "3093e843fd5277db",
-      "date": "2025-06-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2025/06/le-ncsm-william-hall-saisit-des-stupefiants-illicites-dans-la-mer-des-caraibes.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "NCSM William Hall saisit 1 300 kg de cocaïne aux Caraïbes",
-      "sum": "Le NCSM William Hall a saisi plus de 1 300 kilogrammes de cocaïne dans la mer des Caraïbes les 29 et 31 mai lors de son déploiement pour l'opération CARIBBE. Un détachement d'application de la loi de la garde côtière des États-Unis participait à cette opération.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "0f45c2b19daf8417",
-      "date": "2025-06-03",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDFEdUVMcGdIMFo4VDdSODZLZXQ1bUh2Wm03RGdnaHpfaUVYSGdRUXRFN2U0dnRJdWNCNkVUNk9jVG9TTWg3OGkyZnhRc244aU45aFpkeUhqd25pcDRQNnNmWURoLW5JeWdVREo1UFNNSEc2NmFnbmNWMjdDTWwxeHZmREY4TXoyMmJIVUFzLU13OS1kZVFXUVBjNlUwcjZaaHVsV0phSkI?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Ottawa dépose un projet de loi lui octroyant de nouveaux pouvoirs en immigration - Le Devoir",
-      "excerpt": "Ottawa dépose un projet de loi lui octroyant de nouveaux pouvoirs en immigration Le Devoir",
-      "cat": "Economy"
-    },
-    {
-      "id": "1696bf9a8732c9f9",
-      "date": "2025-06-03",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-safety-canada/news/2025/06/the-strong-borders-act---government-of-canada-strengthens-border-security.html",
-      "type": "Bill",
-      "kind": "official",
-      "lang": "en",
-      "title": "Strong Borders Act introduced to strengthen border security",
-      "sum": "The government introduced legislation aimed at giving law enforcement additional tools to secure Canada's borders, combat organized crime, reduce illegal fentanyl trafficking, and address money laundering.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "279cfe3ecc56e20c",
-      "date": "2025-06-03",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-safety-canada/news/2025/06/government-of-canada-strengthens-border-security.html",
-      "type": "Bill",
-      "kind": "official",
-      "lang": "en",
-      "title": "Bill introduced to strengthen Canadian border security laws",
-      "sum": "Minister of Public Safety Gary Anandasangaree introduced the Strong Borders Act, legislation designed to enhance border security measures. The bill aims to strengthen existing laws related to border management.",
-      "cat": "Public safety",
       "ai": true
     }
   ]

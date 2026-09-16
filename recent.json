@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-16T03:51:41.536Z",
+  "generatedAt": "2026-09-16T11:01:25.248Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7891,
+      "actions": 7898,
       "sources": 9
     },
     "fr": {
-      "actions": 7109,
+      "actions": 7102,
       "sources": 7
     }
   },
@@ -45,6 +45,42 @@
   ],
   "items": [
     {
+      "id": "b44ce8f285e32fc5",
+      "date": "2026-09-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0x0S1N6cXpxRUEyZlAtUXpmRVZFXzN5WTc3SDBhN3UwNWRVZTBvYWJVUDk2ZHFPaUpVc290RDctRi1uNDZWWFVoZG9HbWZMUDgxM0JZSzhhT3RLMlpOc3p2ZXlmbERMdHdyYmJ5RHpTTHA3RWpHbWF4NUZIZDdoRkZBOWZVNGJKbEdiWHlUNzc0aUZGdGFscmlaQXE4bVJVakhwS3A5T1BZcms?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Taxpayer group calls for Carney to cut the cord on CBC, Senate, past GGs - National Post",
+      "excerpt": "Taxpayer group calls for Carney to cut the cord on CBC, Senate, past GGs National Post",
+      "cat": "Finance"
+    },
+    {
+      "id": "4b82cc6c2e79c19c",
+      "date": "2026-09-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGZZcHVUa2Z3TVFwOUM3WWU0QThnSjZoOVBKZE9hRVBnWl9xaGlCTnBJYjcwX1NYdUNlTGZMWjl0eHFSZmRyVTRtMEFmRkVEb1A1dnFsVHJDMTVRRnJfNk5WYmd0VGlmR2RNeTdYaHQtbU0tcVl1a18yUGVPQi1BUDlxVjZZY0hQNXRoejdwVGJhNjNIZy1DVXkxcGRxT2x3NFBFclBXaGF4UDJ2Z0U5T2kzdjN3UzFzekw2N2xyZDhmQVlRaWVfdDdrVXlNQ0lm?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s largest airport responds to Carney’s private investment plan - ctvnews.ca",
+      "excerpt": "Canada’s largest airport responds to Carney’s private investment plan ctvnews.ca",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "1f21a1449c1519d3",
+      "date": "2026-09-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPZlpZM0s4Nml6V1FOeWRmMDBtVTNMcjhJd3hEWWhYazc5TWFCMVNtaFZZTWY1bVd2NElqRUJtZXdqbC0zZ3ZaQk9jOXJiTGJNTjI2cGRmaUcwZ2JHUFZ0MXlvRVlIa1djaU9pZUpRN1BraHZjRXVpR3dKSWhyM0loVWVEMG1xNzdSUWpNM1RNZXF4ektPazhubm11VXQwaGk4QVM0NFlER1pUSGZzSHMza3RWMVFZck9BX3NTQzFGM1JnWXp1SUt2c3dId01HX3loby1hb3N0TTc1cmliUUtINlBTbzVINjFyWVJKbDFvbWR3RHdJZGR1Z0tiOWlfeE92Yi1GSzVONHlsMTdkbGx6dXpDRVltaGdmR1BRRXY5ajJFUGtSUUEzZ2k1cw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canadians can see only scattered pieces of a national strategy. Carney needs to explain how they fit together - Toronto Star",
+      "excerpt": "Canadians can see only scattered pieces of a national strategy. Carney needs to explain how they fit together Toronto Star",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "b0d12ccd21d553b3",
       "date": "2026-09-16",
       "src": "Canadian politics (via Google News)",
@@ -67,6 +103,54 @@
       "title": "Carney annonce une «mégadéduction» fiscale pour stimuler les investissements des entreprises - Le Devoir",
       "excerpt": "Carney annonce une «mégadéduction» fiscale pour stimuler les investissements des entreprises Le Devoir",
       "cat": "Finance"
+    },
+    {
+      "id": "d510740c0856f790",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOVNreDQyZzZKV2NvYXpKRDBFc1pCa0wtQi1wV1NhUU5fUDZocndOSWJ2TjZ2RUFTN3hWYWhaUnk3SmpOUk5zVHNzazFVYlowSnpnTkxoaTR3cWtlWGxrWFJJcm8weDc2WFhlYlBveUFnckFxcDFIakVJdlpDWUF2eUhmNmNkbDJlQWtMVC1ydWhKMmJHSkt0cU96NHZPaXFRYVEtVFh6dTFUZHRVZEtseXI3UFNqaUlvVWJxLVlR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Canada is 'ahead on incentives' in race with U.S. to attract investment - National Newswatch",
+      "excerpt": "Carney says Canada is 'ahead on incentives' in race with U.S. to attract investment National Newswatch",
+      "cat": "Economy"
+    },
+    {
+      "id": "b1a192773cbb8b05",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWjR2LVAzZi0xbGNLTFFYbzI4ZTJjU1ZWZzkzakg4c2dBcFI3eUhUWENaLU81VXBIREtBVnNacDZHRFFJZWZMYzJRb3lZaWc0UVlXSlhmQXk1UjM3UEtoaDJOWTBtTm9qdzkzb0VOSWtqaGtaYnpQOG5abzVzMGdXajNJYXpKSUh2cUtmcU1xX3hoQXphWnptWWpISnZjdk5CX1dGSA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Airport sales and tax breaks: Carney’s play to lure global investment - iPolitics",
+      "excerpt": "Airport sales and tax breaks: Carney’s play to lure global investment iPolitics",
+      "cat": "Finance"
+    },
+    {
+      "id": "91aee317fa6258a6",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2RVZWJVTXZaUU5LTEQwZWt6QzRMTExUREZpZUdhc25ZRmNuZFZ5OGp6ZEFXTXRiNmZiUk5HUWNhd2ticWdPd3dPNmstbmpjcm9zTHRKWWZySGRPTE5SVHBrWEg3S0dzOVhmaVNjdnVUMk51aEVWd1N1ZUdsbEZjeDhSbU1ERk1Cd0VNVHZ2c0w3VnlIRVl2d2twenFodGIxRHlVaG9CSDItc2dpb3hod2FFdzA2WG1uTTlleUhvM1M?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney to deliver remarks, hold press conference on day two of investment summit - Castanet",
+      "excerpt": "Carney to deliver remarks, hold press conference on day two of investment summit Castanet",
+      "cat": "Economy"
+    },
+    {
+      "id": "1a03cc7e9feb5d65",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT0FFU3Y3NVBUZU4yOEJKR2daYThSRWhoWXBQZXFIbGhJSzJaTDZUd2xmMnpaa3QtdmlWSXk1Mm4tNUFsSVpCN1dQcWYtdXNjdFA3WEd2dFEtaFFRM1hRQXZUQTd2VmtoRTFqc0N2MjZCd1RtcWkzTDBHY0ZndEVmZEM1UmJaWUdBRHg5MnRWQ2ZnVFV4a1lTVHh1MEpJbGZlSGhyTmRLVXA5V3ZUWlFnSy1EVGlsMEpEN3lEeU55c1pyTTlUOTA2VWNydURRRl9OMWxSVmt5RVFfbVZnUmpaUXJqd0pBVDB6R2s3SUJXTVJDZG9u?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney, Harper make the case for Canada at inaugural investment summit - Toronto Star",
+      "excerpt": "Carney, Harper make the case for Canada at inaugural investment summit Toronto Star",
+      "cat": "Economy"
     },
     {
       "id": "dbe696e2a3bcd100",
@@ -10130,90 +10214,6 @@
       "lang": "en",
       "title": "Canadians Give the Carney Government Strong Overall Marks, but its Approval Rests Heavily on the Canada-U.S. file - Abacus Data",
       "excerpt": "Canadians Give the Carney Government Strong Overall Marks, but its Approval Rests Heavily on the Canada-U.S. file Abacus Data",
-      "cat": "Economy"
-    },
-    {
-      "id": "54cd57d2ba2cf412",
-      "date": "2026-08-31",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObHRZWFhQSXRjazdJTFVYc0d5azJMbzN0T2E0SHM4ejdNeWtjZzVXWW5PUGFLTWRMczJ3MmZoM252X1VKaUN5UmRPVlBGdEtlRXBZSmZIWVhOblB1ZW02d0NGQ2VnT01aZHZmVXU2WlhyclpyM0hiOHhhYkxxTEZ2RGY2cWFBeGZ4NzdqcUN3eE1VQzlLdnkzMHBQYjlhaWZ0aDZaTGJxLUNzbE9KMUFkNTlXZw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Canada-U.S. Trade Crisis Deepens: What Mark Carney’s Tariff Strategy Means for Canada - kalkine.ca",
-      "excerpt": "Canada-U.S. Trade Crisis Deepens: What Mark Carney’s Tariff Strategy Means for Canada kalkine.ca",
-      "cat": "Economy"
-    },
-    {
-      "id": "6d31958129f29c31",
-      "date": "2026-08-31",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaVZPa1Zud3VfdDY5WHVDYWUwT2UxVC1hY25WbmRZQ0FOZnRlQ2NsUXgzU1ZiNE9JS25NUnVOZEl6NmI2ZGx3MTJXUDBVVWMyRjlRYXd2R3Mtd1RSSExpUGU3c28tZkRUSlA1cUVOdlBuRm9MQWt3c09EUHM2OXF3ZWdjQTR1eFRnX21wT1U2bEttWmpDVzVDRU5ZYmFiYTNXcFNyaEVPem91dFVybnYwSEZ6cXVXdVB2?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Mark Carney Faces Biggest Economic Test Yet as Canada Prepares Response to U.S. Tariffs - kalkine.ca",
-      "excerpt": "Mark Carney Faces Biggest Economic Test Yet as Canada Prepares Response to U.S. Tariffs kalkine.ca",
-      "cat": "Economy"
-    },
-    {
-      "id": "4fcc85f4a24e80a3",
-      "date": "2026-08-30",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmt4TUxIZjc3SlItNVE2aWJrRS1CTTJOamJwUzRuQkdIdFFjeFladXBRWWtJZWlIVTdKWmszeHpvZWstNnlWNEpVYTN0SVBfblY1UEgweDBJQXhtOVlSX2pxb082WFB5eDhETmFnMEx4UHZkeFRrNXJJUFF2Um1DRDRFbnUxTjVBckV3dnR4VjNma2RTLXcyaUxlQQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Liberals Open 10-Point Lead as Trump Returns to the Centre of the Agenda - Abacus Data",
-      "excerpt": "Liberals Open 10-Point Lead as Trump Returns to the Centre of the Agenda Abacus Data",
-      "cat": "Economy"
-    },
-    {
-      "id": "8495f38979e69a25",
-      "date": "2026-08-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa09PekZMdW8yelVJWlB0d0hsZHhrUUotdEotYWNib3EyR2lTcmVTSnI1ZUtNVGxQQm0tYXJBNl9CZ1U3TWRhdVhhTkpiam5iUTJDZlpVdEtoNTcxdXNfcVo2RE96cTlzLUVKWkpEVEY0RlBlVUV6d1NlVmNhMTNzNFF6QnlNeldCMVVPVktLbW1ramhQdnBVeEFJbThWRFpSZDQ4?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Canadians weigh in on Carney government’s response to U.S. tariffs - Global News",
-      "excerpt": "Canadians weigh in on Carney government’s response to U.S. tariffs Global News",
-      "cat": "Economy"
-    },
-    {
-      "id": "f110899f4aa87d30",
-      "date": "2026-08-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2luS3FnTXZ0VFpNM2lHeEt4UlhXTmkwYWhWOUgyZFdaSnM1WmlMejFFV2FsMkptblZhajY2d3ladGtUTXo1MGVtYXZTTkdySF9Ob0dYRkRjTWJnME5RbkY1MVZjclByMUxqZmZ0YWItbFZPWlA4TXNHV1RhRU1HandIcnBfQ3puT1lQclBDUDFRYUNyUVgtSHlNcFM0YjJEdTZUc2d5ZE43UWRpUjA3VWJyem9JTWJp?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Head of federal agency organizing Carney’s investment summit resigns - The Globe and Mail",
-      "excerpt": "Head of federal agency organizing Carney’s investment summit resigns The Globe and Mail",
-      "cat": "Innovation, science & industry"
-    },
-    {
-      "id": "15b4f24b5f8d1968",
-      "date": "2026-08-29",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaU00dkZDYXlPWDNpTEY0N3JzdHFkU0xIWlpvdnhuVVpZa2lTOXZXTmgyLWRkUks4cnhSS25MVk9BcGVFeXREalY4Q09YNVYyV3o4S1VEcDFTWGMzbnMwc095Wm8yZmtFS0hiUXBCeHlfVnI0U2dITnlFcEpmYVBhanVYamloWDI3bWVIZVhsNW1YR3pKT0dWUUxFOXRPa3ZlUTdPTnZ1OV8xdGs?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "PERSPECTIVE - MORE OF THE SAME: Carney Should Abandon - Not Continue - Fiscal Approach of Predecessor - EnergyNow",
-      "excerpt": "PERSPECTIVE - MORE OF THE SAME: Carney Should Abandon - Not Continue - Fiscal Approach of Predecessor EnergyNow",
-      "cat": "Finance"
-    },
-    {
-      "id": "e66b81a8d0f8e8b7",
-      "date": "2026-08-29",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU1NRVnZlYW5mbThoQWdRX1BTRmpnU2F5ZjJxZjNYX2dRQ0tYX1NDT3N0cVpvV3ZYOW9JYzlROGUwRWxPbl8tZUd4QkdVSGs5c0FheTNMZWY1UFJrRlB1YUlpa09GYXJLbnVkOGlyV1Nyd3VBRzQxMndlWkd4V3BkRHBMYjkxV1RQRUVwdGRROFJ3cFFrX3JrZjJwTUpNMndmWVhTUDNyVEpNalNDNklSTTJzeXllQktjQVJ1YXFKQUNTZFlaUjJFMDd3?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Sondage Synopsis-La Presse | Les appuis pour Carney augmentent au Québec - La Presse",
-      "excerpt": "Sondage Synopsis-La Presse | Les appuis pour Carney augmentent au Québec La Presse",
       "cat": "Economy"
     }
   ]
