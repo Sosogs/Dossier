@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T20:59:58.446Z",
+  "generatedAt": "2026-09-17T03:57:08.691Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,96 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "6a008e51914af085",
+      "date": "2026-09-16",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/09/infrastructure-announcement-in-ottawa.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal officials announce infrastructure initiative in Ottawa",
+      "sum": "Federal government officials held an announcement regarding infrastructure in Ottawa. The event included the Secretary of State, two Members of Parliament, and a representative from Campfire Circle.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "e23b35f1f2e8e0d2",
+      "date": "2026-09-16",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/09/federal-government-invests-million-to-support-migratory-bird-monitoring-and-conservation-programs-across-the-country.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal government invests $2.6 million in migratory bird programs",
+      "sum": "The Government of Canada is providing $2.6 million to Birds Canada over five years to support monitoring and conservation programs for migratory birds, including species at risk.",
+      "cat": "Wildlife",
+      "ai": true
+    },
+    {
+      "id": "70072141443649b3",
+      "date": "2026-09-16",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/canada-co-hosts-the-2026-2x-global-summit-and-announces-funding-for-inclusive-finance.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada to co-host 2026 2X Global Summit on women's finance",
+      "sum": "Canada will co-host the 2026 2X Global Summit and announce funding aimed at improving women's access to financial services, loans, and training. The initiative addresses financial barriers that women face globally.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "0f7cdecf8aa27009",
+      "date": "2026-09-16",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/09/annonce-en-matiere-dinfrastructure-a-ottawa.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Annonce d'infrastructure à Ottawa avec représentants gouvernementaux",
+      "sum": "Une annonce concernant l'infrastructure se tiendra à Ottawa avec la participation du secrétaire d'État Adam van Koeverden, du député Chris Malette et du PDG d'une organisation communautaire. Les détails spécifiques du projet d'infrastructure ne sont pas fournis dans cette invitation aux médias.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "74d48b17161be892",
+      "date": "2026-09-16",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/09/le-gouvernement-federal-investit-millions-de-dollars-pour-appuyer-des-programmes-de-surveillance-et-de-conservation-des-oiseaux-migrateurs-partout-.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada investit 2,6 millions pour surveiller les oiseaux migrateurs",
+      "sum": "Le gouvernement fédéral alloue 2,6 millions de dollars sur cinq ans à Oiseaux Canada pour soutenir des programmes de surveillance et de conservation des oiseaux migrateurs au pays, y compris les espèces en péril.",
+      "cat": "Wildlife",
+      "ai": true
+    },
+    {
+      "id": "9919151944f13547",
+      "date": "2026-09-16",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-coorganise-le-sommet-2x-global-2026-et-annonce-des-fonds-destines-a-la-finance-inclusive.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada coorganise le Sommet 2X Global 2026 et annonce des fonds",
+      "sum": "Le Canada coorganise le Sommet 2X Global 2026 et annonce des fonds destinés à améliorer l'accès des femmes aux services financiers, prêts et formation. Cette initiative vise à réduire les obstacles financiers que les femmes rencontrent dans le contexte économique mondial actuel.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "fa11c064aa235192",
+      "date": "2026-09-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1lIcEdjNVlsVnc1X3h6ZFVLQzJwOTF4SEUzbnlnZDRwMlZLM21maldPUjhGNlh0bFIzdDUyS2ExYVBzelppUU1yaW54Y0kzb0FoRHliMlYzTjhsYlVnSmVGMi04bVo5c3c1VUh1LVU0ajQxQTI4OGJCRkNCX011d3FqRXlDQ2ZKVXVSaQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney opens Toronto Pearson and 3 other major Canadian airports to private investors amid Air Canada lawsuit - Money.ca",
+      "excerpt": "Carney opens Toronto Pearson and 3 other major Canadian airports to private investors amid Air Canada lawsuit Money.ca",
+      "cat": "Justice"
+    },
     {
       "id": "41151eb501ef8fec",
       "date": "2026-09-16",
@@ -11175,6 +11265,18 @@
       "cat": "Economy"
     },
     {
+      "id": "64900599873d0904",
+      "date": "2026-08-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWFFuSlZsODZ3cURtaU16a0pMQUU0czd1RW5iX2FRNDBrTkptNXA3ZGtaQ2RBcmVDYUVsaHVzWjFEMTlnM0VPUVE1dlZZNm9sNU9qaXZ2Zi1ORVkzc0VoSUtDZlpkcDhTd1lJcHY4cWFKNHZDbE9qMjhZa09OV211Y0NR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government asks court to strike down climate litigation - Yahoo News Canada",
+      "excerpt": "Carney government asks court to strike down climate litigation Yahoo News Canada",
+      "cat": "Justice"
+    },
+    {
       "id": "8495f38979e69a25",
       "date": "2026-08-29",
       "src": "Canadian politics (via Google News)",
@@ -11233,6 +11335,18 @@
       "title": "Carney government asks court to strike down climate litigation - CBC",
       "excerpt": "Carney government asks court to strike down climate litigation CBC",
       "cat": "Justice"
+    },
+    {
+      "id": "cd4f5dbd535d6624",
+      "date": "2026-08-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXhVa2loLXdSNHptQzVsOW1JRkhvcVpzZTc0LW5DYXRiOGtoT09zMF9wREVlaG1sVzlzSEJESExhMEpHSWdjRXE3T3JaTDY5ektaSzhDVmZ0MTY5OE1mbFczU1BXd3RJdDZoMC1sSXAtYmN4a3BsWEg1WHhUbTZPNWlndXhvbXpLNU5qanlaMTJSeUp0Yk5FTEhmZ1JmUDBucHBn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Seven in Ten Canadians Back Carney’s Decision to Walk Away From U.S. Trade Talks - Abacus Data",
+      "excerpt": "Seven in Ten Canadians Back Carney’s Decision to Walk Away From U.S. Trade Talks Abacus Data",
+      "cat": "Economy"
     },
     {
       "id": "9b67f80e8b926eb5",
@@ -193521,122 +193635,6 @@
       "title": "Garde côtière canadienne accueille nouveaux officiers de Flotte",
       "sum": "La Garde côtière canadienne a tenu une cérémonie de remise des diplômes au Collège de la Garde côtière canadienne pour accueillir de nouveaux officiers. Le Collège forme depuis soixante ans les étudiants aux compétences maritimes nécessaires pour protéger les eaux canadiennes.",
       "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "59fb28b0a3a716eb",
-      "date": "2025-06-06",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMklSU1AyZjV6QV9YZXBwRE9Lc2NwM2Frd2xDZ3FzR2Jkc2hKT2Y5WXgtaWVaM3B4WFFEY2VOT19FSTdUWDNRWWNoYllvVG04Qk1ZcDRSSmdEQmRLcURMOXIyNFlnVld6dU9vV21WVVIxTkdTZVFsTWNzTzc0ZkYwUTl0NS10b0FZX2RfWVdNenBYTGxkWWdR?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Le gouvernement Carney dépose un projet de loi « pour renforcer l’unité canadienne » - Radio-Canada",
-      "excerpt": "Le gouvernement Carney dépose un projet de loi « pour renforcer l’unité canadienne » Radio-Canada",
-      "cat": "Economy"
-    },
-    {
-      "id": "517993aefde5289d",
-      "date": "2025-06-06",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2025/06/statement-by-minister-guilbeault-on-eid-al-adha.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government issues statement marking Eid al-Adha",
-      "sum": "Minister Guilbeault released a statement on behalf of the Government of Canada to mark the Islamic holiday of Eid al-Adha.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "6bc3895083af7669",
-      "date": "2025-06-06",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/space-agency/news/2025/06/canada-reaffirms-international-collaboration-with-the-european-space-agency.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada reaffirms space collaboration with European Space Agency",
-      "sum": "Canada's space agency and the European Space Agency affirmed their ongoing partnership through a meeting at the Canadian Space Agency headquarters in Longueuil. The meeting was attended by representatives from both organizations and Canadian government officials.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "098adbe35018b782",
-      "date": "2025-06-06",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/intergovernmental-affairs/news/2025/06/one-canadian-economy-an-act-to-enact-the-free-trade-and-labour-mobility-in-canada-act-and-the-building-canada-act.html",
-      "type": "Bill",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government introduces legislation on internal trade and labour mobility",
-      "sum": "The Government of Canada introduced new legislation consisting of two acts: the Free Trade and Labour Mobility in Canada Act and the Building Canada Act. These measures aim to address trade and labour movement between Canadian provinces and territories.",
-      "cat": "Intergovernmental affairs",
-      "ai": true
-    },
-    {
-      "id": "70de731c2815c747",
-      "date": "2025-06-06",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/intergovernmental-affairs/news/2025/06/government-of-canada-introduces-legislation-to-build-one-canadian-economy.html",
-      "type": "Bill",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada introduces legislation for integrated national economy",
-      "sum": "The Government of Canada has introduced new legislation aimed at building a stronger and more competitive Canadian economy. The legislation was introduced by the Minister responsible for intergovernmental affairs and economic integration.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "a26e250a9e1527bd",
-      "date": "2025-06-06",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2025/06/minister-champagne-to-launch-the-conference-of-montreal.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister Champagne to participate in Montreal Conference opening",
-      "sum": "Minister of Finance and National Revenue François-Philippe Champagne will take part in the opening fireside chat of the 31st Conference of Montreal.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "049a72b0eb8ded96",
-      "date": "2025-06-06",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/agriculture-agri-food/news/2025/06/saskatchewan-agriculture-industry-benefits-from-funding-for-research-demonstration-projects.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada and Saskatchewan fund agricultural research demonstration projects",
-      "sum": "Canada and Saskatchewan announced funding of more than $1.4 million in 2024–25 for 38 agricultural research projects under the Sustainable Canadian Agricultural Partnership. The projects include Agriculture Demonstration of Practices and Technologies initiatives and Strategic Field Program projects.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "7311f4f10e8e8884",
-      "date": "2025-06-06",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/employment-social-development/news/2025/06/backgrounder-canada-summer-jobs-2025.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada Summer Jobs program provides youth employment opportunities",
-      "sum": "The Canada Summer Jobs program is part of a broader federal youth employment strategy delivered by 12 government departments and agencies. It offers employment supports, skills training, and work experience to youth aged 15 to 30, particularly those facing barriers to employment.",
-      "cat": "Education",
-      "ai": true
-    },
-    {
-      "id": "4fa3067f39abd4bc",
-      "date": "2025-06-06",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/employment-social-development/news/2025/06/government-of-canada-creating-thousands-more-job-opportunities-for-youth-this-summer.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada expands summer job program with 6,000 additional positions",
-      "sum": "The Government of Canada is creating up to 6,000 additional Canada Summer Jobs opportunities for youth. The program aims to provide first job experience that may influence participants' future education, training, and career decisions.",
-      "cat": "Economy",
       "ai": true
     }
   ]

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-16T20:59:58.446Z",
+  "generatedAt": "2026-09-17T03:57:08.691Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7907,
+      "actions": 7905,
       "sources": 9
     },
     "fr": {
-      "actions": 7093,
+      "actions": 7095,
       "sources": 7
     }
   },
@@ -44,6 +44,96 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "6a008e51914af085",
+      "date": "2026-09-16",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/09/infrastructure-announcement-in-ottawa.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal officials announce infrastructure initiative in Ottawa",
+      "sum": "Federal government officials held an announcement regarding infrastructure in Ottawa. The event included the Secretary of State, two Members of Parliament, and a representative from Campfire Circle.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "e23b35f1f2e8e0d2",
+      "date": "2026-09-16",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/09/federal-government-invests-million-to-support-migratory-bird-monitoring-and-conservation-programs-across-the-country.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Federal government invests $2.6 million in migratory bird programs",
+      "sum": "The Government of Canada is providing $2.6 million to Birds Canada over five years to support monitoring and conservation programs for migratory birds, including species at risk.",
+      "cat": "Wildlife",
+      "ai": true
+    },
+    {
+      "id": "70072141443649b3",
+      "date": "2026-09-16",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/canada-co-hosts-the-2026-2x-global-summit-and-announces-funding-for-inclusive-finance.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada to co-host 2026 2X Global Summit on women's finance",
+      "sum": "Canada will co-host the 2026 2X Global Summit and announce funding aimed at improving women's access to financial services, loans, and training. The initiative addresses financial barriers that women face globally.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "0f7cdecf8aa27009",
+      "date": "2026-09-16",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/09/annonce-en-matiere-dinfrastructure-a-ottawa.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Annonce d'infrastructure à Ottawa avec représentants gouvernementaux",
+      "sum": "Une annonce concernant l'infrastructure se tiendra à Ottawa avec la participation du secrétaire d'État Adam van Koeverden, du député Chris Malette et du PDG d'une organisation communautaire. Les détails spécifiques du projet d'infrastructure ne sont pas fournis dans cette invitation aux médias.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "74d48b17161be892",
+      "date": "2026-09-16",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/09/le-gouvernement-federal-investit-millions-de-dollars-pour-appuyer-des-programmes-de-surveillance-et-de-conservation-des-oiseaux-migrateurs-partout-.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada investit 2,6 millions pour surveiller les oiseaux migrateurs",
+      "sum": "Le gouvernement fédéral alloue 2,6 millions de dollars sur cinq ans à Oiseaux Canada pour soutenir des programmes de surveillance et de conservation des oiseaux migrateurs au pays, y compris les espèces en péril.",
+      "cat": "Wildlife",
+      "ai": true
+    },
+    {
+      "id": "9919151944f13547",
+      "date": "2026-09-16",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-canada-coorganise-le-sommet-2x-global-2026-et-annonce-des-fonds-destines-a-la-finance-inclusive.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada coorganise le Sommet 2X Global 2026 et annonce des fonds",
+      "sum": "Le Canada coorganise le Sommet 2X Global 2026 et annonce des fonds destinés à améliorer l'accès des femmes aux services financiers, prêts et formation. Cette initiative vise à réduire les obstacles financiers que les femmes rencontrent dans le contexte économique mondial actuel.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "fa11c064aa235192",
+      "date": "2026-09-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1lIcEdjNVlsVnc1X3h6ZFVLQzJwOTF4SEUzbnlnZDRwMlZLM21maldPUjhGNlh0bFIzdDUyS2ExYVBzelppUU1yaW54Y0kzb0FoRHliMlYzTjhsYlVnSmVGMi04bVo5c3c1VUh1LVU0ajQxQTI4OGJCRkNCX011d3FqRXlDQ2ZKVXVSaQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney opens Toronto Pearson and 3 other major Canadian airports to private investors amid Air Canada lawsuit - Money.ca",
+      "excerpt": "Carney opens Toronto Pearson and 3 other major Canadian airports to private investors amid Air Canada lawsuit Money.ca",
+      "cat": "Justice"
+    },
     {
       "id": "41151eb501ef8fec",
       "date": "2026-09-16",
@@ -10127,97 +10217,6 @@
       "title": "Amanda Strohan appointed to Foreign Affairs leadership role",
       "sum": "Amanda Strohan joined the Department of Foreign Affairs and International Trade in 2001 and has served in various diplomatic positions at Canadian missions overseas, including in Moscow, Beirut, Rabat, and Brussels.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "6288ec23106c9b75",
-      "date": "2026-09-01",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/08/announcement-of-new-diplomatic-appointment.html",
-      "type": "Appointment",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada appoints new ambassador to Thailand",
-      "sum": "Amanda Strohan has been appointed as Canada's Ambassador to Thailand, replacing Ping Kitnikone in the role.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "418900df579cda30",
-      "date": "2026-09-01",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2026/09/secretary-of-state-belanger-to-announce-treaty-land-entitlement-specific-claim-settlement-with-hatchet-lake-denesuline-first-nation.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Secretary of State announces land entitlement settlement with Hatchet Lake Denesuline",
-      "sum": "Secretary of State Belanger will announce a settlement of a specific claim related to Treaty Land Entitlement with Hatchet Lake Denesuline First Nation. This settlement addresses outstanding land obligations under the treaty.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "da57100911316ee7",
-      "date": "2026-09-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/09/le-ministre-champagne-fera-une-annonce-en-matiere-dabordabilite.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Champagne annonce mesures d'abordabilité pour familles et entreprises",
-      "sum": "Le ministre des Finances et du Revenu national fera une annonce concernant des mesures gouvernementales visant à aider les familles et les entreprises canadiennes à réduire leurs dépenses quotidiennes.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "ab1f522bac68c036",
-      "date": "2026-09-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-prairies/nouvelles/2026/09/le-secretaire-detat-belanger-et-le-ministre-hodgson-annonceront-un-soutien-federal-visant-a-appuyer-les-entreprises-et-les-travailleurs-de-la-saska.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Financement fédéral annoncé pour entreprises Saskatchewan",
-      "sum": "Le gouvernement fédéral annoncera un soutien financier destiné aux entreprises et travailleurs de la Saskatchewan, particulièrement à Saskatoon. Cette annonce sera faite par le secrétaire d'État Bélanger et le ministre Hodgson.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "2c299125bb950390",
-      "date": "2026-09-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/09/entreprises-et-organisations-du-canada-atlantique-participant-au-salon-professionnel-smm-2026-de-hambourg.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada soutient les entreprises océaniques atlantiques à Hambourg 2026",
-      "sum": "Le Canada aide 20 entreprises de technologies océaniques de l'Atlantique à participer au salon professionnel SMM 2026 à Hambourg. Cet investissement vise à faciliter l'accès aux marchés mondiaux de la construction navale et à soutenir le développement de l'industrie nationale.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "f03a55a1ffc20d63",
-      "date": "2026-09-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/09/le-canada-aide-20-entreprises-de-technologies-oceaniques-de-la-region-de-latlantique-a-acceder-aux-marches-mondiaux-de-la-construction-navale.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada aide 20 entreprises océaniques atlantiques à accéder aux marchés",
-      "sum": "Le Canada soutient 20 entreprises de technologies océaniques de l'Atlantique pour accéder aux marchés mondiaux de la construction navale. Cette aide s'inscrit dans l'investissement du gouvernement dans les industries nationales de la construction navale et maritime.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "10fc5bca7545ef2a",
-      "date": "2026-09-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/08/la-ministre-hajdu-lancera-lalliance-pour-la-main-duvre-du-secteur-de-lenergie-et-de-lelectricite.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Hajdu lance alliance main-d'œuvre énergie électricité",
-      "sum": "La ministre Hajdu annonce le lancement d'une alliance visant à développer la main-d'œuvre dans les secteurs de l'énergie et de l'électricité.",
-      "cat": "Innovation, science & industry",
       "ai": true
     }
   ]
