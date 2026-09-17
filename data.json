@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T03:57:08.691Z",
+  "generatedAt": "2026-09-17T11:11:53.498Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,54 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "4a4da1b2a5b41ac7",
+      "date": "2026-09-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWNWNlQ2cDZ6eWxhVWFQeHEyT1U2SXN2NTlsUnh2QkRUZWFpRHRtX1FPWWpSYWI4SkpheWdHLXFiM05FY1JhRnRyZENaUW9CU0pZd0VnWG5SOHdNb05GenJ1RWpWVzdIaTZzOEJkdmFWamd1blNQWXNQY0xYYnAwbS11eXhMM2VjUTJPYUZKdEFLejZFM0Rub2FhTlk4Mm9CU2I4aTBGSWVYb3dpUTA4X2xYZnIzNk9ZNW5vWUNScklZTmtuU3psZ29ldnFYTjg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why Carney’s Permanent Productivity Mega Deduction Is Becoming a Major Canadian Government Policy Story - kalkine.ca",
+      "excerpt": "Why Carney’s Permanent Productivity Mega Deduction Is Becoming a Major Canadian Government Policy Story kalkine.ca",
+      "cat": "Economy"
+    },
+    {
+      "id": "817a0934139c80f3",
+      "date": "2026-09-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rd1ItZWNsUzZIUERCLTk2dndpaXlsSXVVVUFwazJuaG1OWl9mdkJwaDZaNENwMTQ5QUxuWU8yMHIxcDRibDZKQ3p6NE5GUVI5d3FJaEoxV2xaU0xPZjBUcXJyTmVDQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney Is Dismantling Canada - The Walrus",
+      "excerpt": "Mark Carney Is Dismantling Canada The Walrus",
+      "cat": "Economy"
+    },
+    {
+      "id": "df8a9189f4282dfc",
+      "date": "2026-09-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb2ttN1M0eEo2NlUzcEI3SUZROWVfSklnV0dUR0FNZHp2UGxUUXA5cXk2QUhsWGM4ejQzQnlQZnNmZjJtNGxIWmR1eEdKa2VYX3B2S3VXUlFKckxubjd0a0RvZHY5QzJDVDFWOWVpdmZrN3N1aTNPMFpJeW1laW05aHJaMmtiVlJOYThZdDFqY29JNHc1SXJidjdUU25EVzdjNHAtVWxSN2VmaWVRSUFlVHB1dmliNHVodi0tWHJ2UEREQjZJaENORDlXVXJrSVU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Premier Doug Ford backs Carney's plan for private investors at airports - constructconnect.com",
+      "excerpt": "Premier Doug Ford backs Carney's plan for private investors at airports constructconnect.com",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "a7583f0c3c8083f5",
+      "date": "2026-09-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2xKM2NCOHZJV1VrUDBDS0NraGNOYVNUQjAxZzNQMFAzWVZUOUdVTWNqVkdDMmpVWnpIYzBMZmZoZVRUUUUwSlhrTGpoREg0SFVZTVUxbU9NUzdMM3lZNUpIYVF3OTFPbDV5ZFNXSFNpQldqeGIwVTdZUVpocGpiNmpndkEyc3FjM1pyVVVvaw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Opinion: Carney should scrap punitive Trudeau-era Clean Fuel Regulations - ca.finance.yahoo.com",
+      "excerpt": "Opinion: Carney should scrap punitive Trudeau-era Clean Fuel Regulations ca.finance.yahoo.com",
+      "cat": "Economy"
+    },
     {
       "id": "6a008e51914af085",
       "date": "2026-09-16",
@@ -32451,6 +32499,18 @@
       "excerpt": "Enbridge is beginning construction on the Sunrise Expansion Program, a $4 billion expansion of its West Coast Natural Gas pipeline running from near Chetywnd, B.C., to the Canada-U.S. border in the Fraser Valley.",
       "cat": "Natural resources",
       "lang": "en"
+    },
+    {
+      "id": "7990eb85eb28954b",
+      "date": "2026-07-20",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTNVcVhvREwzcnpxSU1BYlZiVjVnSVNQbEM1d1hTeVBkUWtlQjVzTFBqeU5Qbk5ldVc2bV83RTAzOEt2UklLVTNCZzZkd20zUktjRFVxckl2b0xNM0Npa0hyZjR3a1NRRXUtZ2s2WlQ4dVFVdjZ0RXdUVV9qdUhGaTQtdlhhbDBlT1hpZzRIcGpNa3BKTXZrcUFiN2V4emJRVmNjTi0tVjFiMUxZQ0lfb3dRUk9kS0tyNXdJbg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Mystère sur le coût et le financement du captage de carbone des compagnies pétrolières - Le Devoir",
+      "excerpt": "Mystère sur le coût et le financement du captage de carbone des compagnies pétrolières Le Devoir",
+      "cat": "Sustainable development"
     },
     {
       "id": "5f3db18adc04e82e",
@@ -193569,71 +193629,6 @@
       "lang": "en",
       "title": "Canada holds technical briefing on defence and security priorities",
       "sum": "Government of Canada officials will conduct a virtual briefing for media to discuss Canada's defence and security priorities. The briefing will be held under embargo, allowing media to ask questions about these priorities.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "f611eaa7b47082ae",
-      "date": "2025-06-08",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2025/06/des-representants-du-gouvernement-du-canada-tiendront-une-seance-dinformation-technique-sur-les-priorites-en-matiere-de-defense-et-de-securite.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Gouvernement du Canada présente ses priorités en défense",
-      "sum": "Des représentants du gouvernement du Canada tiendront une séance d'information technique virtuelle pour les médias afin de discuter des priorités en matière de défense et de sécurité.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "8a52d5dd0986cccb",
-      "date": "2025-06-07",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-services-procurement/news/2025/06/minister-lightbound-visits-chantier-davie-as-part-of-the-shipyards-200th-anniversary-celebration.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister visits Chantier Davie shipyard for 200th anniversary",
-      "sum": "A federal minister visited Chantier Davie shipyard to mark its 200th anniversary. The visit highlighted the government's National Shipbuilding Strategy, which aims to strengthen Canada's domestic shipbuilding capacity for naval and coast guard vessels.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "999e94775c8de84c",
-      "date": "2025-06-07",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-coast-guard/news/2025/06/canadian-coast-guard-welcomes-new-fleet-officers-at-college-graduation-ceremony.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canadian Coast Guard College graduates new fleet officers",
-      "sum": "The Canadian Coast Guard College held a graduation ceremony for new officers. The college has provided maritime training for sixty years to prepare personnel for coastal protection duties.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "a0d20b5712f147d1",
-      "date": "2025-06-07",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2025/06/le-ministre-lightbound-visite-le-chantier-davie-dans-le-cadre-du-200e-anniversaire-du-chantier-naval.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Lightbound visite le Chantier Davie pour son bicentenaire",
-      "sum": "Le ministre Lightbound a visité le Chantier Davie à l'occasion de son 200e anniversaire. Cette visite s'inscrit dans le cadre de la Stratégie nationale de construction navale du gouvernement du Canada.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "1edc7c85c8d102a5",
-      "date": "2025-06-07",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/garde-cotiere-canadienne/nouvelles/2025/06/la-garde-cotiere-canadienne-accueille-de-nouveaux-officiers-de-la-flotte-a-loccasion-de-la-ceremonie-de-remise-des-diplomes-du-college.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Garde côtière canadienne accueille nouveaux officiers de Flotte",
-      "sum": "La Garde côtière canadienne a tenu une cérémonie de remise des diplômes au Collège de la Garde côtière canadienne pour accueillir de nouveaux officiers. Le Collège forme depuis soixante ans les étudiants aux compétences maritimes nécessaires pour protéger les eaux canadiennes.",
       "cat": "National defence",
       "ai": true
     }
