@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-17T21:03:21.687Z",
+  "generatedAt": "2026-09-18T03:44:11.510Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7917,
+      "actions": 7914,
       "sources": 9
     },
     "fr": {
-      "actions": 7083,
+      "actions": 7086,
       "sources": 7
     }
   },
@@ -44,6 +44,134 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "38991b79b38fbf58",
+      "date": "2026-09-17",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-sidhu-speaks-with-kazakhstans-minister-of-trade-and-integration.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada discusses trade opportunities with Kazakhstan",
+      "sum": "Canada's Minister of International Trade spoke with Kazakhstan's Minister of Trade and Integration to discuss ways to strengthen economic partnership and advance shared commercial priorities.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "83e0e9a4621bf11f",
+      "date": "2026-09-17",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/first-meeting-of-the-co-chairs-of-the-sovereign-technology-alliance.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada and Germany hold first Sovereign Technology Alliance co-chairs meeting",
+      "sum": "Canada's Minister of Artificial Intelligence and Digital Innovation and Germany's Minister for Digital Transformation held their first meeting as co-chairs of the Sovereign Technology Alliance. The meeting took place at the ALL IN conference where Germany is the 2026 country focus.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "ae1c5e2b7d203277",
+      "date": "2026-09-17",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/ai-leadership-takes-centre-stage-at-all-in-2026.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces AI investments and international partnerships",
+      "sum": "Canada's flagship AI conference showcased new investments in artificial intelligence and international partnerships. The announcements reflect the country's efforts in AI development.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "a0e2006aa6075428",
+      "date": "2026-09-17",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-meets-with-kuwaits-minister-of-foreign-affairs.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canadian Foreign Affairs Minister meets Kuwait counterpart",
+      "sum": "Canada's Minister of Foreign Affairs met with Kuwait's Minister of Foreign Affairs during an official visit to Ottawa.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "9d0eacb994e5a382",
+      "date": "2026-09-17",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-ministre-sidhu-sentretient-avec-le-ministre-du-commerce-et-de-lintegration-du-kazakhstan.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le ministre Sidhu rencontre son homologue kazakh pour renforcer partenariat",
+      "sum": "Le ministre canadien du Commerce international a discuté avec le ministre kazakh du Commerce et de l'Intégration pour explorer les moyens de renforcer la relation économique entre les deux pays et avancer leurs priorités commerciales communes.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "091960a8de42b951",
+      "date": "2026-09-17",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/premiere-reunion-des-copresidents-de-lalliance-pour-les-technologies-souveraines.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et Allemagne lancent alliance pour technologies souveraines",
+      "sum": "Le ministre canadien de l'Intelligence artificielle et de l'Innovation numérique et son homologue allemand de la Transformation numérique ont tenu leur première réunion en tant que coprésidents d'une alliance visant à promouvoir la souveraineté technologique.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "55f69a4c03096c32",
+      "date": "2026-09-17",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/le-canada-fait-montre-de-son-leadership-en-intelligence-artificielle-lors-de-la-conference-all-in-de-2026.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada démontre son leadership en intelligence artificielle",
+      "sum": "Le Canada a participé à la conférence ALL IN de 2026 sur l'intelligence artificielle, où de nouveaux investissements et partenariats internationaux ont été annoncés. L'événement a mis en évidence la position du Canada dans le domaine de l'IA.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "2c02b6eacdd4c8e6",
+      "date": "2026-09-17",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-rencontre-le-ministre-des-affaires-etrangeres-du-koweit.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Anand rencontre le ministre des Affaires étrangères du Koweït",
+      "sum": "La ministre canadienne des Affaires étrangères, Anita Anand, a rencontré le ministre des Affaires étrangères du Koweït lors de sa visite à Ottawa.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "adfadfb1cb0da824",
+      "date": "2026-09-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQzNMQWh6a0RVQzdQMVlsNk5ONmFyZHo1ZXNMNDVmaXBFTDd1WFRkaUdGY2NXQ3JyZ1dnWlVJT2pKUVZybGJyZFE2ODdiUDJSNnA5d2pyUnZFYTZzaHhGUkZQMXc0b0E1QVgzNTc4SVlwVmNRUzk3WENobko1UVQ2WDFaY042U3dNVmk0b1FEQkE0WEFRNXBILXV0TDVXMTRibm55dVVMcWl2bUVGckRMa2xoa0dLV0F5VGJ6ZUJfNA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why these seniors are heading to Ottawa with a message for Mark Carney - CBC",
+      "excerpt": "Why these seniors are heading to Ottawa with a message for Mark Carney CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "d923d4aea38d5e95",
+      "date": "2026-09-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQU05UmhBSF9Gb2tZbEtJNEFpRUlUOU5ZVURYaEVmclR2SVJrY1NLcHpIS2RMclR5MVotcnF3Mk1DSXN5RmpPQ1RWdTdnN0FxNGEzenhsUWtIcEdqM2JMdUtVLWN2N0tndHU5Yk9zLUdqQlNlMXY1Nll2Yk4xaTdNVTZCSVJBblI5SHdPVDlNMTNxWW9i?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "ENERGY NORTH: Canada’s Oil Sands Get a Boost From Mark Carney - EnergyNow.com",
+      "excerpt": "ENERGY NORTH: Canada’s Oil Sands Get a Boost From Mark Carney EnergyNow.com",
+      "cat": "Natural resources"
+    },
     {
       "id": "4aef70a0d4098dde",
       "date": "2026-09-17",
@@ -1567,6 +1695,18 @@
       "title": "Carney annonce une «mégadéduction» fiscale pour stimuler les investissements des entreprises - Le Devoir",
       "excerpt": "Carney annonce une «mégadéduction» fiscale pour stimuler les investissements des entreprises Le Devoir",
       "cat": "Finance"
+    },
+    {
+      "id": "cd76ec43130907cf",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yczRxNU4wSDdJSXZ1blRhOC1sU2cyNlJMZEN0bnJhZ3dyZ01obWpyWlJEeHhNUGlwZG5MMFNpRlhrTzZYLTBCWExOZDM5QWxDU1p1XzRzS2M0RHAySjhsR2s1cllPZEFCZ2RJNmNlUDNfSjhSR2RzZThWSQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "AI 'fearmongering' could harm Canada’s rare opportunity, says top CEO - CBC",
+      "excerpt": "AI 'fearmongering' could harm Canada’s rare opportunity, says top CEO CBC",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "c0ee3b0f993cdcac",
@@ -4322,6 +4462,18 @@
       "lang": "en",
       "title": "Canada still studying Trump's latest trade attack: Carney - Castanet",
       "excerpt": "Canada still studying Trump's latest trade attack: Carney Castanet",
+      "cat": "Economy"
+    },
+    {
+      "id": "1b07add46deb27e4",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTC1ySXRSZFBBZ2VGdENFZW0zcWJTdjdmME8yZkpicmtqVTF5a2Z3TmVqcWpFOGdNSFFuZzllVkxBV1BxbDdfbzJHZzF2ZGJVeld5ZUdJdnpRVzhyNlI5RkRMcDdqZDhwdjA4MVJqZTAycGVaeVlpOTA4S3NyYzdZUUtUX2xZM3QwR0NxdHVseWNOZTF2ei1LekJrd3l5QjQ5SVE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada still studying Trump’s latest trade attack: Carney - CityNews Toronto",
+      "excerpt": "Canada still studying Trump’s latest trade attack: Carney CityNews Toronto",
       "cat": "Economy"
     },
     {
@@ -10068,159 +10220,6 @@
       "sum": "Le 2 septembre 2026, des représentants des ministères des Affaires étrangères de l'Inde et du Canada ont tenu leurs consultations annuelles à New Delhi. La délégation indienne était dirigée par le secrétaire (Est) et la délégation canadienne par le sous-ministre des Affaires étrangères.",
       "cat": "Foreign affairs",
       "ai": true
-    },
-    {
-      "id": "e58cc2b32b6e01bc",
-      "date": "2026-09-02",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2026/09/lasfc-lance-les-travaux-de-modernisation-du-point-dentree-de-paterson-en-colombie-britannique.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "ASFC modernise le point d'entrée de Paterson en Colombie-Britannique",
-      "sum": "L'Agence des services frontaliers du Canada entreprend des travaux de modernisation du point d'entrée de Paterson, situé en Colombie-Britannique.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "4b4c5b854f7ec590",
-      "date": "2026-09-02",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/09/la-ministre-hajdu-lance-lalliance-pour-la-main-duvre-du-secteur-de-lenergie-et-de-lelectricite.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Hajdu lance alliance main-d'œuvre énergie électricité",
-      "sum": "La ministre Hajdu a annoncé la création d'une alliance destinée à développer la main-d'œuvre dans les secteurs de l'énergie et de l'électricité. Cette initiative vise à renforcer les ressources humaines dans ces domaines.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "79b645708a8c4c3f",
-      "date": "2026-09-02",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-prairies/nouvelles/2026/09/la-ministre-olszewski-annoncera-un-soutien-pour-aider-les-fabricants-de-winnipeg-a-accroitre-leur-production-et-a-penetrer-de-nouveaux-marches.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Soutien fédéral annoncé pour fabricants de Winnipeg",
-      "sum": "La ministre Olszewski annoncera un financement fédéral destiné à aider les fabricants de Winnipeg à augmenter leur production et accéder à de nouveaux marchés. Ce soutien vise à atténuer les difficultés liées aux pressions tarifaires et à renforcer leurs activités commerciales.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "451b56ce67f3be28",
-      "date": "2026-09-02",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/garde-cotiere-canadienne/nouvelles/2026/09/les-equipages-dembarcations-de-sauvetage-cotier-de-la-garde-cotiere-canadienne-au-quebec-reduisent-leurs-activites-de-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Garde côtière canadienne réduit services sauvetage côtier Québec 2026",
-      "sum": "Les stations de sauvetage côtier de la Garde côtière canadienne au Québec réduiront leurs activités de recherche et de sauvetage maritime à partir du 7 septembre 2026. Cette réduction affecte les services saisonniers offerts par ces embarcations.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "4ebacc54de22afce",
-      "date": "2026-09-02",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-regions-quebec/nouvelles/2026/09/invitation-aux-medias--lhonorable-melanie-joly-visitera-une-entreprise-manufacturiere-de-laval-touchee-par-les-droits-de-douane.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Visite ministérielle à une entreprise manufacturière de Laval",
-      "sum": "La ministre de l'Industrie, Mélanie Joly, visitera une entreprise manufacturière de Laval qui subit les effets des droits de douane américains. Cette visite est ouverte aux représentants des médias.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "467721464aa0fa2a",
-      "date": "2026-09-02",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/instituts-recherche-sante/nouvelles/2026/09/le-gouvernement-du-canada-annonce-un-investissement-de-13-m-dans-de-nouvelles-possibilites-de-recherche-sur-la-sante-mentale-des-jeunes.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 13 millions pour la recherche en santé mentale jeunesse",
-      "sum": "Le gouvernement du Canada annonce un investissement de plus de 13 millions de dollars pour renforcer la recherche sur la santé mentale des jeunes. Cet investissement vise à combler l'écart entre la recherche et les soins, en répondant aux obstacles que les jeunes Canadiens rencontrent pour accéder à des services de santé mentale efficaces.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "2fe0014909f3f1eb",
-      "date": "2026-09-02",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/09/les-ministres-hodgson-et-robertson-assisteront-a-linauguration-dun-chantier-dinfrastructures-electriques.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministres Hodgson et Robertson assistent à l'inauguration d'un chantier électrique",
-      "sum": "Les ministres Hodgson et Robertson participeront à la cérémonie d'inauguration d'un projet de construction d'infrastructures électriques.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "6db6624a67763745",
-      "date": "2026-09-02",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/08/la-deputee-pauline-rochefort-annoncera-un-investissement-du-gouvernement-a-un-organisme-artistique-et-culturel-de-temiskaming-shores.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Financement gouvernemental accordé à un organisme artistique de Temiskaming Shores",
-      "sum": "La députée Pauline Rochefort annoncera un investissement du gouvernement fédéral destiné à un organisme artistique et culturel situé à Temiskaming Shores, en Ontario.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "2cd84f86f213efc3",
-      "date": "2026-09-02",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-secretaire-detat-van-koeverden-annoncera-un-soutien-pour-batir-un-canada-fort-par-lentremise-des-sports-en-ontario.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Soutien annoncé pour infrastructures sportives en Ontario",
-      "sum": "Le secrétaire d'État van Koeverden annoncera un soutien pour les infrastructures sportives dans la région de Toronto. Il participera également à une activité d'initiation au basketball en fauteuil roulant.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "f084e0fd6a15219b",
-      "date": "2026-09-02",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzTFVQY3Flb0Z0QV9fc1RpaW1sTndvaFczbDJaVkdHajhWamNfZXVHVlh1Vm5BQTB2dDVfOGowSTdoTEJsTU03SUdUc3NDVWFHckllWXZ6UHlyREhRWDJQdllTdXRzblpDQ19VeDRDWWlCNUdlSEtmV0g3WXNndw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Federal government will extend gas tax holiday into 2027, sources say - CBC",
-      "excerpt": "Federal government will extend gas tax holiday into 2027, sources say CBC",
-      "cat": "Finance"
-    },
-    {
-      "id": "242fb9f929009f3e",
-      "date": "2026-09-02",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVZfTWRNVFdkeUlaOElHdjMwUUJ6U2FTQjh0N1pDTTZtNm54WE5YRE53WFh3WXRsVG9jMjJydnpRMjA3MmUyNzVqR1NwMTNPVjBFTTRzQTV6QTV5TE9Qcy1UUGh1MllidmxqbVNMOEQzRWgzSHlTZmp2dUFZR25FWkQyMXVoVWNOeGhaSzlZRFBFbHpiZWJ2V1pvS0ZUcmxocjJnRHl4N0RhaVVaUVZxX0RMUWJUMW9rR2c?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney government to extend gas tax holiday into the new year, sources say - CP24",
-      "excerpt": "Carney government to extend gas tax holiday into the new year, sources say CP24",
-      "cat": "Finance"
-    },
-    {
-      "id": "3430f9fc566edba6",
-      "date": "2026-09-02",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUtfS0ZrcjNFX1ZRMFUxQTZnWExBblN2b3FOUkxCYlllY1BoVkFfVEhId1llbTNWVWU0V01pYzRZa3RxQVRxWHg4WnE1VnVxVG1nd0t3TFNucWowYlFkOTBMaUdNZFFrZ3Z1Zzk3cXVCbEQxVmQzU3RkYWFxMjVnbmxMYmZ6VUt3?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney, Liberals gain momentum with byelection victories - Yahoo News Canada",
-      "excerpt": "Carney, Liberals gain momentum with byelection victories Yahoo News Canada",
-      "cat": "Innovation, science & industry"
     }
   ]
 }
