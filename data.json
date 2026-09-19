@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T10:29:14.618Z",
+  "generatedAt": "2026-09-19T15:33:10.565Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "65d2a3585761690e",
+      "date": "2026-09-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54SG1RRy1KdWcxZVJJSTJOYnJIbi1hLVFSZWg5cWhNcEZ4MWRwXzBVcXAzMkxNSE5sSzRsVExBZFNra2d1d0JZbmhPblVraHk2OG5MOGh4Sk42MXpYREdBTFoxbXYzOXRacV92YjNhazRWZ0Zj?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government hiding the true cost of high-speed rail from taxpayers - Juno News",
+      "excerpt": "Carney government hiding the true cost of high-speed rail from taxpayers Juno News",
+      "cat": "Finance"
+    },
     {
       "id": "51d01964dc6401b0",
       "date": "2026-09-19",
@@ -193597,19 +193609,6 @@
       "title": "Trade tribunal investigates dumped Chinese thermal paper rolls",
       "sum": "The Canadian International Trade Tribunal has begun an inquiry into complaints from three Canadian paper companies that Chinese thermal paper rolls are being sold in Canada at unfairly low prices due to dumping and subsidies. The inquiry will determine whether Canadian manufacturers have been harmed by these imports.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "fe9036c73afd3fe2",
-      "date": "2025-06-13",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/economic-development-quebec-regions/news/2025/06/government-of-canada-supports-the-francos-de-montreal-and-festival-international-de-jazz-de-montreal.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada funds Montreal jazz and francophone festivals",
-      "sum": "The Government of Canada is providing over $1 million in financial support to the Francos de Montréal festival and the Festival International de Jazz de Montréal through Community Economic Development (CED) funding.",
-      "cat": "Culture & heritage",
       "ai": true
     }
   ]

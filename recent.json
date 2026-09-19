@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T10:29:14.618Z",
+  "generatedAt": "2026-09-19T15:33:10.565Z",
   "count": 800,
   "totals": {
     "en": {
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "65d2a3585761690e",
+      "date": "2026-09-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54SG1RRy1KdWcxZVJJSTJOYnJIbi1hLVFSZWg5cWhNcEZ4MWRwXzBVcXAzMkxNSE5sSzRsVExBZFNra2d1d0JZbmhPblVraHk2OG5MOGh4Sk42MXpYREdBTFoxbXYzOXRacV92YjNhazRWZ0Zj?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government hiding the true cost of high-speed rail from taxpayers - Juno News",
+      "excerpt": "Carney government hiding the true cost of high-speed rail from taxpayers Juno News",
+      "cat": "Finance"
+    },
     {
       "id": "51d01964dc6401b0",
       "date": "2026-09-19",
@@ -10209,19 +10221,6 @@
       "title": "Canada met en place des mesures de soutien face aux droits de douane américains",
       "sum": "La ministre Valdez annonce des mesures pour aider les travailleurs et les entreprises canadiennes touchés par les droits de douane imposés par les États-Unis. Les petites entreprises sont particulièrement affectées par ces tarifs qui impactent l'emploi et les investissements.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "53009dedae3d102b",
-      "date": "2026-09-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/09/le-canada-et-lontario-ameliorent-labordabilite-du-logement-a-mississauga.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Ontario financent réduction droits aménagement Mississauga",
-      "sum": "Les gouvernements du Canada et de l'Ontario accordent jusqu'à 401,4 millions de dollars à Mississauga pour soutenir sa réduction de 50 % des droits d'aménagement sur les projets résidentiels entre janvier 2025 et mars 2029.",
-      "cat": "Housing",
       "ai": true
     }
   ]
