@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-19T15:33:10.565Z",
+  "generatedAt": "2026-09-19T20:11:52.559Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7923,
+      "actions": 7922,
       "sources": 9
     },
     "fr": {
-      "actions": 7077,
+      "actions": 7078,
       "sources": 7
     }
   },
@@ -44,6 +44,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "6846e71a461d2bfb",
+      "date": "2026-09-19",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-to-attend-81st-un-general-assembly-high-level-week.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister of Foreign Affairs attends UN General Assembly session",
+      "sum": "Minister Anita Anand will attend the 81st UN General Assembly High-Level Week in New York City as part of Canada's delegation. She will join Prime Minister Mark Carney at the event.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "1f395f8f6afb1620",
+      "date": "2026-09-19",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-participera-a-la-semaine-de-haut-niveau-de-la-81e-session-de-lassemblee-generale-des-nations-unies.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Anand participe à l'Assemblée générale des Nations Unies",
+      "sum": "La ministre des Affaires étrangères Anita Anand participera à la semaine de haut niveau de la 81e session de l'Assemblée générale des Nations Unies à New York, aux côtés du premier ministre Mark Carney et de la délégation canadienne.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "86dd3297dd674588",
+      "date": "2026-09-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHJCTUl2QmRmNEgydUpYaGJlVGRHSGFQSTduMTRNNE1Ec1B6b0dKd2pMcHVfWFdJWTQ5SXFTZzN0ZmN4bEhGOS10Szc4ZXdyd0dlWmNpekcxZFZubnRXZnhOTHdaYzByU1NqRlA4WkZDZjlod2xWWmc3US0yZVRPdW1MZkxfdlpRZkNYTmNYMXhWSEtFQzlRd2p2Y01rZ0Rkck1BcV9hcTkzNU1RaGxXeF9JLVI1N0hFWHRyNHZEQVlMcFRwbUVR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives search for hope amid Mark Carney's tide of good fortune, and find only stoicism - National Post",
+      "excerpt": "Conservatives search for hope amid Mark Carney's tide of good fortune, and find only stoicism National Post",
+      "cat": "Economy"
+    },
     {
       "id": "65d2a3585761690e",
       "date": "2026-09-19",
@@ -10182,45 +10220,6 @@
       "title": "National Film Board participates in Ottawa International Animation Festival 50th anniversary",
       "sum": "The National Film Board of Canada is presenting multiple screenings, exhibitions, and events at the Ottawa International Animation Festival's 50th anniversary celebration. The program includes the world premiere of an animated short by filmmaker Diane Obomsawin and features over two dozen classic films.",
       "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "29653cc402b72e0c",
-      "date": "2026-09-03",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/agriculture-agri-food/news/2026/09/minister-macdonald-to-announce-federal-investments-to-the-canadian-pork-industry.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal investments announced for Canadian pork industry animal health",
-      "sum": "Minister of Agriculture and Agri-Food Heath MacDonald will announce federal funding to support animal health surveillance in Canada's pork industry. The announcement will take place in Charlottetown, Prince Edward Island, with participation from the Canadian Pork Council and the Atlantic Veterinary College.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "4eb7fd51077c2452",
-      "date": "2026-09-03",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/08/government-of-canada-supports-the-temiskaming-art-gallery.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada funds Temiskaming Art Gallery for Northern Ontario",
-      "sum": "Member of Parliament Pauline Rochefort announced government funding for the Temiskaming Art Gallery. The initiative supports Northern Ontario communities and features work by Indigenous artists.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "c0efc2dcd85f16e1",
-      "date": "2026-09-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/la-ministre-valdez-souligne-les-mesures-importantes-mises-en-place-pour-soutenir-les-travailleurs-et-les-entreprises-en-reponse-aux-droits-de-douan.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada met en place des mesures de soutien face aux droits de douane américains",
-      "sum": "La ministre Valdez annonce des mesures pour aider les travailleurs et les entreprises canadiennes touchés par les droits de douane imposés par les États-Unis. Les petites entreprises sont particulièrement affectées par ces tarifs qui impactent l'emploi et les investissements.",
-      "cat": "Economy",
       "ai": true
     }
   ]
