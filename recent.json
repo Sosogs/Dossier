@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-19T03:40:46.871Z",
+  "generatedAt": "2026-09-19T10:29:14.618Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7922,
+      "actions": 7923,
       "sources": 9
     },
     "fr": {
-      "actions": 7078,
+      "actions": 7077,
       "sources": 7
     }
   },
@@ -81,6 +81,18 @@
       "sum": "Le gouvernement du Canada fournit un rapport sur l'avancement du Programme d'assistance en cas d'incidents liés à la vaccination, qui soutient les personnes ayant subi une blessure grave et permanente liée à un vaccin et les aide dans leurs démarches.",
       "cat": "Healthcare",
       "ai": true
+    },
+    {
+      "id": "87c12204bc805d37",
+      "date": "2026-09-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY2F2RnJwbmkxak1ZcmU5c3FlLWlqc0NxcUZNQXRGVkt3Rl83enliWk5WTlJjaUJPWmRTMGh5WGhKOTBndzVRMFZjRU5sMXQ1TWhrLXl6UzN2OWN6eV9aMVpVSG03MjJCU1QydmtUZ1ZfWW9HcURXZi05QTlsNXdhY1pSVmVjTlBJUmU3b1dWZjNYUG95aDNHa2N5czVHa2hmV0JPZjdVMzVwSFZfREFPU1pPMkhFMnJiaDJkbDhWb1RpZVQ3X2tQUmtCNmtrMlozZklxUXF4eE9NbDQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government promises upcoming \"Operation Strike Destroyer\" legislation won't discourage future strikes - The Beaverton",
+      "excerpt": "Carney government promises upcoming \"Operation Strike Destroyer\" legislation won't discourage future strikes The Beaverton",
+      "cat": "Economy"
     },
     {
       "id": "e8250bee1b0be45f",
@@ -10210,19 +10222,6 @@
       "title": "Canada et Ontario financent réduction droits aménagement Mississauga",
       "sum": "Les gouvernements du Canada et de l'Ontario accordent jusqu'à 401,4 millions de dollars à Mississauga pour soutenir sa réduction de 50 % des droits d'aménagement sur les projets résidentiels entre janvier 2025 et mars 2029.",
       "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "dce5c0a54db65081",
-      "date": "2026-09-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/09/saisie-dobjets-interdits-et-objets-non-autorises-a-letablissement-de-latlantique.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Saisie d'objets interdits à l'Établissement de l'Atlantique",
-      "sum": "Le 31 août 2026, du personnel a saisi des colis contenant des objets interdits et non autorisés à l'Établissement de l'Atlantique, un établissement fédéral à sécurité maximale.",
-      "cat": "Justice",
       "ai": true
     }
   ]
