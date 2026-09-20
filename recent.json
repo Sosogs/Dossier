@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T03:56:31.825Z",
+  "generatedAt": "2026-09-20T10:51:25.240Z",
   "count": 800,
   "totals": {
     "en": {
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "5f42ef85afb4bed4",
+      "date": "2026-09-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWRkV0IxUFpWTWFFUGFNSi1xWnNzdERPNHA1R2tGUmozNUJ5NGtNNXFfc2NKSWdmdkllbmp0WW9wN1RidUQwU09wZ0V6TUdmNnNDNDZNVmVpTGx2cjlENEpuekVzRmNiU05nYzUtblZydzk1U2tDT1hxRDVZSUY3bWhYZlFaQmlVVXgzV2VPTlBsQkh3YXIyWGJJTHhhS290Ymk0RzUtbHZWLWNCV01KWXNR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney appears to mimic Trump hand gesture during Liberal caucus speech - canadianinquirer.net",
+      "excerpt": "Carney appears to mimic Trump hand gesture during Liberal caucus speech canadianinquirer.net",
+      "cat": "Economy"
+    },
+    {
+      "id": "85078005cc7061fc",
+      "date": "2026-09-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTGhFZU5mbllORDJGWkJRdl9RSXRyZUdEX3hLazJreWNaTW1NY1dXRkdCRHZDWXUtSGszVzI2OVpYZzRFd0dRLTBYUERZTmdlN1g5LTZBNmVDaXRCbUtRVmZhYzJMNnNnM3d4VW1qSjFURUZEMUI3WFdXTDUxQW1JbXhlTXZTZkt2NUxtRlBFVHRpRlYtWFF4dENlRmJKUzRZbGtGNDB6cTJ3LUc3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Strong GDP, oil prices boost federal fiscal position - CP24",
+      "excerpt": "Strong GDP, oil prices boost federal fiscal position CP24",
+      "cat": "Finance"
+    },
     {
       "id": "7b254c64987ea83f",
       "date": "2026-09-19",
@@ -10193,32 +10217,6 @@
       "title": "Canada provides technical briefing on Nepal flooding response",
       "sum": "Government officials from Global Affairs Canada and the Royal Canadian Mounted Police will brief on Canada's emergency and consular response to flooding and mudslides along the Nepal-China border.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "959b21c9d3e7a1f7",
-      "date": "2026-09-03",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-coast-guard/news/2026/09/inshore-rescue-boat-stations-across-atlantic-canada-are-closing-for-the-2026-recreational-boating-season.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inshore Rescue Boat stations closing across Atlantic Canada",
-      "sum": "The Canadian Coast Guard is closing its Inshore Rescue Boat stations in Atlantic Canada for the 2026 recreational boating season. These stations provide seasonal maritime search and rescue services in New Brunswick, Prince Edward Island, Nova Scotia, and Newfoundland and Labrador.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "91543568e7dba691",
-      "date": "2026-09-03",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/national-film-board/news/2026/09/16-new-projects-in-production-at-the-national-film-board-of-canada-cross-country-wave-of-bold-new-nfb-storytelling.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "National Film Board approves 16 new film and video productions",
-      "sum": "The National Film Board of Canada has approved 16 new productions and co-productions. The projects represent diverse storytelling from across the country.",
-      "cat": "Culture & heritage",
       "ai": true
     }
   ]
