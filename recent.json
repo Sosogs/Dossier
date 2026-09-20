@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T20:11:52.559Z",
+  "generatedAt": "2026-09-20T03:56:31.825Z",
   "count": 800,
   "totals": {
     "en": {
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "7b254c64987ea83f",
+      "date": "2026-09-19",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHFDVFlwRWlNa1NCZnNfazd6VmJkWmUxOF9pRmxoQ2pVa1ZZbU9fT0VQcHhQLTFOcEJXb0cwZnRueV8xYVFlN0xDU1BMT0d3TmxVMGM2SUtQdzFqeDh2a2tlS09qQXRkRjJvMF9VTHFzU0lJMzdRSUdIOW1JdGIxeEcwM3Z0cVd4QnNaZk85Z1lwVWNqWDhCbURSRTU0Y3AyaExMc3VxUjdIa0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Strong GDP, oil prices boost federal fiscal position - ctvnews.ca",
+      "excerpt": "Strong GDP, oil prices boost federal fiscal position ctvnews.ca",
+      "cat": "Finance"
+    },
     {
       "id": "6846e71a461d2bfb",
       "date": "2026-09-19",
@@ -10206,19 +10218,6 @@
       "lang": "en",
       "title": "National Film Board approves 16 new film and video productions",
       "sum": "The National Film Board of Canada has approved 16 new productions and co-productions. The projects represent diverse storytelling from across the country.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "ad2a545da96dd14a",
-      "date": "2026-09-03",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/national-film-board/news/2026/09/national-film-board-of-canada-celebrates-oiafs-50th-anniversary-with-a-major-festival-presence-world-premiere-canadian-panorama-screenings-collabor.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "National Film Board participates in Ottawa International Animation Festival 50th anniversary",
-      "sum": "The National Film Board of Canada is presenting multiple screenings, exhibitions, and events at the Ottawa International Animation Festival's 50th anniversary celebration. The program includes the world premiere of an animated short by filmmaker Diane Obomsawin and features over two dozen classic films.",
       "cat": "Culture & heritage",
       "ai": true
     }
