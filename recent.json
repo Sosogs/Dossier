@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-20T15:39:03.985Z",
+  "generatedAt": "2026-09-20T20:28:39.732Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7921,
+      "actions": 7925,
       "sources": 9
     },
     "fr": {
-      "actions": 7079,
+      "actions": 7075,
       "sources": 7
     }
   },
@@ -45,6 +45,68 @@
   ],
   "items": [
     {
+      "id": "3713ffff48fdd3ed",
+      "date": "2026-09-20",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/statement-by-minister-miller-on-yom-kippur.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government of Canada issues statement marking Yom Kippur",
+      "sum": "The Government of Canada released a statement to recognize Yom Kippur, the holiest day in the Jewish calendar observed for prayer and reflection.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "4bea78be74cd8b05",
+      "date": "2026-09-20",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/declaration-du-ministre-miller-a-loccasion-de-yom-kippour.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada reconnaît l'importance de Yom Kippour",
+      "sum": "Le ministre Miller a émis une déclaration officielle du gouvernement du Canada à l'occasion de Yom Kippour, la fête religieuse juive la plus sacrée.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "dff706dba2d5e247",
+      "date": "2026-09-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0cyZDA2a0tMMWltVkJGT0pNYmxNeE1iTEZQUUhwcnB1VGV3UlJoTjBRbHVtU2hMU1RsM2xhYm85Y09GSGR6WFdCdVA4THFUNVg3cmFvQWJmQ0pLTGs3T3lNa0pWZkxfcVBVSE1pRGVNcDhVQjZxQU9rUVQxeThFTnNPMjE3VTZUVVc0Nw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Feds set to make major changes to Canada’s labour code - Global News",
+      "excerpt": "Feds set to make major changes to Canada’s labour code Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "c882571d463b1965",
+      "date": "2026-09-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTdHSkVhdnJzb25KalRFN2VXRGxRX2F2VjBSSmpZWjVfeU03ODlYRVVkZkd3NFFMZDdyV2hQQ0lNUmViWjRVOTRJWldpMjh0QlRLTFBPcHlZS0RWOU1nUDVPdHZTMkNEY3hrRHljOTZjNEVGS3h3QnE0Tl83Q1hGQVJCYnliWGhMOFlrclRaMkJDaklvTlE2eW9pRzNhVG9pV3k2bkQ4dng0YnEzWXEzLU1lT3ZrWlZvcmhZ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Parliament returns with a big agenda and a fight brewing between Carney and labour unions - National Post",
+      "excerpt": "Parliament returns with a big agenda and a fight brewing between Carney and labour unions National Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "30df4a4e8e4cf24e",
+      "date": "2026-09-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFc5ZlpYSXVzZkt5eXZhY29sSTZsTU03N0hkVkN5SEhoVk9vcHhvOXJ6RlZ0Rlh6dGFtaEtZRzlnRko5V1lSd080WGlzRkN4VkYwcXBwU3Z1aVRpeDAzcVRwUXRtT0ZnYzhraEpuREtLQWdiUkF3NFJGMTJxQUJPM25NQ2U0cElQWGlUR0RFSnBZQzVKd280MlNDcEMwcEg4SmhuanM4RUlTaDh0THd4VGhZOEw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government to introduce major economic bill as Parliament returns Monday - theglobeandmail.com",
+      "excerpt": "Carney government to introduce major economic bill as Parliament returns Monday theglobeandmail.com",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "10b5bde01e25b076",
       "date": "2026-09-20",
       "src": "Government of Canada",
@@ -52,9 +114,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada invests in safety on Canadian farms",
-      "sum": "Canadian farmers work hard every day to feed our country, but farm work comes with real risks. Investing in safety training, health awareness, and practical tools helps keep farmers, their families, and farm workers safe.",
-      "cat": "Healthcare"
+      "title": "Government invests in farm safety training and health awareness",
+      "sum": "The Government of Canada is providing funding for farm safety initiatives including training, health awareness programs, and tools to reduce workplace risks for farmers, their families, and farm workers.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "34f278e4dbc167c1",
@@ -10154,70 +10217,6 @@
       "sum": "Les gouvernements fédéral et provincial annoncent des modifications au programme Agri-stabilité pour 2026 afin d'aider les producteurs agricoles affectés par l'humidité excessive et les inondations localisées en Saskatchewan.",
       "cat": "Economy",
       "ai": true
-    },
-    {
-      "id": "1174b49db84f5ae5",
-      "date": "2026-09-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/09/le-climat-changeant-au-canada.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Effets des changements climatiques observés partout au Canada",
-      "sum": "Le Canada fait face à des changements climatiques affectant toutes ses régions, notamment l'augmentation des températures, les modifications des précipitations, la réduction de la neige et de la glace, et l'élévation du niveau des mers. Ces changements augmentent aussi les risques de feux de forêt et modifient les réserves d'eau douce.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "71b401438fbd2adb",
-      "date": "2026-09-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-pacifique/nouvelles/2026/09/le-ministre-robertson-reunit-des-entreprises-du-nord-de-la-colombie-britannique-pour-discuter-des-repercussions-de-la-situation-commerciale-actuell.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Minister Robertson meets northern BC businesses on US trade situation",
-      "sum": "Housing and Infrastructure Minister Gregor Robertson convened a meeting with business leaders from northern British Columbia to discuss the current commercial situation with the United States and its impacts on affected industries and companies.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "858026485ece7cb6",
-      "date": "2026-09-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-investissement-defense/nouvelles/2026/09/le-secretaire-detat-fuhr-tiendra-un-point-de-presse-a-calgary.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Secrétaire d'État Fuhr tient point de presse à Calgary",
-      "sum": "Le secrétaire d'État Stephen Fuhr tiendra un point de presse à Calgary après une discussion avec l'industrie de la défense de l'Alberta et le Conseil des affaires de l'Alberta.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "53735d91851368f2",
-      "date": "2026-09-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/le-gouvernement-du-canada-lance-les-principes-du-canada-pour-une-exploitation-responsable-des-centres-de-donnees.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada établit principes pour exploitation responsable des centres de données",
-      "sum": "Le gouvernement du Canada a lancé un nouveau cadre de principes visant à encadrer l'exploitation des centres de données. Ce cadre engage les centres de données à protéger les consommateurs d'électricité, à limiter leur consommation d'eau et à générer des avantages durables pour la population canadienne.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "e543670c6f74410d",
-      "date": "2026-09-03",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlBQS2x4Q19wTEw4S2dXLUI0Tm1NSDc3eWlqeVl0bWlTQ3d0Mm9aeEg1Q2l4a3FpNi1aRG9FUVVidUdjcTlxVHdmUnJuMGtXeG5iQS1seGJDNGNud1N3bVFPTGtfQUI0bzQzWFF6d0lLcW5kdmxiZVRQOEgwVVNZS1lXZ2g?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Feds announce $4.7B for new VIA Rail cars to be built in Ontario, Quebec - CBC",
-      "excerpt": "Feds announce $4.7B for new VIA Rail cars to be built in Ontario, Quebec CBC",
-      "cat": "Transportation"
     }
   ]
 }

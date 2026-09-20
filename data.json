@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T15:39:03.985Z",
+  "generatedAt": "2026-09-20T20:28:39.732Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -35,6 +35,68 @@
   ],
   "items": [
     {
+      "id": "3713ffff48fdd3ed",
+      "date": "2026-09-20",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/statement-by-minister-miller-on-yom-kippur.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government of Canada issues statement marking Yom Kippur",
+      "sum": "The Government of Canada released a statement to recognize Yom Kippur, the holiest day in the Jewish calendar observed for prayer and reflection.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "4bea78be74cd8b05",
+      "date": "2026-09-20",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/declaration-du-ministre-miller-a-loccasion-de-yom-kippour.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada reconnaît l'importance de Yom Kippour",
+      "sum": "Le ministre Miller a émis une déclaration officielle du gouvernement du Canada à l'occasion de Yom Kippour, la fête religieuse juive la plus sacrée.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "dff706dba2d5e247",
+      "date": "2026-09-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0cyZDA2a0tMMWltVkJGT0pNYmxNeE1iTEZQUUhwcnB1VGV3UlJoTjBRbHVtU2hMU1RsM2xhYm85Y09GSGR6WFdCdVA4THFUNVg3cmFvQWJmQ0pLTGs3T3lNa0pWZkxfcVBVSE1pRGVNcDhVQjZxQU9rUVQxeThFTnNPMjE3VTZUVVc0Nw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Feds set to make major changes to Canada’s labour code - Global News",
+      "excerpt": "Feds set to make major changes to Canada’s labour code Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "c882571d463b1965",
+      "date": "2026-09-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTdHSkVhdnJzb25KalRFN2VXRGxRX2F2VjBSSmpZWjVfeU03ODlYRVVkZkd3NFFMZDdyV2hQQ0lNUmViWjRVOTRJWldpMjh0QlRLTFBPcHlZS0RWOU1nUDVPdHZTMkNEY3hrRHljOTZjNEVGS3h3QnE0Tl83Q1hGQVJCYnliWGhMOFlrclRaMkJDaklvTlE2eW9pRzNhVG9pV3k2bkQ4dng0YnEzWXEzLU1lT3ZrWlZvcmhZ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Parliament returns with a big agenda and a fight brewing between Carney and labour unions - National Post",
+      "excerpt": "Parliament returns with a big agenda and a fight brewing between Carney and labour unions National Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "30df4a4e8e4cf24e",
+      "date": "2026-09-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFc5ZlpYSXVzZkt5eXZhY29sSTZsTU03N0hkVkN5SEhoVk9vcHhvOXJ6RlZ0Rlh6dGFtaEtZRzlnRko5V1lSd080WGlzRkN4VkYwcXBwU3Z1aVRpeDAzcVRwUXRtT0ZnYzhraEpuREtLQWdiUkF3NFJGMTJxQUJPM25NQ2U0cElQWGlUR0RFSnBZQzVKd280MlNDcEMwcEg4SmhuanM4RUlTaDh0THd4VGhZOEw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government to introduce major economic bill as Parliament returns Monday - theglobeandmail.com",
+      "excerpt": "Carney government to introduce major economic bill as Parliament returns Monday theglobeandmail.com",
+      "cat": "Innovation, science & industry"
+    },
+    {
       "id": "10b5bde01e25b076",
       "date": "2026-09-20",
       "src": "Government of Canada",
@@ -42,9 +104,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada invests in safety on Canadian farms",
-      "sum": "Canadian farmers work hard every day to feed our country, but farm work comes with real risks. Investing in safety training, health awareness, and practical tools helps keep farmers, their families, and farm workers safe.",
-      "cat": "Healthcare"
+      "title": "Government invests in farm safety training and health awareness",
+      "sum": "The Government of Canada is providing funding for farm safety initiatives including training, health awareness programs, and tools to reduce workplace risks for farmers, their families, and farm workers.",
+      "cat": "Healthcare",
+      "ai": true
     },
     {
       "id": "34f278e4dbc167c1",
@@ -193538,71 +193601,6 @@
       "title": "Bureau de la concurrence publie étude sur la concurrence aérienne",
       "sum": "Le Bureau de la concurrence a complété une étude de marché sur l'industrie du transport aérien et tiendra une séance d'information technique. Le rapport présente des recommandations destinées aux gouvernements canadiens pour renforcer la concurrence dans ce secteur.",
       "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "348202389e1afe38",
-      "date": "2025-06-16",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2025/06/le-commandement-du-personnel-militaire-accueille-un-nouveau-commandant.html",
-      "type": "Appointment",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Nouveau commandant du Commandement du personnel militaire nommé",
-      "sum": "Le lieutenant-général Erick Simoneau a été nommé commandant du Commandement du personnel militaire le 16 juin 2025, succédant à la lieutenante-générale Lise Bourgon. La cérémonie d'installation s'est déroulée au Quartier général de la Défense nationale à Ottawa.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "9b6f433ce636defd",
-      "date": "2025-06-16",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/06/deces-dun-detenu-a-letablissement-de-donnacona.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Décès d'un détenu à l'Établissement de Donnacona",
-      "sum": "Adam Williams, un détenu de l'Établissement de Donnacona, est décédé le 13 juin 2025 alors qu'il était sous la garde du Service correctionnel du Canada.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "89c544829884a195",
-      "date": "2025-06-16",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2025/06/fermetures-de-voie-en-alternance-sur-le-pont-jc-van-horne.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Fermetures alternées sur le pont J.C. Van Horne",
-      "sum": "Services publics et Approvisionnement Canada annonce des fermetures de voie intermittentes en alternance sur le pont J.C. Van Horne pour effectuer des travaux de nettoyage.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "afe81c6d0090e55b",
-      "date": "2025-06-16",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/peches-oceans/nouvelles/2025/06/peches-et-oceans-canada-annonce-les-details-de-la-deuxieme-annee-de-peche-commerciale-au-sebaste.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Pêches et Océans Canada établit règles pêche commerciale sébaste 2025-2026",
-      "sum": "Le ministère des Pêches et des Océans annonce les modalités de la pêche commerciale au sébaste pour 2025-2026, qui reprend après un moratoire de près de 30 ans. Cette décision vise à équilibrer la croissance économique avec la durabilité des ressources marines.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "68e5b9c228b8d2b4",
-      "date": "2025-06-16",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2025/06/la-ministre-joly-repondra-aux-questions-des-medias-en-mode-virtuel-au-salon-international-de-laeronautique-de-paris.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Joly participe au Salon de l'aéronautique de Paris",
-      "sum": "La ministre de l'Industrie Mélanie Joly participera au Salon international de l'aéronautique et de l'espace de Paris les 16 et 17 juin et répondra aux questions des médias de façon virtuelle.",
-      "cat": "Economy",
       "ai": true
     }
   ]
