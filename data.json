@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T03:54:02.053Z",
+  "generatedAt": "2026-09-21T12:16:01.773Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -20281,6 +20281,18 @@
       "title": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques - Radio-Canada",
       "excerpt": "Ottawa s’apprête à abroger l’obligation de vente de véhicules électriques Radio-Canada",
       "cat": "Economy"
+    },
+    {
+      "id": "41b8c369ecbfe02d",
+      "date": "2026-08-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDNLdXdFcl9vMXdnS21vRjU1WnY0VEloazQ4bTJDdDRjZ2ZVQUdnZGdVLUhKd24zaUdhY0t3bER2ei0yNlVOU2lFNTNQbWVLdTN2b1ctUFF5NnhYb0VOY1hhQWJGMVhLeW1aZnE3N2RYbVJ6N0pEVTNSM1Y5M0pTVWg2ZGVPdllIdmNHeGtsZl9faUhNcFFyUEFXSlZkWmMtN0FHYmtMNzBWUEJVeDRRUlhvMVVkc3BscmFwOQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney’s Plan to Ram Big Projects Through Is Not Progress. It’s Recklessness - Environmental Defence",
+      "excerpt": "PM Carney’s Plan to Ram Big Projects Through Is Not Progress. It’s Recklessness Environmental Defence",
+      "cat": "National defence"
     },
     {
       "id": "50c3e687629625fd",
@@ -193586,19 +193598,6 @@
       "title": "Nouveau laissez-passer Un Canada fort lancé pour l'été 2025",
       "sum": "Du 20 juin au 2 septembre 2025, le gouvernement offre un laissez-passer Un Canada fort qui donne accès à des expériences culturelles et de plein air partout au Canada.",
       "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "d254181f018b3a91",
-      "date": "2025-06-16",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2025/06/la-ministre-joly-salue-la-vente-par-airbus-davions-a220-a-lot-polish-airlines.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Joly salue la vente d'avions A220 à LOT Polish Airlines",
-      "sum": "La ministre de l'Industrie, Mélanie Joly, a fait une déclaration pour féliciter Airbus et LOT Polish Airlines concernant un accord de vente d'avions A220.",
-      "cat": "Innovation, science & industry",
       "ai": true
     }
   ]
