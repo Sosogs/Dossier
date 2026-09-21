@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-20T20:28:39.732Z",
+  "generatedAt": "2026-09-21T03:54:02.053Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7925,
+      "actions": 7926,
       "sources": 9
     },
     "fr": {
-      "actions": 7075,
+      "actions": 7074,
       "sources": 7
     }
   },
@@ -6339,6 +6339,18 @@
       "cat": "Economy"
     },
     {
+      "id": "2423bff58e6931cb",
+      "date": "2026-09-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjJ3dDNHc21GaFliY1dJTlZENXNrbTREQVBLdEdYNXdUdlAxZFBIZkxJd3F6cnlldlJDVnVienVwMDVHN2UwZVN2TGNaUUZ1cFZRRU9xdjl3TWxSMWQ2UFp2S3JGc2VOelJHVkZaZmFnV2VzUm9OaHhWOVg3cDNVV0FLS2JrQ0xqZWhlNklBZ3N5WFdPMXNzY0dqYjUtdkFRVjZQUFBZVDYyYTk4V3ZmbFZneXJ2eHM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government scales back federal reviews for major energy projects - CP24",
+      "excerpt": "Carney government scales back federal reviews for major energy projects CP24",
+      "cat": "Natural resources"
+    },
+    {
       "id": "0069444e2ea390d6",
       "date": "2026-09-09",
       "src": "Canadian politics (via Google News)",
@@ -10203,19 +10215,6 @@
       "title": "Le Canada lance la phase 1 de la ligne de transport d'électricité de la côte nord",
       "sum": "Le gouvernement du Canada et ses partenaires ont commencé la première phase d'un projet d'extension de ligne de transport d'électricité en Colombie-Britannique. Ce projet vise à relier Prince George à Terrace pour fournir de l'électricité propre, abondante et abordable.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "3ae78d6aa1ce3b74",
-      "date": "2026-09-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2026/09/les-gouvernements-du-canada-et-de-la-saskatchewan-annoncent-un-soutien-aux-producteurs-dans-le-cadre-du-programme-agri-stabilite-de-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Saskatchewan annoncent soutien aux producteurs Agri-stabilité 2026",
-      "sum": "Les gouvernements fédéral et provincial annoncent des modifications au programme Agri-stabilité pour 2026 afin d'aider les producteurs agricoles affectés par l'humidité excessive et les inondations localisées en Saskatchewan.",
-      "cat": "Economy",
       "ai": true
     }
   ]
