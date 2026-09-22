@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T11:08:47.694Z",
+  "generatedAt": "2026-09-22T16:30:28.111Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7933,
+      "actions": 7934,
       "sources": 9
     },
     "fr": {
-      "actions": 7067,
+      "actions": 7066,
       "sources": 7
     }
   },
@@ -44,6 +44,122 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "1d1f8fb1ec432740",
+      "date": "2026-09-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/09/competition-bureau-reaches-agreement-with-sobeys-parent-company-empire-to-address-grocery-property-controls.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Competition Bureau reaches agreement with Empire Company on grocery property controls",
+      "sum": "The Competition Bureau has reached an agreement with Empire Company Limited, the parent company of Sobeys grocery stores, to address concerns related to grocery property controls. The agreement aims to address competitive issues in the grocery sector.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "69b7a2e78027422c",
+      "date": "2026-09-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/09/backgrounder-competition-bureau-reaches-agreement-with-sobeys-parent-company-empire-to-address-grocery-property-controls.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Competition Bureau reaches agreement with Empire on grocery property controls",
+      "sum": "The Competition Bureau has reached an agreement with Empire, the parent company of several grocery chains including Sobeys and IGA, to address concerns about how the company uses property controls in the Canadian grocery industry.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "8e52a8fd6359046d",
+      "date": "2026-09-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/09/minister-champagne-introduces-legislation-to-extend-the-federal-fuel-excise-tax-relief-for-canadians.html",
+      "type": "Bill",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister introduces legislation to extend federal fuel tax relief",
+      "sum": "Minister Champagne has introduced a bill to extend the federal excise tax relief on fuel for Canadian consumers. This measure aims to continue the temporary reduction in fuel taxes for an extended period.",
+      "cat": "Finance",
+      "ai": true
+    },
+    {
+      "id": "ae634baccdecf237",
+      "date": "2026-09-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/g7-foreign-ministers-statement-on-bab-al-mandab-and-navigational-rights-and-freedoms.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "G7 Foreign Ministers Issue Statement on Red Sea Navigation Security",
+      "sum": "Foreign ministers from Canada, France, Germany, Italy, Japan, the United Kingdom, the United States, and the European Union issued a joint statement expressing concern that the situation in Yemen threatens regional stability, global energy security, and navigation rights in the Red Sea and Bab al-Mandab Strait.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "edba7cb9a76aef54",
+      "date": "2026-09-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/bureau-concurrence/nouvelles/2026/09/le-bureau-de-la-concurrence-conclut-une-entente-avec-empire-la-societe-mere-de-sobeys-pour-remedier-aux-controles-de-propriete-dans-le-secteur-de-l.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Bureau de la concurrence conclut entente avec Empire Sobeys",
+      "sum": "Le Bureau de la concurrence a conclu une entente avec Empire, la société mère de Sobeys, pour remédier aux contrôles de propriété dans le secteur de l'épicerie. Cette entente vise à aborder les enjeux de concurrence identifiés dans ce secteur.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "b8df8365a18c6b22",
+      "date": "2026-09-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/bureau-concurrence/nouvelles/2026/09/precis-dinformation-le-bureau-de-la-concurrence-conclut-une-entente-avec-empire-la-societe-mere-de-sobeys-concernant-les-controles-de-propriete-dan.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Bureau de la concurrence conclut entente avec Empire sur contrôles propriété épicerie",
+      "sum": "Le Bureau de la concurrence a signé une entente avec Empire, la société mère de Sobeys et d'autres chaînes d'épiceries, pour résoudre des préoccupations concernant l'utilisation de contrôles de propriété dans le secteur de l'épicerie de détail au Canada.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "23951087da37912f",
+      "date": "2026-09-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/09/le-ministre-champagne-presente-un-projet-de-loi-pour-prolonger-lallegement-de-la-taxe-daccise-federale-sur-le-carburant-pour-les-canadiens.html",
+      "type": "Bill",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Projet de loi pour prolonger l'allègement de taxe sur carburant",
+      "sum": "Le ministre Champagne présente un projet de loi visant à prolonger la réduction de la taxe d'accise fédérale sur le carburant. Cette mesure s'adresse aux Canadiens qui achètent du carburant.",
+      "cat": "Finance",
+      "ai": true
+    },
+    {
+      "id": "391b9c36a8bf4457",
+      "date": "2026-09-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/declaration-des-ministres-des-affaires-etrangeres-du-g7-sur-le-detroit-de-bab-el-mandeb-et-les-droits-et-libertes-de-navigation.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Déclaration du G7 sur la navigation au détroit de Bab el-Mandeb",
+      "sum": "Les ministres des Affaires étrangères du G7 et de l'Union européenne déclarent que la situation au Yémen menace la stabilité régionale, la sécurité énergétique mondiale et la liberté de navigation maritime.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "bd3f496e25ef2994",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBubV9rSzdNT1pEWXp4UlVyWi04OGVjR09BVVhuLV9rMGlRZlFFTzdCQ28taXI4Tl9YMkVhb2h0UUpaZ3VLc2w3N1RKb0JFbTB0SjRVbVJwRWlZbXU0ZVNHRzk1WV9OV0p3X2t2ZU91ZXhFbkJua2t3eFBaRGMzQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "A consequential fall begins with familiar concerns and a new test for the Carney government - CBC",
+      "excerpt": "A consequential fall begins with familiar concerns and a new test for the Carney government CBC",
+      "cat": "Economy"
+    },
     {
       "id": "c17256bafd04467e",
       "date": "2026-09-21",
@@ -744,6 +860,18 @@
       "lang": "fr",
       "title": "Plus de permis et moins de grèves, promet un projet de loi fédéral - Le Devoir",
       "excerpt": "Plus de permis et moins de grèves, promet un projet de loi fédéral Le Devoir",
+      "cat": "Economy"
+    },
+    {
+      "id": "3b13a98454f7e1ce",
+      "date": "2026-09-20",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkpkZUtMS21pZmtjaHFHT3NCRXp3X3JQSHd1S1ZrX0ZacGFENllwMkV2LXlucF9fVlJTaEhjVWhIWXVXb2xjT0xjM2xUYkdUMS1rbjQtNWFIMG5jeWJRdW1xZFdhY3ZGRFV0OURIaXZCUUNuTF9lT1B6ZHRxN0RsbjJ5WjltOFhLek9CVnkyODdESUtIemk1VHpSX2t2Sm9oQ1MwaElkTS1KcUxYVlE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Head of European Investment Bank eyes Canada opportunities as Carney pushes EU ties - CBC",
+      "excerpt": "Head of European Investment Bank eyes Canada opportunities as Carney pushes EU ties CBC",
       "cat": "Economy"
     },
     {
@@ -10087,136 +10215,6 @@
       "title": "Secrétaire parlementaire en visite en Chine pour discussions énergétiques",
       "sum": "Le secrétaire parlementaire Corey Hogan se rendra en Chine du 8 au 11 septembre 2026 pour participer à des réunions d'affaires. Il assistera au Forum Asie-Pacifique sur le développement énergétique durable et à la 16e Réunion des ministres de l'Énergie de la région Asie-Pacifique.",
       "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "92544be7d3e972c4",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/09/le-ministre-anandasangaree-annonce-des-mesures-visant-a-reduire-le-cout-de-la-vie-a-brantford.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre annonce mesures réduction coût de vie à Brantford",
-      "sum": "Le ministre de la Sécurité publique Gary Anandasangaree annonce des mesures gouvernementales pour réduire le coût de la vie et aider les Canadiens face à la hausse des prix du carburant.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "31574e6f96333e98",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-eau-canada/nouvelles/2026/09/le-depute-terry-duguid-fera-le-point-sur-la-strategie-nationale-sur-la-securite-de-leau-du-canada-et-sur-des-projets-visant-a-proteger-le-lac-winnipeg.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Stratégie nationale sur la sécurité de l'eau du Canada présentée",
-      "sum": "Le député Terry Duguid présente la Stratégie nationale sur la sécurité de l'eau du Canada et annonce des projets de protection du lac Winnipeg et de son bassin versant.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "933b2ef0ef76f796",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-eau-canada/nouvelles/2026/09/la-ministre-dabrusin-fera-le-point-sur-la-strategie-nationale-sur-la-securite-de-leau-du-canada-et-sur-des-projets-visant-a-proteger-les-grands-lacs.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Stratégie nationale sur la sécurité de l'eau et protection des Grands Lacs",
-      "sum": "La ministre Dabrusin présentera la Stratégie nationale sur la sécurité de l'eau du Canada et annoncera des projets destinés à protéger les Grands Lacs.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "9d6dea003ea4ff69",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-ministre-sidhu-sentretient-avec-la-secretaire-au-commerce-et-a-lindustrie-des-philippines.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Sidhu rencontre responsable commerce Philippines",
-      "sum": "Le ministre canadien du Commerce international, Maninder Sidhu, a eu une rencontre virtuelle avec la secrétaire au Commerce et à l'Industrie des Philippines, Maria Cristina Aldeguer-Roque.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "51a3a7e72367c482",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-ministre-leblanc-preside-une-reunion-du-comite-consultatif-sur-les-relations-economiques-entre-le-canada-et-les-etats-unis-pour-discuter-des-der.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre LeBlanc préside réunion sur relations commerciales Canada-États-Unis",
-      "sum": "Le ministre Dominic LeBlanc a présidé une réunion du Comité consultatif sur les relations économiques entre le Canada et les États-Unis. La réunion a porté sur les développements récents en matière de commerce entre les deux pays.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "279748d1983dd5fe",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-secretaire-detat-sarai-conclut-sa-participation-a-la-reunion-des-dirigeants-du-forum-des-iles-du-pacifique.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada participe à la réunion des dirigeants du Forum des îles du Pacifique",
-      "sum": "Le secrétaire d'État Randeep Sarai a représenté le Canada à une réunion des dirigeants du Forum des îles du Pacifique à Koror, aux Palaos, du 2 au 4 septembre. Cette participation reflète l'engagement du Canada à renforcer ses partenariats avec les pays insulaires du Pacifique.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "3fabae1d9f949db2",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/09/annonce-en-matiere-dinfrastructure-a-winnipeg.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce d'infrastructure à Winnipeg avec ministres fédéraux",
-      "sum": "Le gouvernement fédéral tiendra une conférence de presse à Winnipeg pour annoncer une initiative d'infrastructure. L'événement réunira plusieurs ministres fédéraux et un député local.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "a7eece761a6122ba",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-autochtones-canada/nouvelles/2026/09/les-premieres-nations-gitwangak-gitanyow-et-gitsegukla-celebrent-louverture-de-leur-nouvelle-ecole-secondaire-gitksen-west.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ouverture de l'école secondaire Gitksen West pour trois Premières Nations",
-      "sum": "Les Premières Nations Gitwangak, Gitanyow et Gitsegukla ont inauguré leur nouvelle école secondaire Gitksen West sur la réserve de Gitwangak. Cette ouverture a été célébrée par les chefs, les matriarches, les conseils de bande, les aînés et les membres des trois communautés.",
-      "cat": "Education",
-      "ai": true
-    },
-    {
-      "id": "7be2d7ba29636181",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/09/le-gouvernement-du-canada-donne-une-somme-equivalente-aux-dons-verses-au-fonds-de-secours-de-la-croix-rouge-a-la-suite-des-inondations-de-2026-au-m.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada égale les dons versés au fonds de secours Croix-Rouge inondations Manitoba",
-      "sum": "Le gouvernement du Canada versera une contribution égale aux dons reçus par le fonds de secours de la Croix-Rouge canadienne suite aux inondations de 2026 au Manitoba. Cette annonce a été faite par la ministre de la Gestion des urgences et de la Résilience des communautés.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "7a982aeb9b27b4e9",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-pacifique/nouvelles/2026/09/le-gouvernement-du-canada-investit-plus-de-11-millions-de-dollars-pour-renforcer-les-entreprises-les-emplois-et-les-collectivites-dans-le-nord-de-l.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 11 millions pour entreprises nord-Colombie-Britannique",
-      "sum": "Le gouvernement du Canada, par l'entremise de PacifiCan, investit plus de 11 millions de dollars dans des entreprises du nord de la Colombie-Britannique. Cet investissement vise à soutenir les emplois, la productivité et la croissance économique dans les secteurs affectés par les perturbations du commerce mondial.",
-      "cat": "Economy",
       "ai": true
     }
   ]
