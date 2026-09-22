@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T21:48:07.581Z",
+  "generatedAt": "2026-09-22T03:51:15.049Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,80 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c20c956ed2bb596f",
+      "date": "2026-09-21",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-meets-with-united-arab-emirates-deputy-prime-minister-and-minister-of-foreign-affairs.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada's Foreign Affairs Minister meets UAE counterpart",
+      "sum": "Canada's Minister of Foreign Affairs met with the United Arab Emirates' Deputy Prime Minister and Foreign Affairs Minister during the UN General Assembly in New York.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "0ef4880cb3575dd3",
+      "date": "2026-09-21",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-rencontre-le-vice-premier-ministre-et-ministre-des-affaires-etrangeres-des-emirats-arabes-unis.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Anand rencontre son homologue émirati à l'ONU",
+      "sum": "La ministre canadienne des Affaires étrangères Anita Anand s'est rencontrée avec le vice-premier ministre et ministre des Affaires étrangères des Émirats arabes unis en marge de l'Assemblée générale des Nations Unies à New York.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "0614960e387575bd",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQV2hIVmdudnRJdTlYQmlxQk1rdS13Z2kwMWN6SWE2NjlXX2JKTWx4MjNTRHFEUjg2UjdyYWZjRkpBLWxYY2JiNTFJcGhBb2N2SFp6UW9yaG9fVWF5SUtYU3RpdDNIOFlvQmNUQXB6WmNQdUhNaTZOS0VQNVpucnlndFB1Rmh6eWFRMmUxbUk3dnNoRWZxRTNfdVA3dVZFWTQtRnplM3ZEdnBuOHE1c2VCTlplT05DbmUzNXQxOW9hWjZ1X0c4OHRoQ09DTG5MczhBODVUQUZMb2F0d0JBTk5YR003MmVVOVU4LXZ6cmF0TEVZdzBlRXp4RVZ1YkRzeENHdjNmV1Ryd1QyTUluRV9GUzln?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government tables sweeping bill to overhaul environmental and labour rules - St. Catharines Standard",
+      "excerpt": "Carney government tables sweeping bill to overhaul environmental and labour rules St. Catharines Standard",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "3afb75eb7f318a6a",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjZOc0J5V0E1a1pYclpVVDl0YnVlUlR2MzRjSGtiXzhBcVZmTE8xbDlGTEJEb05qbWNTZzJCM3NNYktzcGVmR3VPeUxJeXpLNkRjN0xyUXlYWVJNMGppTXIwUHZRVldCNEZkZW1HSWJtMTJKNXYtQnJyeWdfTFdsb0pnUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Liberals table bill to speed up major project approvals, avert labour disruptions - CBC",
+      "excerpt": "Liberals table bill to speed up major project approvals, avert labour disruptions CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "0e672a89942d6b1d",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQnFWTnFNTlB5N0xmcGx2eldzcVdGckJ1T2VIN0I4NXhTYm9xWXl3Ry1vS1Ixc0h5aUdGNk13VGtFaVRVSkdTWm15bkwtaGZfMzNIWDVVeUh1NmNWZEd0RnJ4eXJpcGQ5M1pOZC02Sy12WDNuTG9ONVBCY3NnczVMNzZSRXdNS1E4SkFNcFMtbWdUcWdNbzVaUnpPaXVlcG9vZkhGR1lWdHBsNUVTa2k5SmlwODhDTkZKZUozSnZtQVJ0b2RzNE53WFBSa3RTcGxYV0J2QkgxRUJUOGlnYXlkMDBnZnB5MHY4SWw2eG1WWTB5YkJEa0R5STQ4M1FoalRuX3NPdnNuNG4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Unions hammer Carney government’s revamp of labour rules: ‘This bill neuters the right to strike’ - Toronto Star",
+      "excerpt": "Unions hammer Carney government’s revamp of labour rules: ‘This bill neuters the right to strike’ Toronto Star",
+      "cat": "Economy"
+    },
+    {
+      "id": "e900b7770422e522",
+      "date": "2026-09-21",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZW9DRjB4NGsyaEF1VEl0TDRnWHVCUU5uWTlPQTMyek5XcklaZHh1QlRYNHV2czJXOUgwVF9VRjNTcmw3Rms2dUZBM3NrUTJwUWZwOWRDeUxwX0RyX1VvRnVxYUJYU1pjY1BzWk9VQVhsWENZeDZsQVhJVlFaU1pTTThrQmtWTTRxQXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Plan économique : Carney veut limiter les conflits de travail et accélérer les projets - Radio-Canada",
+      "excerpt": "Plan économique : Carney veut limiter les conflits de travail et accélérer les projets Radio-Canada",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "8afa31e96b3d4892",
       "date": "2026-09-21",
@@ -864,6 +938,18 @@
       "lang": "en",
       "title": "Carney appears to mimic Trump hand gesture during Liberal caucus speech - canadianinquirer.net",
       "excerpt": "Carney appears to mimic Trump hand gesture during Liberal caucus speech canadianinquirer.net",
+      "cat": "Economy"
+    },
+    {
+      "id": "0782fb8e11fed801",
+      "date": "2026-09-19",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlBnQjhaaVdnQ3lBWEUzUzJ1VTNyRkoyLTBhVFJ0SG0yOTZwQ2hDQzVrR041dzFWVnVZaXFkZjlMUEFmLXZ1TExVdDZDMHNXQkpFZkxZUTBZTm83YlV5MXViU1FKaTljYlhuQWx2eXR4UkVIQnQydWRRZkJRZURWcDBBQVcyRXFsLXlXTzVR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le fédéral compte réduire ses interventions dans les grèves - Radio-Canada",
+      "excerpt": "Le fédéral compte réduire ses interventions dans les grèves Radio-Canada",
       "cat": "Economy"
     },
     {
@@ -193495,97 +193581,6 @@
       "title": "CRTC sélectionne des projets de financement pour la large bande",
       "sum": "Le Conseil de la radiodiffusion et des télécommunications canadiennes (CRTC) a annoncé la sélection de projets qui recevront du financement du Fonds pour la large bande en juin 2025.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "63ffc19281a8fe52",
-      "date": "2025-06-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/peches-oceans/nouvelles/2025/06/un-britanno-colombien-doit-payer-une-amende-de-5-000--pour-setre-approche-intentionnellement-en-motomarine-de-mammiferes-marins.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Britanno-Colombien condamné à 5 000 $ pour approche illégale de mammifères marins",
-      "sum": "Un résident de la Colombie-Britannique a reçu une amende de 5 000 $ pour s'être intentionnellement approché de mammifères marins en motomarine. Pêches et Océans Canada rappelle que des distances minimales d'approche, qui varient selon l'espèce, doivent être respectées.",
-      "cat": "Wildlife",
-      "ai": true
-    },
-    {
-      "id": "dfc1fdadb8bdcf45",
-      "date": "2025-06-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/06/investissement-dans-la-capacite-de-reduction-des-inondations-a-peterborough.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Investissement fédéral de 11 millions pour réduire les inondations à Peterborough",
-      "sum": "Le gouvernement fédéral investit 11 millions de dollars dans un projet de réduction des inondations au centre-ville de Peterborough. Le projet comprend le remplacement d'un égout pluvial et l'amélioration du drainage des eaux pour diminuer les impacts des phénomènes météorologiques extrêmes.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "f4a63d8bf79ab134",
-      "date": "2025-06-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2025/06/le-canada-renforce-ses-mesures-visant-a-proteger-les-travailleurs-et-les-industries-de-lacier-et-de-laluminium-du-pays.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada renforce la protection de l'acier et l'aluminium",
-      "sum": "Le ministre des Finances annonce des mesures pour protéger les producteurs et travailleurs canadiens dans les secteurs de l'acier et de l'aluminium.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "896b316a6183e0bd",
-      "date": "2025-06-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/06/le-gouvernement-federal-et-petawawa-investissent-dans-le-transport-actif.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Gouvernement fédéral et Petawawa construisent un sentier actif",
-      "sum": "Le gouvernement fédéral et la municipalité de Petawawa ont investi conjointement 435 500 $ pour construire un sentier polyvalent asphalté de 1,4 kilomètre le long de la promenade Laurentian.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "f5ba2619af42299a",
-      "date": "2025-06-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2025/06/la-ministre-joly-sest-rendue-en-france-pour-soutenir-les-industries-canadiennes-novatrices.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Minister Joly leads Canadian delegation at Paris aerospace show",
-      "sum": "Minister of Industry Mélanie Joly travelled to France to lead Canada's delegation at the 55th Paris-Le Bourget International Aeronautics and Space Show, in support of Canadian innovative industries.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "c9de39d4d22b6efd",
-      "date": "2025-06-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/tribunal-commerce-exterieur/nouvelles/2025/06/le-tribunal-rend-une-decision-dindication-raisonnable-de-dommage--certains-fils-en-acier-au-carbone-ou-allie-provenant-de-plusieurs-pays.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Tribunal confirme dommage par dumping de fils d'acier importés",
-      "sum": "Le Tribunal canadien du commerce extérieur a déterminé qu'il existe des preuves raisonnables que le dumping de certains fils en acier au carbone ou allié en provenance de dix pays a causé du dommage à l'industrie canadienne.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "b9573b1acbf4821a",
-      "date": "2025-06-18",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/06/death-of-an-inmate-from-pacific-institution-and-regional-treatment-centre.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inmate dies at Pacific Institution and Regional Treatment Centre",
-      "sum": "Abraham Froesse-Friessen, an inmate at Pacific Institution and Regional Treatment Centre, died on June 14, 2025, while in custody. The death was attributed to apparent natural causes.",
-      "cat": "Justice",
       "ai": true
     }
   ]

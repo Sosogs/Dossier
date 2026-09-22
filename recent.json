@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T21:48:07.581Z",
+  "generatedAt": "2026-09-22T03:51:15.049Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7928,
+      "actions": 7931,
       "sources": 9
     },
     "fr": {
-      "actions": 7072,
+      "actions": 7069,
       "sources": 7
     }
   },
@@ -44,6 +44,80 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c20c956ed2bb596f",
+      "date": "2026-09-21",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-meets-with-united-arab-emirates-deputy-prime-minister-and-minister-of-foreign-affairs.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada's Foreign Affairs Minister meets UAE counterpart",
+      "sum": "Canada's Minister of Foreign Affairs met with the United Arab Emirates' Deputy Prime Minister and Foreign Affairs Minister during the UN General Assembly in New York.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "0ef4880cb3575dd3",
+      "date": "2026-09-21",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-rencontre-le-vice-premier-ministre-et-ministre-des-affaires-etrangeres-des-emirats-arabes-unis.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Anand rencontre son homologue émirati à l'ONU",
+      "sum": "La ministre canadienne des Affaires étrangères Anita Anand s'est rencontrée avec le vice-premier ministre et ministre des Affaires étrangères des Émirats arabes unis en marge de l'Assemblée générale des Nations Unies à New York.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "0614960e387575bd",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQV2hIVmdudnRJdTlYQmlxQk1rdS13Z2kwMWN6SWE2NjlXX2JKTWx4MjNTRHFEUjg2UjdyYWZjRkpBLWxYY2JiNTFJcGhBb2N2SFp6UW9yaG9fVWF5SUtYU3RpdDNIOFlvQmNUQXB6WmNQdUhNaTZOS0VQNVpucnlndFB1Rmh6eWFRMmUxbUk3dnNoRWZxRTNfdVA3dVZFWTQtRnplM3ZEdnBuOHE1c2VCTlplT05DbmUzNXQxOW9hWjZ1X0c4OHRoQ09DTG5MczhBODVUQUZMb2F0d0JBTk5YR003MmVVOVU4LXZ6cmF0TEVZdzBlRXp4RVZ1YkRzeENHdjNmV1Ryd1QyTUluRV9GUzln?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government tables sweeping bill to overhaul environmental and labour rules - St. Catharines Standard",
+      "excerpt": "Carney government tables sweeping bill to overhaul environmental and labour rules St. Catharines Standard",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "3afb75eb7f318a6a",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjZOc0J5V0E1a1pYclpVVDl0YnVlUlR2MzRjSGtiXzhBcVZmTE8xbDlGTEJEb05qbWNTZzJCM3NNYktzcGVmR3VPeUxJeXpLNkRjN0xyUXlYWVJNMGppTXIwUHZRVldCNEZkZW1HSWJtMTJKNXYtQnJyeWdfTFdsb0pnUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Liberals table bill to speed up major project approvals, avert labour disruptions - CBC",
+      "excerpt": "Liberals table bill to speed up major project approvals, avert labour disruptions CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "0e672a89942d6b1d",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQnFWTnFNTlB5N0xmcGx2eldzcVdGckJ1T2VIN0I4NXhTYm9xWXl3Ry1vS1Ixc0h5aUdGNk13VGtFaVRVSkdTWm15bkwtaGZfMzNIWDVVeUh1NmNWZEd0RnJ4eXJpcGQ5M1pOZC02Sy12WDNuTG9ONVBCY3NnczVMNzZSRXdNS1E4SkFNcFMtbWdUcWdNbzVaUnpPaXVlcG9vZkhGR1lWdHBsNUVTa2k5SmlwODhDTkZKZUozSnZtQVJ0b2RzNE53WFBSa3RTcGxYV0J2QkgxRUJUOGlnYXlkMDBnZnB5MHY4SWw2eG1WWTB5YkJEa0R5STQ4M1FoalRuX3NPdnNuNG4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Unions hammer Carney government’s revamp of labour rules: ‘This bill neuters the right to strike’ - Toronto Star",
+      "excerpt": "Unions hammer Carney government’s revamp of labour rules: ‘This bill neuters the right to strike’ Toronto Star",
+      "cat": "Economy"
+    },
+    {
+      "id": "e900b7770422e522",
+      "date": "2026-09-21",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZW9DRjB4NGsyaEF1VEl0TDRnWHVCUU5uWTlPQTMyek5XcklaZHh1QlRYNHV2czJXOUgwVF9VRjNTcmw3Rms2dUZBM3NrUTJwUWZwOWRDeUxwX0RyX1VvRnVxYUJYU1pjY1BzWk9VQVhsWENZeDZsQVhJVlFaU1pTTThrQmtWTTRxQXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Plan économique : Carney veut limiter les conflits de travail et accélérer les projets - Radio-Canada",
+      "excerpt": "Plan économique : Carney veut limiter les conflits de travail et accélérer les projets Radio-Canada",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "8afa31e96b3d4892",
       "date": "2026-09-21",
@@ -874,6 +948,18 @@
       "lang": "en",
       "title": "Carney appears to mimic Trump hand gesture during Liberal caucus speech - canadianinquirer.net",
       "excerpt": "Carney appears to mimic Trump hand gesture during Liberal caucus speech canadianinquirer.net",
+      "cat": "Economy"
+    },
+    {
+      "id": "0782fb8e11fed801",
+      "date": "2026-09-19",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlBnQjhaaVdnQ3lBWEUzUzJ1VTNyRkoyLTBhVFJ0SG0yOTZwQ2hDQzVrR041dzFWVnVZaXFkZjlMUEFmLXZ1TExVdDZDMHNXQkpFZkxZUTBZTm83YlV5MXViU1FKaTljYlhuQWx2eXR4UkVIQnQydWRRZkJRZURWcDBBQVcyRXFsLXlXTzVR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le fédéral compte réduire ses interventions dans les grèves - Radio-Canada",
+      "excerpt": "Le fédéral compte réduire ses interventions dans les grèves Radio-Canada",
       "cat": "Economy"
     },
     {
@@ -10133,92 +10219,6 @@
       "title": "Ministre de l'Agriculture en visite en Alberta pour soutenir l'agriculture contrôlée",
       "sum": "Le ministre de l'Agriculture et de l'Agroalimentaire se rendra dans le sud de l'Alberta du 8 au 10 septembre pour rencontrer les producteurs, visiter des exploitations et des installations de transformation, et échanger avec les représentants de l'industrie. Le gouvernement annoncera du soutien pour l'agriculture en environnement contrôlé lors de cette visite.",
       "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "6381188846acdd33",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/09/la-secretaire-detat-nature-nathalie-provost-participera-au-dialogue-de-kunming-en-prevision-de-la-conference-des-nations-unies-sur-la-biodiversite.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Secrétaire d'État représente le Canada au Dialogue de Kunming",
-      "sum": "La secrétaire d'État Nathalie Provost se rendra à Kunming, en Chine, pour coprésider le Dialogue de Kunming en préparation de la Conférence des Nations Unies sur la biodiversité. Elle y représentera la ministre de l'Environnement, du Changement climatique et de la Nature.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "6a645718f3f8ac4a",
-      "date": "2026-09-04",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWVuNklzUTFFZ2pyd2t1NnVzZ3ZQWnNxRWQ1ekJibkRDR1FaLVdHV3BjMVZVZEVfVE5lUEIxUjJRVDY5WUtYaWxoTVlDN3VHaENRQTNYZERxVFBmVk9wamEzR0RqUWtFaW1WM2RaLWhYM01ld2QyemRETHNTQUxrNFJBd1RMRXMwWlhuRTRfZXRtd2lEUndLS1FEbHQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney government accused of burying climate report warning of worsening impacts - Canada's National Observer",
-      "excerpt": "Carney government accused of burying climate report warning of worsening impacts Canada's National Observer",
-      "cat": "Sustainable development"
-    },
-    {
-      "id": "9539d178dff8b156",
-      "date": "2026-09-04",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbFU5d29ITDJiLUMzUFFUQ3IwR3ZOcjJyeVJMcERvamZGQUY3ckdEV0QtSlFCSUxHNlB5OFg5M3ZZazR1UHJBWnFDMXZfUURNZVZkbkwtazRGcy1Xcm8tX0x1S2VNY2xYSG1KUi1aclFhcmZ5cFExNGdLYUZYNGlFOFRhOVdOUQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "The cracks are showing in Carney’s economic agenda - The Hub | More Signal. Less Noise.",
-      "excerpt": "The cracks are showing in Carney’s economic agenda The Hub | More Signal. Less Noise.",
-      "cat": "Economy"
-    },
-    {
-      "id": "9b7c7f58cb377ffd",
-      "date": "2026-09-04",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZXg4NjQxVEd0dU5JTWw5YW1FTXJDdG1oSU40eTlfdTRMSGtRdTIzRHh4a05pOG13QlJabjJSa3VmNTQ4ZVVfajFHUHJmall4cDM5clRTLUVXNlZMUmpLWWlfbVJEZXFPWU9vV1o5bk05NGdXdDU2bDFjZjM2YzRZbTVlREJrSU9pRF9MeDMxRDRzU0RpWXRRRXA2Z3dIVV9OLTFzcUVuclhIUEluNUg0NjQtN0NrdTM5NERRZGIzQWFoQ2pWcWdCdTVR?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Canada’s Latest Climate Report Should Be Call to Action, Instead Gov’t Tried to Bury It - environmentaldefence.ca",
-      "excerpt": "Canada’s Latest Climate Report Should Be Call to Action, Instead Gov’t Tried to Bury It environmentaldefence.ca",
-      "cat": "Sustainable development"
-    },
-    {
-      "id": "30501ec4f4f615be",
-      "date": "2026-09-04",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGIyQlVqMGgtOTdxaTdMeGpyRGZ3TFJrT19lMnRpZGl0Z2VwSUtIQzY2TzZ2b1hsVDVxZXhiQWxGajhlX0xMYjZyajdDNE9wbzRuN2s4anQyX3VBWnc4VWdicFNFRG9GTDkzTnI1NHdiNU5SQTN2bkotcERUQUVPeGxMb1hLUm5YVGVQZWZBRnF0ZXB5ZVJHQWpJcVZUTDF4UDVWNUNnYmFSNGsxeVdoUQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Opinion: So thick is Ottawa bureaucracy, even Carney’s hand-picked defence man has had enough - The Globe and Mail",
-      "excerpt": "Opinion: So thick is Ottawa bureaucracy, even Carney’s hand-picked defence man has had enough The Globe and Mail",
-      "cat": "National defence"
-    },
-    {
-      "id": "a90391759fe71ede",
-      "date": "2026-09-04",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MUnRWX1lIRWxWcG83M2MwNElhaG9MY1J0cTRiY0k3UTh1M2FqcllQMGlLX25DR3VPV0JsZ1hfRzUxNEhKVTBLTWRNN1A2aTVRVkRFUVdsbnp4eExjckRLRkdLNTAyZW45R2R4bDlB?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney taps $500K ‘exit fee’ advocate to lead new digital agency - Juno News",
-      "excerpt": "Carney taps $500K ‘exit fee’ advocate to lead new digital agency Juno News",
-      "cat": "Economy"
-    },
-    {
-      "id": "4dd5eb3405b504d4",
-      "date": "2026-09-04",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-to-advance-defence-cooperation-and-industrial-partnerships-with-poland-at-mspo-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Defence minister to attend Poland defence industry exhibition",
-      "sum": "Canada's Defence Minister will travel to Poland in September 2026 to attend an international defence industry exhibition. The minister will be accompanied by Canada's International Trade Minister.",
-      "cat": "National defence",
       "ai": true
     }
   ]
