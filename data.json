@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T03:51:15.049Z",
+  "generatedAt": "2026-09-22T11:08:47.694Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c17256bafd04467e",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRklYeldMdzhJb2ZsVXY2ZnVfNTRKMG4yX2hvMmo4Rm50cWl1eW4zdkI0d2lmUlJyeGVscVFrSm5fdUw1RGtJLUQ1clktWjVEaVNMUGwzY1U4enNQOGdYOUVCVnN4ZENyMUNIdEdjQ3U3VEdvdzE1TkUxY3N3M3EtSDNiSTNKdGU4dXhCbElDbEVpMUFkSDY0UkQ0NVF3UWhIVU1hR3FULXF3UlV5ZTQ2VmR4Zm5ha0ZVdWt5RlhmN0RaMFAzaHRNMHJyWnFVN1VUaWJQem9EN0w0YWpBQ2w5WllFRUEyT2VCTmg4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "QuickQuotes: MPs react to Carney's new Building Canada Strong Act - Winnipeg Sun",
+      "excerpt": "QuickQuotes: MPs react to Carney's new Building Canada Strong Act Winnipeg Sun",
+      "cat": "Economy"
+    },
     {
       "id": "c20c956ed2bb596f",
       "date": "2026-09-21",
@@ -8160,6 +8172,18 @@
       "lang": "en",
       "title": "Mark Carney warns Canadians of tough days ahead as trade war spirals again - Moneycontrol.com",
       "excerpt": "Mark Carney warns Canadians of tough days ahead as trade war spirals again Moneycontrol.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "516cc7fb8bf613d3",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQb2lRSHNiY1ZjeTJMMDl0RFZGNV9CRXNxb3FvUGMxTTJ5YVEtUkNoWUY1TzdsUjFIcnJnRFRBT1FLU09KVGxjSnpuMWxQbmJkaWpHam81RGlUUXN2dlYybkhBOHNQY3JuOEdINFoxQmhwSUZsVVZ1dC03bFkySWpBa2NhZXZiRFJic21VSlMwNHVHeHNBZUxvTFRraDJ6WTFMLVdSeloxd0dKM21ydXFGdHZGbzh0RUstMVQ3Yk5hOTBvRkxSQWVPMkoxNTA3cjVnVWdvVE8tQlpXaWYtd2d1MU0xa1RVeWQ3MkF0TUlWOFplblVBVGp4U0VoNFJwSXFBQ2ZoM0tn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney warns of tough times ahead in national address as retaliatory tariffs begin - Toronto Star",
+      "excerpt": "Carney warns of tough times ahead in national address as retaliatory tariffs begin Toronto Star",
       "cat": "Economy"
     },
     {
@@ -193555,32 +193579,6 @@
       "title": "Saisie d'objets interdits à l'établissement Collins Bay",
       "sum": "Du personnel de l'établissement fédéral Collins Bay a saisi des colis contenant des objets interdits les 15 et 16 juin 2025. Ces articles n'étaient pas autorisés dans l'établissement.",
       "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "fd29e724183aeb2e",
-      "date": "2025-06-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/radiodiffusion-telecommunications/nouvelles/2025/06/le-crtc-prend-des-mesures-pour-aider-a-deployer-internet-haute-vitesse-par-fibre-dans-18-communautes-au-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "CRTC aide au déploiement Internet haute vitesse fibre dix-huit communautés",
-      "sum": "Le CRTC prend des mesures pour soutenir l'installation d'Internet haute vitesse par fibre optique dans 18 collectivités situées en Colombie-Britannique, en Alberta et en Ontario.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "ebf13fe19caed19b",
-      "date": "2025-06-19",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/radiodiffusion-telecommunications/nouvelles/2025/06/fond-pour-la-large-bande-du-crtc-projets-selectionnes-en-juin-2025.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "CRTC sélectionne des projets de financement pour la large bande",
-      "sum": "Le Conseil de la radiodiffusion et des télécommunications canadiennes (CRTC) a annoncé la sélection de projets qui recevront du financement du Fonds pour la large bande en juin 2025.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]

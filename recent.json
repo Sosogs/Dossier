@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T03:51:15.049Z",
+  "generatedAt": "2026-09-22T11:08:47.694Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7931,
+      "actions": 7933,
       "sources": 9
     },
     "fr": {
-      "actions": 7069,
+      "actions": 7067,
       "sources": 7
     }
   },
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "c17256bafd04467e",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRklYeldMdzhJb2ZsVXY2ZnVfNTRKMG4yX2hvMmo4Rm50cWl1eW4zdkI0d2lmUlJyeGVscVFrSm5fdUw1RGtJLUQ1clktWjVEaVNMUGwzY1U4enNQOGdYOUVCVnN4ZENyMUNIdEdjQ3U3VEdvdzE1TkUxY3N3M3EtSDNiSTNKdGU4dXhCbElDbEVpMUFkSDY0UkQ0NVF3UWhIVU1hR3FULXF3UlV5ZTQ2VmR4Zm5ha0ZVdWt5RlhmN0RaMFAzaHRNMHJyWnFVN1VUaWJQem9EN0w0YWpBQ2w5WllFRUEyT2VCTmg4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "QuickQuotes: MPs react to Carney's new Building Canada Strong Act - Winnipeg Sun",
+      "excerpt": "QuickQuotes: MPs react to Carney's new Building Canada Strong Act Winnipeg Sun",
+      "cat": "Economy"
+    },
     {
       "id": "c20c956ed2bb596f",
       "date": "2026-09-21",
@@ -8173,6 +8185,18 @@
       "cat": "Economy"
     },
     {
+      "id": "516cc7fb8bf613d3",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQb2lRSHNiY1ZjeTJMMDl0RFZGNV9CRXNxb3FvUGMxTTJ5YVEtUkNoWUY1TzdsUjFIcnJnRFRBT1FLU09KVGxjSnpuMWxQbmJkaWpHam81RGlUUXN2dlYybkhBOHNQY3JuOEdINFoxQmhwSUZsVVZ1dC03bFkySWpBa2NhZXZiRFJic21VSlMwNHVHeHNBZUxvTFRraDJ6WTFMLVdSeloxd0dKM21ydXFGdHZGbzh0RUstMVQ3Yk5hOTBvRkxSQWVPMkoxNTA3cjVnVWdvVE8tQlpXaWYtd2d1MU0xa1RVeWQ3MkF0TUlWOFplblVBVGp4U0VoNFJwSXFBQ2ZoM0tn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney warns of tough times ahead in national address as retaliatory tariffs begin - Toronto Star",
+      "excerpt": "Carney warns of tough times ahead in national address as retaliatory tariffs begin Toronto Star",
+      "cat": "Economy"
+    },
+    {
       "id": "8826ffefdf921cbd",
       "date": "2026-09-08",
       "src": "Canadian politics (via Google News)",
@@ -10193,32 +10217,6 @@
       "title": "Canada investit 11 millions pour entreprises nord-Colombie-Britannique",
       "sum": "Le gouvernement du Canada, par l'entremise de PacifiCan, investit plus de 11 millions de dollars dans des entreprises du nord de la Colombie-Britannique. Cet investissement vise à soutenir les emplois, la productivité et la croissance économique dans les secteurs affectés par les perturbations du commerce mondial.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "184a062994d9a5fb",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-pacifique/nouvelles/2026/09/document-dinformation--le-gouvernement-du-canada-investit-plus-de-11-millions-de-dollars-pour-renforcer-les-entreprises-les-emplois-et-les-collecti.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 11 millions dollars dans le nord de la Colombie-Britannique",
-      "sum": "Le gouvernement du Canada investit plus de 11 millions de dollars par l'intermédiaire de PacifiCan pour soutenir les entreprises, les emplois et la croissance économique dans le nord de la Colombie-Britannique, particulièrement dans les secteurs affectés par les perturbations commerciales mondiales.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "f26df7ac84b14112",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2026/09/le-ministre-de-lagriculture-et-de-lagroalimentaire-annoncera-du-soutien-pour-lagriculture-en-environnement-controle-et-echangera-avec-des-producteu.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre de l'Agriculture en visite en Alberta pour soutenir l'agriculture contrôlée",
-      "sum": "Le ministre de l'Agriculture et de l'Agroalimentaire se rendra dans le sud de l'Alberta du 8 au 10 septembre pour rencontrer les producteurs, visiter des exploitations et des installations de transformation, et échanger avec les représentants de l'industrie. Le gouvernement annoncera du soutien pour l'agriculture en environnement contrôlé lors de cette visite.",
-      "cat": "Natural resources",
       "ai": true
     }
   ]
