@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T20:59:50.104Z",
+  "generatedAt": "2026-09-23T03:49:12.070Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7933,
+      "actions": 7939,
       "sources": 9
     },
     "fr": {
-      "actions": 7067,
+      "actions": 7061,
       "sources": 7
     }
   },
@@ -44,6 +44,94 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "f40275675a36d6f6",
+      "date": "2026-09-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/joint-statement-on-the-canada-nordic-baltic-eight-meeting.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada convenes first Nordic-Baltic Eight foreign ministers meeting",
+      "sum": "Canada's Foreign Affairs Minister Anita Anand and Estonia's Foreign Affairs Minister Margus Tsahkna convened the first ministerial meeting of the Canada-Nordic-Baltic Eight, bringing together foreign ministers from Denmark, Finland, Iceland, Latvia, Lithuania, Norway, and Sweden.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "264d0d63eceba3ba",
+      "date": "2026-09-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/canada-army-run-2026-bringing-canadians-together-in-support-of-the-people-behind-the-army.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada Army Run 2026 event held in Ottawa",
+      "sum": "The 19th Canada Army Run took place in downtown Ottawa, bringing together thousands of participants. The event was presented by BMO.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "5e5ecc59dae048b9",
+      "date": "2026-09-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/declaration-commune-concernant-la-reunion-canada-groupe-des-huit-pays-nordiques-et-baltes.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et huit pays nordiques et baltes tiennent première réunion ministérielle",
+      "sum": "Les ministres des Affaires étrangères du Canada et de l'Estonie ont convoqué la première réunion ministérielle du groupe Canada-NB8, réunissant les représentants du Danemark, de la Finlande, de l'Islande, de la Lettonie, de la Lituanie, de la Norvège et d'autres pays nordiques et baltes.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "84c16fff39bf5188",
+      "date": "2026-09-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/09/la-course-de-larmee-du-canada-2026--rassembler-les-canadiens-pour-soutenir-les-gens-derriere-larmee.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "La Course de l'Armée du Canada 2026 rassemble les Canadiens",
+      "sum": "La 19e édition de la Course de l'Armée du Canada, présentée par la BMO, s'est déroulée la fin de semaine dernière avec la participation de milliers de personnes. Cet événement vise à rassembler les Canadiens pour soutenir les membres de l'Armée.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "9df0e1629d30f20b",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHMyYmFOM0ExcFE0SUpyMTFLSUZ2NEo4WTJTdHpscjJBb2pLZUdsRHIwWVY0ZTlxOFRkRFBFZDQwTVdWd1FpcTFOMnZTMURqR3htSkZNYnRLWm9OSWpXSE9MQ1BmZDE0MTQ0TGVsYUlpVm9Xc3dyM1NSTmF3ZDFpMVprY3VlaGZkQ0VSdkVnMWk3a1Q4SzlKTnNR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Facing criticism, Carney says he has a 'very clear mandate' to push through major economic changes - CBC",
+      "excerpt": "Facing criticism, Carney says he has a 'very clear mandate' to push through major economic changes CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "9da09fbef262ce9a",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjQ5TFZvVWRKRHBxSG51S0RHYW1ScV94RHNrOU5GTi1IREVMV2gySUNBWlRSRHpmSzUyZHR5ZU13Uk1CbUhyZnJjSHdVckZCcUlWRUlJbU9ZT0Q2TWN5Vl9zZmVjNGJLZWNVYzMtbERYS3daeUs2dWNNbHJFSEdBWF9DVGxmM2ZWYTR1ejNvVmZJbkJRUVlSM0E0eFhMVHBHa1NIMXdLeVhlaXYwMDNNRTlCc3kzVk9CMDdaeA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "AFN chief warns Carney against 'abusing' majority to pass major projects bill - CP24",
+      "excerpt": "AFN chief warns Carney against 'abusing' majority to pass major projects bill CP24",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "728d1293433a3322",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2oyQjlCUmpmUEE0OGhHc3ZfWXppTHI0YVRlZWRpQ0V5emJGb2trZXFibUwxT0lhV3BtSlJ0QjFNQVFYZmx5bF92YjVzejZneFdQS1hmcVYxbmhxTkRldldUak05dXlpQS1mQ1pNQTNiYjNDOEd3ajI5QXJfSU56dTk5REphZEVETVZ6eGhPMGxqVFdHalZFM1FkLU1LV25nMmx5MHUyUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "QuickQuotes: MPs react to Carney's new Building Canada Strong Act - National Newswatch",
+      "excerpt": "QuickQuotes: MPs react to Carney's new Building Canada Strong Act National Newswatch",
+      "cat": "Economy"
+    },
     {
       "id": "633aa9d0cdd6e7fd",
       "date": "2026-09-22",
@@ -289,6 +377,18 @@
       "sum": "Les ministres des Affaires étrangères du G7 et de l'Union européenne déclarent que la situation au Yémen menace la stabilité régionale, la sécurité énergétique mondiale et la liberté de navigation maritime.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "361681d35ac86805",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHlQSjFMUDN1VjZZaG9saGpGaWFReVNaTzFJTG9BSWdtM3BmSmZUcGRqX3gzeUFHdUN5akoxLXdfLWk4blM3czBuUVQtTnRqcjk0enRiV2ZpQTM4bm0ycmxQS01odDBNZU04c0NmcVE3TjBKSGZ3SUM4eENteWNFXw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government dealt an early blow in climate litigation - Yahoo News Canada",
+      "excerpt": "Carney government dealt an early blow in climate litigation Yahoo News Canada",
+      "cat": "Sustainable development"
     },
     {
       "id": "bd3f496e25ef2994",
@@ -10110,109 +10210,6 @@
       "title": "Annonce sur l'abordabilité du logement à Barrie",
       "sum": "Une annonce concernant l'abordabilité du logement aura lieu à Barrie avec la participation de Jennifer McKelvie, secrétaire parlementaire du ministre du Logement et de l'Infrastructure, et du maire Alex Nuttall.",
       "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "1f58c34c35736674",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2026/09/la-ministre-metlege-diab-mettra-en-avant-la-prolongation-de-lallegement-de-la-taxe-federale-daccise-sur-lessence-le-diesel-et-les-carburants-daviat.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Prolongation de l'allègement de taxe d'accise sur carburants",
-      "sum": "La ministre Metlege Diab annonce la prolongation de la réduction de la taxe fédérale d'accise appliquée à l'essence, le diesel et les carburants d'aviation pour les Canadiens.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "e2c9d5dfeb0a1d12",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/transports-canada/nouvelles/2026/09/le-gouvernement-du-canada-organisera-une-seance-avec-les-medias-a-la-suite-dune-annonce-concernant-un-investissement-important-dans-un-projet-dinfr.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce d'investissement majeur en infrastructures nationales essentielles",
-      "sum": "Le gouvernement du Canada tiendra une conférence de presse à Norman Wells, aux Territoires du Nord-Ouest, pour annoncer un investissement important dans un projet d'infrastructures d'intérêt national. Le ministre des Transports et la ministre des Relations Couronne-Autochtones participeront à cette annonce.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "ff10c6d4b620c9a3",
-      "date": "2026-09-04",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVnJlLTBkYUp0amtyQk13dkxMQlpWYlRPWXdBcXdVR3Z3VkJMbmk5Zno0Q3dPc2U3SmdRVkFaUFl2OTE5WDBKTkgtcGtScWF2bFNvS2FMVGRLYjFnMkZvM1hKaDNlcnFiY1hsXzVGU3o4T1lJUUFwcHpEU09zRU5jeEZPNnY5b3hhVHYwNlVR?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "« La plus grande ingérence du fédéral » depuis 1995, craint PSPP - Radio-Canada",
-      "excerpt": "« La plus grande ingérence du fédéral » depuis 1995, craint PSPP Radio-Canada",
-      "cat": "Innovation, science & industry"
-    },
-    {
-      "id": "e5c72055550e5549",
-      "date": "2026-09-04",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/09/infrastructure-announcement-in-regina.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government announces community infrastructure project in Regina",
-      "sum": "The federal government will make an announcement regarding community infrastructure in Regina. The event will include the Secretary of State for Rural Development and the CEO of the RCMP Heritage Centre.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "a86959b85fb2c949",
-      "date": "2026-09-04",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/09/ps-hogan-to-travel-to-china.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Parliamentary Secretary travels to China for energy meetings",
-      "sum": "Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources, will travel to Shanghai and Beijing from September 8-11, 2026. He will participate in business meetings and attend the Asia-Pacific Forum on Sustainable Energy Development and the APEC 16th Energy Ministers' Meeting.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "f8b5fcddd00870cb",
-      "date": "2026-09-04",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/09/minister-anandasangaree-to-highlight-affordability-measures-in-brantford.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister highlights affordability measures in Brantford",
-      "sum": "The Minister of Public Safety will speak publicly about federal affordability measures designed to help Canadians with rising fuel costs.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "e4b52c509efa70fa",
-      "date": "2026-09-04",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canada-water-agency/news/2026/09/mp-duguid-to-provide-update-on-canadas-national-water-security-strategy-and-projects-to-protect-lake-winnipeg.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "MP Duguid provides update on National Water Security Strategy",
-      "sum": "An announcement was made regarding Canada's National Water Security Strategy and projects to protect Lake Winnipeg and its surrounding basin.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "37a264ccdbf1057c",
-      "date": "2026-09-04",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canada-water-agency/news/2026/09/minister-dabrusin-to-provide-update-on-canadas-national-water-security-strategy-and-projects-to-protect-the-great-lakes.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister provides update on national water security strategy",
-      "sum": "The Minister of Environment and Climate Change will provide an update on Canada's National Water Security Strategy and related projects focused on protecting the Great Lakes.",
-      "cat": "Sustainable development",
       "ai": true
     }
   ]

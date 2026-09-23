@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T20:59:50.104Z",
+  "generatedAt": "2026-09-23T03:49:12.070Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,94 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "f40275675a36d6f6",
+      "date": "2026-09-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/joint-statement-on-the-canada-nordic-baltic-eight-meeting.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada convenes first Nordic-Baltic Eight foreign ministers meeting",
+      "sum": "Canada's Foreign Affairs Minister Anita Anand and Estonia's Foreign Affairs Minister Margus Tsahkna convened the first ministerial meeting of the Canada-Nordic-Baltic Eight, bringing together foreign ministers from Denmark, Finland, Iceland, Latvia, Lithuania, Norway, and Sweden.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "264d0d63eceba3ba",
+      "date": "2026-09-22",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/canada-army-run-2026-bringing-canadians-together-in-support-of-the-people-behind-the-army.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada Army Run 2026 event held in Ottawa",
+      "sum": "The 19th Canada Army Run took place in downtown Ottawa, bringing together thousands of participants. The event was presented by BMO.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "5e5ecc59dae048b9",
+      "date": "2026-09-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/declaration-commune-concernant-la-reunion-canada-groupe-des-huit-pays-nordiques-et-baltes.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et huit pays nordiques et baltes tiennent première réunion ministérielle",
+      "sum": "Les ministres des Affaires étrangères du Canada et de l'Estonie ont convoqué la première réunion ministérielle du groupe Canada-NB8, réunissant les représentants du Danemark, de la Finlande, de l'Islande, de la Lettonie, de la Lituanie, de la Norvège et d'autres pays nordiques et baltes.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "84c16fff39bf5188",
+      "date": "2026-09-22",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/09/la-course-de-larmee-du-canada-2026--rassembler-les-canadiens-pour-soutenir-les-gens-derriere-larmee.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "La Course de l'Armée du Canada 2026 rassemble les Canadiens",
+      "sum": "La 19e édition de la Course de l'Armée du Canada, présentée par la BMO, s'est déroulée la fin de semaine dernière avec la participation de milliers de personnes. Cet événement vise à rassembler les Canadiens pour soutenir les membres de l'Armée.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "9df0e1629d30f20b",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHMyYmFOM0ExcFE0SUpyMTFLSUZ2NEo4WTJTdHpscjJBb2pLZUdsRHIwWVY0ZTlxOFRkRFBFZDQwTVdWd1FpcTFOMnZTMURqR3htSkZNYnRLWm9OSWpXSE9MQ1BmZDE0MTQ0TGVsYUlpVm9Xc3dyM1NSTmF3ZDFpMVprY3VlaGZkQ0VSdkVnMWk3a1Q4SzlKTnNR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Facing criticism, Carney says he has a 'very clear mandate' to push through major economic changes - CBC",
+      "excerpt": "Facing criticism, Carney says he has a 'very clear mandate' to push through major economic changes CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "9da09fbef262ce9a",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjQ5TFZvVWRKRHBxSG51S0RHYW1ScV94RHNrOU5GTi1IREVMV2gySUNBWlRSRHpmSzUyZHR5ZU13Uk1CbUhyZnJjSHdVckZCcUlWRUlJbU9ZT0Q2TWN5Vl9zZmVjNGJLZWNVYzMtbERYS3daeUs2dWNNbHJFSEdBWF9DVGxmM2ZWYTR1ejNvVmZJbkJRUVlSM0E0eFhMVHBHa1NIMXdLeVhlaXYwMDNNRTlCc3kzVk9CMDdaeA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "AFN chief warns Carney against 'abusing' majority to pass major projects bill - CP24",
+      "excerpt": "AFN chief warns Carney against 'abusing' majority to pass major projects bill CP24",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "728d1293433a3322",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2oyQjlCUmpmUEE0OGhHc3ZfWXppTHI0YVRlZWRpQ0V5emJGb2trZXFibUwxT0lhV3BtSlJ0QjFNQVFYZmx5bF92YjVzejZneFdQS1hmcVYxbmhxTkRldldUak05dXlpQS1mQ1pNQTNiYjNDOEd3ajI5QXJfSU56dTk5REphZEVETVZ6eGhPMGxqVFdHalZFM1FkLU1LV25nMmx5MHUyUQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "QuickQuotes: MPs react to Carney's new Building Canada Strong Act - National Newswatch",
+      "excerpt": "QuickQuotes: MPs react to Carney's new Building Canada Strong Act National Newswatch",
+      "cat": "Economy"
+    },
     {
       "id": "633aa9d0cdd6e7fd",
       "date": "2026-09-22",
@@ -279,6 +367,18 @@
       "sum": "Les ministres des Affaires étrangères du G7 et de l'Union européenne déclarent que la situation au Yémen menace la stabilité régionale, la sécurité énergétique mondiale et la liberté de navigation maritime.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "361681d35ac86805",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHlQSjFMUDN1VjZZaG9saGpGaWFReVNaTzFJTG9BSWdtM3BmSmZUcGRqX3gzeUFHdUN5akoxLXdfLWk4blM3czBuUVQtTnRqcjk0enRiV2ZpQTM4bm0ycmxQS01odDBNZU04c0NmcVE3TjBKSGZ3SUM4eENteWNFXw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government dealt an early blow in climate litigation - Yahoo News Canada",
+      "excerpt": "Carney government dealt an early blow in climate litigation Yahoo News Canada",
+      "cat": "Sustainable development"
     },
     {
       "id": "bd3f496e25ef2994",
@@ -193471,110 +193571,6 @@
       "title": "Bureau de la concurrence publie bulletin révisé accès Tribunal",
       "sum": "Le Bureau de la concurrence a publié une version mise à jour de son bulletin expliquant comment fonctionne l'accès privé au Tribunal de la concurrence, suite aux modifications récentes de la Loi sur la concurrence qui ont élargi cet accès.",
       "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "6bad8f31be89088f",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2025/06/modifications-au-code-canadien-du-travail-en-ce-qui-concerne-le-recours-a-des-travailleurs-de-remplacement-et-le-processus-de-maintien-des-activites.html",
-      "type": "Bill",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Modifications au Code canadien du travail sur les travailleurs de remplacement",
-      "sum": "Le Code canadien du travail est modifié pour ajuster les règles concernant l'utilisation de travailleurs de remplacement et le maintien des activités pendant les conflits de travail. Ces modifications touchent les dispositions sur les relations de travail, les négociations collectives, les grèves et les lock-out.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "c4861c3658bf2751",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2025/06/proteger-les-travailleurs-canadiens--la-legislation-concernant-les-travailleurs-de-remplacement-est-desormais-en-vigueur.html",
-      "type": "Bill",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Loi sur les travailleurs de remplacement entre en vigueur",
-      "sum": "La Loi modifiant le Code canadien du travail et le Règlement de 2012 sur le Conseil canadien des relations industrielles est désormais en vigueur. Cette loi renforce les protections pour les travailleurs canadiens dans le secteur fédéral.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "3d060a38915ae80f",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/06/le-ministre-sidhu-rencontre-le-ministre-detat-au-commerce-exterieur-des-emirats-arabes-unis-thani-bin-ahmed-al-zeyoudi.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le ministre Sidhu rencontre son homologue émirati au commerce",
-      "sum": "Le ministre canadien du Commerce international, Maninder Sidhu, a rencontré à Ottawa le ministre d'État au Commerce extérieur des Émirats arabes unis, Thani bin Ahmed Al Zeyoudi, pour leur première réunion bilatérale officielle.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "222b46910e69a46b",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/bureau-concurrence/nouvelles/2025/06/le-bureau-de-la-concurrence-conclut-une-entente-avec-une-societe-canadienne-denergie-pour-preserver-la-concurrence-dans-lindustrie-petroliere-et-ga.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Bureau de la concurrence conclut entente avec société énergétique canadienne",
-      "sum": "Le Bureau de la concurrence a conclu une entente avec une société canadienne d'énergie afin de préserver la concurrence dans le secteur du pétrole et du gaz naturel.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "d3a19330cc5c3622",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/garde-cotiere-canadienne/nouvelles/2025/06/la-garde-cotiere-canadienne-commence-sa-saison-estivale-en-arctique-pour-2025.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Garde côtière canadienne débute saison estivale en Arctique",
-      "sum": "La Garde côtière canadienne a commencé ses opérations estivales annuelles dans l'Arctique en 2025. Elle collabore avec des partenaires autochtones pour offrir des services et des programmes dans le Nord.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "25b46fd6346a38c8",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2025/06/declaration-de-la-ministre-valdez-a-loccasion-de-la-journee-nationale-des-peuples-autochtones.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Valdez salue la Journée nationale des peuples autochtones",
-      "sum": "La ministre des Femmes et de l'Égalité des genres et secrétaire d'État aux Petites Entreprises et Tourisme a émis une déclaration officielle à l'occasion de la Journée nationale des peuples autochtones.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "30be8a0e02b55516",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2025/06/le-gouvernement-du-canada-presentera-une-quatrieme-mise-a-jour-sur-les-progres-realises-en-ce-qui-concerne-la-nouvelle-solution-de-ressources-humai.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada présente mise à jour sur système Dayforce de paie",
-      "sum": "Le gouvernement du Canada fournira une quatrième mise à jour sur les progrès du système Dayforce, une solution informatique pour gérer les ressources humaines et la paie des fonctionnaires. Alex Benay, sous-ministre délégué, présentera les avancées dans la configuration et les tests de ce système.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "5f017a96d5135441",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/06/pont-samuel-de-champlain--illumination-speciale-pour-la-journee-nationale-des-peuples-autochtones.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Pont Samuel-De Champlain illuminé pour Journée nationale autochtones",
-      "sum": "Le pont Samuel-De Champlain sera illuminé avec des couleurs spéciales le 21 juin du coucher du soleil jusqu'à 1 h du matin pour célébrer la Journée nationale des peuples autochtones.",
-      "cat": "Indigenous services",
       "ai": true
     }
   ]
