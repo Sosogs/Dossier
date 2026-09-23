@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T03:49:12.070Z",
+  "generatedAt": "2026-09-23T10:59:07.059Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "80d499f3dc6912fc",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfbi1iS3lkRnJxMDlnZzB5Q010QnhtczVkRjgxdmYzNzRYNkxXd2hUQ01XcFZxUXVJNU82ZXFfakw4MUxUaWNLdVpuNDlUUUZBZ2diUXlzQm9jby1vX2dIVDRNd2JHd3gxOS1aMDVSRkhlbzJMZG1KaVZLdWg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Heather Exner-Pirot: Carney's oil and gas renaissance - Yahoo News Canada",
+      "excerpt": "Heather Exner-Pirot: Carney's oil and gas renaissance Yahoo News Canada",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "e811421e812bec82",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnF2U0hySGNWR3pna3RYa2htamdWU1ZFd2xNcDRYcHlTX3NLdTBlTlhuOVZVVG5tV3BhY2lleldnMDlpNWNOMmQ3Vk4yUUUxeUVWREFWSzBzclJLNWRrdFNSOFVqYjdYaGExdUZVZEYtNVpwTFhFZ3NBU2d1UUVaLTNPekpHMFUwTEtMMC1jOEZZTUhlRnNQdThBaDFpMXhqQjA3RGZPVk8tcXFzZnRWVw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Do it like a banker. How Mark Carney is pitching Canada to global investors - Defence24.com",
+      "excerpt": "Do it like a banker. How Mark Carney is pitching Canada to global investors Defence24.com",
+      "cat": "National defence"
+    },
     {
       "id": "f40275675a36d6f6",
       "date": "2026-09-22",
@@ -3871,6 +3895,18 @@
       "cat": "Finance"
     },
     {
+      "id": "5c5de8e5713a6eb1",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHFIa1k2ekwyTGxVZ1pEOWRBQXlZVXAxcjJCb0I1Z2ZpUHQxTlBhRGlGb2Fna05FWkREeWY0eVhNZjZFaVFCRG1taG1FMVl3RkJZMEJXMm9wc2FKLU51S3RRQ2s5dlMxMWd2blNfX2tLbUpELWFYZkFGcW9UdFdNbE0wbXktOWM3Mm9TOEhsRTY5NWtWTHc3UERBRE40RUdQOWhwcG5fUjVwMlRXcThLUFRB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney, Harper make the case for Canada at inaugural investment summit - 650 CKOM",
+      "excerpt": "Carney, Harper make the case for Canada at inaugural investment summit 650 CKOM",
+      "cat": "Economy"
+    },
+    {
       "id": "c1bb5e04ba150bd5",
       "date": "2026-09-15",
       "src": "Canadian politics (via Google News)",
@@ -6113,6 +6149,18 @@
       "title": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews - nai500.com",
       "excerpt": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews nai500.com",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "21649bf8c51597de",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONlRZemI0NFhzT24wY3EzdDF1eXJvMmxuMFJBUV8tSzNtVEN1X0hoVG1SZkNsSzV4bDhkWWRoSVBEeDQ2bzV5eGJGU1Q0YTBBZXBUeGg2SFlpWEdfLU5wUXh2bk50c2lPV0pPM09lV01vNUhjR0FidmpZMVV1RnV4NVU1bUZud2otdTRwd3lNU1EtMUpsaHpmS2N2Q2RjZ1VyM2cxcm5hdWhIcWR5VlllYk5wNUdBUldvOGR4SnIySWJ6MmZnR25jeTlVTkN3NDdGTnh3X3JpcVBLZnhC?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney Meets with National Unity Group ‘Forever Canadian’ - CPAC",
+      "excerpt": "PM Carney Meets with National Unity Group ‘Forever Canadian’ CPAC",
+      "cat": "Economy"
     },
     {
       "id": "1d19e6db24985edf",
@@ -8557,6 +8605,18 @@
       "cat": "Economy"
     },
     {
+      "id": "e99f0ad88a0266a3",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzNYRlZKbmdvRWVNTS12S1RQakVTa0hWSXo4WE1tVlE5ZlNVaHRzeFdiV095WkpEMVI0aUozZWlCaG1qTEdLZmNxMTVMblVEU196OHpuUW1sMWxHdklOMkhYM1FtRFFySWhjaTNoTFBzU1ZqNlFneHlxeXpraldhd05LREg3LWZMa0hfMktCNGdYbEZzS0RnUEpvaFNnOUZINTI1R2hhWnNNLXNGaTJaSw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "VIDEO: Carney warns of tough times ahead in national address as tariffs kick in - 650 CKOM",
+      "excerpt": "VIDEO: Carney warns of tough times ahead in national address as tariffs kick in 650 CKOM",
+      "cat": "Economy"
+    },
+    {
       "id": "516cc7fb8bf613d3",
       "date": "2026-09-08",
       "src": "Canadian politics (via Google News)",
@@ -10973,6 +11033,18 @@
       "title": "Federal court orders Carney government to release more Nazi war criminal documents - The Canadian Jewish News",
       "excerpt": "Federal court orders Carney government to release more Nazi war criminal documents The Canadian Jewish News",
       "cat": "Justice"
+    },
+    {
+      "id": "646e54996312b205",
+      "date": "2026-09-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONEVBZldtNVNWeWpGRHd1YlNHdGsxOXFlRzNBQnJpTWN3QlMzcHF2dWlmMTdDc21nUnptQ3Z2V1FrZ1V6MlBPVnRpQUhVakxBc2hBclVOR01KM1puVW9XNGNnZ1UycGFfRXh2aF9zN3ZuLUVadGRaQlRUQkptaGJmeUl3TlBQay00MmNzcU9IbFhySFd3X2JnNzRycWFoRWZBVVllTVFUUGxtMDlBZ3ZvTFc1NkVEZGJtTkE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces the largest investment in VIA Rail’s history to bring passenger rail car manufacturing back to Canada - pm.gc.ca",
+      "excerpt": "Prime Minister Carney announces the largest investment in VIA Rail’s history to bring passenger rail car manufacturing back to Canada pm.gc.ca",
+      "cat": "Transportation"
     },
     {
       "id": "a14eb282ba4e9767",
@@ -193493,84 +193565,6 @@
       "title": "Edwin-Bélanger Bandstand launches summer music program",
       "sum": "The Edwin-Bélanger Bandstand on the Plains of Abraham is beginning its summer program of free music performances. The program starts tomorrow.",
       "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "38fee6272f673eeb",
-      "date": "2025-06-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/privy-council/news/2025/06/government-of-canada-officials-to-provide-technical-briefing-on-the-prime-ministers-participation-in-the-canada-eu-summit-and-nato-summit.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government officials brief media on Prime Minister's summits",
-      "sum": "Government officials will hold a virtual briefing for media about the Prime Minister's planned participation in the Canada-EU Summit and NATO Summit.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "685b6f875d76de6b",
-      "date": "2025-06-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/06/minister-anand-and-united-arab-emirates-deputy-prime-minister-and-minister-of-foreign-affairs-strengthen-bilateral-relationship.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada and UAE foreign ministers meet to strengthen ties",
-      "sum": "Canada's Minister of Foreign Affairs met with the United Arab Emirates' Deputy Prime Minister and Minister of Foreign Affairs to discuss and strengthen the bilateral relationship between the two countries.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "5385497e419b59c2",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ombudsman-contribuables/nouvelles/2025/06/lombudsman-des-contribuables-publie-son-cinquieme-et-dernier-rapport-annuel.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "fr",
-      "title": "L'ombudsman des contribuables publie son rapport annuel final",
-      "sum": "L'ombudsman des contribuables du Canada a déposé son cinquième et dernier rapport annuel à la Chambre des communes, couvrant la période du 1er avril 2024 au 31 mars 2025. Le rapport contient des recommandations adressées au ministre des Finances et du Revenu national.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "491c4def05ac4584",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/06/le-gouvernement-du-canada-investit-dans-une-nouvelle-ecole-de-navigation-au-musee-maritime-de-latlantique.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 6,5 millions dans école navigation musée maritime",
-      "sum": "Le gouvernement fédéral et la Canadian Maritime Heritage Foundation investissent ensemble plus de 6,5 millions de dollars pour créer une nouvelle école de navigation au Musée maritime de l'Atlantique.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "723f4fb9ba334cc0",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2025/06/le-canada-celebre-la-journee-mondiale-des-refugies-sous-le-signe-de-la-solidarite.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada réaffirme son engagement envers les réfugiés",
-      "sum": "Le Canada marque la Journée mondiale des réfugiés en réaffirmant son engagement à répondre aux besoins humanitaires et à trouver des solutions durables pour les réfugiés et les personnes déplacées. Le gouvernement reconnaît les contributions des réfugiés dans les collectivités qui les accueillent.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "2bddd52ae912f194",
-      "date": "2025-06-20",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/bureau-concurrence/nouvelles/2025/06/le-bureau-de-la-concurrence-publie-un-bulletin-revise-sur-lacces-prive-au-tribunal-de-la-concurrence.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Bureau de la concurrence publie bulletin révisé accès Tribunal",
-      "sum": "Le Bureau de la concurrence a publié une version mise à jour de son bulletin expliquant comment fonctionne l'accès privé au Tribunal de la concurrence, suite aux modifications récentes de la Loi sur la concurrence qui ont élargi cet accès.",
-      "cat": "Justice",
       "ai": true
     }
   ]

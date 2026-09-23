@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-23T03:49:12.070Z",
+  "generatedAt": "2026-09-23T10:59:07.059Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7939,
+      "actions": 7943,
       "sources": 9
     },
     "fr": {
-      "actions": 7061,
+      "actions": 7057,
       "sources": 7
     }
   },
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "80d499f3dc6912fc",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfbi1iS3lkRnJxMDlnZzB5Q010QnhtczVkRjgxdmYzNzRYNkxXd2hUQ01XcFZxUXVJNU82ZXFfakw4MUxUaWNLdVpuNDlUUUZBZ2diUXlzQm9jby1vX2dIVDRNd2JHd3gxOS1aMDVSRkhlbzJMZG1KaVZLdWg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Heather Exner-Pirot: Carney's oil and gas renaissance - Yahoo News Canada",
+      "excerpt": "Heather Exner-Pirot: Carney's oil and gas renaissance Yahoo News Canada",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "e811421e812bec82",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnF2U0hySGNWR3pna3RYa2htamdWU1ZFd2xNcDRYcHlTX3NLdTBlTlhuOVZVVG5tV3BhY2lleldnMDlpNWNOMmQ3Vk4yUUUxeUVWREFWSzBzclJLNWRrdFNSOFVqYjdYaGExdUZVZEYtNVpwTFhFZ3NBU2d1UUVaLTNPekpHMFUwTEtMMC1jOEZZTUhlRnNQdThBaDFpMXhqQjA3RGZPVk8tcXFzZnRWVw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Do it like a banker. How Mark Carney is pitching Canada to global investors - Defence24.com",
+      "excerpt": "Do it like a banker. How Mark Carney is pitching Canada to global investors Defence24.com",
+      "cat": "National defence"
+    },
     {
       "id": "f40275675a36d6f6",
       "date": "2026-09-22",
@@ -3881,6 +3905,18 @@
       "cat": "Finance"
     },
     {
+      "id": "5c5de8e5713a6eb1",
+      "date": "2026-09-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHFIa1k2ekwyTGxVZ1pEOWRBQXlZVXAxcjJCb0I1Z2ZpUHQxTlBhRGlGb2Fna05FWkREeWY0eVhNZjZFaVFCRG1taG1FMVl3RkJZMEJXMm9wc2FKLU51S3RRQ2s5dlMxMWd2blNfX2tLbUpELWFYZkFGcW9UdFdNbE0wbXktOWM3Mm9TOEhsRTY5NWtWTHc3UERBRE40RUdQOWhwcG5fUjVwMlRXcThLUFRB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney, Harper make the case for Canada at inaugural investment summit - 650 CKOM",
+      "excerpt": "Carney, Harper make the case for Canada at inaugural investment summit 650 CKOM",
+      "cat": "Economy"
+    },
+    {
       "id": "c1bb5e04ba150bd5",
       "date": "2026-09-15",
       "src": "Canadian politics (via Google News)",
@@ -6123,6 +6159,18 @@
       "title": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews - nai500.com",
       "excerpt": "Tenaz Energy Gains Fresh Growth Tailwinds as Carney Eases Canadian Energy Environmental Reviews nai500.com",
       "cat": "Sustainable development"
+    },
+    {
+      "id": "21649bf8c51597de",
+      "date": "2026-09-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONlRZemI0NFhzT24wY3EzdDF1eXJvMmxuMFJBUV8tSzNtVEN1X0hoVG1SZkNsSzV4bDhkWWRoSVBEeDQ2bzV5eGJGU1Q0YTBBZXBUeGg2SFlpWEdfLU5wUXh2bk50c2lPV0pPM09lV01vNUhjR0FidmpZMVV1RnV4NVU1bUZud2otdTRwd3lNU1EtMUpsaHpmS2N2Q2RjZ1VyM2cxcm5hdWhIcWR5VlllYk5wNUdBUldvOGR4SnIySWJ6MmZnR25jeTlVTkN3NDdGTnh3X3JpcVBLZnhC?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney Meets with National Unity Group ‘Forever Canadian’ - CPAC",
+      "excerpt": "PM Carney Meets with National Unity Group ‘Forever Canadian’ CPAC",
+      "cat": "Economy"
     },
     {
       "id": "1d19e6db24985edf",
@@ -8567,6 +8615,18 @@
       "cat": "Economy"
     },
     {
+      "id": "e99f0ad88a0266a3",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzNYRlZKbmdvRWVNTS12S1RQakVTa0hWSXo4WE1tVlE5ZlNVaHRzeFdiV095WkpEMVI0aUozZWlCaG1qTEdLZmNxMTVMblVEU196OHpuUW1sMWxHdklOMkhYM1FtRFFySWhjaTNoTFBzU1ZqNlFneHlxeXpraldhd05LREg3LWZMa0hfMktCNGdYbEZzS0RnUEpvaFNnOUZINTI1R2hhWnNNLXNGaTJaSw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "VIDEO: Carney warns of tough times ahead in national address as tariffs kick in - 650 CKOM",
+      "excerpt": "VIDEO: Carney warns of tough times ahead in national address as tariffs kick in 650 CKOM",
+      "cat": "Economy"
+    },
+    {
       "id": "516cc7fb8bf613d3",
       "date": "2026-09-08",
       "src": "Canadian politics (via Google News)",
@@ -10145,71 +10205,6 @@
       "title": "Federal fuel excise tax relief extended for gasoline, diesel, aviation fuel",
       "sum": "The federal government is extending its excise tax relief program on gasoline, diesel, and aviation fuels. Minister Metlege Diab will announce details of this extension to the public.",
       "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "1763de3e8a55cda4",
-      "date": "2026-09-04",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/transport-canada/news/2026/09/government-of-canada-to-host-a-media-availability-following-an-announcement-regarding-a-significant-investment-for-a-critical-national-infrastructu.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government announces major infrastructure investment in Norman Wells",
-      "sum": "The Minister of Transport and the Minister of Crown-Indigenous Relations will announce a significant investment in a national infrastructure project in Norman Wells, Northwest Territories. A media availability will follow the announcement on September 8, 2026.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "f602accd0e149d5c",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-secretaire-parlementaire-david-myles-fera-une-annonce-a-miramichi-concernant-la-prolongation-de-lallegement-de-la-taxe-daccise-federale-sur-les-.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada prolonge l'allègement de taxe d'accise sur les carburants",
-      "sum": "Le gouvernement du Canada prolonge la réduction de la taxe d'accise fédérale sur l'essence, le diesel et les carburants d'aviation. Le secrétaire parlementaire David Myles fera une annonce à ce sujet à Miramichi.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "ac078e60a9fe41ad",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-gouvernement-du-canada-investit-dans-deux-importants-rassemblements-culturels-a-brantford.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit dans deux événements culturels à Brantford",
-      "sum": "Le gouvernement du Canada finance deux rassemblements culturels à Brantford qui favorisent le multiculturalisme et la réconciliation. La députée Lisa Hepfner annoncera officiellement cette allocation de financement.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "676ba087683ef3ec",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/09/declaration-du-ministre-de-la-justice-sur-le-deces-de-lhonorable-ritu-khullar.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Décès de l'honorable Ritu Khullar, juge en chef",
-      "sum": "Le ministre de la Justice annonce le décès de l'honorable Ritu Khullar, qui occupait les postes de juge en chef de l'Alberta, de la Cour d'appel des Territoires du Nord-Ouest et de la Cour d'appel du Nunavut.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "61185258a2662032",
-      "date": "2026-09-04",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/09/avis-aux-medias--annonce-en-matiere-dabordabilite-a-barrie.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce sur l'abordabilité du logement à Barrie",
-      "sum": "Une annonce concernant l'abordabilité du logement aura lieu à Barrie avec la participation de Jennifer McKelvie, secrétaire parlementaire du ministre du Logement et de l'Infrastructure, et du maire Alex Nuttall.",
-      "cat": "Housing",
       "ai": true
     }
   ]
