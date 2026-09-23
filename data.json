@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T16:20:07.313Z",
+  "generatedAt": "2026-09-23T21:14:03.967Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,82 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "1fbbd9eef5c3847a",
+      "date": "2026-09-23",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-sidhu-strengthens-canadas-trade-and-investment-ties-with-association-of-southeast-asian-nations.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada advances trade negotiations with ASEAN and Philippines",
+      "sum": "Minister of International Trade Maninder Sidhu participated in an ASEAN Economic Ministers meeting in Manila to strengthen Canada's trade and investment relationships in the region. He advanced negotiations toward potential free trade agreements with both the Philippines and ASEAN.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "514bab2ab52a16ab",
+      "date": "2026-09-23",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/health-canada/news/2026/09/government-of-canada-to-announce-funding-for-cancer-research.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces funding for cancer research advancement",
+      "sum": "The Minister of Health will announce government investment in cancer research and personalized cancer care initiatives.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "551280c47fae78ce",
+      "date": "2026-09-23",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-ministre-sidhu-renforce-les-liens-commerciaux-et-dinvestissement-du-canada-avec-lassociation-des-nations-de-lasie-du-sud-est.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada renforce ses relations commerciales avec l'ANASE",
+      "sum": "Le ministre du Commerce international a participé à une réunion avec les ministres de l'Économie de l'Association des nations de l'Asie du Sud-Est à Manille. Cette visite vise à approfondir les liens commerciaux et d'investissement du Canada dans la région indo-pacifique.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "35eddfde7eae3428",
+      "date": "2026-09-23",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/sante-canada/nouvelles/2026/09/le-gouvernement-du-canada-annoncera-du-financement-pour-la-recherche-sur-le-cancer.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada annonce du financement pour la recherche sur le cancer",
+      "sum": "Le ministre de la Santé annoncera une aide financière destinée à soutenir la recherche sur le cancer et à développer des approches de soins personnalisés.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "eeeb5804cb1ef314",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVFDSVNPTHJSZHJjd0hreTREVXh5T3pJRXJYVHBtNUxrcHE4VnhsQmZKcUlDWm0zdFN0WDE4M21HalFrRW5xajlnUHpCNnRkS2lXN2dudEZuTDBfODB4eGFLUEVBeDdhcWVPWWtONGxwb0FfOVIzRUVQU05Ycy1Xay11OFF2cW96RURfSg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Heather Exner-Pirot: Carney's oil and gas renaissance - National Post",
+      "excerpt": "Heather Exner-Pirot: Carney's oil and gas renaissance National Post",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "084f894c46fec305",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTndfS3dxUUtNS1hJdm5raUVNdzdONkVlXzJ2OGE2NGUzdWExM1QwTjdSa0xaY0lETy1tMHJkZjkyend1MUpfaGdnQjBDc1RGTkQ2WEQyMlRFSUJPeV92NnVvUHpXbzVyWnltbzJmLW1NV1kxbXN5MXBMc093Z1FmSFYyMENlTFlSa2c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Labour Code change will 'protect' right to strike. Experts say it still spells legal trouble - CBC",
+      "excerpt": "Carney says Labour Code change will 'protect' right to strike. Experts say it still spells legal trouble CBC",
+      "cat": "Economy"
+    },
     {
       "id": "55f59a609ec554fd",
       "date": "2026-09-23",
@@ -343,6 +419,18 @@
       "title": "Do it like a banker. How Mark Carney is pitching Canada to global investors - Defence24.com",
       "excerpt": "Do it like a banker. How Mark Carney is pitching Canada to global investors Defence24.com",
       "cat": "National defence"
+    },
+    {
+      "id": "008ea1bc62987f82",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4YndlQXlYZTRHaUdsUVp4Z1dVQV90SS0zWlRZY24xT3NxcHZndThqM2V2Q2RndGE5Nms1d29JUHpKdDZIa3Bfa2VaVC1oSUFuM2N4VVJ0WVVzejUzYnpGWVdmeXVTRlo3NzRHTVpXVWtQTVh6TGc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "AFN chief warns Carney against 'abusing' majority to pass new major projects bill - CBC",
+      "excerpt": "AFN chief warns Carney against 'abusing' majority to pass new major projects bill CBC",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "7ebb98c253208e21",
@@ -193472,97 +193560,6 @@
       "title": "Annonce d'infrastructure à Québec avec ministres fédéraux",
       "sum": "Le gouvernement fédéral tiendra une conférence de presse à Québec pour annoncer une initiative en infrastructure. Plusieurs élus fédéraux et représentants d'organismes participeront à cet événement.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "b306e32895c53f77",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/06/vous-prevoyez-des-voyages-cet-ete--lasfc-donne-des-conseils-pour-un-voyage-sans-heurts-au-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "ASFC donne conseils aux voyageurs traversant frontières cet été",
-      "sum": "L'Agence des services frontaliers du Canada rappelle aux voyageurs de bien planifier à l'avance s'ils traversent la frontière durant l'été.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "ac2fd17941c55162",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/06/deces-dun-detenu-du-centre-regional-de-traitement-a-letablissement-de-millhaven.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Décès d'un détenu à l'Établissement de Millhaven",
-      "sum": "Sheridon Drennan, un détenu du Centre régional de traitement à l'Établissement de Millhaven, est décédé le 23 juin 2025 de causes naturelles apparentes.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "9e7bfa94c8b9dabf",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/06/la-ministre-anand-tiendra-un-point-de-presse-virtuelle-a-loccasion-des-sommets-de-lotan-et-du-canada-ue-de-2025.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Anand tiendra un point de presse virtuel en Europe",
-      "sum": "La ministre des Affaires étrangères Anita Anand participera aux sommets de l'OTAN et Canada-UE en Europe le 24 juin 2025. Elle tiendra une conférence de presse virtuelle lors de sa présence à ces rencontres.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "67b967bf499e5720",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/06/saisie-dobjets-interdits-et-non-autorises-a-etablissement-drummond.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Saisie d'objets interdits à l'Établissement Drummond",
-      "sum": "Le 14 juin 2025, du personnel de l'Établissement Drummond a saisi un colis contenant des objets interdits et non autorisés. L'établissement fédéral à sécurité moyenne a détecté et confisqué ces articles lors d'une inspection.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "872f9687af9ece04",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/06/apprehension-dun-detenu-de-letablissement-archambault---unite-a-securite-minimale.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Détenu appréhendé à l'Établissement Archambault",
-      "sum": "Le détenu Richard Plourde a été appréhendé par la Sûreté du Québec le 23 juin 2025 à l'Établissement Archambault, un établissement à sécurité minimale.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "a6833791cb0bd2e9",
-      "date": "2025-06-22",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2025/06/minister-solomon-to-participate-in-toronto-tech-week-2025.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister Solomon to attend Toronto Tech Week 2025 events",
-      "sum": "Minister Evan Solomon, who oversees artificial intelligence and digital innovation, will participate in events and meetings during Toronto Tech Week 2025 with AI industry and business leaders.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "58676c76ceddfa87",
-      "date": "2025-06-22",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/06/canada-deepens-bilateral-and-trade-ties-with-united-arab-emirates.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada strengthens diplomatic and trade relations with UAE",
-      "sum": "Canada's Foreign Affairs Minister welcomed the Deputy Prime Minister and Foreign Affairs Minister of the United Arab Emirates for a high-level visit from June 18-20, 2025. The delegations discussed areas of cooperation and reinforced bilateral ties between the two countries.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]

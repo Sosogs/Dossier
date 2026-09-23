@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-23T16:20:07.313Z",
+  "generatedAt": "2026-09-23T21:14:03.967Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7938,
+      "actions": 7941,
       "sources": 9
     },
     "fr": {
-      "actions": 7062,
+      "actions": 7059,
       "sources": 7
     }
   },
@@ -44,6 +44,82 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "1fbbd9eef5c3847a",
+      "date": "2026-09-23",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-sidhu-strengthens-canadas-trade-and-investment-ties-with-association-of-southeast-asian-nations.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada advances trade negotiations with ASEAN and Philippines",
+      "sum": "Minister of International Trade Maninder Sidhu participated in an ASEAN Economic Ministers meeting in Manila to strengthen Canada's trade and investment relationships in the region. He advanced negotiations toward potential free trade agreements with both the Philippines and ASEAN.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "514bab2ab52a16ab",
+      "date": "2026-09-23",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/health-canada/news/2026/09/government-of-canada-to-announce-funding-for-cancer-research.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces funding for cancer research advancement",
+      "sum": "The Minister of Health will announce government investment in cancer research and personalized cancer care initiatives.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "551280c47fae78ce",
+      "date": "2026-09-23",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-ministre-sidhu-renforce-les-liens-commerciaux-et-dinvestissement-du-canada-avec-lassociation-des-nations-de-lasie-du-sud-est.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada renforce ses relations commerciales avec l'ANASE",
+      "sum": "Le ministre du Commerce international a participé à une réunion avec les ministres de l'Économie de l'Association des nations de l'Asie du Sud-Est à Manille. Cette visite vise à approfondir les liens commerciaux et d'investissement du Canada dans la région indo-pacifique.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "35eddfde7eae3428",
+      "date": "2026-09-23",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/sante-canada/nouvelles/2026/09/le-gouvernement-du-canada-annoncera-du-financement-pour-la-recherche-sur-le-cancer.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada annonce du financement pour la recherche sur le cancer",
+      "sum": "Le ministre de la Santé annoncera une aide financière destinée à soutenir la recherche sur le cancer et à développer des approches de soins personnalisés.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "eeeb5804cb1ef314",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVFDSVNPTHJSZHJjd0hreTREVXh5T3pJRXJYVHBtNUxrcHE4VnhsQmZKcUlDWm0zdFN0WDE4M21HalFrRW5xajlnUHpCNnRkS2lXN2dudEZuTDBfODB4eGFLUEVBeDdhcWVPWWtONGxwb0FfOVIzRUVQU05Ycy1Xay11OFF2cW96RURfSg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Heather Exner-Pirot: Carney's oil and gas renaissance - National Post",
+      "excerpt": "Heather Exner-Pirot: Carney's oil and gas renaissance National Post",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "084f894c46fec305",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTndfS3dxUUtNS1hJdm5raUVNdzdONkVlXzJ2OGE2NGUzdWExM1QwTjdSa0xaY0lETy1tMHJkZjkyend1MUpfaGdnQjBDc1RGTkQ2WEQyMlRFSUJPeV92NnVvUHpXbzVyWnltbzJmLW1NV1kxbXN5MXBMc093Z1FmSFYyMENlTFlSa2c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Labour Code change will 'protect' right to strike. Experts say it still spells legal trouble - CBC",
+      "excerpt": "Carney says Labour Code change will 'protect' right to strike. Experts say it still spells legal trouble CBC",
+      "cat": "Economy"
+    },
     {
       "id": "55f59a609ec554fd",
       "date": "2026-09-23",
@@ -353,6 +429,18 @@
       "title": "Do it like a banker. How Mark Carney is pitching Canada to global investors - Defence24.com",
       "excerpt": "Do it like a banker. How Mark Carney is pitching Canada to global investors Defence24.com",
       "cat": "National defence"
+    },
+    {
+      "id": "008ea1bc62987f82",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4YndlQXlYZTRHaUdsUVp4Z1dVQV90SS0zWlRZY24xT3NxcHZndThqM2V2Q2RndGE5Nms1d29JUHpKdDZIa3Bfa2VaVC1oSUFuM2N4VVJ0WVVzejUzYnpGWVdmeXVTRlo3NzRHTVpXVWtQTVh6TGc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "AFN chief warns Carney against 'abusing' majority to pass new major projects bill - CBC",
+      "excerpt": "AFN chief warns Carney against 'abusing' majority to pass new major projects bill CBC",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "7ebb98c253208e21",
@@ -10127,93 +10215,6 @@
       "title": "Canada holds first defence co-ordination talks with China in more than eight years - The Globe and Mail",
       "excerpt": "Canada holds first defence co-ordination talks with China in more than eight years The Globe and Mail",
       "cat": "National defence"
-    },
-    {
-      "id": "c92192a6e9da330c",
-      "date": "2026-09-08",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXNickk5dGhya3dZR0tTSGxhYVVLdWdUWEhZRGRQZ01OUkU0TkFPQjRiREdYaWxoZlg0c0ltVFE4OWhTOEN2eHlqSnhxaEowRF9ZcVJNY2dGbFJoc2lNVllvNWIxQjBzQXI1MEh1OXhPb0hBbVU4XzJ0NmlwNF9QSTlhTWVNa0gycDY0QU5ZREpRR09kTEFLWjdnM0IzYm1hNS1zRFRn?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Mark Carney’s latest counter-tariffs a multi-billion-dollar tax on Canadians - Brooks Bulletin",
-      "excerpt": "Mark Carney’s latest counter-tariffs a multi-billion-dollar tax on Canadians Brooks Bulletin",
-      "cat": "Finance"
-    },
-    {
-      "id": "d0d916b4f1863d3e",
-      "date": "2026-09-08",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2026/09/escape-from-saskatchewan-penitentiary-minimum-security-unit.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inmate escapes from Saskatchewan Penitentiary minimum-security unit",
-      "sum": "On September 7, 2026, inmate Scott Sargefield did not return to the minimum-security unit at Saskatchewan Penitentiary after an authorized temporary absence. This constitutes an escape from the facility.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "241d701214306f59",
-      "date": "2026-09-08",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/09/evasion-du-penitencier-de-la-saskatchewan--unite-a-securite-minimale.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Détenu s'échappe du pénitencier de la Saskatchewan",
-      "sum": "Le 7 septembre 2026, un détenu nommé Scott Sargefield n'est pas retourné à l'unité à sécurité minimale du pénitencier de la Saskatchewan après une absence temporaire autorisée.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "2fbab669641a0ebc",
-      "date": "2026-09-07",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLWgzZG1VNGxPS2tMTWVaeHNJWnpuT1IwU1RBS3ZDWjVmQ1NZdWlFWE1QT1U1Q09DQWlSZHRINmZGT25iMnBQc1BBLWRfaExEZHUyVHVBcFB1LUJhb3pmdUZXS250TmdnblptTExkWEhwbWNuTlRoR2J5RjBtMldYbzJEWUxLalVLamUzam5KRjRibFNzU1BnR2Q1MEV2dWZxMWxfMmRWWmRBTFNQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Prime Minister Carney to hold fall Cabinet Planning Forum focused on building with greater speed and ambition - pm.gc.ca",
-      "excerpt": "Prime Minister Carney to hold fall Cabinet Planning Forum focused on building with greater speed and ambition pm.gc.ca",
-      "cat": "Economy"
-    },
-    {
-      "id": "471c7de9d2e9c32b",
-      "date": "2026-09-07",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmx1N3RJc2c0RXFsdDZLckMtR04zTXp4b0ljeFlacFVxWFVlRWJvYWV6aDZwV1AyVzdQM05PWmhRWVVsaGtJYXAwT2JoR1NLaDF5ZEtCdHhOOUYzSjhqdS1jUHlxWlJmTnhyR01sVW03MzRXQ0ZaOV9KcEl3anppeGxVMA?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney needs ‘to be straight up,’ Poilievre asks PM to reveal the U.S. trade deal Ottawa turned down - Yahoo News Canada",
-      "excerpt": "Carney needs ‘to be straight up,’ Poilievre asks PM to reveal the U.S. trade deal Ottawa turned down Yahoo News Canada",
-      "cat": "Economy"
-    },
-    {
-      "id": "e932492c0eeed9aa",
-      "date": "2026-09-07",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGNfWERSazdVdW52aE1PUGQ1Yml0Vmk4el9DaFREWHR2X3JCM3kwam1VMVhjaG1IZzRhemxOeDhvOENURXpUaUwtdV9zbW9vZG9Mc21qUTlCYV9qalRWQ0V0M1cwTUJRUlNSdVRfM0hKdC1oSEdmMmxINGtEOXpFX3JQTnFnM1hRS3FwUy1DeHFHRENSYjBRN2E0aEZRVjBsM3JweGRneE92b0pqVUNn?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Contre-tarifs canadiens | Ottawa contredit Fréchette - La Presse",
-      "excerpt": "Contre-tarifs canadiens | Ottawa contredit Fréchette La Presse",
-      "cat": "Economy"
-    },
-    {
-      "id": "797f17170fb5a965",
-      "date": "2026-09-07",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/government-of-canada-supports-celebrations-for-the-175th-anniversary-of-the-heritage-building-that-houses-le-musee-de-saint-boniface.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada supports 175th anniversary celebrations for Saint-Boniface Museum",
-      "sum": "The Government of Canada is providing support for celebrations marking the 175th anniversary of the heritage building housing Le Musée de Saint-Boniface in Winnipeg. The building, identified as the city's oldest, will continue to serve its community.",
-      "cat": "Culture & heritage",
-      "ai": true
     }
   ]
 }
