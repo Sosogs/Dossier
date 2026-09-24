@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T21:14:03.967Z",
+  "generatedAt": "2026-09-24T03:41:16.149Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,56 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ddaf7098be612253",
+      "date": "2026-09-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbmo0X2hIT09ZTTlrdWV2d1lYcVpyZS1PRVE2NVA4bGNvTElXSURISHBVVjdYcW45dnNHeVRsSjJJTUhmbXBHT3B6Z040RVJYc0pJejNhTGpkVVk2M2hEMVpEaHRCNno4aDcxSEwzeDZPb0x2RjZqVVU2bzItOUVFNFdDRDdJa0dhaW8ydGFfTmF6clBmellFdFJ2cnJVdkc4aUtnMFRDdEtFUEJ5TUVBVi1ONTVuTmhlQk5CQnNRbVNNSW91NWNHWWFqRWxyQ29JQkI2OW03S3p4d0xzOUJjS1B2b0ktcWRTdjN3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report - bnnbloomberg.ca",
+      "excerpt": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report bnnbloomberg.ca",
+      "cat": "National defence"
+    },
+    {
+      "id": "07a66ee9e612691b",
+      "date": "2026-09-23",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/joint-statement-on-protecting-progress-and-renewing-resolve-ending-child-early-and-forced-marriage.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada commits to ending child, early and forced marriage",
+      "sum": "The federal government released a joint statement reaffirming its commitment to eliminating child, early and forced marriage. The statement emphasizes the importance of girls' rights to education, leadership, and self-determination.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "ac6bdd9819a02504",
+      "date": "2026-09-23",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/declaration-commune-sur-la-preservation-des-acquis-et-le-renouvellement-de-notre-determination--mettre-fin-aux-mariages-denfants-precoces-et-forces.html",
+      "type": "International agreement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Déclaration commune pour mettre fin aux mariages d'enfants",
+      "sum": "Le gouvernement du Canada a signé une déclaration commune visant à préserver les progrès réalisés et à renouveler l'engagement à mettre fin aux mariages d'enfants, précoces et forcés. La déclaration affirme que chaque fille a le droit d'apprendre, de diriger et de faire ses propres choix.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "f759183d47f3e358",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CLXlQLU93eVhnUW14aHpnbWlPX0pNcTQwSFJfRUx2UExCRVpITmhFa2M3WlVMRzNId3pZQUt3QzRXX01YLUZWcF9ERUsybnFXXy1ZeVJOMTc2THBCUjBodWRfSy1DcW05ZUNNUEdVc1p0Yms?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s Bill C-39 overhauls environmental reviews and Indigenous consultation - The Narwhal",
+      "excerpt": "Carney’s Bill C-39 overhauls environmental reviews and Indigenous consultation The Narwhal",
+      "cat": "Sustainable development"
+    },
     {
       "id": "1fbbd9eef5c3847a",
       "date": "2026-09-23",
@@ -4293,6 +4343,18 @@
       "cat": "Finance"
     },
     {
+      "id": "abdb85b166793ded",
+      "date": "2026-09-15",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDZ4ZmdZUDZjN19SS2VlV2kwaWVDY0FLSDNGVTFucTBHc2xhVTVsYUE3YWFuUlBmNk1NTUp5ZXR3RVQ5ZnIzTWtHdDU1QzdLeHBJVmZvT3NsS3JYeE9DTmpyaE5GZjNmX1NGa3k0emhzU2xVTmU5RC0yMkxPOFEtVDJfdTE1T3hLbmN0Mkl1bFpzQ1M1V2JxOXAtaTJpVFFXUkU3OXQwU2VKRG0yZlZGdDh1XzNieXU1TXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney présente la nouvelle Mégadéduction à la productivité pour consolider la position du Canada comme pays le plus concurrentiel du G7 pour les nouveaux investissements des entreprises - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney présente la nouvelle Mégadéduction à la productivité pour consolider la position du Canada comme pays le plus concurrentiel du G7 pour les nouveaux investissements des entreprises pm.gc.ca",
+      "cat": "Intergovernmental affairs"
+    },
+    {
       "id": "5c5de8e5713a6eb1",
       "date": "2026-09-15",
       "src": "Canadian politics (via Google News)",
@@ -7106,6 +7168,18 @@
       "lang": "en",
       "title": "Canada still studying Trump's latest trade attack: Carney - Castanet",
       "excerpt": "Canada still studying Trump's latest trade attack: Carney Castanet",
+      "cat": "Economy"
+    },
+    {
+      "id": "2a303fc4ee911a9c",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd1RwU2ZJUDB3UUhpR2RweHdka3B4UHg3bk9TZXpGaGYtUENWVHppNFBOWFFEbFZMeVlCdzFMTzE2aF9MRlY5QXlMM3BIbU04bVY4VVRDaF9Fa1YwYXp4a2dPWDg0dnlQampTMTVEYXdwWXE1MXRZRzZjTFhOTG5SZ2xsZTJIZHBKREZpbWsyRHBMSE5fUUlNazExYVQ3bUx6TU53UVhYY3JrVlBoTHVwalBCdWhDQlR2X1lhRUNiNGU2NG5DMVhjbHBad0JJczZHeHN2QnhjSEs?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney, Zelenskyy sign 100-year deal, Canada pledges to build millions of drones - CTV News",
+      "excerpt": "PM Carney, Zelenskyy sign 100-year deal, Canada pledges to build millions of drones CTV News",
       "cat": "Economy"
     },
     {
@@ -193482,84 +193556,6 @@
       "title": "Évasion d'un détenu à l'Établissement Archambault",
       "sum": "Le 22 juin 2025, le personnel de l'unité à sécurité minimale de l'Établissement Archambault a découvert que le détenu Richard Plourde s'était évadé lors du dénombrement de 23 h.",
       "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "f1f85e3c7acadfbf",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2025/06/le-ministre-hodgson-prononcera-un-discours-douverture-a-toronto.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Hodgson prononce discours à Toronto",
-      "sum": "Le ministre de l'Énergie et des Ressources naturelles prononcera un discours d'ouverture à la Chambre de commerce de la région de Toronto et participera à une discussion informelle.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "4357e741b7ac3d97",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/06/evasion-de-letablissement-de-stony-mountain-unite-a-securite-minimale.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Évasion à l'établissement de Stony Mountain en juin 2025",
-      "sum": "Le 23 juin 2025, un détenu nommé Jason David Vanwyck s'est échappé de l'unité à sécurité minimale de l'établissement fédéral de Stony Mountain. Le personnel de l'établissement a découvert son absence.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "ec4ff15015ff7df5",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/06/saisie-dobjets-interdit-a-letablissement-de-bath.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Saisie d'objets interdits à l'Établissement de Bath",
-      "sum": "Le 17 juin 2025, un colis contenant des objets interdits a été saisi à l'Établissement de Bath, un établissement correctionnel fédéral de sécurité moyenne. Cette saisie a été possible grâce à la vigilance du personnel de l'établissement.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "004b4344e4915397",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-prairies/nouvelles/2025/06/la-ministre-olszewski-annoncera-un-appui-visant-a-ameliorer-la-productivite-des-entreprises-en-alberta.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada annonce des investissements pour la productivité albertaine",
-      "sum": "La ministre Olszewski annoncera des investissements fédéraux destinés à améliorer la compétitivité et la productivité des entreprises albertaines dans des secteurs comme la fabrication et l'agroalimentaire.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "3a9cbe94789dcbdf",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2025/06/le-canada-poursuit-ses-efforts-pour-ameliorer-les-ressources-humaines-et-la-paye-et-soutenir-les-fonctionnaires-federaux.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada améliore les ressources humaines et la paye des fonctionnaires",
-      "sum": "Le gouvernement du Canada s'engage à soutenir ses employés et à résoudre les problèmes de paye en suspens. Il travaille également à améliorer l'expérience globale offerte aux fonctionnaires concernant les ressources humaines et la paye.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "e210ef6fb0a8b8d6",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/06/avis-aux-medias--annonce-en-matiere-dinfrastructure-a-quebec.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce d'infrastructure à Québec avec ministres fédéraux",
-      "sum": "Le gouvernement fédéral tiendra une conférence de presse à Québec pour annoncer une initiative en infrastructure. Plusieurs élus fédéraux et représentants d'organismes participeront à cet événement.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]

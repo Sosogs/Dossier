@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-23T21:14:03.967Z",
+  "generatedAt": "2026-09-24T03:41:16.149Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7941,
+      "actions": 7945,
       "sources": 9
     },
     "fr": {
-      "actions": 7059,
+      "actions": 7055,
       "sources": 7
     }
   },
@@ -44,6 +44,56 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ddaf7098be612253",
+      "date": "2026-09-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbmo0X2hIT09ZTTlrdWV2d1lYcVpyZS1PRVE2NVA4bGNvTElXSURISHBVVjdYcW45dnNHeVRsSjJJTUhmbXBHT3B6Z040RVJYc0pJejNhTGpkVVk2M2hEMVpEaHRCNno4aDcxSEwzeDZPb0x2RjZqVVU2bzItOUVFNFdDRDdJa0dhaW8ydGFfTmF6clBmellFdFJ2cnJVdkc4aUtnMFRDdEtFUEJ5TUVBVi1ONTVuTmhlQk5CQnNRbVNNSW91NWNHWWFqRWxyQ29JQkI2OW03S3p4d0xzOUJjS1B2b0ktcWRTdjN3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report - bnnbloomberg.ca",
+      "excerpt": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report bnnbloomberg.ca",
+      "cat": "National defence"
+    },
+    {
+      "id": "07a66ee9e612691b",
+      "date": "2026-09-23",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/joint-statement-on-protecting-progress-and-renewing-resolve-ending-child-early-and-forced-marriage.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada commits to ending child, early and forced marriage",
+      "sum": "The federal government released a joint statement reaffirming its commitment to eliminating child, early and forced marriage. The statement emphasizes the importance of girls' rights to education, leadership, and self-determination.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "ac6bdd9819a02504",
+      "date": "2026-09-23",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/declaration-commune-sur-la-preservation-des-acquis-et-le-renouvellement-de-notre-determination--mettre-fin-aux-mariages-denfants-precoces-et-forces.html",
+      "type": "International agreement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Déclaration commune pour mettre fin aux mariages d'enfants",
+      "sum": "Le gouvernement du Canada a signé une déclaration commune visant à préserver les progrès réalisés et à renouveler l'engagement à mettre fin aux mariages d'enfants, précoces et forcés. La déclaration affirme que chaque fille a le droit d'apprendre, de diriger et de faire ses propres choix.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "f759183d47f3e358",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CLXlQLU93eVhnUW14aHpnbWlPX0pNcTQwSFJfRUx2UExCRVpITmhFa2M3WlVMRzNId3pZQUt3QzRXX01YLUZWcF9ERUsybnFXXy1ZeVJOMTc2THBCUjBodWRfSy1DcW05ZUNNUEdVc1p0Yms?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s Bill C-39 overhauls environmental reviews and Indigenous consultation - The Narwhal",
+      "excerpt": "Carney’s Bill C-39 overhauls environmental reviews and Indigenous consultation The Narwhal",
+      "cat": "Sustainable development"
+    },
     {
       "id": "1fbbd9eef5c3847a",
       "date": "2026-09-23",
@@ -4303,6 +4353,18 @@
       "cat": "Finance"
     },
     {
+      "id": "abdb85b166793ded",
+      "date": "2026-09-15",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDZ4ZmdZUDZjN19SS2VlV2kwaWVDY0FLSDNGVTFucTBHc2xhVTVsYUE3YWFuUlBmNk1NTUp5ZXR3RVQ5ZnIzTWtHdDU1QzdLeHBJVmZvT3NsS3JYeE9DTmpyaE5GZjNmX1NGa3k0emhzU2xVTmU5RC0yMkxPOFEtVDJfdTE1T3hLbmN0Mkl1bFpzQ1M1V2JxOXAtaTJpVFFXUkU3OXQwU2VKRG0yZlZGdDh1XzNieXU1TXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney présente la nouvelle Mégadéduction à la productivité pour consolider la position du Canada comme pays le plus concurrentiel du G7 pour les nouveaux investissements des entreprises - pm.gc.ca",
+      "excerpt": "Le premier ministre Carney présente la nouvelle Mégadéduction à la productivité pour consolider la position du Canada comme pays le plus concurrentiel du G7 pour les nouveaux investissements des entreprises pm.gc.ca",
+      "cat": "Intergovernmental affairs"
+    },
+    {
       "id": "5c5de8e5713a6eb1",
       "date": "2026-09-15",
       "src": "Canadian politics (via Google News)",
@@ -7116,6 +7178,18 @@
       "lang": "en",
       "title": "Canada still studying Trump's latest trade attack: Carney - Castanet",
       "excerpt": "Canada still studying Trump's latest trade attack: Carney Castanet",
+      "cat": "Economy"
+    },
+    {
+      "id": "2a303fc4ee911a9c",
+      "date": "2026-09-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd1RwU2ZJUDB3UUhpR2RweHdka3B4UHg3bk9TZXpGaGYtUENWVHppNFBOWFFEbFZMeVlCdzFMTzE2aF9MRlY5QXlMM3BIbU04bVY4VVRDaF9Fa1YwYXp4a2dPWDg0dnlQampTMTVEYXdwWXE1MXRZRzZjTFhOTG5SZ2xsZTJIZHBKREZpbWsyRHBMSE5fUUlNazExYVQ3bUx6TU53UVhYY3JrVlBoTHVwalBCdWhDQlR2X1lhRUNiNGU2NG5DMVhjbHBad0JJczZHeHN2QnhjSEs?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney, Zelenskyy sign 100-year deal, Canada pledges to build millions of drones - CTV News",
+      "excerpt": "PM Carney, Zelenskyy sign 100-year deal, Canada pledges to build millions of drones CTV News",
       "cat": "Economy"
     },
     {
@@ -10140,81 +10214,6 @@
       "sum": "Le ministre Miller fera une annonce à Calgary au sujet de la sécurité des enfants sur internet. Le gouvernement du Canada présente des mesures pour protéger les enfants en ligne.",
       "cat": "Public safety",
       "ai": true
-    },
-    {
-      "id": "286d709e2ed35974",
-      "date": "2026-09-08",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/garde-cotiere-canadienne/nouvelles/2026/09/ceremonie-dinauguration-du-ngcc-judy-lamarsh-a-prescott-en-ontario.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Inauguration du navire Judy LaMarsh à Prescott",
-      "sum": "Une cérémonie d'inauguration du Navire de la Garde côtière canadienne Judy LaMarsh se déroulera à Prescott, en Ontario. Les représentants des médias sont invités à y assister.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "07f3f4d0fd19af4e",
-      "date": "2026-09-08",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/declaration-commune-des-ministres-des-affaires-etrangeres-du-canada-de-lespagne-du-danemark-de-la-finlande-de-la-france-de-lislande-de-lirlande-de-.html",
-      "type": "International agreement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Douze pays déclarent soutenir des restrictions commerciales contre les colonies de peuplement",
-      "sum": "Le Canada et onze autres pays ont annoncé leur intention d'imposer des restrictions commerciales nationales ou européennes sur les biens provenant des colonies de peuplement illégales selon le droit international. Cette déclaration commune des ministres des affaires étrangères vise à soutenir une solution à deux États.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "e144fdf433298972",
-      "date": "2026-09-08",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/09/le-gouvernement-federal-investit-dans-les-infrastructures-de-transport-actif-a-conception-bay-south.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le gouvernement fédéral investit dans les infrastructures de transport actif",
-      "sum": "Le gouvernement fédéral investit plus d'un million de dollars pour améliorer les infrastructures récréatives et les sentiers à Conception Bay South, notamment au parc Worsley, à Topsail Beach, à Lawrence Pond et au sentier CBS T'Railway.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "9161565c12e1507f",
-      "date": "2026-09-08",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CR0NTQUd1LU5hNHY3MEh1S1hmakc4Szg5TXkwU2hKYXJhZXVJbExaejE0TzJTc0d1Qm9SWmFKT2U4bkpLcU1DLTZ6cmRlaDNXS2xVS2ljME52ekZibUJpNHhDVFBNZ2h3eTNUZVVqOGRwZk83SmNwYXdkRklPc0E?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney warns of tough times ahead in national address as retaliatory tariffs kick in - CBC",
-      "excerpt": "Carney warns of tough times ahead in national address as retaliatory tariffs kick in CBC",
-      "cat": "Economy"
-    },
-    {
-      "id": "333d31d846be53fe",
-      "date": "2026-09-08",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdDhubVRLWEg1NGd1UEdoWUZHRHdVN2d5Q1VmUUZ6NFdqM0RRUTJ3eUtDVm9takE4RU5Lblcta29QakRIMnRaRGN6aXptR29iemJmc2pGaEs2WjBXdktROU9NcEpZUnAxZ1hnWW4wWDFPdXl2ajYyV2RlQktPbTBLYXc5SC1pRVZCS1Ffd2lmdVN2d3J0UXZsRy1hZHpvdkowM0dJTDh6RFI0RlY5UU1kOVdGQWd0RXVmQWZaWi1QcUtWMHhlN0xkNUktU3pneHNVcHF0eElxX3lTRmNIMTc2OV9mOGdOSmlFXzFaMUFnazdtcXVJVTlVdTlTaDVaMUpOZ1NjenI1Wlp1UVNkRVE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Mark Carney says Canada’s future ‘won’t be decided in Washington’ as counter-tariffs kick in - Toronto Star",
-      "excerpt": "Mark Carney says Canada’s future ‘won’t be decided in Washington’ as counter-tariffs kick in Toronto Star",
-      "cat": "Economy"
-    },
-    {
-      "id": "5280b612dfa59a16",
-      "date": "2026-09-08",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONTVwdVQ2NVZuUl9JSjJaR1B3aWtveVFpRjZ0U0h0bWtOOVFCQm9oaGJDX0RzdUNNZkNVUEJMVFJ4Ylo5MmJZdU1rM0NpVmlQcThSVk1IWXhpNnVFYXktS1lUbHg1anJUYThHeUROSVdnajBBOU5lNHY3NU5taUdfQ29Xc21xb3VXTm41ZzRnMlNfaHBTbVBweEVoUjJWNTJXTW15U2tkd1FVbmQ0aE55by01NjdkUQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Canada holds first defence co-ordination talks with China in more than eight years - The Globe and Mail",
-      "excerpt": "Canada holds first defence co-ordination talks with China in more than eight years The Globe and Mail",
-      "cat": "National defence"
     }
   ]
 }
