@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T03:41:16.149Z",
+  "generatedAt": "2026-09-24T11:18:03.337Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "10cbf43eef7a5213",
+      "date": "2026-09-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmpyWU4xdnhPMFVib0hzMHRJYS01eU1TN04xbXpybkxuVXprNnNNN2ZKV1pIYjJGYXhwNFNXU2ZuYzZoQS10Z2xQNzJHR2E0b1VNVW5oQlpqT2xVSUF5WkcwM25CWHVicmN3TE1UN3hOcHNtSVJQbUlNWS1zZEhHZDlncHo2cF8zWmtrQzFNcTl0TlNTdkxCZQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney's sweeping new bill sparks backlash over environmental rollbacks - Canada's National Observer",
+      "excerpt": "Carney's sweeping new bill sparks backlash over environmental rollbacks Canada's National Observer",
+      "cat": "Sustainable development"
+    },
     {
       "id": "ddaf7098be612253",
       "date": "2026-09-24",
@@ -469,6 +481,18 @@
       "title": "Do it like a banker. How Mark Carney is pitching Canada to global investors - Defence24.com",
       "excerpt": "Do it like a banker. How Mark Carney is pitching Canada to global investors Defence24.com",
       "cat": "National defence"
+    },
+    {
+      "id": "3297e3505ea37f7c",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNTBUSGZVdVJoRmJzRFlSb0pNSFNxVUdKdlhUNUZQYVlfcVNBeTZ1cFczUUttMThkckNpclpPY3JFZVNFT1BYVUFhWldnTnZlRmdBNWRsdEtrOXhwM1lrN2VqRnp2UnYtMFJlS3RsVWhFaERRMjV2MFBuNEE0ZnlVMEI5MFVXcEtRVk5pS25EOERrN2Zrdmc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Manitoba premier prefers no airport privatization, says no to rich receiving money to run Richardson - CBC",
+      "excerpt": "Manitoba premier prefers no airport privatization, says no to rich receiving money to run Richardson CBC",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "008ea1bc62987f82",
@@ -193529,32 +193553,6 @@
       "lang": "en",
       "title": "Contraband seized at Drummond Institution",
       "sum": "Staff at Drummond Institution, a medium security federal prison, seized a package containing contraband and unauthorized items on June 14, 2025.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "f742e0081708c364",
-      "date": "2025-06-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/06/recapture-of-inmate-from-archambault-institution--minimum-security-unit.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Escaped inmate recaptured at Archambault Institution",
-      "sum": "Inmate Richard Plourde, who had escaped from the minimum-security unit at Archambault Institution, was apprehended by the Sûreté du Québec on June 23, 2025 at approximately 3:40 p.m.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "5d744f2ae376b3b2",
-      "date": "2025-06-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/06/evasion-de-letablissement-archambault-unite-a-securite-minimale.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Évasion d'un détenu à l'Établissement Archambault",
-      "sum": "Le 22 juin 2025, le personnel de l'unité à sécurité minimale de l'Établissement Archambault a découvert que le détenu Richard Plourde s'était évadé lors du dénombrement de 23 h.",
       "cat": "Justice",
       "ai": true
     }
