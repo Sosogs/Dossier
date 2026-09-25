@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T03:57:29.160Z",
+  "generatedAt": "2026-09-25T11:23:19.858Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -71,6 +71,42 @@
       "title": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments - CTV News",
       "excerpt": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments CTV News",
       "cat": "National defence"
+    },
+    {
+      "id": "7f5ba4a2e6e21524",
+      "date": "2026-09-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2VubHY0T0c4WHNBZ0Y0TUlzMGZBZWZpeHhpNTRxU2oyVEtMRHhjbVMzMHpKMXAybnNZQS1PYTRzNnB2NWJSalBFV2FGajlrdzZ6cmVjSmwzaEhBV3U2MWt3REU5TXl0clNWTGVyVVFIcjlWSDR6UVR4cDl2anJkT3VDNUNYWVNFZ3FuYg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Is Mark Carney a climate denier? - Canada's National Observer",
+      "excerpt": "Is Mark Carney a climate denier? Canada's National Observer",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "5ffd824d39a246c0",
+      "date": "2026-09-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlNzMHlVOGZRV2xOWGQyVnFxOFlQMHBrS3RUbHk2dnZLQS1VQUZzWVJSSmlPa2FuNVdPMURBZnhJTWZHMy1INWgzMkdYeWZMTjM4V2RqOG9ZakJBdTVFRkdRV1Fva0xFRnB5OUZjUDlmTzIyTmN3SUFiWEZXSVcySk5PQ2dTN2VpQ25RM1oxTzlid3ZCRmdnME5uLVlCYlhUTGFBXy1SM3k5U3VnOW92cnpwczZoOEE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report - CP24",
+      "excerpt": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report CP24",
+      "cat": "National defence"
+    },
+    {
+      "id": "3269fbb41b77ff89",
+      "date": "2026-09-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFhCdzdKbDJxVkpoTDlHcV9jejFvOGF1RnB3bnI0dnhxU1Z4djloQW42MzdGbEIwRUtfb3JkNXczZC1hNXhuVXBLY3BzVHNaSnRmY1NDU1IwcjNxWEt0ckVOUHNvRkRVWlNwZ0pPMDlmcjlHVEpvS3dEQU9ZTi04YzA2Y2RLd3Naa05OZkNldnA3dmk3d2dYX3I0ZzZOV01GeUVLTXNfeklaMlpMLWRqTWxjdTVQTnIwTkJWbGhLRnNodVVRQUFpZ1gyaHFCc3NsaGtJYTdhdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada gaining perspective on airport investments from global markets: expert - Benefits Canada.com",
+      "excerpt": "Canada gaining perspective on airport investments from global markets: expert Benefits Canada.com",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "ed8441e592e140e3",
@@ -893,6 +929,30 @@
       "title": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report - bnnbloomberg.ca",
       "excerpt": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report bnnbloomberg.ca",
       "cat": "National defence"
+    },
+    {
+      "id": "a3ead5a9fba75a13",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTlGSUl2dGZ6SHloelJ1cnliVi1YeTU4NlUxNllxdFN6VjBEdFhDVUdTOUQ4YXl3dDZHaEl1MXQxenpzOU9NTkIwaWRxdUZKbHlZUkpFeWZaTUg2MEZOZFlBUUhWa1pwTWF6SnVYcmFLU09xSGh2eVFvTGJDTGxUNzUxUE5UeURZNWZwSG9KdmwwN2diV0h0UzNoalR1Z3ZkcTFaSVFrb1FKeWUxWnBCNmhtSGNFVDdPUXBUbEdmSFk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Poilievre rips Carney’s omnibus bill as Conservatives agonize over how to vote on it - National Post",
+      "excerpt": "Poilievre rips Carney’s omnibus bill as Conservatives agonize over how to vote on it National Post",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "1b898c8902868a60",
+      "date": "2026-09-23",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMk9VYW55bE5lN0t1Smh2bklBQUdJckoxM3NPcnRVMHJTM01uNkdHZUE0V1VFRE5IdFBYcDBta29CTUhnYXhtTkdkWW1GQjNmQVd1MWRDakpScjU0S0lOSXlzOWVTV2xiLTRtR2NBbzJ6X3h1SGxkUmhHaUhUT2Jmek55UEFLV1NTWTluc1JVeUxwaTltODNVak00MHp6cjJiak1JUmk4ZFdhNHR1Y0wxTU5zUVlQTE9xdXVXZQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Québec n’avait pas à être consulté sur la «mégadéduction» fédérale, estime Champagne - Le Devoir",
+      "excerpt": "Québec n’avait pas à être consulté sur la «mégadéduction» fédérale, estime Champagne Le Devoir",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "1d957f4a6195e126",
@@ -3585,6 +3645,18 @@
       "sum": "Le Tribunal canadien du commerce extérieur a mis fin à son réexamen et annulé son ordonnance de 2021 concernant les modules et laminés photovoltaïques en provenance de la Chine, qui visait à contrer le dumping et le subventionnement.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "798dd21b709b06f8",
+      "date": "2026-09-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYU1XamoxVjZLcXRmLWtHSE15RHpzOUFTb29SQ1dCdGlnSVN5TjF0NEJLN1Y2WmlGOVNvdGV4NjJRajZXTEd6UlBmeWR1a3JYUXJmUGJBaWlKUVZlb2dKOXJ3T3JtSHdiQkNlQkU3SXJ2UHhJUTZ0WW9KaGE3SFdiRlV2RHUzRmEwdm1FS3VGTEhRS3l2Z3BQYzllMXZmc2NjUWpmSWU5NzRQbHdkSjBldFc2NVZ1Qy0zRkVMeHVUeUUwbXlSbl9jaUdHN0xMN1ZtelE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government must protect endangered orcas - Ecojustice",
+      "excerpt": "Carney government must protect endangered orcas Ecojustice",
+      "cat": "Justice"
     },
     {
       "id": "38991b79b38fbf58",
@@ -193463,84 +193535,6 @@
       "title": "Government supports new AI adoption program for small businesses",
       "sum": "The Government of Canada is supporting a new AI Business Catalyst program administered by the Toronto Region Board of Trade to help small and medium-sized enterprises adopt artificial intelligence technologies.",
       "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "c3ec37aa3453c2d5",
-      "date": "2025-06-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/security-intelligence-service/news/2025/06/csis-publishes-first-annual-addressing-misconduct-and-wrongdoing-at-csis-report.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "en",
-      "title": "CSIS publishes first annual misconduct and wrongdoing report",
-      "sum": "The Canadian Security Intelligence Service (CSIS) has released its first annual report documenting misconduct and wrongdoing within the organization. The report provides transparency on internal issues and disciplinary matters.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "22cc295fbfc8d32a",
-      "date": "2025-06-26",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/parks-canada/news/2025/06/parks-canada-launches-international-design-competition-for-a-new-visitor-reception-and-community-hub-in-banff-national-park-international-design-co.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Parks Canada launches design competition for Banff visitor hub",
-      "sum": "Parks Canada is holding an international design competition to create a conceptual design for a new visitor reception and community hub in Banff National Park. The project will be located on the 200-Block of Banff Avenue.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "58e9c4f01924b549",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2025/06/le-gouvernement-du-canada-celebre-des-etapes-importantes-de-la-strategie-nationale-de-construction-navale-a-irving-shipbuilding.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada renforce sa stratégie nationale de construction navale",
-      "sum": "Le gouvernement du Canada met en œuvre sa Stratégie nationale de construction navale pour renforcer ses capacités et chaînes d'approvisionnement en construction navale. Cette initiative vise à équiper la Marine royale canadienne et la Garde côtière canadienne pour les opérations nationales et internationales.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "d81ae9c7c0abf923",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2025/06/le-gouvernement-du-canada-annonce-un-appui-financier-pour-le-festival-international-de-jazz-de-montreal-qui-celebre-son-45e-anniversaire-cet-ete.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada accorde financement au Festival International de Jazz de Montréal",
-      "sum": "Le gouvernement du Canada annonce un appui financier pour le Festival International de Jazz de Montréal à l'occasion de son 45e anniversaire. Le ministre Guilbeault a fait cette annonce de soutien financier.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "c531e4bc7287a7f3",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/06/une-enquete-de-lasfc-mene-a-des-accusations-liees-aux-armes-a-feu-et-a-la-contrefacon-pour-un-resident-de-markham-ontario.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "ASFC enquête mène accusations armes feu contrefaçon Markham",
-      "sum": "Une enquête de l'Agence des services frontaliers du Canada a conduit à des accusations contre un résident de Markham en Ontario pour des infractions liées aux armes à feu et à la contrefaçon.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "2c6abcf0788740a0",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/peches-oceans/nouvelles/2025/06/la-ministre-thompson-annoncera-un-investissement-pour-revitaliser-les-ports-pour-petits-bateaux.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Investissement annoncé pour revitaliser les ports de petits bateaux",
-      "sum": "La ministre des Pêches annoncera un investissement destiné à revitaliser les ports pour petits bateaux à Torbay, en Terre-Neuve-et-Labrador. Cet investissement vise à soutenir l'économie régionale et la pêche commerciale.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]
