@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:16:15.402Z",
+  "generatedAt": "2026-09-25T03:57:29.160Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,80 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "81d5193eb8be1642",
+      "date": "2026-09-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-to-welcome-vietnams-deputy-prime-minister-and-minister-of-national-defence.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada's Defence Minister to meet Vietnam's Defence Minister",
+      "sum": "Canada's Minister of National Defence will meet with Vietnam's Deputy Prime Minister and Minister of National Defence for a photo opportunity. The media is invited to attend.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "c7a7dbbfb42c9c39",
+      "date": "2026-09-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/09/le-ministre-mcguinty-accueillera-le-vice-premier-ministre-et-ministre-de-la-defense-nationale-du-vietnam.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre McGuinty rencontre officiel vietnamien défense",
+      "sum": "Le ministre canadien de la Défense nationale David McGuinty recevra le vice-premier ministre et ministre de la Défense nationale du Vietnam, le Général Phan Văn Giang. Les médias sont invités à couvrir une séance de photos de cette rencontre.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "5cb0226fb01a8c24",
+      "date": "2026-09-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ2FBUzF5MHJZM3FkU2Y4UjZXZHBwUFdfNTVERGVjNzJfMC1JZ2JiREpzSThmaTZjdmxvZWRmaV8yOWNPZVNlM01zUlg2eXB1cUZlak1ZM3BpMUhnNmxBWkNocURXNmFxUnVfamJiTy1LSnVqOXhZYmNvRTJvN2VSQV9WSmhGTjRGZWdtdy0wT3M3ck54bTZhOEpGZk5mUFZ3dlVuenZVaHJYcnpjcGFURUFvYXN1dWcxb2xzaGd6NlVrVEE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments - CTV News",
+      "excerpt": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments CTV News",
+      "cat": "National defence"
+    },
+    {
+      "id": "ed8441e592e140e3",
+      "date": "2026-09-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0xXOS1TekE0dVhGNkg2TXRZbFhOTV93c29fR0xJZEJCME44YTVzX1pfbGstWkNZaEhXekc4eUJXTHBwSGRNT3J4c3AtSFQ5am9mcWtKaGs2bV9GVEpPazJvRmpvN1RnZk1ha2RrOGFvb1diaFNiQ0pkbFlGQmUyV0lvUm5PTTVzWFFZLURDTGZRX3JjQS1PZEkzRHdLUkE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney will miss target for balancing operating budget, PBO says - National Post",
+      "excerpt": "Carney will miss target for balancing operating budget, PBO says National Post",
+      "cat": "Finance"
+    },
+    {
+      "id": "f928472220908ab6",
+      "date": "2026-09-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbEJURkJ4LXlfRFgxalVtUDBSV1lRQmhYRVJWMHlXaWxaTXpyVy1yYV8tYUZJQjI2TGlkcEFrRFJqTzRkbUt6cUR4bXNyeTlaWUJFNmQ2OW8xblVUbGk0UjY5d0RyVEpJSlNWNGVobzAwVU5VTjh3ZkI2SzRNaVdWX0I4WDg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney, Poilievre pay tribute to Canada Revenue Agency employee killed in Montreal - CBC",
+      "excerpt": "Carney, Poilievre pay tribute to Canada Revenue Agency employee killed in Montreal CBC",
+      "cat": "Finance"
+    },
+    {
+      "id": "61a6cd93a47ce117",
+      "date": "2026-09-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPek9taC1LVjA1Nmlsb1hqWUtTMlExa0dOZzc0YWg4akFPZTlBWjZwa3pSQ3AwbkhfbzNTUlkxM1U5dGNuVU92YzhNM0lxWmFyQ0poaUNxYTExNW5iX204OUlUYWU3RTR3VEJ1YkpNaHlsV0t0Q1dyZE5lQ1liMTh6UUJkRi1NTS1Td1lzVVFWR3NscXRvZVd0N2V3bzZNMWxvVXBZMUp6QzJKV0NMd1RBQ0tEVDJzbUZKY3QxRmpkMVR0RjJiM29SSzc5bmNaSkJTSWlLWS1RS3BuZzRPclRTV0NsaVFRcjJfWWFkT042ekVWQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government labels spending inconsistently, budget watchdog says - thestar.com",
+      "excerpt": "Carney government labels spending inconsistently, budget watchdog says thestar.com",
+      "cat": "Finance"
+    },
     {
       "id": "c3256c9f64cc01eb",
       "date": "2026-09-24",
@@ -819,6 +893,18 @@
       "title": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report - bnnbloomberg.ca",
       "excerpt": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report bnnbloomberg.ca",
       "cat": "National defence"
+    },
+    {
+      "id": "1d957f4a6195e126",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZm9aWnVRMXNqOXVXLXNKeWw0SHdYdWE1TFFjQVYtYjM2dmlRSjRZZWczR2ZEWE9EdmJVRmU1dGVfQnBxUmJWQ0trMTduMkdVbzRaU1hSQzE4XzhJTDlueTVKRG5nU3k5M3dGMWN6enUtaGhxV28xWmQ0M3pZcnNHcmlxVlVOTXZhWVA3c2hKdnAzdHd6S3pGczM0SllQbzNONWY4NjdvWWthWUxL?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney pledges $82 million for ocean monitoring initiative at UN - CTV News",
+      "excerpt": "PM Carney pledges $82 million for ocean monitoring initiative at UN CTV News",
+      "cat": "Economy"
     },
     {
       "id": "937525032dfb61f9",
@@ -9884,6 +9970,18 @@
       "lang": "en",
       "title": "Mark Carney warns Canadians of tough days ahead as trade war spirals again - Moneycontrol.com",
       "excerpt": "Mark Carney warns Canadians of tough days ahead as trade war spirals again Moneycontrol.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "c935bb8263b10f38",
+      "date": "2026-09-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaEk1T25RY1kxWHBmc1VUbkNEMU5kbFV1T080ZDVLZ2tvWHVhTGc1YTFVOVl4LUdNelY1N1Q3LWc3ZnJaY3ZXTF9rYXdjdkJKbHVManM1dFo1cVdUQk14YVg3U0llODNaWjJVS2t6MVZRRnowa2dUX2x2SzZCSWxEcmhjU2taVzFCZGs4aWs0b2l0XzNYRTU0TXlzM0pXLXQ1cXgwOGZjeFdabmNJZXNNWnBmdXRMYlctUm1pOVN3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney warns of tough times ahead in national address as retaliatory tariffs kick in - iPolitics",
+      "excerpt": "Carney warns of tough times ahead in national address as retaliatory tariffs kick in iPolitics",
       "cat": "Economy"
     },
     {
@@ -193443,110 +193541,6 @@
       "title": "Investissement annoncé pour revitaliser les ports de petits bateaux",
       "sum": "La ministre des Pêches annoncera un investissement destiné à revitaliser les ports pour petits bateaux à Torbay, en Terre-Neuve-et-Labrador. Cet investissement vise à soutenir l'économie régionale et la pêche commerciale.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "a62402c4ec78119d",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/06/le-gouvernement-federal-et-la-municipalite-de-casselman-investissent-dans-le-parc-a-vol-doiseau.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Gouvernement fédéral et Casselman financent un parc aviaire",
-      "sum": "Le gouvernement fédéral et la Municipalité de Casselman investissent conjointement 1 million de dollars pour créer le parc À vol d'oiseau, un espace vert dédié à la faune aviaire.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "f4dc726348321867",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2025/06/message-du-ministre-guilbeault-a-la-population-canadienne-a-loccasion-de-la-fete-du-canada-2025.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Guilbeault adresse un message à l'occasion de la fête du Canada 2025",
-      "sum": "Le ministre Guilbeault a publié un message à la population canadienne pour la fête du Canada 2025, invitant les Canadiens à célébrer ensemble l'unité et la fierté nationale.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "abbc215a7248d000",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/06/fin-de-lisolement-cellulaire-et-de-la-fouille-au-penitencier-de-dorchester---unite-a-securite-moyenne.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Fin de l'isolement cellulaire au Pénitencier de Dorchester",
-      "sum": "L'isolement cellulaire et la fouille exceptionnelle imposés à l'unité à sécurité moyenne du Pénitencier de Dorchester le 9 juin 2025 prennent fin. L'établissement reprend ses opérations normales et les visites sont rétablies.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "d26b53d20491232a",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2025/06/lontario-renforce-le-secteur-provincial-de-lelevage-des-bovins.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Ontario investissent dans l'élevage bovin ontarien",
-      "sum": "Les gouvernements du Canada et de l'Ontario investissent jusqu'à 5 millions de dollars pour améliorer la productivité et la résilience des pâturages communautaires en Ontario.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "ebe6ecae1a6f1efc",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/06/apprehension-dun-detenu-de-letablissement-de-stony-mountain--unite-a-securite-minimale.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Appréhension d'un détenu à l'établissement Stony Mountain",
-      "sum": "Le détenu Jason Vanwyck a été appréhendé par le service de police de Winnipeg le 25 juin 2025 à environ 20 h 30 à l'établissement de Stony Mountain, une unité à sécurité minimale.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "2b33ddd80a0672ce",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-sud-ontario/nouvelles/2025/06/le-gouvernement-du-canada-soutient-un-nouveau-programme-catalyseur-daffaires-en-intelligence-artificielle.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada soutient nouveau programme d'affaires en intelligence artificielle",
-      "sum": "Le gouvernement du Canada appuie un programme catalyseur destiné à aider les petites et moyennes entreprises à adopter la technologie de l'intelligence artificielle. Ce programme est mis en œuvre par la Toronto Region Board of Trade.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "82ed68b8c1b029af",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-renseignement-securite/nouvelles/2025/06/le-scrs-publie-son-premier-rapport-annuel-sur-linconduite-et-les-actes-reprehensibles.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "fr",
-      "title": "SCRS publie son premier rapport annuel sur l'inconduite",
-      "sum": "Le Service canadien du renseignement de sécurité a publié son premier rapport annuel documentant les cas d'inconduite et les actes répréhensibles au sein de l'organisation. Ce rapport vise à assurer la transparence et la responsabilité.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "e3fcef1a8db59df4",
-      "date": "2025-06-26",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2025/06/parcs-canada-lance-un-concours-international-darchitecture-pour-creer-un-nouveau-centre-daccueil-et-de-rassemblement-communautaire-dans-le-parc-nat.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Parcs Canada lance concours architecture centre Banff",
-      "sum": "Parcs Canada organise un concours international d'architecture pour concevoir un nouveau centre d'accueil et de rassemblement communautaire au parc national Banff. Le concours sélectionnera un concept pour le réaménagement du pâté de maisons 200 de l'avenue Banff.",
-      "cat": "Culture & heritage",
       "ai": true
     }
   ]
