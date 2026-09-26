@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-26T10:59:02.004Z",
+  "generatedAt": "2026-09-26T15:59:21.430Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7957,
+      "actions": 7961,
       "sources": 9
     },
     "fr": {
-      "actions": 7043,
+      "actions": 7039,
       "sources": 7
     }
   },
@@ -44,6 +44,56 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "33af0102a60d7601",
+      "date": "2026-09-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-sidhu-and-germanys-minister-for-foreign-affairs-discuss-economic-cooperation.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada and Germany discuss economic cooperation and trade",
+      "sum": "Minister of International Trade Maninder Sidhu met with Germany's Foreign Affairs Minister Johann Wadephul in Ottawa to discuss economic relations between the two countries. The discussion included representatives from companies and initiatives focused on critical minerals and hydrogen energy.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "0d1a4e2b9f15b4d9",
+      "date": "2026-09-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-ministre-sidhu-et-le-ministre-des-affaires-etrangeres-de-lallemagne-abordent-la-question-de-la-cooperation-economique.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et Allemagne discutent de coopération économique",
+      "sum": "Le ministre canadien du Commerce international a rencontré son homologue allemand pour discuter des relations économiques entre les deux pays. La rencontre visait à explorer les opportunités de coopération entre le Canada et l'Allemagne.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "b47414aa98d12016",
+      "date": "2026-09-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbjRpcWJBUWhyUnBpWDBSRmM0WkFDb0x5eWtxQTYtNXBHU3c1eVhmZ3pmMG9COHNDdUlGMnRPRmtJenNkS3puRmpCbmFaWElPbFJsQXlHb2wyME5mUlBrUUJlSGtkRjZ3Z2VUSGtEdFlWNUVvSlFDYXowNFk0VjlxWEUtQllBd3ZFREVpSGktRUxvODZwY0VBLVpjeEZtLU1XQWRrZnNmcGx0YnBwQ3picGhVcDdkZ3NkcV9ZcnV0OW0wTkd5RVRkT3k4THFKNm5sLWU5S2VR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "JAY GOLDBERG: Carney’s Building Canada Strong Act sign Ottawa getting serious about economic growth - calgarysun.com",
+      "excerpt": "JAY GOLDBERG: Carney’s Building Canada Strong Act sign Ottawa getting serious about economic growth calgarysun.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "2db148f33a5b7f93",
+      "date": "2026-09-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JOFRzXzBmWHJQVTJXX1ZZUnNadjFjb3M5R1EzSmdUZVVLRFVKcHplTUp6OWRRa25xNGFVYjc2Y0xKSXFad1BUMFBxNktLS29NTnRURjRad1MwdjdWTU9MbTB2M0U3RkVMQm5wVENrcWt6VThuTFhWSnRwd2dzcFE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Lorne Gunter: Carney Liberals play fast and loose with federal books - Yahoo News Canada",
+      "excerpt": "Lorne Gunter: Carney Liberals play fast and loose with federal books Yahoo News Canada",
+      "cat": "Economy"
+    },
     {
       "id": "dd745ca196621193",
       "date": "2026-09-25",
@@ -10150,58 +10200,6 @@
       "title": "Financement pour soutenir les travailleurs spécialisés à Edmonton",
       "sum": "Le secrétaire d'État Zerucelli annonce un financement destiné à appuyer les travailleurs spécialisés à Edmonton. Cette mesure vise à renforcer le soutien offert à ce groupe de travailleurs.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "35087f833698575b",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-intergouvernementales/nouvelles/2026/09/le-secretaire-parlementaire-louis-souligne-la-prolongation-de-lallegement-de-la-taxe-daccise-federale-sur-lessence-le-combustible-diesel-et-les-car.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Prolongation de l'allègement de la taxe d'accise fédérale sur les carburants",
-      "sum": "Le gouvernement fédéral prolonge la suspension temporaire de la taxe d'accise sur l'essence, le diesel et les carburants d'aviation. Cette mesure s'applique aux Canadiens et aux Canadiennes.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "c4ba9dd21ce8281a",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/09/saisies-dobjets-interdits-et-non-autorises-a-letablissement-de-drumheller.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Objets interdits saisis à l'Établissement de Drumheller",
-      "sum": "Le 3 septembre 2026, du personnel de l'Établissement de Drumheller a saisi des colis contenant des objets interdits et non autorisés.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "e8fb89b47b9f9a4a",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/la-secretaire-detat-belanger-souligne-la-prolongation-de-lallegement-de-la-taxe-daccise-federale-sur-le-carburant.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Prolongation de l'allègement de taxe d'accise sur carburant",
-      "sum": "Le gouvernement fédéral prolonge sa mesure de réduction de la taxe d'accise sur le carburant. Cette prolongation maintient une réduction de 10 cents par litre d'essence et 4 cents par litre de diesel pour les consommateurs.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "87dc48e4b84d28a9",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/09/le-gouvernement-du-canada-investit-dans-la-prevention-du-crime-chez-les-jeunes-a-edmonton.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada finance la prévention du crime chez les jeunes à Edmonton",
-      "sum": "Le gouvernement du Canada annonce un investissement de 2,2 millions de dollars pour soutenir un projet de prévention de la criminalité chez les jeunes à Edmonton par l'intermédiaire du Fonds d'action pour la prévention du crime.",
-      "cat": "Public safety",
       "ai": true
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:59:02.004Z",
+  "generatedAt": "2026-09-26T15:59:21.430Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,56 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "33af0102a60d7601",
+      "date": "2026-09-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-sidhu-and-germanys-minister-for-foreign-affairs-discuss-economic-cooperation.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada and Germany discuss economic cooperation and trade",
+      "sum": "Minister of International Trade Maninder Sidhu met with Germany's Foreign Affairs Minister Johann Wadephul in Ottawa to discuss economic relations between the two countries. The discussion included representatives from companies and initiatives focused on critical minerals and hydrogen energy.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "0d1a4e2b9f15b4d9",
+      "date": "2026-09-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-ministre-sidhu-et-le-ministre-des-affaires-etrangeres-de-lallemagne-abordent-la-question-de-la-cooperation-economique.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada et Allemagne discutent de coopération économique",
+      "sum": "Le ministre canadien du Commerce international a rencontré son homologue allemand pour discuter des relations économiques entre les deux pays. La rencontre visait à explorer les opportunités de coopération entre le Canada et l'Allemagne.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "b47414aa98d12016",
+      "date": "2026-09-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbjRpcWJBUWhyUnBpWDBSRmM0WkFDb0x5eWtxQTYtNXBHU3c1eVhmZ3pmMG9COHNDdUlGMnRPRmtJenNkS3puRmpCbmFaWElPbFJsQXlHb2wyME5mUlBrUUJlSGtkRjZ3Z2VUSGtEdFlWNUVvSlFDYXowNFk0VjlxWEUtQllBd3ZFREVpSGktRUxvODZwY0VBLVpjeEZtLU1XQWRrZnNmcGx0YnBwQ3picGhVcDdkZ3NkcV9ZcnV0OW0wTkd5RVRkT3k4THFKNm5sLWU5S2VR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "JAY GOLDBERG: Carney’s Building Canada Strong Act sign Ottawa getting serious about economic growth - calgarysun.com",
+      "excerpt": "JAY GOLDBERG: Carney’s Building Canada Strong Act sign Ottawa getting serious about economic growth calgarysun.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "2db148f33a5b7f93",
+      "date": "2026-09-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JOFRzXzBmWHJQVTJXX1ZZUnNadjFjb3M5R1EzSmdUZVVLRFVKcHplTUp6OWRRa25xNGFVYjc2Y0xKSXFad1BUMFBxNktLS29NTnRURjRad1MwdjdWTU9MbTB2M0U3RkVMQm5wVENrcWt6VThuTFhWSnRwd2dzcFE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Lorne Gunter: Carney Liberals play fast and loose with federal books - Yahoo News Canada",
+      "excerpt": "Lorne Gunter: Carney Liberals play fast and loose with federal books Yahoo News Canada",
+      "cat": "Economy"
+    },
     {
       "id": "dd745ca196621193",
       "date": "2026-09-25",
@@ -20010,6 +20060,18 @@
       "lang": "en",
       "title": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet - The Washington Post",
       "excerpt": "Trump’s trade ‘war’ with Canada has Carney facing his biggest test yet The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "526624d1f6a23989",
+      "date": "2026-08-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNDh2TE9RbzJyY1BJMXdLMU1rN0FEaEJaT3Bsdk42cjNZTjJsanRJUEg0ZTRNeVFVVzhsWmhtVjBQcnplS1JHUV9QaVlkTG1reWFid3VVajlydkpieTFMQnRnd2M2RDBJWmdDdEFZWTVhYVBYN3N3amRSWGVtSWhCcGVPbno4RU9KMXZlRVR4b3dxWWhBelZTR2o4NlBBQnFyblI1c0hLdjBlU1JyWkFBN2wzbFBUb3NOOXpaQjdaU3RGbkdWZHE1dENyNkI2OUF3WWNobFVGZUxCQjlxb1U3MTN5SmdDbEU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Culture Off the Table? What the Collapsed Canada-U.S. Trade Talks Reveal About the Carney Government's Cultural Policy - Michael Geist -",
+      "excerpt": "Culture Off the Table? What the Collapsed Canada-U.S. Trade Talks Reveal About the Carney Government's Cultural Policy Michael Geist -",
       "cat": "Economy"
     },
     {
@@ -193457,71 +193519,6 @@
       "title": "ASFC annonce des changements au poste frontalier Pohénégamook",
       "sum": "L'Agence des services frontaliers du Canada annonce des modifications au poste frontalier de Pohénégamook. Les détails des changements sont en cours de communication.",
       "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "dc9de618b727d79c",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/06/le-secretaire-detat-sarai-conclut-sa-participation-a-la-quatrieme-conference-internationale-sur-le-financement-du-developpement.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada participe à la Conférence internationale sur le financement du développement",
-      "sum": "Le secrétaire d'État Sarai a participé à la quatrième Conférence internationale sur le financement du développement. Le gouvernement canadien affirme que l'accès au financement du développement est important pour aider les pays à atteindre les Objectifs de développement durable.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "f2648678529308c7",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/conseil-national-recherches/nouvelles/2025/06/le-canada-et-lallemagne-concluent-une-annee-historique-de-collaboration-internationale-a-la-copresidence-du-reseau-eureka.html",
-      "type": "International agreement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Allemagne terminent coprésidence du réseau Eureka",
-      "sum": "Le Canada et l'Allemagne ont conclu une année de collaboration en tant que copresidents du réseau Eureka, un réseau public mondial de recherche et d'innovation. C'est la première fois dans l'histoire d'Eureka que deux pays se partagent cette responsabilité.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "4f2f1c90f23122a9",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/bibliotheque-archives/nouvelles/2025/06/recompenser-des-canadiennes-et-des-canadiens-remarquables--les-prix-bibliotheque-et-archives-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Bibliothèque et Archives Canada annonce les lauréats des prix 2025",
-      "sum": "Bibliothèque et Archives Canada et sa Fondation ont annoncé les noms des personnes récompensées par les prix Bibliothèque et Archives Canada 2025, qui honorent des Canadiennes et des Canadiens remarquables.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "45c0c783f06451ff",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/examen-prix-medicaments-brevetes/nouvelles/2025/06/le-cepmb-publie-les-nouvelles-lignes-directrices-pour-surveiller-et-examiner-les-prix-des-medicaments.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "CEPMB publie nouvelles lignes directrices sur les prix médicaments",
-      "sum": "Le Conseil d'examen du prix des médicaments brevetés (CEPMB) a publié de nouvelles lignes directrices pour surveiller et examiner les prix des médicaments au Canada.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "c37af218433fe5d2",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/06/document-dinformation--la-ministre-anand-annonce-un-appui-financier-pour-promouvoir-les-voix-autochtones-sur-la-scene-mondiale.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada finance les voix autochtones aux Nations Unies",
-      "sum": "La ministre des Affaires étrangères annonce un financement de 3 millions de dollars destiné au Haut-Commissariat des Nations Unies aux droits de l'homme pour soutenir la promotion des voix autochtones sur la scène mondiale.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]
