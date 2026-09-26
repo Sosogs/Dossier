@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T21:13:42.778Z",
+  "generatedAt": "2026-09-26T04:02:14.846Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7952,
+      "actions": 7957,
       "sources": 9
     },
     "fr": {
-      "actions": 7048,
+      "actions": 7043,
       "sources": 7
     }
   },
@@ -44,6 +44,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "dd745ca196621193",
+      "date": "2026-09-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-meets-with-germanys-federal-minister-for-foreign-affairs.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada's Foreign Affairs Minister meets German counterpart",
+      "sum": "Canada's Minister of Foreign Affairs met with Germany's Federal Minister for Foreign Affairs in Ottawa. The meeting took place during the German minister's visit to Canada.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "df6e2c66df721a11",
+      "date": "2026-09-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-rencontre-le-ministre-federal-des-affaires-etrangeres-de-lallemagne.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Anand rencontre son homologue allemand des Affaires étrangères",
+      "sum": "La ministre canadienne des Affaires étrangères Anita Anand a rencontré le ministre fédéral allemand des Affaires étrangères Johann Wadephul lors de sa visite au Canada le 25 septembre 2026.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "d049f0af7c2e1871",
+      "date": "2026-09-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlI4MU1qSjFGbEVJUWpQZ0VDZTdpQnJvT1QxNEZtN253QXBfd3Z3d3YzS1VEVkFZSjlEd1dfSlQ1bTdvOS1MTnVkQlM3aUJFS2pJdkQtVGFyZUlUdHQwYUdNQ1hxUzZ4U2NRRERRT2plQ04tN1Jmc2Jza1ludEdQb2dnaUk5NmpmRWV5UTV4dzBqSXJWT1ZQb2oyWUdDb3ZkZ3N2TV9TbzRZenFwUHQ5dEI0eUpJcko4dVZrSjIwSlExdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The Carney government’s labour reform is a step in the right direction: Peter Copeland in The Hub - macdonaldlaurier.ca",
+      "excerpt": "The Carney government’s labour reform is a step in the right direction: Peter Copeland in The Hub macdonaldlaurier.ca",
+      "cat": "Economy"
+    },
     {
       "id": "2d7c8c5c5efee180",
       "date": "2026-09-25",
@@ -636,6 +674,18 @@
       "lang": "en",
       "title": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments - CTV News",
       "excerpt": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments CTV News",
+      "cat": "National defence"
+    },
+    {
+      "id": "3ccd70967f2b3b18",
+      "date": "2026-09-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZzNBRS0wT3VvYkliS200elJyOFgwanZyZE1oTVZLSExrYXc5M29lUm8ydkg5ZUNoU3gwVU8ya2c4QzdzalNOVFQ2VWE0T3ZweDQzajVCMFVLVy1HOXdXY3h3YUZQMTAzMVdqbXl1cWk0enh2bGlzUGg4Y2FhaTBJNzBMS0lFYUpkVzNpZExMZEc5WUROUjIxdXhsVkZQcVRkbEtoelpqeE1XUlg0R1FPWjJvZGR2OGxNeGJHUEFyZVUzbmVhRUhGSTBHZW9FaHhrVkVVRlRoRlNIVWNvU3lrZlhKdnpEM045NEpVYTBha0pCZEpWUWJzRmRGNkRqQnI3NzNj?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Defence minister says it’s ‘normal’ to analyze ‘risk scenarios’ amid Carney’s U.S. military comments. Live updates here. - BNN Bloomberg",
+      "excerpt": "Defence minister says it’s ‘normal’ to analyze ‘risk scenarios’ amid Carney’s U.S. military comments. Live updates here. BNN Bloomberg",
       "cat": "National defence"
     },
     {
@@ -1533,6 +1583,18 @@
       "cat": "National defence"
     },
     {
+      "id": "3411fa2efa0aac2e",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ3diRHo0T19hNXlsaFpQRHhKaUZmdFprWFo1RGFpZktKUk5sUUtiRTFnS3BaME1iYzIzS1VoME9xSDJxQTFxNFFaRTNnM1VKOUJkN0F3Nlo2cjRfNEdQMVZDRzdxLWVzeHhCdWFuSWxaUFlIQ0hmdTU5Q3c5MFhaZy1GUExzcWFvTlQ1S2tZU1V4azI3NzV6YUtIRkZUUEJGWFMxN2JUd0dXNFE2QXpjM1VJdjlPR2V6cEJkXzNHeHlBOXVKd0hVcjdRUVVuNmZwcXE1ZFRFYWRsNTg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Facing criticism, Carney says he has a ’very clear mandate’ to push through major economic changes - Radio-Canada",
+      "excerpt": "Facing criticism, Carney says he has a ’very clear mandate’ to push through major economic changes Radio-Canada",
+      "cat": "Economy"
+    },
+    {
       "id": "d302e015ca984c53",
       "date": "2026-09-23",
       "src": "Canadian politics (via Google News)",
@@ -2051,6 +2113,18 @@
       "title": "Do it like a banker. How Mark Carney is pitching Canada to global investors - Defence24.com",
       "excerpt": "Do it like a banker. How Mark Carney is pitching Canada to global investors Defence24.com",
       "cat": "National defence"
+    },
+    {
+      "id": "65e15535d764b226",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmM3ank4N254S2xleXFPZ1o5WG5xMGJGdVdoUXVwS196UWZHUUI0TFRIWktVZjMwb3ltWDczWnpzUmhZbGxiNEY0V2VrRVh1ZmstX0F2enY4LXNPSU00OThNZ3g1TmpXRS1VYTNoT3FDSlQ0SlZtUzU3NHZFaWFMeHpjLVJZdzgwVVlHa0UzMnFzTjFhWUxXLUJNczZMVlR2VmVDNVR3ejhWZ21DYTNWQWxIc05FZzQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "AFN chief warns Carney against 'abusing' majority to pass major projects bill - CTV News",
+      "excerpt": "AFN chief warns Carney against 'abusing' majority to pass major projects bill CTV News",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "bc8b26bf3cb3fd22",
@@ -10129,82 +10203,6 @@
       "sum": "Le gouvernement du Canada annonce un investissement de 2,2 millions de dollars pour soutenir un projet de prévention de la criminalité chez les jeunes à Edmonton par l'intermédiaire du Fonds d'action pour la prévention du crime.",
       "cat": "Public safety",
       "ai": true
-    },
-    {
-      "id": "f2fb2369ff3cd9d6",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/09/nous-tracons-la-voie-vers-la-carboneutralite--le-canada-lance-le-plus-important-projet-de-captage-et-de-stockage-du-carbone-au-pays.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada lance son plus grand projet de captage et stockage carbone",
-      "sum": "Le Canada investit dans un projet majeur de captage et de stockage du carbone pour soutenir son secteur énergétique et contribuer à l'atteinte de la carboneutralité d'ici 2050. Ce projet vise à renforcer la position du Canada en matière d'énergie propre et d'énergie conventionnelle.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "e4967a0932fd5ac2",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/09/batir-un-canada-fort-en-investissant-dans-le-centre-communautaire-de-burke-mountain.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Investissement fédéral dans le centre communautaire Burke Mountain",
-      "sum": "Le gouvernement investit dans le centre communautaire de Burke Mountain pour développer les infrastructures modernes et soutenir l'augmentation de l'offre de logements. Cet investissement vise à renforcer la résilience des collectivités.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "997246daf9e17bc2",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-gouvernement-du-canada-investit-dans-quatre-organismes-de-toronto-voues-aux-arts-et-a-la-culture.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit dans quatre organismes culturels torontois",
-      "sum": "Le gouvernement du Canada accorde du financement à quatre organismes artistiques et culturels basés à Toronto. Cette annonce est faite par le secrétaire parlementaire Karim Bardeesy.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "4fca74ae0ec25632",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/femmes-egalite-genres/nouvelles/2026/09/la-ministre-valdez-annoncera-un-investissement-federal-visant-a-faire-progresser-lequite-menstruelle-et-a-ameliorer-labordabilite-des-produits-mens.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Investissement fédéral pour l'accessibilité des produits menstruels",
-      "sum": "La ministre Valdez annonce un investissement fédéral destiné à améliorer l'accessibilité et l'abordabilité des produits menstruels dans les collectivités canadiennes.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "69e04b3dfb99ad73",
-      "date": "2026-09-09",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXJHRVNxR2FDLXZLQks3MHNDWjNxWHFtMVlCNmgtWWpfLU9qXzBZLUNYVnlmeXA4WTRWeW1uaFpHZTJ6Y2pwN2JKRkNsVUNtMERrem1mVU1BMGhMYy1PbEJsclpVeHJQbVkyOUhoc21uZXNyLTNCTWtZcjFRc1IwZ1RSZ0NWaDBGckotR3I4WkE2a2VHcWNnLTFCRTY?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney government drops pipelines, oil and gas projects from federal Impact Assessment review - iPolitics",
-      "excerpt": "Carney government drops pipelines, oil and gas projects from federal Impact Assessment review iPolitics",
-      "cat": "Natural resources"
-    },
-    {
-      "id": "63715879fab0019d",
-      "date": "2026-09-09",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWFROck1FQ2IyanU1cFEwdURlTHA5SG1oNWVzVkJOaUpXd0x2SlBHYVUteEgzRTlNU3QwbkNXTWtseHFhdW1oTTZEelFNSmFrbTNQN25COEFBNGRPemxiWEpGSGhJVlZ2R054dndRaUJPazB2VjY5bXdYZnVySkZrNkp1OURHVk9mcnMzMUlqdl9VUkM0Wmd0bHBRcml0dV8zVEZkSkVFYVZBMEVkY0U3REN3Y0d3b1B2RjNuX2FVLXo?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "PM Carney Is Gutting Canada’s Environmental Safety Net, and Hoping No One Notices - Environmental Defence",
-      "excerpt": "PM Carney Is Gutting Canada’s Environmental Safety Net, and Hoping No One Notices Environmental Defence",
-      "cat": "National defence"
     }
   ]
 }

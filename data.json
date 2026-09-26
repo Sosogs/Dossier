@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T21:13:42.778Z",
+  "generatedAt": "2026-09-26T04:02:14.846Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "dd745ca196621193",
+      "date": "2026-09-25",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-meets-with-germanys-federal-minister-for-foreign-affairs.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada's Foreign Affairs Minister meets German counterpart",
+      "sum": "Canada's Minister of Foreign Affairs met with Germany's Federal Minister for Foreign Affairs in Ottawa. The meeting took place during the German minister's visit to Canada.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "df6e2c66df721a11",
+      "date": "2026-09-25",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-rencontre-le-ministre-federal-des-affaires-etrangeres-de-lallemagne.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Anand rencontre son homologue allemand des Affaires étrangères",
+      "sum": "La ministre canadienne des Affaires étrangères Anita Anand a rencontré le ministre fédéral allemand des Affaires étrangères Johann Wadephul lors de sa visite au Canada le 25 septembre 2026.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "d049f0af7c2e1871",
+      "date": "2026-09-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlI4MU1qSjFGbEVJUWpQZ0VDZTdpQnJvT1QxNEZtN253QXBfd3Z3d3YzS1VEVkFZSjlEd1dfSlQ1bTdvOS1MTnVkQlM3aUJFS2pJdkQtVGFyZUlUdHQwYUdNQ1hxUzZ4U2NRRERRT2plQ04tN1Jmc2Jza1ludEdQb2dnaUk5NmpmRWV5UTV4dzBqSXJWT1ZQb2oyWUdDb3ZkZ3N2TV9TbzRZenFwUHQ5dEI0eUpJcko4dVZrSjIwSlExdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The Carney government’s labour reform is a step in the right direction: Peter Copeland in The Hub - macdonaldlaurier.ca",
+      "excerpt": "The Carney government’s labour reform is a step in the right direction: Peter Copeland in The Hub macdonaldlaurier.ca",
+      "cat": "Economy"
+    },
     {
       "id": "2d7c8c5c5efee180",
       "date": "2026-09-25",
@@ -626,6 +664,18 @@
       "lang": "en",
       "title": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments - CTV News",
       "excerpt": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments CTV News",
+      "cat": "National defence"
+    },
+    {
+      "id": "3ccd70967f2b3b18",
+      "date": "2026-09-24",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZzNBRS0wT3VvYkliS200elJyOFgwanZyZE1oTVZLSExrYXc5M29lUm8ydkg5ZUNoU3gwVU8ya2c4QzdzalNOVFQ2VWE0T3ZweDQzajVCMFVLVy1HOXdXY3h3YUZQMTAzMVdqbXl1cWk0enh2bGlzUGg4Y2FhaTBJNzBMS0lFYUpkVzNpZExMZEc5WUROUjIxdXhsVkZQcVRkbEtoelpqeE1XUlg0R1FPWjJvZGR2OGxNeGJHUEFyZVUzbmVhRUhGSTBHZW9FaHhrVkVVRlRoRlNIVWNvU3lrZlhKdnpEM045NEpVYTBha0pCZEpWUWJzRmRGNkRqQnI3NzNj?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Defence minister says it’s ‘normal’ to analyze ‘risk scenarios’ amid Carney’s U.S. military comments. Live updates here. - BNN Bloomberg",
+      "excerpt": "Defence minister says it’s ‘normal’ to analyze ‘risk scenarios’ amid Carney’s U.S. military comments. Live updates here. BNN Bloomberg",
       "cat": "National defence"
     },
     {
@@ -1523,6 +1573,18 @@
       "cat": "National defence"
     },
     {
+      "id": "3411fa2efa0aac2e",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ3diRHo0T19hNXlsaFpQRHhKaUZmdFprWFo1RGFpZktKUk5sUUtiRTFnS3BaME1iYzIzS1VoME9xSDJxQTFxNFFaRTNnM1VKOUJkN0F3Nlo2cjRfNEdQMVZDRzdxLWVzeHhCdWFuSWxaUFlIQ0hmdTU5Q3c5MFhaZy1GUExzcWFvTlQ1S2tZU1V4azI3NzV6YUtIRkZUUEJGWFMxN2JUd0dXNFE2QXpjM1VJdjlPR2V6cEJkXzNHeHlBOXVKd0hVcjdRUVVuNmZwcXE1ZFRFYWRsNTg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Facing criticism, Carney says he has a ’very clear mandate’ to push through major economic changes - Radio-Canada",
+      "excerpt": "Facing criticism, Carney says he has a ’very clear mandate’ to push through major economic changes Radio-Canada",
+      "cat": "Economy"
+    },
+    {
       "id": "d302e015ca984c53",
       "date": "2026-09-23",
       "src": "Canadian politics (via Google News)",
@@ -2041,6 +2103,18 @@
       "title": "Do it like a banker. How Mark Carney is pitching Canada to global investors - Defence24.com",
       "excerpt": "Do it like a banker. How Mark Carney is pitching Canada to global investors Defence24.com",
       "cat": "National defence"
+    },
+    {
+      "id": "65e15535d764b226",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYmM3ank4N254S2xleXFPZ1o5WG5xMGJGdVdoUXVwS196UWZHUUI0TFRIWktVZjMwb3ltWDczWnpzUmhZbGxiNEY0V2VrRVh1ZmstX0F2enY4LXNPSU00OThNZ3g1TmpXRS1VYTNoT3FDSlQ0SlZtUzU3NHZFaWFMeHpjLVJZdzgwVVlHa0UzMnFzTjFhWUxXLUJNczZMVlR2VmVDNVR3ejhWZ21DYTNWQWxIc05FZzQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "AFN chief warns Carney against 'abusing' majority to pass major projects bill - CTV News",
+      "excerpt": "AFN chief warns Carney against 'abusing' majority to pass major projects bill CTV News",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "bc8b26bf3cb3fd22",
@@ -193448,84 +193522,6 @@
       "title": "Canada finance les voix autochtones aux Nations Unies",
       "sum": "La ministre des Affaires étrangères annonce un financement de 3 millions de dollars destiné au Haut-Commissariat des Nations Unies aux droits de l'homme pour soutenir la promotion des voix autochtones sur la scène mondiale.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "8dab5b6836894b77",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/06/la-ministre-anand-annonce-un-appui-financier-pour-promouvoir-les-voix-autochtones-sur-la-scene-mondiale.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada verse 3 millions pour soutenir les voix autochtones internationales",
-      "sum": "La ministre des Affaires étrangères annonce une contribution de 3 millions de dollars au Haut-Commissariat des Nations Unies aux droits de l'homme. Ces fonds appuieront le travail du Haut-Commissariat auprès des peuples autochtones pour promouvoir leurs voix sur la scène mondiale.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "6753d60c4dcfc6af",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2025/06/la-ministre-dabrusin-annonce-le-financement-de-cinq-projets-energetiques-en-alberta-et-dans-les-territoires-du-nord-ouest.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Financement de cinq projets d'énergie propre en Alberta et TNO",
-      "sum": "La ministre de l'Environnement et du Changement climatique annonce un financement pour soutenir cinq projets d'énergie propre en Alberta et dans les Territoires du Nord-Ouest.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "4f20488f1196bd5b",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/06/pont-samuel-de-champlain--illumination-speciale-pour-la-fete-du-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Pont Samuel-De Champlain illuminé pour la fête du Canada",
-      "sum": "Le pont Samuel-De Champlain sera illuminé aux couleurs rouge et blanc le 1er juillet pour célébrer la fête du Canada. L'illumination spéciale durera du coucher du soleil jusqu'à 1 h du matin.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "1ca9ea620af3d79f",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/06/declaration-commune-des-ministres-des-affaires-etrangeres-du-g7-sur-liran-et-le-moyen-orient.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministres du G7 se réunissent sur l'Iran et le Moyen-Orient",
-      "sum": "Les ministres des Affaires étrangères du G7 et de l'Union européenne se sont réunis à La Haye le 25 juin 2025 pour discuter des événements récents au Moyen-Orient et en Iran.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "3af7ddb54b8a1fcf",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/06/saisie-dobjets-interdits-a-letablissement-de-warkworth.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Objets interdits saisis à l'Établissement Warkworth",
-      "sum": "Le 13 juin 2025, le personnel de l'Établissement Warkworth, un établissement fédéral à sécurité moyenne, a saisi des colis contenant des objets interdits.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "22afac49b8c25e20",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-intergouvernementales/nouvelles/2025/06/le-gouvernement-du-canada-renforce-laccord-de-libre-echange-canadien.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada renforce l'Accord de libre-échange canadien",
-      "sum": "Le gouvernement fédéral supprimera les exceptions fédérales restantes dans l'Accord de libre-échange canadien. Cette mesure vise à renforcer l'unité économique du Canada.",
-      "cat": "Economy",
       "ai": true
     }
   ]
