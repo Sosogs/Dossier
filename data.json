@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T15:59:21.430Z",
+  "generatedAt": "2026-09-26T20:45:59.864Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,84 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "3465d9c44886ab13",
+      "date": "2026-09-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-meets-with-vietnams-minister-of-foreign-affairs.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada's Foreign Affairs Minister meets Vietnam counterpart",
+      "sum": "The Canadian Minister of Foreign Affairs met with Vietnam's Foreign Affairs Minister to discuss strengthening bilateral relations and cooperation in the Indo-Pacific region.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "6ff84794292aeef3",
+      "date": "2026-09-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/secretary-of-state-sarai-participates-in-81st-united-nations-general-assembly-and-announces-international-assistance-funding.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces international assistance funding at UN General Assembly",
+      "sum": "Secretary of State Randeep Sarai attended the 81st United Nations General Assembly from September 23-25 to discuss development financing and strengthen international partnerships.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "d4b12ac4b6184952",
+      "date": "2026-09-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/09/minister-champagne-in-shawinigan-reiterating-the-governments-strategic-investments-in-national-defence-and-regional-economic-development.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister announces defence investment in Shawinigan region",
+      "sum": "Minister of Finance François-Philippe Champagne will announce a defence-related investment in Shawinigan, Quebec on September 28. The announcement is intended to support economic development and jobs in the Mauricie region while strengthening Canada's defence capabilities.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "16be5c241155bbb2",
+      "date": "2026-09-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-rencontre-le-ministre-des-affaires-etrangeres-du-vietnam.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Anand rencontre son homologue vietnamien",
+      "sum": "La ministre canadienne des Affaires étrangères a rencontré le ministre vietnamien des Affaires étrangères pour discuter du renforcement des relations bilatérales et de la coopération dans la région Indo-Pacifique.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "c017bba786b09754",
+      "date": "2026-09-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-secretaire-detat-sarai-participe-a-la-81e-session-de-lassemblee-generale-des-nations-unies-et-annonce-un-financement-au-titre-de-laide-internati.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada annonce du financement international à l'ONU",
+      "sum": "Du 23 au 25 septembre, le secrétaire d'État Randeep Sarai a participé à la 81e Assemblée générale des Nations Unies pour annoncer un financement destiné à l'aide internationale et renforcer les partenariats de développement.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "d947704c6c864f16",
+      "date": "2026-09-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/09/le-ministre-champagne-sera-a-shawinigan-pour-reiterer-des-investissements-strategiques-du-gouvernement-dans-la-defense-nationale-et-le-developpemen.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Champagne annonce investissements défense à Shawinigan",
+      "sum": "Le ministre des Finances François-Philippe Champagne fera une annonce le 28 septembre à Shawinigan concernant des investissements en défense nationale. Cette annonce vise à renforcer l'économie régionale, soutenir l'emploi au Québec et accroître les capacités de défense du Canada.",
+      "cat": "National defence",
+      "ai": true
+    },
     {
       "id": "33af0102a60d7601",
       "date": "2026-09-26",
@@ -193441,84 +193519,6 @@
       "title": "G7 foreign ministers discuss Middle East developments",
       "sum": "Foreign ministers from Canada, France, Germany, Italy, Japan, the United Kingdom, the United States, and the European Union met in The Hague on June 25, 2025 to discuss recent events in the Middle East and Iran.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "205cb05afea3a9d0",
-      "date": "2025-06-30",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/06/seizure-of-contraband-items-at-warkworth-institution.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Contraband items seized at Warkworth Institution",
-      "sum": "On June 13, 2025, staff at Warkworth Institution, a medium security federal prison, seized packages containing contraband items. The seizure resulted from staff vigilance.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "efe3fe949390a95f",
-      "date": "2025-06-30",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/intergovernmental-affairs/news/2025/06/federal-government-strengthens-the-canadian-free-trade-agreement.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government removes exceptions from Canadian Free Trade Agreement",
-      "sum": "The federal government is removing remaining federal exceptions from the Canadian Free Trade Agreement as part of efforts to build a unified Canadian economy. This action aims to reduce trade barriers between provinces and territories.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "259e82167de35bb8",
-      "date": "2025-06-30",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2025/06/government-confirms-non-taxability-of-canada-carbon-rebates-for-small-businesses.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government confirms Canada Carbon Rebates for Small Businesses are tax-free",
-      "sum": "The Minister of Finance and National Revenue issued draft legislation to ensure that Canada Carbon Rebates for Small Businesses are not subject to taxation. This allows small businesses to receive the full amount of the rebates without tax deductions.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "2b983eaa1161ecaa",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2025/06/le-canada-annule-la-taxe-sur-les-services-numeriques-pour-faire-progresser-les-negociations-commerciales-plus-larges-avec-les-etats-unis.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada annule la taxe sur les services numériques",
-      "sum": "Le Canada supprime la taxe sur les services numériques qu'il avait mise en place en 2020 pour imposer les grandes entreprises technologiques américaines. Cette décision vise à faciliter les négociations commerciales plus larges avec les États-Unis.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "dd37dc1308631bf7",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2025/06/la-ministre-diab-participera-a-une-ceremonie-de-citoyennete-a-halifax-a-loccasion-de-la-fete-du-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Diab participe à cérémonie de citoyenneté à Halifax",
-      "sum": "La ministre Diab assistera à une cérémonie de citoyenneté à Halifax lors des célébrations de la fête du Canada.",
-      "cat": "Intergovernmental affairs",
-      "ai": true
-    },
-    {
-      "id": "f3d09cd029ddfe35",
-      "date": "2025-06-30",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/06/lasfc-annonce-des-changements-au-poste-frontalier-de-pohenegamook.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "ASFC annonce des changements au poste frontalier Pohénégamook",
-      "sum": "L'Agence des services frontaliers du Canada annonce des modifications au poste frontalier de Pohénégamook. Les détails des changements sont en cours de communication.",
-      "cat": "National defence",
       "ai": true
     }
   ]

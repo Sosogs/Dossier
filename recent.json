@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T15:59:21.430Z",
+  "generatedAt": "2026-09-26T20:45:59.864Z",
   "count": 800,
   "totals": {
     "en": {
@@ -44,6 +44,84 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "3465d9c44886ab13",
+      "date": "2026-09-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-meets-with-vietnams-minister-of-foreign-affairs.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada's Foreign Affairs Minister meets Vietnam counterpart",
+      "sum": "The Canadian Minister of Foreign Affairs met with Vietnam's Foreign Affairs Minister to discuss strengthening bilateral relations and cooperation in the Indo-Pacific region.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "6ff84794292aeef3",
+      "date": "2026-09-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/secretary-of-state-sarai-participates-in-81st-united-nations-general-assembly-and-announces-international-assistance-funding.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces international assistance funding at UN General Assembly",
+      "sum": "Secretary of State Randeep Sarai attended the 81st United Nations General Assembly from September 23-25 to discuss development financing and strengthen international partnerships.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "d4b12ac4b6184952",
+      "date": "2026-09-26",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/09/minister-champagne-in-shawinigan-reiterating-the-governments-strategic-investments-in-national-defence-and-regional-economic-development.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister announces defence investment in Shawinigan region",
+      "sum": "Minister of Finance François-Philippe Champagne will announce a defence-related investment in Shawinigan, Quebec on September 28. The announcement is intended to support economic development and jobs in the Mauricie region while strengthening Canada's defence capabilities.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "16be5c241155bbb2",
+      "date": "2026-09-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-rencontre-le-ministre-des-affaires-etrangeres-du-vietnam.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Anand rencontre son homologue vietnamien",
+      "sum": "La ministre canadienne des Affaires étrangères a rencontré le ministre vietnamien des Affaires étrangères pour discuter du renforcement des relations bilatérales et de la coopération dans la région Indo-Pacifique.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "c017bba786b09754",
+      "date": "2026-09-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-secretaire-detat-sarai-participe-a-la-81e-session-de-lassemblee-generale-des-nations-unies-et-annonce-un-financement-au-titre-de-laide-internati.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada annonce du financement international à l'ONU",
+      "sum": "Du 23 au 25 septembre, le secrétaire d'État Randeep Sarai a participé à la 81e Assemblée générale des Nations Unies pour annoncer un financement destiné à l'aide internationale et renforcer les partenariats de développement.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "d947704c6c864f16",
+      "date": "2026-09-26",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/09/le-ministre-champagne-sera-a-shawinigan-pour-reiterer-des-investissements-strategiques-du-gouvernement-dans-la-defense-nationale-et-le-developpemen.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Champagne annonce investissements défense à Shawinigan",
+      "sum": "Le ministre des Finances François-Philippe Champagne fera une annonce le 28 septembre à Shawinigan concernant des investissements en défense nationale. Cette annonce vise à renforcer l'économie régionale, soutenir l'emploi au Québec et accroître les capacités de défense du Canada.",
+      "cat": "National defence",
+      "ai": true
+    },
     {
       "id": "33af0102a60d7601",
       "date": "2026-09-26",
@@ -10122,84 +10200,6 @@
       "title": "Federal investment announced for Burke Mountain Community Centre",
       "sum": "The federal government is investing in the Burke Mountain Community Centre as part of efforts to support infrastructure development. The investment is intended to help increase housing supply and build resilient communities.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "c5cfd7018b6b5778",
-      "date": "2026-09-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/government-of-canada-invests-in-four-arts-and-culture-organizations-in-toronto.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada provides funding to four Toronto arts organizations",
-      "sum": "The Government of Canada has announced funding for four arts and culture organizations located in Toronto. Parliamentary Secretary Karim Bardeesy made the announcement.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "efc80c75ca626ccc",
-      "date": "2026-09-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/women-gender-equality/news/2026/09/minister-valdez-to-announce-federal-investment-advancing-menstrual-equity-and-affordability-in-communities-across-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal investment announced for menstrual equity and affordability",
-      "sum": "Minister Rechie Valdez will announce federal funding to advance menstrual equity and affordability across Canadian communities. The investment aims to improve access to menstrual products.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "aa794ca9a9eb3923",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/le-gouvernement-du-canada-investit-dans-la-securite-et-le-bien-etre-des-jeunes-en-ligne.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada finance la sécurité et le bien-être des jeunes en ligne",
-      "sum": "Le ministre Miller annonce un financement gouvernemental destiné à améliorer la sécurité des jeunes sur Internet et à soutenir leur bien-être en ligne.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "369053719d4c2979",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/09/le-programme-national-dalimentation-scolaire-aide-les-eleves-et-les-familles-de-lalberta-alors-quune-nouvelle-annee-scolaire-commence.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Programme national d'alimentation scolaire soutient élèves albertains",
-      "sum": "Le gouvernement fédéral et l'Alberta investissent dans un programme d'alimentation scolaire pour fournir des repas nutritifs aux élèves. La secrétaire d'État a visité une école en Alberta pour marquer le début de l'année scolaire.",
-      "cat": "Education",
-      "ai": true
-    },
-    {
-      "id": "89290f8c44df6427",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/unite-economie-canadien/nouvelles/2026/09/le-gouvernement-du-canada-simplifie-les-evaluations-de-projet-pour-renforcer-leconomie-canadienne-unifiee.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada simplifie les évaluations de projets économiques",
-      "sum": "Le gouvernement du Canada annonce des mesures visant à simplifier le processus d'évaluation des projets afin de renforcer l'économie canadienne. Cette annonce a été faite par plusieurs ministres responsables du commerce, de l'énergie et de l'environnement.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "e809d56794864bde",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/09/le-secretaire-detat-zerucelli-met-en-lumiere-le-financement-visant-a-appuyer-les-travailleurs-specialises-a-edmonton.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Financement pour soutenir les travailleurs spécialisés à Edmonton",
-      "sum": "Le secrétaire d'État Zerucelli annonce un financement destiné à appuyer les travailleurs spécialisés à Edmonton. Cette mesure vise à renforcer le soutien offert à ce groupe de travailleurs.",
-      "cat": "Economy",
       "ai": true
     }
   ]
