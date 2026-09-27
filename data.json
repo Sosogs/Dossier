@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:15:32.750Z",
+  "generatedAt": "2026-09-27T11:37:15.206Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "effb03d68e1feb83",
+      "date": "2026-09-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkhzdVhxX01ORmNCR3RXaVFiSkZmdVF2dE5PdTV6a2trZGJaMjdUVkl2UHFlWi16X28tTC1HdEhGUXl3YUR6T2p5emlqZFRoWjhRRElJbVBHMDFHc21GSVVRUmp5UEpTQlZYTHkxZjRzMEdIMGVRV1Yzang0M0FVRW9SN1h3dEZidkQ0SXVkcnRacVcwOWxnQXlPTzV5Vk9vRHZRMkpuSnlfNGFqSmxfT05DS0U1dw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Liberals Hold 12-Point Lead as Carney Reaches New High and Optimism About Canada Rises Again - Abacus Data",
+      "excerpt": "Liberals Hold 12-Point Lead as Carney Reaches New High and Optimism About Canada Rises Again Abacus Data",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "5cc5d6436bd41700",
+      "date": "2026-09-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUnZ2ay1hSzdkZXdrTmpRU1RWRFZQaUpqMFhXVjFiNGZvVnV5Mkk4OGtsZDVJOUV4UTVoLWRMSWt5T2xIb2F2SDZiSEVpVUVQdEN4VUNxYTdfbzF0RFRjaG5NalJXMlZwdElLTzI0dkZwYi00NDZ2WHp5UERvNk5QUUFtbjBzT2Npa291QVlzYUNRMFl2V1FBcHNMb3lMSXdyTXl4VFM2SWs3NXhya3RFYTVlSFNqM3ktbmp0ZjFDdkl6S0tMWmtXcWFJbWNvdDRZNXhIX3lqMVhfM3FSaUM0Yng0aGl5OWM3eHJCYUFZQm4zWGNxWHM0Uk1FU2nSAYICQVVfeXFMTUxkbUU3THBtTm45anNQbElMVFBXNm5kR0pJb1EzaGxCeVNFWnZ1WERGSnZjMzFjSWtXaVIwa1JCZXNzR3dTS2cyNHRxY1dKcExNcm5jdlRFb1E1ckRJeTJ2dXU5QmNrN3JZSXZ5VTluTXJubFE3TVJhSFN5eVZDTDZ6Q0V3MDVBck1rSkZGbm9uZk1ZVlo3NzZjMU1lLU5tRnRzOGJqYXI2bWg3NVdNaEVIX0w0OExNTE5tQlVPLXE1ODNJRU8yUkFoUWwzT0d6NGFDUTMxWWJNMEpTQk5mendoeEZKN1JxRkpJeXFUeUNkY2l6NXZIQ2wwTzkxM2hIN05n?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Who is Angad Singh Dhillon? Punjab-origin Canadian diplomat appointed ambassador to UAE by Mark Carney government | Hindustan Times - Hindustan Times",
+      "excerpt": "Who is Angad Singh Dhillon? Punjab-origin Canadian diplomat appointed ambassador to UAE by Mark Carney government | Hindustan Times Hindustan Times",
+      "cat": "Foreign affairs"
+    },
     {
       "id": "12156d96f8cc0c3c",
       "date": "2026-09-27",
@@ -115232,6 +115256,18 @@
       "ai": true
     },
     {
+      "id": "034341b0f4978254",
+      "date": "2026-02-20",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3RCYXgySlFZeWdOVmZjcE1zX2d3UF9vX0duVkFjNk90U2I2UEVBVTh5cUNrYU4xUFJQYkRGT28zVkhabzY2N1d5eENJeDdBMmplVlJsTXg2a0h3dDRic01PVnJDN2RTaGtzLTJGRUtWZzBuRU40UEU1R2h1d0Rpb1FmSUxtdGNfNHFlZWZZbHljellmd0hLV0xWTQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Ottawa investit dans des publicités à saveur patriotiques | RCI - Radio-Canada",
+      "excerpt": "Ottawa investit dans des publicités à saveur patriotiques | RCI Radio-Canada",
+      "cat": "Economy"
+    },
+    {
       "id": "ec82d18b8026835f",
       "date": "2026-02-20",
       "src": "Government of Canada",
@@ -193477,45 +193513,6 @@
       "lang": "en",
       "title": "Minister of National Defence issues Canada Day 2025 statement",
       "sum": "The Minister of National Defence released a statement on Canada Day 2025 highlighting Canadian values including freedom, democracy, rule of law, compassion, and service to others.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "7bd2ec79072871c9",
-      "date": "2025-07-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2025/06/declaration-de-la-ministre-diab-a-loccasion-de-la-fete-du-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Déclaration ministérielle pour la fête du Canada",
-      "sum": "La ministre Diab a publié une déclaration à l'occasion de la fête du Canada, invitant les Canadiens à réfléchir à l'identité nationale et à célébrer les valeurs communes comme la démocratie et l'égalité.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "3bee82d32d52e9ae",
-      "date": "2025-07-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2025/06/declaration-du-ministre-guilbeault-a-loccasion-de-la-fete-du-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Guilbeault offre vœux à l'occasion de la fête du Canada",
-      "sum": "Le ministre de l'Identité et de la Culture canadiennes, Steven Guilbeault, a formulé des vœux à la population canadienne lors de la fête du Canada.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "2f7a31fa6199a306",
-      "date": "2025-07-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2025/07/declaration-du-ministre-de-la-defense-nationale-a-loccasion-de-la-fete-du-canada-2025.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre de la Défense nationale célèbre la fête du Canada 2025",
-      "sum": "Le ministre de la Défense nationale a publié une déclaration à l'occasion de la fête du Canada 2025, exprimant son engagement envers les valeurs canadiennes incluant la liberté, la démocratie et la primauté du droit.",
       "cat": "National defence",
       "ai": true
     }

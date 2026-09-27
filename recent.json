@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-27T04:15:32.750Z",
+  "generatedAt": "2026-09-27T11:37:15.206Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7956,
+      "actions": 7958,
       "sources": 9
     },
     "fr": {
-      "actions": 7044,
+      "actions": 7042,
       "sources": 7
     }
   },
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "effb03d68e1feb83",
+      "date": "2026-09-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkhzdVhxX01ORmNCR3RXaVFiSkZmdVF2dE5PdTV6a2trZGJaMjdUVkl2UHFlWi16X28tTC1HdEhGUXl3YUR6T2p5emlqZFRoWjhRRElJbVBHMDFHc21GSVVRUmp5UEpTQlZYTHkxZjRzMEdIMGVRV1Yzang0M0FVRW9SN1h3dEZidkQ0SXVkcnRacVcwOWxnQXlPTzV5Vk9vRHZRMkpuSnlfNGFqSmxfT05DS0U1dw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Liberals Hold 12-Point Lead as Carney Reaches New High and Optimism About Canada Rises Again - Abacus Data",
+      "excerpt": "Liberals Hold 12-Point Lead as Carney Reaches New High and Optimism About Canada Rises Again Abacus Data",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "5cc5d6436bd41700",
+      "date": "2026-09-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUnZ2ay1hSzdkZXdrTmpRU1RWRFZQaUpqMFhXVjFiNGZvVnV5Mkk4OGtsZDVJOUV4UTVoLWRMSWt5T2xIb2F2SDZiSEVpVUVQdEN4VUNxYTdfbzF0RFRjaG5NalJXMlZwdElLTzI0dkZwYi00NDZ2WHp5UERvNk5QUUFtbjBzT2Npa291QVlzYUNRMFl2V1FBcHNMb3lMSXdyTXl4VFM2SWs3NXhya3RFYTVlSFNqM3ktbmp0ZjFDdkl6S0tMWmtXcWFJbWNvdDRZNXhIX3lqMVhfM3FSaUM0Yng0aGl5OWM3eHJCYUFZQm4zWGNxWHM0Uk1FU2nSAYICQVVfeXFMTUxkbUU3THBtTm45anNQbElMVFBXNm5kR0pJb1EzaGxCeVNFWnZ1WERGSnZjMzFjSWtXaVIwa1JCZXNzR3dTS2cyNHRxY1dKcExNcm5jdlRFb1E1ckRJeTJ2dXU5QmNrN3JZSXZ5VTluTXJubFE3TVJhSFN5eVZDTDZ6Q0V3MDVBck1rSkZGbm9uZk1ZVlo3NzZjMU1lLU5tRnRzOGJqYXI2bWg3NVdNaEVIX0w0OExNTE5tQlVPLXE1ODNJRU8yUkFoUWwzT0d6NGFDUTMxWWJNMEpTQk5mendoeEZKN1JxRkpJeXFUeUNkY2l6NXZIQ2wwTzkxM2hIN05n?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Who is Angad Singh Dhillon? Punjab-origin Canadian diplomat appointed ambassador to UAE by Mark Carney government | Hindustan Times - Hindustan Times",
+      "excerpt": "Who is Angad Singh Dhillon? Punjab-origin Canadian diplomat appointed ambassador to UAE by Mark Carney government | Hindustan Times Hindustan Times",
+      "cat": "Foreign affairs"
+    },
     {
       "id": "12156d96f8cc0c3c",
       "date": "2026-09-27",
@@ -10177,30 +10201,6 @@
       "sum": "Le gouvernement du Canada établit un partenariat avec Amii pour offrir des occasions d'apprentissage gratuites en intelligence artificielle. Le programme s'adresse aux étudiants, éducateurs, travailleurs et collectivités canadiennes.",
       "cat": "Innovation, science & industry",
       "ai": true
-    },
-    {
-      "id": "1f384a6066c4f86f",
-      "date": "2026-09-09",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdU5McDFmLUNwM0VfTWU4UVc1RklSV2V2ZmJOSF9oc3c3NEFzY2p1YzJJNDBaQ2NsOGFWUHF3aHV6YThJN3k4NWV2VVB2Z041cUtwMm9QTHl1eUtycXprRkgxVkxPWDQyS2FHc2dsUnhBbERsUjhvb0o3Z1Y1aXoxV19VTFZfVU0zT0FNSDMySVdEUUctdTlJQ3JDLVRJRnRoTnNXV2JudEV4WWhLUE5yUDBn?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney government scales back federal reviews for major energy projects - CTV News",
-      "excerpt": "Carney government scales back federal reviews for major energy projects CTV News",
-      "cat": "Natural resources"
-    },
-    {
-      "id": "6dfaaf7a8f8dbe97",
-      "date": "2026-09-09",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb1ZqTmFiVi1DaU5BSUVXOV9mX3IyczgtcXBzZERTTHhqdldxSmRLcGM4Z1hzbjZDaVJ4U0d4alMzQk94TFBIeTh5ZlZzUk9HOWFpeHJQV1NiNjZqSHBtSG1WVnJtSDRPT2g3M0VyUmlDa2x6XzZLdi0zUk1ST0tOVThIWTB6QTc2Z0VZSE13bVlYcENfaU0taGNnMUtfdERheDdqZHJkYXB4OUxhV1hnRXRpNTBkNV93OFVjMk1sYlg4NFlPakE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Megaprojects could be boost in trade war but hinge on regulation and workforce shakeup: think tanks - Canada's National Observer",
-      "excerpt": "Megaprojects could be boost in trade war but hinge on regulation and workforce shakeup: think tanks Canada's National Observer",
-      "cat": "Economy"
     }
   ]
 }
