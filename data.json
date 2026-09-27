@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T11:37:15.206Z",
+  "generatedAt": "2026-09-27T16:35:48.345Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "45dee111ab20b395",
+      "date": "2026-09-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/minister-michel-and-secretary-of-state-van-koeverden-mark-concussion-awareness-week-2026-reinforcing-commitment-to-safety.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada marks Concussion Awareness Week 2026",
+      "sum": "Minister Michel and Secretary of State van Koeverden marked Concussion Awareness Week 2026 to promote brain health and early recognition of concussions. The Government of Canada emphasized the importance of keeping people safe through concussion awareness.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "d728793d5ae9264a",
+      "date": "2026-09-27",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/la-ministre-michel-et-le-secretaire-detat-van-koeverden-soulignent-la-semaine-de-sensibilisation-aux-commotions-cerebrales-2026-et-reaffirment-leur.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada souligne la Semaine de sensibilisation aux commotions cérébrales",
+      "sum": "Le gouvernement du Canada met davantage l'accent sur la santé cérébrale et l'importance de détecter rapidement les commotions cérébrales. La ministre Michel et le secrétaire d'État van Koeverden réaffirment leur engagement en faveur de la sécurité de la population.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "94fc07f4fdbec4aa",
+      "date": "2026-09-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeGhpck4tVTlUVHZ5dFB5eWV1WVRNYTBFTG9TclNvNjVuQnhhNmNXZ05QckdrVjdvdUF6OUIzdnlHUUJaUnRBVlVvamVsaEVVbUtmcFFaSDByd1RaWkNSZDVZRW1CMkxnTGRCV1RTeEJGeWJCSjdsOVVwUUp2X0xQRkF5TDNjLXVwY0pvTEJGQ09LeWVleW1feFo4c1d6aG1GWV9VSDhCMVUtRUtZUnA2Tl9uN1dqNDdxSnVtcDNlc3I5VmN3b3k2dTc1d2hVRG5mamxFdVRxSkZQaUtjc1RaRkZWMFdjMFVkT3A5ZGhaT2kxOGQ4dWoyV01HeUdRVXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government’s energy and labour bill puts Conservative leader in a ‘pickle’ - Toronto Star",
+      "excerpt": "Carney government’s energy and labour bill puts Conservative leader in a ‘pickle’ Toronto Star",
+      "cat": "Natural resources"
+    },
     {
       "id": "effb03d68e1feb83",
       "date": "2026-09-27",
@@ -1879,6 +1917,18 @@
       "cat": "National defence"
     },
     {
+      "id": "2e2a2294ab2b85a8",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTDFhelhGN1l3cV9fcW45dlhYVHZCYWdBeENsVzNTbGN4TXZONTdoVWpwYjNLNGxIZ3E0akEzNld3V1ZGeWNDVVR5d25YVVJuU0NLNUtoU1U5dUVjN3BJWC1TM3R3MjZpZEhUU3ZXOERvQ1hlZkZJNk9BUE1UM2plRnRKZ3VGZmU3MTlTRmJyVFBqWXNEUVA4MVM5Yk11S0xNZ2Fz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s oil and gas renaissance: Heather Exner-Pirot in the National Post - The Macdonald-Laurier Institute",
+      "excerpt": "Carney’s oil and gas renaissance: Heather Exner-Pirot in the National Post The Macdonald-Laurier Institute",
+      "cat": "Natural resources"
+    },
+    {
       "id": "3411fa2efa0aac2e",
       "date": "2026-09-23",
       "src": "Canadian politics (via Google News)",
@@ -2409,6 +2459,18 @@
       "title": "Do it like a banker. How Mark Carney is pitching Canada to global investors - Defence24.com",
       "excerpt": "Do it like a banker. How Mark Carney is pitching Canada to global investors Defence24.com",
       "cat": "National defence"
+    },
+    {
+      "id": "0df875756d37a693",
+      "date": "2026-09-22",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkZVTmctamJwNVVleFBLVlRSVDdRV2dNRUJlNzNLLVNfX2d2QmJ2VVdOa2lHaGxadVl5Vnp0amZQOTQ3bnNSb0tlT0xJeTBOWkNBaUEyQVYtNTdPa3FWREphTDVkVTZicWs0REhvUXV5YTRDV0hIT3BSYW92VVVlWERUOVk1UFZYdDNkc1ZSV21ELUtKdXlaRHA4VEk5TzMzRFlvQzdSR3R0YUJHZFB2eFhJZ1NPZ1pjejBoNw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Un projet de loi «visant à bâtir un Canada fort» bien mal nommé, selon les syndicats et écologistes - Le Devoir",
+      "excerpt": "Un projet de loi «visant à bâtir un Canada fort» bien mal nommé, selon les syndicats et écologistes Le Devoir",
+      "cat": "Economy"
     },
     {
       "id": "65e15535d764b226",
@@ -193449,71 +193511,6 @@
       "title": "Canada prend mesures pour soutenir victimes feux forêt 2025",
       "sum": "Le gouvernement du Canada annonce des mesures de soutien pour les personnes touchées par les feux de forêt de 2025, alors que les conditions météorologiques extrêmes deviennent plus fréquentes en raison du changement climatique.",
       "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "abb21a22b69f6248",
-      "date": "2025-07-02",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2025/07/le-gouvernement-du-canada-finance-des-projets-en-alberta-et-dans-les-territoires-du-nord-ouest-pour-batir-une-economie-forte-et-durable.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada finance projets économiques en Alberta et Territoires du Nord-Ouest",
-      "sum": "Le gouvernement du Canada annonce du financement pour cinq projets en Alberta et dans les Territoires du Nord-Ouest par le biais du Fonds pour une économie à faibles émissions de carbone.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "e3fe3aa5444bfa66",
-      "date": "2025-07-02",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2025/07/le-gouvernement-du-canada-accorde-un-financement-a-des-projets-energetiques-en-alberta-et-dans-les-territoires-du-nord-ouest-pour-batir-une-economi.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada finance cinq projets énergétiques en Alberta et territoires du Nord-Ouest",
-      "sum": "Le gouvernement du Canada accorde plus de 13,3 millions de dollars pour financer cinq projets énergétiques en Alberta et dans les Territoires du Nord-Ouest. L'annonce a été faite lors d'une visite à un immeuble résidentiel appartenant à des Autochtones à Yellowknife.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "541d9b0aebd31b7f",
-      "date": "2025-07-01",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2025/06/statement-by-minister-diab-on-canada-day.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister Diab releases Canada Day statement",
-      "sum": "Minister Diab issued a statement on Canada Day reflecting on Canadian identity, culture, and values. The statement emphasizes shared commitment to democracy, equality, and building the country's future.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "fd452f7601fe1072",
-      "date": "2025-07-01",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2025/06/statement-by-minister-guilbeault-on-canada-day.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister extends Canada Day wishes to Canadians",
-      "sum": "Minister of Canadian Identity and Culture Steven Guilbeault issued a statement offering Canada Day greetings to the people of Canada.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "a9912f37478f7bae",
-      "date": "2025-07-01",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-national-defence/news/2025/07/statement-by-the-minister-of-national-defence-on-canada-day-2025.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister of National Defence issues Canada Day 2025 statement",
-      "sum": "The Minister of National Defence released a statement on Canada Day 2025 highlighting Canadian values including freedom, democracy, rule of law, compassion, and service to others.",
-      "cat": "National defence",
       "ai": true
     }
   ]

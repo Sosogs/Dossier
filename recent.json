@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T11:37:15.206Z",
+  "generatedAt": "2026-09-27T16:35:48.345Z",
   "count": 800,
   "totals": {
     "en": {
@@ -44,6 +44,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "45dee111ab20b395",
+      "date": "2026-09-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/minister-michel-and-secretary-of-state-van-koeverden-mark-concussion-awareness-week-2026-reinforcing-commitment-to-safety.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada marks Concussion Awareness Week 2026",
+      "sum": "Minister Michel and Secretary of State van Koeverden marked Concussion Awareness Week 2026 to promote brain health and early recognition of concussions. The Government of Canada emphasized the importance of keeping people safe through concussion awareness.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "d728793d5ae9264a",
+      "date": "2026-09-27",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/la-ministre-michel-et-le-secretaire-detat-van-koeverden-soulignent-la-semaine-de-sensibilisation-aux-commotions-cerebrales-2026-et-reaffirment-leur.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada souligne la Semaine de sensibilisation aux commotions cérébrales",
+      "sum": "Le gouvernement du Canada met davantage l'accent sur la santé cérébrale et l'importance de détecter rapidement les commotions cérébrales. La ministre Michel et le secrétaire d'État van Koeverden réaffirment leur engagement en faveur de la sécurité de la population.",
+      "cat": "Healthcare",
+      "ai": true
+    },
+    {
+      "id": "94fc07f4fdbec4aa",
+      "date": "2026-09-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeGhpck4tVTlUVHZ5dFB5eWV1WVRNYTBFTG9TclNvNjVuQnhhNmNXZ05QckdrVjdvdUF6OUIzdnlHUUJaUnRBVlVvamVsaEVVbUtmcFFaSDByd1RaWkNSZDVZRW1CMkxnTGRCV1RTeEJGeWJCSjdsOVVwUUp2X0xQRkF5TDNjLXVwY0pvTEJGQ09LeWVleW1feFo4c1d6aG1GWV9VSDhCMVUtRUtZUnA2Tl9uN1dqNDdxSnVtcDNlc3I5VmN3b3k2dTc1d2hVRG5mamxFdVRxSkZQaUtjc1RaRkZWMFdjMFVkT3A5ZGhaT2kxOGQ4dWoyV01HeUdRVXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government’s energy and labour bill puts Conservative leader in a ‘pickle’ - Toronto Star",
+      "excerpt": "Carney government’s energy and labour bill puts Conservative leader in a ‘pickle’ Toronto Star",
+      "cat": "Natural resources"
+    },
     {
       "id": "effb03d68e1feb83",
       "date": "2026-09-27",
@@ -1889,6 +1927,18 @@
       "cat": "National defence"
     },
     {
+      "id": "2e2a2294ab2b85a8",
+      "date": "2026-09-23",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTDFhelhGN1l3cV9fcW45dlhYVHZCYWdBeENsVzNTbGN4TXZONTdoVWpwYjNLNGxIZ3E0akEzNld3V1ZGeWNDVVR5d25YVVJuU0NLNUtoU1U5dUVjN3BJWC1TM3R3MjZpZEhUU3ZXOERvQ1hlZkZJNk9BUE1UM2plRnRKZ3VGZmU3MTlTRmJyVFBqWXNEUVA4MVM5Yk11S0xNZ2Fz?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s oil and gas renaissance: Heather Exner-Pirot in the National Post - The Macdonald-Laurier Institute",
+      "excerpt": "Carney’s oil and gas renaissance: Heather Exner-Pirot in the National Post The Macdonald-Laurier Institute",
+      "cat": "Natural resources"
+    },
+    {
       "id": "3411fa2efa0aac2e",
       "date": "2026-09-23",
       "src": "Canadian politics (via Google News)",
@@ -2419,6 +2469,18 @@
       "title": "Do it like a banker. How Mark Carney is pitching Canada to global investors - Defence24.com",
       "excerpt": "Do it like a banker. How Mark Carney is pitching Canada to global investors Defence24.com",
       "cat": "National defence"
+    },
+    {
+      "id": "0df875756d37a693",
+      "date": "2026-09-22",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkZVTmctamJwNVVleFBLVlRSVDdRV2dNRUJlNzNLLVNfX2d2QmJ2VVdOa2lHaGxadVl5Vnp0amZQOTQ3bnNSb0tlT0xJeTBOWkNBaUEyQVYtNTdPa3FWREphTDVkVTZicWs0REhvUXV5YTRDV0hIT3BSYW92VVVlWERUOVk1UFZYdDNkc1ZSV21ELUtKdXlaRHA4VEk5TzMzRFlvQzdSR3R0YUJHZFB2eFhJZ1NPZ1pjejBoNw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Un projet de loi «visant à bâtir un Canada fort» bien mal nommé, selon les syndicats et écologistes - Le Devoir",
+      "excerpt": "Un projet de loi «visant à bâtir un Canada fort» bien mal nommé, selon les syndicats et écologistes Le Devoir",
+      "cat": "Economy"
     },
     {
       "id": "65e15535d764b226",
@@ -10135,71 +10197,6 @@
       "title": "Trade Tribunal reports on imported vegetable goods",
       "sum": "The Canadian International Trade Tribunal submitted a report to the Governor in Council regarding the importation of certain vegetable goods. The report includes the Tribunal's determination, reasons, and recommendations on this trade matter.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "a395867d6a53eb70",
-      "date": "2026-09-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-national-ai-literacy-initiative.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government launches national AI literacy initiative with Amii partnership",
-      "sum": "The Government of Canada is partnering with Amii to provide free artificial intelligence education and training to students, educators, workers, and communities across Canada. The National AI Literacy Initiative aims to build practical AI skills among Canadians.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "94c1988b81600aa7",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/09/la-secretaire-detat-mclean-annonce-du-financement-pour-les-aines-albertains0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Financement annoncé pour les aînés albertains",
-      "sum": "La secrétaire d'État McLean annonce un financement du gouvernement du Canada destiné aux aînés de l'Alberta. Cette aide vise à rendre la vie plus abordable et à soutenir leur engagement communautaire.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "c39aa8d735f415f3",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2026/09/la-secretaire-detat-mclean-annonce-du-financement-pour-les-aines-albertains.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Financement annoncé pour les aînés albertains",
-      "sum": "La secrétaire d'État McLean annonce un financement du gouvernement du Canada destiné aux aînés de l'Alberta. Ces mesures visent à améliorer l'accessibilité financière et à soutenir leur engagement communautaire.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "f2e91f2c770a79fa",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/tribunal-commerce-exterieur/nouvelles/2026/09/le-tribunal-depose-son-rapportcertains-produits-de-legumes.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Tribunal canadien du commerce extérieur dépose rapport sur importations légumes",
-      "sum": "Le Tribunal canadien du commerce extérieur a soumis un rapport à la Gouverneure en conseil concernant l'importation de certains produits de légumes. Le rapport inclut sa décision, les motifs de celle-ci et ses recommandations.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "143acc0d4b80ad61",
-      "date": "2026-09-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/le-gouvernement-du-canada-lance-linitiative-nationale-de-litteratie-en-ia.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada lance Initiative nationale de littératie en IA",
-      "sum": "Le gouvernement du Canada établit un partenariat avec Amii pour offrir des occasions d'apprentissage gratuites en intelligence artificielle. Le programme s'adresse aux étudiants, éducateurs, travailleurs et collectivités canadiennes.",
-      "cat": "Innovation, science & industry",
       "ai": true
     }
   ]
