@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-27T21:02:27.056Z",
+  "generatedAt": "2026-09-28T04:16:42.919Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7959,
+      "actions": 7962,
       "sources": 9
     },
     "fr": {
-      "actions": 7041,
+      "actions": 7038,
       "sources": 7
     }
   },
@@ -44,6 +44,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "93413f685fc832e0",
+      "date": "2026-09-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/09/infrastructure-announcement-in-behchoko.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Infrastructure announcement planned in Behchokǫ̀ with federal and Indigenous leaders",
+      "sum": "The Minister of Crown Indigenous Relations, along with leaders from the Tłı̨chǫ Government and Behchokǫ, will make an infrastructure announcement. Media are invited to attend the event.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "aaba75caf7f21e90",
+      "date": "2026-09-27",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/09/annonce-en-matiere-de-logement-et-dinfrastructure-a-behchoko.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Annonce d'infrastructure à Behchokǫ̀ avec ministres et leaders autochtones",
+      "sum": "Le gouvernement fédéral tiendra une annonce concernant un projet d'infrastructure à Behchokǫ̀. L'événement réunira la ministre des Relations Couronne-Autochtones et des représentants des gouvernements Tłı̨chǫ et de Behchokǫ̀.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "4953bf01196de9f9",
+      "date": "2026-09-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnZkQWRycG9zeFB5T25CN25yeG9xeTBrNlJfalk4bXN4QkJpNEJOVnNvamJ0bjRPMlNKMkt3Um8xd1J5RHpOLVVwNUo2VXlMOEloOC1kSFNQNHJ6d1NTR0VVQnE0SGtCVktLNEEybERKX2Fmb1ZKeWp0b2R1SVdGakVXYl8zT0ZmTVl3bkJuMzFfU09rLVdkZWotNW05bWN5Z3lHRXdUWTRBckFuaDczcm5MbFVIcE0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Unions have new leverage, not less, under Liberals' new major projects bill: jobs minister - cbc.ca",
+      "excerpt": "Unions have new leverage, not less, under Liberals' new major projects bill: jobs minister cbc.ca",
+      "cat": "Economy"
+    },
     {
       "id": "752d0a3ddcda5a4e",
       "date": "2026-09-27",
@@ -530,6 +568,18 @@
       "lang": "en",
       "title": "Lorne Gunter: Carney Liberals play fast and loose with federal books - Yahoo News Canada",
       "excerpt": "Lorne Gunter: Carney Liberals play fast and loose with federal books Yahoo News Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "c10f1bac761d24e5",
+      "date": "2026-09-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTDkxY1B2MjR3N3hBaEo3eHloekFady1DcnhLUmlaOGhkSER2RXRYRHc0M1BVVVhQemsyLTJseHhJQmR6ZExrYjRuc0toc0lOdGRkUk9SYzFONFlnUGNoWjVJbTFqU21Id01jazVFbThkLXVDR3ZIb2ZfNVkyYXVibE1CLUFSNmNxWEVJcG9fX29VOVExOFhuLU5FcVdVQzg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Avi Benlolo: Carney doles out cash to Palestinians. Canadians ask 'what about us'? - National Post",
+      "excerpt": "Avi Benlolo: Carney doles out cash to Palestinians. Canadians ask 'what about us'? National Post",
       "cat": "Economy"
     },
     {
@@ -10156,56 +10206,6 @@
       "lang": "en",
       "title": "Trump says Canada ‘dying’ to make trade deal as Carney updates review process for major energy projects - BNN Bloomberg",
       "excerpt": "Trump says Canada ‘dying’ to make trade deal as Carney updates review process for major energy projects BNN Bloomberg",
-      "cat": "Economy"
-    },
-    {
-      "id": "603f177e8501d034",
-      "date": "2026-09-10",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWM5dEU4VENXSDJfZ3pINzhZQUJtQkd2aVNTeTBEM0tGRDBFck1HcUdEaF9xcElMV2QyWTAxRlIwMi1hVnF4bUhGTVYwQUVkRVY3dmhJbUpEbWtZck1SVXoxNGQxQVBVUVQ1UC1vQ1ZDTmhBWkRaZlJsY1FEdkpId2h0N1dwSzMzQ2NJYUduTjZBVnptcld1WjgwcTBQd1FBQ01JUFd4aFZTaUE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Feds quietly exempt oilsands and gas power plants from environmental impact assessments - Canada's National Observer",
-      "excerpt": "Feds quietly exempt oilsands and gas power plants from environmental impact assessments Canada's National Observer",
-      "cat": "Natural resources"
-    },
-    {
-      "id": "c81192e624d3a8fe",
-      "date": "2026-09-10",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/09/statement-by-the-minister-of-finance-on-the-canadian-international-trade-tribunal-s-report-on-global-imports-of-canned-and-frozen-vegetables.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Finance Minister responds to trade tribunal report on vegetable imports",
-      "sum": "The Minister of Finance issued a statement regarding a Canadian International Trade Tribunal report examining global imports of canned and frozen vegetables. The statement references efforts to strengthen Canada's economy during a period of global economic change.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "5421166db0e6ba8d",
-      "date": "2026-09-10",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/09/declaration-du-ministre-des-finances-au-sujet-du-rapport-du-tribunal-canadien-du-commerce-exterieur-sur-les-importations-mondiales-de-legumes-surge.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre des Finances commente rapport sur importations de légumes",
-      "sum": "Le ministre des Finances a fait une déclaration concernant un rapport du Tribunal canadien du commerce extérieur portant sur les importations mondiales de légumes surgelés et en conserve. Il a souligné que le gouvernement fédéral travaille à renforcer l'économie canadienne face aux défis économiques mondiaux actuels.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "165d5ee819bfb84c",
-      "date": "2026-09-10",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOS1ZuU0FkTWxuS2FlNUU2ZjJhNUl3eWJnVkxvRTR0Rmx3VGItTHB5Xzk5SnZDUVBULVBLVUF1QlkwU3l2RG5USldXSlFBaHZqNGJ4MEpxVzBfRjMzdWZibk1VY1dmYXZKczhmTmF3c25yOHVBN3dLVzh6QXFjMFdWbEwxMUtBZFA1ZUpZM1NONnBWM2tVVmFLOEV5Zm1kTDdJWGNKeTdubUtrcnlQQVR6Q0V2a3dGV2hYRURzZzBXcGJWLTVfZU9QOE1tOFFzeFdCeHQwQU1EVUVVZVBfanJEOUhNbWdEd1pXamVFVnl5eUJqOTgzc3BFM0s1ajVUTDBwa1l3TnhfUQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Why the Carney government isn’t treating Trump’s latest tariff moves as a dramatic escalation - Toronto Star",
-      "excerpt": "Why the Carney government isn’t treating Trump’s latest tariff moves as a dramatic escalation Toronto Star",
       "cat": "Economy"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T21:02:27.056Z",
+  "generatedAt": "2026-09-28T04:16:42.919Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "93413f685fc832e0",
+      "date": "2026-09-27",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/09/infrastructure-announcement-in-behchoko.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Infrastructure announcement planned in Behchokǫ̀ with federal and Indigenous leaders",
+      "sum": "The Minister of Crown Indigenous Relations, along with leaders from the Tłı̨chǫ Government and Behchokǫ, will make an infrastructure announcement. Media are invited to attend the event.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "aaba75caf7f21e90",
+      "date": "2026-09-27",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/09/annonce-en-matiere-de-logement-et-dinfrastructure-a-behchoko.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Annonce d'infrastructure à Behchokǫ̀ avec ministres et leaders autochtones",
+      "sum": "Le gouvernement fédéral tiendra une annonce concernant un projet d'infrastructure à Behchokǫ̀. L'événement réunira la ministre des Relations Couronne-Autochtones et des représentants des gouvernements Tłı̨chǫ et de Behchokǫ̀.",
+      "cat": "Infrastructure",
+      "ai": true
+    },
+    {
+      "id": "4953bf01196de9f9",
+      "date": "2026-09-27",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnZkQWRycG9zeFB5T25CN25yeG9xeTBrNlJfalk4bXN4QkJpNEJOVnNvamJ0bjRPMlNKMkt3Um8xd1J5RHpOLVVwNUo2VXlMOEloOC1kSFNQNHJ6d1NTR0VVQnE0SGtCVktLNEEybERKX2Fmb1ZKeWp0b2R1SVdGakVXYl8zT0ZmTVl3bkJuMzFfU09rLVdkZWotNW05bWN5Z3lHRXdUWTRBckFuaDczcm5MbFVIcE0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Unions have new leverage, not less, under Liberals' new major projects bill: jobs minister - cbc.ca",
+      "excerpt": "Unions have new leverage, not less, under Liberals' new major projects bill: jobs minister cbc.ca",
+      "cat": "Economy"
+    },
     {
       "id": "752d0a3ddcda5a4e",
       "date": "2026-09-27",
@@ -520,6 +558,18 @@
       "lang": "en",
       "title": "Lorne Gunter: Carney Liberals play fast and loose with federal books - Yahoo News Canada",
       "excerpt": "Lorne Gunter: Carney Liberals play fast and loose with federal books Yahoo News Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "c10f1bac761d24e5",
+      "date": "2026-09-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTDkxY1B2MjR3N3hBaEo3eHloekFady1DcnhLUmlaOGhkSER2RXRYRHc0M1BVVVhQemsyLTJseHhJQmR6ZExrYjRuc0toc0lOdGRkUk9SYzFONFlnUGNoWjVJbTFqU21Id01jazVFbThkLXVDR3ZIb2ZfNVkyYXVibE1CLUFSNmNxWEVJcG9fX29VOVExOFhuLU5FcVdVQzg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Avi Benlolo: Carney doles out cash to Palestinians. Canadians ask 'what about us'? - National Post",
+      "excerpt": "Avi Benlolo: Carney doles out cash to Palestinians. Canadians ask 'what about us'? National Post",
       "cat": "Economy"
     },
     {
@@ -35125,6 +35175,18 @@
       "excerpt": "WestJet is giving passengers with bookings from July 30 to Aug. 4 the opportunity to cancel or change their flights for free in light of the ongoing labour dispute with flight attendants.",
       "cat": "Transportation",
       "lang": "en"
+    },
+    {
+      "id": "92ecc2fd4fb8007c",
+      "date": "2026-07-23",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmRfbVprNThheG8wQkM5c0lnY3FhbHVxOFhFYi1VbHNPSHY0MHVMdnJHX0VNSWpWUDdWUS0waW43RkVScEZrX0ZIdjdHc3BDMGZuZnF3OEUzTUthRERXMmduVDJPZ0tKcTNKdVFicmYzWEFGcVVqanBMWkRCQU5kY1NLYzV1WExrblUxbTJEQWI3ZURZaTVXbHR6ZzNaaUltVm5tYzNkQklQMGNacnc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Carney ne compte pas répliquer aux nouveaux tarifs de Trump pour l’instant - Le Devoir",
+      "excerpt": "Carney ne compte pas répliquer aux nouveaux tarifs de Trump pour l’instant Le Devoir",
+      "cat": "Economy"
     },
     {
       "id": "14c3b975cda8085c",
@@ -193445,71 +193507,6 @@
       "title": "Projets d'IA soutiennent l'innovation en Nouvelle-Écosse",
       "sum": "Le gouvernement fédéral soutient des projets d'intelligence artificielle destinés aux entreprises de la Nouvelle-Écosse. Ces initiatives visent à favoriser l'innovation et améliorer la productivité des entreprises.",
       "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "7d7e218b9a796fae",
-      "date": "2025-07-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2025/07/le-gouvernement-du-canada-fera-une-annonce-importante-concernant-lacces-a-internet-haute-vitesse-en-saskatchewan.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada annonce amélioration accès Internet haute vitesse Saskatchewan",
-      "sum": "Le secrétaire d'État chargé du développement rural fera une annonce concernant l'amélioration de l'accès à Internet haute vitesse dans les régions rurales de la Saskatchewan.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "a2816baa6c5fff36",
-      "date": "2025-07-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/07/renforcer-les-collectivites-du-sud-du-yukon-face-aux-risques-de-feux-de-foret.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Yukon investissent 17 millions dollars prévention incendies forêt",
-      "sum": "Le gouvernement du Canada et le gouvernement du Yukon investissent ensemble plus de 17 millions de dollars pour aider les collectivités du sud du Yukon à réduire les risques de feux de forêt.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "6f5ed31561c8f6b6",
-      "date": "2025-07-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2025/07/le-ncsm-william-hall-retourne-a-halifax-apres-un-deploiement-reussi-dans-le-cadre-de-loperation-caribbe.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le NCSM William Hall retourne à Halifax après déploiement",
-      "sum": "Le navire canadien NCSM William Hall revient à sa base à Halifax après avoir participé à l'opération CARIBBE, la contribution du Canada aux opérations de lutte contre le trafic de drogue menées par les États-Unis dans les Caraïbes.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "ded4dd78068f0c75",
-      "date": "2025-07-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/07/saisie-dobjets-interdits-a-letablissement-de-cowansville.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Objets interdits saisis à l'Établissement de Cowansville",
-      "sum": "Le 29 juin 2025, du personnel de l'Établissement de Cowansville a saisi des objets interdits dans cet établissement fédéral à sécurité moyenne.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "d5357fa7119cda6c",
-      "date": "2025-07-03",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/07/document-dinformation--le-gouvernement-federal-investit-dans-lelargissement-du-parc-de-vehicules-de-transport-en-commun-de-whitehorse.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada investit dans les transports en commun à Whitehorse",
-      "sum": "Le gouvernement fédéral contribue 5,9 millions de dollars pour agrandir la flotte de véhicules de transport en commun de Whitehorse, au Yukon. Cet investissement fait partie du programme fédéral Investir dans le Canada.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]
