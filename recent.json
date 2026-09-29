@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-29T04:47:41.389Z",
+  "generatedAt": "2026-09-29T12:20:35.488Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7967,
+      "actions": 7968,
       "sources": 9
     },
     "fr": {
-      "actions": 7033,
+      "actions": 7032,
       "sources": 7
     }
   },
@@ -44,6 +44,104 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "0a3e191a3bbe3168",
+      "date": "2026-09-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/09/government-of-canada-invests-in-gun-violence-prevention-in-halifax-nova-scotia.html",
+      "type": "Spending",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada funds gun violence prevention program in Halifax",
+      "sum": "The Government of Canada is providing financial support to Halifax, Nova Scotia for gun and gang violence prevention initiatives. This funding is part of a broader national effort to address gun violence in communities across the country.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "f928949adbf7db6c",
+      "date": "2026-09-29",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/09/le-gouvernement-du-canada-investit-dans-la-prevention-de-la-violence-liee-aux-armes-a-feu-a-halifax-en-nouvelle-ecosse.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada investit dans la prévention de la violence armée à Halifax",
+      "sum": "Le gouvernement du Canada fournit un soutien direct aux collectivités pour prévenir la violence liée aux armes à feu et aux gangs. Cette mesure s'inscrit dans une approche plus large de protection des Canadiens contre ce type de violence.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "6f14ddf0db4f4283",
+      "date": "2026-09-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZG9TSVNld1puTzVFdnROQ1BUZnlUWVJWVE5KUEI3dUVOZ2lHM1dHOWk0amFET1ZNWEFLMUZfd2JmSDQyTG0yV1NRWTNBZVpTeUpTYWhRdUVNZGhobVk2VTFRSkZwTkpIWFNBWkllVWswQzN3ZWVXTG9sN1ZPck40eVk1RHFiVFVVUGwwQWF5d1U4U1E2LXUxZUxUTVd6QmNuLTFuTGVacllnbGw3aFhYQ0JmV1lVWlZHTHk3YkluOA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney's moves on labour and environment could create an opening for political opponents - Canada's National Observer",
+      "excerpt": "Carney's moves on labour and environment could create an opening for political opponents Canada's National Observer",
+      "cat": "Sustainable development"
+    },
+    {
+      "id": "b17312beea902325",
+      "date": "2026-09-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGFUSHdTMVJVRHJuYmxNQlFvMVFkWGpwN3ExWGc3RlZOVG9yajlvdV96cDJCLWdnTEFBeXRJdzA5aXliZUxPZ0IyVndkNUZ4Nm9vT0E1NHBLYzhQMmdXRXp0bDl0bTVpVmN3M0xzenlfcTFlLW1sZXJoOXVwMGJDUl9PaVhEaFBJQWwtNDE3ajQ4RVdrZ2RKQTJKWVFSbDlI?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney in Vancouver for announcements on energy, ocean protection - Penticton Herald",
+      "excerpt": "Carney in Vancouver for announcements on energy, ocean protection Penticton Herald",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "49c574e7c8409174",
+      "date": "2026-09-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yOFJENU54cXRMU1l0TVZBYW05N1YyWmduWXNndXJsX0lSaFZCQ2FwdWFtZHhHSklXTTZHczJ6LWxVUjhFWHFCTmVJeDRKQ1RLeFhReEpqbEo3Z0ZQV3F5ZWx6TXR5OUhJdXk2Ry01QXBLaG1P?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "🟢 Carney wants to decide what you can say - Juno News",
+      "excerpt": "🟢 Carney wants to decide what you can say Juno News",
+      "cat": "Economy"
+    },
+    {
+      "id": "c20d94be1d252d18",
+      "date": "2026-09-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0tvT2RJLVZkRENWYm9pb3AyVFRYTFI5SGxncWtKXzVhLXBGVHF1YnhnZldPSEV4WUVvWlBwem1mZFh3amVMd1c1S2UxOEhxcUtNYi1uTmR1M2ZuZlVCeW5ubFlGTklLNjJ2QmtBY1Q4RnhMbGVIRllwY3JZX2N0VA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says he cannot guarantee India will no longer be involved in crimes in Canada - Yahoo News Canada",
+      "excerpt": "Carney says he cannot guarantee India will no longer be involved in crimes in Canada Yahoo News Canada",
+      "cat": "Public safety"
+    },
+    {
+      "id": "f649653ccf356615",
+      "date": "2026-09-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNUtRZEtBdndSLUo3Vk9fN0RFY09aQlQxVHFzSGJvNG1vRGUybkR4MTdGME9wTzJiZS1jNFVwMzRySjh4T2NadGdfLTVIbS1wT3B3cnFiY0x0dDExdDh4QUVRQWZ4YzlKczFkWENjVFVicmFFX3dBVEtxdXR3NDRoQmV3YUxDR2xOdGFaSF85aWpoS0l6ekE1eWdEdWtIYW5UWjd6eUVCbTk3SmVEQk5UWGFpYnczcWdEQjlsVlNHcjNXSGZ6WWhlQVVmM25rTWdUMXdNeQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney promised to protect Canada from Trump. Why does his agenda look so much like Reaganomics? - canadiandimension.com",
+      "excerpt": "Carney promised to protect Canada from Trump. Why does his agenda look so much like Reaganomics? canadiandimension.com",
+      "cat": "Economy"
+    },
+    {
+      "id": "edc81cd5ac203e0f",
+      "date": "2026-09-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVN0NkV3SVFPRndYWHNJejE0TWh5OTFFSlZXVlFVMlR1R2pEWEh2RU5lTmQxWm8tUWdjRFRJZFZiWkE4VVZwTXd3Y0FONEoxVGVBa0RYbmg3ZEswMkJkeEoxZ1NkZ0RUbXg1OUUwcUtqeWFHN1lReXhVTHNBYkNhX0U0UmoyanlZTG5r?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Jamie Sarkonak: Mark Carney's enormous new major projects bill is a mirage - nationalpost.com",
+      "excerpt": "Jamie Sarkonak: Mark Carney's enormous new major projects bill is a mirage nationalpost.com",
+      "cat": "Economy"
+    },
     {
       "id": "1ec399bd5ffe6cf7",
       "date": "2026-09-28",
@@ -7485,6 +7583,18 @@
       "cat": "Finance"
     },
     {
+      "id": "2df180093c2514de",
+      "date": "2026-09-15",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3hvQjVOSzRqQ21xdXdZb2U2bDBvVFU1Q3JRNEk1MVZTYnJxajEyamZoS2pCbTUxdllpT2NFc2Nia2llcXJ0eTB0NU5nbkktRVExd0tmS05YZTlfRTQ1UzNWWFVXS1FXRzFDN3lRV0hpdnY5XzY4Ym1ZSlFqd1lxcUVGcml2ME5BRFI3WmdZcGgzMVljenBNSU5IZV9RQ3JvU3ZsMVB1T05qN2NhSmxNbDMxY2trYXgzUTQwc2NZVC1OLXVzY1E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Mark Carney va privatiser les opérations de l’aéroport de Montréal - TVA Nouvelles",
+      "excerpt": "Mark Carney va privatiser les opérations de l’aéroport de Montréal TVA Nouvelles",
+      "cat": "Economy"
+    },
+    {
       "id": "da44b47083bee153",
       "date": "2026-09-15",
       "src": "Canadian politics (via Google News)",
@@ -10105,122 +10215,6 @@
       "title": "Canada regagne l'accès au marché dominicain pour la viande bovine",
       "sum": "L'Agence canadienne d'inspection des aliments annonce que la République dominicaine a approuvé les importations de viande bovine et de produits connexes canadiens. Cette approbation inclut les abats provenant de bovins de tous âges.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "f2fd7c5cecc9ef4c",
-      "date": "2026-09-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/09/declaration-du-ministre-miller-a-loccasion-de-roch-hachana.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada souligne Roch Hachana, le Nouvel An juif",
-      "sum": "Le gouvernement du Canada a émis une déclaration du ministre Miller pour marquer l'occasion de Roch Hachana, le Nouvel An juif.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "0aab363e0d715b4a",
-      "date": "2026-09-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-prairies/nouvelles/2026/09/atom-jet-industries-elargit-sa-production-et-atteint-de-nouveaux-marches-en-reponse-aux-droits-de-douane-americains-injustifies.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Atom-Jet Industries reçoit financement pour élargir sa production",
-      "sum": "Le gouvernement fédéral investit dans Atom-Jet Industries à Brandon par le biais de PrairiesCan pour augmenter sa capacité de production et ses ventes au Canada en réponse aux tarifs douaniers américains.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "34709c86456143ea",
-      "date": "2026-09-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/09/declaration-du-ministre-de-la-defense-nationale-a-loccasion-du-25e-anniversaire-du-11-septembre.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre de la Défense commémore le 25e anniversaire du 11 Septembre",
-      "sum": "Le ministre de la Défense nationale a publié une déclaration marquant le 25e anniversaire des attentats terroristes du 11 septembre 2001, qui ont tué près de 3 000 personnes, dont 24 Canadiens. Il reconnaît l'impact profond de ces événements sur les familles touchées et sur la sécurité internationale.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "f64cadcd6b26dc28",
-      "date": "2026-09-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2026/09/algoma-steel-inc-recoit-une-amende-de-12-million-de-dollars-pour-des-infractions-a-des-lois-federales-sur-lenvironnement-et-la-faune-en-lien-avec-u.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Algoma Steel condamnée à 1,2 million pour pollution environnementale",
-      "sum": "Algoma Steel Inc. a été condamnée à une amende de 1,2 million de dollars le 10 septembre 2026 pour avoir rejeté illégalement de l'huile d'engrenages dans la rivière Ste-Marie en Ontario. L'entreprise a plaidé coupable à des violations de la Loi sur les pêches et de la Loi sur la convention concernant les oiseaux migrateurs.",
-      "cat": "Wildlife",
-      "ai": true
-    },
-    {
-      "id": "fddc915b29a9b6e5",
-      "date": "2026-09-11",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZi0tTl94UjRBR2xQNGh1YkJScTZOak81TTdYWXg0Zjk4bkYwemRqUEo0ZHRyX0RRd25JZFBsLWtSb2NUTURrVXhOWnJMVXJLUW1iVnJGal9JMnllbEdwUU5rRXdvWVRjMDFrb0VycU1oZ2JqTkxfQVlmTWw3bmhUR080d2o2UHBQVE9ucFdpMmZRS0xYS0lTMFE3NDdoWm1vWDZibXEwTl9mS1ctb2lxZmxiZ2NfdzA?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Statement by Prime Minister Carney to mark 9/11 and the National Day of Service - pm.gc.ca",
-      "excerpt": "Statement by Prime Minister Carney to mark 9/11 and the National Day of Service pm.gc.ca",
-      "cat": "Economy"
-    },
-    {
-      "id": "a5be65bef84e85d9",
-      "date": "2026-09-11",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/statement-from-the-minister-of-national-defence-on-the-25th-anniversary-of-911.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister marks 25th anniversary of September 11 attacks",
-      "sum": "The Minister of National Defence issued a statement commemorating the 25th anniversary of the September 11, 2001 terrorist attacks, which killed nearly 3,000 people, including 24 Canadians. The statement noted the lasting impact of the attacks on families and global security.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "7e441e9508c64150",
-      "date": "2026-09-11",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-services-procurement/news/2026/09/closure-of-the-gatineau-side-access-to-the-chaudiere-crossing.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Gatineau-side access to Chaudière Crossing closed for Tour de Gatineau",
-      "sum": "Public Services and Procurement Canada is closing vehicle access to the Chaudière Crossing from the Gatineau side to accommodate the Tour de Gatineau event.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "2eb05d591d92e1ec",
-      "date": "2026-09-11",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/09/mp-kelloway-to-announce-funding-to-support-efforts-in-preventing-gun-and-gang-violence-in-cape-breton.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada announces gun and gang violence prevention funding for Cape Breton",
-      "sum": "MP Mike Kelloway will announce federal funding aimed at preventing gun and gang violence in Cape Breton, Nova Scotia, on behalf of the Minister of Public Safety. The announcement is part of the Government of Canada's efforts to enhance community safety.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "1da39e0805d3e0ae",
-      "date": "2026-09-11",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/parks-canada/news/2026/09/government-of-canada-announces-substantial-completion-of-a-new-346m-parks-canada-national-fire-equipment-cache.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Parks Canada completes $34.6M national fire equipment facility",
-      "sum": "The Government of Canada has finished construction of a new $34.6 million fire equipment storage facility located in Banff National Park. The facility is designed to support wildfire response operations across Canada's mountain parks and other regions.",
-      "cat": "Natural resources",
       "ai": true
     }
   ]
