@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:02:14.283Z",
+  "generatedAt": "2026-09-29T04:47:41.389Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "1ec399bd5ffe6cf7",
+      "date": "2026-09-28",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEVRNEdSZ29TUjRyd3Y3OVptWEpYT0JKSU56U0pDWkNVdGR1TDFuLVRLSUMwb2tFY3Y3UXNpaTZPUW8wdmhCOG9CWGcwZVdXT1VQTElyM3Fhb09zYzZ2UzU0MmxtM0k1R09wT01JUjNZdVNSUU1MUzU1VWtHLWFhX2kwcW1IekUyWEFpRnIzS0tKdDVsbDhqVGUwMkhqcjF3Tm16T2hHaFJmZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "As federal budget nears, Canada’s health ministers to meet to talk funding - globalnews.ca",
+      "excerpt": "As federal budget nears, Canada’s health ministers to meet to talk funding globalnews.ca",
+      "cat": "Healthcare"
+    },
     {
       "id": "cde0d14fedd3eef7",
       "date": "2026-09-28",
@@ -193485,19 +193497,6 @@
       "title": "Le ministre Fraser annonce les plans d'expansion de Mil-Aero",
       "sum": "Le ministre Fraser participera à un événement pour présenter les plans d'expansion de l'entreprise Mil-Aero. Cet événement marquera le dévoilement public de ces plans de développement.",
       "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "5e0f72973ae9dea2",
-      "date": "2025-07-07",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2025/07/le-gouvernement-du-canada-investit-135-million-de-dollars-dans-le-national-accessarts-centre-de-calgary.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 1,35 million pour le National accessArts Centre",
-      "sum": "Le gouvernement du Canada fournit un financement pluriannuel de 1,35 million de dollars au National accessArts Centre de Calgary pour soutenir son infrastructure et ses programmes de formation. Cette organisation offre des services artistiques aux personnes en situation de handicap.",
-      "cat": "Culture & heritage",
       "ai": true
     }
   ]
