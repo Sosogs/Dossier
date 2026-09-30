@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-30T04:33:35.349Z",
+  "generatedAt": "2026-09-30T12:06:05.389Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7974,
+      "actions": 7981,
       "sources": 9
     },
     "fr": {
-      "actions": 7026,
+      "actions": 7019,
       "sources": 7
     }
   },
@@ -44,6 +44,78 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "190404a670cd4f79",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRndwOE42cUppeGtnUVJPalBUUnd1Y2VtTzRhSGR6UnhfVHNQT2ptSnhzanNnN1RMQTRaRVh1d3ZtSzZIQXFEVGUzRl9ZWXQwVGdvRnVBUDNHRDVocS1sVWx2U09fc1prcDRxT19RNVljWmpiR29UbWxBWFBoM0I2dVpOVmVmSXZHencxWmF2V0dSRHk0UGFv?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s Bill C-39 attacks the right to strike - NB Media Co-op",
+      "excerpt": "Carney’s Bill C-39 attacks the right to strike NB Media Co-op",
+      "cat": "Economy"
+    },
+    {
+      "id": "625e7672bcde812f",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFlmQXgzTm8wcmcwbHVDZG1vNUxrLUNjSW9XV2Y2TGVuYUI2Ny1Ub3VKTUhZVm1UbENKcVA5UVpoMkpjSmZrbXY3R3RsV1JIa3dBYTk1WGU4ZnNKVE9OTmFfMV9hRC1ndlFOSVR1dGxGUnkwY19SUUZnRU55SWFOTXNDU3p5Vzdzb2dnaS11NjdlTzl5MEE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney announces $1.2B in funding to protect oceans as major projects loom - CBC",
+      "excerpt": "Carney announces $1.2B in funding to protect oceans as major projects loom CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "1e9f89966c51416c",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOem1aODNxdUZvN2QyUmdxYUtJdUhscUsxUUdqM3F6aGFvdS03T0pmZnpaRHVSRC1HZUltV3YzZjlUc1JjODgzbTFkcGdnQnpjMDFWVGpxN1pITWZzXzVCb292NDY2Z3BBUklYYVFMOTNnQVFoWVZyRmZrLVpJZE5iMVYtX25kQ0JBQWtOT1MzZ1FSdkVfdnJpeVJ6eDlPY3J6dVUyakFQdjhqN1FVZzdsT0RzN1BZaU10cjZrakViRHNhVTNEUmE1N1JHeWFPUjA2N1ZhOVR0Yw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney is banking on economic reconciliation but critics say he's not on track - BNN Bloomberg",
+      "excerpt": "Mark Carney is banking on economic reconciliation but critics say he's not on track BNN Bloomberg",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "815875971b6bc1aa",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS1NEOUx4enNCRjRsZlVEU2NxeDJkaXFQWjZKcWVoN1V5SWFXbDBxYjRJVVRtSW05SGNXOVo0M0xvMUNVeGt5c3o1RXBhUFB1Yno4V3hDMDVhNjloQVIwdDhXTlpXSDVDc2ZHbVVwWXczWkc2a1V6bGtLYXJTNUhaU1R0TVF4U2JFOGl4ZVlkVThJbXlFVmduWGpPVTJRMWlxS2NVdDBCUVhUQ2N4UHdDZjRLZHJPNGxaS0V3TjdQcFQwY1I1N2pzSFAyU1dDSFhCNTJNZzdnLVJLZjVFamZWUTh3MVhBbjE2OGRTWkE0bDJnbXlJZGNr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney laughs off Trump adviser telling Canadian lobbyists to ‘get the hell out’ of U.S. - BNN Bloomberg",
+      "excerpt": "PM Carney laughs off Trump adviser telling Canadian lobbyists to ‘get the hell out’ of U.S. BNN Bloomberg",
+      "cat": "Economy"
+    },
+    {
+      "id": "d99574446b5f052e",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM3U5amo3RFYwbFZvbzRySkRyTlZXODRYbXhOWXJnOVpOTDQxei1nNDN1Mm5NZENHT05kMkdXdG5YY1JJY3FuREI0MWxEdUhUQnN5ME9hcHBQck9SZ2gtdzQyaHZDLUk2Z0RmcUQyMF9XeS1aNEFoNW5uWl9kOVA1dTQ4blZFc0hEWHhZ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Michael Higgins: Carney Liberals grudgingly admit antisemitism is a problem - Yahoo News Canada",
+      "excerpt": "Michael Higgins: Carney Liberals grudgingly admit antisemitism is a problem Yahoo News Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "74a9bde898a2bbf1",
+      "date": "2026-09-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR29SNERkX2t4V1VQZUF5MVhaNGpXMm5GWXR6bVAwTWEwMHZFVkJSZURyRTlOVG1IQzZsOXdwZFBCcEozSnpLWnByRkdHbExHRUtwUXBUQkIzb1pxdHR4blpwSmlEQnRwWGd0aGl1WnZsV0NHSTJkWDY0NVhUeGU2dGZhSlB0NVZNNk1QeUZRaC1BcEJ3LWNPMk9FOWMySFFLc2RoVjVQbFdPRmRNa0JnLTA5SlY2cDdrZ3FiZXF1cGJWeldxY1dHZUV1M3VPVm1qenQ4RVZoSVh2dmZlQ0RkRmItdnBaTGpaWkRvVzVnYi1rZmJ5MUYzN2hrTFNSbnJIUGI0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM looks at when to boost immigration as government gets system ‘under control’ - Toronto Star",
+      "excerpt": "PM looks at when to boost immigration as government gets system ‘under control’ Toronto Star",
+      "cat": "Economy"
+    },
     {
       "id": "361bc167fd01d5b2",
       "date": "2026-09-29",
@@ -10160,79 +10232,6 @@
       "sum": "Federal government officials will make an infrastructure announcement in Charlottetown alongside the mayor. The event will be attended by Sean Casey, Parliamentary Secretary to the Minister of Veterans Affairs and Associate Minister of National Defence.",
       "cat": "Infrastructure",
       "ai": true
-    },
-    {
-      "id": "862cfb91dc4d8f5f",
-      "date": "2026-09-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/09/annonce-en-matiere-dinfrastructure-a-charlottetown.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce d'infrastructure à Charlottetown avec représentants fédéraux",
-      "sum": "Une annonce concernant un projet d'infrastructure à Charlottetown sera faite en présence de Sean Casey, secrétaire parlementaire de la ministre des Anciens Combattants, et de Philip Brown, maire de Charlottetown.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "ae5b26cd74b0a86d",
-      "date": "2026-09-14",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXl4a2NyVHh1R21FM3FqNGtCaFpVSXZ4Zk45ZzNZcXpCUWNtTFE5SlJwUEkwRGxkRWwyQjBnQ1N4cFBqdWYwWVlLZkJIRExFOGJXTlZvRkhsaS1vUU50RU1DWFNLWmZ6YmlyZm1aMlRKcXIzQUI4VW1NTWdNdWtBdlZZcnZUdkdJSHZYTjM1OHZGek44S1YxdmJtYVVYTTRuNUNJamxB0gGrAUFVX3lxTE5Fa0RZU0xyU2FLUmE4TXdCcHFIS3ZXTnJHRU5fLXVNTlhqNi1FRHdlWmhJODN6VXNhNDl2Zi1Yb1RHM2lQMF94UlphYkxfbnNIbTl4dUFYNlFSZ2lwNkhERWdieENXXzJXa2lqX3QzSjRrVkpXMURrMGMzUzE0dEV0b09qNXp3SWQ3Y25Xckk2SEhwT091Y1lKOWlDRXRra2w4OXVheURDMnl5VQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Mark Carney pitches Canada to global investors amid US trade war - Al Jazeera",
-      "excerpt": "Mark Carney pitches Canada to global investors amid US trade war Al Jazeera",
-      "cat": "Economy"
-    },
-    {
-      "id": "80964bc17627c169",
-      "date": "2026-09-14",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZE9FNVk1dTZqVUo0ZENDeS1XUEltRmV5MVNBUWhyRjU2TGdmaGVTX0FBanJpYVo1dW5CTGlIQ2pYU0VabHdKZ0hIVnJGdndaUUY1M3hseW9vbWxMcG9QYzdZMW5lcUtWZkpFREtXakhVODRDaUlTSW95SUx3OERLZHFSMTVZaGxva250Q1A4WEx2WmlvaXE0MU9YaUtfSWd2NXZ0NnBLaEhwRmhGSzVKSGhROHQ5LUZza3RQNGYyWDBBUTRCR3VuZ2N1U09aY2d3MUs4aENFU3ZoT2Y5VGVNMmlqWUNEUTRWdEE1OUhhd0FNWXk3bVpXaw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Mark Carney’s trip to Europe will determine how ‘European’ Canada can become - Toronto Star",
-      "excerpt": "Mark Carney’s trip to Europe will determine how ‘European’ Canada can become Toronto Star",
-      "cat": "Economy"
-    },
-    {
-      "id": "2b74bc267253d5a2",
-      "date": "2026-09-14",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTFkyTGlMNmFsYTZtX1J6cElITk5LbERDR3dmY2twTkEwVUFMb0lQNmZfU0FHWVRfU0k0OUVMbDBnOU96bTBJdEo3c0JUMlFuYlBxRndNaHlLNm1ySHRMSlhvT1d6N0lTVWJ1Si12UHBLUVp5ZFhvZ3hvYkxhWFluajRLZVFQUTlDRFd0ZjAwa29tMHR6LVZtQmcySGFoa2NYaHNfNnRld3M4LVEwbjBaczJ6X2dVMUNT?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Ottawa offers faster access to tax rulings as Carney kicks off investment summit - BNN Bloomberg",
-      "excerpt": "Ottawa offers faster access to tax rulings as Carney kicks off investment summit BNN Bloomberg",
-      "cat": "Finance"
-    },
-    {
-      "id": "359ab81228b3847d",
-      "date": "2026-09-14",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUc0VUVFVGFhMTFwVFhCcllYbDBvSzZVeXhtejRVRWc4eGRMMUZ1Mm9FUGl4X3JwSmpFLU1vX2FNcjFDQ2dRdUpNLTRyVTQ3TjRma2Nab0RlT01oNkFMRnI2b3N6TlItNUZobHJVSFNDY2FleEVOUEh0cVFGWEppSkJHX0htekZjMzV4ekFRalc5Vmh6dkpvdkdrQi1CWl9RcUxxR2lHRE53cldHUjM3aw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Ottawa offers faster access to tax rulings as Carney kicks off investment summit - CTV News",
-      "excerpt": "Ottawa offers faster access to tax rulings as Carney kicks off investment summit CTV News",
-      "cat": "Finance"
-    },
-    {
-      "id": "0dc93521e4149674",
-      "date": "2026-09-14",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEh3LUtRbnVfTUs3TWdVV0I5OUM4TURMaUYyRGtIcUxsLWhEQWIwOTdwa0k3cmJLeXhMTUJoajNtcmdYUGxhaGdwRzFYcEF6SmxKQkIzVVRQTm5BMldqam15VDRaUWxJVlZYdVhyNW5ldHZtQWF5TDdwMExnRHc0amNSdU1UZUR2ZC1SbEF2RTFSUWVhMDNjdzZSaFNTQkp2ZDcxY1huMUpLZkpDQ0NsU1JR?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney’s investment summit draws protests by Indigenous leaders, eco groups - APTN News",
-      "excerpt": "Carney’s investment summit draws protests by Indigenous leaders, eco groups APTN News",
-      "cat": "Indigenous services"
     }
   ]
 }

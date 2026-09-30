@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T04:33:35.349Z",
+  "generatedAt": "2026-09-30T12:06:05.389Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,78 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "190404a670cd4f79",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRndwOE42cUppeGtnUVJPalBUUnd1Y2VtTzRhSGR6UnhfVHNQT2ptSnhzanNnN1RMQTRaRVh1d3ZtSzZIQXFEVGUzRl9ZWXQwVGdvRnVBUDNHRDVocS1sVWx2U09fc1prcDRxT19RNVljWmpiR29UbWxBWFBoM0I2dVpOVmVmSXZHencxWmF2V0dSRHk0UGFv?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s Bill C-39 attacks the right to strike - NB Media Co-op",
+      "excerpt": "Carney’s Bill C-39 attacks the right to strike NB Media Co-op",
+      "cat": "Economy"
+    },
+    {
+      "id": "625e7672bcde812f",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFlmQXgzTm8wcmcwbHVDZG1vNUxrLUNjSW9XV2Y2TGVuYUI2Ny1Ub3VKTUhZVm1UbENKcVA5UVpoMkpjSmZrbXY3R3RsV1JIa3dBYTk1WGU4ZnNKVE9OTmFfMV9hRC1ndlFOSVR1dGxGUnkwY19SUUZnRU55SWFOTXNDU3p5Vzdzb2dnaS11NjdlTzl5MEE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney announces $1.2B in funding to protect oceans as major projects loom - CBC",
+      "excerpt": "Carney announces $1.2B in funding to protect oceans as major projects loom CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "1e9f89966c51416c",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOem1aODNxdUZvN2QyUmdxYUtJdUhscUsxUUdqM3F6aGFvdS03T0pmZnpaRHVSRC1HZUltV3YzZjlUc1JjODgzbTFkcGdnQnpjMDFWVGpxN1pITWZzXzVCb292NDY2Z3BBUklYYVFMOTNnQVFoWVZyRmZrLVpJZE5iMVYtX25kQ0JBQWtOT1MzZ1FSdkVfdnJpeVJ6eDlPY3J6dVUyakFQdjhqN1FVZzdsT0RzN1BZaU10cjZrakViRHNhVTNEUmE1N1JHeWFPUjA2N1ZhOVR0Yw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney is banking on economic reconciliation but critics say he's not on track - BNN Bloomberg",
+      "excerpt": "Mark Carney is banking on economic reconciliation but critics say he's not on track BNN Bloomberg",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "815875971b6bc1aa",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS1NEOUx4enNCRjRsZlVEU2NxeDJkaXFQWjZKcWVoN1V5SWFXbDBxYjRJVVRtSW05SGNXOVo0M0xvMUNVeGt5c3o1RXBhUFB1Yno4V3hDMDVhNjloQVIwdDhXTlpXSDVDc2ZHbVVwWXczWkc2a1V6bGtLYXJTNUhaU1R0TVF4U2JFOGl4ZVlkVThJbXlFVmduWGpPVTJRMWlxS2NVdDBCUVhUQ2N4UHdDZjRLZHJPNGxaS0V3TjdQcFQwY1I1N2pzSFAyU1dDSFhCNTJNZzdnLVJLZjVFamZWUTh3MVhBbjE2OGRTWkE0bDJnbXlJZGNr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Carney laughs off Trump adviser telling Canadian lobbyists to ‘get the hell out’ of U.S. - BNN Bloomberg",
+      "excerpt": "PM Carney laughs off Trump adviser telling Canadian lobbyists to ‘get the hell out’ of U.S. BNN Bloomberg",
+      "cat": "Economy"
+    },
+    {
+      "id": "d99574446b5f052e",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM3U5amo3RFYwbFZvbzRySkRyTlZXODRYbXhOWXJnOVpOTDQxei1nNDN1Mm5NZENHT05kMkdXdG5YY1JJY3FuREI0MWxEdUhUQnN5ME9hcHBQck9SZ2gtdzQyaHZDLUk2Z0RmcUQyMF9XeS1aNEFoNW5uWl9kOVA1dTQ4blZFc0hEWHhZ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Michael Higgins: Carney Liberals grudgingly admit antisemitism is a problem - Yahoo News Canada",
+      "excerpt": "Michael Higgins: Carney Liberals grudgingly admit antisemitism is a problem Yahoo News Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "74a9bde898a2bbf1",
+      "date": "2026-09-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR29SNERkX2t4V1VQZUF5MVhaNGpXMm5GWXR6bVAwTWEwMHZFVkJSZURyRTlOVG1IQzZsOXdwZFBCcEozSnpLWnByRkdHbExHRUtwUXBUQkIzb1pxdHR4blpwSmlEQnRwWGd0aGl1WnZsV0NHSTJkWDY0NVhUeGU2dGZhSlB0NVZNNk1QeUZRaC1BcEJ3LWNPMk9FOWMySFFLc2RoVjVQbFdPRmRNa0JnLTA5SlY2cDdrZ3FiZXF1cGJWeldxY1dHZUV1M3VPVm1qenQ4RVZoSVh2dmZlQ0RkRmItdnBaTGpaWkRvVzVnYi1rZmJ5MUYzN2hrTFNSbnJIUGI0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM looks at when to boost immigration as government gets system ‘under control’ - Toronto Star",
+      "excerpt": "PM looks at when to boost immigration as government gets system ‘under control’ Toronto Star",
+      "cat": "Economy"
+    },
     {
       "id": "361bc167fd01d5b2",
       "date": "2026-09-29",
@@ -51482,6 +51554,18 @@
       "cat": "Innovation, science & industry",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "4863f67fb3248949",
+      "date": "2026-07-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT2gtNTk5WUV2RUc1ZHlIbVE4SVM5d0JLaUVROW5JRi1ydkFIM1Vjd3l0cjYwUGxXU1A2VkRSWXFoQU9TdHVyOXRaTFdYTno5NEVVUFNicnRVbVkwR05IVTAwdS00VmhqNEFKMnlVS0ZiSmtfQzJraDEwWUFuUlJFYWhXV21XZmxNdlh6X205WlFMWXFhdG1ldnVDNGgyWFA1WTcwNEY1NVhaS0xFOEM3cV9NVGd4TnotWTNKbF9ENEtSb2ZlMVZzVmRqdXNKSTlKR3NqS0t6Qkx0WHRWNkJySk91VW9GZkxmaTdQdkUyOTY?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Fed. and B.C. Govts Announce Multi-Billion-Dollar Resource Deal – July 2, 2026 - CPAC",
+      "excerpt": "Fed. and B.C. Govts Announce Multi-Billion-Dollar Resource Deal – July 2, 2026 CPAC",
+      "cat": "Economy"
     },
     {
       "id": "84ed5facfb714b62",
@@ -193391,97 +193475,6 @@
       "title": "Canada accorde 1,8 M$ au Festival d'été de Québec",
       "sum": "Le gouvernement du Canada fournit une aide financière de 1,75 million de dollars au Festival d'été de Québec. Ce festival musical annuel attire des touristes grâce à ses spectacles d'artistes locaux et internationaux.",
       "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "f64ccd20afa1b4c0",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2025/07/un-nouveau-programme-favorise-la-croissance-de-lindustrie-horticole-de-lile-du-prince-edouard.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Nouveau programme soutient l'industrie horticole de l'Île-du-Prince-Édouard",
-      "sum": "Un programme offert aux producteurs horticoles de l'Île-du-Prince-Édouard vise à les aider à diversifier leurs cultures et à s'adapter aux changements climatiques. Cette initiative s'inscrit dans le Partenariat canadien pour une agriculture durable.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "4811135d6f65aba5",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2025/07/le-ministre-champagne-conclut-une-visite-en-italie-et-reitere-le-soutien-indefectible-du-canada-a-lukraine.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le ministre Champagne conclut sa visite en Italie",
-      "sum": "Le ministre des Finances François-Philippe Champagne a terminé une visite à Rome où il a participé à une conférence sur le redressement de l'Ukraine et a eu des discussions bilatérales avec l'Italie.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "a3528fb99553e431",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2025/07/les-forces-armees-canadiennes-pretes-a-participer-au-plus-grand-exercice-militaire-australien.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Forces armées canadiennes participent à exercice militaire australien",
-      "sum": "Les Forces armées canadiennes enverront environ 600 membres à l'exercice TALISMAN SABRE 2025 en Australie, du 13 juin au 4 août 2025. Cet exercice constitue la plus grande édition de ce type de manœuvre militaire.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "a6ecf8145a2d8202",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/07/lasfc-ouvre-des-enquetes-sur-les-presumes-dumping-et-subventionnement-de-tuyaux-devacuation-en-fonte-de-la-chine.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "ASFC enquête sur le dumping et subventionnement de tuyaux chinois",
-      "sum": "L'Agence des services frontaliers du Canada ouvre des enquêtes sur les accusations de dumping et de subventionnement relatives aux tuyaux d'évacuation en fonte importés de Chine.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "44fbf69558c93cb1",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/07/isolement-cellulaire-a-letablissement-de-joyceville.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Isolement cellulaire à l'Établissement de Joyceville pour fouille",
-      "sum": "Un isolement cellulaire a été mis en place à l'Établissement de Joyceville pour permettre au personnel d'effectuer une fouille exceptionnelle. Cet établissement offre plusieurs niveaux de sécurité.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "c1fb53bd34abeaa5",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/07/saisie-dobjets-interdits-et-non-autorises-a-letablissement-de-millhaven.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Objets interdits saisis à l'Établissement de Millhaven",
-      "sum": "Le 10 juillet 2025, le personnel de l'Établissement de Millhaven a saisi un colis contenant des objets interdits et non autorisés. Cet établissement fédéral est une installation à sécurité maximale.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "86bafe8f45a385c1",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/07/declaration-a-loccasion-de-la-journee-de-commemoration-du-genocide-de-srebrenica.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada commémmore le 30e anniversaire du génocide de Srebrenica",
-      "sum": "La ministre des Affaires étrangères a publié une déclaration pour marquer le 30e anniversaire du génocide de Srebrenica en Bosnie-Herzégovine. Le Canada rend hommage aux plus de 8 000 hommes et garçons tués et aux plus de 20 000 personnes déplacées lors de cet événement.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]
