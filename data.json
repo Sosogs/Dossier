@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:01:06.793Z",
+  "generatedAt": "2026-09-30T04:33:35.349Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,68 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "361bc167fd01d5b2",
+      "date": "2026-09-29",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-meets-with-minister-of-foreign-affairs-and-public-service-of-the-bahamas.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canadian Foreign Affairs Minister meets Bahamas counterpart",
+      "sum": "Canada's Minister of Foreign Affairs met with The Bahamas' Minister of Foreign Affairs on September 28, 2026, during an international conference in Toronto focused on returning Ukrainian children, detained civilians, and prisoners of war.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "a46f84970a6986b9",
+      "date": "2026-09-29",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-sentretient-avec-le-ministre-des-affaires-etrangeres-et-de-la-fonction-publique-des-bahamas.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Anand rencontre son homologue des Bahamas",
+      "sum": "La ministre canadienne des Affaires étrangères, Anita Anand, s'est entretenue avec le ministre des Affaires étrangères des Bahamas, Frederick Mitchell, lors d'une conférence internationale à Toronto portant sur le retour des enfants ukrainiens et des prisonniers de guerre.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "4277e64d49de1f93",
+      "date": "2026-09-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOV21DamZFaEFGb2lVYlVxaTEtTTUzX3RzVmJxODBOcnlDMXdWMzNnTHVhcDh2S1dWTkxyaVIxQ1JhRUwxZGtmYWtrOURFaU5SNUZlYWhHdGlBN21kcEtPamkwMW5JX2VfVjhwTVRzNHEzMjU2Tm80M2NYQ1JQdTJRd2F5UFF3cm9nTWN0ZGt1RjJPM0dOSTlpdS14cU9WNVd2bHVuN0RHREhUNmMycU9Dd1BPd21BdWljNm5WUnJYVjBhT3RZOHJfZzE4YlpHMUYzUE1fY1JTem9FcEx4UUMxTlZqbks1Y2dWN0hYY2Exd25vVWtZVVJTVmUwR09uWVpHeXZR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney cites LNG terminal expansion as the kind of major project Canada needs - Toronto Star",
+      "excerpt": "Mark Carney cites LNG terminal expansion as the kind of major project Canada needs Toronto Star",
+      "cat": "Economy"
+    },
+    {
+      "id": "4a5a477c75045515",
+      "date": "2026-09-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzanJmb3JadVgyQWdlS1dQakhBZGVmTkJPejZ2TUttZkk5Njc5WU9zZjMzUEw1ZFUwbjA5bnRNalc4NTYyRzA0SnVpd3pMZHE5bU11R1NZUjFDNmZHcElDU2lRMnRVZmh4U0k3U1Y2ZGVhRnFwaEpJQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Immigration increase could be on the horizon, Carney suggests in interview - National - Global News",
+      "excerpt": "Immigration increase could be on the horizon, Carney suggests in interview - National Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "d52cc3ead49880df",
+      "date": "2026-09-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w5VVd6dDQyX2IyVzBySnZyb1hrTmh4ak54R3c3anJoUENYMTNsbFVSUUdyLWZUWEMxaEg0UmlOXzBrNWd5LUxud2M3S29ydE5Dc0thYWU1aUcxNDlkVF9mekl5Y3hHTlBrVEhpbUJSc2Z3UWNpVFNsb3ZxMkZpd1AydG5JRTFkb2cyWVQxeHQwdUh4QWxRQ0RnN2JZTWMyOGFpd2xGQmtiSTV3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "New West Coast pipeline expected to be designated project of national interest by Thursday - The Globe and Mail",
+      "excerpt": "New West Coast pipeline expected to be designated project of national interest by Thursday The Globe and Mail",
+      "cat": "Natural resources"
+    },
     {
       "id": "8dabd229ee05d20c",
       "date": "2026-09-29",
@@ -5169,6 +5231,18 @@
       "sum": "Les ministres des Affaires étrangères du G7 et de l'Union européenne déclarent que la situation au Yémen menace la stabilité régionale, la sécurité énergétique mondiale et la liberté de navigation maritime.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "9dcbd2990f8bb3fa",
+      "date": "2026-09-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0RDR3Z4Z3MwNS1tcVdGQXVobHhaUjlIOGZqNjVBc3l6TXM4SHRxeHBWS05PME82cVZ1QWdpUWZFRmVYQUJIQ09GVm1tamtjLWhucU8zQjgtU3I4YWZCNndjbi1IbXBUeFJXS0xlTV9zOV9rZE9DaUdxanRNRHhiYld5TlJOTEpJV2lBcVFiWk1EbVlZY3g5Slp4UjIyZGQtZWpPQkhjN2Rla1QyNWx4MnZ1ZnVPSnZJZlNB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Ottawa will balance operating budget a year early as federal revenues jump 10% - The Hub | More Signal. Less Noise.",
+      "excerpt": "Carney says Ottawa will balance operating budget a year early as federal revenues jump 10% The Hub | More Signal. Less Noise.",
+      "cat": "Finance"
     },
     {
       "id": "361681d35ac86805",
@@ -193408,84 +193482,6 @@
       "title": "Le Canada commémmore le 30e anniversaire du génocide de Srebrenica",
       "sum": "La ministre des Affaires étrangères a publié une déclaration pour marquer le 30e anniversaire du génocide de Srebrenica en Bosnie-Herzégovine. Le Canada rend hommage aux plus de 8 000 hommes et garçons tués et aux plus de 20 000 personnes déplacées lors de cet événement.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "ceafcbf9b192ba44",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2025/07/le-gouvernement-du-canada-investit-dans-lenergie-renouvelable-le-captage-du-carbone-et-la-modernisation-des-reseaux-electriques-dans-les-maritimes.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 16 millions pour l'énergie renouvelable dans les Maritimes",
-      "sum": "Le gouvernement du Canada annonce un financement fédéral de 16 millions de dollars pour des projets d'énergie renouvelable, de captage du carbone et de modernisation des réseaux électriques dans les provinces maritimes. Ces investissements visent à fournir une énergie propre et fiable à l'Île-du-Prince-Édouard, la Nouvelle-Écosse et le Nouveau-Brunswick.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "c3cd2595890bb3cf",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2025/07/document-dinformation--le-gouvernement-du-canada-investit-dans-lenergie-renouvelable-le-captage-du-carbone-et-la-modernisation-des-reseaux-electriq.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 16 millions dans l'énergie renouvelable des Maritimes",
-      "sum": "Le gouvernement fédéral annonce un financement de près de 16 millions de dollars pour des projets d'énergie renouvelable, de captage du carbone et de modernisation des réseaux électriques en Nouvelle-Écosse, à l'Île-du-Prince-Édouard et au Nouveau-Brunswick.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "0ca3639510ccd0e6",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-eau-canada/nouvelles/2025/07/des-millions-pour-les-grands-lacs--le-canada-fournit-93-millions-de-dollars-pour-des-solutions-en-eau-douce.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 9,3 millions pour solutions eau douce Grands Lacs",
-      "sum": "Le gouvernement du Canada consacre 9,3 millions de dollars à des projets de protection de l'eau douce dans le bassin versant des Grands Lacs. Ces investissements visent à soutenir l'industrie, les loisirs, les écosystèmes et la culture de la région.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "8538255375fd90bd",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/07/la-ministre-anand-rencontre-le-directeur-du-bureau-de-la-commission-centrale-des-affaires-etrangeres-et-ministre-des-affaires-etrangeres-de-la-chin.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Anand rencontre le ministre chinois des Affaires étrangères",
-      "sum": "La ministre canadienne des Affaires étrangères, Anita Anand, a rencontré le ministre chinois des Affaires étrangères, Wang Yi, lors du Forum régional de l'ASEAN à Kuala Lumpur, en Malaisie.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "65b69c466f9bf577",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-eau-canada/nouvelles/2025/07/des-millions-pour-les-grands-lacs--le-canada-fournit-93-millions-de-dollars-pour-des-solutions-en-eau-douce0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada finance 26 projets pour l'écosystème des Grands Lacs",
-      "sum": "Le gouvernement du Canada a annoncé un financement de 9,3 millions de dollars pour 26 projets visant à améliorer l'écosystème d'eau douce des Grands Lacs.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "f2442b67be93f607",
-      "date": "2025-07-11",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2025/07/lhonorable-tim-hodgson-ministre-de-lenergie-et-des-ressources-naturelles-conference-de-presse-de-cloture--conference-des-ministres-de-lenergie-et-d.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Hodgson préside la Conférence des ministres de l'Énergie et des Mines",
-      "sum": "Le ministre fédéral de l'Énergie et des Ressources naturelles Tim Hodgson a coprésident la Conférence des ministres de l'Énergie et des Mines 2025 le 11 juillet. Cette conférence réunit les treize administrations provinciales et territoriales ainsi que le gouvernement fédéral.",
-      "cat": "Natural resources",
       "ai": true
     }
   ]
