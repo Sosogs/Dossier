@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T04:44:55.988Z",
+  "generatedAt": "2026-10-01T12:39:27.822Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "1a1d454fb3718ee8",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbllCZHZRNXBGa1dqYTJkWjVXUmxKbE84S3pUT1Q0M0R6b2t2bXkwX2I5Z2pjU3JKY0k2QjdGeGZxclNHa0ZCQnRRNFhUQkwxWXdSaTlKaHhSWEFHSEVtN2VRNnVNUXJWUXh2NUV5LUxjdEZjNVdoRHRZN0swV3NodXVHakF2TE9sc0MzWjJORQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says $33-billion LNG expansion shows Canada as an 'energy superpower' | Daily Hive | Urbanized - Daily Hive",
+      "excerpt": "Carney says $33-billion LNG expansion shows Canada as an 'energy superpower' | Daily Hive | Urbanized Daily Hive",
+      "cat": "Natural resources"
+    },
     {
       "id": "56d5bcbe07a9c393",
       "date": "2026-10-01",
@@ -83,6 +95,30 @@
       "title": "Prime Minister Carney announces $1.2B investment to protect Canada’s oceans - play 103.7",
       "excerpt": "Prime Minister Carney announces $1.2B investment to protect Canada’s oceans play 103.7",
       "cat": "Economy"
+    },
+    {
+      "id": "d0569219c1bb417d",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSG1WeDYtNHdudlc1azlpQWJfLTRLaHZ0dndCZUYwcGhjbk1CUVZMamdRZHh6THI1VlAxcDRmOTNVSmJHTGtJdy05WnY1Y2htNXAzT0FBSGhVSDhFUTBaWDQ5TVFISUtzdjJBM2dmb1JlWVNtVUhaMmQ5SDBtOW8xTWdxMEozUkJpbUE3WEhDVmtqT0JLczRvYWJnb0NSRWxIS21EdGtpWUZCcUlKVHVDTjNuc01jNm5mWmJrbHhsa3NiUjdjUlVj?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘The work of reconciliation is far from finished’: Carney reflects at ceremony in Edmonton - ctvnews.ca",
+      "excerpt": "‘The work of reconciliation is far from finished’: Carney reflects at ceremony in Edmonton ctvnews.ca",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "ac92a7b0f3cdd6f9",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kRTE1cm1DV1RzMkdjd1djcGNrbnBKNkJaUy1lRlFJMDE3UTFUV19uZmdJUlRwZ1VCMnJMYVNFNkVvLXBicF84TDc5b29taE1xWVU5MldRSkhKbVNPMTljbHB3cl9GbjhUUU5UNFktS3pEMUphSEYtQUd3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Under Carney, Canada Is Cooling on Reconciliation - The Walrus",
+      "excerpt": "Under Carney, Canada Is Cooling on Reconciliation The Walrus",
+      "cat": "Indigenous services"
     },
     {
       "id": "57fc9fc62181807a",
@@ -494,6 +530,18 @@
       "lang": "en",
       "title": "Michael Higgins: Carney Liberals grudgingly admit antisemitism is a problem - Yahoo News Canada",
       "excerpt": "Michael Higgins: Carney Liberals grudgingly admit antisemitism is a problem Yahoo News Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "fb0012d43b89040a",
+      "date": "2026-09-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM05EaVRXdl9DRW1XOE1UZXF4YXppd2tyYmxJVE12T0Z2cjNGSnJMYTU5MzFtYjhhQkVXbzNUSWdMc0l1N1ZnSnk4ckF6emxPbE5MMktLWWctdzduVWppcmVOVXF2NzY1QU1mbnlMZ2o2NHVoMjdaRnpqWm8wREo3UmlGckNwNm51WE5NRF80VWtnZDZxT2hSNnB1ZU1CZnpmYmF3SFhrRy0ycDFBMklfWUJzdENlbHF4dTJ1Tk1SSUc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "In New York Times interview, PM Carney suggests immigration increase is on the horizon - ctvnews.ca",
+      "excerpt": "In New York Times interview, PM Carney suggests immigration increase is on the horizon ctvnews.ca",
       "cat": "Economy"
     },
     {
@@ -193408,58 +193456,6 @@
       "title": "L'ombudsman de l'approvisionnement recommande la médiation pour les contrats de construction",
       "sum": "L'ombudsman de l'approvisionnement a publié un rapport identifiant des problèmes courants dans l'administration des contrats de construction fédéraux. Le rapport recommande l'utilisation de services de médiation pour résoudre ces enjeux.",
       "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "6d66e567fab08ebb",
-      "date": "2025-07-14",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2025/07/le-canada-et-les-territoires-du-nord-ouest-sassocient-dans-le-cadre-dune-initiative-novatrice-danalyse-de-carottes-fondee-sur-lia-pour-soutenir-lex.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et TNO lancent initiative IA analyse carottes minérales",
-      "sum": "Le gouvernement du Canada et les Territoires du Nord-Ouest collaborent sur un projet de recherche utilisant l'intelligence artificielle et le balayage numérique pour analyser des carottes de forage. Cette initiative vise à identifier le potentiel minéral du Nord canadien.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "2165a1df497d5603",
-      "date": "2025-07-14",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/instituts-recherche-sante/nouvelles/2025/07/nomination-de-la-dre-rae-yeung-au-poste-de-directrice-scientifique-de-linstitut-de-lappareil-locomoteur-et-de-larthrite-des-irsc.html",
-      "type": "Appointment",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Nomination de Rae Yeung à la direction scientifique de l'IALA",
-      "sum": "La Dre Rae Yeung a été nommée directrice scientifique de l'Institut de l'appareil locomoteur et de l'arthrite des IRSC pour un mandat de quatre ans commençant le 1er octobre 2025.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "a2508510ea717085",
-      "date": "2025-07-14",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2025/07/le-nouveau-gouvernement-du-canada-tiendra-des-consultations-sur-son-premier-budget-federal.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le gouvernement du Canada consulte sur le budget fédéral 2025",
-      "sum": "Le nouveau gouvernement canadien tiendra des consultations en vue de préparer son premier budget fédéral pour 2025. Le gouvernement prévoit de réduire les dépenses tout en augmentant les investissements pour stimuler l'économie et attirer les capitaux privés.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "0775e3501fcca325",
-      "date": "2025-07-14",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2025/07/le-nouveau-gouvernement-du-canada-adopte-un-regime-provisoire-dapprovisionnement-reciproque-pour-proteger-les-entreprises-canadiennes-contre-les-pr.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada adopte un régime provisoire d'approvisionnement réciproque",
-      "sum": "Le gouvernement du Canada met en place un régime provisoire d'approvisionnement réciproque pour protéger les entreprises canadiennes contre les pratiques commerciales injustes. Cette mesure est prise pendant que le Canada négocie un nouveau partenariat économique et de sécurité avec les États-Unis.",
-      "cat": "Economy",
       "ai": true
     }
   ]

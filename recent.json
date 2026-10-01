@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T04:44:55.988Z",
+  "generatedAt": "2026-10-01T12:39:27.822Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7983,
+      "actions": 7987,
       "sources": 9
     },
     "fr": {
-      "actions": 7017,
+      "actions": 7013,
       "sources": 7
     }
   },
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "1a1d454fb3718ee8",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbllCZHZRNXBGa1dqYTJkWjVXUmxKbE84S3pUT1Q0M0R6b2t2bXkwX2I5Z2pjU3JKY0k2QjdGeGZxclNHa0ZCQnRRNFhUQkwxWXdSaTlKaHhSWEFHSEVtN2VRNnVNUXJWUXh2NUV5LUxjdEZjNVdoRHRZN0swV3NodXVHakF2TE9sc0MzWjJORQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says $33-billion LNG expansion shows Canada as an 'energy superpower' | Daily Hive | Urbanized - Daily Hive",
+      "excerpt": "Carney says $33-billion LNG expansion shows Canada as an 'energy superpower' | Daily Hive | Urbanized Daily Hive",
+      "cat": "Natural resources"
+    },
     {
       "id": "56d5bcbe07a9c393",
       "date": "2026-10-01",
@@ -93,6 +105,30 @@
       "title": "Prime Minister Carney announces $1.2B investment to protect Canada’s oceans - play 103.7",
       "excerpt": "Prime Minister Carney announces $1.2B investment to protect Canada’s oceans play 103.7",
       "cat": "Economy"
+    },
+    {
+      "id": "d0569219c1bb417d",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSG1WeDYtNHdudlc1azlpQWJfLTRLaHZ0dndCZUYwcGhjbk1CUVZMamdRZHh6THI1VlAxcDRmOTNVSmJHTGtJdy05WnY1Y2htNXAzT0FBSGhVSDhFUTBaWDQ5TVFISUtzdjJBM2dmb1JlWVNtVUhaMmQ5SDBtOW8xTWdxMEozUkJpbUE3WEhDVmtqT0JLczRvYWJnb0NSRWxIS21EdGtpWUZCcUlKVHVDTjNuc01jNm5mWmJrbHhsa3NiUjdjUlVj?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘The work of reconciliation is far from finished’: Carney reflects at ceremony in Edmonton - ctvnews.ca",
+      "excerpt": "‘The work of reconciliation is far from finished’: Carney reflects at ceremony in Edmonton ctvnews.ca",
+      "cat": "Indigenous services"
+    },
+    {
+      "id": "ac92a7b0f3cdd6f9",
+      "date": "2026-09-30",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kRTE1cm1DV1RzMkdjd1djcGNrbnBKNkJaUy1lRlFJMDE3UTFUV19uZmdJUlRwZ1VCMnJMYVNFNkVvLXBicF84TDc5b29taE1xWVU5MldRSkhKbVNPMTljbHB3cl9GbjhUUU5UNFktS3pEMUphSEYtQUd3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Under Carney, Canada Is Cooling on Reconciliation - The Walrus",
+      "excerpt": "Under Carney, Canada Is Cooling on Reconciliation The Walrus",
+      "cat": "Indigenous services"
     },
     {
       "id": "57fc9fc62181807a",
@@ -504,6 +540,18 @@
       "lang": "en",
       "title": "Michael Higgins: Carney Liberals grudgingly admit antisemitism is a problem - Yahoo News Canada",
       "excerpt": "Michael Higgins: Carney Liberals grudgingly admit antisemitism is a problem Yahoo News Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "fb0012d43b89040a",
+      "date": "2026-09-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM05EaVRXdl9DRW1XOE1UZXF4YXppd2tyYmxJVE12T0Z2cjNGSnJMYTU5MzFtYjhhQkVXbzNUSWdMc0l1N1ZnSnk4ckF6emxPbE5MMktLWWctdzduVWppcmVOVXF2NzY1QU1mbnlMZ2o2NHVoMjdaRnpqWm8wREo3UmlGckNwNm51WE5NRF80VWtnZDZxT2hSNnB1ZU1CZnpmYmF3SFhrRy0ycDFBMklfWUJzdENlbHF4dTJ1Tk1SSUc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "In New York Times interview, PM Carney suggests immigration increase is on the horizon - ctvnews.ca",
+      "excerpt": "In New York Times interview, PM Carney suggests immigration increase is on the horizon ctvnews.ca",
       "cat": "Economy"
     },
     {
@@ -10183,58 +10231,6 @@
       "title": "Government introduces Productivity Mega Deduction for business investment",
       "sum": "The Government of Canada proposes a new tax measure called the Productivity Mega Deduction that would allow businesses to immediately write off the full cost of depreciable property investments in the year they are made. The measure is intended to increase business investment and improve Canada's tax competitiveness.",
       "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "da5d76b9bf832ed1",
-      "date": "2026-09-15",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/09/minister-champagne-welcomes-canada-growth-fund-investment-in-ontario-copper-and-palladium-mine.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada Growth Fund invests in Ontario copper and palladium mine",
-      "sum": "Minister Champagne announced that the Canada Growth Fund is providing investment in a copper and palladium mining operation in Ontario. The investment supports resource extraction and economic development in the province.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "613225ef63f9f702",
-      "date": "2026-09-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/document-dinformation--les-gouvernements-du-canada-et-de-lalberta-elargissent-lacces-a-internet-haute-vitesse-en-alberta.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Alberta élargissent l'accès à Internet haute vitesse",
-      "sum": "Les gouvernements du Canada et de l'Alberta travaillent ensemble pour augmenter l'accès à Internet haute vitesse dans la province. Cette initiative vise à améliorer la connectivité pour les résidents albertains.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "6bca4a332a59c135",
-      "date": "2026-09-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/les-gouvernements-du-canada-de-lalberta-elargissent-lacces-a-internet-haute-vitesse-en-alberta.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Alberta élargissent l'accès à Internet haute vitesse",
-      "sum": "Les gouvernements du Canada et de l'Alberta investissent ensemble pour connecter 1 833 foyers à Internet haute vitesse en Alberta. Cet investissement fédéral-provincial vise à améliorer l'accès aux services Internet dans la province.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "f5ece796562e6de0",
-      "date": "2026-09-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-pacifique/nouvelles/2026/09/le-gouvernement-du-canada-annoncera-un-investissement-du-fonds-pour-batir-des-collectivites-fortes-dans-un-projet-ferroviaire-dans-le-grand-victoria.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada annonce investissement ferroviaire à Esquimalt en Colombie-Britannique",
-      "sum": "Le gouvernement du Canada annoncera un financement pour un projet ferroviaire à Esquimalt, en Colombie-Britannique, par l'intermédiaire de PacifiCan dans le cadre du Fonds pour bâtir des collectivités fortes.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]
