@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T04:36:21.614Z",
+  "generatedAt": "2026-10-02T12:03:37.164Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7996,
+      "actions": 7999,
       "sources": 9
     },
     "fr": {
-      "actions": 7004,
+      "actions": 7001,
       "sources": 7
     }
   },
@@ -44,6 +44,42 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ca83aac44d2ca355",
+      "date": "2026-10-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPci1ScVltQ0JqanYyZDAtMzI2aG1FUDhaZTZ5UFdZVVRGSGNwenVlbFpZMmp0aklGSkltR1VqTlo1anN6ZnEtRTlMVk4wY0VFZkFYUUMybm1IVFBEWFdsOTNUX3haSDJGc1BzV2lCM1FlWkV6MlF2UlVnUHNHWHZFZE1EMDhnNHoxSXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover - Financial Post",
+      "excerpt": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover Financial Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "bec802eee557dac6",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGlKd05CR3BCMlF1OVlTVTJOYktzMmtxR2JETm1IbDcwNW00cEktdjQ0dHVpZlhiMVRteVhhZzU3M20tcGZtRzFxRzZGSkpaQUVnQ1NBR1U1ejdrLVEySnZEU3hOcDJzWnZYRFRTRzRlN3owY1E4N0FWVDBUVTB1aUhuSEo5TmYySTFRQmN4YWZlaWJjNWdmQ2RtckwxQzRIN0dwT1luWnYwbXQ0X042VnhyX09qcFBXelpV?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney expresses confidence in producer demand for new West Coast oil pipeline - edmonton.citynews.ca",
+      "excerpt": "Carney expresses confidence in producer demand for new West Coast oil pipeline edmonton.citynews.ca",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "1e3b08f1eed8a2b9",
+      "date": "2026-10-01",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjRfMzJ4MTVjU2tnTzk3VUpPY3B2N2RfVWt6d2MtUFRfdmlkckVGd1hNdXo5X0k0UTk4V2RoTG9iS2x0R2llMWlaZjVVRjNFbDVGYnJHSkVkdUhSMlhVRjNjTklwUzVwTng1Q203ZXpCVWVFdE11TG1xUG5BV2VFZ3dtT1U1enM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le projet de pipeline vers la côte Ouest désigné d’intérêt national - Radio-Canada",
+      "excerpt": "Le projet de pipeline vers la côte Ouest désigné d’intérêt national Radio-Canada",
+      "cat": "Natural resources"
+    },
     {
       "id": "0d36f3f00e9180a3",
       "date": "2026-10-01",
@@ -1950,6 +1986,18 @@
       "lang": "en",
       "title": "Michael Higgins: Carney Liberals grudgingly admit antisemitism is a problem - Yahoo News Canada",
       "excerpt": "Michael Higgins: Carney Liberals grudgingly admit antisemitism is a problem Yahoo News Canada",
+      "cat": "Economy"
+    },
+    {
+      "id": "536d7c65e33f5843",
+      "date": "2026-09-29",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNk5Ed1dWakhyV0R0SzZLRXBhZV9YR0pKX1JWTEs0MVgyWkc1elVLWmdHZ1lTVVhoTTNXRmFNRVM1VDhSNVUzQW9ySDVOLVBGRlVvYTRIWENaUFg2QXJzT1RiVEl2dkp2X2p0MHRCcGl0SklEZzYtbHFmZW9wLTdraE1qQ0RxS1ZVd3A2RWUwMF9sS3ZmMTFFR1N2NkdtZkFsTmJnSjNRWU40OG5XcVpfdTExbmFnd0tORVE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney welcomes LNG Canada Phase 2, the second-largest single private investment in Canadian history - pm.gc.ca",
+      "excerpt": "Prime Minister Carney welcomes LNG Canada Phase 2, the second-largest single private investment in Canadian history pm.gc.ca",
       "cat": "Economy"
     },
     {
@@ -10213,58 +10261,6 @@
       "title": "Federal government invests $38 million in Wiikwemkoong watermain infrastructure",
       "sum": "Wiikwemkoong Unceded Territory will receive over $38 million in federal funding for watermain infrastructure through the Build Communities Strong Fund. The investment is provided through the Direct Delivery stream of the program.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "85c1cc9265d31277",
-      "date": "2026-09-16",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/prairies-economic-development/news/2026/09/new-initiative-harnesses-manitoba-expertise-to-strengthen-canadas-defence-industrial-base-and-defend-our-sovereignty.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Manitoba initiative strengthens Canada's defence industrial capacity",
-      "sum": "RRC Polytech is leading a project to help businesses meet defence industry requirements and build Canada's domestic supply chains. The initiative aims to enhance the country's defence industrial base.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "e938b518cfd5560d",
-      "date": "2026-09-16",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/09/atlantic-canada-joins-forces-to-showcase-ai-companies-at-all-in-2026.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Atlantic Canada supports 37 AI companies for international showcase",
-      "sum": "The Canadian government is providing investment to help 37 artificial intelligence companies from Atlantic Canada participate in the ALL IN 2026 event. The funding aims to support these companies in growing their businesses domestically and internationally.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "a36c2fba2b121e0f",
-      "date": "2026-09-16",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/09/atlantic-canadian-companies-and-organizations-taking-part-in-all-in-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Atlantic Canadian companies organizations participate in ALL IN 2026",
-      "sum": "Atlantic Canadian companies and organizations are participating in ALL IN 2026, an initiative or program. The specific details and objectives of this participation are not provided in the available text.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "20a9a858b0eae977",
-      "date": "2026-09-16",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-justice/news/2026/09/the-honourable-j-gareth-morleys-questionnaire.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Judicial application questionnaire introduced for federal appointments",
-      "sum": "The Minister of Justice introduced a new process on October 20, 2016 allowing qualified Canadian lawyers and judges to apply for federal judicial appointments by completing a questionnaire. The Honourable J. Gareth Morley's questionnaire is provided as an example of this application form.",
-      "cat": "Justice",
       "ai": true
     }
   ]
