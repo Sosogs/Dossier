@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T22:28:14.730Z",
+  "generatedAt": "2026-10-02T04:36:21.614Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,42 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "0d36f3f00e9180a3",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVENBNjFBSzZxWXpydnhMS2tEaEpSVl9XdEdDejB6VjhQVmxUeklsNjFDemgxQ012OEl2NGsyS3FaUXE3clRnRi1aRXVOY3FtaVc0VEk3Z0xNYmluSWJnU0JRU0x0LTZXeXFtRHIxVjNSRHRWQUtfWUd6Zmc2TUxfRXEyWEJ0NTFPanJTcTlKQ2pfSEtjRHdhYnlQaHFxVjAzUFBXNDM4dGJRRUctcV90TkJFaXRwZVZyQUc1WHpGX0QwTTJYWnlqQ0Nn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s first-ever project of national interest under PM Carney revealed - BNN Bloomberg",
+      "excerpt": "Canada’s first-ever project of national interest under PM Carney revealed BNN Bloomberg",
+      "cat": "Economy"
+    },
+    {
+      "id": "2c3109e2091b923a",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUlseFVxbTJ6T09RNGRBQm5FRjl5NDItc0ZKaDMwUDhxcUQtdlk0eW5tamZKYjltLS1uR2VPVnRXNm5aUlFMcEZEZjI4YWk4YjUyQmNXVW1UWEhuUmpQVlcyQ0otWFV6YmZzbkd3SUZ0TFNndWVwUTJoYUszaFBZc1FySjU0V2J5SFJxaFJrSm5CeW1VdHBGcTF2QnJkX3lBYnVGVm53?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "West Coast 'Pacific Link' pipeline is in Canadian national interest: Carney, Smith - Edmonton Journal",
+      "excerpt": "West Coast 'Pacific Link' pipeline is in Canadian national interest: Carney, Smith Edmonton Journal",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "0cfa709cdf57b6c0",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOQXBEbXpxZmJZWVhzenRkejV4YW5DZnZrdkxxaHNIYk5iN2EwWUw1aVVETjVFUWJMSVF4Q1JnWTA4d0xkc2xSeExoVVRadmRLS3ZRcXdyMzFIVkI0WElyT2hFN0otY2M5RUJxY2lTRmRqeURhdVdGUm1pZTN1a193d3hWdGxNYzVJY2xDRl9wbm1GdVZUSzFDdGRxZWN6Y05xMi1RYldWcGVIUWZlSmNXRnhZWWIxaG1Nc2gxSUFhMGFBS0pGYmtCT1NSeFBWal9yMzNJd0VMR1VvTTc1SGtrNzg4bjFScUgwR19xZUZzdS02MUM0b2I4aFVCQS1wRlA3RXhuYVgzYm5UXy1FZ3otMHZueFpUb1JNR3FHVUZaZ3JVa1hhc3J6VVB0MkxzbUdjdmVfM3FVbnlXRVM1SkxfNlR4S0trajB3bzZwTDBUTFlaM2lkMWh5UmJfaVY2NGVaX0NndjNndWlvd2V1dk8zbg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s first-ever project of national interest under PM Carney revealed - BNN Bloomberg",
+      "excerpt": "Canada’s first-ever project of national interest under PM Carney revealed BNN Bloomberg",
+      "cat": "Economy"
+    },
     {
       "id": "2ffd88769868d115",
       "date": "2026-10-01",
@@ -193404,45 +193440,6 @@
       "title": "Évaluation du projet de suréquipement de Sainte-Marguerite-3",
       "sum": "L'Agence d'évaluation d'impact du Canada a complété son examen du projet de suréquipement de la centrale hydroélectrique Sainte-Marguerite-3 près de Sept-Îles au Québec. L'agence a déterminé que les effets négatifs potentiels relevant des compétences fédérales seraient limités ou gérés par d'autres moyens.",
       "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "d54165b6e36c806f",
-      "date": "2025-07-18",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2025/07/celebrez-le-200e-anniversaire-du-canal-de-lachine-a-loccasion-de-lactivite-speciale--eclusez-et-pagayez.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Célébration du 200e anniversaire du canal de Lachine",
-      "sum": "Le gouvernement fédéral organise une activité spéciale appelée « Éclusez et Pagayez » pour marquer le 200e anniversaire du canal de Lachine. Cette célébration invite le public à découvrir l'histoire et les attraits de cette infrastructure historique.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "ad1d6aab331c7d33",
-      "date": "2025-07-18",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2025/07/le-gouvernement-du-canada-celebre-le-10e-anniversaire-du-parc-urbain-national-de-la-rouge.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada célèbre 10 ans du parc urbain national de la Rouge",
-      "sum": "Le gouvernement du Canada marque le 10e anniversaire du parc urbain national de la Rouge. Cet événement commémore une décennie d'existence de ce parc situé en Ontario.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "5b2af78acbf29f72",
-      "date": "2025-07-18",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/sante-canada/nouvelles/2025/07/le-gouvernement-du-canada-fera-une-annonce-concernant-la-lutte-contre-la-consommation-de-substances-et-la-crise-des-surdoses-dans-la-region-de-latl.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce fédérale sur la lutte contre les surdoses atlantique",
-      "sum": "Le gouvernement du Canada annoncera des mesures concernant la consommation de substances et la crise des surdoses dans la région de l'Atlantique. Cette annonce sera faite par la ministre de la Santé.",
-      "cat": "Healthcare",
       "ai": true
     }
   ]

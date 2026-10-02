@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T22:28:14.730Z",
+  "generatedAt": "2026-10-02T04:36:21.614Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7993,
+      "actions": 7996,
       "sources": 9
     },
     "fr": {
-      "actions": 7007,
+      "actions": 7004,
       "sources": 7
     }
   },
@@ -44,6 +44,42 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "0d36f3f00e9180a3",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVENBNjFBSzZxWXpydnhMS2tEaEpSVl9XdEdDejB6VjhQVmxUeklsNjFDemgxQ012OEl2NGsyS3FaUXE3clRnRi1aRXVOY3FtaVc0VEk3Z0xNYmluSWJnU0JRU0x0LTZXeXFtRHIxVjNSRHRWQUtfWUd6Zmc2TUxfRXEyWEJ0NTFPanJTcTlKQ2pfSEtjRHdhYnlQaHFxVjAzUFBXNDM4dGJRRUctcV90TkJFaXRwZVZyQUc1WHpGX0QwTTJYWnlqQ0Nn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s first-ever project of national interest under PM Carney revealed - BNN Bloomberg",
+      "excerpt": "Canada’s first-ever project of national interest under PM Carney revealed BNN Bloomberg",
+      "cat": "Economy"
+    },
+    {
+      "id": "2c3109e2091b923a",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUlseFVxbTJ6T09RNGRBQm5FRjl5NDItc0ZKaDMwUDhxcUQtdlk0eW5tamZKYjltLS1uR2VPVnRXNm5aUlFMcEZEZjI4YWk4YjUyQmNXVW1UWEhuUmpQVlcyQ0otWFV6YmZzbkd3SUZ0TFNndWVwUTJoYUszaFBZc1FySjU0V2J5SFJxaFJrSm5CeW1VdHBGcTF2QnJkX3lBYnVGVm53?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "West Coast 'Pacific Link' pipeline is in Canadian national interest: Carney, Smith - Edmonton Journal",
+      "excerpt": "West Coast 'Pacific Link' pipeline is in Canadian national interest: Carney, Smith Edmonton Journal",
+      "cat": "Natural resources"
+    },
+    {
+      "id": "0cfa709cdf57b6c0",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOQXBEbXpxZmJZWVhzenRkejV4YW5DZnZrdkxxaHNIYk5iN2EwWUw1aVVETjVFUWJMSVF4Q1JnWTA4d0xkc2xSeExoVVRadmRLS3ZRcXdyMzFIVkI0WElyT2hFN0otY2M5RUJxY2lTRmRqeURhdVdGUm1pZTN1a193d3hWdGxNYzVJY2xDRl9wbm1GdVZUSzFDdGRxZWN6Y05xMi1RYldWcGVIUWZlSmNXRnhZWWIxaG1Nc2gxSUFhMGFBS0pGYmtCT1NSeFBWal9yMzNJd0VMR1VvTTc1SGtrNzg4bjFScUgwR19xZUZzdS02MUM0b2I4aFVCQS1wRlA3RXhuYVgzYm5UXy1FZ3otMHZueFpUb1JNR3FHVUZaZ3JVa1hhc3J6VVB0MkxzbUdjdmVfM3FVbnlXRVM1SkxfNlR4S0trajB3bzZwTDBUTFlaM2lkMWh5UmJfaVY2NGVaX0NndjNndWlvd2V1dk8zbg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s first-ever project of national interest under PM Carney revealed - BNN Bloomberg",
+      "excerpt": "Canada’s first-ever project of national interest under PM Carney revealed BNN Bloomberg",
+      "cat": "Economy"
+    },
     {
       "id": "2ffd88769868d115",
       "date": "2026-10-01",
@@ -10229,45 +10265,6 @@
       "title": "Judicial application questionnaire introduced for federal appointments",
       "sum": "The Minister of Justice introduced a new process on October 20, 2016 allowing qualified Canadian lawyers and judges to apply for federal judicial appointments by completing a questionnaire. The Honourable J. Gareth Morley's questionnaire is provided as an example of this application form.",
       "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "f61a0c2f001201d9",
-      "date": "2026-09-16",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-coast-guard/news/2026/09/the-canadian-coast-guard-welcomes-the-ccgs-groswater-bay-into-service.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canadian Coast Guard adds new search and rescue lifeboat to fleet",
-      "sum": "The Canadian Coast Guard has brought a new search and rescue lifeboat called CCGS Groswater Bay into service. The vessel is Canadian-built and designed to improve the Coast Guard's response capabilities for maritime emergencies.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "a72417b7f5e64122",
-      "date": "2026-09-16",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-welcomes-kuwaits-minister-of-foreign-affairs-sheikh-jarrah-jaber-al-ahmad-al-sabah-to-strengthen-canada-kuwait-relations.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada welcomes Kuwait's Foreign Affairs Minister to Ottawa",
-      "sum": "Canada's Minister of Foreign Affairs will meet with Kuwait's Foreign Affairs Minister during an official visit to Ottawa on September 17, 2026. The meeting aims to strengthen diplomatic relations between the two countries.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "4b65bdd0cfeca589",
-      "date": "2026-09-16",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/joint-statement-of-the-multilateral-sanctions-monitoring-team-on-the-report-covering-the-dprks-overseas-labour-program.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "en",
-      "title": "Multilateral sanctions monitoring team releases report on North Korea labour program",
-      "sum": "Eleven countries released a joint statement accompanying a report from the Multilateral Sanctions Monitoring Team on North Korea's overseas labour activities. The report examines labour practices as part of international sanctions monitoring efforts.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]
