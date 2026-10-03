@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T15:53:50.287Z",
+  "generatedAt": "2026-10-03T20:43:28.973Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "01042e860a9a0367",
+      "date": "2026-10-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZHcyY095ZjNuaTBXamV3RmtXcWxmUzJjTmhYOXJtVFh2WWIwcy1sZW9NeEJzdjE4cEJsWUNVUWZZaGtueUJsSXgwa0dkenF6aWI3Q1VZaVhoMlBLd0tRNVBYRzhaUnVBbXVqOWZFRTBZRHhnU1YyeDc1QWNHSzkzTFdrcUZHVXFzREk3VF9lLWtDYWh3S3NpZElBMm1DNXB6UXQ3S1I4WFpUWmF3LVpyWTZVSFZDVzlqbEVPRnBMZXdQdF94YjJmeUlMM1BMYWk2ZzN0bW40MUI5MGktR0NGYld2V25VT2ZpdG1aSm9TeE9vUFBqWmc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘Building Canada Wrong’: Carney picks oil pipeline as first national interest project days after tabling ‘draconian’ Bill C-39 - The Pointer",
+      "excerpt": "‘Building Canada Wrong’: Carney picks oil pipeline as first national interest project days after tabling ‘draconian’ Bill C-39 The Pointer",
+      "cat": "Natural resources"
+    },
     {
       "id": "3184b070975a9ebc",
       "date": "2026-10-03",
@@ -971,6 +983,18 @@
       "title": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover - Financial Post",
       "excerpt": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover Financial Post",
       "cat": "Economy"
+    },
+    {
+      "id": "18ec274b85d140f5",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXlVM1FKRHV0c1RLdS1OMnNQeGJCN1FzMHhic1NQcHlsc3NjRl9NaVlIRk91X2ZTSFBIQ1o4cFg2eDl5OXVvN0c5cnVwWHFFaElBWXN5N0JwOVptYVJsR2dGRjVTZGpMTC1MdVZTMkZsM1Zwd2V4ZGNJbS0tTjJKRy11LUdMS29MUE9LOTlLVHlYczVCVGlOV0hmWHgxZHlWdmJnOHJyLWlNV1BVZk94WQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney Puts Oil Pipeline at Center of Bid to Keep Alberta in Canada - WSJ",
+      "excerpt": "Carney Puts Oil Pipeline at Center of Bid to Keep Alberta in Canada WSJ",
+      "cat": "Natural resources"
     },
     {
       "id": "c30e5c03172e153a",
@@ -2478,6 +2502,18 @@
       "lang": "en",
       "title": "Prime Minister Carney announces $1.2B investment to protect Canada’s oceans - play 103.7",
       "excerpt": "Prime Minister Carney announces $1.2B investment to protect Canada’s oceans play 103.7",
+      "cat": "Economy"
+    },
+    {
+      "id": "437db96e4af52579",
+      "date": "2026-09-30",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjhUOHV4TE5PQXJjRExMVVRmQThfME96V1RfTmowLTdKQWh0emRSS25VYlJZSkU4OG5LZTVGbjhfeXFlWjFwVWdhUXNRaWFVWXN4aVhSYVYzcG5aM2h1bWZ3S1lYWGlGUmRiSGkwTlJWTDBSbVgyQjVOYkxyVm9BbWlORzRXN1BiaS1DUGhxVGY4ZzB5WEVITlVkczBnTndueGYxMGFJRnBPaDVYWk9zVmtBZVg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le projet de loi C-39 de Carney porte atteinte au droit de grève - NB Media Co-op",
+      "excerpt": "Le projet de loi C-39 de Carney porte atteinte au droit de grève NB Media Co-op",
       "cat": "Economy"
     },
     {
@@ -193384,45 +193420,6 @@
       "title": "Fermeture alternée sur la traverse des Chaudières pour entretien",
       "sum": "Services publics et Approvisionnement Canada annonce une fermeture de voie en alternance sur la traverse des Chaudières pour effectuer des travaux d'entretien. Les automobilistes doivent s'attendre à des ralentissements pendant ces travaux.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "f13d13709e90182c",
-      "date": "2025-07-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/07/les-agents-et-agentes-de-lasfc-a-laeroport-international-de-calgary-et-aux-operations-commerciales-saisissent-160-kg-de-cannabis-dune-valeur-de-plu.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "ASFC saisit 160 kg de cannabis à Calgary",
-      "sum": "Les agents de l'Agence des services frontaliers du Canada ont saisi plus de 160 kilogrammes de cannabis, d'une valeur de plus de 1,2 million de dollars, à l'aéroport international de Calgary et dans les opérations commerciales de la ville au cours de la dernière année.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "8d0970fe738eeb5f",
-      "date": "2025-07-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2025/07/troisieme-reunion-des-ministres-des-finances-et-des-gouverneurs-des-banques-centrales.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Réunion des ministres des Finances du G20 à Durban",
-      "sum": "Les ministres des Finances et gouverneurs des banques centrales du G20 se sont réunis les 17 et 18 juillet 2025 à Durban, en Afrique du Sud, pour leur troisième rencontre.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "aaf913f309ffacf3",
-      "date": "2025-07-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2025/07/le-canada-investit-dans-des-services-pour-soutenir-lintegration-economique-et-combler-les-penuries-de-main-duvre.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit dans services d'intégration économique et main-d'œuvre",
-      "sum": "Le gouvernement du Canada annonce de nouveaux investissements dans des services visant à soutenir l'intégration économique et à répondre aux pénuries de main-d'œuvre. Ces mesures s'inscrivent dans l'objectif du gouvernement de renforcer l'économie en attirant les talents internationaux.",
-      "cat": "Economy",
       "ai": true
     }
   ]
