@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-03T11:15:37.874Z",
+  "generatedAt": "2026-10-03T15:53:50.287Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 7996,
+      "actions": 7999,
       "sources": 9
     },
     "fr": {
-      "actions": 7004,
+      "actions": 7001,
       "sources": 7
     }
   },
@@ -44,6 +44,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "3184b070975a9ebc",
+      "date": "2026-10-03",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/agriculture-agri-food/news/2026/10/the-government-of-canada-invests-in-stronger-more-resilient-and-affordable-food-distribution-systems.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces food distribution system investments",
+      "sum": "The federal government is announcing investments under the National Food Security Strategy to support food distribution systems. The initiative aims to lower food costs and increase consumer options.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "d39718e337dd6a5c",
+      "date": "2026-10-03",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2026/10/le-gouvernement-du-canada-investit-dans-des-systemes-de-distribution-alimentaire-plus-solides-plus-resilients-et-plus-abordables.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada investit dans la distribution alimentaire nationale",
+      "sum": "Le gouvernement du Canada annonce des investissements dans la Stratégie nationale sur la sécurité alimentaire pour renforcer les systèmes de distribution d'aliments. Ces investissements visent à réduire les coûts alimentaires et à offrir plus de choix aux consommateurs.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "b83c10a2893ecd7c",
+      "date": "2026-10-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM0RKY2ljdlJlWVVGU3NDSGNkYjhxZnFiamk5cWxqd0UtOHQ3YXN4Rjd0R2hnNHhPd3ItZmlnV1dfbzFOUTlPWC0tRFIydFA2a09kY2ZwVzB6M2VyUUpsWURXaDFVWTJlN3JSb0p5dk1pOU96X0ZYQ3kzb3BIMFlzLVFKbWE2WVByWUhzeWdkOVdtbTJPVHFNZVJ0YmhBYldqTWkxY0tyQjRzM0szMjVZUnI1S3NPUC0yc2lJZGdCRGU2ZTFDbHB3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Lorne Gunter: Despite Carney's claims, Canada's immigration numbers largely unchanged - Edmonton Journal",
+      "excerpt": "Lorne Gunter: Despite Carney's claims, Canada's immigration numbers largely unchanged Edmonton Journal",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "66563f841fc188f7",
       "date": "2026-10-02",
@@ -943,6 +981,18 @@
       "title": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover - Financial Post",
       "excerpt": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover Financial Post",
       "cat": "Economy"
+    },
+    {
+      "id": "c30e5c03172e153a",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ieW5Pd3hJVWV6TzZTakEzUVNwdlNaanU5VS1yOHQwZnU5NXNnblh0MjhzbVlGdkwxOThQSC1BMGdtX2JTS0xUTmJVX0c2NmZ1elJvblljd2J3eGVoY3YzcTdIY0p6bVN5bm51MVh3V19DcEdaRUE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney’s pipeline announcement - Paul Wells",
+      "excerpt": "Mark Carney’s pipeline announcement Paul Wells",
+      "cat": "Natural resources"
     },
     {
       "id": "3d20c007dc416e9f",
@@ -10211,58 +10261,6 @@
       "title": "Federal government funds rural transit projects in British Columbia",
       "sum": "The federal government is investing more than $10.6 million in transit projects for rural and remote communities in British Columbia, including the Village of Pemberton. These funds aim to improve transportation options in areas outside major urban centers.",
       "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "6b59234d6412143b",
-      "date": "2026-09-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/09/government-of-canada-creates-a-dedicated-chief-firearms-officer-to-serve-northerners.html",
-      "type": "Appointment",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada appoints dedicated Chief Firearms Officer for northern territories",
-      "sum": "The Minister of Public Safety announced the creation of a new Chief Firearms Officer position dedicated to serving Yukon, Northwest Territories, and Nunavut. This officer will handle firearms licensing and regulation in these three northern regions.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "6b8544222b87b6ea",
-      "date": "2026-09-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-sidhu-speaks-with-ukraines-minister-of-environment-and-economy.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister Sidhu meets with Ukrainian economy and environment official",
-      "sum": "Canada's Minister of International Trade spoke with Ukraine's Minister of Economy and Environment. The conversation took place between the two officials.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "c2701638fe49841a",
-      "date": "2026-09-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-sidhu-meets-with-indonesias-coordinating-minister-for-economic-affairs.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada's Trade Minister meets Indonesian economic affairs minister",
-      "sum": "Minister Maninder Sidhu met with Indonesia's Coordinating Minister for Economic Affairs, Airlangga Hartarto, during the Canada Investment Summit in Toronto to discuss trade and economic matters.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "986e83245728ee67",
-      "date": "2026-09-17",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/fednor/nouvelles/2026/09/le-gouvernement-du-canada-investit-plus-de-800-000--pour-creer-des-emplois-pour-les-jeunes-et-renforcer-leconomie-du-nord-de-lontario.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 800 000 $ pour emplois jeunes en Ontario Nord",
-      "sum": "Le gouvernement du Canada alloue plus de 800 000 dollars pour créer des emplois destinés aux jeunes dans la région du Nord de l'Ontario. Cet investissement vise à renforcer l'économie locale.",
-      "cat": "Economy",
       "ai": true
     }
   ]

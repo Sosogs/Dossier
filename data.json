@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T11:15:37.874Z",
+  "generatedAt": "2026-10-03T15:53:50.287Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "3184b070975a9ebc",
+      "date": "2026-10-03",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/agriculture-agri-food/news/2026/10/the-government-of-canada-invests-in-stronger-more-resilient-and-affordable-food-distribution-systems.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces food distribution system investments",
+      "sum": "The federal government is announcing investments under the National Food Security Strategy to support food distribution systems. The initiative aims to lower food costs and increase consumer options.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "d39718e337dd6a5c",
+      "date": "2026-10-03",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2026/10/le-gouvernement-du-canada-investit-dans-des-systemes-de-distribution-alimentaire-plus-solides-plus-resilients-et-plus-abordables.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada investit dans la distribution alimentaire nationale",
+      "sum": "Le gouvernement du Canada annonce des investissements dans la Stratégie nationale sur la sécurité alimentaire pour renforcer les systèmes de distribution d'aliments. Ces investissements visent à réduire les coûts alimentaires et à offrir plus de choix aux consommateurs.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "b83c10a2893ecd7c",
+      "date": "2026-10-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM0RKY2ljdlJlWVVGU3NDSGNkYjhxZnFiamk5cWxqd0UtOHQ3YXN4Rjd0R2hnNHhPd3ItZmlnV1dfbzFOUTlPWC0tRFIydFA2a09kY2ZwVzB6M2VyUUpsWURXaDFVWTJlN3JSb0p5dk1pOU96X0ZYQ3kzb3BIMFlzLVFKbWE2WVByWUhzeWdkOVdtbTJPVHFNZVJ0YmhBYldqTWkxY0tyQjRzM0szMjVZUnI1S3NPUC0yc2lJZGdCRGU2ZTFDbHB3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Lorne Gunter: Despite Carney's claims, Canada's immigration numbers largely unchanged - Edmonton Journal",
+      "excerpt": "Lorne Gunter: Despite Carney's claims, Canada's immigration numbers largely unchanged Edmonton Journal",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "66563f841fc188f7",
       "date": "2026-10-02",
@@ -933,6 +971,18 @@
       "title": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover - Financial Post",
       "excerpt": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover Financial Post",
       "cat": "Economy"
+    },
+    {
+      "id": "c30e5c03172e153a",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ieW5Pd3hJVWV6TzZTakEzUVNwdlNaanU5VS1yOHQwZnU5NXNnblh0MjhzbVlGdkwxOThQSC1BMGdtX2JTS0xUTmJVX0c2NmZ1elJvblljd2J3eGVoY3YzcTdIY0p6bVN5bm51MVh3V19DcEdaRUE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney’s pipeline announcement - Paul Wells",
+      "excerpt": "Mark Carney’s pipeline announcement Paul Wells",
+      "cat": "Natural resources"
     },
     {
       "id": "3d20c007dc416e9f",
@@ -193372,58 +193422,6 @@
       "lang": "fr",
       "title": "Canada investit dans services d'intégration économique et main-d'œuvre",
       "sum": "Le gouvernement du Canada annonce de nouveaux investissements dans des services visant à soutenir l'intégration économique et à répondre aux pénuries de main-d'œuvre. Ces mesures s'inscrivent dans l'objectif du gouvernement de renforcer l'économie en attirant les talents internationaux.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "2606d95bde069f26",
-      "date": "2025-07-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2025/07/protection-du-droit-a-un-environnement-sain-en-vertu-de-la-version-modernisee-de-la-loi-canadienne-sur-la-protection-de-lenvironnement-1999-et-amel.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Cadre de mise en œuvre du droit à un environnement sain",
-      "sum": "Le gouvernement du Canada a développé un cadre de mise en œuvre pour protéger le droit à un environnement sain selon la Loi canadienne sur la protection de l'environnement (1999) modernisée. Ce cadre découle des modifications récentes à cette loi et améliore la gestion des produits chimiques.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "5ee850e36a60c587",
-      "date": "2025-07-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2025/07/le-canada-fait-progresser-des-initiatives-pour-proteger-le-droit-a-un-environnement-sain-et-ameliorer-la-gestion-des-produits-chimiques.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada avance initiatives protection environnement sain gestion chimiques",
-      "sum": "Le gouvernement fédéral met en place des mesures pour protéger la santé humaine et l'environnement en améliorant la gestion des produits chimiques. Ces initiatives reconnaissent le lien entre la santé des Canadiens et l'état de l'environnement.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "be8cccb608c2cabf",
-      "date": "2025-07-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2025/07/la-ministre-michel-participera-a-un-evenement-organise-par-la-fondation-pour-les-communautes-noires-a-montreal.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Michel s'adresse à la Fondation pour les communautés noires",
-      "sum": "La ministre de la Santé prononcera une allocution lors d'un événement de la Fondation pour les communautés noires à Montréal portant sur le programme de subventions S.A.G.I. 2.0.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "2358fe1bb43b5747",
-      "date": "2025-07-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2025/07/les-gouvernements-du-canada-et-du-manitoba-investissent-plus-de-6-millions-de-dollars-pour-renforcer-le-secteur-local-de-la-transformation-alimentaire.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Manitoba investissent 6 millions pour transformation alimentaire",
-      "sum": "Les gouvernements fédéral et provincial du Manitoba annoncent un investissement de plus de 6 millions de dollars pour moderniser les installations de transformation alimentaire et augmenter la capacité de production dans la province.",
       "cat": "Economy",
       "ai": true
     }
