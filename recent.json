@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T21:57:01.131Z",
+  "generatedAt": "2026-10-03T04:18:54.018Z",
   "count": 800,
   "totals": {
     "en": {
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "66563f841fc188f7",
+      "date": "2026-10-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjZ1Z0tLQmxEZUhVdTFRdlhjNHBXb0M4OTdOYmxiSi15ZkFOdFdfZmxlb3NDNEd0dUdaNXBoc1FXTGFvSTdpM0puT2djQ2J2b1ZYLXJxRl9KZEVORHhWYTJRY2o3STBqNGk1bFU3aUljNVU1WUZidklzVWF0eDlnMWh0djhpQ1J1SWZTalZmcXU4ZzFOVGVsYnZPdjg1MWdPQnI4Ync1bkfSAa4BQVVfeXFMTlRFOXJmUXJQVHV6ZVhoWjRsQ3pOTzNfZTlSUmZxWjBKLWpsY2tzQlNDVk1zRGFHOXVXTG0yZUx2YVRCX01TaV9PdG9CNnFvTW9NNmEyYmMybWFZQ2V6NGVGVXlHTG52VkJucXZabVdUUjYtbkZoR1BFZXlscGpKbFExMC1MV3FGaERqTE4wVjl5QjdtekRYTjE1VG1FOXF6amwwSWpTSjdyM3FJRHJn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why Carney’s economic overhaul is clashing with Canada’s unions - Al Jazeera",
+      "excerpt": "Why Carney’s economic overhaul is clashing with Canada’s unions Al Jazeera",
+      "cat": "Economy"
+    },
+    {
+      "id": "9019ce579375a7c0",
+      "date": "2026-10-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WNE1JX1ZuVC1pOE5aWDVuRE5RcHB6Z2dNTDFCWUh0UVV3Y3liS3c4OXhjeGhOMGpEQnZfTVc2UnFpTFVkWUxKT1doZG1uWWVFNTBzRC1lYjh6bi1KdXVkTm1FUzJIcWRxRFhmTjlDaUViNGh5YlpCT3c5cDU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal government launches new national AI council - BetaKit",
+      "excerpt": "Federal government launches new national AI council BetaKit",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "da3ae2b810ab9e95",
       "date": "2026-10-02",
@@ -10239,32 +10263,6 @@
       "title": "Canada investit 800 000 $ pour emplois jeunes en Ontario Nord",
       "sum": "Le gouvernement du Canada alloue plus de 800 000 dollars pour créer des emplois destinés aux jeunes dans la région du Nord de l'Ontario. Cet investissement vise à renforcer l'économie locale.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "57ace9b08de034e6",
-      "date": "2026-09-17",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/fednor/nouvelles/2026/09/le-gouvernement-du-canada-investit-835-777--pour-creer-des-emplois-pour-les-jeunes-et-accelerer-le-developpement-economique-dans-le-nord-de-lontario.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada investit 835 777 $ pour l'emploi des jeunes en Ontario",
-      "sum": "Le gouvernement du Canada accorde 835 777 $ par l'intermédiaire de FedNor pour financer 15 projets destinés à créer des emplois pour les jeunes et soutenir le développement économique dirigé par des Autochtones dans le Nord de l'Ontario.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "666fb296163c59cd",
-      "date": "2026-09-17",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/09/le-ministre-champagne-se-rendra-au-royaume-uni-et-en-irlande-pour-resserrer-les-liens-dans-les-domaines-de-leconomie-et-de-la-securite-avec-ses-hom.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Champagne en visite au Royaume-Uni et Irlande",
-      "sum": "Le ministre des Finances François-Philippe Champagne se rendra au Royaume-Uni et en Irlande pour rencontrer ses homologues et des intervenants européens afin de renforcer les liens économiques et de sécurité. Cette visite fait suite à la participation du Canada à des discussions en France sur la croissance économique commune.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]

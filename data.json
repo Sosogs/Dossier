@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T21:57:01.131Z",
+  "generatedAt": "2026-10-03T04:18:54.018Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "66563f841fc188f7",
+      "date": "2026-10-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjZ1Z0tLQmxEZUhVdTFRdlhjNHBXb0M4OTdOYmxiSi15ZkFOdFdfZmxlb3NDNEd0dUdaNXBoc1FXTGFvSTdpM0puT2djQ2J2b1ZYLXJxRl9KZEVORHhWYTJRY2o3STBqNGk1bFU3aUljNVU1WUZidklzVWF0eDlnMWh0djhpQ1J1SWZTalZmcXU4ZzFOVGVsYnZPdjg1MWdPQnI4Ync1bkfSAa4BQVVfeXFMTlRFOXJmUXJQVHV6ZVhoWjRsQ3pOTzNfZTlSUmZxWjBKLWpsY2tzQlNDVk1zRGFHOXVXTG0yZUx2YVRCX01TaV9PdG9CNnFvTW9NNmEyYmMybWFZQ2V6NGVGVXlHTG52VkJucXZabVdUUjYtbkZoR1BFZXlscGpKbFExMC1MV3FGaERqTE4wVjl5QjdtekRYTjE1VG1FOXF6amwwSWpTSjdyM3FJRHJn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why Carney’s economic overhaul is clashing with Canada’s unions - Al Jazeera",
+      "excerpt": "Why Carney’s economic overhaul is clashing with Canada’s unions Al Jazeera",
+      "cat": "Economy"
+    },
+    {
+      "id": "9019ce579375a7c0",
+      "date": "2026-10-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WNE1JX1ZuVC1pOE5aWDVuRE5RcHB6Z2dNTDFCWUh0UVV3Y3liS3c4OXhjeGhOMGpEQnZfTVc2UnFpTFVkWUxKT1doZG1uWWVFNTBzRC1lYjh6bi1KdXVkTm1FUzJIcWRxRFhmTjlDaUViNGh5YlpCT3c5cDU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Federal government launches new national AI council - BetaKit",
+      "excerpt": "Federal government launches new national AI council BetaKit",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "da3ae2b810ab9e95",
       "date": "2026-10-02",
@@ -58155,6 +58179,18 @@
       "cat": "Infrastructure",
       "ai": true,
       "lang": "en"
+    },
+    {
+      "id": "28799261c37ebea1",
+      "date": "2026-06-25",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEpRLUUyTHpVbWo5d1ZLaVQ1d185VzZwdzRLdGU3bWR4UndJek1vSy03TEVVZFVhbkx6TWxsT1JkaC01YXA4djc3TTFvMDJYbFh4SVlHTkJvdUFYeXlfQWNOZmZEckxvZ21qSzc5eFVRR01ld19sSVJEa01XVFQ0M3dZUXdmNTNXNGFCTkdtLUE1Z0RHcGtSTnhuM2VDNUstYVhxMlJMOEhxX3JPQ1l3XzJqWmRYYldvb3FXdmR0Zlg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney delivers remarks following the conclusion of the spring sitting of Parliament - pm.gc.ca",
+      "excerpt": "Prime Minister Carney delivers remarks following the conclusion of the spring sitting of Parliament pm.gc.ca",
+      "cat": "Economy"
     },
     {
       "id": "8fe38ae49e3ce89c",
@@ -193389,45 +193425,6 @@
       "title": "Canada et Manitoba investissent 6 millions pour transformation alimentaire",
       "sum": "Les gouvernements fédéral et provincial du Manitoba annoncent un investissement de plus de 6 millions de dollars pour moderniser les installations de transformation alimentaire et augmenter la capacité de production dans la province.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "d4d494ee7f941630",
-      "date": "2025-07-22",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/07/minister-anand-to-meet-with-south-korean-presidential-special-envoy-for-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister Anand meets South Korean envoy to strengthen Canada-Korea ties",
-      "sum": "Canada's Foreign Affairs Minister will meet with a South Korean Presidential Special Envoy and National Assembly members in Ottawa. The meeting aims to strengthen Canada-South Korea cooperation in the Indo-Pacific region.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "10b2edc066d761d1",
-      "date": "2025-07-22",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/health-canada/news/2025/07/government-of-canada-improves-access-to-health-services-for-francophone-minority-communities.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada funds health services access for French-speaking minority communities",
-      "sum": "The Government of Canada is implementing projects to improve access to health services provided in French for official language minority communities across the country.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "4d33dce80c8f7366",
-      "date": "2025-07-22",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/health-canada/news/2025/07/government-of-canada-improves-access-to-health-services-for-francophone-minority-communities0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada funds health services access for Francophone communities",
-      "sum": "The Government of Canada announced $78 million in funding over five years to seven organizations, including five Atlantic post-secondary institutions, to improve access to health services delivered in French for Francophone minority communities.",
-      "cat": "Healthcare",
       "ai": true
     }
   ]
