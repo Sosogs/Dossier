@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T04:50:17.717Z",
+  "generatedAt": "2026-10-04T11:56:55.165Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -83,6 +83,18 @@
       "title": "Lorne Gunter: Despite Carney's claims, Canada's immigration numbers largely unchanged - Edmonton Journal",
       "excerpt": "Lorne Gunter: Despite Carney's claims, Canada's immigration numbers largely unchanged Edmonton Journal",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "35e759cb6ecf15cb",
+      "date": "2026-10-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlhGdjdibVNkVzBBU254RHlHR0JNV3pDak05WW1aNWc4VDdEV0JFbENsVEluRnBObm9pbjB0b1UzNnlveTJ1S1hEZjd2ZVVDdmZBaDlQYUFEbVd3endIMGI1Z29iY0tBdWRLbWg5QkdObUd3b0hkX3JrWVF5MGVTZmdUUmM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney, Smith say new West Coast pipeline could get oil companies building again - CBC",
+      "excerpt": "Carney, Smith say new West Coast pipeline could get oil companies building again CBC",
+      "cat": "Natural resources"
     },
     {
       "id": "66563f841fc188f7",
@@ -193407,19 +193419,6 @@
       "title": "Canada and Manitoba invest $6 million in food processing",
       "sum": "The federal and Manitoba governments are providing over $6 million to modernize food processing facilities and increase production capacity in Manitoba through the Sustainable Canadian Agricultural Partnership program.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "fa9055cfa44a5d14",
-      "date": "2025-07-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2025/07/fermeture-de-voie-en-alternance-sur-la-traverse-des-chaudieres.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Fermeture alternée sur la traverse des Chaudières pour entretien",
-      "sum": "Services publics et Approvisionnement Canada annonce une fermeture de voie en alternance sur la traverse des Chaudières pour effectuer des travaux d'entretien. Les automobilistes doivent s'attendre à des ralentissements pendant ces travaux.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]

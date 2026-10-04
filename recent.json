@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-04T04:50:17.717Z",
+  "generatedAt": "2026-10-04T11:56:55.165Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8001,
+      "actions": 8002,
       "sources": 9
     },
     "fr": {
-      "actions": 6999,
+      "actions": 6998,
       "sources": 7
     }
   },
@@ -93,6 +93,18 @@
       "title": "Lorne Gunter: Despite Carney's claims, Canada's immigration numbers largely unchanged - Edmonton Journal",
       "excerpt": "Lorne Gunter: Despite Carney's claims, Canada's immigration numbers largely unchanged Edmonton Journal",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "35e759cb6ecf15cb",
+      "date": "2026-10-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlhGdjdibVNkVzBBU254RHlHR0JNV3pDak05WW1aNWc4VDdEV0JFbENsVEluRnBObm9pbjB0b1UzNnlveTJ1S1hEZjd2ZVVDdmZBaDlQYUFEbVd3endIMGI1Z29iY0tBdWRLbWg5QkdObUd3b0hkX3JrWVF5MGVTZmdUUmM?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney, Smith say new West Coast pipeline could get oil companies building again - CBC",
+      "excerpt": "Carney, Smith say new West Coast pipeline could get oil companies building again CBC",
+      "cat": "Natural resources"
     },
     {
       "id": "66563f841fc188f7",
@@ -10244,19 +10256,6 @@
       "lang": "en",
       "title": "Canada invests $835,777 in Northern Ontario youth employment",
       "sum": "The federal government announced funding of $835,777 to support youth employment opportunities with not-for-profit organizations and small and medium-sized businesses in Northern Ontario. The money comes through FedNor's Northern Ontario Development Program.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "7af5323ab9b6ff3d",
-      "date": "2026-09-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/fednor/news/2026/09/government-of-canada-invests-835777-to-create-youth-employment-and-accelerate-economic-development-in-northern-ontario.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests $835,777 for youth employment in Northern Ontario",
-      "sum": "The federal government announced $835,777 in funding through FedNor for 15 projects supporting youth employment and Indigenous-led economic development in Northern Ontario.",
       "cat": "Economy",
       "ai": true
     }
