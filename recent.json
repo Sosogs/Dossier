@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-04T16:37:31.730Z",
+  "generatedAt": "2026-10-04T20:59:03.856Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8002,
+      "actions": 8001,
       "sources": 9
     },
     "fr": {
-      "actions": 6998,
+      "actions": 6999,
       "sources": 7
     }
   },
@@ -44,6 +44,68 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "0ad40c15e9362a01",
+      "date": "2026-10-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2026/10/ministers-alty-gull-masty-chartrand-and-valdez-issue-a-statement-on-sisters-in-spirit-day-and-the-national-day-of-action-for-missing-and-murdered-i.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Ministers commemorate Sisters in Spirit Day for Missing and Murdered Indigenous People",
+      "sum": "Four federal ministers issued a statement on Sisters in Spirit Day honouring Indigenous women, girls, and 2SLGBTQI+ people who have gone missing or been murdered. The statement expresses support for survivors and families and reaffirms commitment to addressing this violence.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "2d4bb0bc7480825f",
+      "date": "2026-10-04",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/relations-couronne-autochtones-affaires-nord/nouvelles/2026/10/les-ministres-alty-gull-masty-chartrand-et-valdez-publient-une-declaration-a-loccasion-de-la-journee-des-surs-par-lesprit-et-de-la-journee-national.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministres publient déclaration Journée Sœurs par l'esprit",
+      "sum": "Quatre ministres fédéraux ont publié une déclaration à l'occasion de la Journée des Sœurs par l'esprit et de la Journée nationale d'action pour les femmes, les filles et les personnes 2ELGBTQI+ autochtones disparues et assassinées. La déclaration rend hommage aux personnes décédées et exprime le soutien du gouvernement aux survivantes, aux familles et aux communautés.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "2ce96f55cb968926",
+      "date": "2026-10-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHJLRUtMTEp4NDRNenlTUV82RHF2R1ZoaHcyNENDcTdqb3VZbnBmbE9fVHNKWWxhZFkxc296cnkzS3ZRbzVOWTJUZlV6bFI4a1pOSVZGbDNuN1l0d1JJS29TT2U4Sm1IeEVYVVN6eU4xQkJReVcwekNaVGdBd19LRXQ3aVZnWnZBVG1pQnJKbXFmYU5CbDRQUXQ4UmkwX3B5cWR3LXgzWUdOVVhzaGd0SG9helNXc1N5ZTR0eHFfd0k2dw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives call for lower immigration targets as Carney signals future increases - Philippine Canadian Inquirer",
+      "excerpt": "Conservatives call for lower immigration targets as Carney signals future increases Philippine Canadian Inquirer",
+      "cat": "Economy"
+    },
+    {
+      "id": "70a96fdc6f2ee73e",
+      "date": "2026-10-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tckxOVFJ3cEozUEdmTkpTX0hCa3RDZHFXeE84V3hzZ0dteTRPYWJVY2oxS2ZFZzB0b3FWVldlckR0VndDRV82LWZudm5KVTlRNGt1a3U2NW14clNDV3hFQWVnRU5DREpmUTJhR1h5YmFzR3B1OGE4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney gov considers EU-style youth corps - Juno News",
+      "excerpt": "Carney gov considers EU-style youth corps Juno News",
+      "cat": "Economy"
+    },
+    {
+      "id": "62dbea91b6eef1d9",
+      "date": "2026-10-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM05xempWcjNyd0pEWE5TWVNqVzA1TlppREd6SnAzV3p4NkRqeUVtUmlEZzA0OHZaQlhtYkNrRFJ6RzV2QTViREotb0J3dHRtdGFvN2lsVVl3VXp3WjdoQ0hiWkVjbFVZc1JNOGt3Xy1XU2Uzb0FsSmEzYmxrcDJabnhuRWpFZS1qZHljcVhuT3FMQnVrUk9hc2tiV1p6VndBVmhudGljTmdLNHV1LVNKWmVDOA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s first-ever project of national interest, Stelco cites tariffs for layoffs and finance executives bet on prediction markets: Must-read business and investing stories for the week of October 3 - The Globe and Mail",
+      "excerpt": "Carney’s first-ever project of national interest, Stelco cites tariffs for layoffs and finance executives bet on prediction markets: Must-read business and investing stories for the week of October 3 The Globe and Mail",
+      "cat": "Economy"
+    },
     {
       "id": "01042e860a9a0367",
       "date": "2026-10-03",
@@ -1005,6 +1067,18 @@
       "title": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover - Financial Post",
       "excerpt": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover Financial Post",
       "cat": "Economy"
+    },
+    {
+      "id": "8c656d009d8072b4",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWs5UEFNQzVHcFFoNWI3VFhSUWNEbTgxLUhqcUw0ZzZFOVJOZEgxU3A2Mjh3cW0zaDZoNVlTcVo1U2JXWmhvMXRxZlRWbGp5MnRBRHFKME1RNTVMQWh5UWRzczFHRUpsVzlWbloyZ0xXTURLZmxhU0JoZVZVREJuSUwxQTIwOXdEbjVSM1otdXpHUXZBR1FLMWR3QUxKR29GOXYwSjF5UzB5YUxOSXVhaW9fZXFibVFr0gG-AUFVX3lxTE8yaUhNSDVSN0J0cE03M2F0V0dNVHZUX2FLWmY4Zkw5VWkxZXpZMjhNb3JIYU50M0toeHZpNUNTZlBVMV9zZzd0M3dMNm0xemlaVjNaSTRGSk40Zms1Z0xPbEo3SFF3blRmaFAwaUZqSG1iVkpyazFFV0ZuNkRZckxGLXd0dnBTeFFiN282MW5GODAzWFhoeXQ5RXJ2b3ZrZnpOcGdpMFphOFRqeF9SQURwUEs5MEZpM0xLU1hCN0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada to fast track oil pipeline meant to diversify economy away from US - Al Jazeera",
+      "excerpt": "Canada to fast track oil pipeline meant to diversify economy away from US Al Jazeera",
+      "cat": "Natural resources"
     },
     {
       "id": "18ec274b85d140f5",
@@ -10181,82 +10255,6 @@
       "title": "Le ministre Sidhu rencontre son homologue kazakh pour renforcer partenariat",
       "sum": "Le ministre canadien du Commerce international a discuté avec le ministre kazakh du Commerce et de l'Intégration pour explorer les moyens de renforcer la relation économique entre les deux pays et avancer leurs priorités commerciales communes.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "091960a8de42b951",
-      "date": "2026-09-17",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/premiere-reunion-des-copresidents-de-lalliance-pour-les-technologies-souveraines.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Allemagne lancent alliance pour technologies souveraines",
-      "sum": "Le ministre canadien de l'Intelligence artificielle et de l'Innovation numérique et son homologue allemand de la Transformation numérique ont tenu leur première réunion en tant que coprésidents d'une alliance visant à promouvoir la souveraineté technologique.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "55f69a4c03096c32",
-      "date": "2026-09-17",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2026/09/le-canada-fait-montre-de-son-leadership-en-intelligence-artificielle-lors-de-la-conference-all-in-de-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada démontre son leadership en intelligence artificielle",
-      "sum": "Le Canada a participé à la conférence ALL IN de 2026 sur l'intelligence artificielle, où de nouveaux investissements et partenariats internationaux ont été annoncés. L'événement a mis en évidence la position du Canada dans le domaine de l'IA.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "2c02b6eacdd4c8e6",
-      "date": "2026-09-17",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-rencontre-le-ministre-des-affaires-etrangeres-du-koweit.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Anand rencontre le ministre des Affaires étrangères du Koweït",
-      "sum": "La ministre canadienne des Affaires étrangères, Anita Anand, a rencontré le ministre des Affaires étrangères du Koweït lors de sa visite à Ottawa.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "adfadfb1cb0da824",
-      "date": "2026-09-17",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQzNMQWh6a0RVQzdQMVlsNk5ONmFyZHo1ZXNMNDVmaXBFTDd1WFRkaUdGY2NXQ3JyZ1dnWlVJT2pKUVZybGJyZFE2ODdiUDJSNnA5d2pyUnZFYTZzaHhGUkZQMXc0b0E1QVgzNTc4SVlwVmNRUzk3WENobko1UVQ2WDFaY042U3dNVmk0b1FEQkE0WEFRNXBILXV0TDVXMTRibm55dVVMcWl2bUVGckRMa2xoa0dLV0F5VGJ6ZUJfNA?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Why these seniors are heading to Ottawa with a message for Mark Carney - CBC",
-      "excerpt": "Why these seniors are heading to Ottawa with a message for Mark Carney CBC",
-      "cat": "Economy"
-    },
-    {
-      "id": "d923d4aea38d5e95",
-      "date": "2026-09-17",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQU05UmhBSF9Gb2tZbEtJNEFpRUlUOU5ZVURYaEVmclR2SVJrY1NLcHpIS2RMclR5MVotcnF3Mk1DSXN5RmpPQ1RWdTdnN0FxNGEzenhsUWtIcEdqM2JMdUtVLWN2N0tndHU5Yk9zLUdqQlNlMXY1Nll2Yk4xaTdNVTZCSVJBblI5SHdPVDlNMTNxWW9i?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "ENERGY NORTH: Canada’s Oil Sands Get a Boost From Mark Carney - EnergyNow.com",
-      "excerpt": "ENERGY NORTH: Canada’s Oil Sands Get a Boost From Mark Carney EnergyNow.com",
-      "cat": "Natural resources"
-    },
-    {
-      "id": "4aef70a0d4098dde",
-      "date": "2026-09-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/fednor/news/2026/09/government-of-canada-invests-more-than-800000-to-create-youth-employment-and-strengthen-northern-ontarios-econom.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests $835,777 in Northern Ontario youth employment",
-      "sum": "The federal government announced funding of $835,777 to support youth employment opportunities with not-for-profit organizations and small and medium-sized businesses in Northern Ontario. The money comes through FedNor's Northern Ontario Development Program.",
-      "cat": "Economy",
       "ai": true
     }
   ]

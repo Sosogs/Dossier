@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T16:37:31.730Z",
+  "generatedAt": "2026-10-04T20:59:03.856Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,68 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "0ad40c15e9362a01",
+      "date": "2026-10-04",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2026/10/ministers-alty-gull-masty-chartrand-and-valdez-issue-a-statement-on-sisters-in-spirit-day-and-the-national-day-of-action-for-missing-and-murdered-i.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Ministers commemorate Sisters in Spirit Day for Missing and Murdered Indigenous People",
+      "sum": "Four federal ministers issued a statement on Sisters in Spirit Day honouring Indigenous women, girls, and 2SLGBTQI+ people who have gone missing or been murdered. The statement expresses support for survivors and families and reaffirms commitment to addressing this violence.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "2d4bb0bc7480825f",
+      "date": "2026-10-04",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/relations-couronne-autochtones-affaires-nord/nouvelles/2026/10/les-ministres-alty-gull-masty-chartrand-et-valdez-publient-une-declaration-a-loccasion-de-la-journee-des-surs-par-lesprit-et-de-la-journee-national.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministres publient déclaration Journée Sœurs par l'esprit",
+      "sum": "Quatre ministres fédéraux ont publié une déclaration à l'occasion de la Journée des Sœurs par l'esprit et de la Journée nationale d'action pour les femmes, les filles et les personnes 2ELGBTQI+ autochtones disparues et assassinées. La déclaration rend hommage aux personnes décédées et exprime le soutien du gouvernement aux survivantes, aux familles et aux communautés.",
+      "cat": "Indigenous services",
+      "ai": true
+    },
+    {
+      "id": "2ce96f55cb968926",
+      "date": "2026-10-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHJLRUtMTEp4NDRNenlTUV82RHF2R1ZoaHcyNENDcTdqb3VZbnBmbE9fVHNKWWxhZFkxc296cnkzS3ZRbzVOWTJUZlV6bFI4a1pOSVZGbDNuN1l0d1JJS29TT2U4Sm1IeEVYVVN6eU4xQkJReVcwekNaVGdBd19LRXQ3aVZnWnZBVG1pQnJKbXFmYU5CbDRQUXQ4UmkwX3B5cWR3LXgzWUdOVVhzaGd0SG9helNXc1N5ZTR0eHFfd0k2dw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives call for lower immigration targets as Carney signals future increases - Philippine Canadian Inquirer",
+      "excerpt": "Conservatives call for lower immigration targets as Carney signals future increases Philippine Canadian Inquirer",
+      "cat": "Economy"
+    },
+    {
+      "id": "70a96fdc6f2ee73e",
+      "date": "2026-10-04",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tckxOVFJ3cEozUEdmTkpTX0hCa3RDZHFXeE84V3hzZ0dteTRPYWJVY2oxS2ZFZzB0b3FWVldlckR0VndDRV82LWZudm5KVTlRNGt1a3U2NW14clNDV3hFQWVnRU5DREpmUTJhR1h5YmFzR3B1OGE4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney gov considers EU-style youth corps - Juno News",
+      "excerpt": "Carney gov considers EU-style youth corps Juno News",
+      "cat": "Economy"
+    },
+    {
+      "id": "62dbea91b6eef1d9",
+      "date": "2026-10-03",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM05xempWcjNyd0pEWE5TWVNqVzA1TlppREd6SnAzV3p4NkRqeUVtUmlEZzA0OHZaQlhtYkNrRFJ6RzV2QTViREotb0J3dHRtdGFvN2lsVVl3VXp3WjdoQ0hiWkVjbFVZc1JNOGt3Xy1XU2Uzb0FsSmEzYmxrcDJabnhuRWpFZS1qZHljcVhuT3FMQnVrUk9hc2tiV1p6VndBVmhudGljTmdLNHV1LVNKWmVDOA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s first-ever project of national interest, Stelco cites tariffs for layoffs and finance executives bet on prediction markets: Must-read business and investing stories for the week of October 3 - The Globe and Mail",
+      "excerpt": "Carney’s first-ever project of national interest, Stelco cites tariffs for layoffs and finance executives bet on prediction markets: Must-read business and investing stories for the week of October 3 The Globe and Mail",
+      "cat": "Economy"
+    },
     {
       "id": "01042e860a9a0367",
       "date": "2026-10-03",
@@ -995,6 +1057,18 @@
       "title": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover - Financial Post",
       "excerpt": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover Financial Post",
       "cat": "Economy"
+    },
+    {
+      "id": "8c656d009d8072b4",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWs5UEFNQzVHcFFoNWI3VFhSUWNEbTgxLUhqcUw0ZzZFOVJOZEgxU3A2Mjh3cW0zaDZoNVlTcVo1U2JXWmhvMXRxZlRWbGp5MnRBRHFKME1RNTVMQWh5UWRzczFHRUpsVzlWbloyZ0xXTURLZmxhU0JoZVZVREJuSUwxQTIwOXdEbjVSM1otdXpHUXZBR1FLMWR3QUxKR29GOXYwSjF5UzB5YUxOSXVhaW9fZXFibVFr0gG-AUFVX3lxTE8yaUhNSDVSN0J0cE03M2F0V0dNVHZUX2FLWmY4Zkw5VWkxZXpZMjhNb3JIYU50M0toeHZpNUNTZlBVMV9zZzd0M3dMNm0xemlaVjNaSTRGSk40Zms1Z0xPbEo3SFF3blRmaFAwaUZqSG1iVkpyazFFV0ZuNkRZckxGLXd0dnBTeFFiN282MW5GODAzWFhoeXQ5RXJ2b3ZrZnpOcGdpMFphOFRqeF9SQURwUEs5MEZpM0xLU1hCN0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada to fast track oil pipeline meant to diversify economy away from US - Al Jazeera",
+      "excerpt": "Canada to fast track oil pipeline meant to diversify economy away from US Al Jazeera",
+      "cat": "Natural resources"
     },
     {
       "id": "18ec274b85d140f5",
@@ -193341,84 +193415,6 @@
       "title": "CBSA seizes 160 kg cannabis at Calgary airport and operations",
       "sum": "Canada Border Services Agency officers seized over 160 kilograms of cannabis valued at more than $1.2 million at Calgary International Airport and commercial operations over the past year.",
       "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "f3b8ed517cb6d3ed",
-      "date": "2025-07-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2025/07/3rd-finance-ministers-and-central-bank-governors-meeting.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "G20 Finance Ministers and Central Bank Governors meet in Durban",
-      "sum": "Finance ministers and central bank governors from G20 countries met in Durban, South Africa on July 17-18, 2025. The meeting brought together senior financial officials from major economies to discuss economic and financial matters.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "1d1b482851a030ea",
-      "date": "2025-07-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2025/07/canada-invests-in-services-to-support-economic-integration-and-fill-labour-market-shortages.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests in economic integration and labour market services",
-      "sum": "The government is investing in services to help integrate workers into the economy and address labour shortages. This initiative aims to attract international talent to fill key positions in Canada.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "123907226a1d96b6",
-      "date": "2025-07-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/environment-climate-change/news/2025/07/protecting-the-right-to-a-healthy-environment-under-the-modernized-canadian-environmental-protection-act-1999-and-enhancing-chemicals-management.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Framework developed for healthy environment right under CEPA",
-      "sum": "The Government of Canada has developed a framework to establish the right to a healthy environment under the modernized Canadian Environmental Protection Act, 1999. This framework also enhances how chemicals are managed in Canada.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "4ab12fd03bb6307d",
-      "date": "2025-07-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/environment-climate-change/news/2025/07/canada-advances-initiatives-to-protect-the-right-to-a-healthy-environment-and-enhance-chemicals-management.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada advances environmental protection and chemicals management initiatives",
-      "sum": "The federal government is implementing initiatives to protect environmental and human health by improving chemicals management. These efforts aim to create a clean and safe environment for current and future generations.",
-      "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "6e35ebe4a6430bf0",
-      "date": "2025-07-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/employment-social-development/news/2025/07/minister-michel-to-participate-in-an-event-hosted-by-foundation-for-black-communities-in-montreal.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Health Minister to speak at Black Ideas Grant event in Montreal",
-      "sum": "Minister of Health Marjorie Michel will deliver remarks at a Black Ideas Grant 2.0 event hosted by Foundation for Black Communities in Montreal.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "770afd1d7c193f8c",
-      "date": "2025-07-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/agriculture-agri-food/news/2025/07/governments-of-canada-and-manitoba-investing-over-6-million-to-strengthen-local-food-processing-sector.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada and Manitoba invest $6 million in food processing",
-      "sum": "The federal and Manitoba governments are providing over $6 million to modernize food processing facilities and increase production capacity in Manitoba through the Sustainable Canadian Agricultural Partnership program.",
-      "cat": "Economy",
       "ai": true
     }
   ]
