@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-05T04:38:05.449Z",
+  "generatedAt": "2026-10-05T13:54:41.185Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8000,
+      "actions": 8002,
       "sources": 9
     },
     "fr": {
-      "actions": 7000,
+      "actions": 6998,
       "sources": 7
     }
   },
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "3129285938b9112c",
+      "date": "2026-10-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQU1piNW5DT1JIOW1ZZ3dIRmRRODFwOTR5YVJLQmNlSkVfeHdQWmd1Mzk3Zi04RFJYNkVydDdLMVJxYlc0dHVWcXZFeXBQN0xSSkRQVDRpQ3RiVlVkaGNDRWlnZ1hsSHdpQUY1YXI1NmpRMVoxUXdvRnZvNkRkRUEtc3o3OGl4dnZpNVVXREo3ZS1TUlFHYlhpRXN5cVp2SENGdVlpcmtYWTlpcUstaHVmc3NUZmpFRnVOZUExZ2puQzVNbXNQay1jN1lCLUxySzhmbExhYmlHNndzVERKckx1Z0ZhNFc1Y2MxQnJ4dzFOVjQxWGFZMFpzUUwxejhJcDlXME1BVDZQMTVCTXBOb2U4STRScGxVd1RDZ0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PM Mark Carney pledged to ‘Buy Canadian.’ Since then, $7.8 billion in contracts went to American corporations - Toronto Star",
+      "excerpt": "PM Mark Carney pledged to ‘Buy Canadian.’ Since then, $7.8 billion in contracts went to American corporations Toronto Star",
+      "cat": "Economy"
+    },
     {
       "id": "2844c6b34d55112e",
       "date": "2026-10-05",
@@ -1079,6 +1091,18 @@
       "title": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover - Financial Post",
       "excerpt": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover Financial Post",
       "cat": "Economy"
+    },
+    {
+      "id": "d6dcf3097b3353a4",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVF1SUJwSlRaNElsQlREdnZpSk80YUVxQkpSbGlodGpkUklsWkRicmFrdjVZbE5vcmJWbmlVNU5Nc1BIU3pUTVllTVVYTmQzSE9aUWZ6a1ZoN0hac1RTcGU2Z3BVVGxnRF93SmF5a1NweTNrQ1Vvc2xpdFd3NzE5RW5sQ19sY2g5OEtNWWk3WHFOcjZZRFFUUVlBV2VHTzJ6TDFkbUJFakdBMGFJY3VsWkR5M3UxampMUVhZ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney expected to announce decision on pipeline’s national interest designation - CityNews Toronto",
+      "excerpt": "Carney expected to announce decision on pipeline’s national interest designation CityNews Toronto",
+      "cat": "Natural resources"
     },
     {
       "id": "8c656d009d8072b4",
@@ -10227,32 +10251,6 @@
       "lang": "en",
       "title": "Canada and Germany hold first Sovereign Technology Alliance co-chairs meeting",
       "sum": "Canada's Minister of Artificial Intelligence and Digital Innovation and Germany's Minister for Digital Transformation held their first meeting as co-chairs of the Sovereign Technology Alliance. The meeting took place at the ALL IN conference where Germany is the 2026 country focus.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "ae1c5e2b7d203277",
-      "date": "2026-09-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/ai-leadership-takes-centre-stage-at-all-in-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada announces AI investments and international partnerships",
-      "sum": "Canada's flagship AI conference showcased new investments in artificial intelligence and international partnerships. The announcements reflect the country's efforts in AI development.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "a0e2006aa6075428",
-      "date": "2026-09-17",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-meets-with-kuwaits-minister-of-foreign-affairs.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canadian Foreign Affairs Minister meets Kuwait counterpart",
-      "sum": "Canada's Minister of Foreign Affairs met with Kuwait's Minister of Foreign Affairs during an official visit to Ottawa.",
       "cat": "Foreign affairs",
       "ai": true
     }
