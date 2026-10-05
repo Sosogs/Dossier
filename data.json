@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:59:03.856Z",
+  "generatedAt": "2026-10-05T04:38:05.449Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "2844c6b34d55112e",
+      "date": "2026-10-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR0JqV3ZlNWQwRUltY2xyVXlCQVd2QjlpVjIxTFI1M0NYcUJQakF4Q1ljRGd5cElPRmdVT2tDSlhiSmpZVVljZUJNS0FYR0puZWxkbWZhVTJ4ZG1vVVc3RHhaZV9zTE5PaUM0N2tTRFNEdk9KRTRQWEp5SC1sVUxVUERueURMSng3MHFrMkljbF9NNmRBd2VJdEx6bUdFTUZtVnc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Quebec separatists favoured to win Canada vote in test for Carney - The Straits Times",
+      "excerpt": "Quebec separatists favoured to win Canada vote in test for Carney The Straits Times",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "0ad40c15e9362a01",
       "date": "2026-10-04",
@@ -11833,6 +11845,18 @@
       "title": "Carney annonce une «mégadéduction» fiscale pour stimuler les investissements des entreprises - Le Devoir",
       "excerpt": "Carney annonce une «mégadéduction» fiscale pour stimuler les investissements des entreprises Le Devoir",
       "cat": "Finance"
+    },
+    {
+      "id": "6606e7d61d3f39e0",
+      "date": "2026-09-15",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG1MRWxQX1JaYzBZN1UtX1QxZ0ZmUnE2TUlHQnlydEliSS1XOGRNNFJ0MUVNd1hsbUVnNGdJdlZYYzN3U0V6bTJTUFlzTERMNWhHd1UzM2F3LUlGU1hwQ1ZKNVdVdzdsMkZJYjZiTjVpMXR4d3YwSjVfNlZndjZuQ2g4VUtKUms4SjdLYm0zcU13amVIMUZnZW1PczRDR0Y0eVJiSA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Mark Carney souhaite privatiser les aéroports canadiens | RCI - Radio-Canada",
+      "excerpt": "Mark Carney souhaite privatiser les aéroports canadiens | RCI Radio-Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "2df180093c2514de",
@@ -193389,32 +193413,6 @@
       "title": "Canada et Manitoba soutiennent les éleveurs touchés par sécheresse",
       "sum": "Les gouvernements fédéral et provincial du Manitoba annoncent des mesures de soutien pour les éleveurs affectés par la sécheresse. Cette aide a été annoncée conjointement par le ministre fédéral de l'Agriculture et son homologue manitobain.",
       "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "51bd4c1f3cb9fa33",
-      "date": "2025-07-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-services-procurement/news/2025/07/alternating-lane-closure-on-chaudiere-crossing.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Alternating lane closure planned on Chaudière Crossing",
-      "sum": "Public Services and Procurement Canada is implementing alternating lane closures on the Chaudière Crossing to conduct maintenance work. Motorists are advised of the upcoming closures.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "099e4754c6a948ec",
-      "date": "2025-07-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/border-services-agency/news/2025/07/cbsa-officers-at-calgary-international-airport-and-commercial-operations-seize-160-kg-of-cannabis-worth-over-12-million-in-a-year.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "CBSA seizes 160 kg cannabis at Calgary airport and operations",
-      "sum": "Canada Border Services Agency officers seized over 160 kilograms of cannabis valued at more than $1.2 million at Calgary International Airport and commercial operations over the past year.",
-      "cat": "Public safety",
       "ai": true
     }
   ]
