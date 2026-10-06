@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T05:24:19.236Z",
+  "generatedAt": "2026-10-06T12:56:56.835Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,42 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "04eba199e21e5a5b",
+      "date": "2026-10-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT21jLU8yc2hpd21ZOEtJWEo4QXltUDljanVCN2ZMS0t2dW5kMU1mWU1CbkVjVEs5ZktiWTY3cGZfakYxWEhPaTBka1AwUmJVRDFMOWV1cElUb2dTS0xBbmJwNloxMDVGQlo1QlF4VUtINHFuYTJ4TVZubW55TVFRaXdUVVQ3R0tEOW11YVhEaEJtbXpUa2dELXZGNXA1bXJ3aVgzRE00RzkzZENQMXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "MPs spar over Carney's major projects bill as Parliament resumes - Canada's National Observer",
+      "excerpt": "MPs spar over Carney's major projects bill as Parliament resumes Canada's National Observer",
+      "cat": "Economy"
+    },
+    {
+      "id": "c698e3f94017fa4a",
+      "date": "2026-10-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTEtURzU3Z1RBTmEwYW9oMEZkdVZHODFzLU9ZdTNZbTlDOV93NDJWbkRKMjlZOTJPWEdfVXFzSzRNZ1hxTGtYNXotdmRFZVFCQjZOM2RyRFVsT0J4YTNadDdYZTJELXhqY1lpeTVxb2VqWm5ZNWJsMTQ1dXZjU3hIZXZqMU9rREwwU1NLWFkzaVpYLTNLMklGVkpWNEVjUnEwbHc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Separatists win Quebec election in test for Canada PM’s national unity strategy - The Guardian",
+      "excerpt": "Separatists win Quebec election in test for Canada PM’s national unity strategy The Guardian",
+      "cat": "Economy"
+    },
+    {
+      "id": "ab006f6b678aa1ea",
+      "date": "2026-10-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oQ2dRRklEclhVX2JfaVo1UmxKRFBTME9fVm9GVXBBQVJ4c0RSVmdNa3U5X2NhOWUybzVscHhpUWV2RVpYdEtmNERKV1QyQlFIU2h3WVBibEdUSkk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Separatist party wins Quebec election, adding new test to Canada's unity - BBC",
+      "excerpt": "Separatist party wins Quebec election, adding new test to Canada's unity BBC",
+      "cat": "Economy"
+    },
     {
       "id": "bd0e46930e53e1c0",
       "date": "2026-10-06",
@@ -27931,6 +27967,18 @@
       "title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion - NBC News",
       "excerpt": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion NBC News",
       "cat": "Economy"
+    },
+    {
+      "id": "56fa4c74db008a64",
+      "date": "2026-08-21",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2c0eHptc3BpeGJTN25UbDJPSHJXMEp3R1lHNTV0SUVlSmlFdjlqNVFIVURUV2RCNmRQUGZpYmNvX2hBMWswcHJYaVJaRVI0OGFiWE12bndBRmJuWUR5X2Q4TWNJVUpRVmpEYXVLY1l2bWVSaVZRU19NRVExVk94MjYzVW42Sjd5MVdxTnhlQ0ZtZ0Y0M1piekpOY3Q5ZFhzMHYwVUlObU9kbHllTVpRRkl4QXRRekFOY0t3TUNoUUl6QVJDRlE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada pledges financing as government report finds it lagging on climate adaptation - Sustainable Views",
+      "excerpt": "Canada pledges financing as government report finds it lagging on climate adaptation Sustainable Views",
+      "cat": "Sustainable development"
     },
     {
       "id": "3906995f5f47c6cf",
@@ -193346,58 +193394,6 @@
       "lang": "fr",
       "title": "Le Canada note la décision israélienne sur l'aide à Gaza",
       "sum": "Le Canada a pris connaissance de la décision du gouvernement israélien de permettre à l'aide d'entrer dans la bande de Gaza. La ministre Anand a fait cette déclaration concernant la situation israélo-palestinienne.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "ed2678d5205467bd",
-      "date": "2025-07-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/developpement-economique-nord/nouvelles/2025/07/la-ministre-chartrand-annonce-un-investissement-dans-des-evenements-qui-aident-les-petites-entreprises-de-yellowknife-a-renforcer-leurs-capacites.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Investissement dans des événements pour les petites entreprises de Yellowknife",
-      "sum": "La ministre Chartrand annonce un investissement destiné à financer des événements qui aideront les petites entreprises de Yellowknife à renforcer leurs capacités. Selon le gouvernement, les petites entreprises jouent un rôle central dans les communautés du Nord en offrant des produits et services adaptés aux besoins locaux.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "8e4a38041aea5c60",
-      "date": "2025-07-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/07/une-residente-de-winnipeg-accusee-de-tentative-dexportation-de-drogue.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Winnipeg resident charged with attempted drug export",
-      "sum": "The Canada Border Services Agency seized 30 kilograms of methamphetamine in two suitcases destined for Japan at Calgary International Airport. The Alberta RCMP has charged the individual with drug trafficking.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "ff87e31f2d8ef6ec",
-      "date": "2025-07-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/07/document-dinformation--la-visite-du-secretaire-detat-sarai-en-ethiopie-et-en-tanzanie.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Secrétaire d'État Sarai visite l'Éthiopie et la Tanzanie",
-      "sum": "Le secrétaire d'État au Développement international a effectué des visites en Éthiopie et en Tanzanie. Ces visites ont inclus des dialogues portant sur l'éducation, la santé, le développement économique, l'égalité des genres et la résilience climatique.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "cd754fa2f30adc26",
-      "date": "2025-07-28",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/07/le-secretaire-detat-sarai-conclut-une-visite-fructueuse-en-ethiopie-et-en-tanzanie-et-sa-participation-a-la-reunion-des-ministres-du-developpement-.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Secrétaire d'État Sarai conclut visite en Afrique de l'Est",
-      "sum": "Le secrétaire d'État Sarai a terminé une visite en Éthiopie et en Tanzanie, incluant sa participation à une réunion des ministres du Développement du G20 en Afrique du Sud. Le Canada renforce ses relations avec les pays africains par des échanges commerciaux, des investissements et un engagement commun envers la paix et les droits de la personne.",
       "cat": "Foreign affairs",
       "ai": true
     }
