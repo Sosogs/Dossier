@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-05T23:51:22.441Z",
+  "generatedAt": "2026-10-06T05:24:19.236Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8005,
+      "actions": 8009,
       "sources": 9
     },
     "fr": {
-      "actions": 6995,
+      "actions": 6991,
       "sources": 7
     }
   },
@@ -44,6 +44,80 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "bd0e46930e53e1c0",
+      "date": "2026-10-06",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/radio-television-telecommunications/news/2026/10/stephanie-paquette-to-the-diner-conference-de-la-chambre-de-commerce-du-grand-joliette.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "CRTC official to speak on telecommunications and broadcasting priorities",
+      "sum": "Stéphanie Paquette will speak at a Chamber of Commerce dinner in Joliette about the role of the CRTC and its key priorities in telecommunications and broadcasting.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "a9cf22a930b25b96",
+      "date": "2026-10-06",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/radiodiffusion-telecommunications/nouvelles/2026/10/stephanie-paquette-au-diner-conference-de-la-chambre-de-commerce-du-grand-joliette.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Stéphanie Paquette explique le rôle du CRTC aux entreprises",
+      "sum": "Stéphanie Paquette a pris la parole à un dîner-conférence de la Chambre de commerce du Grand Joliette. Elle a présenté le rôle du CRTC et ses orientations principales concernant les télécommunications et la radiodiffusion.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "5bcb47bcc5c1b26a",
+      "date": "2026-10-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObU1EN0NkSnQtNXZIUndlN3QxeGl3d0Y5QVFLU0hFX3V5Nm5wNWV6cHBOcUhjcmNQUDFNd3l0VE05ZTRYamE0TzZtWVFuUTF0MERpZmRQOFJRY1Y1dmpVRXRVbW4zWHZCdWxpQXdmalhmMTR3NjBseTh2WlRQSTZpaHlBcDlBRnpOSllobWEzQWhheldHZFBsRGFWZk84dUdsSjlOOGV2NVZiWThIN1FFR2Y0TE9CTEt4ejBzUjRCRlVNRmJ3bjdBaTRjbDR1UkpLbVE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "‘A terrible decision’: PM Carney set to open Canada’s four largest airports to private investment - The Pointer",
+      "excerpt": "‘A terrible decision’: PM Carney set to open Canada’s four largest airports to private investment The Pointer",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "4f04a7200a23036f",
+      "date": "2026-10-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUjJKem4yeE5LVWNfcGZZZjVnb0Y5OHFmQk91cFJfSGkxNE5vRzA3d3VTQU44LVNja3RYb1hHVjN3VXRwZGpRVS1fNVhyRnVoYnBYQkxEOFZ3aTExYVZfd2lUeXIzZ09XQ1VHbVNfQVYtaWtBbHpJWkw0anJlSUVuZVhUcWRCMk1qem9fNi0zdm5FY1pXUWliNy00OVNRTDVoQTFCYXV0akozdHkxRFFYUUNaeE9ZaGxURnlxVDAySzBBSnlmcFZSNzgwa21xTm5oZ1pYUU1INjNnWHdsVU1UTFZIZUhpUEFKb2c?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney’s government demands answers from Stelco on layoffs - Toronto Star",
+      "excerpt": "Mark Carney’s government demands answers from Stelco on layoffs Toronto Star",
+      "cat": "Economy"
+    },
+    {
+      "id": "3782bee3b9807866",
+      "date": "2026-10-06",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR1Y5cmVFdGtiUTByQ21DUmEzWnFoNHdkcElrbmo2UWduOUtKZlhQVXFabkcyalNCOWdPbEZBX1VkVHNRY2c1SnExbVJNMXQzUGRBT3kwQ0NEUThMdWdZWDNwMUtjNFBOVVRKNWJ5VnE3R1Z4YXdrUUptdllzZjBUUkxZSUFqR1RNaUg4NkgxX0ROSkE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Une nouvelle relation Québec-Ottawa se dessine, après la victoire du Parti québécois - Le Devoir",
+      "excerpt": "Une nouvelle relation Québec-Ottawa se dessine, après la victoire du Parti québécois Le Devoir",
+      "cat": "Economy"
+    },
+    {
+      "id": "e08a81027be970c9",
+      "date": "2026-10-05",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KbHNlU0FSWnRYV2ZHVVNDbEtZdldNWDRLX0NTdTVqX21iSTYyTVZ3bjByU3NJVXhPanh3Ty1QWmdHYlJ0X0E5S21yWnZ2WW55MFFLTzltSk5CZ0FCU21pOXZhRDVlbmpyMTZXVjdteTBRZktOdTRNVkxQVVBySGc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s major projects bill up for debate as MPs return to Parliament - globalnews.ca",
+      "excerpt": "Carney’s major projects bill up for debate as MPs return to Parliament globalnews.ca",
+      "cat": "Economy"
+    },
     {
       "id": "b3b0e97436c772b2",
       "date": "2026-10-05",
@@ -601,6 +675,18 @@
       "title": "Lorne Gunter: Despite Carney's claims, Canada's immigration numbers largely unchanged - Edmonton Journal",
       "excerpt": "Lorne Gunter: Despite Carney's claims, Canada's immigration numbers largely unchanged Edmonton Journal",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "f84f86e398687490",
+      "date": "2026-10-02",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOGRwM09CLWxuSzN5OXJqNFRyekU3Q05TWFo3WE52eUczbjl0R21RSmRuQ2JwT3RTa2hJaTY0NmQzZ0g1TzBtZ1p4a0dmSHAzTTN6U1RMNWh6cUFhNjc1UzB2cG9Vd0QyMHBfbzJRa1AwTG5pZFdBc3BHOHBjTjdhSE01bzE0cFdrS3hhQw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "The next Canada Groceries and Essentials Benefit goes out on Monday - globalnews.ca",
+      "excerpt": "The next Canada Groceries and Essentials Benefit goes out on Monday globalnews.ca",
+      "cat": "Economy"
     },
     {
       "id": "35e759cb6ecf15cb",
@@ -10156,97 +10242,6 @@
       "title": "Coast Guard ship operates in western Arctic waters",
       "sum": "The CCGS Sir Wilfrid Laurier is conducting operations in the western Arctic, including charting Canadian waters and engaging with Northern communities.",
       "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "ea080d4f53476cbd",
-      "date": "2026-09-18",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-announces-major-contribution-to-strengthen-canadas-dual-use-life-sciences-sector.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada announces major investment in dual-use life sciences sector",
-      "sum": "The Government of Canada has announced a significant financial contribution to support the dual-use life sciences sector. This sector encompasses life sciences research and capabilities that can serve both civilian and defence applications.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "71ebe2de4f2ca2e3",
-      "date": "2026-09-18",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/tribunal-commerce-exterieur/nouvelles/2026/09/le-tribunal-ouvre-une-enquete-definitive-de-dommage--gluten-de-ble-provenant-de-litalie-de-la-pologne-et-du-royaume-uni.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Enquête commerciale ouverte sur le gluten de blé importé",
-      "sum": "Le Tribunal canadien du commerce extérieur a ouvert une enquête officielle pour déterminer si le gluten de blé en provenance d'Italie, de Pologne et du Royaume-Uni a causé ou menace de causer un dommage à l'industrie canadienne. Cette enquête a été lancée suite à un avis de l'Agence des services frontaliers du Canada.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "9cc4b525335defe7",
-      "date": "2026-09-18",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/09/declaration-du-ministre-de-la-defense-nationale-a-loccasion-de-la-journee-de-reconnaissance-des-familles-de-militaires.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre reconnaît contribution des familles de militaires",
-      "sum": "Le ministre de la Défense nationale a publié une déclaration à l'occasion de la Journée de reconnaissance des familles de militaires, soulignant l'importance du rôle que jouent les familles dans la vie des militaires.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "e73fee3f042a43a7",
-      "date": "2026-09-18",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/09/le-gouvernement-du-canada-sengage-a-fournir-un-soutien-financier-a-conifex-timber-inc.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada fournit un soutien financier à Conifex Timber Inc.",
-      "sum": "Le gouvernement du Canada annonce une aide financière à Conifex Timber Inc. dans le contexte de différends commerciaux liés au bois d'œuvre résineux. Cette mesure vise à soutenir le secteur forestier et à protéger les emplois canadiens.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "5b85179230797595",
-      "date": "2026-09-18",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/09/agression-contre-un-detenu-a-letablissement-de-matsqui.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Agression contre un détenu à l'Établissement de Matsqui",
-      "sum": "Le 10 septembre 2026, un détenu a été victime d'agression à l'Établissement de Matsqui, un établissement fédéral à sécurité moyenne.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "b1656b2b19444cd4",
-      "date": "2026-09-18",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/declaration-commune-de-la-ministre-des-affaires-etrangeres-du-canada-anita-anand-et-du-ministre-des-affaires-etrangeres-de-la-republique-de-singapo.html",
-      "type": "International agreement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Singapour établissent un cadre de partenariat économique",
-      "sum": "Les ministres des Affaires étrangères du Canada et de Singapour ont signé une déclaration commune établissant un cadre de partenariat économique entre les deux pays. Cette entente formalise la coopération économique bilatérale entre le Canada et la République de Singapour.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "81a3e8eb1c00724d",
-      "date": "2026-09-18",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/09/notice-biographique--douglas-james-enns.html",
-      "type": "Appointment",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Douglas James Enns nommé à un poste au gouvernement fédéral",
-      "sum": "Douglas James Enns, président et fondateur du cabinet Upturn Consulting Ltd. en Colombie-Britannique, a été nommé à une fonction au sein du gouvernement fédéral. Son cabinet offre des services de consultation à divers clients.",
-      "cat": "Economy",
       "ai": true
     }
   ]
