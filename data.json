@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T22:27:42.638Z",
+  "generatedAt": "2026-10-07T04:53:21.986Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,44 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "fc6ef15f96a17c2d",
+      "date": "2026-10-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/radio-television-telecommunications/news/2026/10/sheehan-carter-and-leila-wright-to-the-standing-committee-on-industry-and-technology.html",
+      "type": "Appointment",
+      "kind": "official",
+      "lang": "en",
+      "title": "Sheehan Carter and Leila Wright appointed to Industry and Technology Committee",
+      "sum": "Sheehan Carter and Leila Wright have been appointed to the Standing Committee on Industry and Technology. The appointment includes a description of the CRTC's role as an independent regulator of Canada's communications sector.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
+    },
+    {
+      "id": "ace105fb2cb33ed9",
+      "date": "2026-10-07",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/radiodiffusion-telecommunications/nouvelles/2026/10/sheehan-carter-et-leila-wright-au-comite-permanent-de-lindustrie-et-de-la-technologie.html",
+      "type": "Commons vote",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Sheehan Carter et Leila Wright comparaissent au Comité permanent",
+      "sum": "Sheehan Carter et Leila Wright ont comparu devant le Comité permanent de l'industrie et de la technologie. Ils ont présenté le rôle du CRTC en tant que tribunal quasi judiciaire indépendant régulant les communications au Canada dans l'intérêt public.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
+    {
+      "id": "72f746e55a131ef2",
+      "date": "2026-10-06",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQldBaDg0algySlp3QUl4YlRaRXNQYTN4MWRTcW1ZSWhRbXFXazdLSXJhYThtZWFFWnRLMTFNZ0NJY3dkeTY0UklNc1hUb2g2VGNJcEdTU2MzYmExbHN6VjYwOF9xdzFuWlp5bFlZTXZQYk5CY3NZWjg4TmJScTFhekhfN2V1SjBMR3NvczBadnRkNUQyQjh5dUxlVEtPaHNHYmQyb29icnM1bVJqWmM5ZlFPTjZCMkJGZGFtVHVxZ1ExOUh2dGE0ZFd6YW5IUnVLMDBOSmtDVmU5ZzVndEdReGxIMXRDUFhIQktsMDJIWC1pVmFxUGtwQVVwQ21KLVpUUGFrUHhnSXI?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney government remains optimistic about high-speed rail despite PQ election victory - Toronto Star",
+      "excerpt": "Carney government remains optimistic about high-speed rail despite PQ election victory Toronto Star",
+      "cat": "Transportation"
+    },
     {
       "id": "465f9dd9a5abdaad",
       "date": "2026-10-06",
@@ -193345,45 +193383,6 @@
       "title": "LaSalle Causeway scheduled for additional weekday closures",
       "sum": "Public Services and Procurement Canada announced that the LaSalle Causeway will be fully closed to vehicles, cyclists, and pedestrians on additional weekdays to allow for unscheduled openings of the main marine navigation channel.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "d3d67c6c44af9b86",
-      "date": "2025-07-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/food-inspection-agency/news/2025/07/canadian-beef-gets-access-to-australian-market-once-again-boosting-global-trade-ties-in-the-indo-pacific.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canadian beef regains market access in Australia",
-      "sum": "The Canadian Food Inspection Agency announced that Canadian beef and beef products can now be exported to Australia, resuming market access that had been closed since 2003.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "5d0401833ac2b985",
-      "date": "2025-07-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-services-procurement/news/2025/07/closures-of-national-capital-region-bridges-to-motorists.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "National Capital Region bridges closed for IRONMAN Canada-Ottawa race",
-      "sum": "Public Services and Procurement Canada is closing the Alexandra Bridge and the Chaudière Crossing to motorists to accommodate the IRONMAN Canada-Ottawa race.",
-      "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "0dfeef124f5a0909",
-      "date": "2025-07-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/international-trade-tribunal/news/2025/07/tribunal-initiates-expiry-reviewconcrete-reinforcing-bar-from-china-south-korea-and-turkiye.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Trade tribunal reviews duties on imported reinforcing bar",
-      "sum": "The Canadian International Trade Tribunal is reviewing whether tariffs on concrete reinforcing bar from China, South Korea, and Türkiye should continue beyond their scheduled expiration. The review will determine if removing the duties would likely result in dumped or subsidized imports harming Canadian producers.",
-      "cat": "Economy",
       "ai": true
     }
   ]
