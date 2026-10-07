@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T04:53:21.986Z",
+  "generatedAt": "2026-10-07T12:51:11.430Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8019,
+      "actions": 8018,
       "sources": 9
     },
     "fr": {
-      "actions": 6981,
+      "actions": 6982,
       "sources": 7
     }
   },
@@ -44,6 +44,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "16c971f49ba778cb",
+      "date": "2026-10-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/10/secretary-of-state-van-koeverden-announces-new-investments-to-strengthen-the-canadian-sport-system.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces new investments in Canadian sport system",
+      "sum": "The Secretary of State for Sport announced new funding to strengthen Canada's sport system. The stated goal is to make sports safer, more inclusive, more affordable, and supportive for people at all levels of participation.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "067be31fa7f586fe",
+      "date": "2026-10-07",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/10/le-secretaire-detat-van-koeverden-annonce-de-nouveaux-investissements-visant-a-renforcer-le-systeme-sportif-canadien.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada investit pour renforcer son système sportif national",
+      "sum": "Le secrétaire d'État van Koeverden annonce des investissements destinés à améliorer le système sportif canadien. Ces investissements visent à créer un système sécuritaire, inclusif et abordable accessible à tous les Canadiens.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
     {
       "id": "fc6ef15f96a17c2d",
       "date": "2026-10-07",
@@ -10217,30 +10243,6 @@
       "title": "Feds set to make major changes to Canada’s labour code - Global News",
       "excerpt": "Feds set to make major changes to Canada’s labour code Global News",
       "cat": "Economy"
-    },
-    {
-      "id": "c882571d463b1965",
-      "date": "2026-09-20",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTdHSkVhdnJzb25KalRFN2VXRGxRX2F2VjBSSmpZWjVfeU03ODlYRVVkZkd3NFFMZDdyV2hQQ0lNUmViWjRVOTRJWldpMjh0QlRLTFBPcHlZS0RWOU1nUDVPdHZTMkNEY3hrRHljOTZjNEVGS3h3QnE0Tl83Q1hGQVJCYnliWGhMOFlrclRaMkJDaklvTlE2eW9pRzNhVG9pV3k2bkQ4dng0YnEzWXEzLU1lT3ZrWlZvcmhZ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Parliament returns with a big agenda and a fight brewing between Carney and labour unions - National Post",
-      "excerpt": "Parliament returns with a big agenda and a fight brewing between Carney and labour unions National Post",
-      "cat": "Economy"
-    },
-    {
-      "id": "30df4a4e8e4cf24e",
-      "date": "2026-09-20",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFc5ZlpYSXVzZkt5eXZhY29sSTZsTU03N0hkVkN5SEhoVk9vcHhvOXJ6RlZ0Rlh6dGFtaEtZRzlnRko5V1lSd080WGlzRkN4VkYwcXBwU3Z1aVRpeDAzcVRwUXRtT0ZnYzhraEpuREtLQWdiUkF3NFJGMTJxQUJPM25NQ2U0cElQWGlUR0RFSnBZQzVKd280MlNDcEMwcEg4SmhuanM4RUlTaDh0THd4VGhZOEw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney government to introduce major economic bill as Parliament returns Monday - theglobeandmail.com",
-      "excerpt": "Carney government to introduce major economic bill as Parliament returns Monday theglobeandmail.com",
-      "cat": "Innovation, science & industry"
     }
   ]
 }

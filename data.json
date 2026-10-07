@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:53:21.986Z",
+  "generatedAt": "2026-10-07T12:51:11.430Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "16c971f49ba778cb",
+      "date": "2026-10-07",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/10/secretary-of-state-van-koeverden-announces-new-investments-to-strengthen-the-canadian-sport-system.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government announces new investments in Canadian sport system",
+      "sum": "The Secretary of State for Sport announced new funding to strengthen Canada's sport system. The stated goal is to make sports safer, more inclusive, more affordable, and supportive for people at all levels of participation.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "067be31fa7f586fe",
+      "date": "2026-10-07",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/10/le-secretaire-detat-van-koeverden-annonce-de-nouveaux-investissements-visant-a-renforcer-le-systeme-sportif-canadien.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada investit pour renforcer son système sportif national",
+      "sum": "Le secrétaire d'État van Koeverden annonce des investissements destinés à améliorer le système sportif canadien. Ces investissements visent à créer un système sécuritaire, inclusif et abordable accessible à tous les Canadiens.",
+      "cat": "Innovation, science & industry",
+      "ai": true
+    },
     {
       "id": "fc6ef15f96a17c2d",
       "date": "2026-10-07",
@@ -193357,32 +193383,6 @@
       "title": "Canadian Coast Guard dedicates new search and rescue lifeboat",
       "sum": "The Canadian Coast Guard held a dedication ceremony for a new search and rescue lifeboat named CCGS Baie des Chaleurs in Dartmouth, Nova Scotia. The event was attended by representatives including the Minister of Fisheries.",
       "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "e490979d2e0a243f",
-      "date": "2025-07-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2025/07/death-of-an-inmate-from-mission-institution.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inmate death at Mission Institution reported",
-      "sum": "Ryan Brady, an inmate at Mission Institution, died on July 27, 2025, while in custody. The death is reported as apparent natural causes.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "0d463531dbe5bdd2",
-      "date": "2025-07-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-services-procurement/news/2025/07/additional-weekday-closures-of-lasalle-causeway.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "LaSalle Causeway scheduled for additional weekday closures",
-      "sum": "Public Services and Procurement Canada announced that the LaSalle Causeway will be fully closed to vehicles, cyclists, and pedestrians on additional weekdays to allow for unscheduled openings of the main marine navigation channel.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]
