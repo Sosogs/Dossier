@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T05:03:37.104Z",
+  "generatedAt": "2026-10-08T12:59:37.464Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,96 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "617739d4eaefd4d6",
+      "date": "2026-10-08",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-services-procurement/news/2026/10/minister-lightbound-to-hold-media-scrum-in-beaupre.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister Lightbound visits Beaupré factory for media engagement",
+      "sum": "Minister Joël Lightbound will visit a factory in Beaupré to meet with workers and participate in a media scrum related to the mega productivity deduction initiative.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "5759d62b905b8463",
+      "date": "2026-10-08",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/10/minister-miller-to-announce-support-for-an-arts-and-culture-organization-in-the-eastern-townships-region.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces support for Eastern Townships arts and culture",
+      "sum": "Minister Miller will announce government support for an arts and culture organization operating in the Eastern Townships region. The announcement demonstrates the Government of Canada's commitment to supporting arts and culture in this area.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "da7d203803b30620",
+      "date": "2026-10-08",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/news/2026/10/the-government-of-canada-introduces-legislation-to-reduce-red-tape-and-support-economic-growth-and-competitiveness.html",
+      "type": "Bill",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government introduces legislation to reduce regulatory burden",
+      "sum": "The Government of Canada has introduced legislation aimed at reducing regulatory requirements for businesses. The stated objective is to support economic growth and competitiveness.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "d4ada1852bccac98",
+      "date": "2026-10-08",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2026/10/le-ministre-lightbound-participera-a-une-melee-de-presse-a-beaupre.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Lightbound rencontre travailleurs à Beaupré",
+      "sum": "Le ministre de la Transformation du gouvernement, des Travaux publics et de l'Approvisionnement rencontrera des travailleurs à Beaupré et tiendra une mêlée de presse dans le cadre de la mégadéduction.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
+    },
+    {
+      "id": "1972712d14f15719",
+      "date": "2026-10-08",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/10/le-ministre-miller-annoncera-loctroi-dun-financement-a-un-organisme-voue-aux-arts-et-a-la-culture-dans-la-region-des-cantons-de-lest.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Financement accordé aux arts et culture en Cantons-de-l'Est",
+      "sum": "Le ministre Miller annoncera l'octroi d'un financement à un organisme des arts et de la culture dans la région des Cantons-de-l'Est. Le gouvernement du Canada soutient ainsi le secteur artistique et culturel de cette région.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "77e740a2e0574a74",
+      "date": "2026-10-08",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/secretariat-conseil-tresor/nouvelles/2026/10/le-gouvernement-du-canada-depose-un-projet-de-loi-visant-a-reduire-le-fardeau-administratif-et-a-favoriser-la-croissance-economique-et-la-competiti.html",
+      "type": "Bill",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada dépose un projet de loi réduisant fardeau administratif",
+      "sum": "Le gouvernement du Canada propose un projet de loi destiné à diminuer les obligations administratives imposées aux entreprises et organismes. Cette mesure vise à soutenir la croissance économique et à améliorer la compétitivité du Canada.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "1815cce665d19cce",
+      "date": "2026-10-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWRSUHVtZGtLT1lTVmxKdEs2VmxNTVdVcm13UWh1djljWVRJYVRjQU00Rlg4bnQyZjBuWkZyZW1MQmU0MUJZZUZPQmxsQjJkMzRSVGJoajVVNnYxR2pNMUthcEhBaXlYNkExOWJOTmFYTE1VQS01WXpJRGV1UU16YTItRmk0S1JRZHZveFVadkpKSGZSaW9qV05XSlBUc3k5a0VQV2NSOW9fZTB0SFd3UDRiU1ZxZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "How Quebec Separatists Win Poses New Challenge for Carney Amid Trump Trade War - Time Magazine",
+      "excerpt": "How Quebec Separatists Win Poses New Challenge for Carney Amid Trump Trade War Time Magazine",
+      "cat": "Economy"
+    },
     {
       "id": "64eb08d1cc85c3bc",
       "date": "2026-10-07",
@@ -20829,6 +20919,18 @@
       "title": "Federal court orders Carney government to release more Nazi war criminal documents - The Canadian Jewish News",
       "excerpt": "Federal court orders Carney government to release more Nazi war criminal documents The Canadian Jewish News",
       "cat": "Justice"
+    },
+    {
+      "id": "49a6b191d40741d0",
+      "date": "2026-09-03",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdXo4OXdYbG1WMEw1VzZtcmxYc0N3TzE0OTdldDJLN1hvUVVVRVN4Y2hEWEx1SVA0c21MdXQ0UUNycjF5YlpYdUFoWU93SmFKVmVLZENhZDZkQU1GbFBocjVMSWRlUW1qTjhQM1BJVDJiRHdod1ZlVDg4NDNVdVBlbk0wZFVYcFV1SU5XX215S1drV2I3RmJMdkNtSS1jbzUzOWRnYXd1YWlwY0ptd1dMeWgyVGFTbzNVZ2V6Ny11UEM1QUdSTzhMME1CRlZad0ZESVFNNWF3ZGZvVlI5QnhfX0M2Zw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le premier ministre Carney lance Transformation numérique Canada pour offrir aux Canadiennes et aux Canadiens des services publics plus rapides, plus fiables et de meilleure qualité - Lelezard",
+      "excerpt": "Le premier ministre Carney lance Transformation numérique Canada pour offrir aux Canadiennes et aux Canadiens des services publics plus rapides, plus fiables et de meilleure qualité Lelezard",
+      "cat": "Intergovernmental affairs"
     },
     {
       "id": "646e54996312b205",
@@ -193274,110 +193376,6 @@
       "title": "BC harvester convicted of illegal sea cucumber fishing and sales",
       "sum": "A British Columbia harvester was sentenced to six years in jail and fined over one million dollars for illegally catching and selling sea cucumber. Fisheries and Oceans Canada stated it is committed to enforcing fisheries laws and working with partners to improve surveillance and prosecution of serious violations.",
       "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "103f1797d0e9cf86",
-      "date": "2025-07-31",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/border-services-agency/news/2025/07/edmonton-resident-charged-with-drug-importation.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Edmonton resident charged with drug smuggling at Alberta border",
-      "sum": "Border services officers seized approximately 67 kilograms of cocaine from a commercial truck at the Coutts port of entry in Alberta. The truck driver, an Edmonton resident, has been charged with drug importation by RCMP Alberta.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "2aeaba1e471e1768",
-      "date": "2025-07-31",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-national-defence/news/2025/07/his-majestys-canadian-ship-ville-de-quebec-completes-rearmament-in-australia-while-participating-in-exercise-talisman-sabre-25.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "HMCS Ville de Québec completes missile rearmament in Australia",
-      "sum": "HMCS Ville de Québec has completed rearmament with Block II Harpoon Missiles while participating in Exercise TALISMAN SABRE 25 in Australia. The exercise involves Canadian naval forces conducting operations with international partners.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "1636884df08b9cc9",
-      "date": "2025-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-consommation-matiere-financiere/nouvelles/2025/07/lacfc-demande-aux-banques-dameliorer-le-traitement-des-plaintes-des-consommateurs.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "L'ACFC demande aux banques d'améliorer le traitement des plaintes",
-      "sum": "L'Agence de la consommation en matière financière du Canada demande aux banques d'améliorer la façon dont elles traitent les plaintes des consommateurs. Cette demande vise à renforcer la protection des droits des clients dans le secteur bancaire.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "19f0fd7a9985a443",
-      "date": "2025-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/07/saisie-dobjets-interdits-et-objets-non-autorises-a-letablissement-de-grande-cache.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Saisie d'objets interdits à l'Établissement de Grande Cache",
-      "sum": "Le 27 juillet 2025, un colis contenant des objets interdits et non autorisés a été saisi à l'Établissement de Grande Cache, un établissement fédéral à sécurité moyenne. La saisie a été effectuée grâce à la vigilance du personnel.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "500b091d48106b65",
-      "date": "2025-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/radiodiffusion-telecommunications/nouvelles/2025/07/vicky-eatrides-et-rachelle-frenette-conferences-dete-de-la-cippic.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "CRTC établit cadres réglementaires pour télécommunications",
-      "sum": "Le CRTC crée des cadres réglementaires pour soutenir une industrie des télécommunications compétitive et saine au Canada.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "17062f55721eca3d",
-      "date": "2025-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/services-autochtones-canada/nouvelles/2025/07/une-ceremonie-marque-un-nouveau-depart-pour-les-autochtones-en-milieu-urbain-a-halifax.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Cérémonie pour nouveau centre autochtone à Halifax",
-      "sum": "Le Centre d'amitié autochtone Mi'kmaw a organisé une cérémonie marquant le début des travaux préparatoires pour son nouveau centre, appelé Centre Wije'winen.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "b580bedc8c1b45dd",
-      "date": "2025-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/07/les-gouvernements-federal-et-provincial-investissent-dans-lassainissement-des-mines-de-montague.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Gouvernements fédéral et provincial financent l'assainissement mine Montague",
-      "sum": "Les gouvernements fédéral et provincial investissent plus de 33,4 millions de dollars pour assainir un ancien site minier exploité il y a environ 100 ans.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "9d33bb1aed8982c8",
-      "date": "2025-07-31",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2025/07/le-secretaire-detat-belanger-fera-une-annonce-importante-concernant-les-soins-de-sante-dans-les-communautes-nordiques-et-autochtones.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Secrétaire d'État annonce innovations en soins de santé nordiques",
-      "sum": "Le secrétaire d'État Buckley Belanger fera une annonce concernant la mise en œuvre d'innovations en matière de soins de santé dans les communautés nordiques et autochtones de la Saskatchewan.",
-      "cat": "Healthcare",
       "ai": true
     }
   ]

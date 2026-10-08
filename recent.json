@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T05:03:37.104Z",
+  "generatedAt": "2026-10-08T12:59:37.464Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8019,
+      "actions": 8021,
       "sources": 9
     },
     "fr": {
-      "actions": 6981,
+      "actions": 6979,
       "sources": 7
     }
   },
@@ -44,6 +44,96 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "617739d4eaefd4d6",
+      "date": "2026-10-08",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/public-services-procurement/news/2026/10/minister-lightbound-to-hold-media-scrum-in-beaupre.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister Lightbound visits Beaupré factory for media engagement",
+      "sum": "Minister Joël Lightbound will visit a factory in Beaupré to meet with workers and participate in a media scrum related to the mega productivity deduction initiative.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "5759d62b905b8463",
+      "date": "2026-10-08",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/10/minister-miller-to-announce-support-for-an-arts-and-culture-organization-in-the-eastern-townships-region.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada announces support for Eastern Townships arts and culture",
+      "sum": "Minister Miller will announce government support for an arts and culture organization operating in the Eastern Townships region. The announcement demonstrates the Government of Canada's commitment to supporting arts and culture in this area.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "da7d203803b30620",
+      "date": "2026-10-08",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/news/2026/10/the-government-of-canada-introduces-legislation-to-reduce-red-tape-and-support-economic-growth-and-competitiveness.html",
+      "type": "Bill",
+      "kind": "official",
+      "lang": "en",
+      "title": "Government introduces legislation to reduce regulatory burden",
+      "sum": "The Government of Canada has introduced legislation aimed at reducing regulatory requirements for businesses. The stated objective is to support economic growth and competitiveness.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "d4ada1852bccac98",
+      "date": "2026-10-08",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/services-publics-approvisionnement/nouvelles/2026/10/le-ministre-lightbound-participera-a-une-melee-de-presse-a-beaupre.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Lightbound rencontre travailleurs à Beaupré",
+      "sum": "Le ministre de la Transformation du gouvernement, des Travaux publics et de l'Approvisionnement rencontrera des travailleurs à Beaupré et tiendra une mêlée de presse dans le cadre de la mégadéduction.",
+      "cat": "Intergovernmental affairs",
+      "ai": true
+    },
+    {
+      "id": "1972712d14f15719",
+      "date": "2026-10-08",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/10/le-ministre-miller-annoncera-loctroi-dun-financement-a-un-organisme-voue-aux-arts-et-a-la-culture-dans-la-region-des-cantons-de-lest.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Financement accordé aux arts et culture en Cantons-de-l'Est",
+      "sum": "Le ministre Miller annoncera l'octroi d'un financement à un organisme des arts et de la culture dans la région des Cantons-de-l'Est. Le gouvernement du Canada soutient ainsi le secteur artistique et culturel de cette région.",
+      "cat": "Culture & heritage",
+      "ai": true
+    },
+    {
+      "id": "77e740a2e0574a74",
+      "date": "2026-10-08",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/secretariat-conseil-tresor/nouvelles/2026/10/le-gouvernement-du-canada-depose-un-projet-de-loi-visant-a-reduire-le-fardeau-administratif-et-a-favoriser-la-croissance-economique-et-la-competiti.html",
+      "type": "Bill",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Le Canada dépose un projet de loi réduisant fardeau administratif",
+      "sum": "Le gouvernement du Canada propose un projet de loi destiné à diminuer les obligations administratives imposées aux entreprises et organismes. Cette mesure vise à soutenir la croissance économique et à améliorer la compétitivité du Canada.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "1815cce665d19cce",
+      "date": "2026-10-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWRSUHVtZGtLT1lTVmxKdEs2VmxNTVdVcm13UWh1djljWVRJYVRjQU00Rlg4bnQyZjBuWkZyZW1MQmU0MUJZZUZPQmxsQjJkMzRSVGJoajVVNnYxR2pNMUthcEhBaXlYNkExOWJOTmFYTE1VQS01WXpJRGV1UU16YTItRmk0S1JRZHZveFVadkpKSGZSaW9qV05XSlBUc3k5a0VQV2NSOW9fZTB0SFd3UDRiU1ZxZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "How Quebec Separatists Win Poses New Challenge for Carney Amid Trump Trade War - Time Magazine",
+      "excerpt": "How Quebec Separatists Win Poses New Challenge for Carney Amid Trump Trade War Time Magazine",
+      "cat": "Economy"
+    },
     {
       "id": "64eb08d1cc85c3bc",
       "date": "2026-10-07",
@@ -10161,93 +10251,6 @@
       "title": "Canada's Foreign Affairs Minister meets UAE counterpart",
       "sum": "Canada's Minister of Foreign Affairs met with the United Arab Emirates' Deputy Prime Minister and Foreign Affairs Minister during the UN General Assembly in New York.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "0ef4880cb3575dd3",
-      "date": "2026-09-21",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/la-ministre-anand-rencontre-le-vice-premier-ministre-et-ministre-des-affaires-etrangeres-des-emirats-arabes-unis.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministre Anand rencontre son homologue émirati à l'ONU",
-      "sum": "La ministre canadienne des Affaires étrangères Anita Anand s'est rencontrée avec le vice-premier ministre et ministre des Affaires étrangères des Émirats arabes unis en marge de l'Assemblée générale des Nations Unies à New York.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "0614960e387575bd",
-      "date": "2026-09-21",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQV2hIVmdudnRJdTlYQmlxQk1rdS13Z2kwMWN6SWE2NjlXX2JKTWx4MjNTRHFEUjg2UjdyYWZjRkpBLWxYY2JiNTFJcGhBb2N2SFp6UW9yaG9fVWF5SUtYU3RpdDNIOFlvQmNUQXB6WmNQdUhNaTZOS0VQNVpucnlndFB1Rmh6eWFRMmUxbUk3dnNoRWZxRTNfdVA3dVZFWTQtRnplM3ZEdnBuOHE1c2VCTlplT05DbmUzNXQxOW9hWjZ1X0c4OHRoQ09DTG5MczhBODVUQUZMb2F0d0JBTk5YR003MmVVOVU4LXZ6cmF0TEVZdzBlRXp4RVZ1YkRzeENHdjNmV1Ryd1QyTUluRV9GUzln?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney government tables sweeping bill to overhaul environmental and labour rules - St. Catharines Standard",
-      "excerpt": "Carney government tables sweeping bill to overhaul environmental and labour rules St. Catharines Standard",
-      "cat": "Sustainable development"
-    },
-    {
-      "id": "3afb75eb7f318a6a",
-      "date": "2026-09-21",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjZOc0J5V0E1a1pYclpVVDl0YnVlUlR2MzRjSGtiXzhBcVZmTE8xbDlGTEJEb05qbWNTZzJCM3NNYktzcGVmR3VPeUxJeXpLNkRjN0xyUXlYWVJNMGppTXIwUHZRVldCNEZkZW1HSWJtMTJKNXYtQnJyeWdfTFdsb0pnUQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Liberals table bill to speed up major project approvals, avert labour disruptions - CBC",
-      "excerpt": "Liberals table bill to speed up major project approvals, avert labour disruptions CBC",
-      "cat": "Economy"
-    },
-    {
-      "id": "0e672a89942d6b1d",
-      "date": "2026-09-21",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQnFWTnFNTlB5N0xmcGx2eldzcVdGckJ1T2VIN0I4NXhTYm9xWXl3Ry1vS1Ixc0h5aUdGNk13VGtFaVRVSkdTWm15bkwtaGZfMzNIWDVVeUh1NmNWZEd0RnJ4eXJpcGQ5M1pOZC02Sy12WDNuTG9ONVBCY3NnczVMNzZSRXdNS1E4SkFNcFMtbWdUcWdNbzVaUnpPaXVlcG9vZkhGR1lWdHBsNUVTa2k5SmlwODhDTkZKZUozSnZtQVJ0b2RzNE53WFBSa3RTcGxYV0J2QkgxRUJUOGlnYXlkMDBnZnB5MHY4SWw2eG1WWTB5YkJEa0R5STQ4M1FoalRuX3NPdnNuNG4?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Unions hammer Carney government’s revamp of labour rules: ‘This bill neuters the right to strike’ - Toronto Star",
-      "excerpt": "Unions hammer Carney government’s revamp of labour rules: ‘This bill neuters the right to strike’ Toronto Star",
-      "cat": "Economy"
-    },
-    {
-      "id": "e900b7770422e522",
-      "date": "2026-09-21",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZW9DRjB4NGsyaEF1VEl0TDRnWHVCUU5uWTlPQTMyek5XcklaZHh1QlRYNHV2czJXOUgwVF9VRjNTcmw3Rms2dUZBM3NrUTJwUWZwOWRDeUxwX0RyX1VvRnVxYUJYU1pjY1BzWk9VQVhsWENZeDZsQVhJVlFaU1pTTThrQmtWTTRxQXc?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Plan économique : Carney veut limiter les conflits de travail et accélérer les projets - Radio-Canada",
-      "excerpt": "Plan économique : Carney veut limiter les conflits de travail et accélérer les projets Radio-Canada",
-      "cat": "Innovation, science & industry"
-    },
-    {
-      "id": "8afa31e96b3d4892",
-      "date": "2026-09-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-meets-with-qatars-prime-minister-and-minister-of-foreign-affairs.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canadian Foreign Affairs Minister meets with Qatar leadership",
-      "sum": "Minister of Foreign Affairs Anita Anand met with Qatar's Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani during the UN General Assembly in New York City.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "150587386ce7b890",
-      "date": "2026-09-21",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/secretary-of-state-van-koeverden-announces-strengthened-support-for-wheelchair-basketball.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada announces $1 million funding for Wheelchair Basketball",
-      "sum": "The Secretary of State announced over $1 million in new funding for Wheelchair Basketball in Canada. The government also recognized the performances of Canada's women's and men's Wheelchair Basketball teams at the International Wheelchair Basketball World Championships.",
-      "cat": "Culture & heritage",
       "ai": true
     }
   ]
