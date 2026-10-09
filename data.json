@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T23:03:47.634Z",
+  "generatedAt": "2026-10-09T05:06:51.468Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,102 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ed6bbcbd77fa2505",
+      "date": "2026-10-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOejhORjJZbkdaX191UXpxMm56M2tiSklla0NxQU1EMlR1WlhyUl81RGw1R3p5bGFCeTlSbFhOQXZLNmZUYUlTR1Y2U25hUzA2YmYwTm1DMVktQTNGdERnbWR5dW9mWDlkeExob213UDBIcDg1Y2ptaS0yYS1IdHJHUmxzLXZPbkEzN0o2d08tckpBc0lZUzdkb1poOVFlSGEwcVk0Y19kMGVCeW1TSWQxSkFYUmxNSXd1WnlIVHJvbVRvSGZYUDZTNnZrdFlSQ3VDbmJnWG9UOA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Canadians will decide their future after Elon Musk expresses support for separatism - The Washington Post",
+      "excerpt": "Carney says Canadians will decide their future after Elon Musk expresses support for separatism The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "3a4c2fde2708fbc5",
+      "date": "2026-10-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWJ0MGxiYWJ0bWwtcm5yc2N5TGd5bExFR25qSEVmU3U1VnhtbllFeU84RUtfdzQzWDFib0xGNV9YcERQWWtuWjl3TF9rY1o3VnZ0MnNTazBseFdpaTlMVEx0dTVITV9UcW9Ib0ZnbEFpVnZIRjVhSVFKYjJZeVo2REFRMzZsaERiTDlnb3RxanVxdmFhUnJB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
+      "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
+      "cat": "Finance"
+    },
+    {
+      "id": "ab7825ef9fd5798d",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82eEdoYy1VRFVZeTVDbGFmcExOZlhGNEFnYnpQZnpwaVNpN2lxeFd2RF9mTWpNTllibnQxbG1rd1FyTkU1WFFpTEFRaHlPUDRzSDZsQWkzU09HSTZObHBLVEg2emphS2RIMUwyZW1qWFIwbjNha0pTaE13?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "What we know about Ottawa's $2B rebate plan for heat pumps - CBC",
+      "excerpt": "What we know about Ottawa's $2B rebate plan for heat pumps CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "47a8b70879814f6a",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGp5azEwMDdrTTVXa28tRG9VeUs3VXpTNWZ6LUJoZXNpUVREc2d3NFEzbllrYi1KTGJ4a0dWWmd1XzdRek1SX29OUndlMEgxSkExOTh0R1BxY3h1NlFHUFdDelJSYXV3VENkb2RMdFVlNFUzbkFjYnYxV1p0WVJ6ZUxDOHZyN2lMRHUyOXRlaFM2QUk0Vkladm42eGJ5aHczbnA1QUdCWVI5QXEySVVnUmhpcUw3ZkpzM1YzUDkxQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney points to federal review when asked about restricting access to SKS rifle - CityNews Vancouver",
+      "excerpt": "Carney points to federal review when asked about restricting access to SKS rifle CityNews Vancouver",
+      "cat": "Economy"
+    },
+    {
+      "id": "20ac6ff20673a23d",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNERrT01WbjNnT3hILUllOC1SLTZaeTNfSVZzM0F6Uy13MmhuLVNwcG02YTR3V0Z0dGc0Y1V2dG52eDdVX3V4ektvRVNsUTJ6MHl4Z1pSNDIxeG5DRjd0bVozbjVrQWtpeVpJdEhjclUxQWxiSUF2dzNyUEdheGd3RmJNZkZveW5WTGgzajlCd3BaYWpPQV9QSEtmMzFlRUFWeVZ3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives vote with Liberals as Bill C-39 heads to committee - CTV News",
+      "excerpt": "Conservatives vote with Liberals as Bill C-39 heads to committee CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "af45fd982fb6da77",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONV9xYURZYWRVQ21LeFBOWGJqUXFjYXRfdzFJZU80dzNFUGl0ZTdTVVBwYkNsX3BMZWxDeWNDdXdhYklMZUxHU0QxQjRWRFhWUmxHcWppa1JhVEdjUExMdUxQT25HNGZtUjRCUEpoMUx6Y3FabTlhVWtIV05WTy1WN19oZHFiVFpxQVZIRW40X09aQ0tMX01MdDJES293NXI5Uk4xc29aTHAtTmpVSXBLNFpBeXJmbFMtbldYc1dub2U3SWdPajB2SGNzQWVGdnUxZDRod3JnVloyd0R0eG4ybTFUdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney unveils new rebate program for home heat pumps - Toronto Star",
+      "excerpt": "Mark Carney unveils new rebate program for home heat pumps Toronto Star",
+      "cat": "Economy"
+    },
+    {
+      "id": "753214c9d177605d",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ja1VnZ1ZOblFkRlpLOFV5eEVGTkFvSlkta3RONUVBZ2FvQlRoVEo4ZUtab2hLZEJ5VkJyZFZhZ1owUk9pMUpxZXk0SGRaWXIzMnF5bzY4c0tRSGtuWm9Sa25rTG14WUg3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney Liberal government deepens assault on federal public sector workers - World Socialist Web Site",
+      "excerpt": "Carney Liberal government deepens assault on federal public sector workers World Socialist Web Site",
+      "cat": "Economy"
+    },
+    {
+      "id": "211b9b632fe0152a",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MRU4xWm82WEc3QVRhajVCZGhDWTFIcjJ2RXdCZHhBdVhtZjhFR21VVjZHVVFLS0hZeTRiVF9FdFNTUEdSbUNKVVk3by10eUFiUkotcTloaElfakxTWG5ZRExGQU9YcENVRFE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney Delivers $2 Billion for Heat Pumps and Lower Energy Bills - Energi.Media",
+      "excerpt": "Carney Delivers $2 Billion for Heat Pumps and Lower Energy Bills Energi.Media",
+      "cat": "Natural resources"
+    },
     {
       "id": "c438fb4542cdd95f",
       "date": "2026-10-08",
@@ -3671,6 +3767,18 @@
       "title": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover - Financial Post",
       "excerpt": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover Financial Post",
       "cat": "Economy"
+    },
+    {
+      "id": "a65c2e50236f590b",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYmIzOGRVMlpTMHZQMVZpcXdkVlBrLUlJSFNIUWJOTlo0akFIYW9FckM1amhEamt1NUNNQTU0WjNVRHFwWDRvbTRXeGFJRldERkFrd3RyNDVmbDZvYkF0UlF6MVFUYXBhbFdRcTNuNWNqVkI2ZTZmdmQySDFlTjJxblI0OFZ6SWNNdC1BOVVKbHJScUxPaDRGS0VVN0RLT3NvdXlEUWpxTE9maVp5Snh4bHM3ZFlBVnBCV0FjanZrNlQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney lists the West Coast Oil Pipeline, now known as Pacific Link, as a project of national interest to unlock Canada’s full potential as a global energy superpower - Prime Minister of Canada",
+      "excerpt": "Prime Minister Carney lists the West Coast Oil Pipeline, now known as Pacific Link, as a project of national interest to unlock Canada’s full potential as a global energy superpower Prime Minister of Canada",
+      "cat": "Natural resources"
     },
     {
       "id": "4ed8c7cc257f459e",
@@ -193245,121 +193353,6 @@
       "title": "Canada et Ontario investissent dans transport en commun à North Bay",
       "sum": "Le Canada et l'Ontario investissent plus de 20,6 millions de dollars pour développer un réseau de transport en commun plus durable à North Bay. Cet investissement combiné des gouvernements fédéral, provincial et municipal vise à améliorer les services de transport pour les résidents.",
       "cat": "Transportation",
-      "ai": true
-    },
-    {
-      "id": "42f3d31293a1821f",
-      "date": "2025-08-06",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2025/08/document-dinformation--programme-nouveaux-horizons-pour-les-aines.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Lancement du Programme Nouveaux Horizons pour les aînés",
-      "sum": "Le gouvernement fédéral crée un programme de subventions et de contributions destiné à augmenter l'inclusion sociale des aînés. Ce programme vise à permettre aux personnes âgées de contribuer à la qualité de vie de leur communauté et d'en bénéficier.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "389583590a45038b",
-      "date": "2025-08-06",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2025/08/le-gouvernement-du-canada-lance-un-appel-de-propositions-pour-des-projets-communautaires-qui-appuient-les-aines.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada lance appel de propositions pour projets soutenant les aînés",
-      "sum": "Le gouvernement du Canada invite les communautés à soumettre des propositions de projets par l'entremise du programme Nouveaux Horizons pour les aînés. Ce programme vise à permettre aux aînés de participer activement à la vie de leur communauté.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "b7d35660e0a057b0",
-      "date": "2025-08-06",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/08/agression-contre-un-detenu-a-letablissement-de-latlantique.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Agression contre un détenu à l'Établissement de l'Atlantique",
-      "sum": "Un détenu a été victime d'agression le 4 août 2025 à l'Établissement de l'Atlantique, un établissement fédéral de sécurité maximale.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "a0b0f24d8cd28e7b",
-      "date": "2025-08-06",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2025/08/deces-dun-detenu-de-letablissement-de-matsqui.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Décès d'un détenu à l'établissement de Matsqui",
-      "sum": "Michael Wallwork, un détenu de l'Établissement de Matsqui, est décédé le 2 août 2025 alors qu'il était sous la garde des autorités pénitentiaires.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "0f631f365accb918",
-      "date": "2025-08-06",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2025/08/le-secretaire-parlementaire-taleeb-noormohamed-annonce-un-soutien-aux-artistes-meritant-lequite.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Soutien fédéral aux artistes pour équité et mentorat",
-      "sum": "Le secrétaire parlementaire Taleeb Noormohamed annonce un investissement de Patrimoine canadien dans un projet favorisant le mentorat des artistes, les résidences créatives et des pratiques inclusives dans les milieux de travail artistique.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "81c0cb1b9702dcfc",
-      "date": "2025-08-06",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2025/08/exploitation-miniere-et-forestiere-et-reconciliation--le-secretaire-parlementaire-guay-engage-la-conversation-dans-le-nord-du-quebec.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Secrétaire parlementaire visite Nord-du-Québec sur mines et forêts",
-      "sum": "Claude Guay, secrétaire parlementaire du ministre de l'Énergie et des Ressources naturelles, a effectué une visite de deux jours dans le Nord-du-Québec. Il a discuté du rôle des secteurs minier et forestier québécois dans les chaînes d'approvisionnement canadiennes, l'emploi et la réconciliation.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "1e37a9c4559d2271",
-      "date": "2025-08-05",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR2pTUFBRcXRfTGsxbXVwc3hjdXo2SC12Z2NQNFFpLTMzdG5Tb2c3Q2ZCRVV3V0tKUG9DX19Jamx1NDF5WGkyd2s5RmdJRzJjQzNxVzBnQno1dXVDSUZzUFEtS3puZUVEYTZjQWNMZlN6Vy13b2hoWkx4aGpQZDBhWW9SRlg4OWJka3hQQ0UyOGkwMThqZFNMbkY5UjFMWmFSOWJ0djJTRU1aUHVEaEtLWHZwa1JxY21wNnpr?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Le premier ministre Carney annonce de nouvelles mesures pour transformer l’industrie canadienne du bois d’œuvre - pm.gc.ca",
-      "excerpt": "Le premier ministre Carney annonce de nouvelles mesures pour transformer l’industrie canadienne du bois d’œuvre pm.gc.ca",
-      "cat": "Intergovernmental affairs"
-    },
-    {
-      "id": "937869c47f11fe48",
-      "date": "2025-08-05",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbXQ0VERfTFhZenlOQlktWncyeTlmV1F5TEotaTJUTkxkV29CMzhsQ0cxRDl2NjNyWjA0QkZOSG02UmZHWGZwNW5iSUFqWlNpVnNVR1RPZjEyT1lBY1oxVWRDbXJlbV8tRWZSZ1hoN2tNd200bEtrdGNvUW5CVURfQjFhbTlOdEFTckV2TnV0NzFFZHdQYUF2akhQNVg2X2xlUWdwVW9UdDZETEt1WmdTX193MjFVQQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Prime Minister Carney announces new measures to transform Canada’s softwood lumber industry - pm.gc.ca",
-      "excerpt": "Prime Minister Carney announces new measures to transform Canada’s softwood lumber industry pm.gc.ca",
-      "cat": "Economy"
-    },
-    {
-      "id": "979967af1c5f4254",
-      "date": "2025-08-05",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/08/statement-by-the-international-coalition-for-the-return-of-ukrainian-children-on-the-unlawful-deportation-and-forced-transfer-of-ukrainian-children.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada joins coalition addressing Ukrainian children displacement",
-      "sum": "Canada is part of an international coalition focused on protecting Ukrainian children affected by the military conflict and addressing their displacement. The coalition reaffirms commitment to international humanitarian law and child protection conventions.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]

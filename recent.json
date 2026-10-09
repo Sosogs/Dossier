@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T23:03:47.634Z",
+  "generatedAt": "2026-10-09T05:06:51.468Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8020,
+      "actions": 8027,
       "sources": 9
     },
     "fr": {
-      "actions": 6980,
+      "actions": 6973,
       "sources": 7
     }
   },
@@ -44,6 +44,102 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "ed6bbcbd77fa2505",
+      "date": "2026-10-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOejhORjJZbkdaX191UXpxMm56M2tiSklla0NxQU1EMlR1WlhyUl81RGw1R3p5bGFCeTlSbFhOQXZLNmZUYUlTR1Y2U25hUzA2YmYwTm1DMVktQTNGdERnbWR5dW9mWDlkeExob213UDBIcDg1Y2ptaS0yYS1IdHJHUmxzLXZPbkEzN0o2d08tckpBc0lZUzdkb1poOVFlSGEwcVk0Y19kMGVCeW1TSWQxSkFYUmxNSXd1WnlIVHJvbVRvSGZYUDZTNnZrdFlSQ3VDbmJnWG9UOA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Canadians will decide their future after Elon Musk expresses support for separatism - The Washington Post",
+      "excerpt": "Carney says Canadians will decide their future after Elon Musk expresses support for separatism The Washington Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "3a4c2fde2708fbc5",
+      "date": "2026-10-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWJ0MGxiYWJ0bWwtcm5yc2N5TGd5bExFR25qSEVmU3U1VnhtbllFeU84RUtfdzQzWDFib0xGNV9YcERQWWtuWjl3TF9rY1o3VnZ0MnNTazBseFdpaTlMVEx0dTVITV9UcW9Ib0ZnbEFpVnZIRjVhSVFKYjJZeVo2REFRMzZsaERiTDlnb3RxanVxdmFhUnJB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
+      "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
+      "cat": "Finance"
+    },
+    {
+      "id": "ab7825ef9fd5798d",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82eEdoYy1VRFVZeTVDbGFmcExOZlhGNEFnYnpQZnpwaVNpN2lxeFd2RF9mTWpNTllibnQxbG1rd1FyTkU1WFFpTEFRaHlPUDRzSDZsQWkzU09HSTZObHBLVEg2emphS2RIMUwyZW1qWFIwbjNha0pTaE13?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "What we know about Ottawa's $2B rebate plan for heat pumps - CBC",
+      "excerpt": "What we know about Ottawa's $2B rebate plan for heat pumps CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "47a8b70879814f6a",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGp5azEwMDdrTTVXa28tRG9VeUs3VXpTNWZ6LUJoZXNpUVREc2d3NFEzbllrYi1KTGJ4a0dWWmd1XzdRek1SX29OUndlMEgxSkExOTh0R1BxY3h1NlFHUFdDelJSYXV3VENkb2RMdFVlNFUzbkFjYnYxV1p0WVJ6ZUxDOHZyN2lMRHUyOXRlaFM2QUk0Vkladm42eGJ5aHczbnA1QUdCWVI5QXEySVVnUmhpcUw3ZkpzM1YzUDkxQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney points to federal review when asked about restricting access to SKS rifle - CityNews Vancouver",
+      "excerpt": "Carney points to federal review when asked about restricting access to SKS rifle CityNews Vancouver",
+      "cat": "Economy"
+    },
+    {
+      "id": "20ac6ff20673a23d",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNERrT01WbjNnT3hILUllOC1SLTZaeTNfSVZzM0F6Uy13MmhuLVNwcG02YTR3V0Z0dGc0Y1V2dG52eDdVX3V4ektvRVNsUTJ6MHl4Z1pSNDIxeG5DRjd0bVozbjVrQWtpeVpJdEhjclUxQWxiSUF2dzNyUEdheGd3RmJNZkZveW5WTGgzajlCd3BaYWpPQV9QSEtmMzFlRUFWeVZ3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives vote with Liberals as Bill C-39 heads to committee - CTV News",
+      "excerpt": "Conservatives vote with Liberals as Bill C-39 heads to committee CTV News",
+      "cat": "Economy"
+    },
+    {
+      "id": "af45fd982fb6da77",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONV9xYURZYWRVQ21LeFBOWGJqUXFjYXRfdzFJZU80dzNFUGl0ZTdTVVBwYkNsX3BMZWxDeWNDdXdhYklMZUxHU0QxQjRWRFhWUmxHcWppa1JhVEdjUExMdUxQT25HNGZtUjRCUEpoMUx6Y3FabTlhVWtIV05WTy1WN19oZHFiVFpxQVZIRW40X09aQ0tMX01MdDJES293NXI5Uk4xc29aTHAtTmpVSXBLNFpBeXJmbFMtbldYc1dub2U3SWdPajB2SGNzQWVGdnUxZDRod3JnVloyd0R0eG4ybTFUdw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney unveils new rebate program for home heat pumps - Toronto Star",
+      "excerpt": "Mark Carney unveils new rebate program for home heat pumps Toronto Star",
+      "cat": "Economy"
+    },
+    {
+      "id": "753214c9d177605d",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ja1VnZ1ZOblFkRlpLOFV5eEVGTkFvSlkta3RONUVBZ2FvQlRoVEo4ZUtab2hLZEJ5VkJyZFZhZ1owUk9pMUpxZXk0SGRaWXIzMnF5bzY4c0tRSGtuWm9Sa25rTG14WUg3?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney Liberal government deepens assault on federal public sector workers - World Socialist Web Site",
+      "excerpt": "Carney Liberal government deepens assault on federal public sector workers World Socialist Web Site",
+      "cat": "Economy"
+    },
+    {
+      "id": "211b9b632fe0152a",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MRU4xWm82WEc3QVRhajVCZGhDWTFIcjJ2RXdCZHhBdVhtZjhFR21VVjZHVVFLS0hZeTRiVF9FdFNTUEdSbUNKVVk3by10eUFiUkotcTloaElfakxTWG5ZRExGQU9YcENVRFE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney Delivers $2 Billion for Heat Pumps and Lower Energy Bills - Energi.Media",
+      "excerpt": "Carney Delivers $2 Billion for Heat Pumps and Lower Energy Bills Energi.Media",
+      "cat": "Natural resources"
+    },
     {
       "id": "c438fb4542cdd95f",
       "date": "2026-10-08",
@@ -3681,6 +3777,18 @@
       "title": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover - Financial Post",
       "excerpt": "Terence Corcoran: Carney leads ‘entrepreneurial state’ takeover Financial Post",
       "cat": "Economy"
+    },
+    {
+      "id": "a65c2e50236f590b",
+      "date": "2026-10-01",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYmIzOGRVMlpTMHZQMVZpcXdkVlBrLUlJSFNIUWJOTlo0akFIYW9FckM1amhEamt1NUNNQTU0WjNVRHFwWDRvbTRXeGFJRldERkFrd3RyNDVmbDZvYkF0UlF6MVFUYXBhbFdRcTNuNWNqVkI2ZTZmdmQySDFlTjJxblI0OFZ6SWNNdC1BOVVKbHJScUxPaDRGS0VVN0RLT3NvdXlEUWpxTE9maVp5Snh4bHM3ZFlBVnBCV0FjanZrNlQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney lists the West Coast Oil Pipeline, now known as Pacific Link, as a project of national interest to unlock Canada’s full potential as a global energy superpower - Prime Minister of Canada",
+      "excerpt": "Prime Minister Carney lists the West Coast Oil Pipeline, now known as Pacific Link, as a project of national interest to unlock Canada’s full potential as a global energy superpower Prime Minister of Canada",
+      "cat": "Natural resources"
     },
     {
       "id": "4ed8c7cc257f459e",
@@ -10138,120 +10246,6 @@
       "title": "Déclaration commune pour mettre fin aux mariages d'enfants",
       "sum": "Le gouvernement du Canada a signé une déclaration commune visant à préserver les progrès réalisés et à renouveler l'engagement à mettre fin aux mariages d'enfants, précoces et forcés. La déclaration affirme que chaque fille a le droit d'apprendre, de diriger et de faire ses propres choix.",
       "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "f759183d47f3e358",
-      "date": "2026-09-23",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CLXlQLU93eVhnUW14aHpnbWlPX0pNcTQwSFJfRUx2UExCRVpITmhFa2M3WlVMRzNId3pZQUt3QzRXX01YLUZWcF9ERUsybnFXXy1ZeVJOMTc2THBCUjBodWRfSy1DcW05ZUNNUEdVc1p0Yms?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney’s Bill C-39 overhauls environmental reviews and Indigenous consultation - The Narwhal",
-      "excerpt": "Carney’s Bill C-39 overhauls environmental reviews and Indigenous consultation The Narwhal",
-      "cat": "Sustainable development"
-    },
-    {
-      "id": "1fbbd9eef5c3847a",
-      "date": "2026-09-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-sidhu-strengthens-canadas-trade-and-investment-ties-with-association-of-southeast-asian-nations.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada advances trade negotiations with ASEAN and Philippines",
-      "sum": "Minister of International Trade Maninder Sidhu participated in an ASEAN Economic Ministers meeting in Manila to strengthen Canada's trade and investment relationships in the region. He advanced negotiations toward potential free trade agreements with both the Philippines and ASEAN.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "514bab2ab52a16ab",
-      "date": "2026-09-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/health-canada/news/2026/09/government-of-canada-to-announce-funding-for-cancer-research.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government announces funding for cancer research advancement",
-      "sum": "The Minister of Health will announce government investment in cancer research and personalized cancer care initiatives.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "551280c47fae78ce",
-      "date": "2026-09-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/le-ministre-sidhu-renforce-les-liens-commerciaux-et-dinvestissement-du-canada-avec-lassociation-des-nations-de-lasie-du-sud-est.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada renforce ses relations commerciales avec l'ANASE",
-      "sum": "Le ministre du Commerce international a participé à une réunion avec les ministres de l'Économie de l'Association des nations de l'Asie du Sud-Est à Manille. Cette visite vise à approfondir les liens commerciaux et d'investissement du Canada dans la région indo-pacifique.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "35eddfde7eae3428",
-      "date": "2026-09-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/sante-canada/nouvelles/2026/09/le-gouvernement-du-canada-annoncera-du-financement-pour-la-recherche-sur-le-cancer.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada annonce du financement pour la recherche sur le cancer",
-      "sum": "Le ministre de la Santé annoncera une aide financière destinée à soutenir la recherche sur le cancer et à développer des approches de soins personnalisés.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "eeeb5804cb1ef314",
-      "date": "2026-09-23",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVFDSVNPTHJSZHJjd0hreTREVXh5T3pJRXJYVHBtNUxrcHE4VnhsQmZKcUlDWm0zdFN0WDE4M21HalFrRW5xajlnUHpCNnRkS2lXN2dudEZuTDBfODB4eGFLUEVBeDdhcWVPWWtONGxwb0FfOVIzRUVQU05Ycy1Xay11OFF2cW96RURfSg?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Heather Exner-Pirot: Carney's oil and gas renaissance - National Post",
-      "excerpt": "Heather Exner-Pirot: Carney's oil and gas renaissance National Post",
-      "cat": "Natural resources"
-    },
-    {
-      "id": "084f894c46fec305",
-      "date": "2026-09-23",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTndfS3dxUUtNS1hJdm5raUVNdzdONkVlXzJ2OGE2NGUzdWExM1QwTjdSa0xaY0lETy1tMHJkZjkyend1MUpfaGdnQjBDc1RGTkQ2WEQyMlRFSUJPeV92NnVvUHpXbzVyWnltbzJmLW1NV1kxbXN5MXBMc093Z1FmSFYyMENlTFlSa2c?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney says Labour Code change will 'protect' right to strike. Experts say it still spells legal trouble - CBC",
-      "excerpt": "Carney says Labour Code change will 'protect' right to strike. Experts say it still spells legal trouble CBC",
-      "cat": "Economy"
-    },
-    {
-      "id": "55f59a609ec554fd",
-      "date": "2026-09-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2026/09/seizure-of-contraband-items-at-drummond-institution.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Contraband items seized at Drummond Institution",
-      "sum": "On September 15, 2026, staff at Drummond Institution, a medium security federal prison, discovered and seized contraband items. The seizure resulted from staff vigilance during normal operations.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "aa917dc9b8f13f61",
-      "date": "2026-09-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/border-services-agency/news/2026/09/chief-mountain-port-of-entry-in-alberta-closes-for-the-season.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Chief Mountain port of entry closes for seasonal closure",
-      "sum": "The Chief Mountain port of entry on the Alberta-Washington border is closing on September 30, 2025 at 6:00 p.m. Mountain Daylight Time and will reopen in spring 2027.",
-      "cat": "Transportation",
       "ai": true
     }
   ]
