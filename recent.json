@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T05:06:51.468Z",
+  "generatedAt": "2026-10-09T12:46:14.874Z",
   "count": 800,
   "totals": {
     "en": {
@@ -45,6 +45,32 @@
   ],
   "items": [
     {
+      "id": "2dfda6f2ba58e168",
+      "date": "2026-10-09",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-hodgson-to-announce-clean-energy-investments.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister announces clean energy investments in New Brunswick",
+      "sum": "The Minister of Energy and Natural Resources will announce funding for energy projects in New Brunswick, alongside federal and provincial officials. A media availability session will follow the announcement.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "4081811c000d2c15",
+      "date": "2026-10-09",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/10/le-ministre-hodgson-annoncera-des-investissements-dans-lenergie-propre.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Hodgson annonce des investissements en énergie propre",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles annoncera du financement dans le secteur de l'énergie au Nouveau-Brunswick, en présence du secrétaire d'État et de la première ministre provinciale. Un point de presse suivra l'annonce.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
       "id": "ed6bbcbd77fa2505",
       "date": "2026-10-09",
       "src": "Canadian politics (via Google News)",
@@ -67,6 +93,18 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "c5b66c8a810b1ffa",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HUDVwc1lkVTNzVUZmOHUtNDNVSzFwZ29HUFhSYlBBTjVyakp1c2ItM3FSNW5PMXEyLXROSkhaZ1lUNEJZVVRURG9vcEU2NDhXcmJzNzh3OEZ0dGQ1b2xEOVM1N1oycFhmVlVPQ1IzUDBFRGpjbGFpNmw5VmpVOEU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "New Liberal major projects bill clears first vote, heads to special committee - CBC",
+      "excerpt": "New Liberal major projects bill clears first vote, heads to special committee CBC",
+      "cat": "Economy"
     },
     {
       "id": "ab7825ef9fd5798d",
@@ -945,6 +983,18 @@
       "sum": "Le gouvernement du Canada propose un projet de loi destiné à diminuer les obligations administratives imposées aux entreprises et organismes. Cette mesure vise à soutenir la croissance économique et à améliorer la compétitivité du Canada.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "9cad76564d8e55f3",
+      "date": "2026-10-07",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWdxdGxzQ1luSFlXVEVWMHpjYVVJTFBCMW1UbmdBU1ZNOG1LcS1uTnljTlR4eGRkOWszZFVCa3BmTDR3cW5zYkV3MXBMQmFyN0xORVAyWjZzV3dqQTYwV3dwT1MxNlE3WTYwTXFud2JLX0Z3QzdTZHo1Z05fdFdESGNLeG5NdW1WZlFNYVluNkVYTzByVHZ6MGJ0aWV3WGVlNTd5MjNtWUE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "La maladie mentale seule exclue de l’aide médicale à mourir - Radio-Canada",
+      "excerpt": "La maladie mentale seule exclue de l’aide médicale à mourir Radio-Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "6bb82f78959d47ea",
@@ -10197,56 +10247,6 @@
       "title": "PM Carney pledges $82 million for ocean monitoring initiative at UN - CTV News",
       "excerpt": "PM Carney pledges $82 million for ocean monitoring initiative at UN CTV News",
       "cat": "Economy"
-    },
-    {
-      "id": "937525032dfb61f9",
-      "date": "2026-09-23",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNd3lWLWJ5Z1hsM0dxNGlyU1VJU21vaGVSS09IVXdFRTZDLUpUMG9tUjZsbTNpdHNzWVN1ZXg5eHJKbjBJM21RRko5ekVXbGxMdnlOcm81TzNNUU50b21Walh2ckc2SmJBUDh2VUVQWjVyT2RydGl6SmlwaTJkRmVjOFJNY3VwbElvaTV3R0ktbzA3RGxIV2syRlFkdkFQNFlGMFprS0FzeVRNLUE1RU85ei1uUVBfSUppMVFOUDBhLUxUYVdjZ216LXJUZ1J3ZmhmNWxGallJZlVUaHdqa0xrQkRnMlJVYVpnd1Ezb3FmVHJLbkxOUV9DSDJBcTZxN1dKTmJ3?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "David Suzuki says Mark Carney is driving Canada ‘into a ditch’ with shift on climate - Toronto Star",
-      "excerpt": "David Suzuki says Mark Carney is driving Canada ‘into a ditch’ with shift on climate Toronto Star",
-      "cat": "Sustainable development"
-    },
-    {
-      "id": "49574859eefc11f4",
-      "date": "2026-09-23",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU0pOdVFNZFNScDlSLTJUTmJnZTExV04xLVgyeTZLejYtbEY3Rjd1WFdJV3c2cFBJMy1LOGJQX2tnYTF5ck9xNHd4aWpEUHQ1M3BMTldBc3RwclExclVLUldtQ1liU3V0MXFLNmw5d3VzMFVMRHB5UF83MThvNExyZTJvVy1yRk5PZ3h3WDQ3dWlEYTVWRHpFc3k1LXhJeXZEUHBJVUdnOUhYZTE0NUtIeGJVNEZuOVFma0pITg?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "OPINION: Carney Government Should Scrap This Punitive Poorly-Constructed Trudeau-Era Policy - EnergyNow",
-      "excerpt": "OPINION: Carney Government Should Scrap This Punitive Poorly-Constructed Trudeau-Era Policy EnergyNow",
-      "cat": "Natural resources"
-    },
-    {
-      "id": "07a66ee9e612691b",
-      "date": "2026-09-23",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/joint-statement-on-protecting-progress-and-renewing-resolve-ending-child-early-and-forced-marriage.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada commits to ending child, early and forced marriage",
-      "sum": "The federal government released a joint statement reaffirming its commitment to eliminating child, early and forced marriage. The statement emphasizes the importance of girls' rights to education, leadership, and self-determination.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "ac6bdd9819a02504",
-      "date": "2026-09-23",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/09/declaration-commune-sur-la-preservation-des-acquis-et-le-renouvellement-de-notre-determination--mettre-fin-aux-mariages-denfants-precoces-et-forces.html",
-      "type": "International agreement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Déclaration commune pour mettre fin aux mariages d'enfants",
-      "sum": "Le gouvernement du Canada a signé une déclaration commune visant à préserver les progrès réalisés et à renouveler l'engagement à mettre fin aux mariages d'enfants, précoces et forcés. La déclaration affirme que chaque fille a le droit d'apprendre, de diriger et de faire ses propres choix.",
-      "cat": "Indigenous services",
-      "ai": true
     }
   ]
 }

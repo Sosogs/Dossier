@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T05:06:51.468Z",
+  "generatedAt": "2026-10-09T12:46:14.874Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -35,6 +35,32 @@
   ],
   "items": [
     {
+      "id": "2dfda6f2ba58e168",
+      "date": "2026-10-09",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-hodgson-to-announce-clean-energy-investments.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister announces clean energy investments in New Brunswick",
+      "sum": "The Minister of Energy and Natural Resources will announce funding for energy projects in New Brunswick, alongside federal and provincial officials. A media availability session will follow the announcement.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "4081811c000d2c15",
+      "date": "2026-10-09",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/10/le-ministre-hodgson-annoncera-des-investissements-dans-lenergie-propre.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Hodgson annonce des investissements en énergie propre",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles annoncera du financement dans le secteur de l'énergie au Nouveau-Brunswick, en présence du secrétaire d'État et de la première ministre provinciale. Un point de presse suivra l'annonce.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
       "id": "ed6bbcbd77fa2505",
       "date": "2026-10-09",
       "src": "Canadian politics (via Google News)",
@@ -57,6 +83,18 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "c5b66c8a810b1ffa",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HUDVwc1lkVTNzVUZmOHUtNDNVSzFwZ29HUFhSYlBBTjVyakp1c2ItM3FSNW5PMXEyLXROSkhaZ1lUNEJZVVRURG9vcEU2NDhXcmJzNzh3OEZ0dGQ1b2xEOVM1N1oycFhmVlVPQ1IzUDBFRGpjbGFpNmw5VmpVOEU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "New Liberal major projects bill clears first vote, heads to special committee - CBC",
+      "excerpt": "New Liberal major projects bill clears first vote, heads to special committee CBC",
+      "cat": "Economy"
     },
     {
       "id": "ab7825ef9fd5798d",
@@ -935,6 +973,18 @@
       "sum": "Le gouvernement du Canada propose un projet de loi destiné à diminuer les obligations administratives imposées aux entreprises et organismes. Cette mesure vise à soutenir la croissance économique et à améliorer la compétitivité du Canada.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "9cad76564d8e55f3",
+      "date": "2026-10-07",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWdxdGxzQ1luSFlXVEVWMHpjYVVJTFBCMW1UbmdBU1ZNOG1LcS1uTnljTlR4eGRkOWszZFVCa3BmTDR3cW5zYkV3MXBMQmFyN0xORVAyWjZzV3dqQTYwV3dwT1MxNlE3WTYwTXFud2JLX0Z3QzdTZHo1Z05fdFdESGNLeG5NdW1WZlFNYVluNkVYTzByVHZ6MGJ0aWV3WGVlNTd5MjNtWUE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "La maladie mentale seule exclue de l’aide médicale à mourir - Radio-Canada",
+      "excerpt": "La maladie mentale seule exclue de l’aide médicale à mourir Radio-Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "6bb82f78959d47ea",
@@ -31863,6 +31913,18 @@
       "sum": "Rachel Bendayan, députée d'Outremont et secrétaire parlementaire du premier ministre, annoncera un appui financier du gouvernement du Canada destiné à soutenir la croissance d'une entreprise manufacturière située à Roberval.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "f305161601686ba7",
+      "date": "2026-08-18",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODhkT1MzMlJqNi02T05lTFdjcEJFaDQtcXh3eWQ5clRrTDZqRlQydFZfZExOVHRwZEpzVTJBWk9Rd0p0S1RLMlZrQUpuY2hjM2gtZi0tZ2lNNHVrYzNFTGNDVEQ0b1FiS2ZlLVc1Vk9GUmFOQ19RVzVIRHRnR2p4aUZiOUkzTTd5eW1USmRzd1ZWcnZvcXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Allégations d’écoblanchiment : le NPD veut une enquête sur des propos de Carney - Radio-Canada",
+      "excerpt": "Allégations d’écoblanchiment : le NPD veut une enquête sur des propos de Carney Radio-Canada",
+      "cat": "Economy"
     },
     {
       "id": "41d3ac99616a5eee",
@@ -193288,71 +193350,6 @@
       "title": "Inmate death at Matsqui Institution reported",
       "sum": "Michael Wallwork, an inmate at Matsqui Institution, died on August 2, 2025, while in custody. The federal government has made a public record of this occurrence.",
       "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "a81174ddf684fbe1",
-      "date": "2025-08-06",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2025/08/parliamentary-secretary-taleeb-noormohamed-announces-support-for-equity-deserving-artists.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government supports mentorship and residencies for equity-deserving artists",
-      "sum": "Parliamentary Secretary Taleeb Noormohamed announced that Canadian Heritage is investing in an initiative to support equity-deserving artists through mentorship programs, residencies, and inclusive workplace practices.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "0f5d042015f40154",
-      "date": "2025-08-06",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2025/08/mining-forestry-reconciliation-parliamentary-secretary-guay-brings-the-conversation-to-northern-quebec.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Parliamentary Secretary discusses mining, forestry in Northern Quebec",
-      "sum": "Claude Guay, Parliamentary Secretary to the Minister of Energy and Natural Resources, completed a two-day visit to Northern Quebec to discuss the mining and forestry sectors. The visit focused on these industries' roles in supply chains, exports, employment, and reconciliation efforts.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "074326c4bbfe0210",
-      "date": "2025-08-06",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/08/avis-aux-medias--annonce-en-matiere-dinfrastructure-a-north-bay.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Annonce d'infrastructure à North Bay avec élus fédéraux et provinciaux",
-      "sum": "Une annonce concernant un projet d'infrastructure est prévue à North Bay. Des représentants élus fédéraux, provinciaux et municipaux y participeront.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "7b52744251667e3e",
-      "date": "2025-08-06",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/08/document-dinformation--le-canada-et-lontario-investissent-dans-des-infrastructures-de-transport-en-commun-pour-les-residents-de-north-bay.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Ontario investissent dans le transport en commun à North Bay",
-      "sum": "Le gouvernement fédéral investit 8,4 millions de dollars dans huit projets de transport en commun à North Bay, en partenariat avec la province de l'Ontario et la municipalité locale. Ces investissements font partie du Programme d'Infrastructure Investir dans le Canada.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "e9f77da48241c979",
-      "date": "2025-08-06",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/08/le-canada-et-lontario-investissent-dans-des-infrastructures-de-transport-en-commun-pour-les-residents-de-north-bay.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Ontario investissent dans transport en commun à North Bay",
-      "sum": "Le Canada et l'Ontario investissent plus de 20,6 millions de dollars pour développer un réseau de transport en commun plus durable à North Bay. Cet investissement combiné des gouvernements fédéral, provincial et municipal vise à améliorer les services de transport pour les résidents.",
-      "cat": "Transportation",
       "ai": true
     }
   ]
