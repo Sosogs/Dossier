@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:24:50.198Z",
+  "generatedAt": "2026-10-10T04:52:22.370Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "be2c2b17b260137e",
+      "date": "2026-10-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ1pfZGtJSVhOZjFCNWZ4UTJnYlV1ajVIVE0zQU1hTkpvdl9ucWNKamZ4Q3hNZm9vUFIxTGZ6SjA2QU1zdXRJc1hvVlg1dU95YTlwRmk1M0c0R3BkN0lYbGJhQ3haMnBod3VmbDUwUmhsVVVEb1BGdGxqeXhlOFhZRWJPQmNfQmRDTkZXb0thVF83alJXWGFPbkhxWDhWb1lZU0NoNm1MWklaMTFHR0MyLXNtRUVvWnhrYl9FbDB3SmZSLS1xb3g0djIxY2o1TzBKMGtFeVo2UXMzR0Vqb3Jkd1Z6WnpnSklaNFRV?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Sue Stelco over layoffs, Pierre Poilievre tells Carney government - Toronto Star",
+      "excerpt": "Sue Stelco over layoffs, Pierre Poilievre tells Carney government Toronto Star",
+      "cat": "Natural resources"
+    },
     {
       "id": "756a60723980cbed",
       "date": "2026-10-09",
@@ -895,6 +907,30 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "568917859a767d2f",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXhyNlJqLXAybGRXeXg3SXgxMk9WWC1QVkRGWTVBU19nLV9BZEdmNjZXVVpsRHo4NDUyMndzYkZ6X29kN1RkREp4ejVha3dkNmNvdGVHb3pDbU40bVk0b09mY3R4NENuZWdKcmtaSVBKOGJaVGZtZEFMbU95b1ViT01aUjVKTVVDak1VSzZnTWhuZTVmaDQ4UGRvOFBFTzBJUkpqNjYyNkQ2ZjhLb1E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives allege Carney is profiting off $2B investment in heat pumps - Global News",
+      "excerpt": "Conservatives allege Carney is profiting off $2B investment in heat pumps Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "e8fe972661800f1a",
+      "date": "2026-10-08",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDRLWkRVT0dUSE9FZTJZZkw0bVhlc1N3Y2lYQldNOVF2aVFZZTVJRzdkU25IRi1SdVlDTXprWlBuSUllcWhkRWptTW03VC04U0E1WFJhazhhZFViUlJGWTdzd0xOU0htMzVqZWJWWGpFSTk2MmktbUxKN0Nza3lNTWZ1VGtveXRSazMzUkpkT3F6QjBnZTJoVnBVZnJBSktMX2V6SWRRRnVaMkVrN3ptQ1NXdzctM0xYdU0waFNNUHRPMU5EMkE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Jusqu'à 10 000 $ en remises: une nouvelle subvention du fédéral pour les thermopompes - Le Journal de Montréal",
+      "excerpt": "Jusqu'à 10 000 $ en remises: une nouvelle subvention du fédéral pour les thermopompes Le Journal de Montréal",
+      "cat": "Economy"
     },
     {
       "id": "5c46fcdb40afe05e",
@@ -1809,6 +1845,18 @@
       "sum": "Le gouvernement du Canada propose un projet de loi destiné à diminuer les obligations administratives imposées aux entreprises et organismes. Cette mesure vise à soutenir la croissance économique et à améliorer la compétitivité du Canada.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "c7ee6c019ea75434",
+      "date": "2026-10-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObzN5S3BHWXVLUzMzUFJ5NDQ2YlYyaXF5T3NGMTc3aGNNYWcxYmdub21yQk1qYm5JVkwtSExsdnQyY2s5QWxsTTZNMlhqMzczTXl6c3VyYURtX2NqWDZVZ0xwUllKOHFQcDBLNDFOZ1d6bm1uN0d5Q1liR193U2FXTW93V1dMSG1laTZ5WTFpelVxUzY1Y2NwQzdXdW80ZEhtREVZYUFtYVBqLUMtTzhxanNXM0tpa2daQ3NNZWR6WllYdEJublBxb2xieTkycGtsMVMtRDlCRjYzUWlCcGtnNUNvdVllWmxpUzJoN05rRzJGbUxnRmpLUGpsSnlHUm9oWURQNHN2OA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa tracking allegations of foreign interference in Alberta referendum, Carney says - Toronto Star",
+      "excerpt": "Ottawa tracking allegations of foreign interference in Alberta referendum, Carney says Toronto Star",
+      "cat": "Foreign affairs"
     },
     {
       "id": "9cad76564d8e55f3",
@@ -193290,58 +193338,6 @@
       "lang": "fr",
       "title": "Secrétaire d'État inaugure les Jeux du Canada 2025",
       "sum": "Le secrétaire d'État Adam van Koeverden a prononcé une déclaration lors de l'ouverture des Jeux du Canada 2025 à St. John's. Cet événement rassemble les meilleurs jeunes athlètes, entraîneurs et officiels du pays.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "1764c206a7f0b143",
-      "date": "2025-08-08",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-national-defence/news/2025/08/government-of-canada-officials-to-hold-technical-briefing-on-announcement-related-to-support-canadian-armed-forces-members.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government to brief media on Canadian Armed Forces support",
-      "sum": "Government of Canada officials will hold a virtual technical briefing for media on August 8, 2025, to discuss and answer questions about support measures for Canadian Armed Forces members.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "6056c8f16b8cd33d",
-      "date": "2025-08-08",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/parks-canada/news/2025/08/parks-canada-to-honour-lieutenant-general-retired-larry-ashley-as-hometown-hero.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Parks Canada honours retired Lieutenant-General Larry Ashley",
-      "sum": "Parks Canada is recognizing Lieutenant-General (Retired) Larry Ashley as a hometown hero. The honour recognizes his service and contributions.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "5f6d92c341993d31",
-      "date": "2025-08-08",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2025/08/press-conference-following-the-meeting-of-federal-provincial-and-territorial-ministers-responsible-for-sport-physical-activity-and-recreation.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal and provincial ministers meet on sport and recreation",
-      "sum": "Federal, provincial, and territorial ministers responsible for sport, physical activity, and recreation held a two-day conference in St. John's. The meeting provided a forum for discussion among government officials overseeing these portfolios across Canada.",
-      "cat": "Intergovernmental affairs",
-      "ai": true
-    },
-    {
-      "id": "82d95d21d609273e",
-      "date": "2025-08-08",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/parks-canada/news/2025/08/new-immersive-tourism-offering-from-the-nation-micmac-de-gespeg-at-forillon-national-park.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Micmac Nation launches immersive tourism experience at Forillon",
-      "sum": "The Nation Micmac de Gespeg has opened a new tourism offering called Um'tgi Wapg at Forillon National Park. The immersive experience was officially inaugurated to provide visitors with cultural and land-based activities.",
       "cat": "Culture & heritage",
       "ai": true
     }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T22:24:50.198Z",
+  "generatedAt": "2026-10-10T04:52:22.370Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8030,
+      "actions": 8029,
       "sources": 9
     },
     "fr": {
-      "actions": 6970,
+      "actions": 6971,
       "sources": 7
     }
   },
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "be2c2b17b260137e",
+      "date": "2026-10-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ1pfZGtJSVhOZjFCNWZ4UTJnYlV1ajVIVE0zQU1hTkpvdl9ucWNKamZ4Q3hNZm9vUFIxTGZ6SjA2QU1zdXRJc1hvVlg1dU95YTlwRmk1M0c0R3BkN0lYbGJhQ3haMnBod3VmbDUwUmhsVVVEb1BGdGxqeXhlOFhZRWJPQmNfQmRDTkZXb0thVF83alJXWGFPbkhxWDhWb1lZU0NoNm1MWklaMTFHR0MyLXNtRUVvWnhrYl9FbDB3SmZSLS1xb3g0djIxY2o1TzBKMGtFeVo2UXMzR0Vqb3Jkd1Z6WnpnSklaNFRV?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Sue Stelco over layoffs, Pierre Poilievre tells Carney government - Toronto Star",
+      "excerpt": "Sue Stelco over layoffs, Pierre Poilievre tells Carney government Toronto Star",
+      "cat": "Natural resources"
+    },
     {
       "id": "756a60723980cbed",
       "date": "2026-10-09",
@@ -905,6 +917,30 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "568917859a767d2f",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXhyNlJqLXAybGRXeXg3SXgxMk9WWC1QVkRGWTVBU19nLV9BZEdmNjZXVVpsRHo4NDUyMndzYkZ6X29kN1RkREp4ejVha3dkNmNvdGVHb3pDbU40bVk0b09mY3R4NENuZWdKcmtaSVBKOGJaVGZtZEFMbU95b1ViT01aUjVKTVVDak1VSzZnTWhuZTVmaDQ4UGRvOFBFTzBJUkpqNjYyNkQ2ZjhLb1E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Conservatives allege Carney is profiting off $2B investment in heat pumps - Global News",
+      "excerpt": "Conservatives allege Carney is profiting off $2B investment in heat pumps Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "e8fe972661800f1a",
+      "date": "2026-10-08",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDRLWkRVT0dUSE9FZTJZZkw0bVhlc1N3Y2lYQldNOVF2aVFZZTVJRzdkU25IRi1SdVlDTXprWlBuSUllcWhkRWptTW03VC04U0E1WFJhazhhZFViUlJGWTdzd0xOU0htMzVqZWJWWGpFSTk2MmktbUxKN0Nza3lNTWZ1VGtveXRSazMzUkpkT3F6QjBnZTJoVnBVZnJBSktMX2V6SWRRRnVaMkVrN3ptQ1NXdzctM0xYdU0waFNNUHRPMU5EMkE?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Jusqu'à 10 000 $ en remises: une nouvelle subvention du fédéral pour les thermopompes - Le Journal de Montréal",
+      "excerpt": "Jusqu'à 10 000 $ en remises: une nouvelle subvention du fédéral pour les thermopompes Le Journal de Montréal",
+      "cat": "Economy"
     },
     {
       "id": "5c46fcdb40afe05e",
@@ -1819,6 +1855,18 @@
       "sum": "Le gouvernement du Canada propose un projet de loi destiné à diminuer les obligations administratives imposées aux entreprises et organismes. Cette mesure vise à soutenir la croissance économique et à améliorer la compétitivité du Canada.",
       "cat": "Economy",
       "ai": true
+    },
+    {
+      "id": "c7ee6c019ea75434",
+      "date": "2026-10-07",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObzN5S3BHWXVLUzMzUFJ5NDQ2YlYyaXF5T3NGMTc3aGNNYWcxYmdub21yQk1qYm5JVkwtSExsdnQyY2s5QWxsTTZNMlhqMzczTXl6c3VyYURtX2NqWDZVZ0xwUllKOHFQcDBLNDFOZ1d6bm1uN0d5Q1liR193U2FXTW93V1dMSG1laTZ5WTFpelVxUzY1Y2NwQzdXdW80ZEhtREVZYUFtYVBqLUMtTzhxanNXM0tpa2daQ3NNZWR6WllYdEJublBxb2xieTkycGtsMVMtRDlCRjYzUWlCcGtnNUNvdVllWmxpUzJoN05rRzJGbUxnRmpLUGpsSnlHUm9oWURQNHN2OA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa tracking allegations of foreign interference in Alberta referendum, Carney says - Toronto Star",
+      "excerpt": "Ottawa tracking allegations of foreign interference in Alberta referendum, Carney says Toronto Star",
+      "cat": "Foreign affairs"
     },
     {
       "id": "9cad76564d8e55f3",
@@ -10201,58 +10249,6 @@
       "title": "Carney government labels spending inconsistently, budget watchdog says - thestar.com",
       "excerpt": "Carney government labels spending inconsistently, budget watchdog says thestar.com",
       "cat": "Finance"
-    },
-    {
-      "id": "c3256c9f64cc01eb",
-      "date": "2026-09-24",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/transport-canada/news/2026/09/government-of-canada-invests-in-keeping-canadians-safe-near-railway-crossings.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government funds railway crossing safety education projects",
-      "sum": "The Minister of Transport announced $4.5 million in funding for 12 new projects aimed at improving rail safety awareness and education across Canada.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "7fac6d340cdece02",
-      "date": "2026-09-24",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-to-welcome-german-foreign-minister-wadephul.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canadian Foreign Minister welcomes German counterpart to Canada",
-      "sum": "Minister of Foreign Affairs Anita Anand will receive German Foreign Minister Johann David Wadephul in Canada on September 24, 2026.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "70e0d73e8f2f72ee",
-      "date": "2026-09-24",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/correctional-service/news/2026/09/escape-from-the-minimum-security-unit-from-collins-bay-institution.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "en",
-      "title": "Inmate escapes from Collins Bay Institution minimum-security unit",
-      "sum": "On September 24, 2026, staff at Collins Bay Institution discovered that inmate Mason Jenkins was missing from the minimum-security unit during a formal count. The institution is a federal facility with multiple security levels.",
-      "cat": "Public safety",
-      "ai": true
-    },
-    {
-      "id": "58d186d0ea421514",
-      "date": "2026-09-24",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/transport-canada/news/2026/09/the-federal-government-announces-the-beginning-of-direct-flights-between-canada-and-vietnam.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada establishes direct flights with Vietnam",
-      "sum": "The federal government announced the start of direct flight service between Canada and Vietnam. The government states this expands international agreements to strengthen the economy and create opportunities for Canadian businesses.",
-      "cat": "Foreign affairs",
-      "ai": true
     }
   ]
 }
