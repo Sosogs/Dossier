@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T04:52:22.370Z",
+  "generatedAt": "2026-10-10T12:04:29.107Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d334eed9268c7815",
+      "date": "2026-10-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDJVTThRQ2pxUms0T2hsWTQ4ZGVEV1hzNXNuNWdnZGp6WkxNNnRnZzdXNzlfc3FwcHc4eURENjg0Zk5USmcxVGtJbzV0M25wa2Fzdk5VTXE4bHFlZnVQR1NDbWQ4SG1VV2dhQTNXR2VjTlU1VVBFMlMxMW1uanFCRjJxRm0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney faces the return of national unity politics - CBC",
+      "excerpt": "Mark Carney faces the return of national unity politics CBC",
+      "cat": "Economy"
+    },
     {
       "id": "be2c2b17b260137e",
       "date": "2026-10-09",
@@ -907,6 +919,18 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "515875560a23b824",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeV8ybWF6NzA0SEx0X2ZfaGNnREgzOXpTMnZpcmk5Mnl3LS1DQ3ZwTzEya2w0cElIZGM4V3p2c3cwdlN6Y19EMVdoVV8zcy1PRWp3NWhqQ0ZJNHdWVDJqTGpYMk8wWlNRODJ1czBCRU56Sklfakp1elgtdThRZW1qR2Q2alAwMW00ZVpSLWxzNWNLeUFQaDdQeFlIM0FtRG96Rnl0T3FxaGtSdDhYWUIzQVRyV1poWFZyZmpnUDZLaFFJOE1xMUdId2xFSlpveXZ1WDhLWktmaTBYTV9aYXBVRTNSazZiOUtvRXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s future ‘will be decided by Canadians,’ Carney says after Elon Musk pushes Quebec separatism - BNN Bloomberg",
+      "excerpt": "Canada’s future ‘will be decided by Canadians,’ Carney says after Elon Musk pushes Quebec separatism BNN Bloomberg",
+      "cat": "Economy"
     },
     {
       "id": "568917859a767d2f",
@@ -193313,32 +193337,6 @@
       "title": "Canada honore le lieutenant-général Larry Ashley comme héros national",
       "sum": "Le gouvernement du Canada rend hommage au lieutenant-général à la retraite Larry Ashley. Ashley est le premier et seul officier de la Marine royale canadienne à avoir commandé la Force aérienne du Canada.",
       "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "097a4e69c10f578f",
-      "date": "2025-08-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/08/laustralie-le-canada-et-le-royaume-uni-publient-une-declaration-commune-sur-les-elections-au-belarus.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada, Australie et Royaume-Uni publient déclaration commune sur Bélarus",
-      "sum": "L'Australie, le Canada et le Royaume-Uni ont publié une déclaration conjointe condamnant la répression et les violations des droits de la personne en Bélarus suite à l'élection présidentielle de 2020.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "ac896e33f1b07138",
-      "date": "2025-08-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2025/08/declaration-du-secretaire-detat-adam-van-koeverden-a-loccasion-de-louverture-des-jeux-du-canada-2025-a-st-johns.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Secrétaire d'État inaugure les Jeux du Canada 2025",
-      "sum": "Le secrétaire d'État Adam van Koeverden a prononcé une déclaration lors de l'ouverture des Jeux du Canada 2025 à St. John's. Cet événement rassemble les meilleurs jeunes athlètes, entraîneurs et officiels du pays.",
-      "cat": "Culture & heritage",
       "ai": true
     }
   ]

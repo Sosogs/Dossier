@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-10T04:52:22.370Z",
+  "generatedAt": "2026-10-10T12:04:29.107Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8029,
+      "actions": 8031,
       "sources": 9
     },
     "fr": {
-      "actions": 6971,
+      "actions": 6969,
       "sources": 7
     }
   },
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d334eed9268c7815",
+      "date": "2026-10-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDJVTThRQ2pxUms0T2hsWTQ4ZGVEV1hzNXNuNWdnZGp6WkxNNnRnZzdXNzlfc3FwcHc4eURENjg0Zk5USmcxVGtJbzV0M25wa2Fzdk5VTXE4bHFlZnVQR1NDbWQ4SG1VV2dhQTNXR2VjTlU1VVBFMlMxMW1uanFCRjJxRm0?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney faces the return of national unity politics - CBC",
+      "excerpt": "Mark Carney faces the return of national unity politics CBC",
+      "cat": "Economy"
+    },
     {
       "id": "be2c2b17b260137e",
       "date": "2026-10-09",
@@ -917,6 +929,18 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "515875560a23b824",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeV8ybWF6NzA0SEx0X2ZfaGNnREgzOXpTMnZpcmk5Mnl3LS1DQ3ZwTzEya2w0cElIZGM4V3p2c3cwdlN6Y19EMVdoVV8zcy1PRWp3NWhqQ0ZJNHdWVDJqTGpYMk8wWlNRODJ1czBCRU56Sklfakp1elgtdThRZW1qR2Q2alAwMW00ZVpSLWxzNWNLeUFQaDdQeFlIM0FtRG96Rnl0T3FxaGtSdDhYWUIzQVRyV1poWFZyZmpnUDZLaFFJOE1xMUdId2xFSlpveXZ1WDhLWktmaTBYTV9aYXBVRTNSazZiOUtvRXc?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s future ‘will be decided by Canadians,’ Carney says after Elon Musk pushes Quebec separatism - BNN Bloomberg",
+      "excerpt": "Canada’s future ‘will be decided by Canadians,’ Carney says after Elon Musk pushes Quebec separatism BNN Bloomberg",
+      "cat": "Economy"
     },
     {
       "id": "568917859a767d2f",
@@ -10224,30 +10248,6 @@
       "lang": "en",
       "title": "Carney will miss target for balancing operating budget, PBO says - National Post",
       "excerpt": "Carney will miss target for balancing operating budget, PBO says National Post",
-      "cat": "Finance"
-    },
-    {
-      "id": "f928472220908ab6",
-      "date": "2026-09-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbEJURkJ4LXlfRFgxalVtUDBSV1lRQmhYRVJWMHlXaWxaTXpyVy1yYV8tYUZJQjI2TGlkcEFrRFJqTzRkbUt6cUR4bXNyeTlaWUJFNmQ2OW8xblVUbGk0UjY5d0RyVEpJSlNWNGVobzAwVU5VTjh3ZkI2SzRNaVdWX0I4WDg?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney, Poilievre pay tribute to Canada Revenue Agency employee killed in Montreal - CBC",
-      "excerpt": "Carney, Poilievre pay tribute to Canada Revenue Agency employee killed in Montreal CBC",
-      "cat": "Finance"
-    },
-    {
-      "id": "61a6cd93a47ce117",
-      "date": "2026-09-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPek9taC1LVjA1Nmlsb1hqWUtTMlExa0dOZzc0YWg4akFPZTlBWjZwa3pSQ3AwbkhfbzNTUlkxM1U5dGNuVU92YzhNM0lxWmFyQ0poaUNxYTExNW5iX204OUlUYWU3RTR3VEJ1YkpNaHlsV0t0Q1dyZE5lQ1liMTh6UUJkRi1NTS1Td1lzVVFWR3NscXRvZVd0N2V3bzZNMWxvVXBZMUp6QzJKV0NMd1RBQ0tEVDJzbUZKY3QxRmpkMVR0RjJiM29SSzc5bmNaSkJTSWlLWS1RS3BuZzRPclRTV0NsaVFRcjJfWWFkT042ekVWQQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney government labels spending inconsistently, budget watchdog says - thestar.com",
-      "excerpt": "Carney government labels spending inconsistently, budget watchdog says thestar.com",
       "cat": "Finance"
     }
   ]
