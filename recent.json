@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-10T12:04:29.107Z",
+  "generatedAt": "2026-10-10T21:17:42.184Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8031,
+      "actions": 8033,
       "sources": 9
     },
     "fr": {
-      "actions": 6969,
+      "actions": 6967,
       "sources": 7
     }
   },
@@ -54,6 +54,30 @@
       "lang": "en",
       "title": "Mark Carney faces the return of national unity politics - CBC",
       "excerpt": "Mark Carney faces the return of national unity politics CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "37cc4a300e7f9d6e",
+      "date": "2026-10-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYm1wazJwUUJwVUVrRFpHYzFGNFFFT0RWODd3bGV3cVpHOWxLNHdHZDR3aXJjbThLeWEtOVBnaTdVWlVUek50MUpuamhHS2UwQ2RoQ2d2VHRZaGQ5dEtyUXBubHhNZ3N5bDZld1IwY3hUV1hwNkxlQzlXUHlTSktJRi1rejJFaWx3TkswdjFNS2pGNDZfQUs3MWtZTnBkX3psUWs1dVNkSF9TMEF2eWV3TDhMYXl3dWl1ZW1Fd1g3aVJJbkxv?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Opinion: Mark Carney has started fixing immigration. He needs to keep at it - The Globe and Mail",
+      "excerpt": "Opinion: Mark Carney has started fixing immigration. He needs to keep at it The Globe and Mail",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "46423c652bc0b6e3",
+      "date": "2026-10-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZV9talRzbVlpM2ZGR3ZjTnRTc3E5c1NIWDZmVmdJajhPdFJFb1d2Z0U5UU5la2wxN0N5NU4wWktZekRrVEFSRkZsSTk4WDlYNjhPV09WZ0h3UzRCWjR1TTBEQ3d0UjJxSnZNUTJkcTFjUy15TTJ0UFc0YTN3VXg4bHFvNlpSZGZ5UjNoOA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Here's how Carney's $2 billion home retrofit program works - Financial Post",
+      "excerpt": "Here's how Carney's $2 billion home retrofit program works Financial Post",
       "cat": "Economy"
     },
     {
@@ -10225,30 +10249,6 @@
       "title": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report - CP24",
       "excerpt": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report CP24",
       "cat": "National defence"
-    },
-    {
-      "id": "3269fbb41b77ff89",
-      "date": "2026-09-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFhCdzdKbDJxVkpoTDlHcV9jejFvOGF1RnB3bnI0dnhxU1Z4djloQW42MzdGbEIwRUtfb3JkNXczZC1hNXhuVXBLY3BzVHNaSnRmY1NDU1IwcjNxWEt0ckVOUHNvRkRVWlNwZ0pPMDlmcjlHVEpvS3dEQU9ZTi04YzA2Y2RLd3Naa05OZkNldnA3dmk3d2dYX3I0ZzZOV01GeUVLTXNfeklaMlpMLWRqTWxjdTVQTnIwTkJWbGhLRnNodVVRQUFpZ1gyaHFCc3NsaGtJYTdhdw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Canada gaining perspective on airport investments from global markets: expert - Benefits Canada.com",
-      "excerpt": "Canada gaining perspective on airport investments from global markets: expert Benefits Canada.com",
-      "cat": "Innovation, science & industry"
-    },
-    {
-      "id": "ed8441e592e140e3",
-      "date": "2026-09-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0xXOS1TekE0dVhGNkg2TXRZbFhOTV93c29fR0xJZEJCME44YTVzX1pfbGstWkNZaEhXekc4eUJXTHBwSGRNT3J4c3AtSFQ5am9mcWtKaGs2bV9GVEpPazJvRmpvN1RnZk1ha2RrOGFvb1diaFNiQ0pkbFlGQmUyV0lvUm5PTTVzWFFZLURDTGZRX3JjQS1PZEkzRHdLUkE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney will miss target for balancing operating budget, PBO says - National Post",
-      "excerpt": "Carney will miss target for balancing operating budget, PBO says National Post",
-      "cat": "Finance"
     }
   ]
 }

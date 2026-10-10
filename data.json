@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:04:29.107Z",
+  "generatedAt": "2026-10-10T21:17:42.184Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -44,6 +44,30 @@
       "lang": "en",
       "title": "Mark Carney faces the return of national unity politics - CBC",
       "excerpt": "Mark Carney faces the return of national unity politics CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "37cc4a300e7f9d6e",
+      "date": "2026-10-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYm1wazJwUUJwVUVrRFpHYzFGNFFFT0RWODd3bGV3cVpHOWxLNHdHZDR3aXJjbThLeWEtOVBnaTdVWlVUek50MUpuamhHS2UwQ2RoQ2d2VHRZaGQ5dEtyUXBubHhNZ3N5bDZld1IwY3hUV1hwNkxlQzlXUHlTSktJRi1rejJFaWx3TkswdjFNS2pGNDZfQUs3MWtZTnBkX3psUWs1dVNkSF9TMEF2eWV3TDhMYXl3dWl1ZW1Fd1g3aVJJbkxv?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Opinion: Mark Carney has started fixing immigration. He needs to keep at it - The Globe and Mail",
+      "excerpt": "Opinion: Mark Carney has started fixing immigration. He needs to keep at it The Globe and Mail",
+      "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "46423c652bc0b6e3",
+      "date": "2026-10-09",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZV9talRzbVlpM2ZGR3ZjTnRTc3E5c1NIWDZmVmdJajhPdFJFb1d2Z0U5UU5la2wxN0N5NU4wWktZekRrVEFSRkZsSTk4WDlYNjhPV09WZ0h3UzRCWjR1TTBEQ3d0UjJxSnZNUTJkcTFjUy15TTJ0UFc0YTN3VXg4bHFvNlpSZGZ5UjNoOA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Here's how Carney's $2 billion home retrofit program works - Financial Post",
+      "excerpt": "Here's how Carney's $2 billion home retrofit program works Financial Post",
       "cat": "Economy"
     },
     {
@@ -193311,32 +193335,6 @@
       "title": "Canada et alliés rejettent nouvelle opération militaire israélienne à Gaza",
       "sum": "Le Canada et huit autres pays ont émis une déclaration rejetant fermement la décision d'Israël de lancer une nouvelle opération militaire à Gaza en août. Les ministres des Affaires étrangères expriment leur préoccupation face à l'aggravation possible de la situation humanitaire.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "a8e72480c9583448",
-      "date": "2025-08-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/08/declaration-a-loccasion-de-la-journee-internationale-des-peuples-autochtones.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Déclaration pour la Journée internationale des peuples autochtones",
-      "sum": "Le gouvernement du Canada a émis une déclaration à l'occasion de la Journée internationale des peuples autochtones, avec la participation de plusieurs ministres fédéraux.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "8f358008baa9baeb",
-      "date": "2025-08-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/parcs-canada/nouvelles/2025/08/le-gouvernement-du-canada-rend-hommage-au-lieutenant-general-a-la-retraite-larry-ashley-a-titre-dheros-de-chez-nous.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada honore le lieutenant-général Larry Ashley comme héros national",
-      "sum": "Le gouvernement du Canada rend hommage au lieutenant-général à la retraite Larry Ashley. Ashley est le premier et seul officier de la Marine royale canadienne à avoir commandé la Force aérienne du Canada.",
-      "cat": "National defence",
       "ai": true
     }
   ]
