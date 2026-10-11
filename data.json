@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:17:48.725Z",
+  "generatedAt": "2026-10-11T21:37:10.760Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -943,6 +943,18 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "45b03fc3d0c1881c",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2FhNUtWVEZucWVWLTAxZjJfcHRkcFlkNWlIRW1IOFRYcTE4aFNydTQxeUVOYXE0QzJVSndfa1BVWTF1V1BHV01wTUNTTmNRNk4ySWpGQjEyT1JWX0FQb243M0pkSUh3UUFsX3JVdjk3dWVuemFsNllWX25UbDRSTTFSLTNPY0NhQjZOMkRSUk8yMExZV2ZRaVpKVEV6WjlENGtDcl84QnVHcFczZ2lNN3BHNXluRVVTM1E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces landmark investment to retrofit one million homes, cutting energy costs and emissions - Prime Minister of Canada",
+      "excerpt": "Prime Minister Carney announces landmark investment to retrofit one million homes, cutting energy costs and emissions Prime Minister of Canada",
+      "cat": "Sustainable development"
     },
     {
       "id": "2db376514fef0d68",
@@ -193320,19 +193332,6 @@
       "title": "Australia, Canada, UK release joint statement on Belarus election",
       "sum": "Australia, Canada, and the United Kingdom issued a joint statement condemning the Lukashenko regime's crackdown on protesters following the 2020 Belarus presidential election and its ongoing repression of human rights.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "0c9b4def184fbb56",
-      "date": "2025-08-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2025/08/statement-by-secretary-of-state-adam-van-koeverden-on-the-opening-of-the-st-johns-2025-canada-games.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada Games 2025 opens in St. John's",
-      "sum": "Secretary of State Adam van Koeverden issued a statement marking the opening of the 2025 Canada Games in St. John's. The Games bring together young athletes, coaches, and officials from across Canada.",
-      "cat": "Culture & heritage",
       "ai": true
     }
   ]

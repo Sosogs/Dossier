@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:17:48.725Z",
+  "generatedAt": "2026-10-11T21:37:10.760Z",
   "count": 800,
   "totals": {
     "en": {
@@ -953,6 +953,18 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "45b03fc3d0c1881c",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2FhNUtWVEZucWVWLTAxZjJfcHRkcFlkNWlIRW1IOFRYcTE4aFNydTQxeUVOYXE0QzJVSndfa1BVWTF1V1BHV01wTUNTTmNRNk4ySWpGQjEyT1JWX0FQb243M0pkSUh3UUFsX3JVdjk3dWVuemFsNllWX25UbDRSTTFSLTNPY0NhQjZOMkRSUk8yMExZV2ZRaVpKVEV6WjlENGtDcl84QnVHcFczZ2lNN3BHNXluRVVTM1E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney announces landmark investment to retrofit one million homes, cutting energy costs and emissions - Prime Minister of Canada",
+      "excerpt": "Prime Minister Carney announces landmark investment to retrofit one million homes, cutting energy costs and emissions Prime Minister of Canada",
+      "cat": "Sustainable development"
     },
     {
       "id": "2db376514fef0d68",
@@ -10237,18 +10249,6 @@
       "title": "First-time homebuyer tax rebate stalls out nationwide - Toronto Sun",
       "excerpt": "First-time homebuyer tax rebate stalls out nationwide Toronto Sun",
       "cat": "Finance"
-    },
-    {
-      "id": "1a274e80dffa4eb0",
-      "date": "2026-09-24",
-      "src": "Politique canadienne (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVjE5OGJScTRxR3FEdUZoM19acDduYlV0TXA3RVE5RXRIM0p3NzF6bXlvR0FIaU9qOFA2RnRSRXM4ZlhPeGo3YVB1VDdPejBuTnhGeW1WY2lWVjR0WVpCZUFxaUZxQURXSmMySy1jU2RKaHZid0NJdFBKN1cxclNjSGNXaHNXbjJFdFdnMDBtRHlwSDR0MXp0NlJCblNfWmg0eFZvN3pzeDA2ZXlVdHFpOURDanFZZTA3cm5lanJqU1B2S1JFR281cEVOS0JSTlhNT1R5SjJLcUczd1lCNFlySlNuOTVxYWg5SnVsalpCU2dTUGc?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "fr",
-      "title": "Femme tuée à Montréal | Mark Carney offre ses condoléances aux proches de Leïla Ben Salem - La Presse",
-      "excerpt": "Femme tuée à Montréal | Mark Carney offre ses condoléances aux proches de Leïla Ben Salem La Presse",
-      "cat": "Economy"
     }
   ]
 }
