@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T21:17:42.184Z",
+  "generatedAt": "2026-10-11T04:38:48.020Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -9281,6 +9281,18 @@
       "sum": "La ministre des Affaires étrangères Anita Anand a présenté des projets canadiens lors de l'Assemblée générale des Nations Unies. Ces initiatives visent à renforcer la démocratie, combattre la corruption et la criminalité transnationale, et soutenir les institutions de sécurité et de gouvernance.",
       "cat": "Foreign affairs",
       "ai": true
+    },
+    {
+      "id": "3d23fe3290c423da",
+      "date": "2026-09-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZjNKcThJLUlwbTg5V0MyU0VfSEhiNU1XaWlkTUQ4b1lSN1VEeDYzcEg1MHFHZTdqUVFRTUp0TmhDaWFxMjhkbF9WSnA1TlVFUVlsejlrdWRLYkZ5LTNJWjlxVERDSkx1ZHZ0NWg4OUlwQnVWQzhybUNpbV9QVTY3VG51OEoyeW1BZ0hJOEEwQkhmXzZEQTZHb1B6aVp3UDd3SF9kejU1S21Cb0l0eDgyQUI0TTA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Lorne Gunter: Carney Liberals play fast and loose with federal books - Edmonton Journal",
+      "excerpt": "Lorne Gunter: Carney Liberals play fast and loose with federal books Edmonton Journal",
+      "cat": "Economy"
     },
     {
       "id": "9eb65806fc77cf77",
@@ -193322,19 +193334,6 @@
       "title": "Ministres soulignent la Journée nationale des Gardiens de la paix",
       "sum": "Les ministres des Anciens Combattants, de la Défense nationale, des Affaires étrangères et de la Sécurité publique ont publié une déclaration conjointe pour marquer la Journée nationale des Gardiens de la paix.",
       "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "ee35a7b63aa00b3f",
-      "date": "2025-08-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/08/declaration-sur-gaza-et-la-viabilite-de-la-solution-a-deux-etats.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et alliés rejettent nouvelle opération militaire israélienne à Gaza",
-      "sum": "Le Canada et huit autres pays ont émis une déclaration rejetant fermement la décision d'Israël de lancer une nouvelle opération militaire à Gaza en août. Les ministres des Affaires étrangères expriment leur préoccupation face à l'aggravation possible de la situation humanitaire.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]

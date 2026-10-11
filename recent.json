@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-10T21:17:42.184Z",
+  "generatedAt": "2026-10-11T04:38:48.020Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8033,
+      "actions": 8034,
       "sources": 9
     },
     "fr": {
-      "actions": 6967,
+      "actions": 6966,
       "sources": 7
     }
   },
@@ -9293,6 +9293,18 @@
       "ai": true
     },
     {
+      "id": "3d23fe3290c423da",
+      "date": "2026-09-26",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZjNKcThJLUlwbTg5V0MyU0VfSEhiNU1XaWlkTUQ4b1lSN1VEeDYzcEg1MHFHZTdqUVFRTUp0TmhDaWFxMjhkbF9WSnA1TlVFUVlsejlrdWRLYkZ5LTNJWjlxVERDSkx1ZHZ0NWg4OUlwQnVWQzhybUNpbV9QVTY3VG51OEoyeW1BZ0hJOEEwQkhmXzZEQTZHb1B6aVp3UDd3SF9kejU1S21Cb0l0eDgyQUI0TTA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Lorne Gunter: Carney Liberals play fast and loose with federal books - Edmonton Journal",
+      "excerpt": "Lorne Gunter: Carney Liberals play fast and loose with federal books Edmonton Journal",
+      "cat": "Economy"
+    },
+    {
       "id": "9eb65806fc77cf77",
       "date": "2026-09-26",
       "src": "Government of Canada",
@@ -10237,18 +10249,6 @@
       "title": "Is Mark Carney a climate denier? - Canada's National Observer",
       "excerpt": "Is Mark Carney a climate denier? Canada's National Observer",
       "cat": "Sustainable development"
-    },
-    {
-      "id": "5ffd824d39a246c0",
-      "date": "2026-09-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlNzMHlVOGZRV2xOWGQyVnFxOFlQMHBrS3RUbHk2dnZLQS1VQUZzWVJSSmlPa2FuNVdPMURBZnhJTWZHMy1INWgzMkdYeWZMTjM4V2RqOG9ZakJBdTVFRkdRV1Fva0xFRnB5OUZjUDlmTzIyTmN3SUFiWEZXSVcySk5PQ2dTN2VpQ25RM1oxTzlid3ZCRmdnME5uLVlCYlhUTGFBXy1SM3k5U3VnOW92cnpwczZoOEE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report - CP24",
-      "excerpt": "PM Carney prepared for ‘risk’ that Trump might order U.S.-led military invasion of Canada: report CP24",
-      "cat": "National defence"
     }
   ]
 }
