@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T04:38:48.020Z",
+  "generatedAt": "2026-10-11T12:17:48.725Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -943,6 +943,18 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "2db376514fef0d68",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN05vYTZVU0lKUTl0RmZwWG96MTdUNWI2N2R5TU5rNEFJMW9jbUFwZ2U4Qkw1eTBVU1dlMEZpcEJkaVZJOENyTXJRVHE1LWdwNGpfSDhFeHk3bU1tNFEwbkp5RXpHaHdnUkhsdWxZX2ZPWVdzcmdTRzJHN0hFUGRDOENvQTROTlZEWnFxNnBoeVZwUG1SU05qVHhsQUlvSGc2YlRYVGxvRE83ZU9vb2JBMkw4UTVSekYxYjFMdWJpY0phNkUwVno1ZERtV2k?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney points to federal review on SKS rifle after Tumbler Ridge revelations - Winnipeg Free Press",
+      "excerpt": "Carney points to federal review on SKS rifle after Tumbler Ridge revelations Winnipeg Free Press",
+      "cat": "Economy"
     },
     {
       "id": "515875560a23b824",
@@ -193321,19 +193333,6 @@
       "title": "Canada Games 2025 opens in St. John's",
       "sum": "Secretary of State Adam van Koeverden issued a statement marking the opening of the 2025 Canada Games in St. John's. The Games bring together young athletes, coaches, and officials from across Canada.",
       "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "c88bd8514263e939",
-      "date": "2025-08-09",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/anciens-combattants-canada/nouvelles/2025/08/les-ministres-des-anciens-combattants-de-la-defense-nationale-des-affaires-etrangeres-et-de-la-securite-publique-soulignent-la-journee-nationale-de.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Ministres soulignent la Journée nationale des Gardiens de la paix",
-      "sum": "Les ministres des Anciens Combattants, de la Défense nationale, des Affaires étrangères et de la Sécurité publique ont publié une déclaration conjointe pour marquer la Journée nationale des Gardiens de la paix.",
-      "cat": "National defence",
       "ai": true
     }
   ]

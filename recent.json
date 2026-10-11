@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T04:38:48.020Z",
+  "generatedAt": "2026-10-11T12:17:48.725Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8034,
+      "actions": 8035,
       "sources": 9
     },
     "fr": {
-      "actions": 6966,
+      "actions": 6965,
       "sources": 7
     }
   },
@@ -953,6 +953,18 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "2db376514fef0d68",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN05vYTZVU0lKUTl0RmZwWG96MTdUNWI2N2R5TU5rNEFJMW9jbUFwZ2U4Qkw1eTBVU1dlMEZpcEJkaVZJOENyTXJRVHE1LWdwNGpfSDhFeHk3bU1tNFEwbkp5RXpHaHdnUkhsdWxZX2ZPWVdzcmdTRzJHN0hFUGRDOENvQTROTlZEWnFxNnBoeVZwUG1SU05qVHhsQUlvSGc2YlRYVGxvRE83ZU9vb2JBMkw4UTVSekYxYjFMdWJpY0phNkUwVno1ZERtV2k?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney points to federal review on SKS rifle after Tumbler Ridge revelations - Winnipeg Free Press",
+      "excerpt": "Carney points to federal review on SKS rifle after Tumbler Ridge revelations Winnipeg Free Press",
+      "cat": "Economy"
     },
     {
       "id": "515875560a23b824",
@@ -10237,18 +10249,6 @@
       "title": "Femme tuée à Montréal | Mark Carney offre ses condoléances aux proches de Leïla Ben Salem - La Presse",
       "excerpt": "Femme tuée à Montréal | Mark Carney offre ses condoléances aux proches de Leïla Ben Salem La Presse",
       "cat": "Economy"
-    },
-    {
-      "id": "7f5ba4a2e6e21524",
-      "date": "2026-09-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2VubHY0T0c4WHNBZ0Y0TUlzMGZBZWZpeHhpNTRxU2oyVEtMRHhjbVMzMHpKMXAybnNZQS1PYTRzNnB2NWJSalBFV2FGajlrdzZ6cmVjSmwzaEhBV3U2MWt3REU5TXl0clNWTGVyVVFIcjlWSDR6UVR4cDl2anJkT3VDNUNYWVNFZ3FuYg?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Is Mark Carney a climate denier? - Canada's National Observer",
-      "excerpt": "Is Mark Carney a climate denier? Canada's National Observer",
-      "cat": "Sustainable development"
     }
   ]
 }
