@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T21:37:10.760Z",
+  "generatedAt": "2026-10-12T04:54:10.509Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8035,
+      "actions": 8034,
       "sources": 9
     },
     "fr": {
-      "actions": 6965,
+      "actions": 6966,
       "sources": 7
     }
   },
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "121253b2fa13c928",
+      "date": "2026-10-12",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VSHpreWphUFpRdmxWRmk0UTFyWWwxUmxMRW1YcGdNWndrc2FLbmpLM2o5MGNxbDRvbmpROXZ3OVRQZzExaWRFdVJKMGFqYVEwakFYdk05a3VGcE02dUVSOHFrQzVibDFk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement libéral de Carney intensifie son assaut contre les travailleurs de la fonction publique fédérale - World Socialist Web Site",
+      "excerpt": "Le gouvernement libéral de Carney intensifie son assaut contre les travailleurs de la fonction publique fédérale World Socialist Web Site",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "d334eed9268c7815",
       "date": "2026-10-10",
@@ -953,6 +965,18 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "fa91bbaa3d910c3a",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3ozMlBKN3pqdGFlRjZON2ZOdnRWSFBZNm1qRkhIcThCYXNsTXFLakEzdm5ycThJX3JZSUZOZXdINjYzc0g1WmJkTE40UHBEaW1wM2ZLWG5SZ0V2b0ViYWxNVm0wY3ZPYWg0Y3pjQU83cEpzVUp5NkMxaWcwcFJFeWNBbEg4a0lLeEZMbDRSNlZnekRFb25hdlRDNE9IZ1E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Cold Lake First Nations seeking judicial review of Pacific Link pipeline designation - CBC",
+      "excerpt": "Cold Lake First Nations seeking judicial review of Pacific Link pipeline designation CBC",
+      "cat": "Natural resources"
     },
     {
       "id": "45b03fc3d0c1881c",
@@ -10225,30 +10249,6 @@
       "title": "Defence minister says it’s ‘normal’ to analyze ‘risk scenarios’ amid Carney’s U.S. military comments. Live updates here. - BNN Bloomberg",
       "excerpt": "Defence minister says it’s ‘normal’ to analyze ‘risk scenarios’ amid Carney’s U.S. military comments. Live updates here. BNN Bloomberg",
       "cat": "National defence"
-    },
-    {
-      "id": "d67bdba888ae705f",
-      "date": "2026-09-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yQUJSMjkyU1o2TmtSOFFmZkhFbk03Y20tb0NOaklRUHBJS25ybzBfVmFMWlU3UkZ0eVpCeFlEMFNPd0d6cXFCOE0tQ3d6SWtOS2hmTjJnSDNLNExJNGRzNkd6TEQzb0hVN0xnbXdyOW5oNnJQTGx6cQ?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Carney Says Canada Is Working to Cut Its Dependence on Starlink - driveteslacanada.ca",
-      "excerpt": "Carney Says Canada Is Working to Cut Its Dependence on Starlink driveteslacanada.ca",
-      "cat": "Economy"
-    },
-    {
-      "id": "e360acce202bc518",
-      "date": "2026-09-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWENRUFNQSldIVEtmbWdYSFBUYWtXUGhJYTAtd2NxSXQ3Z2hCci1lS3NvcXNITDVSb1BLbTNaeHpkMWdWcHViS1RTbGVubUktT3ZRUjh0WktLcml2c2JRNWNNQVhkYmgyTkwzY3ZaQ0Z5b0Z5M1BORzdXM2M0OG1qREt4YUxfMjY0QmNtc3d6SzViaHdj?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "First-time homebuyer tax rebate stalls out nationwide - Toronto Sun",
-      "excerpt": "First-time homebuyer tax rebate stalls out nationwide Toronto Sun",
-      "cat": "Finance"
     }
   ]
 }

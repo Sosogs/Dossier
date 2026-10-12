@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T21:37:10.760Z",
+  "generatedAt": "2026-10-12T04:54:10.509Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "121253b2fa13c928",
+      "date": "2026-10-12",
+      "src": "Politique canadienne (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VSHpreWphUFpRdmxWRmk0UTFyWWwxUmxMRW1YcGdNWndrc2FLbmpLM2o5MGNxbDRvbmpROXZ3OVRQZzExaWRFdVJKMGFqYVEwakFYdk05a3VGcE02dUVSOHFrQzVibDFk?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "fr",
+      "title": "Le gouvernement libéral de Carney intensifie son assaut contre les travailleurs de la fonction publique fédérale - World Socialist Web Site",
+      "excerpt": "Le gouvernement libéral de Carney intensifie son assaut contre les travailleurs de la fonction publique fédérale World Socialist Web Site",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "d334eed9268c7815",
       "date": "2026-10-10",
@@ -943,6 +955,18 @@
       "title": "PBO confirms federal gas tax cuts saves families up to $468 - Canadian Taxpayers Federation",
       "excerpt": "PBO confirms federal gas tax cuts saves families up to $468 Canadian Taxpayers Federation",
       "cat": "Finance"
+    },
+    {
+      "id": "fa91bbaa3d910c3a",
+      "date": "2026-10-08",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3ozMlBKN3pqdGFlRjZON2ZOdnRWSFBZNm1qRkhIcThCYXNsTXFLakEzdm5ycThJX3JZSUZOZXdINjYzc0g1WmJkTE40UHBEaW1wM2ZLWG5SZ0V2b0ViYWxNVm0wY3ZPYWg0Y3pjQU83cEpzVUp5NkMxaWcwcFJFeWNBbEg4a0lLeEZMbDRSNlZnekRFb25hdlRDNE9IZ1E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Cold Lake First Nations seeking judicial review of Pacific Link pipeline designation - CBC",
+      "excerpt": "Cold Lake First Nations seeking judicial review of Pacific Link pipeline designation CBC",
+      "cat": "Natural resources"
     },
     {
       "id": "45b03fc3d0c1881c",
@@ -193306,32 +193330,6 @@
       "title": "Government statement marks International Day of World's Indigenous Peoples",
       "sum": "Canadian federal ministers issued a statement recognizing the International Day of World's Indigenous Peoples. The statement was released by ministers responsible for foreign affairs, international trade, international development, crown-indigenous relations, northern affairs, and indigenous services.",
       "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "ffd644877bee9e4d",
-      "date": "2025-08-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/parks-canada/news/2025/08/the-government-of-canada-honours-lieutenant-general-retd-larry-ashley-as-a-hometown-hero.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Retired Lieutenant-General Larry Ashley honoured as hometown hero",
-      "sum": "The Government of Canada has recognized retired Lieutenant-General Larry Ashley as a hometown hero. Ashley was the first and only Royal Canadian Navy officer to command Canada's Air Force.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "5652a8a31b8161f9",
-      "date": "2025-08-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/08/australia-canada-and-the-united-kingdom-release-joint-statement-on-the-belarus-election.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Australia, Canada, UK release joint statement on Belarus election",
-      "sum": "Australia, Canada, and the United Kingdom issued a joint statement condemning the Lukashenko regime's crackdown on protesters following the 2020 Belarus presidential election and its ongoing repression of human rights.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]
