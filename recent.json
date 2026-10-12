@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T04:54:10.509Z",
+  "generatedAt": "2026-10-12T14:43:09.732Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8034,
+      "actions": 8033,
       "sources": 9
     },
     "fr": {
-      "actions": 6966,
+      "actions": 6967,
       "sources": 7
     }
   },
@@ -44,6 +44,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "48c6dc87c82b7d21",
+      "date": "2026-10-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/10/minister-anand-to-travel-to-india-and-the-united-arab-emirates.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Foreign Affairs Minister travels to India and United Arab Emirates",
+      "sum": "Minister Anita Anand will visit India and the United Arab Emirates from October 13 to October 16 to strengthen bilateral relations and cooperation with both countries.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "3c5d78137cfb4176",
+      "date": "2026-10-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/10/la-ministre-anand-se-rendra-en-inde-et-aux-emirats-arabes-unis.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "La ministre Anand se rend en Inde et aux Émirats arabes unis",
+      "sum": "La ministre des Affaires étrangères, Anita Anand, effectuera une visite en Inde et aux Émirats arabes unis du 13 au 16 octobre. Cette visite vise à renforcer les relations bilatérales et la coopération entre le Canada et ces deux pays.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
     {
       "id": "121253b2fa13c928",
       "date": "2026-10-12",
@@ -10225,30 +10251,6 @@
       "sum": "Le ministre canadien de la Défense nationale David McGuinty recevra le vice-premier ministre et ministre de la Défense nationale du Vietnam, le Général Phan Văn Giang. Les médias sont invités à couvrir une séance de photos de cette rencontre.",
       "cat": "Foreign affairs",
       "ai": true
-    },
-    {
-      "id": "5cb0226fb01a8c24",
-      "date": "2026-09-25",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ2FBUzF5MHJZM3FkU2Y4UjZXZHBwUFdfNTVERGVjNzJfMC1JZ2JiREpzSThmaTZjdmxvZWRmaV8yOWNPZVNlM01zUlg2eXB1cUZlak1ZM3BpMUhnNmxBWkNocURXNmFxUnVfamJiTy1LSnVqOXhZYmNvRTJvN2VSQV9WSmhGTjRGZWdtdy0wT3M3ck54bTZhOEpGZk5mUFZ3dlVuenZVaHJYcnpjcGFURUFvYXN1dWcxb2xzaGd6NlVrVEE?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments - CTV News",
-      "excerpt": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments CTV News",
-      "cat": "National defence"
-    },
-    {
-      "id": "3ccd70967f2b3b18",
-      "date": "2026-09-24",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZzNBRS0wT3VvYkliS200elJyOFgwanZyZE1oTVZLSExrYXc5M29lUm8ydkg5ZUNoU3gwVU8ya2c4QzdzalNOVFQ2VWE0T3ZweDQzajVCMFVLVy1HOXdXY3h3YUZQMTAzMVdqbXl1cWk0enh2bGlzUGg4Y2FhaTBJNzBMS0lFYUpkVzNpZExMZEc5WUROUjIxdXhsVkZQcVRkbEtoelpqeE1XUlg0R1FPWjJvZGR2OGxNeGJHUEFyZVUzbmVhRUhGSTBHZW9FaHhrVkVVRlRoRlNIVWNvU3lrZlhKdnpEM045NEpVYTBha0pCZEpWUWJzRmRGNkRqQnI3NzNj?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Defence minister says it’s ‘normal’ to analyze ‘risk scenarios’ amid Carney’s U.S. military comments. Live updates here. - BNN Bloomberg",
-      "excerpt": "Defence minister says it’s ‘normal’ to analyze ‘risk scenarios’ amid Carney’s U.S. military comments. Live updates here. BNN Bloomberg",
-      "cat": "National defence"
     }
   ]
 }

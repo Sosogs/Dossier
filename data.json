@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T04:54:10.509Z",
+  "generatedAt": "2026-10-12T14:43:09.732Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,32 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "48c6dc87c82b7d21",
+      "date": "2026-10-12",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/global-affairs/news/2026/10/minister-anand-to-travel-to-india-and-the-united-arab-emirates.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Foreign Affairs Minister travels to India and United Arab Emirates",
+      "sum": "Minister Anita Anand will visit India and the United Arab Emirates from October 13 to October 16 to strengthen bilateral relations and cooperation with both countries.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
+    {
+      "id": "3c5d78137cfb4176",
+      "date": "2026-10-12",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2026/10/la-ministre-anand-se-rendra-en-inde-et-aux-emirats-arabes-unis.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "La ministre Anand se rend en Inde et aux Émirats arabes unis",
+      "sum": "La ministre des Affaires étrangères, Anita Anand, effectuera une visite en Inde et aux Émirats arabes unis du 13 au 16 octobre. Cette visite vise à renforcer les relations bilatérales et la coopération entre le Canada et ces deux pays.",
+      "cat": "Foreign affairs",
+      "ai": true
+    },
     {
       "id": "121253b2fa13c928",
       "date": "2026-10-12",
@@ -11677,6 +11703,18 @@
       "title": "Do it like a banker. How Mark Carney is pitching Canada to global investors - Defence24.com",
       "excerpt": "Do it like a banker. How Mark Carney is pitching Canada to global investors Defence24.com",
       "cat": "National defence"
+    },
+    {
+      "id": "a42fe46e12bc10fb",
+      "date": "2026-09-22",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjRGJEWjdZS1ZJY1FWcDZLeVBXaWRPbE1PRnNWT2NDQXg5c2JnU3ZvRGF0M2tXdmd6emFDa0R2SG5SVlFaWk55Ti1ha1hPUlJKU3JKZUlmU3I3c2R6Yy1XNlRSZlhIRG9DNzNCZmoxbk5ZRXQtUGxBYnBSYw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "AFN chief warns Carney against 'abusing' majority to pass major projects bill - Yahoo News Canada",
+      "excerpt": "AFN chief warns Carney against 'abusing' majority to pass major projects bill Yahoo News Canada",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "0df875756d37a693",
@@ -193291,45 +193329,6 @@
       "title": "Canada soutient la paix et la stabilité dans le Caucase du Sud",
       "sum": "Le Canada appuie les accords récemment conclus entre les dirigeants de l'Arménie et de l'Azerbaïdjan visant à promouvoir la paix, la stabilité et la prospérité à long terme dans la région du Caucase du Sud.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "280d5b30e099fa7a",
-      "date": "2025-08-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/veterans-affairs-canada/news/2025/08/ministers-of-veterans-affairs-national-defence-foreign-affairs-and-public-safety-mark-national-peacekeepers-day.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Ministers mark National Peacekeepers' Day with joint statement",
-      "sum": "Four federal ministers issued a statement to observe National Peacekeepers' Day. The ministers represent Veterans Affairs, National Defence, Foreign Affairs, and Public Safety.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "07c2f19795ebd4a0",
-      "date": "2025-08-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/08/statement-on-gaza-and-the-viability-of-the-two-state-solution.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada and allies reject Israeli military operation in Gaza",
-      "sum": "Canada joined eight other countries in issuing a statement opposing Israel's decision to conduct an additional large-scale military operation in Gaza, citing concerns about humanitarian impacts, hostage safety, and civilian displacement.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "acaa2578f488a855",
-      "date": "2025-08-09",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/08/statement-on-international-day-of-worlds-indigenous-peoples.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government statement marks International Day of World's Indigenous Peoples",
-      "sum": "Canadian federal ministers issued a statement recognizing the International Day of World's Indigenous Peoples. The statement was released by ministers responsible for foreign affairs, international trade, international development, crown-indigenous relations, northern affairs, and indigenous services.",
-      "cat": "Indigenous services",
       "ai": true
     }
   ]
