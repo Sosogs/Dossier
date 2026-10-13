@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-13T00:16:51.512Z",
+  "generatedAt": "2026-10-13T13:46:13.161Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8037,
+      "actions": 8039,
       "sources": 9
     },
     "fr": {
-      "actions": 6963,
+      "actions": 6961,
       "sources": 7
     }
   },
@@ -44,6 +44,110 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "a036e86df83edd77",
+      "date": "2026-10-13",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/10/minister-sean-fraser-to-discuss-atlantic-economic-panels-report-with-halifax-business-community.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister Fraser discusses Atlantic economic opportunities with Halifax business leaders",
+      "sum": "Minister of Justice Sean Fraser will meet with Halifax business community members to discuss economic opportunities for Atlantic Canada following the release of the Atlantic Economic Panel's report titled Bolder Ambitions: Greater Prosperity for All.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "3d62545d50dce8f5",
+      "date": "2026-10-13",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/correctional-service/news/2026/10/seizures-of-contraband-and-unauthorized-items-at-collins-bay-institution0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Contraband seized at Collins Bay federal prison",
+      "sum": "Staff at Collins Bay Institution seized multiple packages containing contraband and unauthorized items between October 2 and 7, 2026. The seizures resulted from staff monitoring activities at the multi-level security federal prison.",
+      "cat": "Public safety",
+      "ai": true
+    },
+    {
+      "id": "bc287cef872f7b9f",
+      "date": "2026-10-13",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/canada-makes-milestone-clean-energy-investment-in-new-brunswick-to-drive-economic-and-energy-security-and-enhance-climate-competitiveness.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Canada invests in clean energy project in New Brunswick",
+      "sum": "The Canadian government is making a significant investment in clean energy infrastructure in New Brunswick to support economic growth, energy security, and climate goals. The investment is part of a broader strategy to build domestic energy capacity and competitiveness.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "9897f4236e297f1f",
+      "date": "2026-10-13",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-hodgson-to-announce-a-forest-sector-investment.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Minister announces forest sector investment initiative",
+      "sum": "The Minister of Energy and Natural Resources will make an announcement regarding investment in the forest sector. Media will have the opportunity to ask questions following the announcement.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "0d6bf3cd5343ca6a",
+      "date": "2026-10-13",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/promotion-economique-canada-atlantique/nouvelles/2026/10/le-ministre-sean-fraser-discutera-du-rapport-du-panel-economique-du-canada-atlantique-avec-la-communaute-daffaires-dhalifax.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Ministre Fraser discute rapport économique Canada atlantique Halifax",
+      "sum": "Le ministre de la Justice Sean Fraser rencontrera la communauté d'affaires d'Halifax pour discuter des résultats du rapport du Panel économique du Canada atlantique et des perspectives économiques pour la région.",
+      "cat": "Economy",
+      "ai": true
+    },
+    {
+      "id": "10729e1a34486d66",
+      "date": "2026-10-13",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/service-correctionnel/nouvelles/2026/10/saisies-dobjets-interdits-et-non-autorises-a-letablissement-de-collins-bay0.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Saisie d'objets interdits à l'Établissement Collins Bay",
+      "sum": "Du 2 au 7 octobre 2026, le personnel de l'Établissement de Collins Bay a saisi plusieurs colis contenant des objets interdits et non autorisés. Cet établissement fédéral offre plusieurs niveaux de sécurité.",
+      "cat": "Justice",
+      "ai": true
+    },
+    {
+      "id": "08fea2f7214cea58",
+      "date": "2026-10-13",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/10/le-canada-effectue-un-investissement-crucial-dans-lenergie-propre-au-nouveaubrunswick-pour-favoriser-la-securite-economique-et-energetique-et-pour-.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Canada investit dans l'énergie propre au Nouveau-Brunswick",
+      "sum": "Le Canada annonce un investissement en énergie propre au Nouveau-Brunswick pour renforcer la sécurité économique et énergétique du pays. Cette initiative s'inscrit dans une stratégie plus large visant à bâtir une économie canadienne prospère et compétitive face aux défis mondiaux.",
+      "cat": "Natural resources",
+      "ai": true
+    },
+    {
+      "id": "0ae4bb674dcc5c73",
+      "date": "2026-10-13",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2026/10/le-ministre-hodgson-fera-une-annonce-concernant-le-secteur-forestier.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Annonce du ministre concernant le secteur forestier",
+      "sum": "Le ministre de l'Énergie et des Ressources naturelles fera une annonce publique sur le secteur forestier, suivie d'une période de questions avec la presse.",
+      "cat": "Natural resources",
+      "ai": true
+    },
     {
       "id": "1223c2555cad6d64",
       "date": "2026-10-12",
@@ -195,6 +299,30 @@
       "title": "Le gouvernement libéral de Carney intensifie son assaut contre les travailleurs de la fonction publique fédérale - World Socialist Web Site",
       "excerpt": "Le gouvernement libéral de Carney intensifie son assaut contre les travailleurs de la fonction publique fédérale World Socialist Web Site",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "57ef36719b3503b8",
+      "date": "2026-10-11",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2VHpObXp0RWNDUTBIbXQ2UXV4NjlTdUlDZzN1NmRpVXJ4cldxRHd1cWhTaUpXaFVIRThtTHFKbTlsMmZoRnU2OC1CTGpSYkhRUENZeFFFdnhJOWhmd2FvTm5sSFUxU0s2UnZOZzdxMjJhS0FuUWZN?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime minister set to be in Alberta for critical last week ahead of referendum - CBC",
+      "excerpt": "Prime minister set to be in Alberta for critical last week ahead of referendum CBC",
+      "cat": "Economy"
+    },
+    {
+      "id": "d2ffc9edaff9210a",
+      "date": "2026-10-10",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFFmb3p2NEc2dlUyWXQzS2xOZHprSy1haWYyeFd5Rk80dmczRDVDa1hRSVg3SDZNd2ExbWMzbVNlZVdSS3Q4R1FvX29nUDI1YXQ1cXZpNlViVDAyUE5LUU1iSHF4UHV6YTROcWp0LVpmamxhUUMybjlYYjZJMjFiZGp0RUdsc3hSN3ExZDMyVE55MlZsWE5ZZmJJV2FnaUpKRUo2c0NmRjNPT1RfdWFCaS05SWs?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "GOLDSTEIN: Financial watchdog exposes flaws in Carney’s plan to spend ourselves rich - Toronto Sun",
+      "excerpt": "GOLDSTEIN: Financial watchdog exposes flaws in Carney’s plan to spend ourselves rich Toronto Sun",
+      "cat": "Justice"
     },
     {
       "id": "d334eed9268c7815",
@@ -10117,134 +10245,6 @@
       "title": "Le Canada et l'Allemagne signent un accord sur la sécurité de l'information",
       "sum": "Le Canada et l'Allemagne ont signé un accord concernant la sécurité générale de l'information. Cette entente vise à renforcer les liens entre les deux pays dans les domaines de l'économie et de la sécurité.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "03760e0398bc9710",
-      "date": "2026-09-25",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/09/le-gouvernement-du-canada-soutient-la-sante-et-le-bien-etre-grace-a-un-nouveau-centre-de-traitement-dans-la-premiere-nation-innue-de-sheshatshiu.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada finance un centre de traitement à Sheshatshiu",
-      "sum": "Le gouvernement du Canada investit dans un nouveau centre de traitement dans la Première Nation innue de Sheshatshiu. Ce projet vise à soutenir la santé et le bien-être des collectivités.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "ac7ddd754a5cc708",
-      "date": "2026-09-25",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObndyVlAtbDBocm45RFROLXJVd1IzZTVQZHBIZXZuTG5OZXg5N2V4UVVuQ2xCdmtzTllmRWNTck1HalVDU28yUHlJcmhhVHgwMjl2dk5CenNmcUItZW1BY2V0dW1TMWZCMENyM280ZzRzVmZyS0RhbHktd3VCeTB4R0dIYjRSNktJLUFCak1ERE1EOWl4Y0lPTVhYakRRalZy?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "The Carney government’s labour reform is a step in the right direction - The Hub | More Signal. Less Noise.",
-      "excerpt": "The Carney government’s labour reform is a step in the right direction The Hub | More Signal. Less Noise.",
-      "cat": "Economy"
-    },
-    {
-      "id": "cefb002b4ec30c8c",
-      "date": "2026-09-25",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd1lnVmZnbEM0NjlqTFk1QWlaNk8tRUhaSVlMOHNNTUZMckZjZk5ncU9PWUJkWG83ZEE4UUx5SEFXR3pzZGNUWWVjRXpvTU9qVFdsWVVJVWhuMy1ibVJvR3c4WnNnZU12MGJPaVlMRndwSlFzQlZYVGloR1ktbzdmZDdROU9hcEJJbmRQUkxQTkEyQWZCb1JkS0tkRnJLSG85QkxKM1lmZUZTUWRhNWVWRDN2d01nYkNrWGhQdmlRQW1NZ2NHZUlMSGtJN0d3by14dGc?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments - CP24",
-      "excerpt": "‘Analyzing risk scenarios’ normal, defence minister says amid Carney’s U.S. invasion comments CP24",
-      "cat": "National defence"
-    },
-    {
-      "id": "bec0ddad7af5db05",
-      "date": "2026-09-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/counter-uncrewed-aerial-systems-cuas-sandbox-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada hosts international counter-drone technology demonstration event",
-      "sum": "The Innovation for Defence Excellence and Security program invited 22 innovators from six countries to demonstrate emerging counter-drone technologies at the Counter Uncrewed Aerial Systems Sandbox 2026.",
-      "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "de4199867f07321a",
-      "date": "2026-09-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/09/federal-government-improves-safety-for-pedestrians-and-cyclists-in-bridgewater.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government funds pedestrian and cyclist safety in Bridgewater",
-      "sum": "The federal government is providing $762,000 to improve safety for pedestrians and cyclists in Bridgewater. The funding will support infrastructure improvements in the area.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "d5dfb420f2b96392",
-      "date": "2026-09-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2026/09/competition-bureau-to-publish-a-call-for-information-on-pricing-rules-in-retail-grocery.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Competition Bureau seeks information on grocery retail pricing rules",
-      "sum": "The Competition Bureau announced it will publish a request for information about pricing rules used in retail grocery stores. This is part of the Bureau's work to examine competition practices in the grocery sector.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "4b34b6350c78ffc8",
-      "date": "2026-09-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/09/infrastructure-announcement-in-oromocto.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Infrastructure announcement scheduled in Oromocto",
-      "sum": "Federal officials will hold a media event in Oromocto to announce infrastructure initiatives. The event will include David Myles, Parliamentary Secretary, and the Honourable Gilles LePage, Minister of Environment and Climate Change.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "dfacd2e61d62aead",
-      "date": "2026-09-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/atlantic-canada-opportunities/news/2026/09/atlantic-economic-panel-unveils-blueprint-for-atlantic-canadas-future.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "en",
-      "title": "Atlantic Economic Panel releases development strategy for Atlantic Canada",
-      "sum": "An independent panel led by the private sector has provided recommendations aimed at promoting economic growth, productivity, and investment in Atlantic Canada. Federal ministers from the region have welcomed these recommendations.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "f3bfa03705183f4c",
-      "date": "2026-09-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/canadian-heritage/news/2026/09/statement-by-minister-miller-on-the-mid-autumn-festival.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government issues statement marking Mid-Autumn Festival",
-      "sum": "The Canadian government released a statement to recognize the Mid-Autumn Festival. This is a cultural observance marked by various communities in Canada.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "9642cf65eb0d6969",
-      "date": "2026-09-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/defence-investment-agency/news/2026/09/government-of-canada-takes-next-step-to-defend-canadians-by-delivering-mission-critical-capability-to-the-royal-canadian-air-force.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada delivers capability to Royal Canadian Air Force",
-      "sum": "The Government of Canada is providing mission-critical capability to the Royal Canadian Air Force to strengthen defence capabilities and support interoperability with allied nations. The action also supports economic opportunities for Canadian industry.",
-      "cat": "National defence",
       "ai": true
     }
   ]
