@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T03:58:53.103Z",
+  "generatedAt": "2026-10-14T11:23:47.699Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -44,6 +44,18 @@
       "lang": "en",
       "title": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum - National Newswatch",
       "excerpt": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum National Newswatch",
+      "cat": "Economy"
+    },
+    {
+      "id": "5a12d67118ea177a",
+      "date": "2026-10-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVDhuT2MyckZrTXNHZ2Z4SjBGb3pfQWtsOEJUX0JFMG91Y2ZDclQ0M0tHVmZRb3ZpaGR6N0NBRHdYZVVwUW1tV3ZCczNEMGJYaDhwQlM3UF9ydExCbUtac2JnT1Y2a196azRfQzJPanFleDZWazFvQVhzMmN2UTFHRWNjamlWVUxLSjJEOHhyVGt4YlM1TmpndGtmYjhZdmFodWFmYTBHaWE3QzhDQnEwYnVLSHNHQQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney to attend ‘Forever Canadian’ rallies in Alberta days before referendum - CityNews Toronto",
+      "excerpt": "Carney to attend ‘Forever Canadian’ rallies in Alberta days before referendum CityNews Toronto",
       "cat": "Economy"
     },
     {
@@ -193302,19 +193314,6 @@
       "title": "Defence Minister visits Canadian Armed Forces Base Borden",
       "sum": "On August 11, 2025, the Minister of National Defence visited Canadian Forces Base Borden in Ontario for the first time in his role, to meet with Armed Forces members stationed there.",
       "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "8ff3b1a4c462e4dc",
-      "date": "2025-08-12",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-services-procurement/news/2025/08/government-of-canada-to-announce-site-for-new-cultural-heritage-science-facility.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada announces site for Cultural Heritage Science facility",
-      "sum": "The Minister of Government Transformation, Public Works and Procurement will announce the location of a new federal facility focused on heritage science. The facility is intended to advance Canada's capabilities in this field.",
-      "cat": "Culture & heritage",
       "ai": true
     }
   ]
