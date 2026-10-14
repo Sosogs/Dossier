@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:24:21.045Z",
+  "generatedAt": "2026-10-14T03:58:53.103Z",
   "count": 800,
   "totals": {
     "en": {
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "77ddd8b0d0892035",
+      "date": "2026-10-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOUpjWDhTeWZQQW1JWFNHb1VkWThyWHliZHljdkZmRzJsdHBVSFVPRXBGLVZpdkNmSnZsQXR1TERMeXAzZ0hoc2tOZTd0aU5qQ0JpU0NTMl90UlZwcUVkbzB0RTUyT18yZjNWdlBVZWF1RFExS0NsTlh5MlU3aDdpZElvWVpmRE9qZlNqbWlMQVgyb0R6Q2xDRUhnV3JPV3NtZVdxcW5PcmpLOWR6YW1JenZiMUR6d0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum - National Newswatch",
+      "excerpt": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum National Newswatch",
+      "cat": "Economy"
+    },
+    {
+      "id": "556fdd5030fce634",
+      "date": "2026-10-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEdId0lDZDNIb3JfcVBRajJBZFBRRVQ5UlpkLVE0MzhwaEtubmFJdkltOGYxM1dQMWFpVmx6elY3NXZrV2pTeFA0R0tlZ3JMZ1ZhYThzRnZzaXFfbjJXQzF3bHVxclR4SW45TFJPUWdneHp0aWpFeVVRQ1piWGE4THU1Z0U?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "As Stelco rejects demand to halt layoffs, NDP leaders call on Carney to nationalize steelmaker - CBC",
+      "excerpt": "As Stelco rejects demand to halt layoffs, NDP leaders call on Carney to nationalize steelmaker CBC",
+      "cat": "Economy"
+    },
     {
       "id": "d89671c2f5783f71",
       "date": "2026-10-13",
@@ -781,6 +805,18 @@
       "sum": "Le ministre de l'Énergie et des Ressources naturelles fera une annonce publique sur le secteur forestier, suivie d'une période de questions avec la presse.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "df2a0bf53fae7ac9",
+      "date": "2026-10-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVHI0UEQ3ek45TFptWUpjVm5SSVlJYk5sVlhJRWRZM0dwOFg1NHJXZHFOZW5ncG1Xc2puSEM3TEVqWHlxTy1BV25IQUZxaE5vY2xiQWJrWXF5eUdIWE1mcHZDNlRwaENqRl90X0N4NUd1bDI4Wjd6NzJJMU1uU0JhdlZoMENManJqSmI4MUYxMGRwbW5rWkU0eXdaVG50RF9IdEw0ZUlxdkxUdDVGQkdoSjN6QTBGUTdwQWZRd1hlVTFYQi1LVVNxSw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s Thanksgiving message directed at Alberta ahead of separation referendum - CBC",
+      "excerpt": "Carney’s Thanksgiving message directed at Alberta ahead of separation referendum CBC",
+      "cat": "Economy"
     },
     {
       "id": "bf606a61cdc6b5e5",
@@ -10213,43 +10249,6 @@
       "title": "Carney government’s energy and labour bill puts Conservative leader in a ‘pickle’ - Toronto Star",
       "excerpt": "Carney government’s energy and labour bill puts Conservative leader in a ‘pickle’ Toronto Star",
       "cat": "Natural resources"
-    },
-    {
-      "id": "effb03d68e1feb83",
-      "date": "2026-09-27",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkhzdVhxX01ORmNCR3RXaVFiSkZmdVF2dE5PdTV6a2trZGJaMjdUVkl2UHFlWi16X28tTC1HdEhGUXl3YUR6T2p5emlqZFRoWjhRRElJbVBHMDFHc21GSVVRUmp5UEpTQlZYTHkxZjRzMEdIMGVRV1Yzang0M0FVRW9SN1h3dEZidkQ0SXVkcnRacVcwOWxnQXlPTzV5Vk9vRHZRMkpuSnlfNGFqSmxfT05DS0U1dw?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Liberals Hold 12-Point Lead as Carney Reaches New High and Optimism About Canada Rises Again - Abacus Data",
-      "excerpt": "Liberals Hold 12-Point Lead as Carney Reaches New High and Optimism About Canada Rises Again Abacus Data",
-      "cat": "Innovation, science & industry"
-    },
-    {
-      "id": "5cc5d6436bd41700",
-      "date": "2026-09-27",
-      "src": "Canadian politics (via Google News)",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUnZ2ay1hSzdkZXdrTmpRU1RWRFZQaUpqMFhXVjFiNGZvVnV5Mkk4OGtsZDVJOUV4UTVoLWRMSWt5T2xIb2F2SDZiSEVpVUVQdEN4VUNxYTdfbzF0RFRjaG5NalJXMlZwdElLTzI0dkZwYi00NDZ2WHp5UERvNk5QUUFtbjBzT2Npa291QVlzYUNRMFl2V1FBcHNMb3lMSXdyTXl4VFM2SWs3NXhya3RFYTVlSFNqM3ktbmp0ZjFDdkl6S0tMWmtXcWFJbWNvdDRZNXhIX3lqMVhfM3FSaUM0Yng0aGl5OWM3eHJCYUFZQm4zWGNxWHM0Uk1FU2nSAYICQVVfeXFMTUxkbUU3THBtTm45anNQbElMVFBXNm5kR0pJb1EzaGxCeVNFWnZ1WERGSnZjMzFjSWtXaVIwa1JCZXNzR3dTS2cyNHRxY1dKcExNcm5jdlRFb1E1ckRJeTJ2dXU5QmNrN3JZSXZ5VTluTXJubFE3TVJhSFN5eVZDTDZ6Q0V3MDVBck1rSkZGbm9uZk1ZVlo3NzZjMU1lLU5tRnRzOGJqYXI2bWg3NVdNaEVIX0w0OExNTE5tQlVPLXE1ODNJRU8yUkFoUWwzT0d6NGFDUTMxWWJNMEpTQk5mendoeEZKN1JxRkpJeXFUeUNkY2l6NXZIQ2wwTzkxM2hIN05n?oc=5",
-      "type": "Announcement",
-      "kind": "news",
-      "lang": "en",
-      "title": "Who is Angad Singh Dhillon? Punjab-origin Canadian diplomat appointed ambassador to UAE by Mark Carney government | Hindustan Times - Hindustan Times",
-      "excerpt": "Who is Angad Singh Dhillon? Punjab-origin Canadian diplomat appointed ambassador to UAE by Mark Carney government | Hindustan Times Hindustan Times",
-      "cat": "Foreign affairs"
-    },
-    {
-      "id": "12156d96f8cc0c3c",
-      "date": "2026-09-27",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/minister-anand-concludes-participation-in-the-81st-united-nations-general-assembly-high-level-week.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister Anand concludes UN General Assembly High-Level Week",
-      "sum": "Minister of Foreign Affairs Anita Anand completed her participation in the 81st United Nations General Assembly High-Level Week held in New York City.",
-      "cat": "Foreign affairs",
-      "ai": true
     }
   ]
 }

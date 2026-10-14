@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:24:21.045Z",
+  "generatedAt": "2026-10-14T03:58:53.103Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "77ddd8b0d0892035",
+      "date": "2026-10-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOUpjWDhTeWZQQW1JWFNHb1VkWThyWHliZHljdkZmRzJsdHBVSFVPRXBGLVZpdkNmSnZsQXR1TERMeXAzZ0hoc2tOZTd0aU5qQ0JpU0NTMl90UlZwcUVkbzB0RTUyT18yZjNWdlBVZWF1RFExS0NsTlh5MlU3aDdpZElvWVpmRE9qZlNqbWlMQVgyb0R6Q2xDRUhnV3JPV3NtZVdxcW5PcmpLOWR6YW1JenZiMUR6d0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum - National Newswatch",
+      "excerpt": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum National Newswatch",
+      "cat": "Economy"
+    },
+    {
+      "id": "556fdd5030fce634",
+      "date": "2026-10-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEdId0lDZDNIb3JfcVBRajJBZFBRRVQ5UlpkLVE0MzhwaEtubmFJdkltOGYxM1dQMWFpVmx6elY3NXZrV2pTeFA0R0tlZ3JMZ1ZhYThzRnZzaXFfbjJXQzF3bHVxclR4SW45TFJPUWdneHp0aWpFeVVRQ1piWGE4THU1Z0U?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "As Stelco rejects demand to halt layoffs, NDP leaders call on Carney to nationalize steelmaker - CBC",
+      "excerpt": "As Stelco rejects demand to halt layoffs, NDP leaders call on Carney to nationalize steelmaker CBC",
+      "cat": "Economy"
+    },
     {
       "id": "d89671c2f5783f71",
       "date": "2026-10-13",
@@ -771,6 +795,18 @@
       "sum": "Le ministre de l'Énergie et des Ressources naturelles fera une annonce publique sur le secteur forestier, suivie d'une période de questions avec la presse.",
       "cat": "Natural resources",
       "ai": true
+    },
+    {
+      "id": "df2a0bf53fae7ac9",
+      "date": "2026-10-12",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVHI0UEQ3ek45TFptWUpjVm5SSVlJYk5sVlhJRWRZM0dwOFg1NHJXZHFOZW5ncG1Xc2puSEM3TEVqWHlxTy1BV25IQUZxaE5vY2xiQWJrWXF5eUdIWE1mcHZDNlRwaENqRl90X0N4NUd1bDI4Wjd6NzJJMU1uU0JhdlZoMENManJqSmI4MUYxMGRwbW5rWkU0eXdaVG50RF9IdEw0ZUlxdkxUdDVGQkdoSjN6QTBGUTdwQWZRd1hlVTFYQi1LVVNxSw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney’s Thanksgiving message directed at Alberta ahead of separation referendum - CBC",
+      "excerpt": "Carney’s Thanksgiving message directed at Alberta ahead of separation referendum CBC",
+      "cat": "Economy"
     },
     {
       "id": "bf606a61cdc6b5e5",
@@ -193279,45 +193315,6 @@
       "title": "Canada announces site for Cultural Heritage Science facility",
       "sum": "The Minister of Government Transformation, Public Works and Procurement will announce the location of a new federal facility focused on heritage science. The facility is intended to advance Canada's capabilities in this field.",
       "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "175fad112541afb7",
-      "date": "2025-08-12",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/women-gender-equality/news/2025/08/government-of-canada-to-announce-federal-support-to-help-women-with-disabilities-overcome-barriers-to-economic-security.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal support announced for women with disabilities economic security",
-      "sum": "The Minister of Women and Gender Equality will announce new federal support aimed at helping women with disabilities achieve economic security. The announcement will address barriers these women face in economic participation.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "42b8a831ab4ccda6",
-      "date": "2025-08-12",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/space-agency/news/2025/08/stratos-2025-canadian-innovations-to-be-tested-in-space-like-environment.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canadian space technology tested in stratospheric balloon campaign",
-      "sum": "Twelve Canadian research payloads will be launched from Timmins between August and September 2025 to test new technologies and conduct science experiments in a space-like environment at high altitude.",
-      "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "5d1861dc550b6b5c",
-      "date": "2025-08-12",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/environment-climate-change/news/2025/08/first-nations-and-the-government-of-canada-make-progress-on-joint-climate-action.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "en",
-      "title": "First Nations and Canada release seventh joint climate action report",
-      "sum": "The First Nations-Canada Joint Committee on Climate Action released its seventh annual report to the Prime Minister and National Chief. The report documents progress made through collaboration between First Nations and the federal government on climate initiatives.",
-      "cat": "Sustainable development",
       "ai": true
     }
   ]
