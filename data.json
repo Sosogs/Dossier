@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T03:40:57.717Z",
+  "generatedAt": "2026-10-15T11:01:13.166Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "27d2c2804f85ccc9",
+      "date": "2026-10-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZlBvNGhQZU1WMEZZVWlZcklXLTQ3dUtjeGFRaU9WS1l3azhfODhrZnl3bEdZSlpUZWtlc2VVY2c4LVJlUEd3ejN6ZWRxeTU2bnFjUmN4ajdxd0FqY0dTQ3dSU1htczZuYzZMSVl1S0ZvMUJtUDBKbC1wZnJNZ1g4V1VVUWw0RkxiUnBSdkk3WlhLd2hGSlYzLWFMaUFHcTdXZkw3dmNPeURtRDl4MXp5VVUxMVM4RlhqQkptVA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "THE JOKE IS ON CANADA: Carney Government Doubling Down on Trudeau’s Failed Fiscal Policy - EnergyNow",
+      "excerpt": "THE JOKE IS ON CANADA: Carney Government Doubling Down on Trudeau’s Failed Fiscal Policy EnergyNow",
+      "cat": "Finance"
+    },
+    {
+      "id": "3e65608d000e1448",
+      "date": "2026-10-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGo0YUNib1lwOFR1eTVOQkxZU1lHMm1ySWl6TE9WSTBZLVp2NUpzT0hxbGhxS1pFZXFIUW5ia1FqXzdHWndzVmJFODl6NkJhUnVDT05nYzVZTHZZNDh3YnphTVZQQS1ydE53aFZ1bE1fZGtqV2loOEJQdE1vOEhmZXQxY3M4a3hEc0VmNGJTRDN4R3hnRE9YMXFzc0FxNWw3N05wSGMxSEpuZ2psaVdncUpjVWFfUXJRaFlr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney needs to completely overhaul the Trudeau-era immigration system, report says - National Post",
+      "excerpt": "Carney needs to completely overhaul the Trudeau-era immigration system, report says National Post",
+      "cat": "Economy"
+    },
     {
       "id": "d6a32436c3342397",
       "date": "2026-10-14",
@@ -193283,32 +193307,6 @@
       "title": "Annonce d'infrastructure à Papineauville avec le député Lauzon",
       "sum": "Le député fédéral Stéphane Lauzon et le maire de Papineauville Paul-André David tiendront une conférence de presse pour annoncer une initiative d'infrastructure dans la région.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "a40b3d0775651d95",
-      "date": "2025-08-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-evaluation-impact/nouvelles/2025/08/projet-daerodrome-ten-shilling-de-la-premiere-nation-de-york-factory.html",
-      "type": "Report",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada approuve l'évaluation du projet d'aérodrome Ten Shilling",
-      "sum": "L'Agence d'évaluation d'impact du Canada a complété l'examen du projet d'aérodrome Ten Shilling de la Première Nation de York Factory au Manitoba. L'agence a conclu que les impacts négatifs du projet relevant de la compétence fédérale seraient limités ou gérés par d'autres mesures.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "51f3631deeed33f3",
-      "date": "2025-08-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/sante-publique/nouvelles/2025/08/rendre-la-sante-equitable-en-investissant-dans-des-projets-communautaires.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada investit 3 millions dans des projets de santé équitable",
-      "sum": "Le ministre de la Santé a annoncé un financement de plus de 3 millions de dollars pour 14 projets communautaires visant à améliorer l'accès à la sécurité alimentaire, au logement et à la stabilité de l'emploi. Ces projets seront réalisés sur deux ans pour favoriser une meilleure équité en santé.",
-      "cat": "Healthcare",
       "ai": true
     }
   ]

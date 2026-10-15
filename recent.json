@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T03:40:57.717Z",
+  "generatedAt": "2026-10-15T11:01:13.166Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8046,
+      "actions": 8048,
       "sources": 9
     },
     "fr": {
-      "actions": 6954,
+      "actions": 6952,
       "sources": 7
     }
   },
@@ -44,6 +44,30 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "27d2c2804f85ccc9",
+      "date": "2026-10-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZlBvNGhQZU1WMEZZVWlZcklXLTQ3dUtjeGFRaU9WS1l3azhfODhrZnl3bEdZSlpUZWtlc2VVY2c4LVJlUEd3ejN6ZWRxeTU2bnFjUmN4ajdxd0FqY0dTQ3dSU1htczZuYzZMSVl1S0ZvMUJtUDBKbC1wZnJNZ1g4V1VVUWw0RkxiUnBSdkk3WlhLd2hGSlYzLWFMaUFHcTdXZkw3dmNPeURtRDl4MXp5VVUxMVM4RlhqQkptVA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "THE JOKE IS ON CANADA: Carney Government Doubling Down on Trudeau’s Failed Fiscal Policy - EnergyNow",
+      "excerpt": "THE JOKE IS ON CANADA: Carney Government Doubling Down on Trudeau’s Failed Fiscal Policy EnergyNow",
+      "cat": "Finance"
+    },
+    {
+      "id": "3e65608d000e1448",
+      "date": "2026-10-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGo0YUNib1lwOFR1eTVOQkxZU1lHMm1ySWl6TE9WSTBZLVp2NUpzT0hxbGhxS1pFZXFIUW5ia1FqXzdHWndzVmJFODl6NkJhUnVDT05nYzVZTHZZNDh3YnphTVZQQS1ydE53aFZ1bE1fZGtqV2loOEJQdE1vOEhmZXQxY3M4a3hEc0VmNGJTRDN4R3hnRE9YMXFzc0FxNWw3N05wSGMxSEpuZ2psaVdncUpjVWFfUXJRaFlr?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney needs to completely overhaul the Trudeau-era immigration system, report says - National Post",
+      "excerpt": "Carney needs to completely overhaul the Trudeau-era immigration system, report says National Post",
+      "cat": "Economy"
+    },
     {
       "id": "d6a32436c3342397",
       "date": "2026-10-14",
@@ -10223,32 +10247,6 @@
       "lang": "en",
       "title": "Federal investment approved for Kelowna International Airport infrastructure",
       "sum": "The federal government is providing funding to support infrastructure development at Kelowna International Airport. The investment is intended to support economic growth and help increase housing supply and community resilience.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "e1cb2dd33c57b712",
-      "date": "2026-09-28",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2026/09/survivors-of-residential-schools-to-hold-a-media-availability-at-the-survivors-flag-raising-event-on-parliament-hill.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Residential school survivors hold media event on Parliament Hill",
-      "sum": "Survivors of residential schools will participate in a flag-raising ceremony on Parliament Hill and be available to speak with media. The event features the raising of the Survivors' Flag.",
-      "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "23796c0d3dc76350",
-      "date": "2026-09-28",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/09/building-canada-strong-by-investing-in-the-downtown-y-redevelopment-project.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government invests $8 million in Winnipeg YMCA downtown redevelopment",
-      "sum": "The federal government is providing over $8 million to the YMCA-YWCA of Winnipeg for its Downtown Y Redevelopment Project through the Build Communities Strong Fund's Direct Delivery stream.",
       "cat": "Infrastructure",
       "ai": true
     }
