@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T21:22:10.786Z",
+  "generatedAt": "2026-10-15T03:40:57.717Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8043,
+      "actions": 8046,
       "sources": 9
     },
     "fr": {
-      "actions": 6957,
+      "actions": 6954,
       "sources": 7
     }
   },
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d6a32436c3342397",
+      "date": "2026-10-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByRnQwdjJaNHQ4cWhRcjh5dnNBSGl1WFBrXzlxaXdwb3pMV3BUSnFZNnpWeEEtc3FkNTNwYU43UlBnM1U5a3FuOTh4T0RTR25YQ094VUNFcWcxUk9xZTRJeUZnZnBsVkJhX195XzBaVVFmLTJ5ZzYzUGMwd0V6TkU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa to announce over $350M for skilled trades worker training, recruitment - CBC",
+      "excerpt": "Ottawa to announce over $350M for skilled trades worker training, recruitment CBC",
+      "cat": "Economy"
+    },
     {
       "id": "1b17036fe758c00a",
       "date": "2026-10-14",
@@ -820,6 +832,30 @@
       "lang": "en",
       "title": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum - National Newswatch",
       "excerpt": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum National Newswatch",
+      "cat": "Economy"
+    },
+    {
+      "id": "a1325e4a9ac8ed79",
+      "date": "2026-10-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTVk2c0d5MzJkRTduQnNoMUxqa1pLdnc2WlprVnpFejd2c201aE56eFY0anVCaUl1azlhUjMtQ29HR1VwNUFwWXZRbHF4WEt2RkF2MlpjdlU5VENyU3NPVXZEQ21RTnBiVWx5ZGxSUmt6Y3Q0UzF2T19CdnJlUHJpTmZJRTdncEtXLWhLWA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney to attend ‘Forever Canadian’ rallies ahead of Alberta referendum - Global News",
+      "excerpt": "Mark Carney to attend ‘Forever Canadian’ rallies ahead of Alberta referendum Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "a86c80eb3f626a39",
+      "date": "2026-10-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOR05VdVphQWJhMU1KS3l5UmVSNDI0QWE2UW5Mdjc0MktoUEVGZ010V25tYnpoRnhiUXJ6NmtXYXQ5MHZsZHRpUkRIMGl2QWRyS3d1ajBOOUVHYVd1cFI5TThITWhFN19fTnBwUTFGNWNTaVQtcjV5Ul9LRE5OSElkRWVUMmdqSm9BS1dLdlRQOEtiekFCaXdhenRrVGRLN0VBYy1xTzdMOG5LZndNNXUwckRSUjVzZHIwQlNOT09pWWdvVjRFUEdSam05TkstNFhXRkxObjVDT0xKaHltSENWNnJ4amJtZFltMnlleHFtYlJyczJ5c3pITEdB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney to attend ‘Forever Canadian’ rallies in Alberta days before referendum - Toronto Star",
+      "excerpt": "Carney to attend ‘Forever Canadian’ rallies in Alberta days before referendum Toronto Star",
       "cat": "Economy"
     },
     {
@@ -10214,45 +10250,6 @@
       "title": "Federal government invests $8 million in Winnipeg YMCA downtown redevelopment",
       "sum": "The federal government is providing over $8 million to the YMCA-YWCA of Winnipeg for its Downtown Y Redevelopment Project through the Build Communities Strong Fund's Direct Delivery stream.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "5cf760a24fbb8e9c",
-      "date": "2026-09-28",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/09/infrastructure-announcement-in-peterborough.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Infrastructure announcement scheduled in Peterborough",
-      "sum": "Members of Parliament and the Mayor of Peterborough will make a joint infrastructure announcement. The event will feature Emma Harrison, MP for Peterborough, and Mayor Jeff Leal.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "f94e97fc8d9b6195",
-      "date": "2026-09-28",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/09/canada-and-new-brunswick-invest-in-wastewater-infrastructure-to-support-housing-growth-in-oromocto.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada invests $8.1 million in Oromocto wastewater infrastructure",
-      "sum": "The federal government, Province of New Brunswick, and Town of Oromocto announced combined funding of over $16.2 million for new wastewater infrastructure in Oromocto. The investment through the Canada Housing Infrastructure Fund is intended to support housing development in the area.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "20caf2352139f937",
-      "date": "2026-09-28",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/employment-social-development/news/2026/09/secretary-of-state-zerucelli-to-highlight-supports-for-business-investment-innovation-and-economic-growth.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Secretary of State highlights business investment support initiatives",
-      "sum": "The Secretary of State (Labour) will visit Barrie, Ontario to present new government efforts supporting businesses to invest in equipment, technology, and expansion.",
-      "cat": "Economy",
       "ai": true
     }
   ]

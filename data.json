@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:22:10.786Z",
+  "generatedAt": "2026-10-15T03:40:57.717Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "d6a32436c3342397",
+      "date": "2026-10-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByRnQwdjJaNHQ4cWhRcjh5dnNBSGl1WFBrXzlxaXdwb3pMV3BUSnFZNnpWeEEtc3FkNTNwYU43UlBnM1U5a3FuOTh4T0RTR25YQ094VUNFcWcxUk9xZTRJeUZnZnBsVkJhX195XzBaVVFmLTJ5ZzYzUGMwd0V6TkU?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Ottawa to announce over $350M for skilled trades worker training, recruitment - CBC",
+      "excerpt": "Ottawa to announce over $350M for skilled trades worker training, recruitment CBC",
+      "cat": "Economy"
+    },
     {
       "id": "1b17036fe758c00a",
       "date": "2026-10-14",
@@ -810,6 +822,30 @@
       "lang": "en",
       "title": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum - National Newswatch",
       "excerpt": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum National Newswatch",
+      "cat": "Economy"
+    },
+    {
+      "id": "a1325e4a9ac8ed79",
+      "date": "2026-10-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTVk2c0d5MzJkRTduQnNoMUxqa1pLdnc2WlprVnpFejd2c201aE56eFY0anVCaUl1azlhUjMtQ29HR1VwNUFwWXZRbHF4WEt2RkF2MlpjdlU5VENyU3NPVXZEQ21RTnBiVWx5ZGxSUmt6Y3Q0UzF2T19CdnJlUHJpTmZJRTdncEtXLWhLWA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Mark Carney to attend ‘Forever Canadian’ rallies ahead of Alberta referendum - Global News",
+      "excerpt": "Mark Carney to attend ‘Forever Canadian’ rallies ahead of Alberta referendum Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "a86c80eb3f626a39",
+      "date": "2026-10-13",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOR05VdVphQWJhMU1KS3l5UmVSNDI0QWE2UW5Mdjc0MktoUEVGZ010V25tYnpoRnhiUXJ6NmtXYXQ5MHZsZHRpUkRIMGl2QWRyS3d1ajBOOUVHYVd1cFI5TThITWhFN19fTnBwUTFGNWNTaVQtcjV5Ul9LRE5OSElkRWVUMmdqSm9BS1dLdlRQOEtiekFCaXdhenRrVGRLN0VBYy1xTzdMOG5LZndNNXUwckRSUjVzZHIwQlNOT09pWWdvVjRFUEdSam05TkstNFhXRkxObjVDT0xKaHltSENWNnJ4amJtZFltMnlleHFtYlJyczJ5c3pITEdB?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney to attend ‘Forever Canadian’ rallies in Alberta days before referendum - Toronto Star",
+      "excerpt": "Carney to attend ‘Forever Canadian’ rallies in Alberta days before referendum Toronto Star",
       "cat": "Economy"
     },
     {
@@ -193273,45 +193309,6 @@
       "title": "Le Canada investit 3 millions dans des projets de santé équitable",
       "sum": "Le ministre de la Santé a annoncé un financement de plus de 3 millions de dollars pour 14 projets communautaires visant à améliorer l'accès à la sécurité alimentaire, au logement et à la stabilité de l'emploi. Ces projets seront réalisés sur deux ans pour favoriser une meilleure équité en santé.",
       "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "0d7fe6989bbd1de8",
-      "date": "2025-08-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-finances/nouvelles/2025/08/le-gouvernement-publie-des-projets-de-propositions-legislatives-portant-sur-des-mesures-fiscales-deja-annoncees.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Gouvernement publie projets de mesures fiscales pour consultation",
-      "sum": "Le ministre des Finances a publié des projets de propositions législatives pour consultation publique afin de mettre en œuvre des mesures fiscales déjà annoncées.",
-      "cat": "Finance",
-      "ai": true
-    },
-    {
-      "id": "c2a63c810f26611a",
-      "date": "2025-08-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/anciens-combattants-canada/nouvelles/2025/08/anciens-combattants-canada-tiendra-une-ceremonie-a-vancouver-pour-souligner-le-80e-anniversaire-de-la-fin-de-la-seconde-guerre-mondiale-et-la-victo.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Cérémonie commémorative du 80e anniversaire de la fin de la Seconde Guerre mondiale",
-      "sum": "Anciens Combattants Canada organise une cérémonie à Sunset Beach à Vancouver pour commémorer le 80e anniversaire de la fin de la Seconde Guerre mondiale et de la Victoire en Asie et dans le Pacifique.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "28c475cb3869462d",
-      "date": "2025-08-15",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2025/08/avis-aux-medias--le-ministre-robertson-prononcera-un-discours-au-congres-de-lassociation-des-municipalites-de-lontario.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Secrétaire parlementaire s'adresse aux municipalités sur infrastructures",
-      "sum": "Jennifer McKelvie prononcera un discours sur les infrastructures et le logement au congrès annuel 2025 de l'Association des municipalités de l'Ontario, au nom du ministre Gregor Robertson.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]
