@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:37:09.431Z",
+  "generatedAt": "2026-10-16T10:56:36.008Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "5e6f1b5eccd94ec5",
+      "date": "2026-10-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdS1HS2c3cVo5NFZvMW1FWUlIRUliamh5SzdfNDhEMmpSOVdZdGZHWklSanBjUkhxR2dFa2dDVVdKMFQ2eV93SENQY0I3bXI2dnZILWxQMWtIRVREQlhWRl9ZQUZtX2FsSExLV2JpWnJzVFhZY3dWQXFkMXF6ZjJ3b0dILXdZZzdFMkxwRmRwNXV6d0Z0clpvVDRkdm5uYzY5VktvYlhnOWVuMTF2TFN0emIyRkQwM2xPSFFLc0dpUG0tSjdZMWh6aw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Opinion: Carney’s Buy Canadian policy is a mistake that will accomplish little - The Globe and Mail",
+      "excerpt": "Opinion: Carney’s Buy Canadian policy is a mistake that will accomplish little The Globe and Mail",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "b04ea8c39a01d3c9",
       "date": "2026-10-15",
@@ -193287,19 +193299,6 @@
       "title": "Canada allocates $557.5 million to Quebec community infrastructure",
       "sum": "The federal government is providing over $557.5 million to Quebec in 2024 through the Canada Community-Building Fund to support infrastructure projects. This is part of a broader $2.8 billion commitment to Quebec through the fund between now and 2029.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "3f749ca7d0e89cdd",
-      "date": "2025-08-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/indigenous-services-canada/news/2025/08/red-river-metis-business-directory-now-recognized-by-the-government-of-canada-as-a-source-of-verified-indigenous-businesses.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Red River Métis Business Directory receives government recognition",
-      "sum": "The Government of Canada has recognized the Red River Métis Business Directory as an official source for verified Indigenous businesses. The government stated its commitment to working with the Manitoba Métis Federation on this initiative.",
-      "cat": "Indigenous services",
       "ai": true
     }
   ]

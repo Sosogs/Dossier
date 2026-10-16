@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:37:09.431Z",
+  "generatedAt": "2026-10-16T10:56:36.008Z",
   "count": 800,
   "totals": {
     "en": {
@@ -44,6 +44,18 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "5e6f1b5eccd94ec5",
+      "date": "2026-10-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdS1HS2c3cVo5NFZvMW1FWUlIRUliamh5SzdfNDhEMmpSOVdZdGZHWklSanBjUkhxR2dFa2dDVVdKMFQ2eV93SENQY0I3bXI2dnZILWxQMWtIRVREQlhWRl9ZQUZtX2FsSExLV2JpWnJzVFhZY3dWQXFkMXF6ZjJ3b0dILXdZZzdFMkxwRmRwNXV6d0Z0clpvVDRkdm5uYzY5VktvYlhnOWVuMTF2TFN0emIyRkQwM2xPSFFLc0dpUG0tSjdZMWh6aw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Opinion: Carney’s Buy Canadian policy is a mistake that will accomplish little - The Globe and Mail",
+      "excerpt": "Opinion: Carney’s Buy Canadian policy is a mistake that will accomplish little The Globe and Mail",
+      "cat": "Innovation, science & industry"
+    },
     {
       "id": "b04ea8c39a01d3c9",
       "date": "2026-10-15",
@@ -10241,19 +10253,6 @@
       "title": "Construction begins at 5 Wing Goose Bay military base",
       "sum": "The Government of Canada is marking the start of a construction project at 5 Wing Goose Bay in Newfoundland and Labrador. A groundbreaking ceremony will be held with participation from the Member of Parliament for Labrador.",
       "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "cca0a2a4898aad53",
-      "date": "2026-09-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/environment-climate-change/news/2026/09/minister-dabrusin-to-announce-support-for-home-energy-retrofit-projects-across-canada.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister announces support for home energy retrofit projects",
-      "sum": "Minister of Environment Julie Dabrusin will announce government support for home energy retrofit projects across Canada. The announcement will provide details on this support initiative.",
-      "cat": "Sustainable development",
       "ai": true
     }
   ]
