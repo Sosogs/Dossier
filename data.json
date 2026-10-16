@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:03:19.648Z",
+  "generatedAt": "2026-10-16T03:37:09.431Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -35,6 +35,42 @@
   ],
   "items": [
     {
+      "id": "b04ea8c39a01d3c9",
+      "date": "2026-10-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTl2b0w5ak9UUHZiR0dCZEJyYjlqWVBLM3FhMHFEYVU3Y3Q2ZFQtTjQyVEk1bmFOQlduVTdxOHU0bHVscGFpdmdHYzZ2RE1pbWdyMEJnZUM2S0FvMmJJd3RGeFktbmJXUjB3OEhJUHhESzFTWS1LbFgxQzBOLU5lUzZzMEduY3FVQ0htb25ycU5zWnNpcEo1UEFVQkplUGRFd1RxeEtuSXpZSW_SAbABQVVfeXFMUHlDZ0NIb1dERFNjMDNoUy1TVlNMVWRsT05tS0t0VTg2UE9QWVA5cFN0Mk9QX1Y5YUNOb0ZVNW5EeUQ0V05lcWYxWmcxOG1wcXFxaTk3SVRHZ2dtTFlvMy11Y2FZcmFoUjg0ZkpGNGtQN05EaGxLdFRlSk9MNDI5bEFlOF9VRjJ3UXVoTlptMHRwRHBOb2M1YUJVelZlQnZ1Qm11dWdhd1prdTFEdnp5OHY?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s Prime Minister Mark Carney says Alberta separation vote comes at ‘worst time’ - ABC News - Breaking News, Latest News and Videos",
+      "excerpt": "Canada’s Prime Minister Mark Carney says Alberta separation vote comes at ‘worst time’ ABC News - Breaking News, Latest News and Videos",
+      "cat": "Economy"
+    },
+    {
+      "id": "9c6087ff5828188b",
+      "date": "2026-10-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTGc3QndfQTFRQTZyWUhNQVhWMkRkVFhqWFJZOTJzV3JueXRlMllDZXRxVURkcjNJME9YbE40T1YzLVRkSEZvN3F3OUZKcTg3T1FaaUFCN0I3Q2Y1aEw5cmZCb3JfWmtycjF5VnBhZGhtQ2tpZm9LWEFGZjRBLXZVZktzWlBBeDg3Nl9aTlo3YnRpRTF0LWdnaDRVQV8zeTN1UWtmSkx3SkFzdzlHRzIxN2hlRl9abGZNZlgzUVVHekV6dFY0WVNyXzk0Z1A4VUp1dmFDV3pR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why business leaders are ‘cautiously optimistic’ about the upcoming federal budget - BNN Bloomberg",
+      "excerpt": "Why business leaders are ‘cautiously optimistic’ about the upcoming federal budget BNN Bloomberg",
+      "cat": "Finance"
+    },
+    {
+      "id": "271b91677b3417bc",
+      "date": "2026-10-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa2l6RnFlTzJjQWdZWGhqbGdxaDlRTnM2NlVpVHYwOTRYamkyXzA0Z1ZaR21CdE1pQ01tNU9JQ29CTHJtWnJFQ0E5cjNKQkstekJGaTcydHpsQzAwZ09EUGdMUjNGNzU2LVpLbXZiYkZuNmxseUpBVFNCSDYyZklpTmg2M3lqNTZoWDk1OE94RDF3UnlyTV9BQjNIV3lHeWkzajRJTEZEbHF5ZjRMbFNhblZHRVM4ZjhsRXExUDFGWHJDeWctRndZRzhQVjRuQ0JGRndaNmI4MkZHUGZWV0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney confirms dates of Indian Prime Minister Modi’s highly anticipated visit to Canada - BNN Bloomberg",
+      "excerpt": "Carney confirms dates of Indian Prime Minister Modi’s highly anticipated visit to Canada BNN Bloomberg",
+      "cat": "Economy"
+    },
+    {
       "id": "ac45557bb03db056",
       "date": "2026-10-15",
       "src": "Government of Canada",
@@ -68,9 +104,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada supports women farmers in developing leadership and business skills",
-      "sum": "Women farmers are vital to Canada’s agriculture sector and rural communities. Supporting women farmers in developing their business and leadership skills helps strengthen the sector and promote farming as a career for women. This support is especially timely as 2026 has been proclaimed the International Year of Women Farmers by the United Nations.",
-      "cat": "Foreign affairs"
+      "title": "Canada supports women farmers leadership and business skills",
+      "sum": "The Government of Canada is providing support to help women farmers develop business and leadership skills. This initiative aims to strengthen Canada's agriculture sector and rural communities while promoting farming as a career option for women.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "80261f70753a311b",
@@ -193263,45 +193300,6 @@
       "title": "Red River Métis Business Directory receives government recognition",
       "sum": "The Government of Canada has recognized the Red River Métis Business Directory as an official source for verified Indigenous businesses. The government stated its commitment to working with the Manitoba Métis Federation on this initiative.",
       "cat": "Indigenous services",
-      "ai": true
-    },
-    {
-      "id": "f9bc714ed05fd994",
-      "date": "2025-08-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/agriculture-agri-food/news/2025/08/assistance-provided-to-farms-to-increase-water-supply.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Nova Scotia farmers receive support to increase water supply",
-      "sum": "Nova Scotia farmers will receive assistance to help them increase their water supply. The support is aimed at addressing water availability challenges on farms.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "fe8e88f8d77c1aed",
-      "date": "2025-08-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/08/investing-to-prevent-and-reduce-veteran-homelessness-in-kingston.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal government invests $1.9 million for Veteran homelessness prevention in Kingston",
-      "sum": "The federal government is providing over $1.9 million to the Homes for Heroes Foundation to support Veterans experiencing homelessness in Kingston. The investment aims to prevent and reduce homelessness among this population.",
-      "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "8fed130c6401460e",
-      "date": "2025-08-20",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/08/backgrounder-investing-across-quebec-to-build-safe-and-strong-communities.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada allocates $557.5 million to Quebec communities for infrastructure",
-      "sum": "The Government of Canada is distributing over $557.5 million through the Canada Community-Building Fund to 1,123 recipients across Quebec in 2025-2026. The funding provides communities with flexible support for infrastructure projects including housing and other local priorities.",
-      "cat": "Infrastructure",
       "ai": true
     }
   ]

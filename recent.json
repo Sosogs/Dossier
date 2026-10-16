@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:03:19.648Z",
+  "generatedAt": "2026-10-16T03:37:09.431Z",
   "count": 800,
   "totals": {
     "en": {
@@ -45,6 +45,42 @@
   ],
   "items": [
     {
+      "id": "b04ea8c39a01d3c9",
+      "date": "2026-10-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTl2b0w5ak9UUHZiR0dCZEJyYjlqWVBLM3FhMHFEYVU3Y3Q2ZFQtTjQyVEk1bmFOQlduVTdxOHU0bHVscGFpdmdHYzZ2RE1pbWdyMEJnZUM2S0FvMmJJd3RGeFktbmJXUjB3OEhJUHhESzFTWS1LbFgxQzBOLU5lUzZzMEduY3FVQ0htb25ycU5zWnNpcEo1UEFVQkplUGRFd1RxeEtuSXpZSW_SAbABQVVfeXFMUHlDZ0NIb1dERFNjMDNoUy1TVlNMVWRsT05tS0t0VTg2UE9QWVA5cFN0Mk9QX1Y5YUNOb0ZVNW5EeUQ0V05lcWYxWmcxOG1wcXFxaTk3SVRHZ2dtTFlvMy11Y2FZcmFoUjg0ZkpGNGtQN05EaGxLdFRlSk9MNDI5bEFlOF9VRjJ3UXVoTlptMHRwRHBOb2M1YUJVelZlQnZ1Qm11dWdhd1prdTFEdnp5OHY?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada’s Prime Minister Mark Carney says Alberta separation vote comes at ‘worst time’ - ABC News - Breaking News, Latest News and Videos",
+      "excerpt": "Canada’s Prime Minister Mark Carney says Alberta separation vote comes at ‘worst time’ ABC News - Breaking News, Latest News and Videos",
+      "cat": "Economy"
+    },
+    {
+      "id": "9c6087ff5828188b",
+      "date": "2026-10-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTGc3QndfQTFRQTZyWUhNQVhWMkRkVFhqWFJZOTJzV3JueXRlMllDZXRxVURkcjNJME9YbE40T1YzLVRkSEZvN3F3OUZKcTg3T1FaaUFCN0I3Q2Y1aEw5cmZCb3JfWmtycjF5VnBhZGhtQ2tpZm9LWEFGZjRBLXZVZktzWlBBeDg3Nl9aTlo3YnRpRTF0LWdnaDRVQV8zeTN1UWtmSkx3SkFzdzlHRzIxN2hlRl9abGZNZlgzUVVHekV6dFY0WVNyXzk0Z1A4VUp1dmFDV3pR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Why business leaders are ‘cautiously optimistic’ about the upcoming federal budget - BNN Bloomberg",
+      "excerpt": "Why business leaders are ‘cautiously optimistic’ about the upcoming federal budget BNN Bloomberg",
+      "cat": "Finance"
+    },
+    {
+      "id": "271b91677b3417bc",
+      "date": "2026-10-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa2l6RnFlTzJjQWdZWGhqbGdxaDlRTnM2NlVpVHYwOTRYamkyXzA0Z1ZaR21CdE1pQ01tNU9JQ29CTHJtWnJFQ0E5cjNKQkstekJGaTcydHpsQzAwZ09EUGdMUjNGNzU2LVpLbXZiYkZuNmxseUpBVFNCSDYyZklpTmg2M3lqNTZoWDk1OE94RDF3UnlyTV9BQjNIV3lHeWkzajRJTEZEbHF5ZjRMbFNhblZHRVM4ZjhsRXExUDFGWHJDeWctRndZRzhQVjRuQ0JGRndaNmI4MkZHUGZWV0E?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney confirms dates of Indian Prime Minister Modi’s highly anticipated visit to Canada - BNN Bloomberg",
+      "excerpt": "Carney confirms dates of Indian Prime Minister Modi’s highly anticipated visit to Canada BNN Bloomberg",
+      "cat": "Economy"
+    },
+    {
       "id": "ac45557bb03db056",
       "date": "2026-10-15",
       "src": "Government of Canada",
@@ -78,9 +114,10 @@
       "type": "Announcement",
       "kind": "official",
       "lang": "en",
-      "title": "Government of Canada supports women farmers in developing leadership and business skills",
-      "sum": "Women farmers are vital to Canada’s agriculture sector and rural communities. Supporting women farmers in developing their business and leadership skills helps strengthen the sector and promote farming as a career for women. This support is especially timely as 2026 has been proclaimed the International Year of Women Farmers by the United Nations.",
-      "cat": "Foreign affairs"
+      "title": "Canada supports women farmers leadership and business skills",
+      "sum": "The Government of Canada is providing support to help women farmers develop business and leadership skills. This initiative aims to strengthen Canada's agriculture sector and rural communities while promoting farming as a career option for women.",
+      "cat": "Foreign affairs",
+      "ai": true
     },
     {
       "id": "80261f70753a311b",
@@ -10217,45 +10254,6 @@
       "title": "Minister announces support for home energy retrofit projects",
       "sum": "Minister of Environment Julie Dabrusin will announce government support for home energy retrofit projects across Canada. The announcement will provide details on this support initiative.",
       "cat": "Sustainable development",
-      "ai": true
-    },
-    {
-      "id": "20bdbfe9715fafd0",
-      "date": "2026-09-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2026/09/joint-communique--pathways-to-peace-second-international-conference-on-returning-ukrainian-children-detained-civilians-and-prisoners-of-war.html",
-      "type": "International agreement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada co-hosts international conference on Ukrainian humanitarian returns",
-      "sum": "Canada, Ukraine, and Norway co-chaired an international conference in Toronto on September 28-29, 2026, bringing together foreign ministers and representatives to discuss returning Ukrainian children, detained civilians, and prisoners of war.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "bd98f27acff3b45e",
-      "date": "2026-09-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/fisheries-oceans/news/2026/09/prime-minister-carney-announces-historic-investment-to-protect-canadas-oceans.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Canada announces ocean protection investment program",
-      "sum": "The Government of Canada is investing in ocean protection to support economic growth, protect marine ecosystems, strengthen marine safety, and advance reconciliation with First Nations. The investments focus on West Coast energy, trade, and marine infrastructure to support coastal communities.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "73b2ce72a1c682df",
-      "date": "2026-09-29",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/public-safety-canada/news/2026/09/government-of-canada-appoints-permanent-correctional-investigator.html",
-      "type": "Appointment",
-      "kind": "official",
-      "lang": "en",
-      "title": "Government appoints permanent Correctional Investigator",
-      "sum": "David Paradiso has been appointed as the permanent Correctional Investigator for Canada. He brings 35 years of experience in public sector oversight, legal analysis, and independent investigations across Canadian jurisdictions.",
-      "cat": "Justice",
       "ai": true
     }
   ]
