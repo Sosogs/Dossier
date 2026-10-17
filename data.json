@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:18:02.951Z",
+  "generatedAt": "2026-10-17T15:09:50.632Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -44,6 +44,18 @@
       "lang": "en",
       "title": "Carney’s investment summit: More profits for oligarchs, more exploitation for the workers - World Socialist Web Site",
       "excerpt": "Carney’s investment summit: More profits for oligarchs, more exploitation for the workers World Socialist Web Site",
+      "cat": "Economy"
+    },
+    {
+      "id": "a19752beb483532c",
+      "date": "2026-10-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0RHc0Fhbms1UlBld2ZnM1VvLXlwSERtSmxTMDAta2VQQ1NOMHAwQk9fanVLOEtPNFlwc25Hc29Md1RRMWhxWXMwckktZVhCemJxNVplNmJydFJHVU9pVVk3cmdZS0doeEt5WTBSVnZOcTROTVYtUkh2WHQ1MEgwQ05NZzRNZG5iVWRyVGtR?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "'The stakes are high': Carney urges Albertans to vote to stay in Canada at Edmonton rally - CBC",
+      "excerpt": "'The stakes are high': Carney urges Albertans to vote to stay in Canada at Edmonton rally CBC",
       "cat": "Economy"
     },
     {
@@ -2534,6 +2546,18 @@
       "lang": "en",
       "title": "Carney needs to completely overhaul the Trudeau-era immigration system, report says - National Post",
       "excerpt": "Carney needs to completely overhaul the Trudeau-era immigration system, report says National Post",
+      "cat": "Economy"
+    },
+    {
+      "id": "6012724a83e3b925",
+      "date": "2026-10-14",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDQ2UDdzM3Z3TzhMSDd2SjAyejgzZjRPekZqaVhMMHNuNEt4dFFaLV8tcDBfOWdkWkhvV0lOUTI3SWt0cl9ReHNmUjdJeEdXM0pCeWpNNy0zb0QyTjdNMzlubEVwYkZnRktHNGFmdTVUQjUzbGt6b29WOUM0U2VYOXRJNjN2cWhFWW5SbHY0bmpTSWZwSVZ2Yk00aG4za2tIZmdsZ2lhNkxGd0xuQkFLdVhQb3k3VzFWZWZXU0xOQmg0QzVHNVBvOEltNWZGaXh5ZnZNQy1B?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum - constructconnect.com",
+      "excerpt": "Carney to attend 'Forever Canadian' rallies in Alberta days before referendum constructconnect.com",
       "cat": "Economy"
     },
     {
@@ -193259,32 +193283,6 @@
       "title": "Minister announces support for trade disruption-affected sectors",
       "sum": "Minister Evan Solomon will announce government support for businesses and organizations in key sectors experiencing impacts from trade disruptions. The announcement focuses on helping these groups adjust to changes in the economic landscape.",
       "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "4f7e74b713c21187",
-      "date": "2025-08-25",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/08/document-dinformation--notice-biographique--anna--karine-asselin.html",
-      "type": "Appointment",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Anna-Karine Asselin rejoint Affaires extérieures et Commerce extérieur",
-      "sum": "Anna-Karine Asselin, avocate diplômée de l'Université d'Ottawa en 1990 et admise au Barreau du Québec en 1991, s'est jointe à Affaires extérieures et Commerce extérieur Canada en 1994.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "873ecfd45a2419de",
-      "date": "2025-08-25",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2025/08/le-canada-signe-un-protocole-dentente-sur-la-cooperation-militaire-avec-les-forces-armees-indonesiennes.html",
-      "type": "International agreement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada signe protocole coopération militaire avec l'Indonésie",
-      "sum": "Le Canada a signé un protocole d'entente sur la coopération militaire avec les forces armées indonésiennes. Cet accord a été signé par la générale Jennie Carignan, chef d'état major de la défense du Canada.",
-      "cat": "National defence",
       "ai": true
     }
   ]
