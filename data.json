@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T03:27:12.900Z",
+  "generatedAt": "2026-10-17T10:18:02.951Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -45,6 +45,30 @@
       "title": "Carney’s investment summit: More profits for oligarchs, more exploitation for the workers - World Socialist Web Site",
       "excerpt": "Carney’s investment summit: More profits for oligarchs, more exploitation for the workers World Socialist Web Site",
       "cat": "Economy"
+    },
+    {
+      "id": "56f28b583e883d1f",
+      "date": "2026-10-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUt0MnhPWWw0a0Y0YTM3VnA1YXJkSGlSSDhTMDEtYmwyeXpqSmhId2hraWlmLVBoS1dGRTZQR21CY3BSUTd0S1hTTGhNbUVkWjJUTndpVFhJU3p0RmQ3VlljSjBtY2lDdHRpYUpfbkZNWmdCMXZ6djk0QXctQVFrai1QU25nRFFwaXpjOFdlQmplLXE0Z3ZTR0E4dk9DNlNfbnFFZzk2VDRNM0d4emQ3bDN1MA?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney, Smith join forces at Alberta brewery to stump for a united Canada - National Newswatch",
+      "excerpt": "Carney, Smith join forces at Alberta brewery to stump for a united Canada National Newswatch",
+      "cat": "Economy"
+    },
+    {
+      "id": "ead8e07edc2349e1",
+      "date": "2026-10-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNHZOTWNTYUl5NnNlZTZjRENWZ3hvYUxWZEItczUxVVhMNElzNDJxTzNQZGdxa1Z0OFFNTm9GdFZUczhYaFNCNjZDZ1ZBSG5ieTJpYU9GLU5TUm5Fa3ZxYUJyOVB6Nmx5NmhXZnBRY095WUdoblVHYk51UFR2T0lQN1ZoSFhtYWI2ZFNjSVdVRVFnQ05IMmxJSXQwai1FOFBWMDZRN010QWpydFhlS3NVRUloM0Y3UQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney campaigns in Calgary, endorses 'no to the nine' ahead of Alberta referendum - Canada's National Observer",
+      "excerpt": "Carney campaigns in Calgary, endorses 'no to the nine' ahead of Alberta referendum Canada's National Observer",
+      "cat": "Innovation, science & industry"
     },
     {
       "id": "fca93be57254c1d8",
@@ -1051,6 +1075,18 @@
       "title": "Opinion: Carney’s Buy Canadian policy is a mistake that will accomplish little - The Globe and Mail",
       "excerpt": "Opinion: Carney’s Buy Canadian policy is a mistake that will accomplish little The Globe and Mail",
       "cat": "Innovation, science & industry"
+    },
+    {
+      "id": "44800bb07d7fa591",
+      "date": "2026-10-15",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnJJcXJ4R2ZrcmRTVWFnQzVRU3pFS1NuSENldUNfeGlzTC0wN0lvb1BhLUlXTWZseXRqUzhrUDByYjF4dEtCMG5QRW9UaXlBZlE0VHBzYVYtcDk0clItY04yQ3Vvczc3VEk5by1SOHpxWmlqWGV0RzhhYjYtRFpndFFNNFphdnBPWEJsU0VwZWVubU02TmFyakhn?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Carney says Albertans should vote ‘No to the Nine’ in referendum - CBC",
+      "excerpt": "Carney says Albertans should vote ‘No to the Nine’ in referendum CBC",
+      "cat": "Economy"
     },
     {
       "id": "b04ea8c39a01d3c9",
@@ -193249,45 +193285,6 @@
       "title": "Canada signe protocole coopération militaire avec l'Indonésie",
       "sum": "Le Canada a signé un protocole d'entente sur la coopération militaire avec les forces armées indonésiennes. Cet accord a été signé par la générale Jennie Carignan, chef d'état major de la défense du Canada.",
       "cat": "National defence",
-      "ai": true
-    },
-    {
-      "id": "53c176aff4d40482",
-      "date": "2025-08-25",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2025/08/le-canada-nomme-une-nouvelle-representante-permanente-aupres-de-lorganisation-de-laviation-civile-internationale.html",
-      "type": "Appointment",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada nomme nouvelle représentante auprès de l'OACI",
-      "sum": "Le Canada a nommé Karine Asselin au poste de représentante permanente auprès de l'Organisation de l'aviation civile internationale, à compter du 25 août 2025. Cette nomination a été annoncée par les ministères des Affaires étrangères et des Transports.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "fcb003fb0f8fa103",
-      "date": "2025-08-25",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/sante-publique/nouvelles/2025/08/le-gouvernement-du-canada-appuie-des-initiatives-concues-pour-promouvoir-un-mode-de-vie-sain-et-prevenir-les-maladies-chroniques.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada finance sept projets de promotion de la santé",
-      "sum": "Le gouvernement du Canada soutient sept projets par le Fonds pour la santé des Canadiens et des communautés afin de promouvoir des comportements sains comme l'alimentation équilibrée, l'activité physique et l'abandon du tabac. Ces projets ciblent les personnes confrontées à des inégalités en matière de santé.",
-      "cat": "Healthcare",
-      "ai": true
-    },
-    {
-      "id": "6962051a170febda",
-      "date": "2025-08-25",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/fednor/nouvelles/2025/08/annonce-dun-financement-de-fednor-visant-a-aider-les-entreprises-du-nord-de-lontario-a-adopter-lia-et-a-developper-de-nouvelles-technologies-afin-d.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "FedNor finance l'adoption de l'IA pour entreprises nord-ontariennes",
-      "sum": "FedNor annonce un financement destiné à aider les entreprises du Nord de l'Ontario à adopter l'intelligence artificielle et développer de nouvelles technologies. Ce soutien vise à moderniser les activités commerciales et accélérer la croissance économique régionale.",
-      "cat": "Innovation, science & industry",
       "ai": true
     }
   ]
