@@ -17,6 +17,8 @@ const T = {
     supportH: "Independent & reader-supported",
     supportP: "Dossier takes no advertising and no party money. If it's useful to you, you can help keep it running — and free for everyone.",
     tagline: "Dossier · an independent, non-partisan public record",
+    contactFoot: "Spotted an error, or have a question? Write to us at",
+    contactAbout: "Questions, corrections or tips:",
     aboutKicker: "Why this exists", aboutH2: "A record, so you don't have to remember.",
     aboutBody: '<p class="lead">We carry a feeling about a government long after we\u2019ve forgotten what built it. Decisions and headlines arrive every single day; the impression settles in, but the specifics slip away. By the time it matters most \u2014 the next time you vote \u2014 you remember the mood, not the record.</p><p>Dossier is a data keeper. It gathers, in one place and in plain language, the actual moves a government makes \u2014 the bills, regulations, appointments, spending and announcements \u2014 each one filed by topic and linked to its source, so you can look back at the evidence instead of relying on memory.</p><p>Because democracy isn\u2019t only choosing a party and then stepping back to let them lead. It\u2019s watching what they do in between \u2014 steadily, on the record \u2014 so that the next choice you make is a genuinely informed one.</p><p>Life is full, and the demands on your attention are real. No one has time to track every decision. This is meant to carry that weight for you: a tool to help you gauge, not a test of what you can recall.</p>',
     aboutSign: "It takes no side. It keeps the record.",
@@ -40,6 +42,8 @@ const T = {
     supportH: "Indépendant, financé par les lecteurs",
     supportP: "Dossier n'accepte ni publicité ni argent de parti. Si le site vous est utile, vous pouvez aider à le maintenir — et à le garder gratuit pour tous.",
     tagline: "Dossier · un registre public indépendant et non partisan",
+    contactFoot: "Une erreur repérée, une question? Écrivez-nous à",
+    contactAbout: "Questions, corrections ou pistes :",
     aboutKicker: "Pourquoi ce site existe", aboutH2: "Un registre, pour ne pas avoir à tout retenir.",
     aboutBody: '<p class="lead">On garde une impression d\u2019un gouvernement bien après avoir oublié ce qui l\u2019a façonnée. Les décisions et les manchettes arrivent chaque jour; l\u2019impression s\u2019installe, mais les détails s\u2019effacent. Au moment qui compte le plus \u2014 la prochaine fois que vous votez \u2014 vous vous souvenez de l\u2019humeur, pas du registre.</p><p>Dossier est un gardien de données. Il rassemble, en un seul endroit et en langage clair, les gestes concrets d\u2019un gouvernement \u2014 projets de loi, règlements, nominations, dépenses et annonces \u2014 chacun classé par thème et lié à sa source, pour que vous puissiez revoir les faits au lieu de vous fier à votre mémoire.</p><p>Parce que la démocratie ne consiste pas seulement à élire un parti puis à le laisser gouverner. C\u2019est observer ce qu\u2019il fait entre-temps \u2014 de façon constante, au registre \u2014 pour que votre prochain choix soit véritablement éclairé.</p><p>La vie est bien remplie et les sollicitations sont réelles. Personne n\u2019a le temps de suivre chaque décision. Ce site porte ce poids à votre place : un outil pour vous aider à juger, pas un test de ce dont vous vous souvenez.</p>',
     aboutSign: "Aucun parti pris. Seulement le registre.",
@@ -192,6 +196,8 @@ $("#aheadBtn").onclick = ()=> aheadModal.showModal();
 $("#aheadClose").onclick = ()=> aheadModal.close();
 aheadModal.addEventListener("click", e=>{ if(e.target===aheadModal) aheadModal.close(); });
 document.querySelectorAll(".kofi-link").forEach(a=> a.href = KOFI_URL);
+// Contact address is assembled here so it never appears as plain text in the page source (keeps spam bots away)
+document.querySelectorAll(".contact-link").forEach(a=>{ const e = a.dataset.u + "@" + a.dataset.d; a.href = "mailto:" + e; a.textContent = e; });
 
 async function ensureArchive(){
   if (archiveLoaded || archiveLoading) return;
