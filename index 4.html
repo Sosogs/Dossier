@@ -1,0 +1,321 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+  :root{
+    --bg:#06070f;
+    --ink:#edeff7;
+    --muted:#8c90a8;
+    --faint:#5b5f78;
+    --glass:rgba(255,255,255,.045);
+    --glass-strong:rgba(255,255,255,.07);
+    --line:rgba(255,255,255,.09);
+    --line-strong:rgba(255,255,255,.16);
+    --cyan:#5fd0ff;
+    --violet:#9a7cff;
+    --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    font-family:var(--sans);
+    color:var(--ink);
+    background:
+      radial-gradient(900px 600px at 12% -8%, rgba(154,124,255,.22), transparent 60%),
+      radial-gradient(1000px 700px at 92% 4%, rgba(95,208,255,.16), transparent 55%),
+      radial-gradient(900px 800px at 70% 110%, rgba(214,92,200,.14), transparent 55%),
+      var(--bg);
+    background-attachment:fixed;
+    min-height:100vh;
+    -webkit-font-smoothing:antialiased;
+    line-height:1.5;
+  }
+  a{color:inherit}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+
+  /* ---- nav ---- */
+  .nav{display:flex;align-items:center;justify-content:space-between;padding:22px 0 8px}
+  .brand{display:flex;align-items:center;gap:11px;font-weight:700;letter-spacing:.14em;font-size:15px}
+  .brand .mark{width:22px;height:22px;border-radius:6px;
+    background:conic-gradient(from 200deg,var(--violet),var(--cyan),#d65cc8,var(--violet));
+    box-shadow:0 0 18px rgba(95,208,255,.5)}
+  .nav-links{display:flex;align-items:center;gap:26px;font-size:13.5px;color:var(--muted)}
+  .nav-links span{cursor:default}
+  .nav-links button{font-family:var(--sans);font-size:13.5px;color:var(--ink);background:none;border:none;cursor:pointer;padding:0;border-bottom:1px solid transparent}
+  .nav-links button:hover{border-bottom-color:var(--cyan)}
+  .nav-cta{font-family:var(--mono);font-size:12px;color:var(--cyan);border:1px solid var(--line-strong);
+    padding:8px 14px;border-radius:999px;background:var(--glass)}
+
+  /* ---- hero ---- */
+  .eyebrow{display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:11px;
+    letter-spacing:.18em;color:var(--cyan);border:1px solid var(--line);border-radius:999px;
+    padding:6px 12px;background:var(--glass);margin:54px 0 22px}
+  .eyebrow .dot{width:6px;height:6px;border-radius:50%;background:var(--cyan);box-shadow:0 0 10px var(--cyan)}
+  h1{font-size:clamp(38px,6.4vw,76px);line-height:.98;letter-spacing:-.025em;font-weight:800;margin:0;max-width:14ch}
+  h1 .grad{background:linear-gradient(110deg,#fff 8%,var(--cyan) 48%,var(--violet) 92%);
+    -webkit-background-clip:text;background-clip:text;color:transparent}
+  .lede{color:var(--muted);font-size:clamp(15px,1.7vw,18.5px);max-width:62ch;margin:22px 0 0}
+  .metrics{display:flex;flex-wrap:wrap;gap:14px;margin:34px 0 8px}
+  .metric{flex:1;min-width:150px;border:1px solid var(--line);background:var(--glass);
+    backdrop-filter:blur(8px);border-radius:14px;padding:16px 18px}
+  .metric .n{font-size:26px;font-weight:750;letter-spacing:-.02em}
+  .metric .l{font-family:var(--mono);font-size:11px;letter-spacing:.12em;color:var(--faint);text-transform:uppercase;margin-top:3px}
+
+  .demo-note{margin:26px 0 0;font-family:var(--mono);font-size:11.5px;color:var(--faint);
+    border-left:2px solid rgba(214,92,200,.55);padding-left:11px}
+
+  /* ---- toolbar ---- */
+  .toolbar{position:sticky;top:0;z-index:20;margin:46px 0 0;padding:16px 0 14px;
+    background:linear-gradient(180deg,rgba(6,7,15,.92),rgba(6,7,15,.55));
+    backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+  .search-row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+  .search{flex:1;min-width:230px;display:flex;align-items:center;gap:9px;border:1px solid var(--line-strong);
+    background:var(--glass);border-radius:11px;padding:11px 14px}
+  .search input{flex:1;background:none;border:none;outline:none;color:var(--ink);font-size:14.5px;font-family:var(--sans)}
+  .search input::placeholder{color:var(--faint)}
+  .search svg{flex:none}
+  select.type{border:1px solid var(--line-strong);background:var(--glass);color:var(--ink);
+    border-radius:11px;padding:11px 13px;font-size:13.5px;font-family:var(--sans);outline:none;cursor:pointer}
+  select.type option{background:#0c0e1c;color:var(--ink)}
+  .chips{display:flex;gap:8px;overflow-x:auto;padding:14px 1px 3px;scrollbar-width:thin}
+  .chip{flex:none;cursor:pointer;border:1px solid var(--line);background:transparent;color:var(--muted);
+    font-size:12.5px;border-radius:999px;padding:7px 13px;white-space:nowrap;display:flex;align-items:center;gap:7px;
+    transition:border-color .15s,color .15s,background .15s}
+  .chip:hover{color:var(--ink);border-color:var(--line-strong)}
+  .chip .cd{width:7px;height:7px;border-radius:50%}
+  .chip.active{color:#06070f;background:var(--ink);border-color:var(--ink);font-weight:600}
+  .chip.active .cd{box-shadow:0 0 0 2px rgba(6,7,15,.25)}
+
+  /* ---- feed ---- */
+  .count{font-family:var(--mono);font-size:11.5px;letter-spacing:.1em;color:var(--faint);
+    text-transform:uppercase;margin:22px 0 14px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;padding-bottom:30px}
+  .card{border:1px solid var(--line);background:var(--glass);backdrop-filter:blur(8px);
+    border-radius:16px;padding:18px 19px 17px;display:flex;flex-direction:column;gap:11px;
+    transition:border-color .18s,transform .18s}
+  .card:hover{border-color:var(--line-strong);transform:translateY(-2px)}
+  .rec{font-family:var(--mono);font-size:11px;letter-spacing:.04em;color:var(--faint);
+    display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+  .rec .type{color:var(--cyan);border:1px solid rgba(95,208,255,.3);border-radius:5px;padding:1px 7px}
+  .rec .sep{opacity:.5}
+  .cat{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;font-weight:600;align-self:flex-start;
+    border-radius:999px;padding:4px 11px 4px 9px}
+  .cat .cd{width:8px;height:8px;border-radius:50%}
+  .card h3{margin:1px 0 0;font-size:17px;line-height:1.3;letter-spacing:-.01em;font-weight:680}
+  .card p{margin:0;color:var(--muted);font-size:14px;line-height:1.55}
+  .card .excerpt{border-left:2px solid var(--line-strong);padding-left:12px;color:#b9bcd0;font-style:italic}
+  .src{margin-top:auto;padding-top:9px;display:flex;align-items:center;justify-content:space-between;
+    gap:10px;border-top:1px solid var(--line)}
+  .src .from{font-family:var(--mono);font-size:11px;color:var(--faint)}
+  .src .badge{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;
+    border-radius:4px;padding:2px 6px}
+  .badge.official{color:#7ee0c0;background:rgba(126,224,192,.1)}
+  .badge.news{color:#ffc46b;background:rgba(255,196,107,.1)}
+  .src a{font-size:12.5px;color:var(--cyan);text-decoration:none;white-space:nowrap}
+  .src a:hover{text-decoration:underline}
+  .empty{grid-column:1/-1;text-align:center;color:var(--faint);font-family:var(--mono);
+    font-size:13px;padding:50px 0;border:1px dashed var(--line);border-radius:16px}
+
+  /* ---- desk ---- */
+  .desk{margin:34px 0 60px;border:1px solid var(--line-strong);border-radius:20px;overflow:hidden;
+    background:linear-gradient(180deg,rgba(154,124,255,.07),var(--glass))}
+  .desk-head{padding:22px 24px 4px}
+  .desk-head .kicker{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:var(--violet);text-transform:uppercase}
+  .desk-head h2{margin:9px 0 6px;font-size:23px;letter-spacing:-.015em}
+  .desk-head p{margin:0;color:var(--muted);font-size:14px;max-width:74ch}
+  .desk-body{padding:16px 24px 24px;display:flex;flex-direction:column;gap:13px}
+  textarea{width:100%;min-height:118px;resize:vertical;border:1px solid var(--line-strong);background:rgba(0,0,0,.25);
+    color:var(--ink);border-radius:12px;padding:14px 15px;font-size:14px;font-family:var(--sans);outline:none;line-height:1.55}
+  textarea::placeholder{color:var(--faint)}
+  .desk-actions{display:flex;gap:11px;align-items:center;flex-wrap:wrap}
+  button.run{cursor:pointer;border:none;border-radius:999px;padding:11px 20px;font-size:14px;font-weight:650;
+    color:#04121d;background:linear-gradient(100deg,var(--cyan),#8ad9ff);box-shadow:0 6px 22px rgba(95,208,255,.28)}
+  button.run:disabled{opacity:.5;cursor:default;box-shadow:none}
+  button.ghost{cursor:pointer;border:1px solid var(--line-strong);background:transparent;color:var(--muted);
+    border-radius:999px;padding:11px 16px;font-size:13px}
+  .hint{font-family:var(--mono);font-size:11px;color:var(--faint)}
+  .result{border:1px solid var(--line);background:var(--glass);border-radius:14px;padding:16px 17px;
+    display:flex;flex-direction:column;gap:10px}
+  .result.err{border-color:rgba(255,140,140,.4)}
+  .result .msg{color:#ff9d9d;font-size:13.5px}
+  .add{align-self:flex-start;cursor:pointer;border:1px solid rgba(126,224,192,.4);color:#7ee0c0;
+    background:rgba(126,224,192,.08);border-radius:999px;padding:8px 15px;font-size:12.5px;font-weight:600}
+
+  footer{border-top:1px solid var(--line);padding:30px 0 60px;color:var(--faint);font-size:12.5px}
+  footer b{color:var(--muted);font-weight:600}
+  footer .meth{max-width:78ch;line-height:1.7}
+
+  /* ---- support / ko-fi ---- */
+  .nav-support{display:inline-flex;align-items:center;gap:6px;font-family:var(--sans);font-size:13px;font-weight:600;
+    color:#04121d;text-decoration:none;background:linear-gradient(100deg,var(--cyan),#8ad9ff);
+    border:none;border-radius:999px;padding:7px 14px;box-shadow:0 4px 16px rgba(95,208,255,.22)}
+  .nav-support:hover{filter:brightness(1.06)}
+  .support{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;
+    margin-top:22px;padding:18px 20px;border:1px solid var(--line);border-radius:16px;
+    background:linear-gradient(180deg,rgba(95,208,255,.06),var(--glass))}
+  .support-text{max-width:60ch}
+  .support-h{color:var(--ink);font-weight:650;font-size:15px;margin-bottom:3px}
+  .support-text p{margin:0;color:var(--muted);font-size:13.5px;line-height:1.6}
+  .support-btn{flex:none;display:inline-flex;align-items:center;gap:8px;text-decoration:none;
+    font-size:14px;font-weight:650;color:#04121d;background:linear-gradient(100deg,var(--cyan),#8ad9ff);
+    border-radius:999px;padding:11px 18px;box-shadow:0 6px 20px rgba(95,208,255,.25)}
+  .support-btn:hover{filter:brightness(1.06)}
+
+  /* ---- about dialog ---- */
+  dialog#aboutModal{border:none;padding:0;background:transparent;max-width:620px;width:92vw;color:var(--ink)}
+  dialog#aboutModal::backdrop{background:rgba(4,5,12,.66);backdrop-filter:blur(6px)}
+  .about-panel{border:1px solid var(--line-strong);border-radius:20px;padding:30px 32px 26px;
+    background:linear-gradient(180deg,rgba(154,124,255,.12),rgba(10,12,26,.96));
+    box-shadow:0 30px 80px rgba(0,0,0,.5)}
+  .about-panel .kicker{font-family:var(--mono);font-size:11px;letter-spacing:.18em;color:var(--cyan);text-transform:uppercase}
+  .about-panel h2{margin:11px 0 16px;font-size:27px;letter-spacing:-.02em;line-height:1.1}
+  .about-panel p{margin:0 0 14px;color:#c7cadb;font-size:15px;line-height:1.65}
+  .about-panel p.lead{color:var(--ink);font-size:16px}
+  .about-panel .sign{font-family:var(--mono);font-size:12px;color:var(--faint);margin-top:18px}
+  .about-close{position:absolute;top:18px;right:20px;cursor:pointer;border:1px solid var(--line-strong);
+    background:var(--glass);color:var(--muted);border-radius:999px;width:32px;height:32px;font-size:16px;line-height:1}
+  .about-wrap{position:relative}
+
+  @media (max-width:620px){
+    h1{font-size:34px}
+    .metric{min-width:calc(50% - 7px)}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto}}
+  :focus-visible{outline:2px solid var(--cyan);outline-offset:2px;border-radius:4px}
+
+  /* ---- bilingual additions ---- */
+  .lang-toggle{display:inline-flex;gap:2px;align-items:center;font-family:var(--mono);font-size:11px;border:1px solid var(--line-strong);border-radius:999px;padding:2px 3px;background:var(--glass)}
+  .lang-toggle span{cursor:pointer;padding:3px 8px;border-radius:999px;color:var(--muted);user-select:none}
+  .lang-toggle span.on{background:var(--cyan);color:#04121d;font-weight:700}
+  .chip.oo{border-color:rgba(126,224,192,.4);color:#7ee0c0}
+  .chip.oo.active{background:#7ee0c0;color:#04121d;border-color:#7ee0c0;font-weight:600}
+  .tagline{margin-top:16px}
+  .load-more{margin:8px auto 34px;cursor:pointer;font-family:var(--sans);font-size:14px;font-weight:600;color:var(--cyan);background:var(--glass);border:1px solid var(--line-strong);border-radius:999px;padding:11px 22px}
+  .load-more:hover{border-color:var(--cyan);background:rgba(95,208,255,.08)}
+  @media (max-width:620px){
+    .nav{flex-direction:column;align-items:flex-start;gap:14px;padding-top:20px}
+    .nav-links{display:flex;gap:16px;flex-wrap:wrap;align-items:center;width:100%;justify-content:flex-start}
+    .nav-links > span[data-i18n]{display:none}
+    .wrap{padding:0 16px}
+    .grid{grid-template-columns:1fr}
+    .search{flex:1 1 100%}
+    .search-row{gap:10px}
+    .toolbar{margin-top:28px}
+    .lede{font-size:15px}
+    body{overflow-x:hidden}
+  }
+
+  /* ---- what's ahead (Dossier 2.0) ---- */
+  .nav-links button.nav-ahead{display:inline-flex;align-items:center;gap:7px;color:#d8ccff;font-weight:600;
+    border:1px solid rgba(154,124,255,.5);background:rgba(154,124,255,.12);border-radius:999px;padding:5px 7px 5px 11px;
+    box-shadow:0 0 18px rgba(154,124,255,.18)}
+  .nav-links button.nav-ahead:hover{border-color:var(--violet);background:rgba(154,124,255,.22)}
+  .nav-ahead .pulse{width:7px;height:7px;border-radius:50%;background:var(--violet);box-shadow:0 0 0 0 rgba(154,124,255,.7);animation:aheadPulse 2.4s ease-out infinite}
+  .nav-ahead .v2{font-family:var(--mono);font-size:10px;font-weight:700;letter-spacing:.04em;color:#0b0820;background:var(--violet);border-radius:999px;padding:2px 6px}
+  @keyframes aheadPulse{0%{box-shadow:0 0 0 0 rgba(154,124,255,.7)}70%{box-shadow:0 0 0 8px rgba(154,124,255,0)}100%{box-shadow:0 0 0 0 rgba(154,124,255,0)}}
+  @media (prefers-reduced-motion:reduce){.nav-ahead .pulse{animation:none}}
+  dialog#aheadModal{border:none;padding:0;background:transparent;max-width:640px;width:92vw;color:var(--ink)}
+  dialog#aheadModal::backdrop{background:rgba(4,5,12,.66);backdrop-filter:blur(6px)}
+  .ahead-panel{border-color:rgba(154,124,255,.4);background:linear-gradient(180deg,rgba(154,124,255,.2),rgba(10,12,26,.97) 55%)}
+  .ahead-panel .kicker{color:var(--violet)}
+  .ahead-panel h2 .grad{background:linear-gradient(110deg,#fff 10%,var(--violet) 70%,var(--cyan));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .ahead-list{list-style:none;margin:4px 0 16px;padding:0;display:grid;gap:10px}
+  .ahead-list li{border:1px solid var(--line);border-left:2px solid var(--violet);border-radius:10px;padding:10px 14px;background:var(--glass);color:#c7cadb;font-size:14.5px;line-height:1.55}
+  .ahead-list li b{color:var(--ink);font-weight:650}
+  /* ---- contact ---- */
+  .contact-line{margin:14px 0 0;color:var(--muted);font-size:13.5px;line-height:1.6}
+  a.contact-link{color:var(--cyan);text-decoration:none;border-bottom:1px solid rgba(95,208,255,.35);white-space:nowrap}
+  a.contact-link:hover{border-bottom-color:var(--cyan)}
+</style>
+
+<div class="wrap">
+  <nav class="nav">
+    <div class="brand"><span class="mark"></span> DOSSIER</div>
+    <div class="nav-links">
+      <span data-i18n="navRecord">The record</span>
+      <span data-i18n="navCategories">Categories</span>
+      <span data-i18n="navSources">Sources</span>
+      <button id="aheadBtn" class="nav-ahead"><span class="pulse" aria-hidden="true"></span><span data-i18n="navAhead">What&rsquo;s ahead</span><span class="v2">2.0</span></button>
+      <button id="aboutBtn" data-i18n="navAbout">About</button>
+      <a class="kofi-link nav-support" href="#" target="_blank" rel="noopener"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 21s-7.5-4.6-10-9.3C.4 8.4 1.9 5 5.2 5c2 0 3.3 1.2 3.8 2 .5-.8 1.8-2 3.8-2 3.3 0 4.8 3.4 3.2 6.7C19.5 16.4 12 21 12 21z"/></svg><span data-i18n="support">Support Dossier</span></a>
+      <span class="lang-toggle" role="group" aria-label="Language"><span data-l="en">EN</span><span data-l="fr">FR</span></span>
+    </div>
+  </nav>
+
+  <div class="eyebrow"><span class="dot"></span> <span data-i18n="eyebrow">NON-PARTISAN GOVERNMENT RECORD</span></div>
+  <h1 data-i18n-html="heroH1">Every move,<br><span class="grad">on the record.</span></h1>
+  <p class="lede" data-i18n="lede">A neutral, searchable log of what the federal government actually does — bills, regulations, orders, spending, appointments and announcements — each written in plain language and linked to its source. Not opinion. Not a scorecard. The actions themselves.</p>
+
+  <div class="metrics">
+    <div class="metric"><div class="n" id="m-actions">—</div><div class="l" data-i18n="mActionsL">Actions logged</div></div>
+    <div class="metric"><div class="n" id="m-cats">—</div><div class="l" data-i18n="mAreasL">Policy areas</div></div>
+    <div class="metric"><div class="n" id="m-sources">—</div><div class="l" data-i18n="mSourcesL">Sources tracked</div></div>
+    <div class="metric"><div class="n" data-i18n="cadenceVal">Every 6h</div><div class="l" data-i18n="mCadenceL">Refresh cadence</div></div>
+  </div>
+
+  <div class="toolbar">
+    <div class="search-row">
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8c90a8" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input id="q" type="text" data-i18n-ph="searchPh" placeholder="Search the record…" aria-label="Search" />
+      </label>
+      <select class="type" id="typeSel" aria-label="Type"></select>
+      <button class="chip oo" id="ooBtn" data-i18n="officialOnly">Official only</button>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <div class="count" id="count"></div>
+  <div class="grid" id="grid"></div>
+  <div style="text-align:center"><button id="loadMore" class="load-more" hidden></button></div>
+
+  <footer>
+    <p class="meth" data-i18n-html="footMethod"><b>How this works.</b> Dossier draws on the official news releases and statements that federal departments and agencies publish on Canada.ca, in English and French. Each one is summarized in plain language by AI and linked to the original, so the source is always one click away. A thin layer of journalism appears as headline + short excerpt + a link out to the original, never the full article. Items are logged as <b>actions</b>, not as promises kept or broken, and categorized by policy area. Neutrality lives in the wording: summaries describe what was done, not whether it was good.</p>
+
+    <div class="support">
+      <div class="support-text">
+        <div class="support-h" data-i18n="supportH">Independent &amp; reader-supported</div>
+        <p data-i18n="supportP">Dossier takes no advertising and no party money. If it&rsquo;s useful to you, you can help keep it running &mdash; and free for everyone.</p>
+      </div>
+      <a class="kofi-link support-btn" href="#" target="_blank" rel="noopener">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 21s-7.5-4.6-10-9.3C.4 8.4 1.9 5 5.2 5c2 0 3.3 1.2 3.8 2 .5-.8 1.8-2 3.8-2 3.3 0 4.8 3.4 3.2 6.7C19.5 16.4 12 21 12 21z"/></svg>
+        <span data-i18n="support">Support Dossier</span>
+      </a>
+    </div>
+
+    <p class="contact-line"><span data-i18n="contactFoot">Spotted an error, or have a question? Write to us at</span> <a class="contact-link" data-u="contact" data-d="thedossier.ca"></a></p>
+    <p class="tagline" data-i18n="tagline">Dossier · an independent, non-partisan public record</p>
+  </footer>
+</div>
+
+<dialog id="aboutModal">
+  <div class="about-wrap">
+    <button class="about-close" id="aboutClose" aria-label="Close">×</button>
+    <div class="about-panel">
+      <div class="kicker" data-i18n="aboutKicker">Why this exists</div>
+      <h2 data-i18n="aboutH2">A record, so you don&rsquo;t have to remember.</h2>
+      <div data-i18n-html="aboutBody">
+        <p class="lead">We carry a feeling about a government long after we&rsquo;ve forgotten what built it. Decisions and headlines arrive every single day; the impression settles in, but the specifics slip away. By the time it matters most &mdash; the next time you vote &mdash; you remember the mood, not the record.</p>
+        <p>Dossier is a data keeper. It gathers, in one place and in plain language, the actual moves a government makes &mdash; the bills, regulations, appointments, spending and announcements &mdash; each one filed by topic and linked to its source, so you can look back at the evidence instead of relying on memory.</p>
+        <p>Because democracy isn&rsquo;t only choosing a party and then stepping back to let them lead. It&rsquo;s watching what they do in between &mdash; steadily, on the record &mdash; so that the next choice you make is a genuinely informed one.</p>
+        <p>Life is full, and the demands on your attention are real. No one has time to track every decision. This is meant to carry that weight for you: a tool to help you gauge, not a test of what you can recall.</p>
+      </div>
+      <p class="contact-line"><span data-i18n="contactAbout">Questions, corrections or tips:</span> <a class="contact-link" data-u="contact" data-d="thedossier.ca"></a></p>
+      <p class="sign" data-i18n="aboutSign">It takes no side. It keeps the record.</p>
+    </div>
+  </div>
+</dialog>
+
+<dialog id="aheadModal">
+  <div class="about-wrap">
+    <button class="about-close" id="aheadClose" aria-label="Close">×</button>
+    <div class="about-panel ahead-panel">
+      <div class="kicker" data-i18n="aheadKicker">Dossier 2.0 · in development</div>
+      <h2 data-i18n-html="aheadH2">From the record <span class="grad">to the big picture.</span></h2>
+      <div data-i18n-html="aheadBody"></div>
+      <p class="sign" data-i18n="aheadSign">Same record. A wider lens.</p>
+    </div>
+  </div>
+</dialog>
+
+<script src="app.js"></script>
