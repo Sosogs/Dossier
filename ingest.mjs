@@ -99,7 +99,8 @@ const ARCHIVE_FILE = "data.json";    // full record (unchanged role) — site fe
 const OUT_FILE = "recent.json";      // small additive slice — the site loads this instantly
 const RECENT_N = 800;                // how many newest items go in the fast-loading file
 const CUSTOM_FILE = "custom-posts.json";   // your hand-written entries (see README)
-const MAX_ITEMS = 15000;                   // raised for the full mandate archive
+const MAX_ITEMS = 60000;                   // safety ceiling only — the record must never be trimmed
+const SIZE_ALERT_MB = 20;                  // Cloudflare Pages refuses files over 25 MiB; warn well before
 const NEWS_EXCERPT_CHARS = 220;            // keep news excerpts short by design
 const OFFICIAL_SUMMARY_CHARS = 420;
 const MODEL = process.env.MODEL || "claude-haiku-4-5-20251001";  // cheapest tier; set MODEL env to "claude-sonnet-4-6" for higher quality
@@ -227,8 +228,13 @@ function withAcronym(src) {
   return a && !src.includes(`(${a})`) ? `${src} (${a})` : src;
 }
 
+function safeLink(u) {
+  const s = String(u || "").trim();
+  return /^https?:\/\/[^\s"'<>]+$/i.test(s) ? s : "";
+}
+
 function normalize(item, feed) {
-  const link = item.link || item.guid || "";
+  const link = safeLink(item.link) || safeLink(item.guid) || "";
   const id = hashId(link || feed.src + (item.title || ""));
   const title = stripHtml(item.title || "Untitled");
   const body = item.contentSnippet || item.content || item.summary || "";
@@ -302,7 +308,7 @@ async function pullFresh(seen) {
 // Save the full record to archive.json and a small recent slice to data.json.
 async function writeOutputs(items) {
   const gen = new Date().toISOString();
-  await writeFile(ARCHIVE_FILE, JSON.stringify({ generatedAt: gen, count: items.length, categories: CATEGORIES, types: TYPES, items }, null, 2));
+  await writeFile(ARCHIVE_FILE, JSON.stringify({ generatedAt: gen, count: items.length, categories: CATEGORIES, types: TYPES, items }));
   const recent = items.slice(0, RECENT_N);  // items are already sorted newest-first
   const tot = { en: { a: 0, s: new Set() }, fr: { a: 0, s: new Set() } };
   for (const it of items) {
@@ -311,8 +317,10 @@ async function writeOutputs(items) {
     if (it.src) tot[L].s.add(it.src);
   }
   const totals = { en: { actions: tot.en.a, sources: tot.en.s.size }, fr: { actions: tot.fr.a, sources: tot.fr.s.size } };
-  await writeFile(OUT_FILE, JSON.stringify({ generatedAt: gen, count: recent.length, totals, categories: CATEGORIES, types: TYPES, items: recent }, null, 2));
-  return { total: items.length, recent: recent.length };
+  await writeFile(OUT_FILE, JSON.stringify({ generatedAt: gen, count: recent.length, totals, categories: CATEGORIES, types: TYPES, items: recent }));
+  const { statSync } = await import("node:fs");
+  const mb = statSync(ARCHIVE_FILE).size / 1048576;
+  return { total: items.length, recent: recent.length, mb };
 }
 
 // Read the existing record: the full archive if present, else migrate from data.json.
@@ -387,7 +395,8 @@ async function run() {
     const merged = []; const ids = new Set();
     for (const r of [...fresh, ...(existing.items || [])]) { if (ids.has(r.id)) continue; ids.add(r.id); merged.push(r); }
     merged.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
-    const items = merged.slice(0, MAX_ITEMS);
+    const trimmed = Math.max(0, merged.length - MAX_ITEMS);
+  const items = merged.slice(0, MAX_ITEMS);
     for (const it of items) { it.src = withAcronym(it.src); if (!it.lang) it.lang = "en"; }
     const w = await writeOutputs(items);
     console.log(`Wrote ${w.total} items (data.json) + newest ${w.recent} (recent.json) — ${fresh.length} archived this run.`);
@@ -449,6 +458,7 @@ async function run() {
     merged.push(r);
   }
   merged.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+  const trimmed = Math.max(0, merged.length - MAX_ITEMS);
   const items = merged.slice(0, MAX_ITEMS);
   for (const it of items) { it.src = withAcronym(it.src); if (!it.lang) it.lang = "en"; }   // backfill acronyms + language onto older entries
 
@@ -462,6 +472,8 @@ async function run() {
     if (feedsOk === 0 && feedsTotal > 0) problems.push("no feeds returned any items (possible outage)");
     if (!USE_AI && !NO_AI && backlog > 0) problems.push("AI is off but summaries are pending — is the API key set?");
     if (enrichFailures > 25) problems.push(`${enrichFailures} summaries failed this run (API problem?)`);
+    if (trimmed > 0) problems.push(`${trimmed} oldest entries were dropped by the ${MAX_ITEMS}-item ceiling — raise MAX_ITEMS`);
+    if (w.mb > SIZE_ALERT_MB) problems.push(`data.json is ${w.mb.toFixed(1)} MB — nearing the 25 MiB hosting limit; time to split the archive by year`);
     if (problems.length) {
       console.error("HEALTH CHECK FAILED — " + problems.join("; "));
       process.exitCode = 1;   // fails the workflow run so GitHub emails you
