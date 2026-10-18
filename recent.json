@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:16:38.475Z",
+  "generatedAt": "2026-10-18T03:33:31.354Z",
   "count": 800,
   "totals": {
     "en": {
@@ -54,6 +54,18 @@
       "lang": "en",
       "title": "Carney’s investment summit: More profits for oligarchs, more exploitation for the workers - World Socialist Web Site",
       "excerpt": "Carney’s investment summit: More profits for oligarchs, more exploitation for the workers World Socialist Web Site",
+      "cat": "Economy"
+    },
+    {
+      "id": "65721e7c865f9b41",
+      "date": "2026-10-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXBKZFUtT2ltZUQtd1hZcVFwQUs0RTZ4c2JXMXN3R3phMl9qbUFiTy1TSHREYmEwUjRmaGU2M2VWUHlCcm9WTkdqeTlseXBvUWpGbVdpQnVxcHFzcEk5UHRVQVRlaVNlb01uMTNSSXIwNmc5MWVnRGRkQ3EwbEgzWHBQSkxBOGg4Mk5TcklpMnhLb0RRbU9XZ1RFSk1mQ0FMZmNCT25qNzlMd19yNEtRN1dJMnVKZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney’s increased immigration proposal risks fracturing Canada further - The Hub | More Signal. Less Noise.",
+      "excerpt": "Prime Minister Carney’s increased immigration proposal risks fracturing Canada further The Hub | More Signal. Less Noise.",
       "cat": "Economy"
     },
     {
@@ -10271,19 +10283,6 @@
       "title": "L'astronaute canadien Joshua Kutryk débute sa première mission spatiale",
       "sum": "L'astronaute de l'Agence spatiale canadienne Joshua Kutryk a commencé sa première mission spatiale à bord de la mission SpaceX Crew-13. Il se rendra à la Station spatiale internationale pour environ six mois aux côtés d'astronautes américains et d'un cosmonaute russe.",
       "cat": "Innovation, science & industry",
-      "ai": true
-    },
-    {
-      "id": "0097f1a852976d04",
-      "date": "2026-10-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/centre-hygiene-securite-travail/nouvelles/2026/10/le-cchst-ajoute-de-nouveaux-conferenciers-et-des-innovations-en-matiere-de-securite-au-travail-pour-completer-le-programme-du-forum-2026.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "CCHST annonce nouveaux conférenciers pour Forum 2026",
-      "sum": "Le Centre canadien d'hygiène et de sécurité au travail a annoncé des mises à jour au programme du Forum 2026, incluant de nouveaux conférenciers et des innovations en matière de sécurité au travail.",
-      "cat": "Public safety",
       "ai": true
     }
   ]

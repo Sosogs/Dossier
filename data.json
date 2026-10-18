@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:16:38.475Z",
+  "generatedAt": "2026-10-18T03:33:31.354Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -44,6 +44,18 @@
       "lang": "en",
       "title": "Carney’s investment summit: More profits for oligarchs, more exploitation for the workers - World Socialist Web Site",
       "excerpt": "Carney’s investment summit: More profits for oligarchs, more exploitation for the workers World Socialist Web Site",
+      "cat": "Economy"
+    },
+    {
+      "id": "65721e7c865f9b41",
+      "date": "2026-10-16",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXBKZFUtT2ltZUQtd1hZcVFwQUs0RTZ4c2JXMXN3R3phMl9qbUFiTy1TSHREYmEwUjRmaGU2M2VWUHlCcm9WTkdqeTlseXBvUWpGbVdpQnVxcHFzcEk5UHRVQVRlaVNlb01uMTNSSXIwNmc5MWVnRGRkQ3EwbEgzWHBQSkxBOGg4Mk5TcklpMnhLb0RRbU9XZ1RFSk1mQ0FMZmNCT25qNzlMd19yNEtRN1dJMnVKZw?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Prime Minister Carney’s increased immigration proposal risks fracturing Canada further - The Hub | More Signal. Less Noise.",
+      "excerpt": "Prime Minister Carney’s increased immigration proposal risks fracturing Canada further The Hub | More Signal. Less Noise.",
       "cat": "Economy"
     },
     {
@@ -193270,19 +193282,6 @@
       "title": "Minister Hodgson travels to Germany for energy partnership",
       "sum": "Minister of Energy and Natural Resources Tim Hodgson will travel to Germany with Prime Minister Mark Carney to advance Canada's economic and energy priorities with Germany.",
       "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "bc2e21c9f1a4d0c0",
-      "date": "2025-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/economic-development-southern-ontario/news/2025/08/government-of-canada-to-make-important-announcement-for-businesses-and-organizations-adjusting-to-changing-economic-landscape.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister announces support for trade disruption-affected sectors",
-      "sum": "Minister Evan Solomon will announce government support for businesses and organizations in key sectors experiencing impacts from trade disruptions. The announcement focuses on helping these groups adjust to changes in the economic landscape.",
-      "cat": "Economy",
       "ai": true
     }
   ]
