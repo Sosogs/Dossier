@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T03:33:31.354Z",
+  "generatedAt": "2026-10-18T10:33:38.965Z",
   "count": 15000,
   "categories": [
     "Foreign affairs",
@@ -34,6 +34,68 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "f9c16cb42e9df716",
+      "date": "2026-10-18",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/incident-at-canadian-forces-base-wainwright.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Fire at Canadian Forces Base Wainwright training area",
+      "sum": "A fire started in the training area of Canadian Forces Base Wainwright, Alberta on October 17, 2026 at approximately 4:00 p.m. local time and spread beyond the training area boundaries. Military and civilian emergency services responded to control the fire and support those affected.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "60c18cab168d7f41",
+      "date": "2026-10-18",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/10/incident-a-la-base-des-forces-canadiennes-wainwright.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Incendie à la Base des Forces canadiennes Wainwright en Alberta",
+      "sum": "Un incendie s'est déclaré le 17 octobre 2026 vers 16 h dans la zone d'entraînement de la Base des Forces canadiennes Wainwright en Alberta. Le feu s'est rapidement propagé au-delà de cette zone, et les services d'urgence militaires et civils ont intervenu pour maîtriser la situation.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "19ffd8cd97ce1c8d",
+      "date": "2026-10-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZldDNkE4NjNJSGlvWmx5NTFkNmduOE5WRGVlbWpTNVJNYmlWaGRfNF9MMGpScEcyaE5SNzB4WnM0ajZFbWZ5aERJeGcyQWlZOHNnWDJCVldIczFMZ3dYV1Z5U05XUFdzUmVYazhqWm9RLTVDQ3VvY2RQWkg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "COMMENTARY: On immigration, Danielle Smith is closer to Canadians than Mark Carney - Global News",
+      "excerpt": "COMMENTARY: On immigration, Danielle Smith is closer to Canadians than Mark Carney Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "5200a7b4b92fc106",
+      "date": "2026-10-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWlQwZmFfYkNMMFpad0hOZHh4Tjd6T0V5c1lGc1hyWnM0NW1QOE5aelNFdTFIM0Z2VGs2bEpFUkVjazgyQUNIQ0lsOU9UTkc0eFFzWHNPaHFJd19pV1ZqbE1ERmZvMU9Nb1A5MVN4dW1NcnY0NTF5NGR5c1FXb1lPVWZueVNRRlZHMnJZWExQTVlIRTVhdHBNMmRfdjVyQ2o2aS1xUlVZbF84TFBrdHpqWndUZ1dpd3AwMTNKMnBrbUpHLWoxN2ZFdmhRUFpfSlk4QXRnTDFER0tvSF9hVExNSFhuQU5WbGpaR0REeQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada: Several dead in fire at military base in Alberta; PM Carney says \"working with local authorities\" - ANI News",
+      "excerpt": "Canada: Several dead in fire at military base in Alberta; PM Carney says \"working with local authorities\" ANI News",
+      "cat": "National defence"
+    },
+    {
+      "id": "a20ac071116165ee",
+      "date": "2026-10-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWm0tSFhtMG1OWlpmN0hUb3luNmJfVDhuZlowSEpUY2U1NmgtVXh6aVYxbmd2NVBhX1RCZTNTM1B5b2RCWVZaZ3Awd2IzU21ZV3JtTGVzZmhkYnR4RVRCZ0puWDg5N3ZoYzNMNVJtb1pUZ3N3dHA3SmpQM19EUkpzakdoM0U3S2l1NDZqSXZSNmhPUlFFQWhSYlRnbDZZTk1WTkM4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "From ‘killing the golden goose’ to better than ever: Has Alberta's relationship with Ottawa changed? - CBC",
+      "excerpt": "From ‘killing the golden goose’ to better than ever: Has Alberta's relationship with Ottawa changed? CBC",
+      "cat": "Economy"
+    },
     {
       "id": "62aa958545bca4f5",
       "date": "2026-10-17",
@@ -193217,71 +193279,6 @@
       "title": "Government announces funding for electric vehicle charging infrastructure",
       "sum": "Minister Robertson will announce federal funding for electric vehicle charging infrastructure on behalf of Minister Hodgson. The funding is intended to support the expansion of EV charging stations.",
       "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "db6341ea2bf46771",
-      "date": "2025-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/fisheries-oceans/news/2025/08/the-governments-of-nunavut-and-canada-co-chair-the-canadian-council-of-fisheries-and-aquaculture-ministers-meeting.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Nunavut and Canada co-chair fisheries ministers meeting",
-      "sum": "The territorial and federal governments will jointly lead a meeting of Canadian fisheries and aquaculture ministers in Iqaluit. The discussion will cover economic priorities in the fish and seafood sector and sustainable fisheries practices.",
-      "cat": "Natural resources",
-      "ai": true
-    },
-    {
-      "id": "9288c75898d074ca",
-      "date": "2025-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/pacific-economic-development/news/2025/08/pacifican-invests-over-68-million-to-grow-innovative-businesses-in-coquitlam-bc.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "en",
-      "title": "PacifiCan invests $6.8 million in Coquitlam businesses",
-      "sum": "PacifiCan has provided over $6.8 million in funding to support innovative businesses in Coquitlam, British Columbia. The investment is intended to help entrepreneurs and small businesses grow and contribute to economic development in the region.",
-      "cat": "Economy",
-      "ai": true
-    },
-    {
-      "id": "378ae5398cfb36d5",
-      "date": "2025-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/housing-infrastructure-communities/news/2025/08/media-advisory-infrastructure-announcement-in-surrey.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Federal and provincial officials announce British Columbia infrastructure plans",
-      "sum": "Federal and provincial housing and infrastructure ministers, along with municipal leaders, are making an announcement regarding community infrastructure projects in British Columbia. The announcement will take place in Surrey.",
-      "cat": "Infrastructure",
-      "ai": true
-    },
-    {
-      "id": "e93c0e8a1fa6cab6",
-      "date": "2025-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/global-affairs/news/2025/08/a-statement-by-the-honourable-anita-anand-minister-of-foreign-affairs-of-canada-in-her-capacity-as-chair--g7-foreign-ministers-virtual-meeting-on-t.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "G7 Foreign Ministers meet virtually on Ukraine Independence Day",
-      "sum": "Canada's Foreign Affairs Minister, as G7 Chair, convened a virtual meeting of G7 foreign ministers and the EU High Representative with Ukraine's Foreign Minister on Ukraine's Independence Day. The meeting brought together representatives from Canada, France, Germany, Italy, Japan, the United Kingdom, the United States, and the European Union.",
-      "cat": "Foreign affairs",
-      "ai": true
-    },
-    {
-      "id": "f20e3c9ed4de8ced",
-      "date": "2025-08-25",
-      "src": "Government of Canada",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2025/08/minister-hodgson-to-travel-to-germany-to-strengthen-canadagermany-energy-partnership0.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "en",
-      "title": "Minister Hodgson travels to Germany for energy partnership",
-      "sum": "Minister of Energy and Natural Resources Tim Hodgson will travel to Germany with Prime Minister Mark Carney to advance Canada's economic and energy priorities with Germany.",
-      "cat": "Foreign affairs",
       "ai": true
     }
   ]

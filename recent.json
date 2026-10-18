@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-18T03:33:31.354Z",
+  "generatedAt": "2026-10-18T10:33:38.965Z",
   "count": 800,
   "totals": {
     "en": {
-      "actions": 8064,
+      "actions": 8063,
       "sources": 9
     },
     "fr": {
-      "actions": 6936,
+      "actions": 6937,
       "sources": 7
     }
   },
@@ -44,6 +44,68 @@
     "Announcement"
   ],
   "items": [
+    {
+      "id": "f9c16cb42e9df716",
+      "date": "2026-10-18",
+      "src": "Government of Canada",
+      "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/incident-at-canadian-forces-base-wainwright.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "en",
+      "title": "Fire at Canadian Forces Base Wainwright training area",
+      "sum": "A fire started in the training area of Canadian Forces Base Wainwright, Alberta on October 17, 2026 at approximately 4:00 p.m. local time and spread beyond the training area boundaries. Military and civilian emergency services responded to control the fire and support those affected.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "60c18cab168d7f41",
+      "date": "2026-10-18",
+      "src": "Gouvernement du Canada",
+      "url": "https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/10/incident-a-la-base-des-forces-canadiennes-wainwright.html",
+      "type": "Announcement",
+      "kind": "official",
+      "lang": "fr",
+      "title": "Incendie à la Base des Forces canadiennes Wainwright en Alberta",
+      "sum": "Un incendie s'est déclaré le 17 octobre 2026 vers 16 h dans la zone d'entraînement de la Base des Forces canadiennes Wainwright en Alberta. Le feu s'est rapidement propagé au-delà de cette zone, et les services d'urgence militaires et civils ont intervenu pour maîtriser la situation.",
+      "cat": "National defence",
+      "ai": true
+    },
+    {
+      "id": "19ffd8cd97ce1c8d",
+      "date": "2026-10-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZldDNkE4NjNJSGlvWmx5NTFkNmduOE5WRGVlbWpTNVJNYmlWaGRfNF9MMGpScEcyaE5SNzB4WnM0ajZFbWZ5aERJeGcyQWlZOHNnWDJCVldIczFMZ3dYV1Z5U05XUFdzUmVYazhqWm9RLTVDQ3VvY2RQWkg?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "COMMENTARY: On immigration, Danielle Smith is closer to Canadians than Mark Carney - Global News",
+      "excerpt": "COMMENTARY: On immigration, Danielle Smith is closer to Canadians than Mark Carney Global News",
+      "cat": "Economy"
+    },
+    {
+      "id": "5200a7b4b92fc106",
+      "date": "2026-10-18",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWlQwZmFfYkNMMFpad0hOZHh4Tjd6T0V5c1lGc1hyWnM0NW1QOE5aelNFdTFIM0Z2VGs2bEpFUkVjazgyQUNIQ0lsOU9UTkc0eFFzWHNPaHFJd19pV1ZqbE1ERmZvMU9Nb1A5MVN4dW1NcnY0NTF5NGR5c1FXb1lPVWZueVNRRlZHMnJZWExQTVlIRTVhdHBNMmRfdjVyQ2o2aS1xUlVZbF84TFBrdHpqWndUZ1dpd3AwMTNKMnBrbUpHLWoxN2ZFdmhRUFpfSlk4QXRnTDFER0tvSF9hVExNSFhuQU5WbGpaR0REeQ?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "Canada: Several dead in fire at military base in Alberta; PM Carney says \"working with local authorities\" - ANI News",
+      "excerpt": "Canada: Several dead in fire at military base in Alberta; PM Carney says \"working with local authorities\" ANI News",
+      "cat": "National defence"
+    },
+    {
+      "id": "a20ac071116165ee",
+      "date": "2026-10-17",
+      "src": "Canadian politics (via Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWm0tSFhtMG1OWlpmN0hUb3luNmJfVDhuZlowSEpUY2U1NmgtVXh6aVYxbmd2NVBhX1RCZTNTM1B5b2RCWVZaZ3Awd2IzU21ZV3JtTGVzZmhkYnR4RVRCZ0puWDg5N3ZoYzNMNVJtb1pUZ3N3dHA3SmpQM19EUkpzakdoM0U3S2l1NDZqSXZSNmhPUlFFQWhSYlRnbDZZTk1WTkM4?oc=5",
+      "type": "Announcement",
+      "kind": "news",
+      "lang": "en",
+      "title": "From ‘killing the golden goose’ to better than ever: Has Alberta's relationship with Ottawa changed? - CBC",
+      "excerpt": "From ‘killing the golden goose’ to better than ever: Has Alberta's relationship with Ottawa changed? CBC",
+      "cat": "Economy"
+    },
     {
       "id": "62aa958545bca4f5",
       "date": "2026-10-17",
@@ -10218,71 +10280,6 @@
       "title": "Nomination à la magistrature du Québec annoncée",
       "sum": "Le ministre de la Justice annonce une nomination judiciaire au Québec dans le cadre du processus de nomination mis en place en 2016.",
       "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "20bb621bcc9f8a7d",
-      "date": "2026-10-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/ministere-justice/nouvelles/2026/10/le-ministre-de-la-justice-et-procureur-general-du-canada-annonce-des-nominations-a-la-magistrature-de-lontario.html",
-      "type": "Appointment",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Nominations à la magistrature annoncées pour l'Ontario",
-      "sum": "Le ministre de la Justice annonce de nouvelles nominations de juges en Ontario selon le processus établi en 2016. Ces nominations font partie du système fédéral de sélection judiciaire.",
-      "cat": "Justice",
-      "ai": true
-    },
-    {
-      "id": "460b765f20483269",
-      "date": "2026-10-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/10/declaration-du-ministre-miller-a-loccasion-du-mois-du-patrimoine-allemand.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Le Canada souligne le Mois du patrimoine allemand",
-      "sum": "Le ministre Miller a publié une déclaration du gouvernement du Canada pour reconnaître le Mois du patrimoine allemand. Cette déclaration vise à célébrer la contribution et l'heritage de la communauté allemande au Canada.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "87bce3fa6b8276b4",
-      "date": "2026-10-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/logement-infrastructures-collectivites/nouvelles/2026/10/le-canada-et-le-nouveau-brunswick-investissent-dans-les-infrastructures-deau-et-deaux-usees-pour-soutenir-la-construction-dun-plus-grand-nombre-de-.html",
-      "type": "Spending",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Canada et Nouveau-Brunswick investissent dans infrastructures eau à Shippagan",
-      "sum": "Le Canada et le Nouveau-Brunswick financent des projets d'infrastructure d'eau et d'eaux usées à Shippagan pour soutenir la construction de nouveaux logements. Le gouvernement fédéral utilise la technologie, l'innovation et les partenariats pour augmenter l'offre de logements.",
-      "cat": "Housing",
-      "ai": true
-    },
-    {
-      "id": "2654ee7e2493ceec",
-      "date": "2026-10-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/10/declaration-du-ministre-miller-a-loccasion-du-mois-canadien-de-lhistoire-islamique.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "Déclaration du ministre Miller sur le Mois canadien de l'histoire islamique",
-      "sum": "Le gouvernement du Canada a émis une déclaration pour souligner le Mois canadien de l'histoire islamique.",
-      "cat": "Culture & heritage",
-      "ai": true
-    },
-    {
-      "id": "21baab6130717820",
-      "date": "2026-10-01",
-      "src": "Gouvernement du Canada",
-      "url": "https://www.canada.ca/fr/agence-spatiale/nouvelles/2026/10/debut-de-la-premiere-mission-spatiale-de-lastronaute-de-lagence-spatiale-canadienne-joshua-kutryk.html",
-      "type": "Announcement",
-      "kind": "official",
-      "lang": "fr",
-      "title": "L'astronaute canadien Joshua Kutryk débute sa première mission spatiale",
-      "sum": "L'astronaute de l'Agence spatiale canadienne Joshua Kutryk a commencé sa première mission spatiale à bord de la mission SpaceX Crew-13. Il se rendra à la Station spatiale internationale pour environ six mois aux côtés d'astronautes américains et d'un cosmonaute russe.",
-      "cat": "Innovation, science & industry",
       "ai": true
     }
   ]
